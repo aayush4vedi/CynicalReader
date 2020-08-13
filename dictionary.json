@@ -1,0 +1,33 @@
+{
+    "topics" : [
+        {
+            "name" : "demo_topic_name",
+            "tag" : "demo_tag_name",                // which will be assigned to content
+            "keywords" : ["synonym1", "synomym2"],  // with which I'll do keyword extraction in content
+            "subtopics" : [
+                {
+                    "name" : "subtopic1_name",
+                    "tag" : "demo_tag_name",  
+                    "keywords" : ["synonym1", "synomym2"]
+                }
+            ]
+        },
+        {
+            "name" : "data_science",
+            "tag" : "Data Science", 
+            "keywords" : ["data science"],
+            "subtopics" : [
+                {
+                    "name" : "machine_learning",
+                    "tag" : "Machine Learning",  
+                    "keywords" : ["ML", "machine learning"]
+                },
+                {
+                    "name" : "artificial_intelligence",
+                    "tag" : "Artificial Intelligence",  
+                    "keywords" : ["AI", "artificial intelligence"]
+                }
+            ]
+        }
+    ]
+}
