@@ -52,13 +52,12 @@ def get_entries(xml_root, cat_main):
     for r in xml_root.findall('{http://www.w3.org/2005/Atom}entry'):
         title = r.find('{http://www.w3.org/2005/Atom}title').text
         summary = r.find('{http://www.w3.org/2005/Atom}summary').text.replace('\n', ' ')
-        entries.append({'ID': i,
+        # entries.append({'ID': i,
+        entries.append({
                         'Topic': cat_main,
                         'Title': clean_text(title),
                         'Content': clean_text(summary)})
         i = i+1
-        # print(" ------------>> Title: {}\n".format(title))
-        # print(" ------------>> Summary: {}\n".format(summary))
     return entries
 
 
@@ -85,7 +84,7 @@ if __name__ == '__main__':
     ])
 
     start = 0
-    end = 1000
+    end = 1010
     for key, val in CATEGORIES.items():
         url = 'http://export.arxiv.org/api/query?search_query=cat:' + \
                   str(key) + '&start=' + str(start) + '&max_results=' + str(end)
@@ -100,7 +99,9 @@ if __name__ == '__main__':
         print("\n========================= *********** ===================================\n")
 
         csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/'+ str(val) + '_arxiv.csv'
-        csv_headers = ['ID','Topic','Title','Content']
+        # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/all_data_arxiv.csv'
+        csv_headers = ['Topic','Title','Content']
+        # csv_headers = ['ID','Topic','Title','Content']
 
         try:
             with open(csv_file, 'w') as csvfile:

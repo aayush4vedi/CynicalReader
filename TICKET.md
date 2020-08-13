@@ -20,10 +20,13 @@
 * [x] Scrape data from [arxiv](https://arxiv.org/) for 5 categories- 1000 entries each
   * csv file: {id, topic, title , content}
   * ISSUE: too many errors with python2, upgrading to python3. Got stuck! UPDARE: resolved
-* [] Build & compare 2 NLP models(as learnt in Udemy):
+* [x] Build & compare 2 NLP models(as learnt in Udemy):
   * #1. **Naïve Bayes**: `text_clf_nb = Pipeline([('tfidf', TfidfVectorizer()),('clf', MultinomialNB()),])`
   * #2 **Linear SVC**: `text_clf_lsvc = Pipeline([('tfidf', TfidfVectorizer()),('clf', LinearSVC()),])`
-* [] Decide which approach to go with(LDA perhaps?/Best possible score one?/)
+* [?] Decide which approach to go with(LDA perhaps?/Best possible score one?/)
+  * UPDATE: Conclusion:
+  * Sometimes Model1(NV) predicts wrong category with high accuracy
+  * Sometimes Model2(LSCV or LSCV2) predicts right category with low accuracy
 
 ## [Ticket2] Data Collection
 * [] Find out & scrape other sources of huge chunk of data
