@@ -52,8 +52,7 @@ def get_entries(xml_root, cat_main):
     for r in xml_root.findall('{http://www.w3.org/2005/Atom}entry'):
         title = r.find('{http://www.w3.org/2005/Atom}title').text
         summary = r.find('{http://www.w3.org/2005/Atom}summary').text.replace('\n', ' ')
-        # entries.append({'ID': i,
-        entries.append({
+        entries.append({'ID': i,
                         'Topic': cat_main,
                         'Title': clean_text(title),
                         'Content': clean_text(summary)})
@@ -73,6 +72,7 @@ if __name__ == '__main__':
         3. Statistics
         4. Biology
         5. Mathematics
+        5. Others
     """
 
     CATEGORIES = OrderedDict([
@@ -84,13 +84,13 @@ if __name__ == '__main__':
     ])
 
     start = 0
-    end = 1010
+    end = 10000
     for key, val in CATEGORIES.items():
         url = 'http://export.arxiv.org/api/query?search_query=cat:' + \
                   str(key) + '&start=' + str(start) + '&max_results=' + str(end)
+        # url = 'http://export.arxiv.org/api/query?search_query=cat:\cs*&start=0&max_results=10'
 
         print(" \n \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Scraping.... for {}  ///////////////////////////////// \n".format(val))
-        # url = 'http://export.arxiv.org/api/query?search_query=cat:\cs*&start=0&max_results=10'
         data = requests.get(url, timeout=None)
         root = ElementTree.fromstring(data.content)
         entries = get_entries(root, val)
@@ -98,10 +98,11 @@ if __name__ == '__main__':
         print(len(entries))
         print("\n========================= *********** ===================================\n")
 
-        csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/'+ str(val) + '_arxiv.csv'
+        csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/'+ str(val) + '_BIG2_arxiv.csv'
         # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/all_data_arxiv.csv'
-        csv_headers = ['Topic','Title','Content']
-        # csv_headers = ['ID','Topic','Title','Content']
+
+        # csv_headers = ['Topic','Title','Content']
+        csv_headers = ['ID','Topic','Title','Content']
 
         try:
             with open(csv_file, 'w') as csvfile:

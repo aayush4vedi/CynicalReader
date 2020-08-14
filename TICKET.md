@@ -27,6 +27,8 @@
   * UPDATE: Conclusion:
   * Sometimes Model1(NV) predicts wrong category with high accuracy
   * Sometimes Model2(LSCV or LSCV2) predicts right category with low accuracy
+  * Where to go from here??
 
-## [Ticket2] Data Collection
-* [] Find out & scrape other sources of huge chunk of data
+## [Ticket2] LDA POC : (14Aug20-)
+* [] Figure Out scraping @Honey
+* [] Build LDA POC @Manchan
