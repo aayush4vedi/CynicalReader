@@ -39,15 +39,21 @@
       * UPDATE: 
         * will go with algolia's `http://hn.algolia.com/api/v1/search_by_date?tags=story&numericFilters=created_at_i>1597352419,created_at_i<1597525219,points>50`
         * Since API lim is 10k hits/hour; will give weekly epoch range & scrape per hour
-        * Schema: ID,Source(=HN), Time(IST), Upvotes,NumComments, Title, Url 
+        * Schema: ID,Source(=HN), Time(IST), Upvotes,NumComments, Title, Url , Content, WeightedContent
+        * TODO: Need to have full title(not preprocessed) as I need to decide the topic based on that.Preprocessing to be done while feeding to Algo
+        * TODO: Handle brokern/forbidden urls
+        * TODO: [x] handle https urls: tmp fixed(https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror), permanent soln later
   * 2. Inidvidual article linked website.Things to keep in mind:
     * Get meaningful content only i.e. remove ads, comments etc.
       * Appr1: Use someting like [boilerpipe](https://stackoverflow.com/questions/13791316/how-to-extract-meaningful-and-useful-content-from-web-pages) and use Adblockers data [ref](https://www.researchgate.net/post/How_do_I_extract_the_content_from_dynamic_web_pages)
       * App2: `python-readability` [link](https://github.com/buriy/python-readability) seems to work & gives only the main body(along with `doc.title()` & `doc.summary()`)
         * [] Test `python-readability` for credebility on misc types websites
         * [] if it works, still have to do:
-          * remove videos/images
-          * remove HTML tags(while keeping content inside <a> & <h12..>)-is there any way to give more weight to <hx>words</hx>
+          * HTML:
+            * get text *outside* tags => Content
+            * get text *inside* tags => WeightedContent
+          * images => get `alt` value of <img> for WeightedContent col 
+          * videos/Anything else  => remove
   * 99. Last resort-PAID service [simplescrapper](https://simplescraper.io/)
 * [] Build LDA POC @Manchan for finding all the topics list on HN
   * Tfidf will give good result in topic prediction(with comparison to Lda & bag of word)
