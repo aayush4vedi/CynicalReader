@@ -1076,470 +1076,452 @@ ID,Source,TimeGST,TimeEpoch,Upvotes,NumComments,Title,Url
 1075,HackerNews,2020-08-14T10:55:27.000Z,1597402527,146,44,hubble find betelgeuse dimming likely due ejection gas,https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html
 1076,HackerNews,2020-08-14T10:54:48.000Z,1597402488,153,115,redefining sustainable fishing mean,http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means
 1077,HackerNews,2020-08-14T10:27:34.000Z,1597400854,168,47,darktable,https://www.darktable.org/news/
-1078,HackerNews,2020-08-14T09:49:48.000Z,1597398588,213,193,instagram kept deleted photo message server year,https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed
-1079,HackerNews,2020-08-14T09:40:45.000Z,1597398045,111,20,taiwan digital minister solved mask supply problem,https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/
-1080,HackerNews,2020-08-14T09:12:32.000Z,1597396352,1824,602,factorio,https://factorio.com/blog/post/fff-360
-1081,HackerNews,2020-08-14T09:01:34.000Z,1597395694,83,30,software bug cause yam cryptocurrency implode two day launch,https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/
-1082,HackerNews,2020-08-14T08:52:46.000Z,1597395166,196,167,german digital bank facing outcry staff management,https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html
-1083,HackerNews,2020-08-14T07:26:57.000Z,1597390017,89,31,ansible,https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html
-1084,HackerNews,2020-08-14T06:28:04.000Z,1597386484,253,61,database historical cookbook,https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks
-1085,HackerNews,2020-08-14T06:07:19.000Z,1597385239,116,58,implementing typesafe printf rust,https://willcrichton.net/notes/type-safe-printf/
-1086,HackerNews,2020-08-14T05:47:01.000Z,1597384021,79,56,benign data race considered harmful,https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/
-1087,HackerNews,2020-08-14T04:18:08.000Z,1597378688,193,237,save usps,https://2pml.com/2020/08/10/usps/
-1088,HackerNews,2020-08-14T04:10:58.000Z,1597378258,463,140,apple music android asks user card detail avoid google cut,https://reddit.com/r/apple/comments/hb0jl8/
-1089,HackerNews,2020-08-14T02:17:08.000Z,1597371428,124,63,web browser need stop enough enough,https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html
-1090,HackerNews,2020-08-14T02:03:18.000Z,1597370598,174,163,google forced oneplus decimate fortnite launcher deal claim epic game,https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg
-1091,HackerNews,2020-08-14T02:01:10.000Z,1597370470,168,124,epic mock apple iconic ad possible revenge app store ban,https://www.theverge.com/2020/8/13/21367904/epic-parody-apple-1984-ad-fortnite-removal-app-store
-1092,HackerNews,2020-08-14T01:31:49.000Z,1597368709,80,13,epic game also suing google fortnites removal play store,https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal
-1093,HackerNews,2020-08-14T01:23:56.000Z,1597368236,244,74,street view new york,https://1940s.nyc/
-1094,HackerNews,2020-08-14T00:28:05.000Z,1597364885,124,78,nixon deepfake moon disaster speech information ecosystem risk,https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/
-1095,HackerNews,2020-08-13T23:01:34.000Z,1597359694,214,163,new php,https://stitcher.io/blog/new-in-php-8?ref=hn
-1096,HackerNews,2020-08-13T22:56:09.000Z,1597359369,478,497,fortnite seems removed play store well,https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=en_US
-1097,HackerNews,2020-08-13T22:02:52.000Z,1597356172,345,47,free video streaming service run,https://github.com/rossumur/espflix
-1098,HackerNews,2020-08-13T21:17:41.000Z,1597353461,546,728,fed say yale discriminates asian white applicant,https://apnews.com/e97f08eb935989840bda430bb7a32e15
-1099,HackerNews,2020-08-13T21:16:55.000Z,1597353415,259,63,arecibo radio telescope go dark snapped cable shred dish,https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish
-1100,HackerNews,2020-08-13T21:13:03.000Z,1597353183,86,16,found miniature incan llama bottom lake titicaca,https://www.atlasobscura.com/articles/found-llama-gold-titicaca
-1101,HackerNews,2020-08-13T21:05:41.000Z,1597352741,80,20,metaplane metadata catalog modern data team,https://metaplane.dev
-1102,HackerNews,2020-08-13T21:03:38.000Z,1597352618,299,103,mauritius oil spill serious,https://www.bbc.com/news/world-africa-53754751
-1103,HackerNews,2020-08-13T20:58:51.000Z,1597352331,245,74,adventure improving ai economics,https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/
-1104,HackerNews,2020-08-13T20:34:34.000Z,1597350874,160,104,physic hot water sometimes freeze faster cold water,https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/
-1105,HackerNews,2020-08-13T20:32:39.000Z,1597350759,101,39,epic published ingame macintosh commercial spoof response apple,https://www.youtube.com/watch?v=ZYXnaKmXqGs
-1106,HackerNews,2020-08-13T20:16:35.000Z,1597349795,317,159,epic game release nineteen eightyfortnite ad,https://www.youtube.com/watch?v=euiSHuaw6Q4
-1107,HackerNews,2020-08-13T20:12:32.000Z,1597349552,222,129,research say solo founder perform better,https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why
-1108,HackerNews,2020-08-13T20:03:45.000Z,1597349025,136,79,trump block postal fund prevent expanded mailin voting,https://www.bbc.com/news/election-us-2020-53772526
-1109,HackerNews,2020-08-13T19:36:50.000Z,1597347410,669,638,epic game filed legal paper response apple pdf,https://cdn2.unrealengine.com/apple-complaint-734589783.pdf
-1110,HackerNews,2020-08-13T19:03:23.000Z,1597345403,1690,1414,apple kicked fortnite app store,https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments
-1111,HackerNews,2020-08-13T18:57:34.000Z,1597345054,588,484,apple remove fortnite app store epic attempt bypass fee,https://twitter.com/markgurman/status/1293984069722636288
-1112,HackerNews,2020-08-13T18:48:24.000Z,1597344504,171,259,parent worried infection school work paying bill,https://www.interest.com/mortgage/pandemic-top-parent-school-vs-mortgage-worries/
-1113,HackerNews,2020-08-13T18:32:48.000Z,1597343568,205,61,write adrs,https://github.blog/2020-08-13-why-write-adrs/
-1114,HackerNews,2020-08-13T18:28:15.000Z,1597343295,143,101,google update tank traffic,https://www.painscience.com/microblog/google-strikes-again.html
-1115,HackerNews,2020-08-13T17:47:16.000Z,1597340836,83,35,supercapacitors standard brick,https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/
-1116,HackerNews,2020-08-13T17:34:11.000Z,1597340051,76,64,post office deactivating mail sorting machine ahead election,https://www.vice.com/en_us/article/n7wk9z/the-post-office-is-deactivating-mail-sorting-machines-ahead-of-the-election
-1117,HackerNews,2020-08-13T17:13:43.000Z,1597338823,133,172,jira microcosm broken software development,https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/
-1118,HackerNews,2020-08-13T16:05:53.000Z,1597334753,166,32,google differential privacy library,https://github.com/google/differential-privacy
-1119,HackerNews,2020-08-13T15:52:09.000Z,1597333929,178,49,yc startup school build sprint equityfree grant,https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/
-1120,HackerNews,2020-08-13T14:59:27.000Z,1597330767,320,233,air pollution worse thought,https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths
-1121,HackerNews,2020-08-13T14:55:47.000Z,1597330547,124,153,israel uae reach historic peace deal israel suspend annexation,https://www.jpost.com/breaking-news/israel-and-uae-reach-historic-peace-deal-638524
-1122,HackerNews,2020-08-13T14:42:26.000Z,1597329746,422,331,much rustwasmtime team hit layoff mozilla,https://twitter.com/tschneidereit/status/1293868141953667074
-1123,HackerNews,2020-08-13T14:21:15.000Z,1597328475,262,228,docker update tos image retention limit imposed free account,https://www.docker.com/pricing/retentionfaq
-1124,HackerNews,2020-08-13T14:03:53.000Z,1597327433,115,31,linux kernel decompresses,https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses
-1125,HackerNews,2020-08-13T13:55:31.000Z,1597326931,409,357,epic direct payment mobile,https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent
-1126,HackerNews,2020-08-13T13:06:36.000Z,1597323996,118,153,intel gen core tiger lake soc detailed,https://www.anandtech.com/show/15971/intels-11th-gen-core-tiger-lake-soc-detailed-superfin-willow-cove-and-xelp/2
-1127,HackerNews,2020-08-13T12:28:31.000Z,1597321711,83,86,riot political theory reading list,https://www.southampton.ac.uk/politics/news/2020/06/11-riots-and-political-theory.page
-1128,HackerNews,2020-08-13T12:27:59.000Z,1597321679,159,47,aeronabs inhalable protection,https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19
-1129,HackerNews,2020-08-13T12:04:01.000Z,1597320241,113,57,significant javascript project,https://bestofjs.org/timeline
-1130,HackerNews,2020-08-13T10:06:33.000Z,1597313193,259,358,cult free must die,https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html
-1131,HackerNews,2020-08-13T09:53:00.000Z,1597312380,239,100,expiring v permanent skill,https://www.collaborativefund.com/blog/expiring-vs-permanent-skills
-1132,HackerNews,2020-08-13T09:43:08.000Z,1597311788,141,105,handle better pointer,https://floooh.github.com/2018/06/17/handles-vs-pointers.html
-1133,HackerNews,2020-08-13T09:32:26.000Z,1597311146,104,28,pyidm python opensource alternative internet download manager,https://github.com/pyIDM/PyIDM
-1134,HackerNews,2020-08-13T08:25:09.000Z,1597307109,452,159,stopping phishing campaign bash,https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html
-1135,HackerNews,2020-08-13T07:30:18.000Z,1597303818,160,213,rust stable abi,https://people.gnome.org/~federico/blog/rust-stable-abi.html
-1136,HackerNews,2020-08-13T07:23:28.000Z,1597303408,209,93,entropy explained sheep,https://aatishb.com/entropy/
-1137,HackerNews,2020-08-13T07:13:15.000Z,1597302795,196,56,sigil free opensource multiplatform ebook editor,https://github.com/Sigil-Ebook/Sigil
-1138,HackerNews,2020-08-13T07:12:10.000Z,1597302730,86,49,behavior resembling adhd may linked increased entrepreneurial behavior,https://www.sciencedaily.com/releases/2020/08/200812164926.htm
-1139,HackerNews,2020-08-13T04:28:53.000Z,1597292933,117,55,better c compiler,https://briancallahan.net/blog/20200812.html
-1140,HackerNews,2020-08-13T03:59:44.000Z,1597291184,353,246,nsa owns everything,https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html
-1141,HackerNews,2020-08-13T03:57:03.000Z,1597291023,257,184,gitoxide pure rust implementation git,https://github.com/Byron/gitoxide
-1142,HackerNews,2020-08-13T03:27:15.000Z,1597289235,155,60,new chapter pypy,https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html
-1143,HackerNews,2020-08-13T02:22:54.000Z,1597285374,310,120,show hn made bedtime calculator react javascript,https://www.sleepsources.com/bed-time-calculator/
-1144,HackerNews,2020-08-13T02:06:30.000Z,1597284390,695,237,young child would rather explore get reward,https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/
-1145,HackerNews,2020-08-13T01:17:18.000Z,1597281438,84,144,cardboard theft,https://www.bbc.com/news/business-53724620
-1146,HackerNews,2020-08-13T01:07:57.000Z,1597280877,85,20,entire mozilla mdn team laid,https://twitter.com/i/web/status/1293264395603148802
-1147,HackerNews,2020-08-13T01:04:17.000Z,1597280657,134,22,selfpublishing edition ansible devops,https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops
-1148,HackerNews,2020-08-13T00:07:17.000Z,1597277237,390,143,vitamin part back basic,https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics
-1149,HackerNews,2020-08-12T21:20:25.000Z,1597267225,107,299,hyperloop pipe fancy,https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport
-1150,HackerNews,2020-08-12T21:03:48.000Z,1597266228,394,68,new jupyter book,https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e
-1151,HackerNews,2020-08-12T20:58:33.000Z,1597265913,1277,315,thank mdn,https://www.ilovemdn.org/
-1152,HackerNews,2020-08-12T20:05:44.000Z,1597262744,96,35,set probability,https://stopa.io/post/243
-1153,HackerNews,2020-08-12T19:34:30.000Z,1597260870,80,36,git deletion merged branch taken beyond shell hack,https://github.com/hartwork/git-delete-merged-branches
-1154,HackerNews,2020-08-12T19:10:42.000Z,1597259442,144,287,dishwashing detergent hack two ingredient,https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients
-1155,HackerNews,2020-08-12T18:30:30.000Z,1597257030,630,319,rob pike rule programming,http://users.ece.utexas.edu/~adnan/pike.html
-1156,HackerNews,2020-08-12T18:16:53.000Z,1597256213,1516,306,mozilla lifeboat,https://mozillalifeboat.com
-1157,HackerNews,2020-08-12T17:33:22.000Z,1597253602,187,33,belarus election police use live fire protester brest,https://www.bbc.com/news/world-europe-53748748
-1158,HackerNews,2020-08-12T17:08:27.000Z,1597252107,249,152,currently ad techdirt apparently google think dangerous,https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml
-1159,HackerNews,2020-08-12T16:09:38.000Z,1597248578,153,63,unraveling mindset victimhood,https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/
-1160,HackerNews,2020-08-12T16:07:24.000Z,1597248444,444,252,surveyed american say ca nt job without internet,https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/
-1161,HackerNews,2020-08-12T15:55:05.000Z,1597247705,254,127,net insect abundance diversity decline across u,https://www.nature.com/articles/s41559-020-1269-4
-1162,HackerNews,2020-08-12T15:53:16.000Z,1597247596,115,78,veteran submariner sonar crew tirelessly hunt enemy ca nt see,https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see
-1163,HackerNews,2020-08-12T15:40:56.000Z,1597246856,285,112,raise le money,https://www.aaronkharris.com/raise-less-money
-1164,HackerNews,2020-08-12T15:39:02.000Z,1597246742,206,203,qemu move c rust,http://blog.vmsplice.net/2020/08/why-qemu-should-move-from-c-to-rust.html
-1165,HackerNews,2020-08-12T15:03:14.000Z,1597244594,396,821,uber ceo say service probably shut temporarily california,https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html
-1166,HackerNews,2020-08-12T14:55:32.000Z,1597244132,179,46,show hn kinopioclub visual thinking brainstorming tool,https://kinopio.club
-1167,HackerNews,2020-08-12T14:53:20.000Z,1597244000,199,65,timescale cloud multicloud fullymanaged timeseries aws azure gcp,https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/
-1168,HackerNews,2020-08-12T14:46:48.000Z,1597243608,128,36,aws tagging best practice,https://www.cloudforecast.io/blog/aws-tagging-best-practices/
-1169,HackerNews,2020-08-12T14:43:33.000Z,1597243413,311,176,mozilla laid dev tool people entire mdn team,https://twitter.com/SteveALee/status/1293487542382333952
-1170,HackerNews,2020-08-12T14:19:35.000Z,1597241975,90,81,available preorder today surface duo,https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/
-1171,HackerNews,2020-08-12T14:19:09.000Z,1597241949,166,61,storybook new favourite tool frontend development,https://medium.com/storybookjs/storybook-6-0-1e14a2071000
-1172,HackerNews,2020-08-12T12:22:26.000Z,1597234946,112,25,atlas endtoend scene reconstruction posed image,https://github.com/magicleap/atlas
-1173,HackerNews,2020-08-12T11:37:56.000Z,1597232276,86,129,freedom simple,https://www.arp242.net/freedom.html
-1174,HackerNews,2020-08-12T11:28:02.000Z,1597231682,81,27,python textbook jupyter notebook,https://github.com/blobcity/python-for-data-science
-1175,HackerNews,2020-08-12T11:23:02.000Z,1597231382,87,14,cellular automaton convolutional neural network,https://arxiv.org/abs/1809.02942
-1176,HackerNews,2020-08-12T11:08:51.000Z,1597230531,79,10,intel progress mo modified linux kernel running lightweight kernel,https://www.phoronix.com/scan.php?page=news_item&px=Intel-mOS-Multi-OS-Linux
-1177,HackerNews,2020-08-12T11:06:44.000Z,1597230404,233,77,simple sql python,https://github.com/nackjicholson/aiosql
-1178,HackerNews,2020-08-12T10:06:14.000Z,1597226774,81,80,microsoft surface duo dualscreen android phone,https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs
-1179,HackerNews,2020-08-12T09:18:13.000Z,1597223893,123,14,lte call,https://revolte-attack.net/
-1180,HackerNews,2020-08-12T08:53:19.000Z,1597222399,289,409,china hire tsmc engineer push chip leadership,https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership
-1181,HackerNews,2020-08-12T08:25:01.000Z,1597220701,117,64,show hn neuralcam live using ml turn iphones smart webcam,https://neural.cam/news/
-1182,HackerNews,2020-08-12T08:20:58.000Z,1597220458,712,102,joan feynman died,https://www.aps.org/publications/apsnews/updates/feynman.cfm
-1183,HackerNews,2020-08-12T07:51:43.000Z,1597218703,78,60,zin boat reinvents electric boat bid become tesla sea,https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/
-1184,HackerNews,2020-08-12T07:38:44.000Z,1597217924,79,41,unraveling linothorax mystery,https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/
-1185,HackerNews,2020-08-12T06:58:24.000Z,1597215504,162,146,amazon business model meet sweden labor union,https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/
-1186,HackerNews,2020-08-12T06:45:27.000Z,1597214727,173,351,one snap store,https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/
-1187,HackerNews,2020-08-12T06:40:57.000Z,1597214457,75,59,zx spectrum next issue,https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2
-1188,HackerNews,2020-08-12T06:36:10.000Z,1597214170,161,33,diy satellite ground station receive noaa image,https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station
-1189,HackerNews,2020-08-12T06:27:57.000Z,1597213677,131,72,file handling unix tip trap outright badness,https://rachelbythebay.com/w/2020/08/11/files/
-1190,HackerNews,2020-08-12T05:53:35.000Z,1597211615,84,52,drogon rapid http web application framework,https://github.com/an-tao/drogon
-1191,HackerNews,2020-08-12T05:35:57.000Z,1597210557,132,65,broken cable smashed hole foot wide arecibo observatory,https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8
-1192,HackerNews,2020-08-12T05:32:40.000Z,1597210360,229,160,mozilla fire servo devs security response team,https://twitter.com/directhex/status/1293352458308198401
-1193,HackerNews,2020-08-12T03:32:38.000Z,1597203158,356,259,bertrand russell argument idleness relevant ever,https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever
-1194,HackerNews,2020-08-12T01:30:34.000Z,1597195834,370,285,court dismisses genius lawsuit lyricsscraping google,https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/
-1195,HackerNews,2020-08-12T00:58:20.000Z,1597193900,274,160,mitochondrion may hold key anxiety mental health,https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/
-1196,HackerNews,2020-08-11T23:46:07.000Z,1597189567,189,161,transparent oled,https://oled.com/oleds/transparent-oleds-toleds/
-1197,HackerNews,2020-08-11T22:29:54.000Z,1597184994,123,33,puma ai platform pharmaceutical modeling simulation,http://pumas.ai
-1198,HackerNews,2020-08-11T22:25:21.000Z,1597184721,209,150,let build raspberry pi cluster,https://ikarus.sg/how-i-built-kraken/
-1199,HackerNews,2020-08-11T21:20:00.000Z,1597180800,133,70,go released,https://golang.org/dl/
-1200,HackerNews,2020-08-11T21:17:53.000Z,1597180673,197,104,system monitoring prometheus grafana,https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/
-1201,HackerNews,2020-08-11T20:58:37.000Z,1597179517,91,55,sixty year green egg ham,https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/
-1202,HackerNews,2020-08-11T18:55:30.000Z,1597172130,152,19,chevron trying crush prominent climate lawyer,https://earther.gizmodo.com/chevron-is-trying-to-crush-a-prominent-climate-lawyer-a-1844685508
-1203,HackerNews,2020-08-11T18:37:40.000Z,1597171060,167,75,datadog release incident management profiler error tracking,https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/
-1204,HackerNews,2020-08-11T18:26:06.000Z,1597170366,344,328,never use dependency could replace afternoon programming,https://blog.carlmjohnson.net/post/2020/avoid-dependencies/
-1205,HackerNews,2020-08-11T18:20:48.000Z,1597170048,82,32,ondevice supermarket product recognition,https://ai.googleblog.com/2020/07/on-device-supermarket-product.html
-1206,HackerNews,2020-08-11T18:18:40.000Z,1597169920,101,24,video learning org mode,https://orgmodeforbeginners.com/
-1207,HackerNews,2020-08-11T18:17:21.000Z,1597169841,202,99,netsurf multiplatform web browser,https://www.netsurf-browser.org/
-1208,HackerNews,2020-08-11T18:02:45.000Z,1597168965,115,293,elite dogooders fixing world part problem giridharadas,https://www.cbc.ca/radio/ideas/how-elite-do-gooders-fixing-the-world-are-part-of-the-problem-anand-giridharadas-1.5441573
-1209,HackerNews,2020-08-11T17:49:25.000Z,1597168165,209,54,classic book tech lead aspiring,https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be
-1210,HackerNews,2020-08-11T17:44:05.000Z,1597167845,549,102,bevy datadriven game engine app framework built rust,https://bevyengine.org/news/introducing-bevy/
-1211,HackerNews,2020-08-11T17:12:35.000Z,1597165955,239,223,mozilla laying people planning new focus making money,https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus
-1212,HackerNews,2020-08-11T16:47:13.000Z,1597164433,95,145,airbnb plan file confidentially ipo august,https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041
-1213,HackerNews,2020-08-11T16:34:02.000Z,1597163642,270,431,developer get hit bus get hired netflix,https://www.neomindlabs.com/post/your-developer-wont-get-hit-by-a-bus-theyll-get-hired-by-netflix
-1214,HackerNews,2020-08-11T16:29:45.000Z,1597163385,222,287,tsa considers new system flyer without id,https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/
-1215,HackerNews,2020-08-11T16:15:23.000Z,1597162523,152,84,small business dying thousand one tracking carnage,https://www.bloomberg.com/news/articles/2020-08-11/small-firms-die-quietly-leaving-thousands-of-failures-uncounted
-1216,HackerNews,2020-08-11T15:15:36.000Z,1597158936,83,29,mozilla lay employee refocuses commercial product,https://www.zdnet.com/article/mozilla-lays-off-250-employees-while-it-refocuses-on-commercial-products/
-1217,HackerNews,2020-08-11T15:00:05.000Z,1597158005,282,385,case google regulated public utility,https://www.rankscience.com/blog/why-google-should-be-regulated-as-a-public-utility
-1218,HackerNews,2020-08-11T14:51:50.000Z,1597157510,159,71,lenovo fedorapowered thinkpad everything want linux laptop,https://www.forbes.com/sites/jasonevangelho/2020/08/10/lenovo-new-thinkpad-p53-fedora-linux-laptop
-1219,HackerNews,2020-08-11T14:29:54.000Z,1597156194,183,182,browser extension ca nt live without,https://blog.maskys.com/my-best-chrome-extensions/
-1220,HackerNews,2020-08-11T14:06:11.000Z,1597154771,362,257,coworker never stop refactoring,https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/
-1221,HackerNews,2020-08-11T14:03:56.000Z,1597154636,1598,1210,mozilla lay employee refocuses commercial product,https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/
-1222,HackerNews,2020-08-11T14:03:06.000Z,1597154586,228,45,show hn eventnative opensource user event collection service,https://github.com/ksensehq/eventnative
-1223,HackerNews,2020-08-11T14:00:51.000Z,1597154451,881,477,single page application using rust,http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
-1224,HackerNews,2020-08-11T13:57:39.000Z,1597154259,795,278,stop procrastinating using fogg behavior model,https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
-1225,HackerNews,2020-08-11T13:29:27.000Z,1597152567,179,64,emulating window system call linux,https://lwn.net/Articles/824380/
-1226,HackerNews,2020-08-11T13:28:12.000Z,1597152492,611,274,belarus shut internet amid controversial election,https://www.wired.com/story/belarus-internet-outage-election/
-1227,HackerNews,2020-08-11T13:12:23.000Z,1597151543,160,168,microstrategy adopts bitcoin primary treasury reserve asset,https://ir.microstrategy.com/news-releases/news-release-details/microstrategy-adopts-bitcoin-primary-treasury-reserve-asset
-1228,HackerNews,2020-08-11T13:03:08.000Z,1597150988,100,67,bucklescript rebranding,https://reasonml.org/blog/bucklescript-is-rebranding
-1229,HackerNews,2020-08-11T11:53:12.000Z,1597146792,91,17,helping native bee thrive honeybee world,https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world
-1230,HackerNews,2020-08-11T11:21:35.000Z,1597144895,79,83,mon valley community test time credit new form currency,https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency
-1231,HackerNews,2020-08-11T11:10:28.000Z,1597144228,329,41,creating qr code step step,https://www.nayuki.io/page/creating-a-qr-code-step-by-step
-1232,HackerNews,2020-08-11T11:09:34.000Z,1597144174,178,342,keyboard blank keycaps made expert typist,https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist
-1233,HackerNews,2020-08-11T11:09:23.000Z,1597144163,232,66,juliadb,https://juliadata.github.io/JuliaDB.jl/latest/
-1234,HackerNews,2020-08-11T11:08:16.000Z,1597144096,129,55,show hn jet inmemory faulttolerant distributed stream processing,https://github.com/hazelcast/hazelcast-jet
-1235,HackerNews,2020-08-11T10:47:53.000Z,1597142873,482,337,accidentally built nudityporn platform,https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/
-1236,HackerNews,2020-08-11T09:32:21.000Z,1597138341,160,89,office drama macos,https://objective-see.com/blog/blog_0x4B.html
-1237,HackerNews,2020-08-11T09:04:22.000Z,1597136662,129,10,generative art cs,https://generative-art-with-css.commons.host/
-1238,HackerNews,2020-08-11T08:51:26.000Z,1597135886,188,33,invoicenet neural network extract information invoice document,https://github.com/naiveHobo/InvoiceNet
-1239,HackerNews,2020-08-11T07:51:44.000Z,1597132304,154,65,language almost became cs,https://eager.io/blog/the-languages-which-almost-were-css/
-1240,HackerNews,2020-08-11T07:33:45.000Z,1597131225,80,22,prediction substitute review,https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/
-1241,HackerNews,2020-08-11T06:41:24.000Z,1597128084,154,125,golang desktop app webviewlorca wasm bazel,https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89
-1242,HackerNews,2020-08-11T06:27:29.000Z,1597127249,227,354,tiktok sue u ban,https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday
-1243,HackerNews,2020-08-11T05:07:02.000Z,1597122422,232,37,parallel seam carving,https://shwestrick.github.io/2020/07/29/seam-carve.html
-1244,HackerNews,2020-08-11T03:05:56.000Z,1597115156,126,29,mesmerizing geometry malaysia complex cake,https://www.atlasobscura.com/articles/kek-lapis-sarawak
-1245,HackerNews,2020-08-10T23:29:36.000Z,1597102176,153,60,cloud traffic,https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News
-1246,HackerNews,2020-08-10T23:04:33.000Z,1597100673,369,195,emacs,https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html
-1247,HackerNews,2020-08-10T22:46:46.000Z,1597099606,264,175,tragic physic deadly explosion beirut,https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/
-1248,HackerNews,2020-08-10T22:19:58.000Z,1597097998,203,172,u marshal service online auction fyre festival fraud scheme,https://txauction.com/auctions/911/
-1249,HackerNews,2020-08-10T21:44:00.000Z,1597095840,197,86,three bay area,https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727
-1250,HackerNews,2020-08-10T21:29:08.000Z,1597094948,767,740,uber lyft ordered california judge classify driver employee,https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling
-1251,HackerNews,2020-08-10T21:13:31.000Z,1597094011,393,162,celebrate woz,https://www.wozbday.com
-1252,HackerNews,2020-08-10T21:05:37.000Z,1597093537,227,118,react release candidate new feature,https://reactjs.org/blog/2020/08/10/react-v17-rc.html
-1253,HackerNews,2020-08-10T20:54:11.000Z,1597092851,141,72,kicking replit programming language jam,https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105
-1254,HackerNews,2020-08-10T20:47:29.000Z,1597092449,637,252,planet cere ocean world sea water beneath surface mission find,https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface
-1255,HackerNews,2020-08-10T20:43:01.000Z,1597092181,184,436,one ballot rejected last month votebymail election new jersey,https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/
-1256,HackerNews,2020-08-10T18:16:06.000Z,1597083366,137,6,ux design tool method framework generalist,https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design
-1257,HackerNews,2020-08-10T16:56:24.000Z,1597078584,195,200,epa rescind methane regulation oil gas,https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802
-1258,HackerNews,2020-08-10T16:27:20.000Z,1597076840,123,26,wiltshire valley local build mobile phone network,https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/
-1259,HackerNews,2020-08-10T16:26:52.000Z,1597076812,347,391,clean network united state department state,https://www.state.gov/5g-clean-network/
-1260,HackerNews,2020-08-10T15:13:18.000Z,1597072398,146,64,got favicon,https://thehistoryoftheweb.com/how-we-got-the-favicon/
-1261,HackerNews,2020-08-10T14:50:28.000Z,1597071028,377,113,vulnerability qualcomm snapdragon chip,https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/
-1262,HackerNews,2020-08-10T14:39:01.000Z,1597070341,168,139,wiki bankruptcy,https://critter.blog/2020/08/10/wiki-bankruptcy/
-1263,HackerNews,2020-08-10T14:38:31.000Z,1597070311,333,162,like octopus,https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker
-1264,HackerNews,2020-08-10T14:37:25.000Z,1597070245,86,173,new fitness habit created covid,https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff
-1265,HackerNews,2020-08-10T14:36:05.000Z,1597070165,113,73,apple ad network get preferential access user data v facebook google,https://www.forbes.com/sites/johnkoetsier/2020/08/07/apple-ad-network-gets-special-privileges-that-facebook-google-wont-on-ios14/
-1266,HackerNews,2020-08-10T14:30:47.000Z,1597069847,143,69,nice problem nt solve,https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now
-1267,HackerNews,2020-08-10T14:24:27.000Z,1597069467,164,162,boeing receive software update floppy disk,https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/
-1268,HackerNews,2020-08-10T14:12:32.000Z,1597068752,127,19,forgotten one hp nanoprocessor,http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/
-1269,HackerNews,2020-08-10T14:08:56.000Z,1597068536,289,411,ups bought home server may useful think,https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/
-1270,HackerNews,2020-08-10T13:24:50.000Z,1597065890,393,354,pdf still unfit human consumption year later,https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/
-1271,HackerNews,2020-08-10T12:20:56.000Z,1597062056,217,27,olric distributed inmemory data structure go,https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=
-1272,HackerNews,2020-08-10T12:20:31.000Z,1597062031,139,95,nsa tip keep phone tracking,https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/
-1273,HackerNews,2020-08-10T11:32:41.000Z,1597059161,221,212,c never stop making mistake,https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you
-1274,HackerNews,2020-08-10T10:48:16.000Z,1597056496,85,40,tech monopoly reason u tiktok problem,https://promarket.org/2020/08/07/tech-monopolies-are-the-reason-the-us-now-has-a-tiktok-problem/
-1275,HackerNews,2020-08-10T10:40:51.000Z,1597056051,168,76,periodic table colour coded likely origin element,https://twitter.com/olivertlord/status/1292562140776271872
-1276,HackerNews,2020-08-10T10:29:18.000Z,1597055358,218,142,software free,https://www.gnu.org/philosophy/shouldbefree.en.html
-1277,HackerNews,2020-08-10T10:11:29.000Z,1597054289,333,667,ceo uber gig worker deserve better,https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html
-1278,HackerNews,2020-08-10T08:26:42.000Z,1597048002,121,36,spacetime wave packet new class laser defies law light physic,https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/
-1279,HackerNews,2020-08-10T07:40:03.000Z,1597045203,411,456,better sql,https://edgedb.com/blog/we-can-do-better-than-sql/
-1280,HackerNews,2020-08-10T07:30:01.000Z,1597044601,256,183,tried starting manufacturing unit india,https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/
-1281,HackerNews,2020-08-10T06:28:49.000Z,1597040929,297,141,linux backdoor attempt,https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/
-1282,HackerNews,2020-08-10T05:09:15.000Z,1597036155,100,54,codata action connect fp oop,https://www.javiercasas.com/articles/codata-in-action/
-1283,HackerNews,2020-08-10T05:03:59.000Z,1597035839,111,55,tripping pothole many library,http://rachelbythebay.com/w/2020/08/09/lib/
-1284,HackerNews,2020-08-10T04:19:54.000Z,1597033194,207,288,fact fit anticolonialist narrative,https://unherd.com/2020/08/anti-colonialists-must-tell-the-truth-about-empire/
-1285,HackerNews,2020-08-10T04:10:15.000Z,1597032615,435,265,statement google conduct founder celebritynetworthcom pdf,https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf
-1286,HackerNews,2020-08-10T03:47:03.000Z,1597031223,445,336,hong kong medium tycoon jimmy lai arrested national security law,https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L
-1287,HackerNews,2020-08-10T03:38:00.000Z,1597030680,241,71,photo bell lab datacenter,https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/
-1288,HackerNews,2020-08-10T03:34:23.000Z,1597030463,151,28,hong kong prodemocracy tycoon jimmy lai arrested,https://www.bbc.com/news/world-asia-china-53717843
-1289,HackerNews,2020-08-10T02:31:57.000Z,1597026717,100,131,man saved kyoto atomic bomb,https://www.bbc.com/news/world-asia-33755182
-1290,HackerNews,2020-08-10T02:29:30.000Z,1597026570,489,515,microsoft president need hippocratic oath software engineer,https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn
-1291,HackerNews,2020-08-10T01:46:34.000Z,1597023994,427,367,long freezer stay frozen power go,https://woodgears.ca/heating/freezer.html
-1292,HackerNews,2020-08-09T23:13:33.000Z,1597014813,681,417,fed announces detail new interbank service support instant payment,https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm
-1293,HackerNews,2020-08-09T23:12:16.000Z,1597014736,792,185,want aws region everything break high frequency,https://twitter.com/cperciva/status/1292260921893457920
-1294,HackerNews,2020-08-09T23:08:46.000Z,1597014526,100,122,counterintuitive recession ever,https://awealthofcommonsense.com/2020/08/the-most-counterintuitive-recession-ever/
-1295,HackerNews,2020-08-09T22:34:43.000Z,1597012483,92,60,coalfired plant converted natural gas since,https://www.eia.gov/todayinenergy/detail.php?id=44636
-1296,HackerNews,2020-08-09T21:59:32.000Z,1597010372,242,149,linux,https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/
-1297,HackerNews,2020-08-09T21:50:25.000Z,1597009825,176,101,graalvm,https://www.graalvm.org/
-1298,HackerNews,2020-08-09T20:32:02.000Z,1597005122,207,23,let implement bloom filter,https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
-1299,HackerNews,2020-08-09T19:03:45.000Z,1596999825,110,29,precise replica verilog based reverse engineering real die,https://github.com/1801BM1/vm80a
-1300,HackerNews,2020-08-09T18:56:54.000Z,1596999414,166,27,glasgow scot army knife electronics,https://github.com/GlasgowEmbedded/glasgow
-1301,HackerNews,2020-08-09T18:53:53.000Z,1596999233,148,52,malicious tor relay exploiting user,https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac
-1302,HackerNews,2020-08-09T18:52:12.000Z,1596999132,559,195,dorking use search engine find specific data,https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html
-1303,HackerNews,2020-08-09T18:26:29.000Z,1596997589,181,158,hiroshima,https://www.newyorker.com/magazine/1946/08/31/hiroshima
-1304,HackerNews,2020-08-09T18:16:48.000Z,1596997008,120,36,zippy fast lightweight python implementation using truffle framework,https://github.com/securesystemslab/zippy
-1305,HackerNews,2020-08-09T17:43:51.000Z,1596995031,88,69,economy gastronomy seems changed lifestyle good,https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good
-1306,HackerNews,2020-08-09T16:03:10.000Z,1596988990,344,460,interview bill gate covid social medium,https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1
-1307,HackerNews,2020-08-09T15:49:49.000Z,1596988189,105,52,look back memory model msdos,https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012
-1308,HackerNews,2020-08-09T15:44:52.000Z,1596987892,78,19,u navy sextrafficing scandal bahrain,https://www.militarytimes.com/bahrain-scandal/
-1309,HackerNews,2020-08-09T14:49:17.000Z,1596984557,223,149,smt solving iphone,https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html
-1310,HackerNews,2020-08-09T14:30:01.000Z,1596983401,284,268,people work longer different hour lockdown,https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/
-1311,HackerNews,2020-08-09T13:25:59.000Z,1596979559,274,26,eff defends public right access court record patent ownership,https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership
-1312,HackerNews,2020-08-09T13:18:25.000Z,1596979105,262,208,adding fiber link home network,https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/
-1313,HackerNews,2020-08-09T12:46:56.000Z,1596977216,198,178,got japanese permanent residency,https://www.dampfkraft.com/how-i-got-my-japanese-pr.html
-1314,HackerNews,2020-08-09T12:46:06.000Z,1596977166,76,26,reemergent strain gainoffunction debate,https://mbio.asm.org/content/6/4/e01013-15
-1315,HackerNews,2020-08-09T12:32:20.000Z,1596976340,208,95,github arctic code vault tech tree,https://github.com/github/archive-program/blob/master/TheTechTree.md
-1316,HackerNews,2020-08-09T12:28:24.000Z,1596976104,146,100,stopping deepfake news ai algorithm tell face doesnt fit,https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit
-1317,HackerNews,2020-08-09T12:04:42.000Z,1596974682,164,31,show hn kowl open source webui apache kafka good ui ux,https://github.com/cloudhut/kowl
-1318,HackerNews,2020-08-09T11:06:36.000Z,1596971196,152,6,reverse engineering beginner pdf,https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf
-1319,HackerNews,2020-08-09T11:03:18.000Z,1596970998,167,290,got weird,https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16
-1320,HackerNews,2020-08-09T10:26:56.000Z,1596968816,83,54,validating kubernetes yaml best practice policy,https://learnk8s.io/validating-kubernetes-yaml
-1321,HackerNews,2020-08-09T10:26:45.000Z,1596968805,125,91,vertigo public domain flight simulator,http://stjerneskud.info/vertigo/
-1322,HackerNews,2020-08-09T08:24:15.000Z,1596961455,98,149,ize,http://www.metadyne.co.uk/ize.html
-1323,HackerNews,2020-08-09T05:57:51.000Z,1596952671,130,106,thing tech expert anymore,http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore
-1324,HackerNews,2020-08-09T05:17:18.000Z,1596950238,95,11,run llvm assembly browser,http://kripken.github.io/llvm.js/demo.html
-1325,HackerNews,2020-08-09T05:10:48.000Z,1596949848,392,273,fire bad customer,https://www.preetamnath.com/blog/fire-your-bad-customers
-1326,HackerNews,2020-08-09T04:43:20.000Z,1596948200,191,105,argc argv come,https://briancallahan.net/blog/20200808.html
-1327,HackerNews,2020-08-09T04:30:53.000Z,1596947453,181,71,thinkpad,https://pappp.net/?p=26440
-1328,HackerNews,2020-08-09T03:15:15.000Z,1596942915,133,21,example imagemagick usage,http://www.imagemagick.org/Usage/
-1329,HackerNews,2020-08-09T03:02:30.000Z,1596942150,376,83,german front rare color photo,https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/
-1330,HackerNews,2020-08-09T02:50:19.000Z,1596941419,107,88,lowcost measurement facemask efficacy filtering expelled droplet,https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083
-1331,HackerNews,2020-08-09T00:20:46.000Z,1596932446,378,98,twitter x tiktok twiktwok,https://twiktwok.github.io/
-1332,HackerNews,2020-08-08T23:47:11.000Z,1596930431,155,17,real time machine learning pdf,https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf
-1333,HackerNews,2020-08-08T23:32:01.000Z,1596929521,427,147,firefox voice,https://voice.mozilla.org/firefox-voice/
-1334,HackerNews,2020-08-08T22:33:14.000Z,1596925994,92,104,twitter tiktok held preliminary talk possible combination,https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449
-1335,HackerNews,2020-08-08T20:44:09.000Z,1596919449,102,147,spacex ula win billion pentagon rocket contract,https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html
-1336,HackerNews,2020-08-08T19:40:48.000Z,1596915648,117,28,explorer,https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
-1337,HackerNews,2020-08-08T19:27:01.000Z,1596914821,302,136,rome linter javascript typescript,https://romefrontend.dev/blog/2020/08/08/introducing-rome.html
-1338,HackerNews,2020-08-08T19:20:57.000Z,1596914457,345,178,upi india unified payment interface,https://the-other-side.blog/upi-the-basics/
-1339,HackerNews,2020-08-08T19:13:41.000Z,1596914021,87,22,water beetle survive swallowed frog,https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/
-1340,HackerNews,2020-08-08T18:57:50.000Z,1596913070,768,333,apple take legal action small company pear logo,https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/
-1341,HackerNews,2020-08-08T18:46:04.000Z,1596912364,141,318,facebook remove qanon conspiracy group member,https://www.bbc.com/news/technology-53692545
-1342,HackerNews,2020-08-08T17:49:32.000Z,1596908972,96,32,algorithmic theory everything,https://arxiv.org/abs/quant-ph/0011122
-1343,HackerNews,2020-08-08T17:27:39.000Z,1596907659,106,187,wheat yield potential controlledenvironment vertical farm,https://www.pnas.org/content/early/2020/07/21/2002655117
-1344,HackerNews,2020-08-08T16:48:07.000Z,1596905287,201,126,electric cooker easy efficient way sanitize mask study find,https://news.illinois.edu/view/6367/143865832
-1345,HackerNews,2020-08-08T16:32:15.000Z,1596904335,170,47,attempt make font look handwritten,https://jvns.ca/blog/2020/08/08/handwritten-font/
-1346,HackerNews,2020-08-08T15:58:37.000Z,1596902317,228,55,reverseengineering intel instruction register,http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
-1347,HackerNews,2020-08-08T15:51:05.000Z,1596901865,246,118,snapdragon chip flaw put android phone risk data theft,https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/
-1348,HackerNews,2020-08-08T15:29:05.000Z,1596900545,146,25,audio scratch go extracting breakpoints,https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/
-1349,HackerNews,2020-08-08T14:49:36.000Z,1596898176,124,61,cheap fpga development board,https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards
-1350,HackerNews,2020-08-08T14:08:36.000Z,1596895716,107,29,smartphone hardening nonroot guide normal people,https://dev.lemmy.ml/post/38770
-1351,HackerNews,2020-08-08T13:46:11.000Z,1596894371,147,28,sixth stage grief retrocomputing,https://medium.com/message/networks-without-networks-7644933a3100
-1352,HackerNews,2020-08-08T13:45:31.000Z,1596894331,146,25,linux driver connect pataide directly gpio,https://github.com/Manawyrm/pata-gpio
-1353,HackerNews,2020-08-08T13:13:51.000Z,1596892431,217,89,cia lacing,https://www.fieggen.com/shoelace/cialacing.htm
-1354,HackerNews,2020-08-08T12:57:57.000Z,1596891477,105,11,website make geometry shape paper,https://felixboiii.github.io/paper-plotter/
-1355,HackerNews,2020-08-08T12:51:19.000Z,1596891079,239,121,iam hard thought fine capital one breach,https://twitter.com/kmcquade3/status/1291801858676228098
-1356,HackerNews,2020-08-08T12:23:50.000Z,1596889430,129,21,formulog ml datalog smt,http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/
-1357,HackerNews,2020-08-08T12:08:30.000Z,1596888510,321,274,google speaker listening voice command,https://www.protocol.com/google-smart-speaker-alarm-adt
-1358,HackerNews,2020-08-08T12:01:56.000Z,1596888116,98,35,show hn warp python based musictheory aware midi sequencer,http://warpseq.com
-1359,HackerNews,2020-08-08T11:54:00.000Z,1596887640,329,249,chinese official hijacked company,https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617
-1360,HackerNews,2020-08-08T11:31:08.000Z,1596886268,80,29,learned worst novelist english language,https://newrepublic.com/article/158761/learned-worst-novelist-english-language
-1361,HackerNews,2020-08-08T11:10:44.000Z,1596885044,100,112,norway advises citizen avoid travel abroad,https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city
-1362,HackerNews,2020-08-08T11:07:16.000Z,1596884836,204,181,debt collector profit soar people flush easy find,https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find
-1363,HackerNews,2020-08-08T11:05:43.000Z,1596884743,135,27,elixir ram template doom,https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html
-1364,HackerNews,2020-08-08T11:04:10.000Z,1596884650,95,53,u government allowing bear wolf hunted den,https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/
-1365,HackerNews,2020-08-08T10:51:20.000Z,1596883880,84,27,company lot smarter u luck,https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php
-1366,HackerNews,2020-08-08T10:20:50.000Z,1596882050,453,410,oatly new coke,https://divinations.substack.com/p/oatly-the-new-coke#
-1367,HackerNews,2020-08-08T09:43:29.000Z,1596879809,121,127,haskell new clothes,https://github.com/serras/hinc
-1368,HackerNews,2020-08-08T08:43:19.000Z,1596876199,111,33,bootstrap finance cost people money pdf,http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf
-1369,HackerNews,2020-08-08T08:28:38.000Z,1596875318,259,78,typing hard,https://typing-is-hard.ch/
-1370,HackerNews,2020-08-08T07:43:37.000Z,1596872617,130,95,facebook relaxed misinformation rule conservative page,https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182
-1371,HackerNews,2020-08-08T07:22:32.000Z,1596871352,78,93,music good gold oil man spending billion old hit,https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis
-1372,HackerNews,2020-08-08T05:24:59.000Z,1596864299,167,53,speculative dereferencing register reviving foreshadow pdf,https://arxiv.org/pdf/2008.02307.pdf
-1373,HackerNews,2020-08-08T04:32:27.000Z,1596861147,249,124,want learn physic,https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
-1374,HackerNews,2020-08-08T03:51:14.000Z,1596858674,109,45,female artist shaped manga history,https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/
-1375,HackerNews,2020-08-08T02:46:25.000Z,1596854785,207,228,driver keep window exposed percent air pollution,https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution
-1376,HackerNews,2020-08-08T01:32:13.000Z,1596850333,360,391,alcohol social technology check trustworthiness others,https://hndex.org/7798063
-1377,HackerNews,2020-08-08T01:22:41.000Z,1596849761,88,22,show hn simple fo selfhosted budgeting app,https://github.com/inoda/ontrack
-1378,HackerNews,2020-08-07T23:00:18.000Z,1596841218,159,320,swedish doctor perspective covid,https://sebastianrushworth.com/2020/08/04/how-bad-is-covid-really-a-swedish-doctors-perspective/
-1379,HackerNews,2020-08-07T22:54:36.000Z,1596840876,325,166,idiot running engineering org,https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb
-1380,HackerNews,2020-08-07T20:39:47.000Z,1596832787,217,162,silicon valley vast data collection worry tiktok,https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump
-1381,HackerNews,2020-08-07T19:20:39.000Z,1596828039,564,447,atlassian tell employee work home forever,https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html
-1382,HackerNews,2020-08-07T19:17:25.000Z,1596827845,121,19,geometric folding algorithm linkage origami polyhedron,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/
-1383,HackerNews,2020-08-07T19:17:02.000Z,1596827822,108,44,def con safe mode,http://defcon.outel.org/
-1384,HackerNews,2020-08-07T19:07:45.000Z,1596827265,190,40,power internal collaboration wordpresscom free,https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/
-1385,HackerNews,2020-08-07T19:02:57.000Z,1596826977,301,73,tech giant let web metadata schema infrastructure languish,https://threadreaderapp.com/thread/1291509746000855040.html
-1386,HackerNews,2020-08-07T18:44:25.000Z,1596825865,334,149,government pacer fee high federal circuit say,https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees
-1387,HackerNews,2020-08-07T17:25:01.000Z,1596821101,396,378,apple say game streaming service violate app store policy,https://www.businessinsider.com/apple-explains-why-xbox-game-pass-is-not-on-iphone-2020-8
-1388,HackerNews,2020-08-07T16:42:00.000Z,1596818520,124,45,exploiting android messenger webrtc,https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1
-1389,HackerNews,2020-08-07T16:30:40.000Z,1596817840,229,109,psychedelic inspiration hypercard,https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/
-1390,HackerNews,2020-08-07T16:07:33.000Z,1596816453,235,26,pysa open source tool detect prevent security issue python code,https://engineering.fb.com/security/pysa/
-1391,HackerNews,2020-08-07T15:55:14.000Z,1596815714,623,204,microsoft fast design,https://www.fast.design/docs/introduction
-1392,HackerNews,2020-08-07T15:21:17.000Z,1596813677,150,83,facebook fired employee posted evidence preferential treatment,https://www.buzzfeednews.com/article/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results
-1393,HackerNews,2020-08-07T14:58:12.000Z,1596812292,171,276,onethird american renter expected miss august payment,https://www.bloomberg.com/news/articles/2020-08-07/survey-exposes-america-s-looming-rent-crisis
-1394,HackerNews,2020-08-07T14:42:29.000Z,1596811349,437,304,head regulator google make certain word taboo,https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust
-1395,HackerNews,2020-08-07T14:32:14.000Z,1596810734,193,120,julia production ready,https://bkamins.github.io/julialang/2020/08/07/production-ready.html
-1396,HackerNews,2020-08-07T14:30:21.000Z,1596810621,109,72,minimal set optimization needed zerocost abstraction,https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html
-1397,HackerNews,2020-08-07T14:16:59.000Z,1596809819,152,95,much thing change,http://rodneybrooks.com/how-much-things-can-change/
-1398,HackerNews,2020-08-07T13:59:00.000Z,1596808740,120,39,introduction godel theorem second edition pdf,https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf
-1399,HackerNews,2020-08-07T13:46:41.000Z,1596808001,147,60,performance usermode thread coroutines,https://inside.java/2020/08/07/loomperformance/
-1400,HackerNews,2020-08-07T13:13:55.000Z,1596806035,149,157,dementia retreat u europe,https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html
-1401,HackerNews,2020-08-07T12:48:43.000Z,1596804523,160,18,awesomesysadmin curated list amazingly open source sysadmin resource,https://github.com/kahun/awesome-sysadmin
-1402,HackerNews,2020-08-07T12:17:53.000Z,1596802673,187,34,made mechanical keyboard switch,https://incoherency.co.uk/blog/stories/jesboard.html
-1403,HackerNews,2020-08-07T11:24:07.000Z,1596799447,235,66,sweatpants forever fashion industry collapsed,https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html
-1404,HackerNews,2020-08-07T11:10:59.000Z,1596798659,110,188,u split internet,https://www.bbc.co.uk/news/technology-53686390
-1405,HackerNews,2020-08-07T10:58:02.000Z,1596797882,210,83,declining eyesight improved looking deep red light,https://www.eurekalert.org/pub_releases/2020-06/ucl-dei062620.php
-1406,HackerNews,2020-08-07T10:38:29.000Z,1596796709,261,96,infinity opensource search engine,https://infinitysearch.co
-1407,HackerNews,2020-08-07T10:27:02.000Z,1596796022,388,549,mac keyboard shortcut,https://support.apple.com/en-us/HT201236
-1408,HackerNews,2020-08-07T09:28:41.000Z,1596792521,155,65,cno neutrino sun finally detected,https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun
-1409,HackerNews,2020-08-07T08:31:46.000Z,1596789106,722,133,open sourcing pwned code base,https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/
-1410,HackerNews,2020-08-07T08:17:27.000Z,1596788247,436,76,show hn hndexorg fulltext search engine article submitted hn,https://hndex.org/
-1411,HackerNews,2020-08-07T07:09:13.000Z,1596784153,90,31,rebol shell interface,http://www.rebol.com/docs/shell.html
-1412,HackerNews,2020-08-07T06:53:11.000Z,1596783191,96,11,beyond krøøk even chip vulnerable eavesdropping,https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/
-1413,HackerNews,2020-08-07T06:35:57.000Z,1596782157,409,211,crush command line shell also powerful modern programming language,https://github.com/liljencrantz/crush
-1414,HackerNews,2020-08-07T06:34:23.000Z,1596782063,332,76,trying build ultimate raspberry pi computer zero terminal,https://n-o-d-e.net/zeroterminal3.html
-1415,HackerNews,2020-08-07T06:04:47.000Z,1596780287,126,62,popcorn computer pocket pc open sourced,https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/
-1416,HackerNews,2020-08-07T05:52:22.000Z,1596779542,311,154,toshiba formally finally exit laptop business,https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/
-1417,HackerNews,2020-08-07T05:43:01.000Z,1596778981,85,56,depends upon meaning word,https://meaningness.com/eggplant/formal-logic
-1418,HackerNews,2020-08-07T05:12:39.000Z,1596777159,96,130,australia fasttracks plan send solar power singapore,https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore
-1419,HackerNews,2020-08-07T04:50:24.000Z,1596775824,150,118,classic google site shutting september,https://support.google.com/a/answer/9958187
-1420,HackerNews,2020-08-07T04:45:55.000Z,1596775555,95,50,become good theoretical physicist,https://www.goodtheorist.science/
-1421,HackerNews,2020-08-07T04:37:08.000Z,1596775028,175,207,apple belief ai say critic wrong,https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/
-1422,HackerNews,2020-08-07T02:23:43.000Z,1596767023,97,78,american enough asset withstand month without income,https://today.oregonstate.edu/news/study-most-americans-don’t-have-enough-assets-withstand-3-months-without-income
-1423,HackerNews,2020-08-07T02:17:01.000Z,1596766621,385,387,facebook fired employee collected evidence potential political bias,https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results
-1424,HackerNews,2020-08-07T02:13:08.000Z,1596766388,733,1172,u ban transaction bytedance wechat day,https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days
-1425,HackerNews,2020-08-07T00:56:42.000Z,1596761802,136,119,listen sf kimchi maker saw food tech practice close,https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen
-1426,HackerNews,2020-08-07T00:15:04.000Z,1596759304,81,141,using twitter,https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919
-1427,HackerNews,2020-08-06T22:27:57.000Z,1596752877,177,174,direct evidence tcell immunity factor behind heterogeneity,https://science.sciencemag.org/content/early/2020/08/04/science.abd3871
-1428,HackerNews,2020-08-06T22:26:16.000Z,1596752776,274,188,first impression rust,https://john-millikin.com/first-impressions-of-rust
-1429,HackerNews,2020-08-06T21:51:10.000Z,1596750670,135,123,shaving dulls even sharpest razor,https://news.mit.edu/2020/why-shaving-dulls-razors-0806
-1430,HackerNews,2020-08-06T21:17:48.000Z,1596748668,116,63,diluted blood plasma found reverse aging mouse,https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice
-1431,HackerNews,2020-08-06T20:38:40.000Z,1596746320,140,24,interlisp project restore interlispd usability modern os,http://interlisp.org/
-1432,HackerNews,2020-08-06T20:37:24.000Z,1596746244,166,30,nineyearold bug go standard library enables do,https://github.com/ethereum/public-attacknets/issues/12
-1433,HackerNews,2020-08-06T19:34:24.000Z,1596742464,1062,432,leak intel data whole git repository dev tool backdoor mention,https://twitter.com/deletescape/status/1291405688204402689
-1434,HackerNews,2020-08-06T19:28:00.000Z,1596742080,172,216,surviving django care database,https://www.varrazzo.com/blog/2020/07/25/surviving-django/
-1435,HackerNews,2020-08-06T19:04:39.000Z,1596740679,213,268,busted retailer use bankruptcy break lease thousand,https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347
-1436,HackerNews,2020-08-06T18:58:24.000Z,1596740304,117,38,signaling virtuous victimhood indicator dark triad personality pdf,https://www.gwern.net/docs/psychology/2020-ok.pdf
-1437,HackerNews,2020-08-06T17:06:53.000Z,1596733613,634,65,combinator startup library,https://www.ycombinator.com/library
-1438,HackerNews,2020-08-06T16:55:13.000Z,1596732913,420,62,crash course hacking satellite,https://nyan-sat.com/chapter0.html
-1439,HackerNews,2020-08-06T16:48:49.000Z,1596732529,104,66,lab mouse chill may messing study result,https://www.statnews.com/2016/04/19/lab-mice-temperature/
-1440,HackerNews,2020-08-06T16:29:08.000Z,1596731348,242,158,fed move block california net neutrality law,https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps
-1441,HackerNews,2020-08-06T16:11:59.000Z,1596730319,125,56,scaled google meet,https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19
-1442,HackerNews,2020-08-06T15:50:13.000Z,1596729013,173,50,auth available supabase yc,https://supabase.io/blog/2020/08/05/supabase-auth
-1443,HackerNews,2020-08-06T15:45:05.000Z,1596728705,75,62,partial freedom latvia found kgb archive,https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/
-1444,HackerNews,2020-08-06T15:27:35.000Z,1596727655,217,123,nerf wild reconstructing scene internet photography,https://nerf-w.github.io/
-1445,HackerNews,2020-08-06T15:11:56.000Z,1596726716,184,138,twitter web app run reducing polyfill bundle size,https://twitter.com/wongmjane/status/1291388433747685376
-1446,HackerNews,2020-08-06T15:09:02.000Z,1596726542,351,424,google discontinues pixel nine month release,https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/
-1447,HackerNews,2020-08-06T14:27:50.000Z,1596724070,107,42,confidential computing game changer,https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510
-1448,HackerNews,2020-08-06T14:11:23.000Z,1596723083,202,87,cluster chrome extension caught hijacking google bing search result,https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/
-1449,HackerNews,2020-08-06T14:09:04.000Z,1596722944,1191,469,germany plan dim light night save insect,https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR
-1450,HackerNews,2020-08-06T13:10:52.000Z,1596719452,179,117,pulse oximeter give biased result people darker skin,https://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias
-1451,HackerNews,2020-08-06T12:56:28.000Z,1596718588,199,151,blackstone acquire ancestrycom,https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES
-1452,HackerNews,2020-08-06T12:45:21.000Z,1596717921,619,507,scientist rename human gene stop m excel misreading date,https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates
-1453,HackerNews,2020-08-06T12:35:06.000Z,1596717306,109,65,chrysler radical space shuttle design,https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time
-1454,HackerNews,2020-08-06T12:34:03.000Z,1596717243,76,44,cerebral microstructural change patient,https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext
-1455,HackerNews,2020-08-06T12:05:05.000Z,1596715505,149,171,world data suicide,https://ourworldindata.org/suicide
-1456,HackerNews,2020-08-06T11:39:48.000Z,1596713988,86,36,albatross catch pirate high sea,https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas
-1457,HackerNews,2020-08-06T11:27:46.000Z,1596713266,137,61,math card shuffling,https://fredhohman.com/card-shuffling/
-1458,HackerNews,2020-08-06T10:52:12.000Z,1596711132,162,35,programming riscv vector instruction,https://gms.tf/riscv-vector.html
-1459,HackerNews,2020-08-06T10:26:22.000Z,1596709582,140,72,immunology intuition go die,https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/
-1460,HackerNews,2020-08-06T09:53:11.000Z,1596707591,503,151,simdjson parsing gigabyte json per second,https://github.com/simdjson/simdjson
-1461,HackerNews,2020-08-06T09:40:24.000Z,1596706824,152,17,herbie automatically improving floating point accuracy,https://herbie.uwplse.org/
-1462,HackerNews,2020-08-06T09:39:58.000Z,1596706798,384,188,usbkill antiforensic tool halt computer new usb device connected,https://github.com/hephaest0s/usbkill
-1463,HackerNews,2020-08-06T09:33:54.000Z,1596706434,342,211,opencore bootloader opensourced apple uefi driver enabling hackintosh,https://github.com/acidanthera/OpenCorePkg
-1464,HackerNews,2020-08-06T09:08:36.000Z,1596704916,132,120,inside look cloudkitchens,https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens
-1465,HackerNews,2020-08-06T09:05:17.000Z,1596704717,83,27,microblocks scratch smalltalkinspired mcu vm live embedded programming,http://microblocks.fun/
-1466,HackerNews,2020-08-06T09:03:18.000Z,1596704598,132,60,noninvasive nerve stimulation boost learning foreign language sound study,https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html
-1467,HackerNews,2020-08-06T06:03:32.000Z,1596693812,264,164,journalist twitter use show talking within smaller bubble,https://news.illinois.edu/view/6367/326226550
-1468,HackerNews,2020-08-06T04:48:15.000Z,1596689295,164,83,epic system worker organizing,https://www.tonemadison.com/articles/epic-workers-arent-just-mad-theyre-organizing
-1469,HackerNews,2020-08-06T04:47:44.000Z,1596689264,157,74,take gitlab command line glab opensource gitlab cli tool,https://github.com/profclems/glab
-1470,HackerNews,2020-08-06T04:32:14.000Z,1596688334,175,112,wrong intel fix former principal engineer unloads,https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html
-1471,HackerNews,2020-08-06T03:19:51.000Z,1596683991,214,94,new design ship philippine partly powered wave energy,https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean
-1472,HackerNews,2020-08-06T03:01:25.000Z,1596682885,192,146,node module war commonjs e module get along,https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
-1473,HackerNews,2020-08-06T01:33:47.000Z,1596677627,114,52,book sold save life,https://sive.rs/250k
-1474,HackerNews,2020-08-06T01:06:58.000Z,1596676018,126,19,working public making maintenance open source software,https://www.amazon.com/dp/0578675862/
-1475,HackerNews,2020-08-06T00:18:21.000Z,1596673101,120,77,expansion clean network safeguard america asset,https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/
-1476,HackerNews,2020-08-06T00:17:13.000Z,1596673033,199,83,stripe hire aws mike clayville chief revenue officer,https://stripe.com/en-au/newsroom/news/mike-clayville
-1477,HackerNews,2020-08-05T23:54:31.000Z,1596671671,109,57,touch typing gamepad,https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html
-1478,HackerNews,2020-08-05T23:46:27.000Z,1596671187,891,100,france allen died,https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/
-1479,HackerNews,2020-08-05T23:31:01.000Z,1596670261,356,199,creeping scourge tooling config file project root directory,https://github.com/nodejs/tooling/issues/79
-1480,HackerNews,2020-08-05T23:03:57.000Z,1596668637,303,48,compiler explorer,https://godbolt.org/
-:22.000Z,1596117202,356,348,internet archive responds publisher lawsuit,https://blog.archive.org/2020/07/29/internet-archive-responds-to-publishers-lawsuit/
-1022,HackerNews,2020-07-30T13:40:48.000Z,1596116448,92,13,show hn gomp tool comparing git branch,https://github.com/MarkForged/GOMP
-1023,HackerNews,2020-07-30T13:33:14.000Z,1596115994,101,62,alzheimer promising blood test early stage disease,https://www.bbc.co.uk/news/health-53567486
-1024,HackerNews,2020-07-30T13:10:57.000Z,1596114657,420,329,haskell elephant room,https://www.stephendiehl.com/posts/crypto.html
-1025,HackerNews,2020-07-30T12:51:18.000Z,1596113478,161,109,anticlimate action statement get visibility news coverage study find,https://www.brown.edu/news/2020-07-27/wetts
-1026,HackerNews,2020-07-30T12:45:50.000Z,1596113150,99,40,show hn building catalog cloud architecture,https://getrevolv.com
-1027,HackerNews,2020-07-30T12:37:28.000Z,1596112648,132,143,u economy contracted record rate last quarter,https://www.wsj.com/articles/us-economy-gdp-report-second-quarter-coronavirus-11596061406
-1028,HackerNews,2020-07-30T12:37:18.000Z,1596112638,85,20,codimd selfhosted realtime collaborative markdown note,https://github.com/codimd/server
-1029,HackerNews,2020-07-30T12:28:52.000Z,1596112132,150,20,expert recommend machine learning book,https://mentorcruise.com/books/ml/
-1030,HackerNews,2020-07-30T12:14:54.000Z,1596111294,120,19,seven set venn diagram,http://moebio.com/research/sevensets/
-1031,HackerNews,2020-07-30T12:12:34.000Z,1596111154,142,72,nasa launched new perseverance rover mar,https://www.wired.com/story/how-to-watch-nasa-launch-its-new-perseverance-mars-rover/
-1032,HackerNews,2020-07-30T11:00:09.000Z,1596106809,157,53,flipper zero tamagochi hacker,https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers
-1033,HackerNews,2020-07-30T10:59:51.000Z,1596106791,97,52,mysterious life bird never come,https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html
-1034,HackerNews,2020-07-30T10:25:57.000Z,1596104757,228,240,forgiving someone else,https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you
-1035,HackerNews,2020-07-30T10:25:27.000Z,1596104727,112,121,remote first quora,https://greylock.com/quora-remote-first/
-1036,HackerNews,2020-07-30T10:15:42.000Z,1596104142,100,94,argo stop printing catalogue almost year,https://www.theguardian.com/business/2020/jul/30/argos-to-stop-printing-catalogue-after-almost-50-years
-1037,HackerNews,2020-07-30T10:11:38.000Z,1596103898,119,60,abandoned seaside town cyprus reopen,https://www.messynessychic.com/2020/07/29/seaside-ghost-town-the-abandoned-millionaires-resort/
-1038,HackerNews,2020-07-30T10:10:52.000Z,1596103852,489,134,want see data thought friend,http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends
-1039,HackerNews,2020-07-30T08:37:49.000Z,1596098269,242,195,nano,https://lists.gnu.org/archive/html/info-gnu/2020-07/msg00010.html
-1040,HackerNews,2020-07-30T08:06:56.000Z,1596096416,1594,351,apple keep commission refund,https://twitter.com/twolivesleft/status/1288625617873694721
-1041,HackerNews,2020-07-30T07:42:59.000Z,1596094979,207,246,five buck fatigue,https://underjord.io/five-buck-fatigue.html
-1042,HackerNews,2020-07-30T05:43:01.000Z,1596087781,202,275,zsa moonlander nextgeneration ergonomic keyboard,https://zsa.io/moonlander
-1043,HackerNews,2020-07-30T04:14:51.000Z,1596082491,277,119,luckysheet opensource spreadsheet,https://github.com/mengshukeji/Luckysheet
-1044,HackerNews,2020-07-30T02:44:53.000Z,1596077093,106,71,elite disillusionment,https://saffronhuang.com/post/elite-disillusionment/
-1045,HackerNews,2020-07-30T02:16:59.000Z,1596075419,129,119,planet primordial black hole,https://link.aps.org/doi/10.1103/PhysRevLett.125.051103
-1046,HackerNews,2020-07-30T01:00:42.000Z,1596070842,1105,1976,universal basic income capitalism,https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/
-1047,HackerNews,2020-07-30T00:59:08.000Z,1596070748,128,16,example,https://gpt3examples.com/
-1048,HackerNews,2020-07-30T00:54:03.000Z,1596070443,122,49,pluto dark side spill secret including hint hidden ocean,https://www.nature.com/immersive/d41586-020-02082-1/index.html
-1049,HackerNews,2020-07-29T23:59:10.000Z,1596067150,123,91,chronic mania persistent euphoric state,https://srconstantin.github.io/2020/07/29/chronic-mania.html
-1050,HackerNews,2020-07-29T23:05:21.000Z,1596063921,160,51,tihle new emulator targeting ti graphing calculator,https://www.taricorp.net/2020/introducing-tihle/
-5520729,178,92,goodjob postgresbased activejob back end ruby rail,https://island94.org/2020/07/introducing-goodjob-1-0
-675,HackerNews,2020-07-23T16:02:37.000Z,1595520157,241,211,facebook employee reckon social network built,https://www.buzzfeednews.com/article/ryanmac/facebook-employee-leaks-show-they-feel-betrayed
-676,HackerNews,2020-07-23T15:46:06.000Z,1595519166,250,41,antiprivacy earn act could change internet know,https://mashable.com/article/earn-it-act-threatens-privacy-encryption-section-230/
-677,HackerNews,2020-07-23T14:57:42.000Z,1595516262,170,158,history status future fpgas,https://queue.acm.org/detail.cfm?id=3411759
-678,HackerNews,2020-07-23T14:35:53.000Z,1595514953,177,134,inuit parent teach kid control anger,https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger
-679,HackerNews,2020-07-23T13:56:16.000Z,1595512576,756,279,show hn tinypilot build kvm ip using raspberry pi,https://mtlynch.io/tinypilot/
-680,HackerNews,2020-07-23T13:01:57.000Z,1595509317,88,126,siberian heatwave almost impossible without climate change,https://www.worldweatherattribution.org/siberian-heatwave-of-2020-almost-impossible-without-climate-change
-681,HackerNews,2020-07-23T12:42:11.000Z,1595508131,249,204,stacked image comet photobombed starlink satellite,https://twitter.com/djulik/status/1286053695956881409
-682,HackerNews,2020-07-23T12:18:12.000Z,1595506692,145,50,unofficial guide datomic internals,https://tonsky.me/blog/unofficial-guide-to-datomic-internals/
-683,HackerNews,2020-07-23T12:05:34.000Z,1595505934,618,271,nubank acquires cognitect,https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank
-684,HackerNews,2020-07-23T11:57:51.000Z,1595505471,79,43,whose bug anyway,https://shkspr.mobi/blog/2020/07/whose-bug-is-it-anyway/
-685,HackerNews,2020-07-23T11:48:45.000Z,1595504925,102,27,wolfsort ultrafast hybrid radix sort algorithm,https://github.com/scandum/wolfsort
-686,HackerNews,2020-07-23T11:45:05.000Z,1595504705,226,223,garmin service production go ransomware attack,https://www.zdnet.com/article/garmin-services-and-production-go-down-after-ransomware-attack/
-687,HackerNews,2020-07-23T11:43:23.000Z,1595504603,120,62,mail good,https://github.com/freeCodeCamp/mail-for-good/tree/heroku/stable
-688,HackerNews,2020-07-23T11:18:59.000Z,1595503139,166,55,unmasking china invisible fleet,https://newsinteractives.cbc.ca/longform/china-at-sea
-689,HackerNews,2020-07-23T10:55:44.000Z,1595501744,106,38,cave discovery suggest human reached america much earlier thought,https://www.nature.com/articles/d41586-020-02190-y
-690,HackerNews,2020-07-23T10:10:56.000Z,1595499056,129,57,designing scalable api aws spot instance,https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/
-691,HackerNews,2020-07-23T09:43:10.000Z,1595497390,179,190,model know artificial intelligence take job,https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence
-692,HackerNews,2020-07-23T09:42:48.000Z,1595497368,154,98,nvidia build supercomputer university florida,https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/
-693,HackerNews,2020-07-23T05:58:36.000Z,1595483916,260,114,bitwarden second security audit report,https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/
-694,HackerNews,2020-07-23T05:42:31.000Z,1595482951,115,108,vocal range greatest artist time,https://www.concerthotels.com/worlds-greatest-vocal-ranges
-695,HackerNews,2020-07-23T05:40:22.000Z,1595482822,335,79,rust explained using easy english,https://github.com/Dhghomon/easy_rust
-696,HackerNews,2020-07-23T05:29:24.000Z,1595482164,189,319,carbon removal becomes new big oil,https://www.economist.com/the-world-if/2020/07/04/what-if-carbon-removal-becomes-the-new-big-oil
-697,HackerNews,2020-07-23T05:15:55.000Z,1595481355,119,105,kharkovchanka soviet antarctic cruiser video,https://www.youtube.com/watch?v=f6R-h06IsJw
-698,HackerNews,2020-07-23T04:00:52.000Z,1595476852,118,141,airbus eye hydrogen power airliner next decade,https://www.ainonline.com/aviation-news/air-transport/2020-07-21/airbus-eyes-hydrogen-power-airliner-next-decade
-699,HackerNews,2020-07-23T03:06:06.000Z,1595473566,185,67,written layman term,https://tinkeredthinking.com/index.php?id=841
-700,HackerNews,2020-07-23T02:37:16.000Z,1595471836,78,35,gnu grep fast,https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
-701,HackerNews,2020-07-23T01:43:00.000Z,1595468580,449,296,kde slimbook linux laptop ryzen,https://kde.slimbook.es/
-702,HackerNews,2020-07-23T01:04:25.000Z,1595466265,175,151,onethird u museum may survive year survey find,https://www.npr.org/sections/coronavirus-live-updates/2020/07/22/894049653/one-third-of-u-s-museums-may-not-survive-the-year-survey-finds
-703,HackerNews,2020-07-23T01:02:05.000Z,1595466125,186,76,joscha bach artificial consciousness nature reality video,https://www.youtube.com/watch?v=P-2P3MSZrBM
-704,HackerNews,2020-07-23T00:46:39.000Z,1595465199,155,14,verified secure riscv processor,https://ts.data61.csiro.au/publications/csiroabstracts/Heiser_20.abstract.pml
-705,HackerNews,2020-07-23T00:22:05.000Z,1595463725,344,115,personal info could instacart customer sold online,https://www.buzzfeednews.com/article/janelytvynenko/instacart-customers-info-sold-online
-706,HackerNews,2020-07-23T00:00:11.000Z,1595462411,172,181,macos virtualization framework run linux vm,https://developer.apple.com/documentation/virtualization
-707,HackerNews,2020-07-22T23:37:09.000Z,1595461029,698,396,breach exposed one million dna profile major genealogy database,https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy
+1078,HackerNews,2020-08-14T23:26:19.000Z,1597447579,133,88,generated blog post reach hacker news,https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/
+1079,HackerNews,2020-08-14T21:44:08.000Z,1597441448,230,61,best seo tactic far,https://questinglog.com/my-best-seo-tactic-so-far/
+1080,HackerNews,2020-08-14T20:26:14.000Z,1597436774,300,169,report american real choice internet provider,https://ilsr.org/report-most-americans-have-no-real-choice-in-internet-providers/
+1081,HackerNews,2020-08-14T20:13:57.000Z,1597436037,83,7,review bel eve silly vr rant,https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32
+1082,HackerNews,2020-08-14T20:10:14.000Z,1597435814,199,16,rethinkdb,https://rethinkdb.com/blog/2.4.1-release
+1083,HackerNews,2020-08-14T17:54:30.000Z,1597427670,171,40,global wave discovery end search,https://www.quantamagazine.org/weather-data-reveals-long-predicted-pressure-waves-20200813/
+1084,HackerNews,2020-08-14T17:51:10.000Z,1597427470,95,65,people slept grass bed year ago,https://arstechnica.com/science/2020/08/people-slept-on-comfy-grass-beds-200000-years-ago/
+1085,HackerNews,2020-08-14T17:22:16.000Z,1597425736,442,565,beta user starlink get downloads mbps,https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/
+1086,HackerNews,2020-08-14T17:21:14.000Z,1597425674,144,92,django async new next,https://deepsource.io/blog/django-async-support/
+1087,HackerNews,2020-08-14T17:18:07.000Z,1597425487,130,142,tesla fremont soon activate world largest unibody casting machine,https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-y-from-fremont-will-soon-use-the-biggest-casting-machine-for-mass-production
+1088,HackerNews,2020-08-14T17:10:54.000Z,1597425054,608,502,welder set beirut blast securing explosive,https://www.maritime-executive.com/article/report-welders-set-off-the-beirut-blast-while-securing-explosives
+1089,HackerNews,2020-08-14T15:48:49.000Z,1597420129,76,52,zx spectrum next issue blast kickstarter goal,https://www.bbc.com/news/technology-53765852
+1090,HackerNews,2020-08-14T15:34:11.000Z,1597419251,401,229,love mdn cult free action,https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html
+1091,HackerNews,2020-08-14T14:51:22.000Z,1597416682,76,75,trump lot people think edward snowden treated fairly,https://nypost.com/2020/08/13/trump-a-lot-of-people-think-edward-snowden-not-being-treated-fairly/
+1092,HackerNews,2020-08-14T14:40:47.000Z,1597416047,202,79,launch hn tella yc collaborative video editing browser,
+1093,HackerNews,2020-08-14T14:06:36.000Z,1597413996,452,102,show hn photo realistic qrcodes,https://www.QRpicture.com
+1094,HackerNews,2020-08-14T13:43:19.000Z,1597412599,103,46,show hn tweek fast todo weekly calendar app,https://tweek.so
+1095,HackerNews,2020-08-14T13:23:31.000Z,1597411411,105,160,bike shop choose customer wisely,https://cyclingindustry.news/why-a-bike-shop-should-choose-its-customer-wisely/
+1096,HackerNews,2020-08-14T13:02:46.000Z,1597410166,184,164,tried live without tech giant impossible,https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html
+1097,HackerNews,2020-08-14T12:51:26.000Z,1597409486,266,37,unicode five minute,https://richardjharris.github.io/unicode-in-five-minutes.html
+1098,HackerNews,2020-08-14T12:40:40.000Z,1597408840,389,445,stanford cancel plan bring half undergrad back campus,https://stanforddaily.com/2020/08/13/stanford-cancels-plans-to-bring-half-of-undergrads-back-to-campus/
+1099,HackerNews,2020-08-14T12:31:22.000Z,1597408282,86,95,netgpu hazard proprietary kernel module,https://lwn.net/Articles/827596/
+1100,HackerNews,2020-08-14T12:26:59.000Z,1597408019,802,468,google resume attack url bar hide full address chrome,https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/
+1101,HackerNews,2020-08-14T12:08:41.000Z,1597406921,341,310,mozilla sign fresh google search deal,https://www.theregister.com/2020/08/14/mozilla_google_search/
+1102,HackerNews,2020-08-14T11:23:24.000Z,1597404204,562,406,future servo,https://github.com/servo/servo/discussions/27575
+1103,HackerNews,2020-08-14T10:55:27.000Z,1597402527,146,44,hubble find betelgeuse dimming likely due ejection gas,https://phys.org/news/2020-08-hubble-betelgeuse-mysterious-dimming-due.html
+1104,HackerNews,2020-08-14T10:54:48.000Z,1597402488,153,115,redefining sustainable fishing mean,http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means
+1105,HackerNews,2020-08-14T10:27:34.000Z,1597400854,168,47,darktable,https://www.darktable.org/news/
+1106,HackerNews,2020-08-14T09:49:48.000Z,1597398588,213,193,instagram kept deleted photo message server year,https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed
+1107,HackerNews,2020-08-14T09:40:45.000Z,1597398045,111,20,taiwan digital minister solved mask supply problem,https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/
+1108,HackerNews,2020-08-14T09:12:32.000Z,1597396352,1823,602,factorio,https://factorio.com/blog/post/fff-360
+1109,HackerNews,2020-08-14T09:01:34.000Z,1597395694,83,30,software bug cause yam cryptocurrency implode two day launch,https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/
+1110,HackerNews,2020-08-14T08:52:46.000Z,1597395166,196,167,german digital bank facing outcry staff management,https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html
+1111,HackerNews,2020-08-14T07:26:57.000Z,1597390017,89,31,ansible,https://www.mail-archive.com/ansible-project@googlegroups.com/msg53862.html
+1112,HackerNews,2020-08-14T06:28:04.000Z,1597386484,253,61,database historical cookbook,https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks
+1113,HackerNews,2020-08-14T06:07:19.000Z,1597385239,116,58,implementing typesafe printf rust,https://willcrichton.net/notes/type-safe-printf/
+1114,HackerNews,2020-08-14T05:47:01.000Z,1597384021,79,56,benign data race considered harmful,https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/
+1115,HackerNews,2020-08-14T04:18:08.000Z,1597378688,193,237,save usps,https://2pml.com/2020/08/10/usps/
+1116,HackerNews,2020-08-14T04:10:58.000Z,1597378258,463,140,apple music android asks user card detail avoid google cut,https://reddit.com/r/apple/comments/hb0jl8/
+1117,HackerNews,2020-08-14T02:17:08.000Z,1597371428,124,63,web browser need stop enough enough,https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html
+1118,HackerNews,2020-08-14T02:03:18.000Z,1597370598,174,163,google forced oneplus decimate fortnite launcher deal claim epic game,https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg
+1119,HackerNews,2020-08-14T02:01:10.000Z,1597370470,168,124,epic mock apple iconic ad possible revenge app store ban,https://www.theverge.com/2020/8/13/21367904/epic-parody-apple-1984-ad-fortnite-removal-app-store
+1120,HackerNews,2020-08-14T01:31:49.000Z,1597368709,80,13,epic game also suing google fortnites removal play store,https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal
+1121,HackerNews,2020-08-14T01:23:56.000Z,1597368236,244,74,street view new york,https://1940s.nyc/
+1122,HackerNews,2020-08-14T01:21:59.000Z,1597368119,127,240,ask hn newly remote worker moving,
+1123,HackerNews,2020-08-14T00:28:05.000Z,1597364885,124,78,nixon deepfake moon disaster speech information ecosystem risk,https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/
+1124,HackerNews,2020-08-13T23:01:34.000Z,1597359694,214,163,new php,https://stitcher.io/blog/new-in-php-8?ref=hn
+1125,HackerNews,2020-08-13T22:56:09.000Z,1597359369,478,497,fortnite seems removed play store well,https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=en_US
+1126,HackerNews,2020-08-13T22:02:52.000Z,1597356172,345,47,free video streaming service run,https://github.com/rossumur/espflix
+1127,HackerNews,2020-08-13T21:17:41.000Z,1597353461,546,728,fed say yale discriminates asian white applicant,https://apnews.com/e97f08eb935989840bda430bb7a32e15
+1128,HackerNews,2020-08-13T21:16:55.000Z,1597353415,259,63,arecibo radio telescope go dark snapped cable shred dish,https://www.sciencemag.org/news/2020/08/arecibo-radio-telescope-goes-dark-after-snapped-cable-shreds-dish
+1129,HackerNews,2020-08-13T21:13:03.000Z,1597353183,86,16,found miniature incan llama bottom lake titicaca,https://www.atlasobscura.com/articles/found-llama-gold-titicaca
+1130,HackerNews,2020-08-13T21:05:41.000Z,1597352741,80,20,metaplane metadata catalog modern data team,https://metaplane.dev
+1131,HackerNews,2020-08-13T21:03:38.000Z,1597352618,299,103,mauritius oil spill serious,https://www.bbc.com/news/world-africa-53754751
+1132,HackerNews,2020-08-13T20:58:51.000Z,1597352331,245,74,adventure improving ai economics,https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/
+1133,HackerNews,2020-08-13T20:34:34.000Z,1597350874,160,104,physic hot water sometimes freeze faster cold water,https://www.smithsonianmag.com/smart-news/new-experiment-shows-why-sometimes-hot-water-cools-faster-cold-water-180975543/
+1134,HackerNews,2020-08-13T20:32:39.000Z,1597350759,101,39,epic published ingame macintosh commercial spoof response apple,https://www.youtube.com/watch?v=ZYXnaKmXqGs
+1135,HackerNews,2020-08-13T20:16:35.000Z,1597349795,317,159,epic game release nineteen eightyfortnite ad,https://www.youtube.com/watch?v=euiSHuaw6Q4
+1136,HackerNews,2020-08-13T20:12:32.000Z,1597349552,222,129,research say solo founder perform better,https://www.growthclub.online/post/research-says-solo-founders-perform-better-here-is-why
+1137,HackerNews,2020-08-13T20:03:45.000Z,1597349025,136,79,trump block postal fund prevent expanded mailin voting,https://www.bbc.com/news/election-us-2020-53772526
+1138,HackerNews,2020-08-13T19:36:50.000Z,1597347410,669,638,epic game filed legal paper response apple pdf,https://cdn2.unrealengine.com/apple-complaint-734589783.pdf
+1139,HackerNews,2020-08-13T19:03:23.000Z,1597345403,1690,1414,apple kicked fortnite app store,https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments
+1140,HackerNews,2020-08-13T18:57:34.000Z,1597345054,588,484,apple remove fortnite app store epic attempt bypass fee,https://twitter.com/markgurman/status/1293984069722636288
+1141,HackerNews,2020-08-13T18:48:24.000Z,1597344504,171,259,parent worried infection school work paying bill,https://www.interest.com/mortgage/pandemic-top-parent-school-vs-mortgage-worries/
+1142,HackerNews,2020-08-13T18:32:48.000Z,1597343568,205,61,write adrs,https://github.blog/2020-08-13-why-write-adrs/
+1143,HackerNews,2020-08-13T18:28:15.000Z,1597343295,143,101,google update tank traffic,https://www.painscience.com/microblog/google-strikes-again.html
+1144,HackerNews,2020-08-13T17:47:16.000Z,1597340836,83,35,supercapacitors standard brick,https://arstechnica.com/science/2020/08/how-to-turn-regular-bricks-into-electricity-storying-supercapacitors/
+1145,HackerNews,2020-08-13T17:34:11.000Z,1597340051,76,64,post office deactivating mail sorting machine ahead election,https://www.vice.com/en_us/article/n7wk9z/the-post-office-is-deactivating-mail-sorting-machines-ahead-of-the-election
+1146,HackerNews,2020-08-13T17:13:43.000Z,1597338823,133,172,jira microcosm broken software development,https://linearb.io/blog/jira-is-a-microcosm-of-whats-broken-in-software-development/
+1147,HackerNews,2020-08-13T16:05:53.000Z,1597334753,166,32,google differential privacy library,https://github.com/google/differential-privacy
+1148,HackerNews,2020-08-13T15:52:09.000Z,1597333929,178,49,yc startup school build sprint equityfree grant,https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/
+1149,HackerNews,2020-08-13T14:59:27.000Z,1597330767,320,233,air pollution worse thought,https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths
+1150,HackerNews,2020-08-13T14:55:47.000Z,1597330547,124,153,israel uae reach historic peace deal israel suspend annexation,https://www.jpost.com/breaking-news/israel-and-uae-reach-historic-peace-deal-638524
+1151,HackerNews,2020-08-13T14:42:26.000Z,1597329746,422,331,much rustwasmtime team hit layoff mozilla,https://twitter.com/tschneidereit/status/1293868141953667074
+1152,HackerNews,2020-08-13T14:21:15.000Z,1597328475,262,228,docker update tos image retention limit imposed free account,https://www.docker.com/pricing/retentionfaq
+1153,HackerNews,2020-08-13T14:03:53.000Z,1597327433,115,31,linux kernel decompresses,https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses
+1154,HackerNews,2020-08-13T13:55:31.000Z,1597326931,409,357,epic direct payment mobile,https://www.epicgames.com/fortnite/en-US/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent
+1155,HackerNews,2020-08-13T13:06:36.000Z,1597323996,118,153,intel gen core tiger lake soc detailed,https://www.anandtech.com/show/15971/intels-11th-gen-core-tiger-lake-soc-detailed-superfin-willow-cove-and-xelp/2
+1156,HackerNews,2020-08-13T12:28:31.000Z,1597321711,83,86,riot political theory reading list,https://www.southampton.ac.uk/politics/news/2020/06/11-riots-and-political-theory.page
+1157,HackerNews,2020-08-13T12:27:59.000Z,1597321679,159,47,aeronabs inhalable protection,https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19
+1158,HackerNews,2020-08-13T12:04:01.000Z,1597320241,113,57,significant javascript project,https://bestofjs.org/timeline
+1159,HackerNews,2020-08-13T10:06:33.000Z,1597313193,259,358,cult free must die,https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html
+1160,HackerNews,2020-08-13T09:56:04.000Z,1597312564,341,350,ask hn anyone migrated containerized infrastructure,
+1161,HackerNews,2020-08-13T09:53:00.000Z,1597312380,239,100,expiring v permanent skill,https://www.collaborativefund.com/blog/expiring-vs-permanent-skills
+1162,HackerNews,2020-08-13T09:43:08.000Z,1597311788,141,105,handle better pointer,https://floooh.github.com/2018/06/17/handles-vs-pointers.html
+1163,HackerNews,2020-08-13T09:32:26.000Z,1597311146,104,28,pyidm python opensource alternative internet download manager,https://github.com/pyIDM/PyIDM
+1164,HackerNews,2020-08-13T08:25:09.000Z,1597307109,452,159,stopping phishing campaign bash,https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html
+1165,HackerNews,2020-08-13T07:30:18.000Z,1597303818,160,213,rust stable abi,https://people.gnome.org/~federico/blog/rust-stable-abi.html
+1166,HackerNews,2020-08-13T07:23:28.000Z,1597303408,209,93,entropy explained sheep,https://aatishb.com/entropy/
+1167,HackerNews,2020-08-13T07:13:15.000Z,1597302795,196,56,sigil free opensource multiplatform ebook editor,https://github.com/Sigil-Ebook/Sigil
+1168,HackerNews,2020-08-13T07:12:10.000Z,1597302730,86,49,behavior resembling adhd may linked increased entrepreneurial behavior,https://www.sciencedaily.com/releases/2020/08/200812164926.htm
+1169,HackerNews,2020-08-13T04:28:53.000Z,1597292933,117,55,better c compiler,https://briancallahan.net/blog/20200812.html
+1170,HackerNews,2020-08-13T03:59:44.000Z,1597291184,353,246,nsa owns everything,https://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html
+1171,HackerNews,2020-08-13T03:57:03.000Z,1597291023,257,184,gitoxide pure rust implementation git,https://github.com/Byron/gitoxide
+1172,HackerNews,2020-08-13T03:27:15.000Z,1597289235,155,60,new chapter pypy,https://morepypy.blogspot.com/2020/08/a-new-chapter-for-pypy.html
+1173,HackerNews,2020-08-13T02:22:54.000Z,1597285374,310,120,show hn made bedtime calculator react javascript,https://www.sleepsources.com/bed-time-calculator/
+1174,HackerNews,2020-08-13T02:06:30.000Z,1597284390,695,237,young child would rather explore get reward,https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/
+1175,HackerNews,2020-08-13T01:17:18.000Z,1597281438,84,144,cardboard theft,https://www.bbc.com/news/business-53724620
+1176,HackerNews,2020-08-13T01:07:57.000Z,1597280877,85,20,entire mozilla mdn team laid,https://twitter.com/i/web/status/1293264395603148802
+1177,HackerNews,2020-08-13T01:04:17.000Z,1597280657,134,22,selfpublishing edition ansible devops,https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops
+1178,HackerNews,2020-08-13T00:07:17.000Z,1597277237,390,143,vitamin part back basic,https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics
+1179,HackerNews,2020-08-12T21:20:25.000Z,1597267225,107,299,hyperloop pipe fancy,https://www.economist.com/united-states/2020/08/08/could-dawdling-america-lead-the-world-in-a-new-form-of-transport
+1180,HackerNews,2020-08-12T21:03:48.000Z,1597266228,394,68,new jupyter book,https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e
+1181,HackerNews,2020-08-12T20:58:33.000Z,1597265913,1277,315,thank mdn,https://www.ilovemdn.org/
+1182,HackerNews,2020-08-12T20:05:44.000Z,1597262744,96,35,set probability,https://stopa.io/post/243
+1183,HackerNews,2020-08-12T19:34:30.000Z,1597260870,80,36,git deletion merged branch taken beyond shell hack,https://github.com/hartwork/git-delete-merged-branches
+1184,HackerNews,2020-08-12T19:10:42.000Z,1597259442,144,287,dishwashing detergent hack two ingredient,https://www.whatlisacooks.com/blog/2015/5/8/dishwashing-detergent-hack-two-ingredients
+1185,HackerNews,2020-08-12T18:30:30.000Z,1597257030,630,319,rob pike rule programming,http://users.ece.utexas.edu/~adnan/pike.html
+1186,HackerNews,2020-08-12T18:16:53.000Z,1597256213,1516,306,mozilla lifeboat,https://mozillalifeboat.com
+1187,HackerNews,2020-08-12T17:33:22.000Z,1597253602,187,33,belarus election police use live fire protester brest,https://www.bbc.com/news/world-europe-53748748
+1188,HackerNews,2020-08-12T17:08:27.000Z,1597252107,249,152,currently ad techdirt apparently google think dangerous,https://www.techdirt.com/articles/20200810/11335745081/why-are-there-currently-no-ads-techdirt-apparently-google-thinks-were-dangerous.shtml
+1189,HackerNews,2020-08-12T16:32:01.000Z,1597249921,284,82,launch hn papercups yc opencore intercom alternative,
+1190,HackerNews,2020-08-12T16:09:38.000Z,1597248578,153,63,unraveling mindset victimhood,https://www.scientificamerican.com/article/unraveling-the-mindset-of-victimhood/
+1191,HackerNews,2020-08-12T16:07:24.000Z,1597248444,444,252,surveyed american say ca nt job without internet,https://decisiondata.org/news/70-of-surveyed-americans-say-we-cant-do-our-jobs-without-a-home-internet-connection/
+1192,HackerNews,2020-08-12T15:55:05.000Z,1597247705,254,127,net insect abundance diversity decline across u,https://www.nature.com/articles/s41559-020-1269-4
+1193,HackerNews,2020-08-12T15:53:16.000Z,1597247596,115,78,veteran submariner sonar crew tirelessly hunt enemy ca nt see,https://www.thedrive.com/the-war-zone/35603/veteran-submariner-on-how-sonar-crews-tirelessly-hunt-enemies-they-cant-even-see
+1194,HackerNews,2020-08-12T15:40:56.000Z,1597246856,285,112,raise le money,https://www.aaronkharris.com/raise-less-money
+1195,HackerNews,2020-08-12T15:39:02.000Z,1597246742,206,203,qemu move c rust,http://blog.vmsplice.net/2020/08/why-qemu-should-move-from-c-to-rust.html
+1196,HackerNews,2020-08-12T15:03:14.000Z,1597244594,396,821,uber ceo say service probably shut temporarily california,https://www.cnbc.com/2020/08/12/uber-may-shut-down-temporarily-in-california.html
+1197,HackerNews,2020-08-12T14:55:32.000Z,1597244132,179,46,show hn kinopioclub visual thinking brainstorming tool,https://kinopio.club
+1198,HackerNews,2020-08-12T14:53:20.000Z,1597244000,199,65,timescale cloud multicloud fullymanaged timeseries aws azure gcp,https://blog.timescale.com/blog/fully-managed-time-series-data-service-now-available-in-aws-azure-gcp-75-regions-compare-vs-influxdb-timestream/
+1199,HackerNews,2020-08-12T14:46:48.000Z,1597243608,128,36,aws tagging best practice,https://www.cloudforecast.io/blog/aws-tagging-best-practices/
+1200,HackerNews,2020-08-12T14:43:33.000Z,1597243413,311,176,mozilla laid dev tool people entire mdn team,https://twitter.com/SteveALee/status/1293487542382333952
+1201,HackerNews,2020-08-12T14:19:35.000Z,1597241975,90,81,available preorder today surface duo,https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/
+1202,HackerNews,2020-08-12T14:19:09.000Z,1597241949,166,61,storybook new favourite tool frontend development,https://medium.com/storybookjs/storybook-6-0-1e14a2071000
+1203,HackerNews,2020-08-12T13:14:20.000Z,1597238060,134,29,show hn dstack opensource tool build data application easily,
+1204,HackerNews,2020-08-12T12:22:26.000Z,1597234946,112,25,atlas endtoend scene reconstruction posed image,https://github.com/magicleap/atlas
+1205,HackerNews,2020-08-12T11:37:56.000Z,1597232276,86,129,freedom simple,https://www.arp242.net/freedom.html
+1206,HackerNews,2020-08-12T11:28:02.000Z,1597231682,81,27,python textbook jupyter notebook,https://github.com/blobcity/python-for-data-science
+1207,HackerNews,2020-08-12T11:23:02.000Z,1597231382,87,14,cellular automaton convolutional neural network,https://arxiv.org/abs/1809.02942
+1208,HackerNews,2020-08-12T11:08:51.000Z,1597230531,79,10,intel progress mo modified linux kernel running lightweight kernel,https://www.phoronix.com/scan.php?page=news_item&px=Intel-mOS-Multi-OS-Linux
+1209,HackerNews,2020-08-12T11:06:44.000Z,1597230404,233,77,simple sql python,https://github.com/nackjicholson/aiosql
+1210,HackerNews,2020-08-12T10:10:57.000Z,1597227057,206,313,ask hn selftaught webdev lot free time learn,
+1211,HackerNews,2020-08-12T10:06:14.000Z,1597226774,81,80,microsoft surface duo dualscreen android phone,https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs
+1212,HackerNews,2020-08-12T09:18:13.000Z,1597223893,123,14,lte call,https://revolte-attack.net/
+1213,HackerNews,2020-08-12T08:53:19.000Z,1597222399,289,409,china hire tsmc engineer push chip leadership,https://asia.nikkei.com/Business/China-tech/China-hires-over-100-TSMC-engineers-in-push-for-chip-leadership
+1214,HackerNews,2020-08-12T08:25:01.000Z,1597220701,117,63,show hn neuralcam live using ml turn iphones smart webcam,https://neural.cam/news/
+1215,HackerNews,2020-08-12T08:20:58.000Z,1597220458,712,102,joan feynman died,https://www.aps.org/publications/apsnews/updates/feynman.cfm
+1216,HackerNews,2020-08-12T07:51:43.000Z,1597218703,78,60,zin boat reinvents electric boat bid become tesla sea,https://techcrunch.com/2020/08/11/zin-boats-reinvents-the-electric-speedboat-in-a-bid-to-become-the-tesla-of-the-sea/
+1217,HackerNews,2020-08-12T07:38:44.000Z,1597217924,79,41,unraveling linothorax mystery,https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/
+1218,HackerNews,2020-08-12T06:58:24.000Z,1597215504,162,146,amazon business model meet sweden labor union,https://www.politico.eu/article/amazons-cut-price-culture-meets-swedens-unions/
+1219,HackerNews,2020-08-12T06:45:27.000Z,1597214727,173,351,one snap store,https://merlijn.sebrechts.be/blog/2020-08-02-why-one-snap-store/
+1220,HackerNews,2020-08-12T06:40:57.000Z,1597214457,75,59,zx spectrum next issue,https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-2
+1221,HackerNews,2020-08-12T06:36:10.000Z,1597214170,161,33,diy satellite ground station receive noaa image,https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station
+1222,HackerNews,2020-08-12T06:27:57.000Z,1597213677,131,72,file handling unix tip trap outright badness,https://rachelbythebay.com/w/2020/08/11/files/
+1223,HackerNews,2020-08-12T06:15:49.000Z,1597212949,305,143,ask hn belarus keep connected despite internet blackout,
+1224,HackerNews,2020-08-12T05:53:35.000Z,1597211615,84,52,drogon rapid http web application framework,https://github.com/an-tao/drogon
+1225,HackerNews,2020-08-12T05:35:57.000Z,1597210557,132,65,broken cable smashed hole foot wide arecibo observatory,https://www.businessinsider.com/broken-cable-tears-100-foot-hole-in-arecibo-observatory-2020-8
+1226,HackerNews,2020-08-12T05:32:40.000Z,1597210360,229,160,mozilla fire servo devs security response team,https://twitter.com/directhex/status/1293352458308198401
+1227,HackerNews,2020-08-12T03:32:38.000Z,1597203158,356,259,bertrand russell argument idleness relevant ever,https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever
+1228,HackerNews,2020-08-12T01:30:34.000Z,1597195834,370,285,court dismisses genius lawsuit lyricsscraping google,https://techcrunch.com/2020/08/11/court-dismisses-genius-lawsuit-over-lyrics-scraping-by-google/
+1229,HackerNews,2020-08-12T00:58:20.000Z,1597193900,274,160,mitochondrion may hold key anxiety mental health,https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/
+1230,HackerNews,2020-08-11T23:46:07.000Z,1597189567,189,161,transparent oled,https://oled.com/oleds/transparent-oleds-toleds/
+1231,HackerNews,2020-08-11T22:29:54.000Z,1597184994,123,33,puma ai platform pharmaceutical modeling simulation,http://pumas.ai
+1232,HackerNews,2020-08-11T22:25:21.000Z,1597184721,209,150,let build raspberry pi cluster,https://ikarus.sg/how-i-built-kraken/
+1233,HackerNews,2020-08-11T21:20:00.000Z,1597180800,133,70,go released,https://golang.org/dl/
+1234,HackerNews,2020-08-11T21:17:53.000Z,1597180673,197,104,system monitoring prometheus grafana,https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/
+1235,HackerNews,2020-08-11T20:58:37.000Z,1597179517,91,55,sixty year green egg ham,https://brianjayjones.com/2020/08/11/sixty-years-of-green-eggs-and-ham/
+1236,HackerNews,2020-08-11T18:55:30.000Z,1597172130,152,19,chevron trying crush prominent climate lawyer,https://earther.gizmodo.com/chevron-is-trying-to-crush-a-prominent-climate-lawyer-a-1844685508
+1237,HackerNews,2020-08-11T18:37:40.000Z,1597171060,167,75,datadog release incident management profiler error tracking,https://www.datadoghq.com/blog/dash-2020-new-feature-roundup/
+1238,HackerNews,2020-08-11T18:26:06.000Z,1597170366,344,328,never use dependency could replace afternoon programming,https://blog.carlmjohnson.net/post/2020/avoid-dependencies/
+1239,HackerNews,2020-08-11T18:20:48.000Z,1597170048,82,32,ondevice supermarket product recognition,https://ai.googleblog.com/2020/07/on-device-supermarket-product.html
+1240,HackerNews,2020-08-11T18:18:40.000Z,1597169920,101,24,video learning org mode,https://orgmodeforbeginners.com/
+1241,HackerNews,2020-08-11T18:17:21.000Z,1597169841,202,99,netsurf multiplatform web browser,https://www.netsurf-browser.org/
+1242,HackerNews,2020-08-11T18:02:45.000Z,1597168965,115,293,elite dogooders fixing world part problem giridharadas,https://www.cbc.ca/radio/ideas/how-elite-do-gooders-fixing-the-world-are-part-of-the-problem-anand-giridharadas-1.5441573
+1243,HackerNews,2020-08-11T17:49:25.000Z,1597168165,209,54,classic book tech lead aspiring,https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be
+1244,HackerNews,2020-08-11T17:44:05.000Z,1597167845,549,102,bevy datadriven game engine app framework built rust,https://bevyengine.org/news/introducing-bevy/
+1245,HackerNews,2020-08-11T17:12:35.000Z,1597165955,239,223,mozilla laying people planning new focus making money,https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus
+1246,HackerNews,2020-08-11T16:47:13.000Z,1597164433,95,145,airbnb plan file confidentially ipo august,https://www.wsj.com/articles/airbnb-plans-to-file-confidentially-for-ipo-in-august-11597164041
+1247,HackerNews,2020-08-11T16:34:02.000Z,1597163642,270,431,developer get hit bus get hired netflix,https://www.neomindlabs.com/post/your-developer-wont-get-hit-by-a-bus-theyll-get-hired-by-netflix
+1248,HackerNews,2020-08-11T16:29:45.000Z,1597163385,222,287,tsa considers new system flyer without id,https://papersplease.org/wp/2020/08/11/tsa-considers-new-system-for-flyers-without-id/
+1249,HackerNews,2020-08-11T16:15:23.000Z,1597162523,152,84,small business dying thousand one tracking carnage,https://www.bloomberg.com/news/articles/2020-08-11/small-firms-die-quietly-leaving-thousands-of-failures-uncounted
+1250,HackerNews,2020-08-11T15:25:09.000Z,1597159509,138,54,launch hn xkit yc oauth infrastructure service,
+1251,HackerNews,2020-08-11T15:15:36.000Z,1597158936,83,29,mozilla lay employee refocuses commercial product,https://www.zdnet.com/article/mozilla-lays-off-250-employees-while-it-refocuses-on-commercial-products/
+1252,HackerNews,2020-08-11T15:00:05.000Z,1597158005,282,385,case google regulated public utility,https://www.rankscience.com/blog/why-google-should-be-regulated-as-a-public-utility
+1253,HackerNews,2020-08-11T14:51:50.000Z,1597157510,159,71,lenovo fedorapowered thinkpad everything want linux laptop,https://www.forbes.com/sites/jasonevangelho/2020/08/10/lenovo-new-thinkpad-p53-fedora-linux-laptop
+1254,HackerNews,2020-08-11T14:29:54.000Z,1597156194,183,182,browser extension ca nt live without,https://blog.maskys.com/my-best-chrome-extensions/
+1255,HackerNews,2020-08-11T14:06:11.000Z,1597154771,362,257,coworker never stop refactoring,https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/
+1256,HackerNews,2020-08-11T14:03:56.000Z,1597154636,1598,1210,mozilla lay employee refocuses commercial product,https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/
+1257,HackerNews,2020-08-11T14:03:06.000Z,1597154586,228,45,show hn eventnative opensource user event collection service,https://github.com/ksensehq/eventnative
+1258,HackerNews,2020-08-11T14:00:51.000Z,1597154451,881,477,single page application using rust,http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
+1259,HackerNews,2020-08-11T13:57:39.000Z,1597154259,795,278,stop procrastinating using fogg behavior model,https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+1260,HackerNews,2020-08-11T13:29:27.000Z,1597152567,179,64,emulating window system call linux,https://lwn.net/Articles/824380/
+1261,HackerNews,2020-08-11T13:28:12.000Z,1597152492,611,274,belarus shut internet amid controversial election,https://www.wired.com/story/belarus-internet-outage-election/
+1262,HackerNews,2020-08-11T13:12:23.000Z,1597151543,160,168,microstrategy adopts bitcoin primary treasury reserve asset,https://ir.microstrategy.com/news-releases/news-release-details/microstrategy-adopts-bitcoin-primary-treasury-reserve-asset
+1263,HackerNews,2020-08-11T13:03:08.000Z,1597150988,100,67,bucklescript rebranding,https://reasonml.org/blog/bucklescript-is-rebranding
+1264,HackerNews,2020-08-11T11:53:12.000Z,1597146792,91,17,helping native bee thrive honeybee world,https://e360.yale.edu/features/backyard-battle-helping-outnumbered-native-bees-thrive-in-a-honeybee-world
+1265,HackerNews,2020-08-11T11:21:35.000Z,1597144895,79,83,mon valley community test time credit new form currency,https://www.wesa.fm/post/while-investment-dollars-remain-scarce-mon-valley-communities-test-new-form-currency
+1266,HackerNews,2020-08-11T11:10:28.000Z,1597144228,329,41,creating qr code step step,https://www.nayuki.io/page/creating-a-qr-code-step-by-step
+1267,HackerNews,2020-08-11T11:09:34.000Z,1597144174,178,342,keyboard blank keycaps made expert typist,https://bojanvidanovic.com/posts/a-keyboard-with-blank-keycaps-made-me-an-expert-typist
+1268,HackerNews,2020-08-11T11:09:23.000Z,1597144163,232,66,juliadb,https://juliadata.github.io/JuliaDB.jl/latest/
+1269,HackerNews,2020-08-11T11:08:16.000Z,1597144096,129,55,show hn jet inmemory faulttolerant distributed stream processing,https://github.com/hazelcast/hazelcast-jet
+1270,HackerNews,2020-08-11T10:47:53.000Z,1597142873,482,337,accidentally built nudityporn platform,https://elazzabi.com/2020/08/11/the-day-i-accidentally-built-a-nudity-porn-platform/
+1271,HackerNews,2020-08-11T09:32:21.000Z,1597138341,160,89,office drama macos,https://objective-see.com/blog/blog_0x4B.html
+1272,HackerNews,2020-08-11T09:04:22.000Z,1597136662,129,10,generative art cs,https://generative-art-with-css.commons.host/
+1273,HackerNews,2020-08-11T08:51:26.000Z,1597135886,188,33,invoicenet neural network extract information invoice document,https://github.com/naiveHobo/InvoiceNet
+1274,HackerNews,2020-08-11T07:51:44.000Z,1597132304,154,65,language almost became cs,https://eager.io/blog/the-languages-which-almost-were-css/
+1275,HackerNews,2020-08-11T07:33:45.000Z,1597131225,80,22,prediction substitute review,https://acesounderglass.com/2020/08/06/predictions-as-a-substitute-for-reviews/
+1276,HackerNews,2020-08-11T06:41:24.000Z,1597128084,154,125,golang desktop app webviewlorca wasm bazel,https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89
+1277,HackerNews,2020-08-11T06:27:29.000Z,1597127249,227,354,tiktok sue u ban,https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday
+1278,HackerNews,2020-08-11T05:07:02.000Z,1597122422,232,37,parallel seam carving,https://shwestrick.github.io/2020/07/29/seam-carve.html
+1279,HackerNews,2020-08-11T03:05:56.000Z,1597115156,126,29,mesmerizing geometry malaysia complex cake,https://www.atlasobscura.com/articles/kek-lapis-sarawak
+1280,HackerNews,2020-08-10T23:29:36.000Z,1597102176,153,60,cloud traffic,https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News
+1281,HackerNews,2020-08-10T23:04:33.000Z,1597100673,369,195,emacs,https://lists.gnu.org/archive/html/emacs-devel/2020-08/msg00237.html
+1282,HackerNews,2020-08-10T22:46:46.000Z,1597099606,264,175,tragic physic deadly explosion beirut,https://www.wired.com/story/tragic-physics-deadly-explosion-beirut/
+1283,HackerNews,2020-08-10T22:19:58.000Z,1597097998,203,172,u marshal service online auction fyre festival fraud scheme,https://txauction.com/auctions/911/
+1284,HackerNews,2020-08-10T21:44:00.000Z,1597095840,197,86,three bay area,https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727
+1285,HackerNews,2020-08-10T21:29:08.000Z,1597094948,767,740,uber lyft ordered california judge classify driver employee,https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling
+1286,HackerNews,2020-08-10T21:13:31.000Z,1597094011,393,162,celebrate woz,https://www.wozbday.com
+1287,HackerNews,2020-08-10T21:05:37.000Z,1597093537,227,118,react release candidate new feature,https://reactjs.org/blog/2020/08/10/react-v17-rc.html
+1288,HackerNews,2020-08-10T20:54:11.000Z,1597092851,141,72,kicking replit programming language jam,https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105
+1289,HackerNews,2020-08-10T20:47:29.000Z,1597092449,637,252,planet cere ocean world sea water beneath surface mission find,https://www.theguardian.com/science/2020/aug/10/planet-ceres-ocean-world-sea-water-beneath-surface
+1290,HackerNews,2020-08-10T20:43:01.000Z,1597092181,184,436,one ballot rejected last month votebymail election new jersey,https://www.njspotlight.com/2020/06/one-in-10-ballots-rejected-in-last-months-vote-by-mail-elections/
+1291,HackerNews,2020-08-10T18:16:06.000Z,1597083366,137,6,ux design tool method framework generalist,https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design
+1292,HackerNews,2020-08-10T16:56:24.000Z,1597078584,195,200,epa rescind methane regulation oil gas,https://www.wsj.com/articles/epa-to-rescind-methane-regulations-for-oil-and-gas-11597051802
+1293,HackerNews,2020-08-10T16:27:20.000Z,1597076840,123,26,wiltshire valley local build mobile phone network,https://www.newscabal.co.uk/wiltshire-valley-locals-build-their-own-mobile-phone-network/
+1294,HackerNews,2020-08-10T16:26:52.000Z,1597076812,347,391,clean network united state department state,https://www.state.gov/5g-clean-network/
+1295,HackerNews,2020-08-10T15:13:18.000Z,1597072398,146,64,got favicon,https://thehistoryoftheweb.com/how-we-got-the-favicon/
+1296,HackerNews,2020-08-10T14:50:28.000Z,1597071028,377,113,vulnerability qualcomm snapdragon chip,https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/
+1297,HackerNews,2020-08-10T14:46:38.000Z,1597070798,465,135,g suite nt let contact support logged locked stuck,
+1298,HackerNews,2020-08-10T14:39:01.000Z,1597070341,168,139,wiki bankruptcy,https://critter.blog/2020/08/10/wiki-bankruptcy/
+1299,HackerNews,2020-08-10T14:38:31.000Z,1597070311,333,162,like octopus,https://www.lrb.co.uk/the-paper/v39/n17/amia-srinivasan/the-sucker-the-sucker
+1300,HackerNews,2020-08-10T14:37:25.000Z,1597070245,86,173,new fitness habit created covid,https://www.forbes.com/sites/markhall/2020/08/10/golden-age-of-fitness/#44fc16b22dff
+1301,HackerNews,2020-08-10T14:36:05.000Z,1597070165,113,73,apple ad network get preferential access user data v facebook google,https://www.forbes.com/sites/johnkoetsier/2020/08/07/apple-ad-network-gets-special-privileges-that-facebook-google-wont-on-ios14/
+1302,HackerNews,2020-08-10T14:30:47.000Z,1597069847,143,69,nice problem nt solve,https://davnicwil.com/if-its-a-nice-problem-to-have-dont-solve-it-now
+1303,HackerNews,2020-08-10T14:24:27.000Z,1597069467,164,162,boeing receive software update floppy disk,https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/
+1304,HackerNews,2020-08-10T14:19:58.000Z,1597069198,190,85,launch hn rallyvideo yc dynamic video platform social group,
+1305,HackerNews,2020-08-10T14:12:32.000Z,1597068752,127,19,forgotten one hp nanoprocessor,http://www.cpushack.com/2020/08/09/the-forgotten-ones-hp-nanoprocessor/
+1306,HackerNews,2020-08-10T14:08:56.000Z,1597068536,289,411,ups bought home server may useful think,https://fitzcarraldoblog.wordpress.com/2020/08/09/that-ups-you-bought-for-your-home-server-may-not-be-as-useful-as-you-think/
+1307,HackerNews,2020-08-10T13:24:50.000Z,1597065890,393,354,pdf still unfit human consumption year later,https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/
+1308,HackerNews,2020-08-10T12:20:56.000Z,1597062056,217,27,olric distributed inmemory data structure go,https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=
+1309,HackerNews,2020-08-10T12:20:31.000Z,1597062031,139,95,nsa tip keep phone tracking,https://www.wired.com/story/nsa-tips-smartphone-data-canon-ransomware-twitter-bug-security-news/
+1310,HackerNews,2020-08-10T11:32:41.000Z,1597059161,221,212,c never stop making mistake,https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you
+1311,HackerNews,2020-08-10T10:48:16.000Z,1597056496,85,40,tech monopoly reason u tiktok problem,https://promarket.org/2020/08/07/tech-monopolies-are-the-reason-the-us-now-has-a-tiktok-problem/
+1312,HackerNews,2020-08-10T10:40:51.000Z,1597056051,168,76,periodic table colour coded likely origin element,https://twitter.com/olivertlord/status/1292562140776271872
+1313,HackerNews,2020-08-10T10:29:18.000Z,1597055358,218,142,software free,https://www.gnu.org/philosophy/shouldbefree.en.html
+1314,HackerNews,2020-08-10T10:11:29.000Z,1597054289,333,667,ceo uber gig worker deserve better,https://www.nytimes.com/2020/08/10/opinion/uber-ceo-dara-khosrowshahi-gig-workers-deserve-better.html
+1315,HackerNews,2020-08-10T08:26:42.000Z,1597048002,121,36,spacetime wave packet new class laser defies law light physic,https://newatlas.com/physics/spacetime-wave-packets-laser-light-refraction/
+1316,HackerNews,2020-08-10T07:40:03.000Z,1597045203,411,456,better sql,https://edgedb.com/blog/we-can-do-better-than-sql/
+1317,HackerNews,2020-08-10T07:30:01.000Z,1597044601,256,183,tried starting manufacturing unit india,https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/
+1318,HackerNews,2020-08-10T06:28:49.000Z,1597040929,297,141,linux backdoor attempt,https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/
+1319,HackerNews,2020-08-10T05:09:15.000Z,1597036155,100,54,codata action connect fp oop,https://www.javiercasas.com/articles/codata-in-action/
+1320,HackerNews,2020-08-10T05:03:59.000Z,1597035839,111,55,tripping pothole many library,http://rachelbythebay.com/w/2020/08/09/lib/
+1321,HackerNews,2020-08-10T04:19:54.000Z,1597033194,207,288,fact fit anticolonialist narrative,https://unherd.com/2020/08/anti-colonialists-must-tell-the-truth-about-empire/
+1322,HackerNews,2020-08-10T04:10:15.000Z,1597032615,435,265,statement google conduct founder celebritynetworthcom pdf,https://docs.house.gov/meetings/JU/JU05/20190716/109793/HHRG-116-JU05-20190716-SD015.pdf
+1323,HackerNews,2020-08-10T03:47:03.000Z,1597031223,445,336,hong kong medium tycoon jimmy lai arrested national security law,https://www.reuters.com/article/us-hongkong-security/hk-media-tycoon-jimmy-lai-arrested-under-national-security-law-top-aide-idUSKCN25600L
+1324,HackerNews,2020-08-10T03:38:00.000Z,1597030680,241,71,photo bell lab datacenter,https://rarehistoricalphotos.com/inside-bell-labs-datacenter-1960s/
+1325,HackerNews,2020-08-10T03:34:23.000Z,1597030463,151,28,hong kong prodemocracy tycoon jimmy lai arrested,https://www.bbc.com/news/world-asia-china-53717843
+1326,HackerNews,2020-08-10T02:31:57.000Z,1597026717,100,131,man saved kyoto atomic bomb,https://www.bbc.com/news/world-asia-33755182
+1327,HackerNews,2020-08-10T02:29:30.000Z,1597026570,489,515,microsoft president need hippocratic oath software engineer,https://capitalandgrowth.org/answers/Article/3323627/Microsoft-President-Brad-Smith-Why-We-Urgently-Need-a-Hippocratic-Oath-for-Software-Engineers?src=hn
+1328,HackerNews,2020-08-10T01:46:34.000Z,1597023994,427,367,long freezer stay frozen power go,https://woodgears.ca/heating/freezer.html
+1329,HackerNews,2020-08-09T23:13:33.000Z,1597014813,681,417,fed announces detail new interbank service support instant payment,https://www.federalreserve.gov/newsevents/pressreleases/other20200806a.htm
+1330,HackerNews,2020-08-09T23:12:16.000Z,1597014736,792,185,want aws region everything break high frequency,https://twitter.com/cperciva/status/1292260921893457920
+1331,HackerNews,2020-08-09T23:08:46.000Z,1597014526,100,122,counterintuitive recession ever,https://awealthofcommonsense.com/2020/08/the-most-counterintuitive-recession-ever/
+1332,HackerNews,2020-08-09T22:34:43.000Z,1597012483,92,60,coalfired plant converted natural gas since,https://www.eia.gov/todayinenergy/detail.php?id=44636
+1333,HackerNews,2020-08-09T21:59:32.000Z,1597010372,242,149,linux,https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/
+1334,HackerNews,2020-08-09T21:50:25.000Z,1597009825,176,101,graalvm,https://www.graalvm.org/
+1335,HackerNews,2020-08-09T20:32:02.000Z,1597005122,207,23,let implement bloom filter,https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
+1336,HackerNews,2020-08-09T19:03:45.000Z,1596999825,110,29,precise replica verilog based reverse engineering real die,https://github.com/1801BM1/vm80a
+1337,HackerNews,2020-08-09T18:56:54.000Z,1596999414,166,27,glasgow scot army knife electronics,https://github.com/GlasgowEmbedded/glasgow
+1338,HackerNews,2020-08-09T18:53:53.000Z,1596999233,148,52,malicious tor relay exploiting user,https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac
+1339,HackerNews,2020-08-09T18:52:12.000Z,1596999132,559,195,dorking use search engine find specific data,https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html
+1340,HackerNews,2020-08-09T18:26:29.000Z,1596997589,181,158,hiroshima,https://www.newyorker.com/magazine/1946/08/31/hiroshima
+1341,HackerNews,2020-08-09T18:16:48.000Z,1596997008,120,36,zippy fast lightweight python implementation using truffle framework,https://github.com/securesystemslab/zippy
+1342,HackerNews,2020-08-09T17:43:51.000Z,1596995031,88,69,economy gastronomy seems changed lifestyle good,https://www.economist.com/graphic-detail/2020/08/08/covid-19-seems-to-have-changed-lifestyles-for-good
+1343,HackerNews,2020-08-09T16:03:10.000Z,1596988990,344,460,interview bill gate covid social medium,https://www.wired.com/story/bill-gates-on-covid-most-us-tests-are-completely-garbage/#intcid=recommendations_wired-right-rail_dba541f5-54c4-45bf-b217-cbdce1ef7e25_popular4-1
+1344,HackerNews,2020-08-09T15:49:49.000Z,1596988189,105,52,look back memory model msdos,https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012
+1345,HackerNews,2020-08-09T15:44:52.000Z,1596987892,78,19,u navy sextrafficing scandal bahrain,https://www.militarytimes.com/bahrain-scandal/
+1346,HackerNews,2020-08-09T14:49:17.000Z,1596984557,223,149,smt solving iphone,https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html
+1347,HackerNews,2020-08-09T14:30:01.000Z,1596983401,284,268,people work longer different hour lockdown,https://workplaceinsight.net/people-work-longer-and-different-hours-under-lockdown/
+1348,HackerNews,2020-08-09T13:25:59.000Z,1596979559,274,26,eff defends public right access court record patent ownership,https://www.eff.org/deeplinks/2020/08/victory-eff-defends-publics-right-access-court-records-about-patent-ownership
+1349,HackerNews,2020-08-09T13:18:25.000Z,1596979105,262,208,adding fiber link home network,https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/
+1350,HackerNews,2020-08-09T12:46:56.000Z,1596977216,198,178,got japanese permanent residency,https://www.dampfkraft.com/how-i-got-my-japanese-pr.html
+1351,HackerNews,2020-08-09T12:46:06.000Z,1596977166,76,26,reemergent strain gainoffunction debate,https://mbio.asm.org/content/6/4/e01013-15
+1352,HackerNews,2020-08-09T12:32:20.000Z,1596976340,208,95,github arctic code vault tech tree,https://github.com/github/archive-program/blob/master/TheTechTree.md
+1353,HackerNews,2020-08-09T12:28:24.000Z,1596976104,146,100,stopping deepfake news ai algorithm tell face doesnt fit,https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit
+1354,HackerNews,2020-08-09T12:04:42.000Z,1596974682,164,31,show hn kowl open source webui apache kafka good ui ux,https://github.com/cloudhut/kowl
+1355,HackerNews,2020-08-09T11:42:35.000Z,1596973355,309,471,ask hn available force multiplier people nt know,
+1356,HackerNews,2020-08-09T11:06:36.000Z,1596971196,152,6,reverse engineering beginner pdf,https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf
+1357,HackerNews,2020-08-09T11:03:18.000Z,1596970998,167,290,got weird,https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16
+1358,HackerNews,2020-08-09T10:26:56.000Z,1596968816,83,54,validating kubernetes yaml best practice policy,https://learnk8s.io/validating-kubernetes-yaml
+1359,HackerNews,2020-08-09T10:26:45.000Z,1596968805,125,91,vertigo public domain flight simulator,http://stjerneskud.info/vertigo/
+1360,HackerNews,2020-08-09T08:24:15.000Z,1596961455,98,149,ize,http://www.metadyne.co.uk/ize.html
+1361,HackerNews,2020-08-09T05:57:51.000Z,1596952671,130,106,thing tech expert anymore,http://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore
+1362,HackerNews,2020-08-09T05:17:18.000Z,1596950238,95,11,run llvm assembly browser,http://kripken.github.io/llvm.js/demo.html
+1363,HackerNews,2020-08-09T05:10:48.000Z,1596949848,392,273,fire bad customer,https://www.preetamnath.com/blog/fire-your-bad-customers
+1364,HackerNews,2020-08-09T04:51:57.000Z,1596948717,120,63,ask hn organisation train programmer,
+1365,HackerNews,2020-08-09T04:43:20.000Z,1596948200,191,105,argc argv come,https://briancallahan.net/blog/20200808.html
+1366,HackerNews,2020-08-09T04:30:53.000Z,1596947453,181,71,thinkpad,https://pappp.net/?p=26440
+1367,HackerNews,2020-08-09T03:15:15.000Z,1596942915,133,21,example imagemagick usage,http://www.imagemagick.org/Usage/
+1368,HackerNews,2020-08-09T03:02:30.000Z,1596942150,376,83,german front rare color photo,https://rarehistoricalphotos.com/hans-hildenbrand-german-front-in-rare-color-photos-1914-1918/
+1369,HackerNews,2020-08-09T02:50:19.000Z,1596941419,107,88,lowcost measurement facemask efficacy filtering expelled droplet,https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083
+1370,HackerNews,2020-08-09T00:20:46.000Z,1596932446,378,98,twitter x tiktok twiktwok,https://twiktwok.github.io/
+1371,HackerNews,2020-08-08T23:47:11.000Z,1596930431,155,17,real time machine learning pdf,https://www.darpa.mil/attachments/Real%20Time%20Machine%20Learning%20Proposers%20Day_v3.pdf
+1372,HackerNews,2020-08-08T23:32:01.000Z,1596929521,427,147,firefox voice,https://voice.mozilla.org/firefox-voice/
+1373,HackerNews,2020-08-08T22:33:14.000Z,1596925994,92,104,twitter tiktok held preliminary talk possible combination,https://www.wsj.com/articles/twitter-tiktok-have-held-preliminary-talks-about-possible-combination-11596925449
+1374,HackerNews,2020-08-08T20:44:09.000Z,1596919449,102,147,spacex ula win billion pentagon rocket contract,https://www.cnbc.com/2020/08/07/spacex-and-ula-win-2022-pentagon-rocket-launch-contracts.html
+1375,HackerNews,2020-08-08T19:40:48.000Z,1596915648,117,28,explorer,https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
+1376,HackerNews,2020-08-08T19:27:01.000Z,1596914821,302,136,rome linter javascript typescript,https://romefrontend.dev/blog/2020/08/08/introducing-rome.html
+1377,HackerNews,2020-08-08T19:20:57.000Z,1596914457,345,178,upi india unified payment interface,https://the-other-side.blog/upi-the-basics/
+1378,HackerNews,2020-08-08T19:13:41.000Z,1596914021,87,22,water beetle survive swallowed frog,https://www.scientificamerican.com/article/after-being-swallowed-alive-water-beetle-stages-backdoor-escape-from-frogs-gut/
+1379,HackerNews,2020-08-08T18:57:50.000Z,1596913070,768,333,apple take legal action small company pear logo,https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/
+1380,HackerNews,2020-08-08T18:46:04.000Z,1596912364,141,318,facebook remove qanon conspiracy group member,https://www.bbc.com/news/technology-53692545
+1381,HackerNews,2020-08-08T17:49:32.000Z,1596908972,96,32,algorithmic theory everything,https://arxiv.org/abs/quant-ph/0011122
+1382,HackerNews,2020-08-08T17:27:39.000Z,1596907659,106,187,wheat yield potential controlledenvironment vertical farm,https://www.pnas.org/content/early/2020/07/21/2002655117
+1383,HackerNews,2020-08-08T16:48:07.000Z,1596905287,201,126,electric cooker easy efficient way sanitize mask study find,https://news.illinois.edu/view/6367/143865832
+1384,HackerNews,2020-08-08T16:32:15.000Z,1596904335,170,47,attempt make font look handwritten,https://jvns.ca/blog/2020/08/08/handwritten-font/
+1385,HackerNews,2020-08-08T15:58:37.000Z,1596902317,228,55,reverseengineering intel instruction register,http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
+1386,HackerNews,2020-08-08T15:51:05.000Z,1596901865,246,118,snapdragon chip flaw put android phone risk data theft,https://arstechnica.com/information-technology/2020/08/snapdragon-chip-flaws-put-1-billion-android-phones-at-risk-of-data-theft/
+1387,HackerNews,2020-08-08T15:29:05.000Z,1596900545,146,25,audio scratch go extracting breakpoints,https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/
+1388,HackerNews,2020-08-08T14:49:36.000Z,1596898176,124,61,cheap fpga development board,https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards
+1389,HackerNews,2020-08-08T14:08:36.000Z,1596895716,107,29,smartphone hardening nonroot guide normal people,https://dev.lemmy.ml/post/38770
+1390,HackerNews,2020-08-08T14:08:27.000Z,1596895707,320,527,ask hn feature find year using macos,
+1391,HackerNews,2020-08-08T13:46:11.000Z,1596894371,147,28,sixth stage grief retrocomputing,https://medium.com/message/networks-without-networks-7644933a3100
+1392,HackerNews,2020-08-08T13:45:31.000Z,1596894331,146,25,linux driver connect pataide directly gpio,https://github.com/Manawyrm/pata-gpio
+1393,HackerNews,2020-08-08T13:43:14.000Z,1596894194,357,214,ask show hn ever coded love willing share,
+1394,HackerNews,2020-08-08T13:13:51.000Z,1596892431,217,89,cia lacing,https://www.fieggen.com/shoelace/cialacing.htm
+1395,HackerNews,2020-08-08T12:57:57.000Z,1596891477,105,11,website make geometry shape paper,https://felixboiii.github.io/paper-plotter/
+1396,HackerNews,2020-08-08T12:51:19.000Z,1596891079,239,121,iam hard thought fine capital one breach,https://twitter.com/kmcquade3/status/1291801858676228098
+1397,HackerNews,2020-08-08T12:23:50.000Z,1596889430,129,21,formulog ml datalog smt,http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/
+1398,HackerNews,2020-08-08T12:08:30.000Z,1596888510,321,274,google speaker listening voice command,https://www.protocol.com/google-smart-speaker-alarm-adt
+1399,HackerNews,2020-08-08T12:01:56.000Z,1596888116,98,35,show hn warp python based musictheory aware midi sequencer,http://warpseq.com
+1400,HackerNews,2020-08-08T11:54:00.000Z,1596887640,329,249,chinese official hijacked company,https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617
+1401,HackerNews,2020-08-08T11:31:08.000Z,1596886268,80,29,learned worst novelist english language,https://newrepublic.com/article/158761/learned-worst-novelist-english-language
+1402,HackerNews,2020-08-08T11:10:44.000Z,1596885044,100,112,norway advises citizen avoid travel abroad,https://www.theguardian.com/world/live/2020/aug/07/coronavirus-live-news-africa-passes-1-million-cases-checkpoints-outside-new-york-city
+1403,HackerNews,2020-08-08T11:07:16.000Z,1596884836,204,181,debt collector profit soar people flush easy find,https://www.bloomberg.com/news/articles/2020-08-07/debt-collector-profits-soar-with-people-flush-and-easy-to-find
+1404,HackerNews,2020-08-08T11:05:43.000Z,1596884743,135,27,elixir ram template doom,https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html
+1405,HackerNews,2020-08-08T11:04:10.000Z,1596884650,95,53,u government allowing bear wolf hunted den,https://www.nationalgeographic.com/animals/2020/08/new-hunting-rules-alaska-national-preserves/
+1406,HackerNews,2020-08-08T10:51:20.000Z,1596883880,84,27,company lot smarter u luck,https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php
+1407,HackerNews,2020-08-08T10:20:50.000Z,1596882050,453,410,oatly new coke,https://divinations.substack.com/p/oatly-the-new-coke#
+1408,HackerNews,2020-08-08T09:43:29.000Z,1596879809,121,127,haskell new clothes,https://github.com/serras/hinc
+1409,HackerNews,2020-08-08T08:43:19.000Z,1596876199,111,33,bootstrap finance cost people money pdf,http://library.cust.edu.pk/teacher_resources/Cases&Articles/Entrepreneurship/BootstrapFinance-TheArtofStart-Ups.pdf
+1410,HackerNews,2020-08-08T08:28:38.000Z,1596875318,259,78,typing hard,https://typing-is-hard.ch/
+1411,HackerNews,2020-08-08T07:43:37.000Z,1596872617,130,95,facebook relaxed misinformation rule conservative page,https://www.nbcnews.com/tech/tech-news/sensitive-claims-bias-facebook-relaxed-misinformation-rules-conservative-pages-n1236182
+1412,HackerNews,2020-08-08T07:22:32.000Z,1596871352,78,93,music good gold oil man spending billion old hit,https://www.theguardian.com/business/2020/aug/08/music-hits-elton-john-beyonce-merck-mercuriadis
+1413,HackerNews,2020-08-08T06:41:23.000Z,1596868883,90,21,shiro kawai schemer lisper actor,
+1414,HackerNews,2020-08-08T05:24:59.000Z,1596864299,167,53,speculative dereferencing register reviving foreshadow pdf,https://arxiv.org/pdf/2008.02307.pdf
+1415,HackerNews,2020-08-08T04:32:27.000Z,1596861147,249,124,want learn physic,https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
+1416,HackerNews,2020-08-08T03:51:14.000Z,1596858674,109,45,female artist shaped manga history,https://www.theatlantic.com/culture/archive/2020/08/kuniko-tsurita-literary-manga-history-gender/614971/
+1417,HackerNews,2020-08-08T03:01:50.000Z,1596855710,194,324,ask hn film made see world differently,
+1418,HackerNews,2020-08-08T02:46:25.000Z,1596854785,207,228,driver keep window exposed percent air pollution,https://www.surrey.ac.uk/news/drivers-who-keep-their-windows-down-are-exposed-80-percent-more-air-pollution
+1419,HackerNews,2020-08-08T01:32:13.000Z,1596850333,360,391,alcohol social technology check trustworthiness others,https://hndex.org/7798063
+1420,HackerNews,2020-08-08T01:22:41.000Z,1596849761,88,22,show hn simple fo selfhosted budgeting app,https://github.com/inoda/ontrack
+1421,HackerNews,2020-08-07T23:00:18.000Z,1596841218,159,320,swedish doctor perspective covid,https://sebastianrushworth.com/2020/08/04/how-bad-is-covid-really-a-swedish-doctors-perspective/
+1422,HackerNews,2020-08-07T22:54:36.000Z,1596840876,325,166,idiot running engineering org,https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb
+1423,HackerNews,2020-08-07T20:39:47.000Z,1596832787,217,162,silicon valley vast data collection worry tiktok,https://jacobinmag.com/2020/08/tiktok-surveillance-social-media-trump
+1424,HackerNews,2020-08-07T19:20:39.000Z,1596828039,564,447,atlassian tell employee work home forever,https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html
+1425,HackerNews,2020-08-07T19:17:25.000Z,1596827845,121,19,geometric folding algorithm linkage origami polyhedron,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/
+1426,HackerNews,2020-08-07T19:17:02.000Z,1596827822,108,44,def con safe mode,http://defcon.outel.org/
+1427,HackerNews,2020-08-07T19:07:45.000Z,1596827265,190,40,power internal collaboration wordpresscom free,https://wordpress.com/blog/2020/08/06/improve-your-remote-collaboration-with-p2/
+1428,HackerNews,2020-08-07T19:02:57.000Z,1596826977,301,73,tech giant let web metadata schema infrastructure languish,https://threadreaderapp.com/thread/1291509746000855040.html
+1429,HackerNews,2020-08-07T18:44:25.000Z,1596825865,334,149,government pacer fee high federal circuit say,https://news.bloomberglaw.com/white-collar-and-criminal-law/federal-circuit-affirms-limits-on-how-government-uses-pacer-fees
+1430,HackerNews,2020-08-07T18:00:52.000Z,1596823252,167,111,launch hn nestybox yc container beyond microservices,
+1431,HackerNews,2020-08-07T17:25:01.000Z,1596821101,396,378,apple say game streaming service violate app store policy,https://www.businessinsider.com/apple-explains-why-xbox-game-pass-is-not-on-iphone-2020-8
+1432,HackerNews,2020-08-07T16:42:00.000Z,1596818520,124,45,exploiting android messenger webrtc,https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html?m=1
+1433,HackerNews,2020-08-07T16:30:40.000Z,1596817840,229,109,psychedelic inspiration hypercard,https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/
+1434,HackerNews,2020-08-07T16:07:33.000Z,1596816453,235,26,pysa open source tool detect prevent security issue python code,https://engineering.fb.com/security/pysa/
+1435,HackerNews,2020-08-07T15:55:14.000Z,1596815714,623,204,microsoft fast design,https://www.fast.design/docs/introduction
+1436,HackerNews,2020-08-07T15:21:17.000Z,1596813677,150,83,facebook fired employee posted evidence preferential treatment,https://www.buzzfeednews.com/article/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results
+1437,HackerNews,2020-08-07T14:58:12.000Z,1596812292,171,276,onethird american renter expected miss august payment,https://www.bloomberg.com/news/articles/2020-08-07/survey-exposes-america-s-looming-rent-crisis
+1438,HackerNews,2020-08-07T14:42:29.000Z,1596811349,437,304,head regulator google make certain word taboo,https://themarkup.org/google-the-giant/2020/08/07/google-documents-show-taboo-words-antitrust
+1439,HackerNews,2020-08-07T14:32:14.000Z,1596810734,193,120,julia production ready,https://bkamins.github.io/julialang/2020/08/07/production-ready.html
+1440,HackerNews,2020-08-07T14:30:21.000Z,1596810621,109,72,minimal set optimization needed zerocost abstraction,https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html
+1441,HackerNews,2020-08-07T14:16:59.000Z,1596809819,152,95,much thing change,http://rodneybrooks.com/how-much-things-can-change/
+1442,HackerNews,2020-08-07T13:59:00.000Z,1596808740,120,39,introduction godel theorem second edition pdf,https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf
+1443,HackerNews,2020-08-07T13:46:41.000Z,1596808001,147,60,performance usermode thread coroutines,https://inside.java/2020/08/07/loomperformance/
+1444,HackerNews,2020-08-07T13:13:55.000Z,1596806035,149,157,dementia retreat u europe,https://www.nytimes.com/2020/08/03/health/alzheimers-dementia-rates.html
+1445,HackerNews,2020-08-07T12:48:43.000Z,1596804523,160,18,awesomesysadmin curated list amazingly open source sysadmin resource,https://github.com/kahun/awesome-sysadmin
+1446,HackerNews,2020-08-07T12:17:53.000Z,1596802673,187,34,made mechanical keyboard switch,https://incoherency.co.uk/blog/stories/jesboard.html
+1447,HackerNews,2020-08-07T11:24:07.000Z,1596799447,235,66,sweatpants forever fashion industry collapsed,https://www.nytimes.com/interactive/2020/08/06/magazine/fashion-sweatpants.html
+1448,HackerNews,2020-08-07T11:10:59.000Z,1596798659,110,188,u split internet,https://www.bbc.co.uk/news/technology-53686390
+1449,HackerNews,2020-08-07T10:58:02.000Z,1596797882,210,83,declining eyesight improved looking deep red light,https://www.eurekalert.org/pub_releases/2020-06/ucl-dei062620.php
+1450,HackerNews,2020-08-07T10:38:29.000Z,1596796709,261,96,infinity opensource search engine,https://infinitysearch.co
+1451,HackerNews,2020-08-07T10:27:02.000Z,1596796022,388,549,mac keyboard shortcut,https://support.apple.com/en-us/HT201236
+1452,HackerNews,2020-08-07T09:28:41.000Z,1596792521,155,65,cno neutrino sun finally detected,https://www.syfy.com/syfywire/after-nearly-a-century-elusive-cno-neutrinos-are-finally-seen-from-the-sun
+1453,HackerNews,2020-08-07T08:31:46.000Z,1596789106,722,133,open sourcing pwned code base,https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/
+1454,HackerNews,2020-08-07T08:17:27.000Z,1596788247,436,76,show hn hndexorg fulltext search engine article submitted hn,https://hndex.org/
+1455,HackerNews,2020-08-07T07:09:13.000Z,1596784153,90,31,rebol shell interface,http://www.rebol.com/docs/shell.html
+1456,HackerNews,2020-08-07T06:53:11.000Z,1596783191,96,11,beyond krøøk even chip vulnerable eavesdropping,https://www.welivesecurity.com/2020/08/06/beyond-kr00k-even-more-wifi-chips-vulnerable-eavesdropping/
+1457,HackerNews,2020-08-07T06:35:57.000Z,1596782157,409,211,crush command line shell also powerful modern programming language,https://github.com/liljencrantz/crush
+1458,HackerNews,2020-08-07T06:34:23.000Z,1596782063,332,76,trying build ultimate raspberry pi computer zero terminal,https://n-o-d-e.net/zeroterminal3.html
+1459,HackerNews,2020-08-07T06:04:47.000Z,1596780287,126,62,popcorn computer pocket pc open sourced,https://blog.popcorncomputer.com/2020/08/05/pocket-p-c-open-sourced/
+1460,HackerNews,2020-08-07T05:52:22.000Z,1596779542,311,154,toshiba formally finally exit laptop business,https://www.theregister.com/2020/08/07/toshiba_sells_last_dynabook_shares/
+1461,HackerNews,2020-08-07T05:43:01.000Z,1596778981,85,56,depends upon meaning word,https://meaningness.com/eggplant/formal-logic
+1462,HackerNews,2020-08-07T05:12:39.000Z,1596777159,96,130,australia fasttracks plan send solar power singapore,https://www.bloomberg.com/news/articles/2020-07-29/australia-fast-tracks-plan-to-send-solar-power-to-singapore
+1463,HackerNews,2020-08-07T04:50:24.000Z,1596775824,150,118,classic google site shutting september,https://support.google.com/a/answer/9958187
+1464,HackerNews,2020-08-07T04:45:55.000Z,1596775555,95,50,become good theoretical physicist,https://www.goodtheorist.science/
+1465,HackerNews,2020-08-07T04:37:08.000Z,1596775028,175,207,apple belief ai say critic wrong,https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/
+1466,HackerNews,2020-08-07T02:23:43.000Z,1596767023,97,78,american enough asset withstand month without income,https://today.oregonstate.edu/news/study-most-americans-don’t-have-enough-assets-withstand-3-months-without-income
+1467,HackerNews,2020-08-07T02:17:01.000Z,1596766621,385,387,facebook fired employee collected evidence potential political bias,https://www.buzzfeednews.com/craigsilverman/facebook-zuckerberg-what-if-trump-disputes-election-results
+1468,HackerNews,2020-08-07T02:13:08.000Z,1596766388,733,1172,u ban transaction bytedance wechat day,https://asia.nikkei.com/Politics/International-relations/US-China-tensions/Trump-to-ban-transactions-with-ByteDance-and-Tencent-in-45-days
+1469,HackerNews,2020-08-07T00:56:42.000Z,1596761802,136,119,listen sf kimchi maker saw food tech practice close,https://www.kqed.org/news/11831806/they-just-dont-listen-sf-kimchi-maker-saw-food-tech-practices-up-close-in-her-kitchen
+1470,HackerNews,2020-08-07T00:15:04.000Z,1596759304,81,141,using twitter,https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919
+1471,HackerNews,2020-08-06T22:27:57.000Z,1596752877,177,174,direct evidence tcell immunity factor behind heterogeneity,https://science.sciencemag.org/content/early/2020/08/04/science.abd3871
+1472,HackerNews,2020-08-06T22:26:16.000Z,1596752776,274,188,first impression rust,https://john-millikin.com/first-impressions-of-rust
+1473,HackerNews,2020-08-06T21:51:10.000Z,1596750670,135,123,shaving dulls even sharpest razor,https://news.mit.edu/2020/why-shaving-dulls-razors-0806
+1474,HackerNews,2020-08-06T21:17:48.000Z,1596748668,116,63,diluted blood plasma found reverse aging mouse,https://newatlas.com/medical/diluted-blood-plasma-reverse-aging-in-mice
+1475,HackerNews,2020-08-06T20:38:40.000Z,1596746320,140,24,interlisp project restore interlispd usability modern os,http://interlisp.org/
+1476,HackerNews,2020-08-06T20:37:24.000Z,1596746244,166,30,nineyearold bug go standard library enables do,https://github.com/ethereum/public-attacknets/issues/12
+1477,HackerNews,2020-08-06T19:34:24.000Z,1596742464,1062,432,leak intel data whole git repository dev tool backdoor mention,https://twitter.com/deletescape/status/1291405688204402689
+1478,HackerNews,2020-08-06T19:28:00.000Z,1596742080,172,216,surviving django care database,https://www.varrazzo.com/blog/2020/07/25/surviving-django/
+1479,HackerNews,2020-08-06T19:04:39.000Z,1596740679,213,268,busted retailer use bankruptcy break lease thousand,https://www.bnnbloomberg.ca/busted-retailers-use-bankruptcy-to-break-leases-by-the-thousands-1.1476347
+1480,HackerNews,2020-08-06T18:58:24.000Z,1596740304,117,38,signaling virtuous victimhood indicator dark triad personality pdf,https://www.gwern.net/docs/psychology/2020-ok.pdf
+1481,HackerNews,2020-08-06T17:06:53.000Z,1596733613,634,65,combinator startup library,https://www.ycombinator.com/library
+1482,HackerNews,2020-08-06T16:55:13.000Z,1596732913,420,62,crash course hacking satellite,https://nyan-sat.com/chapter0.html
+1483,HackerNews,2020-08-06T16:48:49.000Z,1596732529,104,66,lab mouse chill may messing study result,https://www.statnews.com/2016/04/19/lab-mice-temperature/
+1484,HackerNews,2020-08-06T16:29:08.000Z,1596731348,242,158,fed move block california net neutrality law,https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps
+1485,HackerNews,2020-08-06T16:11:59.000Z,1596730319,125,56,scaled google meet,https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19
+1486,HackerNews,2020-08-06T15:50:13.000Z,1596729013,173,50,auth available supabase yc,https://supabase.io/blog/2020/08/05/supabase-auth
+1487,HackerNews,2020-08-06T15:45:05.000Z,1596728705,75,62,partial freedom latvia found kgb archive,https://www.nybooks.com/daily/2019/03/05/a-partial-freedom-what-latvia-found-in-the-kgb-archives/
+1488,HackerNews,2020-08-06T15:43:08.000Z,1596728588,188,76,launch hn datafold yc diff tool sql database,
+1489,HackerNews,2020-08-06T15:27:35.000Z,1596727655,217,123,nerf wild reconstructing scene internet photography,https://nerf-w.github.io/
+1490,HackerNews,2020-08-06T15:11:56.000Z,1596726716,184,138,twitter web app run reducing polyfill bundle size,https://twitter.com/wongmjane/status/1291388433747685376
+1491,HackerNews,2020-08-06T15:09:02.000Z,1596726542,351,424,google discontinues pixel nine month release,https://techcrunch.com/2020/08/06/google-discontinues-the-pixel-4-nine-months-after-release/
+1492,HackerNews,2020-08-06T14:27:50.000Z,1596724070,107,42,confidential computing game changer,https://www.darkreading.com/cloud/why-confidential-computing-is-a-game-changer/a/d-id/1338510
+1493,HackerNews,2020-08-06T14:11:23.000Z,1596723083,202,87,cluster chrome extension caught hijacking google bing search result,https://www.zdnet.com/article/cluster-of-295-chrome-extensions-caught-hijacking-google-and-bing-search-results/
+1494,HackerNews,2020-08-06T14:09:04.000Z,1596722944,1191,469,germany plan dim light night save insect,https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR
+1495,HackerNews,2020-08-06T13:10:52.000Z,1596719452,179,117,pulse oximeter give biased result people darker skin,https://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias
+1496,HackerNews,2020-08-06T12:56:28.000Z,1596718588,199,151,blackstone acquire ancestrycom,https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES
+1497,HackerNews,2020-08-06T12:45:21.000Z,1596717921,619,507,scientist rename human gene stop m excel misreading date,https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates
+1498,HackerNews,2020-08-06T12:35:06.000Z,1596717306,109,65,chrysler radical space shuttle design,https://www.thedrive.com/news/33905/chryslers-radical-space-shuttle-design-was-50-years-ahead-of-its-time
+1499,HackerNews,2020-08-06T12:34:03.000Z,1596717243,76,44,cerebral microstructural change patient,https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext
+1500,HackerNews,2020-08-06T12:05:05.000Z,1596715505,149,171,world data suicide,https://ourworldindata.org/suicide
+1501,HackerNews,2020-08-06T11:39:48.000Z,1596713988,86,36,albatross catch pirate high sea,https://www.bbc.com/future/article/20200708-the-albatrosses-who-catch-pirates-on-the-high-seas
+1502,HackerNews,2020-08-06T11:27:46.000Z,1596713266,137,61,math card shuffling,https://fredhohman.com/card-shuffling/
+1503,HackerNews,2020-08-06T10:52:12.000Z,1596711132,162,35,programming riscv vector instruction,https://gms.tf/riscv-vector.html
+1504,HackerNews,2020-08-06T10:26:22.000Z,1596709582,140,72,immunology intuition go die,https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/
+1505,HackerNews,2020-08-06T09:53:11.000Z,1596707591,503,151,simdjson parsing gigabyte json per second,https://github.com/simdjson/simdjson
+1506,HackerNews,2020-08-06T09:40:24.000Z,1596706824,152,17,herbie automatically improving floating point accuracy,https://herbie.uwplse.org/
+1507,HackerNews,2020-08-06T09:39:58.000Z,1596706798,384,188,usbkill antiforensic tool halt computer new usb device connected,https://github.com/hephaest0s/usbkill
+1508,HackerNews,2020-08-06T09:33:54.000Z,1596706434,342,211,opencore bootloader opensourced apple uefi driver enabling hackintosh,https://github.com/acidanthera/OpenCorePkg
+1509,HackerNews,2020-08-06T09:08:36.000Z,1596704916,132,120,inside look cloudkitchens,https://superfood.substack.com/p/exclusive-an-inside-look-at-cloudkitchens
+1510,HackerNews,2020-08-06T09:05:17.000Z,1596704717,83,27,microblocks scratch smalltalkinspired mcu vm live embedded programming,http://microblocks.fun/
+1511,HackerNews,2020-08-06T09:03:18.000Z,1596704598,132,60,noninvasive nerve stimulation boost learning foreign language sound study,https://medicalxpress.com/news/2020-08-non-invasive-nerve-boosts-foreign-language.html
+1512,HackerNews,2020-08-06T06:03:32.000Z,1596693812,264,164,journalist twitter use show talking within smaller bubble,https://news.illinois.edu/view/6367/326226550
+1513,HackerNews,2020-08-06T04:48:15.000Z,1596689295,164,83,epic system worker organizing,https://www.tonemadison.com/articles/epic-workers-arent-just-mad-theyre-organizing
+1514,HackerNews,2020-08-06T04:47:44.000Z,1596689264,157,74,take gitlab command line glab opensource gitlab cli tool,https://github.com/profclems/glab
+1515,HackerNews,2020-08-06T04:32:14.000Z,1596688334,175,112,wrong intel fix former principal engineer unloads,https://www.pcworld.com/article/3569182/whats-wrong-with-intel-and-how-to-fix-it-former-principal-engineer-unloads.html
+1516,HackerNews,2020-08-06T03:19:51.000Z,1596683991,214,94,new design ship philippine partly powered wave energy,https://www.bbc.com/future/article/20200718-the-revolutionary-electric-boat-powered-by-the-ocean
+1517,HackerNews,2020-08-06T03:01:25.000Z,1596682885,192,146,node module war commonjs e module get along,https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
+1518,HackerNews,2020-08-06T01:33:47.000Z,1596677627,114,52,book sold save life,https://sive.rs/250k
+1519,HackerNews,2020-08-06T01:06:58.000Z,1596676018,126,19,working public making maintenance open source software,https://www.amazon.com/dp/0578675862/
+1520,HackerNews,2020-08-06T00:18:21.000Z,1596673101,120,77,expansion clean network safeguard america asset,https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/
+1521,HackerNews,2020-08-06T00:17:13.000Z,1596673033,199,83,stripe hire aws mike clayville chief revenue officer,https://stripe.com/en-au/newsroom/news/mike-clayville
+1522,HackerNews,2020-08-05T23:54:31.000Z,1596671671,109,57,touch typing gamepad,https://darkshadow.io/2020/07/07/touch-typing-on-a-gamepad.html
+1523,HackerNews,2020-08-05T23:48:29.000Z,1596671309,211,222,ask hn least competitive consumer enterprise market,
+1524,HackerNews,2020-08-05T23:46:27.000Z,1596671187,891,100,france allen died,https://www.ibm.com/blogs/research/2020/08/remembering-frances-allen/
+1525,HackerNews,2020-08-05T23:31:01.000Z,1596670261,356,199,creeping scourge tooling config file project root directory,https://github.com/nodejs/tooling/issues/79
+1526,HackerNews,2020-08-05T23:03:57.000Z,1596668637,303,48,compiler explorer,https://godbolt.org/
