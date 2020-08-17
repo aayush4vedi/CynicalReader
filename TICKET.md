@@ -31,7 +31,7 @@
 
 ## [Ticket2] Get HN Topics List : (14Aug20-23Aug)
 * **Target** : Get the list of all the big topics in last month of HN articles
-* [] Figure Out scraping @Aayush
+* [-] Figure Out scraping @Aayush
   * 1. HN Scrape: 
     * [x] Test which works better & meaningfully:
       * 1. [algolia](https://hn.algolia.com/api)   
@@ -40,24 +40,25 @@
         * will go with algolia's `http://hn.algolia.com/api/v1/search_by_date?tags=story&numericFilters=created_at_i>1597352419,created_at_i<1597525219,points>50`
         * Since API lim is 10k hits/hour; will give weekly epoch range & scrape per hour
         * Schema: ID,Source(=HN), Time(IST), Upvotes,NumComments, Title, Url , Content, WeightedContent
-        * TODO: Need to have full title(not preprocessed) as I need to decide the topic based on that.Preprocessing to be done while feeding to Algo
-        * TODO: Handle brokern/forbidden urls
-        * TODO: [x] handle https urls: tmp fixed(https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror), permanent soln later
+        * [x] Handle brokern/forbidden urls
+        * [x] handle https urls: tmp fixed(https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror), permanent soln later
+        * TODO: Need to have full title(not preprocessed) as I need to decide the topic based on that.Preprocessing to be done while feeding to Algo.Made the change.RUN `hn_scraper` again after 1 iteration is done
+        * TODO: HN scraping failed for '1596240000-1594771200', rerun!
   * 2. Inidvidual article linked website.Things to keep in mind:
     * Get meaningful content only i.e. remove ads, comments etc.
       * Appr1: Use someting like [boilerpipe](https://stackoverflow.com/questions/13791316/how-to-extract-meaningful-and-useful-content-from-web-pages) and use Adblockers data [ref](https://www.researchgate.net/post/How_do_I_extract_the_content_from_dynamic_web_pages)
       * App2: `python-readability` [link](https://github.com/buriy/python-readability) seems to work & gives only the main body(along with `doc.title()` & `doc.summary()`)
-        * [] Test `python-readability` for credebility on misc types websites
-        * [] if it works, still have to do:
+        * [x] Test `python-readability` for credebility on misc types websites
+        * [x] if it works, still have to do:
           * HTML:
             * get text *outside* tags => Content
             * get text *inside* tags => WeightedContent
           * images => get `alt` value of <img> for WeightedContent col 
           * videos/Anything else  => remove
   * 99. Last resort-PAID service [simplescrapper](https://simplescraper.io/)
-* [] Build LDA POC @Manchan for finding all the topics list on HN
+* [-] Build LDA POC @Manchan for finding all the topics list on HN
   * Tfidf will give good result in topic prediction(with comparison to Lda & bag of word)
   * LDA => word1->topic1, word2->topic2 ; this is not what we need
-  * [] Getting sentence-wise output Tfidf
-  * [] Then; do the same for other algorithms => MNF performing better
+  * [x] Getting sentence-wise output Tfidf
+  * [x] Then; do the same for other algorithms => MNF performing better
   * [] Then; get data from @Aayush and do the best performing algo on it

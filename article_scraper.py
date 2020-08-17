@@ -71,20 +71,21 @@ if __name__ == '__main__':
         '1589500800',
         '1590969600',
         '1592179200',
+        '1594771200',
         '1596240000',
-        # '1594771200',
-        # '1597449600',
+        '1597449600',
     ]
 
     # csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn_sample.csv'
     # csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn_sample_with_content.csv'
     # csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn_1581724800->1584230400.csv'
     # csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn_1581724800->1584230400_with_content.csv'
+    
     for i in range(len(timestamps_arr)-1):
         startepoch=timestamps_arr[i]
         endepoch=timestamps_arr[i+1]
-        csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn'+str(i)+'_' + str(startepoch)+'->'+ str(endepoch) + '.csv'
-        csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn'+str(i)+'_' + str(startepoch)+'->'+ str(endepoch) + 'wc.csv'
+        csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn15Feb_15Aug/hn'+str(i)+'_' + str(startepoch)+'->'+ str(endepoch) + '.csv'
+        csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/data/hn15Feb_15Aug/with_content/hn'+str(i)+'_' + str(startepoch)+'->'+ str(endepoch) + 'wc.csv'
 
         f = csv.writer(open(csv_dest_file, "w"))          # Flush the old file
         f.writerow(['ID', 'Source', 'TimeGST','TimeEpoch' ,'Upvotes', 'NumComments', 'Title', 'Url','ProcessdedTitle', 'WeightedContent','Content'])
@@ -97,8 +98,8 @@ if __name__ == '__main__':
                     print(f'Headers are {", ".join(row)}')
                     line_count += 1
                 url = row["Url"]
-                print("sleeping for 1 second.ZZZZZZZZZZzzzzzzzzzzzzzzzzz.........................................\n\n")
-                time.sleep(1) 
+                print("sleeping for 0.1 second ZZZZZZZZZZzzzzzzzzzzzzzzzzz.........................................\n")
+                time.sleep(0.1) 
                 try:
                     response = requests.get(url,verify=False,timeout=30)
                     if response.status_code == 200:
