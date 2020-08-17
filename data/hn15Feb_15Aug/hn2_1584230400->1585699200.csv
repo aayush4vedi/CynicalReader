@@ -1,0 +1,928 @@
+ID,Source,TimeGST,TimeEpoch,Upvotes,NumComments,Title,Url
+1441,HackerNews,2020-03-31T23:43:56.000Z,1585698236,280,156,Planning and Managing Layoffs,https://a16z.com/2020/03/31/planning-and-managing-layoffs/
+1442,HackerNews,2020-03-31T22:54:39.000Z,1585695279,125,29,Show HN: Xcnotary – a Mac app notarization helper made with Rust,https://github.com/akeru-inc/xcnotary/blob/master/README.md
+1443,HackerNews,2020-03-31T22:30:06.000Z,1585693806,119,57,Show HN: Bungholio – Get text messages when a product is available on Amazon,https://github.com/johntitus/bungholio
+1444,HackerNews,2020-03-31T22:12:20.000Z,1585692740,480,113,Vim rendered on a cube for no reason,https://github.com/oakes/vim_cubed
+1445,HackerNews,2020-03-31T22:08:57.000Z,1585692537,165,72,The end of an Era – changing every single instance of a 32-bit time_t in Linux,https://www.linaro.org/blog/the-end-of-an-era/
+1446,HackerNews,2020-03-31T22:00:44.000Z,1585692044,443,269,Google emphasizes popularity over accuracy,https://www.superhighway98.com/google
+1447,HackerNews,2020-03-31T21:38:17.000Z,1585690697,95,25,Xor Filters: Faster and Smaller Than Bloom and Cuckoo Filters,https://dl.acm.org/doi/fullHtml/10.1145/3376122
+1448,HackerNews,2020-03-31T21:21:06.000Z,1585689666,218,130,The Unreal Engine Wiki is now permanently offline,https://forums.unrealengine.com/unreal-engine/announcements-and-releases/1739154-changes-to-the-official-unreal-engine-wiki
+1449,HackerNews,2020-03-31T21:08:40.000Z,1585688920,220,69,Marriott says 5.2M guests exposed in new data breach,https://www.reuters.com/article/us-marriott-intnl-data-breach/marriott-says-5-2-million-guests-exposed-in-new-data-breach-idUSKBN21I3DC
+1450,HackerNews,2020-03-31T21:04:08.000Z,1585688648,442,291,Trolls break into meetings on Zoom,https://www.businessinsider.com/aa-intergroup-meetings-zoom-bombing-trolls-alcoholics-anonymous-2020-3
+1451,HackerNews,2020-03-31T20:59:49.000Z,1585688389,150,43,How YC will be funding the S20 batch,https://dalton.substack.com/p/how-yc-will-be-funding-the-s20-batch
+1452,HackerNews,2020-03-31T20:44:02.000Z,1585687442,929,335,FCC will require phone carriers to authenticate calls by June 2021 [pdf],https://docs.fcc.gov/public/attachments/DOC-363399A1.pdf
+1453,HackerNews,2020-03-31T20:14:22.000Z,1585685662,143,14,Lens – open-source IDE to control your Kubernetes clusters,https://k8slens.dev/
+1454,HackerNews,2020-03-31T20:04:55.000Z,1585685095,146,118,Amazon struggles to find its coronavirus footing,https://www.wsj.com/articles/amazon-struggles-to-find-its-coronavirus-footing-its-a-time-of-great-stress-11585664987
+1455,HackerNews,2020-03-31T19:42:54.000Z,1585683774,279,105,"Industry spent millions selling recycling, to sell more plastic",https://www.npr.org/2020/03/31/822597631/plastic-wars-three-takeaways-from-the-fight-over-the-future-of-plastics
+1456,HackerNews,2020-03-31T18:48:11.000Z,1585680491,122,106,Whole Foods employees are staging a nationwide 'sick-out',https://www.vice.com/en_us/article/5dmeka/whole-foods-employees-are-staging-a-nationwide-sick-out
+1457,HackerNews,2020-03-31T18:25:31.000Z,1585679131,85,18,A reduction in seismic noise is a boon for geoscientists,https://www.nature.com/articles/d41586-020-00965-x
+1458,HackerNews,2020-03-31T18:03:43.000Z,1585677823,232,240,People are planting more vegetable gardens,https://www.npr.org/sections/coronavirus-live-updates/2020/03/27/822514756/fearing-shortages-people-are-planting-more-vegetable-gardens
+1459,HackerNews,2020-03-31T17:57:29.000Z,1585677449,202,93,Signaling as a Service,https://julian.digital/2020/03/28/signaling-as-a-service/
+1460,HackerNews,2020-03-31T17:17:47.000Z,1585675067,894,553,Apple acquires Dark Sky,https://blog.darksky.net/dark-sky-has-a-new-home/
+1461,HackerNews,2020-03-31T16:58:33.000Z,1585673913,145,278,What is the engineering hiring bar?,http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/
+1462,HackerNews,2020-03-31T16:56:20.000Z,1585673780,86,14,Service Directory: Manage all your services in one place at scale,https://cloud.google.com/blog/products/networking/introducing-service-directory
+1463,HackerNews,2020-03-31T16:19:14.000Z,1585671554,287,122,Prisma 2.0 Beta: Type-safe Database Access,https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e
+1464,HackerNews,2020-03-31T15:41:34.000Z,1585669294,178,147,Eclipse Theia 1.0 – Open-Source Alternative to Visual Studio Code,https://www.eclipse.org/org/press-release/20200331-theia.php
+1465,HackerNews,2020-03-31T15:40:19.000Z,1585669219,835,345,Amazon fires worker who led strike over virus,https://www.bloomberg.com/news/articles/2020-03-30/amazon-worker-who-led-strike-over-virus-says-company-fired-him
+1466,HackerNews,2020-03-31T15:40:13.000Z,1585669213,733,340,I think Catalina 10.15.4 broke SSH,https://feed.tyler.io/so-uh-i-think-catalina-10154-broke-ssh/
+1467,HackerNews,2020-03-31T15:28:23.000Z,1585668503,77,6,Medtronics killed the low cost ventilator,https://pluralistic.net/2020/03/30/medtronic-stole-your-ventilator/#market-oxygen
+1468,HackerNews,2020-03-31T15:25:59.000Z,1585668359,1922,743,Honda bucks industry trend by removing touchscreen controls,https://www.autocar.co.uk/car-news/motor-shows-geneva-motor-show/honda-bucks-industry-trend-removing-touchscreen-controls
+1469,HackerNews,2020-03-31T15:04:26.000Z,1585667066,513,111,Court: Violating a site’s terms of service isn’t criminal hacking,https://arstechnica.com/tech-policy/2020/03/court-violating-a-sites-terms-of-service-isnt-criminal-hacking/
+1470,HackerNews,2020-03-31T14:04:14.000Z,1585663454,337,368,“C is how the computer works” is a dangerous mindset for C programmers,https://words.steveklabnik.com/c-is-how-the-computer-works-is-a-dangerous-mindset-for-c-programmers
+1471,HackerNews,2020-03-31T13:02:21.000Z,1585659741,118,150,Masks4All: Wear a mask to stop the spread of Coronavirus (Jeremy Howard),https://masks4all.co/
+1472,HackerNews,2020-03-31T11:41:41.000Z,1585654901,796,325,How the Zoom macOS installer does its job without you clicking ‘install’,https://twitter.com/c1truz_/status/1244737672930824193
+1473,HackerNews,2020-03-31T11:18:55.000Z,1585653535,82,25,Go Micro v2.4.0 – Go microservices development framework,https://github.com/micro/go-micro/releases/tag/v2.4.0
+1474,HackerNews,2020-03-31T10:58:57.000Z,1585652337,195,91,Machine translation of cortical activity to text with encoder–decoder framework,https://www.nature.com/articles/s41593-020-0608-8.epdf?referrer_access_token=yqi8gndGo3bsyqSOt-QH49RgN0jAjWel9jnR3ZoTv0PGGLjJSIdJ3hFHzrqzGtisj2DRxrMxg3xPhwYR9Or_MFFWi9FFLCitwQPN6hzDOfuddKxNu7NRPQzS80eVE9peKMdJN14zNjJ66HDiFw8OaB3K899HudKHwkGg7prtc2MKkCosR0Mg9lyu2R8tDA-O-XP-CgHFT7NJfXeq8il1mGo_26BUelda8VnFBttFRYIzC7ZAr5I03DG6S_NFvZQTiBj8zrA4P4qwNArhZ0sCMS7bc6l-KY6PS-SIqYDW2LvT2pkbfxepOjoNylWMqOyE&tracking_referrer=www.theguardian.com
+1475,HackerNews,2020-03-31T10:31:24.000Z,1585650684,188,45,Pollinator-Friendly Native Plant Lists,https://xerces.org/pollinator-conservation/pollinator-friendly-plant-lists
+1476,HackerNews,2020-03-31T10:00:01.000Z,1585648801,87,44,Agent57: Outperforming the human Atari benchmark,https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark
+1477,HackerNews,2020-03-31T09:09:52.000Z,1585645792,114,56,Binance to acquire CoinMarketCap for $400M,https://decrypt.co/24031/binance-to-acquire-coinmarketcap-in-400-million-deal
+1478,HackerNews,2020-03-31T09:05:02.000Z,1585645502,106,29,Achieving full-motion video on the Nintendo 64 (2000) [pdf],https://ultra64.ca/files/other/Game-Developer-Magazine/GDM_September_2000_Achieving_Full-Motion_Video_on_the_Nintnedo_64.pdf
+1479,HackerNews,2020-03-31T08:11:52.000Z,1585642312,1230,339,"Zoom meetings aren’t end-to-end encrypted, despite marketing",https://theintercept.com/2020/03/31/zoom-meeting-encryption/
+1480,HackerNews,2020-03-31T07:26:15.000Z,1585639575,103,52,Opera to support sites using the .crypto top-level domain,https://www.theregister.co.uk/2020/03/31/dreams_of_a_decentralized_web/
+1481,HackerNews,2020-03-31T06:46:44.000Z,1585637204,118,12,"Collection of awesome projects, blog posts, books, and talks on quantifying risk",https://github.com/veeral-patel/awesome-risk-quantification
+1482,HackerNews,2020-03-31T04:48:09.000Z,1585630089,151,65,Rethinking OpenBSD Security,https://flak.tedunangst.com/post/rethinking-openbsd-security
+1483,HackerNews,2020-03-31T03:12:38.000Z,1585624358,244,105,NASA reveals what the final X-57 all-electric X-plane will look like,https://newatlas.com/aircraft/nasa-images-final-x57-electric-x-plane/
+1484,HackerNews,2020-03-31T01:36:49.000Z,1585618609,101,109,CDC considering recommending general public wear face coverings in public,https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html
+1485,HackerNews,2020-03-31T01:20:51.000Z,1585617651,79,6,Lead pollution in ancient ice cores may track rise and fall of medieval kings,https://www.sciencemag.org/news/2020/03/lead-pollution-ancient-ice-cores-may-track-rise-and-fall-medieval-kings
+1486,HackerNews,2020-03-30T23:33:21.000Z,1585611201,89,101,You Probably Should Be Wearing a Face Mask If You Can,https://kottke.org/20/03/you-probably-should-be-wearing-a-face-mask-if-you-can
+1487,HackerNews,2020-03-30T23:31:27.000Z,1585611087,126,7,Philip Anderson 1923-2020,https://www.math.columbia.edu/~woit/wordpress/?p=11698
+1488,HackerNews,2020-03-30T22:58:18.000Z,1585609098,83,29,The story behind a photo of a snow monkey using an iPhone (2019),https://iso.500px.com/snow-monkey-iphone-photo/
+1489,HackerNews,2020-03-30T22:43:04.000Z,1585608184,151,239,Back-of-the-envelope estimates of next quarter’s unemployment rate,https://www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate
+1490,HackerNews,2020-03-30T22:31:22.000Z,1585607482,220,88,A song that was constructed to reduce anxiety,https://www.inc.com/melanie-curtin/neuroscience-says-listening-to-this-one-song-reduces-anxiety-by-up-to-65-percent.html
+1491,HackerNews,2020-03-30T21:35:51.000Z,1585604151,389,119,Gitlab features that are moving to open source,https://about.gitlab.com/blog/2020/03/30/new-features-to-core/
+1492,HackerNews,2020-03-30T20:56:39.000Z,1585601799,84,7,An Integration Loop,https://www.robinsloan.com/notes/integration-loop/
+1493,HackerNews,2020-03-30T20:55:53.000Z,1585601753,103,56,Posiopaths: Positive only attitude can be toxic,https://gp.blaisemcrowly.com/dont-kill-them-with-your-positivity
+1494,HackerNews,2020-03-30T20:40:23.000Z,1585600823,84,4,Recipes for automatic text summarization using Google BERT and Microsoft UniLM,https://github.com/microsoft/nlp-recipes/releases/tag/2.2.0
+1495,HackerNews,2020-03-30T20:24:36.000Z,1585599876,358,191,Dolt is Git for data,https://www.dolthub.com/blog/2020-03-30-dolt-use-cases/
+1496,HackerNews,2020-03-30T20:21:12.000Z,1585599672,374,147,Open UI,https://open-ui.org/
+1497,HackerNews,2020-03-30T20:19:21.000Z,1585599561,171,74,Updates to form controls and focus,https://blog.chromium.org/2020/03/updates-to-form-controls-and-focus.html
+1498,HackerNews,2020-03-30T19:40:33.000Z,1585597233,90,22,Show HN: Ape – an easy-to-embed programming language in two C files,https://github.com/kgabis/ape
+1499,HackerNews,2020-03-30T19:37:28.000Z,1585597048,339,145,Internet Archive responds: Why we released the National Emergency Library,http://blog.archive.org/2020/03/30/internet-archive-responds-why-we-released-the-national-emergency-library/
+1500,HackerNews,2020-03-30T19:23:09.000Z,1585596189,132,32,Zoom private chat text between attendees is actually public,https://twitter.com/HJHaldanePhD/status/1244302917206708233
+1501,HackerNews,2020-03-30T19:20:54.000Z,1585596054,298,206,Ryzen 4000 Review,https://www.pcworld.com/article/3534769/ryzen-4000-review-amds-7nm-ryzen-9-offers-game-changing-performance-for-laptops.html
+1502,HackerNews,2020-03-30T19:19:31.000Z,1585595971,260,125,Cognitive Biases in Software Development,http://smyachenkov.com/posts/cognitive-biases-software-development/
+1503,HackerNews,2020-03-30T18:56:50.000Z,1585594610,92,24,Evaluation of SDR boards and toolchains [pdf],https://gitlab.com/librespacefoundation/sdrmakerspace/sdreval/-/raw/master/Report/pdf/Evaluation_of_SDR_Boards-1.0.pdf
+1504,HackerNews,2020-03-30T18:43:32.000Z,1585593812,114,77,Listen to the moment the guns fell silent ending World War I,https://www.smithsonianmag.com/smart-news/listen-moment-guns-fell-silent-ending-world-war-i-180970772/
+1505,HackerNews,2020-03-30T18:22:31.000Z,1585592551,641,332,WeWork sells Meetup,https://techcrunch.com/2020/03/30/wework-sells-off-social-network-meetup-to-alleycorp-and-other-investors/
+1506,HackerNews,2020-03-30T18:10:43.000Z,1585591843,90,56,Dark mode for Stack Overflow,https://stackoverflow.blog/2020/03/30/introducing-dark-mode-for-stack-overflow/
+1507,HackerNews,2020-03-30T18:03:55.000Z,1585591435,238,125,How Apple Is Working From Home,https://www.theinformation.com/articles/how-apple-is-working-from-home?pu=hackernewsusoift&utm_source=hackernews&utm_medium=unlock
+1508,HackerNews,2020-03-30T17:47:43.000Z,1585590463,380,189,Please Fund More Science,https://blog.samaltman.com/please-fund-more-science
+1509,HackerNews,2020-03-30T17:27:24.000Z,1585589244,135,52,Full Circle: The complicated history of why there are 360 degrees in a circle,https://www.historytoday.com/history-matters/full-circle
+1510,HackerNews,2020-03-30T17:09:01.000Z,1585588141,131,31,"Show HN: Use-sound, a React hook for sound effects on the web",https://joshwcomeau.com/react/announcing-use-sound-react-hook/
+1511,HackerNews,2020-03-30T17:04:54.000Z,1585587894,326,276,"Amazon, Instacart delivery workers strike for coronavirus protection and pay",https://www.npr.org/2020/03/30/823767492/amazon-instacart-grocery-delivery-workers-strike-for-coronavirus-protection-and-
+1512,HackerNews,2020-03-30T16:45:05.000Z,1585586705,105,36,Hungarian Coronavirus Act passes granting PM Orban unprecedented emergency power,https://index.hu/english/2020/03/30/hungary_coronavirus_act_parliament_viktor_orban_fidesz_sweeping_powers_indefinite_term/
+1513,HackerNews,2020-03-30T16:30:03.000Z,1585585803,320,221,Dutch museum says van Gogh painting stolen in overnight raid,https://news.artnet.com/art-world/thieves-stolen-van-gogh-masterpiece-dutch-museum-1819743
+1514,HackerNews,2020-03-30T16:21:16.000Z,1585585276,176,17,About CRDTs,https://crdt.tech/
+1515,HackerNews,2020-03-30T16:03:45.000Z,1585584225,188,102,E-VENT: Emergency ventilator design toolbox,https://e-vent.mit.edu
+1516,HackerNews,2020-03-30T15:59:39.000Z,1585583979,93,21,Asking Questions,https://www.aaronkharris.com/asking-questions
+1517,HackerNews,2020-03-30T15:54:11.000Z,1585583651,472,347,Bosses panic-buy spy software to keep tabs on remote workers,https://www.bloomberg.com/news/features/2020-03-27/bosses-panic-buy-spy-software-to-keep-tabs-on-remote-workers
+1518,HackerNews,2020-03-30T15:33:10.000Z,1585582390,147,88,Macy’s to Furlough 100k Employees,http://www.idahoreporter.com/2020/macys-to-furlough-100000-employees/
+1519,HackerNews,2020-03-30T15:17:25.000Z,1585581445,220,211,Problems with Japan's Covid-19 reports,https://stdio.sangwhan.com/wtf-japan-covid-19-report/
+1520,HackerNews,2020-03-30T15:14:03.000Z,1585581243,174,139,Demand for medical equipment is making air cargo fees ‘crazy’,https://www.bloomberg.com/news/articles/2020-03-30/-absolutely-crazy-air-cargo-fees-highlight-supply-chain-squeeze
+1521,HackerNews,2020-03-30T14:25:52.000Z,1585578352,172,38,AsyncAPI – OpenAPI-like specification for event-driven architectures,https://github.com/asyncapi/asyncapi
+1522,HackerNews,2020-03-30T14:10:47.000Z,1585577447,278,69,Open access to ACM Digital Library during coronavirus pandemic,https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19
+1523,HackerNews,2020-03-30T14:07:47.000Z,1585577267,221,173,"For people with an abusive partner, lockdown means captivity",https://www.theguardian.com/commentisfree/2020/mar/30/abusive-partner-lockdown-domestic-abuse-charities-women-home
+1524,HackerNews,2020-03-30T13:58:39.000Z,1585576719,137,41,Show HN: Covid-19 Treatment Dashboard,https://www.quiverquant.com/covidtreatments
+1525,HackerNews,2020-03-30T13:56:42.000Z,1585576602,193,120,"Deep underwater, submariners are likely unaware of pandemic",https://www.latimes.com/world-nation/story/2020-03-30/blissful-ignorance-submariners-likely-unaware-of-pandemic
+1526,HackerNews,2020-03-30T13:53:11.000Z,1585576391,98,69,"A choir decided to go ahead with rehearsal, now dozens have Covid-19",https://www.latimes.com/world-nation/story/2020-03-29/coronavirus-choir-outbreak
+1527,HackerNews,2020-03-30T13:52:04.000Z,1585576324,410,103,Writing an OS in Rust: Async/Await,https://os.phil-opp.com/async-await/
+1528,HackerNews,2020-03-30T13:50:45.000Z,1585576245,124,37,Multicore OCaml: March 2020 update,https://discuss.ocaml.org/t/multicore-ocaml-march-2020-update/5406
+1529,HackerNews,2020-03-30T13:49:19.000Z,1585576159,148,42,I turned my entrepreneur journey into a game,https://fromdevtomaker.com/
+1530,HackerNews,2020-03-30T13:29:55.000Z,1585574995,99,56,Why do matter particles come in threes?,https://www.quantamagazine.org/why-do-matter-particles-come-in-threes-a-physics-titan-weighs-in-20200330/
+1531,HackerNews,2020-03-30T12:12:44.000Z,1585570364,821,180,WireGuard 1.0,https://lore.kernel.org/wireguard/CAHmME9qOpDeraWo5rM31EWQW574KEduRBTL-+0A2ZyqBNDeYkg@mail.gmail.com/T/#u
+1532,HackerNews,2020-03-30T11:56:15.000Z,1585569375,82,17,There's a mathematician in your compiler,https://humanreadablemag.com/issues/2/articles/theres-a-mathematician-in-your-compiler
+1533,HackerNews,2020-03-30T11:52:23.000Z,1585569143,90,29,Von Neumann Universal Constructor,https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
+1534,HackerNews,2020-03-30T11:49:49.000Z,1585568989,117,33,"In slime molds, evolution selects 'loners' who refrain from collective behavior",https://phys.org/news/2020-03-evolution-loners-behaviorat-slime-molds.html
+1535,HackerNews,2020-03-30T09:50:49.000Z,1585561849,79,8,Type-Safe Pointers in ATS,http://blog.vmchale.com/article/ats-safe-pointers
+1536,HackerNews,2020-03-30T09:47:01.000Z,1585561621,91,49,Yes to everything,http://morrick.me/archives/8840
+1537,HackerNews,2020-03-30T09:31:01.000Z,1585560661,488,146,Linux 5.6,https://lore.kernel.org/lkml/CAHk-=wi9ZT7Stg-uSpX0UWQzam6OP9Jzz6Xu1CkYu1cicpD5OA@mail.gmail.com/
+1538,HackerNews,2020-03-30T07:44:44.000Z,1585554284,80,22,Show HN: Magicdocs – Turn Documents into Websites,https://magicdocs.co
+1539,HackerNews,2020-03-30T07:22:51.000Z,1585552971,427,211,French companies benefiting from state aid can't buy back shares,https://uk.reuters.com/article/uk-france-business-buybacks/french-companies-benefiting-from-state-aid-cant-buy-back-shares-minister-idUKKBN21H0RI
+1540,HackerNews,2020-03-30T07:03:31.000Z,1585551811,121,32,Towards Crystal 1.0,https://crystal-lang.org/2020/03/03/towards-crystal-1.0.html
+1541,HackerNews,2020-03-30T06:12:37.000Z,1585548757,197,49,"Show HN: Gifcap, a browser based client-side GIF screen recording tool",https://gifcap.dev/
+1542,HackerNews,2020-03-30T06:02:12.000Z,1585548132,90,27,Lora-based device-to-device smartphone communication for crisis scenarios [pdf],https://dtn7.github.io/assets/hoechst2020lora.pdf
+1543,HackerNews,2020-03-30T05:39:12.000Z,1585546752,134,27,Show HN: RapidFuzz – A fast string matching library for Python,https://github.com/rhasspy/rapidfuzz
+1544,HackerNews,2020-03-30T05:16:49.000Z,1585545409,140,69,Covid-19 Sanity – Covid-19 papers from bioRxiv/medRxiv searchable and sortable,http://biomed-sanity.com
+1545,HackerNews,2020-03-30T04:35:42.000Z,1585542942,113,37,Show HN: 3D Raycasting Engine in JavaScript,https://ahuth.github.io/raycast/
+1546,HackerNews,2020-03-30T04:35:37.000Z,1585542937,148,15,Joseph Pilates worked on his exercise system in a WWI prisoner-of-war camp,https://narratively.com/the-acrobatic-immigrant-who-invented-pilates-in-a-prisoner-of-war-camp/
+1547,HackerNews,2020-03-30T04:10:15.000Z,1585541415,77,29,Turning Back the Clock on Aging Cells,https://www.nytimes.com/2020/03/24/science/aging-dna-epigenetics-cells.html
+1548,HackerNews,2020-03-30T03:37:41.000Z,1585539461,399,247,Lead-Free Solder Is Better for You,https://www.bhencke.com/blog/2019/3/15/a-hill-to-die-on
+1549,HackerNews,2020-03-30T03:10:44.000Z,1585537844,92,87,X11 screen locking: a secure and modular approach,http://leahneukirchen.org/blog/archive/2020/01/x11-screen-locking-a-secure-and-modular-approach.html
+1550,HackerNews,2020-03-30T02:46:37.000Z,1585536397,768,25,WireGuard 1.0 for Linux 5.6,https://lists.zx2c4.com/pipermail/wireguard/2020-March/005206.html
+1551,HackerNews,2020-03-30T01:38:13.000Z,1585532293,202,73,Heineken WOBO: A Beer Bottle That Doubles as a Brick,https://inhabitat.com/heineken-wobo-the-brick-that-holds-beer/
+1552,HackerNews,2020-03-30T01:00:35.000Z,1585530035,197,226,Some Churches Are Still Packing in Crowds,https://www.bloomberg.com/news/articles/2020-03-29/some-megachurches-pack-in-crowds-amid-covid-19-warning-flares
+1553,HackerNews,2020-03-29T23:58:13.000Z,1585526293,141,31,Cellular Automata: Rule 30 fed as input to Conway’s Game of Life (2019) [video],https://www.youtube.com/watch?v=IK7nBOLYzdE
+1554,HackerNews,2020-03-29T23:46:04.000Z,1585525564,92,35,Introduction to tangzhong (2018),https://www.kingarthurflour.com/blog/2018/03/26/introduction-to-tangzhong
+1555,HackerNews,2020-03-29T23:18:01.000Z,1585523881,110,134,"The death toll for Covid-19 in Nembro, Italy",https://www.corriere.it/politica/20_marzo_26/the-real-death-toll-for-covid-19-is-at-least-4-times-the-official-numbers-b5af0edc-6eeb-11ea-925b-a0c3cdbe1130.shtml
+1556,HackerNews,2020-03-29T20:59:26.000Z,1585515566,126,14,Visual CSS Editor – Grab'n Go,https://cssbuilder.veliovgroup.com
+1557,HackerNews,2020-03-29T20:36:01.000Z,1585514161,136,95,ZipGrow: Vertical farming/urban agriculture system,https://shop.zipgrow.com/
+1558,HackerNews,2020-03-29T20:05:26.000Z,1585512326,478,259,"Microsoft: Cloud services demand up, prioritization rules in place",https://www.zdnet.com/article/microsoft-cloud-services-demand-up-775-percent-prioritization-rules-in-place-due-to-covid-19/
+1559,HackerNews,2020-03-29T19:00:19.000Z,1585508419,87,51,DIY electronic leadscrew for metalworking lathe [video],https://www.youtube.com/playlist?list=PLDlWKv7KIIr90ZZ7Zqt-ge5nVVdS3WVgg
+1560,HackerNews,2020-03-29T18:26:50.000Z,1585506410,91,143,Sweden's unusual response to coronavirus,https://www.bbc.com/news/world-europe-52076293
+1561,HackerNews,2020-03-29T18:22:52.000Z,1585506172,266,60,Sorting 1M 8-digit numbers in 1 MB of RAM (2012),https://stackoverflow.com/questions/12748246/sorting-1-million-8-digit-numbers-in-1-mb-of-ram/13000176#13000176
+1562,HackerNews,2020-03-29T18:20:00.000Z,1585506000,358,176,AWS Ground Station,https://aws.amazon.com/ground-station/
+1563,HackerNews,2020-03-29T18:14:37.000Z,1585505677,113,313,The U.S. tried to build a new fleet of ventilators,https://www.nytimes.com/2020/03/29/business/coronavirus-us-ventilator-shortage.html
+1564,HackerNews,2020-03-29T18:05:14.000Z,1585505114,373,59,"Grab your crayons, it’s coloring time",https://www.colorabl.es/
+1565,HackerNews,2020-03-29T17:36:55.000Z,1585503415,114,77,H5N1 (2013),https://blog.samaltman.com/h5n1
+1566,HackerNews,2020-03-29T17:11:41.000Z,1585501901,94,17,People built bone circles at the edge of ice sheets,https://arstechnica.com/science/2020/03/enigmatic-circles-of-mammoth-bones-in-eastern-europe-date-to-ice-age/
+1567,HackerNews,2020-03-29T16:13:32.000Z,1585498412,129,145,"Apple to debut multiple ARM MacBook, desktop models in 2021",https://appleinsider.com/articles/20/03/26/apple-to-debut-multiple-arm-powered-mac-desktop-and-laptop-models-in-2021
+1568,HackerNews,2020-03-29T15:58:12.000Z,1585497492,134,103,"Cash Is King: Flows, Balances, and Buffer Days",https://institute.jpmorganchase.com/institute/research/small-business/report-cash-flows-balances-and-buffer-days.htm
+1569,HackerNews,2020-03-29T15:33:56.000Z,1585496036,177,176,“Today I cut my pay to $0. I'm committed to laying off 0 of our employees.”,https://twitter.com/DanPriceSeattle/status/1244014634883039232
+1570,HackerNews,2020-03-29T14:56:22.000Z,1585493782,212,154,The origin story of the N95 mask,https://www.fastcompany.com/90479846/the-untold-origin-story-of-the-n95-mask
+1571,HackerNews,2020-03-29T14:43:31.000Z,1585493011,185,91,Google cancels April Fools’ jokes this year,https://www.theverge.com/2020/3/27/21197260/google-cancels-april-fools-jokes-2020-coronavirus-covid19-pranks
+1572,HackerNews,2020-03-29T14:34:03.000Z,1585492443,388,51,Show HN: Colors.lol – Overly descriptive color palettes,https://colors.lol/
+1573,HackerNews,2020-03-29T14:17:37.000Z,1585491457,238,51,Saudis suspected of phone spying campaign in US,https://www.theguardian.com/world/2020/mar/29/revealed-saudis-suspected-of-phone-spying-campaign-in-us
+1574,HackerNews,2020-03-29T13:31:05.000Z,1585488665,441,76,Show HN: From Markdown to Video,https://www.videopuppet.com/docs/script/
+1575,HackerNews,2020-03-29T12:41:52.000Z,1585485712,164,47,Antique 4x5 camera creates 20 micron photolithography masks [video],https://www.youtube.com/watch?v=YAPt_DcWAvw
+1576,HackerNews,2020-03-29T12:38:57.000Z,1585485537,165,24,NASA's free history e-book collection,https://history.nasa.gov/books_sort_SP.html
+1577,HackerNews,2020-03-29T12:34:18.000Z,1585485258,187,41,PostgreSQL Schema Design,https://www.graphile.org/postgraphile/postgresql-schema-design/
+1578,HackerNews,2020-03-29T12:13:47.000Z,1585484027,699,396,How to burn the most money with a single click in Azure,https://mijailovic.net/2020/03/28/azure-money-burning/
+1579,HackerNews,2020-03-29T11:48:17.000Z,1585482497,208,291,"The global oil market is broken, drowning in crude nobody needs",https://www.bloomberg.com/news/articles/2020-03-29/the-global-oil-market-is-broken-drowning-in-crude-nobody-needs
+1580,HackerNews,2020-03-29T11:43:25.000Z,1585482205,97,25,"Show HN: Free Screen Share Party, No Install, No Login",https://ba.net/screen-share-party
+1581,HackerNews,2020-03-29T11:35:17.000Z,1585481717,235,26,Krzysztof Penderecki has died,https://culture.pl/en/artist/krzysztof-penderecki
+1582,HackerNews,2020-03-29T11:05:13.000Z,1585479913,235,136,"You’re not writing code, you’re solving problems",https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems
+1583,HackerNews,2020-03-29T10:49:15.000Z,1585478955,104,72,Server-Side Only React with Next,https://webcloud.se/blog/2020-03-12-nextjs-without-client-side-react/
+1584,HackerNews,2020-03-29T10:34:22.000Z,1585478062,100,16,Give Yourself More Playtime (2015),https://martinrue.com/give-yourself-more-playtime/
+1585,HackerNews,2020-03-29T10:23:57.000Z,1585477437,105,70,Show HN: Write.md – a shareable distraction-free Markdown editor,https://writemd.xyz
+1586,HackerNews,2020-03-29T09:53:43.000Z,1585475623,375,136,Maza – Like Pi-hole but local and using your operating system,https://github.com/tanrax/maza-ad-blocking
+1587,HackerNews,2020-03-29T08:46:33.000Z,1585471593,165,42,When to assume neural networks can solve a problem,https://blog.cerebralab.com/When_to_assume_neural_networks_can_solve_a_problem
+1588,HackerNews,2020-03-29T08:38:14.000Z,1585471094,479,217,Khan Academy requests for donations as their servers are at 250% normal load,https://www.khanacademy.org/donate
+1589,HackerNews,2020-03-29T08:28:21.000Z,1585470501,80,36,Chromatron Wi-Fi Pixel Controller,http://chromatron.io/
+1590,HackerNews,2020-03-29T07:37:53.000Z,1585467473,109,91,The U.S.'s $13B aircraft carrier has a toilet problem,https://www.popularmechanics.com/military/navy-ships/a31929628/uss-ford-toilet/
+1591,HackerNews,2020-03-29T07:13:02.000Z,1585465982,78,141,Huawei is dividing Western nations,https://techcrunch.com/2020/03/28/how-huawei-is-dividing-western-nations/
+1592,HackerNews,2020-03-29T06:21:30.000Z,1585462890,147,63,Gauss’s “Remarkable Theorem” and the best way to hold a pizza slice (2014),https://aatishb.com/2014/09/05/curvature-and-strength/
+1593,HackerNews,2020-03-29T06:14:20.000Z,1585462460,78,4,"Vuiet, the long road to building my own music player in Lisp",http://mihaiolteanu.me/vuiet/
+1594,HackerNews,2020-03-29T05:54:41.000Z,1585461281,230,47,How TV Logos Were Made Before Computers (2017),https://www.fastcompany.com/90125752/the-ingenious-way-tv-logos-were-made-before-computers
+1595,HackerNews,2020-03-29T05:14:16.000Z,1585458856,84,79,Guidance against wearing masks for the coronavirus is wrong – cover your face,https://www.bostonglobe.com/2020/03/19/opinion/guidance-against-wearing-masks-coronavirus-is-wrong-you-should-cover-your-face
+1596,HackerNews,2020-03-29T05:12:29.000Z,1585458749,96,35,A Definitive Guide to Enabling Italics in Vim and Tmux,https://rsapkf.netlify.com/blog/enabling-italics-vim-tmux
+1597,HackerNews,2020-03-29T03:18:34.000Z,1585451914,237,106,Effective C: An Introduction to Professional C Programming,https://nostarch.com/Effective_C
+1598,HackerNews,2020-03-29T02:56:12.000Z,1585450572,155,21,Gmailctl – Declarative Configuration for Gmail Filters,https://github.com/mbrt/gmailctl
+1599,HackerNews,2020-03-29T02:47:24.000Z,1585450044,145,255,JITs are un-ergonomic,https://abe-winter.github.io/2020/03/28/jitu-brutus.html
+1600,HackerNews,2020-03-29T02:39:44.000Z,1585449584,279,156,Log-log plot of new vs. total Covid-19 cases by country,https://aatishb.com/covidtrends/
+1601,HackerNews,2020-03-29T02:15:40.000Z,1585448140,119,53,Delivery workers are keeping California fed. They say no one’s keeping them safe,https://www.latimes.com/business/technology/story/2020-03-28/coronavirus-delivery-workers-sick-leave-protection
+1602,HackerNews,2020-03-29T01:52:37.000Z,1585446757,85,48,Hyman Rickover on Nuclear Reactor Designs (1953) [pdf],http://ecolo.org/documents/documents_in_english/Rickover.pdf
+1603,HackerNews,2020-03-29T01:47:43.000Z,1585446463,255,199,Japan set to ban entry from the U.S. as early as next week,http://www.asahi.com/ajw/articles/13252339
+1604,HackerNews,2020-03-29T01:08:13.000Z,1585444093,173,89,"California once had mobile hospitals, ventilator stockpile but dismantled them",https://www.msn.com/en-us/news/us/california-once-had-mobile-hospitals-and-a-ventilator-stockpile-but-it-dismantled-them/ar-BB11O8Gs
+1605,HackerNews,2020-03-29T00:06:09.000Z,1585440369,77,25,Determining an Election in K,http://leahneukirchen.org/blog/archive/2020/03/determining-an-election-in-k.html
+1606,HackerNews,2020-03-28T23:48:29.000Z,1585439309,126,83,Building a Raspberry Pi GPS Speedometer,https://gleslie.com/rpi/raspberry/pi/dashboard/2020/03/28/building-a-rpi-vehicle-dashboard.html
+1607,HackerNews,2020-03-28T23:15:29.000Z,1585437329,244,167,I had to build a web scraper to buy groceries,https://utkuufuk.com/2020/03/28/grocery-scraping/
+1608,HackerNews,2020-03-28T23:12:08.000Z,1585437128,172,53,National Emergency Library,https://archive.org/details/nationalemergencylibrary
+1609,HackerNews,2020-03-28T23:06:23.000Z,1585436783,115,25,Maltego – open-source intelligence and graphical link analysis tool,https://www.maltego.com/
+1610,HackerNews,2020-03-28T22:32:35.000Z,1585434755,184,84,Everybody Can Make DeepFakes Now [video],https://www.youtube.com/watch?v=mUfJOQKdtAk
+1611,HackerNews,2020-03-28T22:18:40.000Z,1585433920,241,107,Show HN: SpicyPass – A free and open-source minimalist password manager,https://github.com/JFreegman/SpicyPass
+1612,HackerNews,2020-03-28T22:02:14.000Z,1585432934,107,41,Pi-hole Remote Code Execution,https://natedotred.wordpress.com/2020/03/28/cve-2020-8816-pi-hole-remote-code-execution/
+1613,HackerNews,2020-03-28T21:50:04.000Z,1585432204,190,32,The EARN IT Bill Is the Government’s Plan to Scan Every Message Online,https://www.eff.org/deeplinks/2020/03/earn-it-bill-governments-not-so-secret-plan-scan-every-message-online
+1614,HackerNews,2020-03-28T21:49:08.000Z,1585432148,139,42,NYC Subway Turnstile Data,https://github.com/toddwschneider/nyc-subway-turnstile-data
+1615,HackerNews,2020-03-28T20:47:34.000Z,1585428454,134,17,A Practical Guide to Memory Leaks in Node.js,https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/
+1616,HackerNews,2020-03-28T19:44:07.000Z,1585424647,101,98,Can you kill coronavirus with UV light?,https://www.bbc.com/future/article/20200327-can-you-kill-coronavirus-with-uv-light
+1617,HackerNews,2020-03-28T19:32:04.000Z,1585423924,85,7,Radical Solutions,https://www.damninteresting.com/radical-solutions/
+1618,HackerNews,2020-03-28T18:04:50.000Z,1585418690,91,24,Taiwan says WHO failed to act on coronavirus transmission warning,https://www.ft.com/content/2a70a02a-644a-11ea-a6cd-df28cc3c6a68
+1619,HackerNews,2020-03-28T18:03:39.000Z,1585418619,90,98,Fixing the Desktop Linux Security Model,https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172
+1620,HackerNews,2020-03-28T17:59:50.000Z,1585418390,82,39,A Prometheus fork for cloud scale anomaly detection across metrics and logs,https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring
+1621,HackerNews,2020-03-28T17:44:14.000Z,1585417454,151,23,ComputeDRAM: In-Memory Compute Using Off-the-Shelf DRAMs (2019) [pdf],https://parallel.princeton.edu/papers/micro19-gao.pdf
+1622,HackerNews,2020-03-28T17:11:23.000Z,1585415483,207,77,"Coal mines emit more methane than oil-and-gas sector, study finds",https://www.carbonbrief.org/coal-mines-emit-more-methane-than-oil-and-gas-sector-study-finds
+1623,HackerNews,2020-03-28T16:59:50.000Z,1585414790,136,164,America's bailed-out airlines are not 'playing fair' with customers,https://finance.yahoo.com/news/americas-bailedout-airlines-are-not-playing-fair-with-customers-travel-expert-says-114038635.html
+1624,HackerNews,2020-03-28T16:35:44.000Z,1585413344,117,24,Tale of OpenBSD secure memory allocator internals – malloc(3),https://bsdb0y.github.io/blog/deep-dive-into-the-OpenBSD-malloc-and-friends-internals-part-1.html
+1625,HackerNews,2020-03-28T16:17:32.000Z,1585412252,86,37,Show HN: Business Name Generator Powered by AI,https://aidomainsearch.com/business-name-generator
+1626,HackerNews,2020-03-28T15:24:37.000Z,1585409077,464,567,"From Spain to Germany, farmers warn of fresh food shortages",https://www.bloomberg.com/news/articles/2020-03-27/from-spain-to-germany-farmers-warn-of-fresh-food-shortages
+1627,HackerNews,2020-03-28T15:03:19.000Z,1585407799,174,109,Affinity Designer: A Love Story,https://design.infinum.com/case/affinity-designer-a-love-story
+1628,HackerNews,2020-03-28T14:53:21.000Z,1585407201,514,250,The internet should be a public utility,https://qz.com/1826043/the-coronavirus-crisis-proves-internet-should-be-a-public-utility/
+1629,HackerNews,2020-03-28T14:42:23.000Z,1585406543,394,140,Static Analysis in GCC 10,https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/
+1630,HackerNews,2020-03-28T14:18:58.000Z,1585405138,75,27,Show HN: Goyave – Golang Web Framework,https://github.com/System-Glitch/goyave
+1631,HackerNews,2020-03-28T13:22:03.000Z,1585401723,89,21,The reusability fallacy – Part 3,https://www.ufried.com/blog/reusability_fallacy_3/
+1632,HackerNews,2020-03-28T13:00:53.000Z,1585400453,168,25,Real Not Complex: Free Math Resources,https://realnotcomplex.com/
+1633,HackerNews,2020-03-28T12:14:28.000Z,1585397668,317,179,The northern-hemisphere winter of 2019-20 was the warmest ever on land,https://www.economist.com/graphic-detail/2020/03/28/the-northern-hemisphere-winter-of-2019-20-was-the-warmest-ever-on-land
+1634,HackerNews,2020-03-28T12:01:13.000Z,1585396873,300,134,Clojure on the Desktop,https://vlaaad.github.io/year-of-clojure-on-the-desktop
+1635,HackerNews,2020-03-28T10:50:10.000Z,1585392610,189,175,Interview with German Ventilator Manufacturer,https://www.spiegel.de/international/germany/german-ventilator-manufacturer-absolutely-mission-impossible-a-549d1e18-8c21-45f1-846f-cf5ca254b008
+1636,HackerNews,2020-03-28T10:19:33.000Z,1585390773,176,122,OneWeb files for bankruptcy,https://www.oneweb.world/media-center/oneweb-files-for-chapter-11-restructuring-to-execute-sale-process
+1637,HackerNews,2020-03-28T07:57:31.000Z,1585382251,75,33,Pauli Chess,https://blog.plover.com/games/double-chess.html
+1638,HackerNews,2020-03-28T07:30:29.000Z,1585380629,391,80,Boids,https://en.wikipedia.org/wiki/Boids
+1639,HackerNews,2020-03-28T04:16:06.000Z,1585368966,240,66,Show HN: RxResume – A free and open-source resume builder,https://rx-resume.web.app
+1640,HackerNews,2020-03-28T04:14:14.000Z,1585368854,97,28,A Woman in Black: The last judicial duel in France,https://www.laphamsquarterly.org/scandal/woman-black
+1641,HackerNews,2020-03-28T01:49:23.000Z,1585360163,244,182,FDA grants emergency use authorization for 5-13 minute Covid-19 test,https://www.abbott.com/corpnewsroom/product-and-innovation/detect-covid-19-in-as-little-as-5-minutes.html
+1642,HackerNews,2020-03-28T00:49:57.000Z,1585356597,576,259,Zoom’s Use of Facebook’s SDK in iOS Client,https://blog.zoom.us/wordpress/2020/03/27/zoom-use-of-facebook-sdk-in-ios-client/
+1643,HackerNews,2020-03-28T00:45:14.000Z,1585356314,134,52,Bokehlicious Selfies,http://rahulrav.com/blog/bokehlicious.html
+1644,HackerNews,2020-03-28T00:20:21.000Z,1585354821,788,379,New Grad vs. Senior Dev,https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/
+1645,HackerNews,2020-03-28T00:11:16.000Z,1585354276,137,60,The Chapel Parallel Programming Language,https://chapel-lang.org/
+1646,HackerNews,2020-03-27T23:49:44.000Z,1585352984,284,180,Bird lays off hundreds via Zoom call,https://twitter.com/mjnblack/status/1243641637420453889
+1647,HackerNews,2020-03-27T23:36:05.000Z,1585352165,212,150,Instacart’s gig workers are planning a nationwide strike,https://www.vice.com/en_us/article/4agmvd/instacarts-gig-workers-are-planning-a-massive-nationwide-strike
+1648,HackerNews,2020-03-27T22:08:54.000Z,1585346934,148,119,"Airbnb to halt all marketing, most hiring as losses mount",https://www.theinformation.com/articles/airbnb-to-halt-all-marketing-most-hiring-as-losses-mount?pu=hackernewsju49op&utm_source=hackernews&utm_medium=unlock
+1649,HackerNews,2020-03-27T21:32:45.000Z,1585344765,197,98,Is there any code in Firefox (as of 2020) that comes from Netscape Navigator?,https://retrocomputing.stackexchange.com/questions/14229/is-there-any-code-in-firefox-as-of-2020-that-comes-from-netscape-navigator
+1650,HackerNews,2020-03-27T20:06:11.000Z,1585339571,176,92,Yelp to stop auto-creating fundraisers after outrage from business owners,https://www.theverge.com/2020/3/26/21196446/yelp-gofundme-coronavirus-automatic-opt-in-fundraiser-pause
+1651,HackerNews,2020-03-27T19:58:18.000Z,1585339098,500,125,The Hardest Program I've Ever Written – How a code formatter works (2015),http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
+1652,HackerNews,2020-03-27T19:52:54.000Z,1585338774,98,116,The iOS and Mac markets are almost the same size?,https://inessential.com/2020/03/27/the_ios_and_mac_markets_are_the_same_siz
+1653,HackerNews,2020-03-27T19:50:14.000Z,1585338614,110,30,The exFAT filesystem is coming to Linux,https://arstechnica.com/information-technology/2020/03/the-exfat-filesystem-is-coming-to-linux-paragon-softwares-not-happy-about-it/?hn
+1654,HackerNews,2020-03-27T19:49:07.000Z,1585338547,96,60,"When the state shifted to e-learning, a rural school shifted to the copy machine",https://www.propublica.org/article/coronavirus-schools-illinois-trico-district-176-superintendent-larry-lovel
+1655,HackerNews,2020-03-27T18:57:39.000Z,1585335459,395,299,Coyotes are being seen on the empty streets of San Francisco,https://www.sfgate.com/living-in-sf/article/Coyotes-are-being-seen-on-the-empty-streets-15159105.php
+1656,HackerNews,2020-03-27T18:57:22.000Z,1585335442,148,43,"Roche releases Covid-19 test recipe, after EC considers intervention",https://www.ftm.nl/artikelen/roche-releases-recipe-after-public-pressure-while-european-commission-considers-intervention-due-to-coronavirus-test
+1657,HackerNews,2020-03-27T18:14:21.000Z,1585332861,204,71,The theory of infectious origin of the Alzheimer’s disease,https://padiracinnovation.org/News/2020/03/the-theory-of-infectious-origin-of-the-alzheimers-disease
+1658,HackerNews,2020-03-27T17:46:44.000Z,1585331204,117,16,A Survey of Deep Learning for Scientific Discovery,https://arxiv.org/abs/2003.11755
+1659,HackerNews,2020-03-27T17:20:05.000Z,1585329605,207,197,"Was corporate profit growth a bubble inflated by ""financial engineering""?",https://www.openpolitics.com/2020/03/14/was-corporate-profit-growth-inflated-by-financial-engineering/
+1660,HackerNews,2020-03-27T17:19:19.000Z,1585329559,425,49,How are Unix pipes implemented?,https://toroid.org/unix-pipe-implementation
+1661,HackerNews,2020-03-27T17:14:22.000Z,1585329262,129,111,Mystery in Wuhan: recovered coronavirus patients test negative then positive,https://www.npr.org/sections/goatsandsoda/2020/03/27/822407626/mystery-in-wuhan-recovered-coronavirus-patients-test-negative-then-positive
+1662,HackerNews,2020-03-27T17:03:56.000Z,1585328636,151,85,$800M to support small businesses and crisis response,https://blog.google/inside-google/company-announcements/commitment-support-small-businesses-and-crisis-response-covid-19
+1663,HackerNews,2020-03-27T17:01:15.000Z,1585328475,88,141,One corner of U.S. oil market has already seen negative prices,https://www.bloomberg.com/news/articles/2020-03-27/one-corner-of-u-s-oil-market-has-already-seen-negative-prices
+1664,HackerNews,2020-03-27T16:10:10.000Z,1585325410,131,109,Making software engineering interviews predictive of job performance,https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews
+1665,HackerNews,2020-03-27T16:03:16.000Z,1585324996,250,85,Apple releases new Covid-19 app and website based on CDC guidance,https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/
+1666,HackerNews,2020-03-27T15:54:43.000Z,1585324483,161,32,"Show HN: YC's startup advice, organized and searchable",https://ycadvice.com
+1667,HackerNews,2020-03-27T15:36:28.000Z,1585323388,182,44,SBA Disaster Loans: Unofficial guide for freelancers and startups,https://blog.wunderstock.com/sba-disaster-loans/
+1668,HackerNews,2020-03-27T14:32:35.000Z,1585319555,312,90,Show HN: Introvert – Generative artwork to keep you off your phone,https://iamintrovert.co
+1669,HackerNews,2020-03-27T14:18:52.000Z,1585318732,1597,509,Zoom needs to clean up its privacy act,https://blogs.harvard.edu/doc/2020/03/27/zoom/
+1670,HackerNews,2020-03-27T14:11:14.000Z,1585318274,76,53,"D, L-lysine acetylsalicylate and glycine Impairs Coronavirus Replication (2016) [pdf]",https://www.longdom.org/open-access/d-llysine-acetylsalicylate--glycine-impairs-coronavirus-replication-jaa-1000151.pdf
+1671,HackerNews,2020-03-27T13:38:04.000Z,1585316284,340,144,Singapore to Open Source Bluetooth Contact Tracing,https://bluetrace.io
+1672,HackerNews,2020-03-27T13:19:55.000Z,1585315195,255,154,The New York Times Releases Its Dataset of U.S. Confirmed Coronavirus Cases,https://www.nytco.com/press/the-new-york-times-releases-its-dataset-of-u-s-confirmed-coronavirus-cases/
+1673,HackerNews,2020-03-27T12:29:46.000Z,1585312186,249,69,"Talkyard: Open-Source forum software – a StackOverflow, Reddit, Disqus hybrid",https://github.com/debiki/talkyard
+1674,HackerNews,2020-03-27T12:26:41.000Z,1585312001,174,26,Programming Models for Distributed Computation,https://github.com/heathermiller/dist-prog-book
+1675,HackerNews,2020-03-27T12:08:37.000Z,1585310917,431,112,Mycroft – An open-source voice assistant,https://mycroft.ai/
+1676,HackerNews,2020-03-27T11:46:42.000Z,1585309602,159,56,How is the Linux kernel tested?,https://embeddedbits.org/how-is-the-linux-kernel-tested/
+1677,HackerNews,2020-03-27T11:39:04.000Z,1585309144,112,220,What If C++ Abandoned Backward Compatibility?,https://robert.ocallahan.org/2020/03/what-if-c-abandoned-backward.html
+1678,HackerNews,2020-03-27T11:29:07.000Z,1585308547,103,66,Commercial submarine trips to the bottom of the Marianas Trench,https://www.bloomberg.com/news/articles/2020-03-27/eyos-submarine-dive-to-challenger-deep-bottom-mariana-trench
+1679,HackerNews,2020-03-27T11:19:37.000Z,1585307977,92,12,How the government prints and distributes money [video],https://www.youtube.com/watch?v=cp8d-OeGl4o
+1680,HackerNews,2020-03-27T11:09:39.000Z,1585307379,75,23,Improving Remote Meetings and Presentations,https://aaronparecki.com/2020/03/24/4/tips-and-tools-for-remote-meetings-and-presentations
+1681,HackerNews,2020-03-27T11:07:44.000Z,1585307264,76,42,The SIR Model of Epidemics,https://jaydaigle.net/blog/the-sir-model-of-epidemics/
+1682,HackerNews,2020-03-27T11:02:23.000Z,1585306943,88,2,"Compiling a Functional Language Using C++, Part 10 – Polymorphism",https://danilafe.com/blog/10_compiler_polymorphism/
+1683,HackerNews,2020-03-27T10:55:32.000Z,1585306532,174,71,Scientists identify microbe that could help degrade polyurethane-based plastics,https://phys.org/news/2020-03-scientists-microbe-degrade-polyurethane-based-plastics.html
+1684,HackerNews,2020-03-27T09:30:17.000Z,1585301417,143,82,When To Chat: Reconcile Time Zone Differences,https://whentochat.co/
+1685,HackerNews,2020-03-27T09:27:05.000Z,1585301225,184,276,How South Korea Reined In The Outbreak Without Shutting Everything Down,https://www.npr.org/sections/goatsandsoda/2020/03/26/821688981/how-south-korea-reigned-in-the-outbreak-without-shutting-everything-down
+1686,HackerNews,2020-03-27T09:13:55.000Z,1585300435,90,36,Google Cloud Partial Outage,https://status.cloud.google.com/incident/zall/20003
+1687,HackerNews,2020-03-27T08:38:40.000Z,1585298320,76,81,Why Windows 95 and 98 would crash after 49.7 days of uptime,https://sites.google.com/site/edmarkovich2/whywindows95andwindows98wouldcrashafter49.7daysofuptime
+1688,HackerNews,2020-03-27T07:51:24.000Z,1585295484,134,60,Dumping MiniDisc Media,https://www.pagetable.com/?p=1384
+1689,HackerNews,2020-03-27T07:50:35.000Z,1585295435,284,116,God be with you till we meet again (1918),http://www.lettersofnote.com/2020/03/god-be-with-you-till-we-meet-again.html
+1690,HackerNews,2020-03-27T04:57:30.000Z,1585285050,87,139,How much ‘normal’ risk does Covid represent?,https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196
+1691,HackerNews,2020-03-27T04:55:02.000Z,1585284902,229,169,Sony spins off camera business into separate company,https://petapixel.com/2020/03/26/sony-spins-off-camera-business-into-separate-company/
+1692,HackerNews,2020-03-27T04:40:19.000Z,1585284019,85,31,P.J. Vogt on Reply All’s “The Case of the Missing Hit”,https://www.vulture.com/2020/03/reply-all-case-of-missing-hit-interview.html
+1693,HackerNews,2020-03-27T04:08:09.000Z,1585282089,316,128,Darling – Run macOS software on Linux,http://darlinghq.org/
+1694,HackerNews,2020-03-27T02:10:28.000Z,1585275028,80,14,The Design and Evaluation of a High Performance Smalltalk System [pdf],https://www2.eecs.berkeley.edu/Pubs/TechRpts/1986/CSD-86-287.pdf
+1695,HackerNews,2020-03-27T01:05:08.000Z,1585271108,266,105,Upgraded Google Glass helps autistic kids “see” emotions,https://spectrum.ieee.org/biomedical/bionics/upgraded-google-glass-helps-autistic-kids-see-emotions
+1696,HackerNews,2020-03-27T00:35:17.000Z,1585269317,242,53,The Polygons of Doom: PSX,http://fabiensanglard.net/doom_psx/index.html
+1697,HackerNews,2020-03-27T00:14:11.000Z,1585268051,211,24,Streamz: Python pipelines to manage continuous streams of data,https://streamz.readthedocs.io/en/latest/index.html
+1698,HackerNews,2020-03-26T23:47:04.000Z,1585266424,132,48,Dashmap: Fast concurrent HashMap for Rust,https://github.com/xacrimon/dashmap
+1699,HackerNews,2020-03-26T23:16:55.000Z,1585264615,107,228,Beware second waves of Covid-19 if lockdowns eased early: study,https://www.reuters.com/article/us-health-coronavirus-wuhan-secondwave/beware-second-waves-of-covid-19-if-lockdowns-eased-early-study-idUSKBN21D1M9
+1700,HackerNews,2020-03-26T22:06:32.000Z,1585260392,86,101,US now nation with most coronavirus cases,https://www.bbc.com/news/world-us-canada-52056586
+1701,HackerNews,2020-03-26T21:43:03.000Z,1585258983,394,81,Our list of free software for remote work,https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/
+1702,HackerNews,2020-03-26T19:48:49.000Z,1585252129,269,85,Unpatched iOS bug blocks VPNs from encrypting all traffic,https://www.bleepingcomputer.com/news/security/unpatched-ios-bug-blocks-vpns-from-encrypting-all-traffic/
+1703,HackerNews,2020-03-26T19:38:58.000Z,1585251538,93,31,Square eGift Cards,https://giveandgetlocal.com/
+1704,HackerNews,2020-03-26T18:24:38.000Z,1585247078,85,87,Pass-by-value vs. pass-by-reference-to-const in C++,https://medium.com/@vgasparyan1995/pass-by-value-vs-pass-by-reference-to-const-c-f8944171e3ce
+1705,HackerNews,2020-03-26T18:13:40.000Z,1585246420,372,141,Wavve: making $76k a month turning podcasts into videos,https://www.failory.com/interview/wavve
+1706,HackerNews,2020-03-26T18:10:29.000Z,1585246229,493,339,"It's not what programming languages do, it's what they shepherd you to",https://nibblestew.blogspot.com/2020/03/its-not-what-programming-languages-do.html
+1707,HackerNews,2020-03-26T18:04:25.000Z,1585245865,90,17,Show HN: A frame by frame GIF editor with Photoshop vibes,http://gifexplosion.com/app.php
+1708,HackerNews,2020-03-26T17:43:07.000Z,1585244587,162,203,A review of Thomas Piketty’s “Capital and Ideology”,http://bostonreview.net/class-inequality/marshall-steinbaum-thomas-piketty-takes-ideology-inequality
+1709,HackerNews,2020-03-26T16:57:12.000Z,1585241832,101,42,"Show HN: ArkScript, a small and fast language for scripting video games",https://github.com/ArkScript-lang/Ark
+1710,HackerNews,2020-03-26T16:31:04.000Z,1585240264,214,103,WD Passport 4TB drives don't support WRITE SAME command,https://community.wd.com/t/invalid-command-operation-code-write-same/242463
+1711,HackerNews,2020-03-26T16:30:47.000Z,1585240247,303,136,Dwarf Fortress: An actual look at graphical improvements,https://steamcommunity.com/games/975370/announcements/detail/2082292794864361478
+1712,HackerNews,2020-03-26T16:23:33.000Z,1585239813,375,100,Firefox's low-latency WebAssembly compiler,http://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler
+1713,HackerNews,2020-03-26T15:59:45.000Z,1585238385,945,206,Zotero: Personal Research Assistant,https://www.zotero.org/
+1714,HackerNews,2020-03-26T15:52:46.000Z,1585237966,213,171,How H-E-B planned for the pandemic,https://www.texasmonthly.com/food/heb-prepared-coronavirus-pandemic/
+1715,HackerNews,2020-03-26T15:26:39.000Z,1585236399,116,145,Pangolins found to carry viruses related to Covid-19,https://www.bbc.com/news/science-environment-52048195
+1716,HackerNews,2020-03-26T14:45:17.000Z,1585233917,224,38,Use a Decision Journal,https://blog.trello.com/decision-journal
+1717,HackerNews,2020-03-26T14:25:51.000Z,1585232751,102,53,"Top VPNs recording users, potentially leaking data when visiting their websites",https://vpnpro.com/blog/vpn-provider-websites-tracking-their-visitors-online/
+1718,HackerNews,2020-03-26T14:20:00.000Z,1585232400,312,110,Show HN: A “living” Linux process with no memory,https://github.com/izabera/zeromaps
+1719,HackerNews,2020-03-26T14:19:05.000Z,1585232345,1433,360,Zoom iOS app sends data to Facebook even if you don’t have a Facebook account,https://www.vice.com/en_us/article/k7e599/zoom-ios-app-sends-data-to-facebook-even-if-you-dont-have-a-facebook-account
+1720,HackerNews,2020-03-26T14:04:06.000Z,1585231446,273,42,Show HN: Meta book recommendations from Ask HN threads,https://mapfilterfold.com/
+1721,HackerNews,2020-03-26T13:25:07.000Z,1585229107,146,332,Coronavirus patients start to overwhelm US hospitals,https://edition.cnn.com/2020/03/25/health/coronavirus-covid-hospitals
+1722,HackerNews,2020-03-26T12:54:16.000Z,1585227256,204,46,Show HN: UIDesignDaily – soft launch with 600 open-source designs,https://uidesigndaily.com
+1723,HackerNews,2020-03-26T12:36:15.000Z,1585226175,558,670,3.28M file for U.S. jobless benefits,https://www.wsj.com/articles/the-long-run-of-american-job-growth-has-ended-11585215000
+1724,HackerNews,2020-03-26T11:45:27.000Z,1585223127,91,99,No Code Of Conduct (2018),https://github.com/domgetter/NCoC
+1725,HackerNews,2020-03-26T09:45:03.000Z,1585215903,102,40,UK scientists ask for help in transcribing 200 years of rainfall data,https://www.bbc.com/news/science-environment-52040822
+1726,HackerNews,2020-03-26T09:41:48.000Z,1585215708,76,59,Azure Appears to Be Full,https://www.theregister.co.uk/2020/03/24/azure_seems_to_be_full/
+1727,HackerNews,2020-03-26T08:53:03.000Z,1585212783,352,181,Bosch develops rapid test for Covid-19,https://www.bosch.com/stories/vivalytic-rapid-test-for-covid-19/
+1728,HackerNews,2020-03-26T08:43:15.000Z,1585212195,131,25,A Light Box in Heavy Times,https://blog.afandian.com/2020/02/light-box-heavy-times/
+1729,HackerNews,2020-03-26T07:15:14.000Z,1585206914,270,109,Show HN: I made a site that aggregates entry-level positions,https://entrylevel.io
+1730,HackerNews,2020-03-26T06:55:07.000Z,1585205707,157,66,Adding tests when you don't have time to,https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/
+1731,HackerNews,2020-03-26T06:53:34.000Z,1585205614,197,66,A Visual Debugger for Jupyter,https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559
+1732,HackerNews,2020-03-26T06:00:32.000Z,1585202432,120,69,New hard drive rituals (2018),https://blog.linuxserver.io/2018/10/29/new-hard-drive-rituals/
+1733,HackerNews,2020-03-26T05:38:20.000Z,1585201100,77,66,Masks really work to reduce the spread of Covid-19,https://twitter.com/jeremyphoward/status/1242894378441506816
+1734,HackerNews,2020-03-26T05:18:52.000Z,1585199932,91,25,Seven Stages of Open Software,https://coiled.io/blog/stages-of-openness.html
+1735,HackerNews,2020-03-26T04:52:32.000Z,1585198352,122,62,Refilling an ink jet cartridge with highlighter ink,https://twitter.com/MLE_Online/status/1242969804799012864
+1736,HackerNews,2020-03-26T03:33:57.000Z,1585193637,282,201,What the last few weeks have been like for the CEO of Slack,https://twitter.com/stewart/status/1243000487365861376
+1737,HackerNews,2020-03-26T02:34:35.000Z,1585190075,84,53,Covid-19 Rapid 15 minutes Test Kit,https://rapidward.com
+1738,HackerNews,2020-03-26T01:59:23.000Z,1585187963,417,289,Most(ly dead) Influential Programming Languages,https://hillelwayne.com/post/influential-dead-languages/
+1739,HackerNews,2020-03-26T01:00:42.000Z,1585184442,133,127,Toki Pona: A Language with a Hundred Words (2015),https://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/
+1740,HackerNews,2020-03-26T00:22:56.000Z,1585182176,157,102,Corporate Socialism: The Government Is Bailing Out Investors and Not You,https://medium.com/@nntaleb/corporate-socialism-the-government-is-bailing-out-investors-managers-not-you-3b31a67bff4a
+1741,HackerNews,2020-03-26T00:00:22.000Z,1585180822,225,110,"5,000-year-old sword discovered by archaeology student at a Venetian monastery",https://edition.cnn.com/style/article/5000-year-old-sword-discovered-in-italy-trnd/index.html
+1742,HackerNews,2020-03-25T23:11:31.000Z,1585177891,152,38,How different are different diff algorithms in Git?,https://link.springer.com/article/10.1007%2Fs10664-019-09772-z
+1743,HackerNews,2020-03-25T23:02:34.000Z,1585177354,150,177,Billionaires Want People Back to Work. Employees Aren’t So Sure,https://www.bloomberg.com/news/articles/2020-03-25/billionaires-want-people-back-to-work-workers-aren-t-so-sure
+1744,HackerNews,2020-03-25T22:48:02.000Z,1585176482,98,23,Show HN: Web Skills – A Visual Learning Guide for Web Developers,https://andreasbm.github.io/web-skills/
+1745,HackerNews,2020-03-25T22:35:38.000Z,1585175738,77,73,What to do if your startup is running out of cash,https://marker.medium.com/how-to-manage-a-business-thats-running-out-of-cash-a9e109a2f254
+1746,HackerNews,2020-03-25T22:29:45.000Z,1585175385,402,223,"Social distancing slowing not only Covid-19, but other diseases too",https://qz.com/1824020/social-distancing-slowing-not-only-covid-19-but-other-diseases-too/
+1747,HackerNews,2020-03-25T21:50:33.000Z,1585173033,161,87,Top U.S. cities have seen internet speeds decline this past week,https://techcrunch.com/2020/03/25/88-out-of-top-200-u-s-cities-have-seen-internet-speeds-decline-this-past-week-3-cities-by-more-than-40/
+1748,HackerNews,2020-03-25T21:34:54.000Z,1585172094,103,35,Exceptional failure: breaking the STM32F1 read-out protection,https://blog.zapb.de/stm32f1-exceptional-failure/
+1749,HackerNews,2020-03-25T21:05:28.000Z,1585170328,160,125,Kubernetes 1.18,https://kubernetes.io/blog/2020/03/25/kubernetes-1-18-release-announcement/
+1750,HackerNews,2020-03-25T19:03:59.000Z,1585163039,148,70,The 480,https://en.wikipedia.org/wiki/The_480
+1751,HackerNews,2020-03-25T18:46:51.000Z,1585162011,122,39,Samsung Begins Mass Production of 512GB EUFS 3.1,https://news.samsung.com/global/samsung-begins-mass-production-of-the-fastest-storage-for-flagship-smartphones
+1752,HackerNews,2020-03-25T18:35:36.000Z,1585161336,311,88,Letter to Myself in Late 2008,https://dalton.substack.com/p/letter-to-myself-in-late-2008
+1753,HackerNews,2020-03-25T18:26:44.000Z,1585160804,144,33,YC Companies Responding to Covid-19,https://www.ycombinator.com/covid
+1754,HackerNews,2020-03-25T18:24:46.000Z,1585160686,75,30,The Impact of Coronavirus on Global Activity,https://blog.fitbit.com/covid-19-global-activity/
+1755,HackerNews,2020-03-25T18:21:55.000Z,1585160515,515,203,Show HN: To fight quarantine boredom I build a site to watch movies with friends,https://bingetogether.com/
+1756,HackerNews,2020-03-25T18:18:34.000Z,1585160314,510,122,Unity Learn platform free for three months,https://learn.unity.com/
+1757,HackerNews,2020-03-25T17:43:49.000Z,1585158229,124,23,"Show HN: pion/ion, self-hosted conferencing software with single command deploy",https://github.com/pion/ion
+1758,HackerNews,2020-03-25T17:22:45.000Z,1585156965,963,445,"Private client-side-only PWAs are hard, but now Apple made them impossible",https://andregarzia.com/2020/03/private-client-side-only-pwas-are-hard-but-now-apple-made-them-impossible.html
+1759,HackerNews,2020-03-25T17:03:12.000Z,1585155792,192,31,Show HN: Explore Quake/Half-Life maps in your browser,https://github.com/sbuggay/bspview
+1760,HackerNews,2020-03-25T17:01:04.000Z,1585155664,137,24,The structures of computation and the mathematical structure of nature (2010),http://www.rutherfordjournal.org/article030107.html
+1761,HackerNews,2020-03-25T16:08:45.000Z,1585152525,100,30,"Show HN: Sorcia – Self-hosted web front end for Git repositories, written in Go",https://git.mysticmode.org/r/sorcia
+1762,HackerNews,2020-03-25T16:01:28.000Z,1585152088,437,113,"MeiliSearch: Zero-config alternative to Elasticsearch, made in Rust",https://github.com/meilisearch/MeiliSearch
+1763,HackerNews,2020-03-25T15:09:31.000Z,1585148971,197,78,Ventilators 101: What they do and how they work,https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/
+1764,HackerNews,2020-03-25T14:50:54.000Z,1585147854,181,35,Unsupervised learning of probably symmetric deformable 3D objects from images,http://www.robots.ox.ac.uk/~vgg/blog/unsupervised-learning-of-probably-symmetric-deformable-3d-objects-from-images-in-the-wild.html?image=004_face&type=human
+1765,HackerNews,2020-03-25T14:47:28.000Z,1585147648,672,318,Chrome phasing out support for User-Agent,https://www.infoq.com/news/2020/03/chrome-phasing-user-agent/
+1766,HackerNews,2020-03-25T14:46:47.000Z,1585147607,500,211,Show HN: Skynet Simulator,http://skynetsimulator.com/
+1767,HackerNews,2020-03-25T14:45:37.000Z,1585147537,111,2,Open-sourced Covid-19 testing site search tool and assessment,https://github.com/oscarhealth/covid19-testing
+1768,HackerNews,2020-03-25T14:43:31.000Z,1585147411,109,65,Pouring one out for the end of O’Reilly’s in-person conferences,https://morningmindmeld.com/issues/pouring-one-out-for-the-end-of-o-reilly-s-in-person-conferences-232826
+1769,HackerNews,2020-03-25T14:42:19.000Z,1585147339,147,85,Dgit: Git with decentralized remotes,https://github.com/quorumcontrol/dgit
+1770,HackerNews,2020-03-25T14:35:26.000Z,1585146926,422,182,Getting started with bare-metal assembly,https://johv.dk/blog/bare-metal-assembly-tutorial.html
+1771,HackerNews,2020-03-25T13:42:47.000Z,1585143767,103,106,Toronto is gathering cellphone location data to find people congregating,https://business.financialpost.com/technology/city-of-toronto-gathering-cellphone-location-data-from-telecoms-in-bid-to-slow-spread-of-covid-19-tory
+1772,HackerNews,2020-03-25T13:20:38.000Z,1585142438,103,160,Twenty-one year old with no pre-existing conditions dies from Coronavirus,https://www.yorkshirecoastradio.com/news/national/3069302/coronavirus-briton-21-with-no-existing-health-conditions-dies-after-contracting-covid-19/
+1773,HackerNews,2020-03-25T13:10:21.000Z,1585141821,90,174,How the World’s Richest Country Ran Out of Face Masks,https://www.nytimes.com/2020/03/25/opinion/coronavirus-face-mask.html
+1774,HackerNews,2020-03-25T12:24:53.000Z,1585139093,77,80,The coronavirus pandemic in five powerful charts,https://www.nature.com/articles/d41586-020-00758-2
+1775,HackerNews,2020-03-25T12:05:06.000Z,1585137906,172,114,Jane Street and the OCaml Compiler (2018) [video],https://www.janestreet.com/tech-talks/jane-and-compiler/
+1776,HackerNews,2020-03-25T12:01:36.000Z,1585137696,491,134,Speeding up Linux disk encryption,https://blog.cloudflare.com/speeding-up-linux-disk-encryption/
+1777,HackerNews,2020-03-25T12:00:05.000Z,1585137605,108,13,GraphQL Mesh,https://github.com/Urigo/graphql-mesh
+1778,HackerNews,2020-03-25T11:58:27.000Z,1585137507,77,9,TXR Lisp,https://www.nongnu.org/txr/txr-lisp.html
+1779,HackerNews,2020-03-25T11:16:28.000Z,1585134988,698,452,WebKit will delete all local storage after 7 days,https://ar.al/2020/03/25/apple-just-killed-offline-web-apps-while-purporting-to-protect-your-privacy-why-thats-a-bad-thing-and-why-you-should-care/
+1780,HackerNews,2020-03-25T11:04:29.000Z,1585134269,104,119,"The ‘Blurred Lines’ case scared songwriters, but its time may be up",https://www.nytimes.com/2020/03/24/arts/music/blurred-lines-led-zeppelin-copyright.html
+1781,HackerNews,2020-03-25T10:55:02.000Z,1585133702,611,181,A detailed look at the router provided by my ISP,https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/
+1782,HackerNews,2020-03-25T10:53:11.000Z,1585133591,145,47,Open Food Facts,https://world.openfoodfacts.org/
+1783,HackerNews,2020-03-25T10:30:53.000Z,1585132253,84,235,Current estimates about the Covid-19 fatality rate may be too high,https://www.wsj.com/articles/is-the-coronavirus-as-deadly-as-they-say-11585088464
+1784,HackerNews,2020-03-25T10:09:38.000Z,1585130978,115,17,Smalltalk-87,http://www.wirfs-brock.com/allen/things/smalltalk-things/smalltalk-87
+1785,HackerNews,2020-03-25T09:58:53.000Z,1585130333,154,36,Amiga Machine Code Course,https://www.markwrobel.dk/project/amigamachinecode/
+1786,HackerNews,2020-03-25T09:42:33.000Z,1585129353,155,90,BBC Computer Literacy Project 1980 – 1989,https://clp.bbcrewind.co.uk/
+1787,HackerNews,2020-03-25T09:40:46.000Z,1585129246,138,80,LICEcap: Simple Animated Screen Captures,https://www.cockos.com/licecap/
+1788,HackerNews,2020-03-25T06:48:36.000Z,1585118916,218,159,About Musl,https://musl.libc.org/about.html
+1789,HackerNews,2020-03-25T06:39:07.000Z,1585118347,114,60,Switching from Sketch to Figma,https://www.intercom.com/blog/design-team-switching-to-figma/
+1790,HackerNews,2020-03-25T04:51:37.000Z,1585111897,223,99,Proposed bounty for adding virtual camera / microphone support natively to OBS,https://github.com/obsproject/obs-studio/issues/2568
+1791,HackerNews,2020-03-25T04:46:01.000Z,1585111561,146,10,Yak Shaving – Swift Edition,https://tirania.org/blog/archive/2020/Mar-24.html
+1792,HackerNews,2020-03-25T04:08:11.000Z,1585109291,280,161,CoreJS: State of the project? Looks like dead. Any official fork?,https://github.com/zloirock/core-js/issues/767
+1793,HackerNews,2020-03-25T03:45:31.000Z,1585107931,103,35,When Einstein Was Just Another Physicist,https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/
+1794,HackerNews,2020-03-25T03:17:42.000Z,1585106262,91,45,SEC Gets Win in Test of Authority to Regulate Cryptocurrency Sales,https://www.wsj.com/articles/sec-gets-win-in-test-of-authority-to-regulate-cryptocurrency-sales-11585099706
+1795,HackerNews,2020-03-25T02:20:18.000Z,1585102818,128,46,Waffle House closes 365 locations across the U.S.,https://www.wafb.com/2020/03/24/waffle-house-closes-locations-across-us/
+1796,HackerNews,2020-03-25T02:09:40.000Z,1585102180,94,89,Blameless post-mortems and a just culture (2012),https://codeascraft.com/2012/05/22/blameless-postmortems/
+1797,HackerNews,2020-03-25T01:54:10.000Z,1585101250,471,91,Show HN: MVP.css – Minimalist stylesheet for HTML elements,https://github.com/andybrewer/mvp
+1798,HackerNews,2020-03-25T01:43:51.000Z,1585100631,811,224,I got my file from Clearview AI,https://onezero.medium.com/i-got-my-file-from-clearview-ai-and-it-freaked-me-out-33ca28b5d6d4
+1799,HackerNews,2020-03-25T01:34:29.000Z,1585100069,148,22,A National Emergency Library to Provide Digitized Books,http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/
+1800,HackerNews,2020-03-25T00:48:53.000Z,1585097333,339,185,Stanford researchers confirm N95 masks can be sterilized in oven,https://m.box.com/shared_item/https%3A%2F%2Fstanfordmedicine.box.com%2Fv%2Fcovid19-PPE-1-1
+1801,HackerNews,2020-03-25T00:27:46.000Z,1585096066,242,135,A Novel Mechanical Ventilator Designed for Mass Scale Production,https://arxiv.org/abs/2003.10405
+1802,HackerNews,2020-03-25T00:23:48.000Z,1585095828,112,30,Wayback Machine was down,https://web.archive.org/web/*/https://news.ycombinator.com
+1803,HackerNews,2020-03-24T23:53:56.000Z,1585094036,92,48,How UI-driven state increases accidental complexity,https://evgenii.info/ui-driven-state/
+1804,HackerNews,2020-03-24T23:48:07.000Z,1585093687,92,230,U.S. retailers plan to stop paying rent to offset virus closures,https://www.bloomberg.com/news/articles/2020-03-24/u-s-retailers-plan-to-stop-paying-rent-to-offset-virus-closures
+1805,HackerNews,2020-03-24T23:47:52.000Z,1585093672,169,68,Doctors turn to social media to develop Covid-19 treatments in real time,https://www.bloomberg.com/news/articles/2020-03-24/covid-19-mysteries-yield-to-doctors-new-weapon-crowd-sourcing
+1806,HackerNews,2020-03-24T23:19:48.000Z,1585091988,155,41,Swift 5.2,https://swift.org/blog/swift-5-2-released/
+1807,HackerNews,2020-03-24T23:02:32.000Z,1585090952,108,111,Dyson has announced it will develop a new type of medical ventilator for NHS,https://www.bbc.com/news/technology-52021757
+1808,HackerNews,2020-03-24T22:15:18.000Z,1585088118,124,36,Homenauts – Resources for explorers who stay at home during Covid-19,https://www.homenauts.com/
+1809,HackerNews,2020-03-24T21:19:57.000Z,1585084797,831,287,Zig cc: A drop-in replacement for GCC/Clang,https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+1810,HackerNews,2020-03-24T20:34:45.000Z,1585082085,197,25,LLVM 10.0,http://lists.llvm.org/pipermail/llvm-announce/2020-March/000087.html
+1811,HackerNews,2020-03-24T20:11:58.000Z,1585080718,119,25,How Android developers access installed apps on user’s device [pdf],http://www.ivanomalavolta.com/files/papers/MOBILESoft_iam_2020.pdf
+1812,HackerNews,2020-03-24T19:58:24.000Z,1585079904,430,146,How I became a better programmer (2017),https://jlongster.com/How-I-Became-Better-Programmer
+1813,HackerNews,2020-03-24T19:42:11.000Z,1585078931,277,313,CDC coronavirus testing decision likely to haunt nation for months to come,https://khn.org/news/cdc-coronavirus-testing-decision-likely-to-haunt-nation-for-months-to-come/
+1814,HackerNews,2020-03-24T19:37:55.000Z,1585078675,308,220,YouTube to limit default video quality around the world for a month,https://www.bloomberg.com/news/articles/2020-03-24/youtube-to-limit-video-quality-around-the-world-for-a-month
+1815,HackerNews,2020-03-24T19:21:41.000Z,1585077701,201,68,Markdown is an excellent choice for documentation,https://www.jeffgeerling.com/blog/2020/markdown-excellent-choice-documentation
+1816,HackerNews,2020-03-24T19:21:16.000Z,1585077676,130,59,Turing Pi: Kubernetes Cluster on Your Desk,https://turingpi.com/
+1817,HackerNews,2020-03-24T19:09:59.000Z,1585076999,339,182,Little Snitch and the deprecation of kernel extensions,https://blog.obdev.at/little-snitch-and-the-deprecation-of-kernel-extensions/
+1818,HackerNews,2020-03-24T18:47:25.000Z,1585075645,260,168,Full third-party cookie blocking and more,https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/
+1819,HackerNews,2020-03-24T18:44:31.000Z,1585075471,267,63,"Every default macOS wallpaper, in glorious 5k resolution",https://512pixels.net/projects/default-mac-wallpapers-in-5k/
+1820,HackerNews,2020-03-24T18:19:10.000Z,1585073950,136,153,The NHS is looking for up to 250k volunteers,https://www.england.nhs.uk/2020/03/your-nhs-needs-you-nhs-call-for-volunteer-army/
+1821,HackerNews,2020-03-24T18:15:19.000Z,1585073719,79,77,Don't use markdown for documentation (2018),https://mister-gold.pro/posts/en/asciidoc-vs-markdown/
+1822,HackerNews,2020-03-24T18:07:55.000Z,1585073275,370,121,Albert Uderzo has died,https://www.theguardian.com/books/2020/mar/24/asterix-creator-albert-uderzo-dies-at-92
+1823,HackerNews,2020-03-24T17:10:51.000Z,1585069851,124,121,Margin considered harmful,https://mxstbr.com/thoughts/margin
+1824,HackerNews,2020-03-24T16:41:20.000Z,1585068080,153,19,Stanford CS253: Web Security,https://cs253.stanford.edu
+1825,HackerNews,2020-03-24T16:39:59.000Z,1585067999,166,35,PgSync: Sync Postgres data between databases,https://github.com/ankane/pgsync
+1826,HackerNews,2020-03-24T16:34:03.000Z,1585067643,406,203,"Show HN: Screen – screen sharing for remote work, by the cofounder of Screenhero",https://screen.so
+1827,HackerNews,2020-03-24T15:47:20.000Z,1585064840,621,70,Learn D3,https://observablehq.com/@d3/learn-d3
+1828,HackerNews,2020-03-24T15:43:46.000Z,1585064626,166,151,The next outbreak? We're not ready. Ted talk by Bill Gates (2015),https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready
+1829,HackerNews,2020-03-24T15:18:44.000Z,1585063124,79,9,An unsolved problem in graph theory,https://prideout.net/blog/graceful/
+1830,HackerNews,2020-03-24T15:02:00.000Z,1585062120,286,211,Don't write documentation in Markdown,https://buttondown.email/hillelwayne/archive/please-dont-write-your-documentation-in-markdown/
+1831,HackerNews,2020-03-24T14:57:54.000Z,1585061874,91,77,Who’s Behind the ‘Web Listings’ Mail Scam?,https://krebsonsecurity.com/2020/03/whos-behind-the-web-listings-mail-scam/
+1832,HackerNews,2020-03-24T14:52:16.000Z,1585061536,353,286,India announces nationwide lockdown to stop spread of coronavirus,https://www.axios.com/india-coronavirus-lockdown-fd753cb9-efbd-45b0-9008-16d51272c961.html
+1833,HackerNews,2020-03-24T13:59:20.000Z,1585058360,206,128,"Abe, IOC agree to delay Tokyo Olympics by one year",https://www.straitstimes.com/sport/olympics-japan-will-hold-olympics-by-summer-2021-at-latest-pm-shinzo-abe-says
+1834,HackerNews,2020-03-24T13:53:13.000Z,1585057993,161,91,In praise of S3,https://info.acloud.guru/resources/brazeal-in-praise-of-s3-the-greatest-cloud-service-of-all-time
+1835,HackerNews,2020-03-24T13:16:54.000Z,1585055814,129,33,Compaq and Coronavirus,https://stratechery.com/2020/compaq-and-coronavirus/
+1836,HackerNews,2020-03-24T12:41:04.000Z,1585053664,362,103,A mother and son who unraveled a geographic hoax,https://www.atlasobscura.com/articles/moose-boulder-debunked
+1837,HackerNews,2020-03-24T12:12:26.000Z,1585051946,196,106,Cronopete – A Linux clone of Time Machine,https://rastersoft.com/programas/cronopete.html
+1838,HackerNews,2020-03-24T11:28:44.000Z,1585049324,81,23,Using the Specification Pattern to Build a Data-Driven Rules Engine,https://blog.jonblankenship.com/2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/
+1839,HackerNews,2020-03-24T11:26:48.000Z,1585049208,114,48,Welcome to the Virosphere,https://www.nytimes.com/2020/03/24/science/viruses-coranavirus-biology.html
+1840,HackerNews,2020-03-24T11:00:23.000Z,1585047623,76,73,Kitty 0.17 – GPU-accelerated terminal emulator,https://sw.kovidgoyal.net/kitty/changelog.html#id1
+1841,HackerNews,2020-03-24T06:24:15.000Z,1585031055,350,73,Setting up Git identities,https://www.micah.soy/posts/setting-up-git-identities/
+1842,HackerNews,2020-03-24T06:00:44.000Z,1585029644,370,198,Don’t bail out the cruise industry,https://www.theverge.com/2020/3/23/21187076/cruise-line-industry-bailout-trump-coronavirus-us-companies-tax
+1843,HackerNews,2020-03-24T05:31:18.000Z,1585027878,246,82,Show HN: Excel-like table editing for Markdown,https://blog.documentnode.io/when-markdown-meets-tables
+1844,HackerNews,2020-03-24T05:15:55.000Z,1585026955,113,66,How toilet paper is made (2014) [video],https://www.youtube.com/watch?v=Z74OfpUbeac
+1845,HackerNews,2020-03-24T05:11:09.000Z,1585026669,79,17,Adafruit deemed an essential service to make Personal Protection Equipment,https://blog.adafruit.com/2020/03/22/covid/
+1846,HackerNews,2020-03-24T05:05:00.000Z,1585026300,330,87,"Concurrent Programming, with Examples",https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1
+1847,HackerNews,2020-03-24T04:53:07.000Z,1585025587,138,150,Our Self-Isolating Future: How working from home could reshape society,https://onezero.medium.com/coronavirus-is-a-preview-of-our-self-isolating-future-f5e73b046104
+1848,HackerNews,2020-03-24T04:51:52.000Z,1585025512,125,116,The field of “useful reals” between rational and real numbers (2019),https://chittur.dev/math/2019/12/05/secret-field.html
+1849,HackerNews,2020-03-24T03:56:15.000Z,1585022175,75,64,Svelte Is Unappealing,https://www.ryanprior.com/posts/svelte-is-unappealing/
+1850,HackerNews,2020-03-24T03:48:06.000Z,1585021686,95,28,Researchers Step Up Efforts to Develop a 'Universal' Flu Vaccine,https://www.npr.org/sections/health-shots/2020/02/27/807743274/researchers-step-up-efforts-to-develop-a-universal-flu-vaccine
+1851,HackerNews,2020-03-24T02:50:06.000Z,1585018206,199,89,First hydroxychloroquine randomized controlled trial: results disappointing,https://twitter.com/gcbioinv/status/1242268829906018304
+1852,HackerNews,2020-03-24T01:41:00.000Z,1585014060,255,256,"Costco will not allow returns on high-demand items like toilet paper, water",https://www.today.com/food/costco-not-allowing-returns-high-demand-items-toilet-paper-t176417
+1853,HackerNews,2020-03-24T00:46:56.000Z,1585010816,92,90,Facebook donates emergency reserve of 720k masks,https://www.reuters.com/article/us-health-coronavirus-facebook-masks/facebook-donates-emergency-reserve-of-720000-masks-due-to-coronavirus-outbreak-idUSKBN21911E
+1854,HackerNews,2020-03-23T23:22:16.000Z,1585005736,897,285,Jitsi Meet: An open source alternative to Zoom,https://meet.jit.si
+1855,HackerNews,2020-03-23T22:49:55.000Z,1585003795,93,49,God Helmet,https://en.wikipedia.org/wiki/God_helmet
+1856,HackerNews,2020-03-23T22:42:04.000Z,1585003324,132,83,Bashible: An Ansible-inspired deployment/automation tool written in Bash DSL,https://github.com/mig1984/bashible
+1857,HackerNews,2020-03-23T22:36:19.000Z,1585002979,131,59,Lost sense of smell may be peculiar clue to coronavirus infection,https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html
+1858,HackerNews,2020-03-23T21:38:09.000Z,1584999489,211,55,Show HN: Intro to Python and Programming for non-CS majors,https://github.com/webartifex/intro-to-python
+1859,HackerNews,2020-03-23T20:51:41.000Z,1584996701,490,173,"Windows code-execution zeroday is under active exploit, Microsoft warns",https://arstechnica.com/information-technology/2020/03/attackers-exploit-windows-zeroday-that-can-execute-malicious-code/
+1860,HackerNews,2020-03-23T20:50:51.000Z,1584996651,87,136,Strict new curbs on life in UK announced by PM,https://www.bbc.co.uk/news/uk-52012432
+1861,HackerNews,2020-03-23T20:10:05.000Z,1584994205,221,189,Taiwan's new 'electronic fence' for quarantines leads wave of virus monitoring,https://www.reuters.com/article/us-health-coronavirus-taiwan-surveillanc-idUSKBN2170SK
+1862,HackerNews,2020-03-23T19:50:22.000Z,1584993022,82,5,The epic photography of Kenny Rogers,https://www.theguardian.com/artanddesign/2020/mar/23/remarkably-talented-the-epic-photography-of-kenny-rogers
+1863,HackerNews,2020-03-23T19:36:08.000Z,1584992168,106,38,Ancestor of animals identified in Australian fossils,https://phys.org/news/2020-03-ancestor-animals-australian-fossils.html
+1864,HackerNews,2020-03-23T18:56:39.000Z,1584989799,186,57,U.S. power industry may ask key employees to live at work if coronavirus worsens,https://www.reuters.com/article/us-health-coronavirus-usa-utilities/u-s-power-industry-may-ask-key-employees-to-live-at-work-if-coronavirus-worsens-idUSKBN2171AC
+1865,HackerNews,2020-03-23T18:24:09.000Z,1584987849,309,325,Why Is Facebook Not in the Cloud Business?,https://interconnected.blog/why-is-facebook-not-in-the-cloud-business/
+1866,HackerNews,2020-03-23T18:17:59.000Z,1584987479,313,232,New System76 Laptop: Lemur Pro,https://system76.com/laptops/lemur
+1867,HackerNews,2020-03-23T17:33:51.000Z,1584984831,185,79,Private Kit: Can we slow the spread without giving up individual privacy?,http://safepaths.mit.edu/
+1868,HackerNews,2020-03-23T16:22:54.000Z,1584980574,133,74,WHO Changes 'Social Distancing' to 'Physical Distancing',https://nerdist.com/article/social-distancing-changed-physical-distancing/
+1869,HackerNews,2020-03-23T15:59:04.000Z,1584979144,182,95,Study suggests daily meditation slows brain aging,https://medicalxpress.com/news/2020-03-daily-meditation-brain-aging.html
+1870,HackerNews,2020-03-23T15:57:36.000Z,1584979056,94,49,Living Without Atomic Clocks (2016),https://www.cockroachlabs.com/blog/living-without-atomic-clocks/
+1871,HackerNews,2020-03-23T15:54:27.000Z,1584978867,141,122,School districts take unplanned plunge into online learning,https://www.bostonherald.com/2020/03/23/school-districts-take-unplanned-plunge-into-online-learning/
+1872,HackerNews,2020-03-23T15:42:38.000Z,1584978158,105,70,Spain's hospital IT systems under “massive attack” (in Spanish),https://elpais.com/espana/2020-03-23/la-policia-detecta-un-ataque-masivo-al-sistema-informatico-de-los-hospitales.html
+1873,HackerNews,2020-03-23T14:07:14.000Z,1584972434,393,143,Using Zoom? Here are the privacy issues you need to be aware of,https://protonmail.com/blog/zoom-privacy-issues/
+1874,HackerNews,2020-03-23T12:47:35.000Z,1584967655,113,67,Implementing single-file web components,https://ckeditor.com/blog/implementing-single-file-web-components/
+1875,HackerNews,2020-03-23T12:36:20.000Z,1584966980,174,107,End-to-end encryption in the browser,https://blog.excalidraw.com/end-to-end-encryption/
+1876,HackerNews,2020-03-23T12:30:00.000Z,1584966600,255,78,Why do color TVs make black and white snow?,https://engineering.stackexchange.com/questions/33737/why-do-color-tvs-make-black-and-white-snow
+1877,HackerNews,2020-03-23T12:23:43.000Z,1584966223,229,47,Beer distribution game,https://en.wikipedia.org/wiki/Beer_distribution_game
+1878,HackerNews,2020-03-23T12:22:48.000Z,1584966168,186,22,Stanza: A Python natural language processing toolkit for many human languages,https://arxiv.org/abs/2003.07082
+1879,HackerNews,2020-03-23T12:22:26.000Z,1584966146,239,350,Federal Reserve pledges asset purchases with no limit to support markets,https://www.cnbc.com/2020/03/23/fed-announces-a-slew-of-new-programs-to-help-markets-including-open-ended-asset-purchases.html
+1880,HackerNews,2020-03-23T12:20:04.000Z,1584966004,176,41,An in-depth look at OCaml’s new “best-fit” garbage collector strategy,http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/
+1881,HackerNews,2020-03-23T11:52:32.000Z,1584964352,90,171,"The Virus Can Be Stopped, but Only with Harsh Steps, Experts Say",https://www.nytimes.com/2020/03/22/health/coronavirus-restrictions-us.html
+1882,HackerNews,2020-03-23T11:39:25.000Z,1584963565,79,28,"Jianruiying, the Special Forces of the Qing Dynasty",https://www.mandarinmansion.com/article/jianruiying-introduction
+1883,HackerNews,2020-03-23T11:37:33.000Z,1584963453,157,60,Discord outage postmortem,https://discord.statuspage.io/incidents/62gt9cgjwdgf
+1884,HackerNews,2020-03-23T11:36:47.000Z,1584963407,336,168,Passenger airlines start shifting idled planes into freight business,https://www.wsj.com/articles/passenger-airlines-start-shifting-idled-planes-into-freight-business-11584737793
+1885,HackerNews,2020-03-23T11:09:24.000Z,1584961764,215,181,Why Don’t We Just Ban Targeted Advertising?,https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/
+1886,HackerNews,2020-03-23T11:06:24.000Z,1584961584,85,30,Mise en Place Writing,https://www.swyx.io/writing/writing-mise-en-place/
+1887,HackerNews,2020-03-23T09:55:23.000Z,1584957323,288,68,An animal that doesn't breathe oxygen,https://www.cbc.ca/news/technology/animal-breathe-oxygen-1.5478645
+1888,HackerNews,2020-03-23T09:47:53.000Z,1584956873,106,89,Greenland's melting ice raised global sea level by 2.2mm in two months,https://www.theguardian.com/science/2020/mar/19/greenland-ice-melt-sea-level-rise-climate-crisis
+1889,HackerNews,2020-03-23T09:41:01.000Z,1584956461,226,90,Secure by Design,https://henrikwarne.com/2020/03/22/secure-by-design/
+1890,HackerNews,2020-03-23T08:53:09.000Z,1584953589,99,90,Covid-19 in Hungary: Viktor Orbán pursues dictatorial powers,https://hungarianspectrum.org/2020/03/21/kim-lane-scheppele-orbans-emergency/
+1891,HackerNews,2020-03-23T08:46:39.000Z,1584953199,148,73,Magic: The Gathering creator Richard Garfield on 35 years of making games,https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
+1892,HackerNews,2020-03-23T08:38:22.000Z,1584952702,98,35,Ventilator built from snorkel mask and 3D printed part,https://www.isinnova.it/easy-covid19-eng/
+1893,HackerNews,2020-03-23T08:24:54.000Z,1584951894,191,237,About that Hydroxychloroquine for Covid-19 trial,https://betterscience.org/archives/11-About-that-Hydroxychloroquine-for-COVID-19-trial.html
+1894,HackerNews,2020-03-23T08:10:22.000Z,1584951022,85,11,Coal Is Now the World's Most Expensive Fossil Fuel,https://www.bloomberg.com/news/articles/2020-03-23/coal-is-world-s-most-expensive-fuel-after-oil-s-brutal-collapse
+1895,HackerNews,2020-03-23T07:39:54.000Z,1584949194,147,162,On Killing Tanks,https://mwi.usma.edu/on-killing-tanks/
+1896,HackerNews,2020-03-23T07:33:28.000Z,1584948808,265,225,Two Years with Rust,http://brooker.co.za/blog/2020/03/22/rust.html
+1897,HackerNews,2020-03-23T07:13:10.000Z,1584947590,452,161,WHO launches global megatrial of the four most promising coronavirus treatments,https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
+1898,HackerNews,2020-03-23T06:48:46.000Z,1584946126,152,74,Spanish flu helped create Sweden's modern welfare state,https://www.theguardian.com/cities/2018/aug/29/how-spanish-influenza-helped-create-sweden-modern-welfare-state-ostersund
+1899,HackerNews,2020-03-23T06:36:14.000Z,1584945374,138,96,The Fallacy of Move Fast and Break Things,https://launchdarkly.com/blog/the-fallacy-of-move-fast-and-break-things/
+1900,HackerNews,2020-03-23T05:24:47.000Z,1584941087,184,208,The Great Toilet Paper Scare of 1973 (2014),https://priceonomics.com/the-great-toilet-paper-scare-of-1973/
+1901,HackerNews,2020-03-23T05:22:42.000Z,1584940962,203,157,Why Don’t We Use Chemical Weapons Anymore?,https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/
+1902,HackerNews,2020-03-23T03:35:37.000Z,1584934537,189,125,Converting an old MacBook into an always-on personal Kubernetes cluster,https://devopsdirective.com/posts/2020/03/always-on-minikube/
+1903,HackerNews,2020-03-23T03:04:58.000Z,1584932698,193,88,Your First THINK C Program,http://beyondloom.com/blog/thinkc.html
+1904,HackerNews,2020-03-23T02:53:50.000Z,1584932030,203,35,The Top Idea in Your Mind (2010),http://www.paulgraham.com/top.html
+1905,HackerNews,2020-03-23T02:29:30.000Z,1584930570,149,48,Three typefaces for mathematics (2007) [pdf],http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf
+1906,HackerNews,2020-03-23T02:04:12.000Z,1584929052,308,329,Amazon Prime delivery delays are now as long as a month,https://www.vox.com/recode/2020/3/22/21190372/amazon-prime-delivery-delays-april-21-coronavirus-covid-19
+1907,HackerNews,2020-03-23T00:57:32.000Z,1584925052,148,34,Someone Is Stealing Tracker Songs and Selling Them,https://erikmcclure.com/blog/someone-is-stealing-tracker-songs/
+1908,HackerNews,2020-03-23T00:53:37.000Z,1584924817,205,56,Poor man's document camera for videoconference,http://info.iet.unipi.it/~luigi/document-camera/
+1909,HackerNews,2020-03-23T00:17:09.000Z,1584922629,76,60,DIY Positive Pressure Suit,http://civilpedia.org/p/?pid=336&t=p&h=Positive+Pressure+Suit
+1910,HackerNews,2020-03-22T23:52:03.000Z,1584921123,235,23,"OpenRefine – free, open source, powerful tool for working with messy data",https://openrefine.org
+1911,HackerNews,2020-03-22T22:25:31.000Z,1584915931,238,86,Get Static,https://meyerweb.com/eric/thoughts/2020/03/22/get-static/
+1912,HackerNews,2020-03-22T22:11:57.000Z,1584915117,279,92,Show HN: Zoom Redirector,https://github.com/arkadiyt/zoom-redirector
+1913,HackerNews,2020-03-22T21:20:10.000Z,1584912010,129,33,Prolog and Logic Programming Historical Sources Archive,http://www.softwarepreservation.org/projects/prolog/
+1914,HackerNews,2020-03-22T20:46:47.000Z,1584910007,550,232,Pro drivers are competing with gamers after F1 and Nascar canceled races,https://www.theverge.com/2020/3/22/21184192/sim-racing-coronavirus-f1-nascar-iracing-veloce-esports-max-verstappen-lando-norris
+1915,HackerNews,2020-03-22T20:42:28.000Z,1584909748,82,138,ARM-Ed Mac: We Have an Answer,https://mondaynote.com/arm-ed-mac-we-have-an-answer-545a20419a46
+1916,HackerNews,2020-03-22T20:06:47.000Z,1584907607,159,61,Help Take the Fight to COVID-19 with BOINC and Folding@Home,https://unraid.net/blog/help-take-the-fight-to-covid-19-with-boinc-or-folding-home
+1917,HackerNews,2020-03-22T19:35:28.000Z,1584905728,81,87,What we can learn from Camus’s “The Plague”,https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague/
+1918,HackerNews,2020-03-22T19:18:49.000Z,1584904729,204,176,"Audacious 4.0 released, switches from GTK to Qt 5",https://audacious-media-player.org/news/45-audacious-4-0-released
+1919,HackerNews,2020-03-22T19:11:44.000Z,1584904304,154,122,Current Wuhan Situation,https://twitter.com/heylauragao/status/1241620966762938370
+1920,HackerNews,2020-03-22T19:03:28.000Z,1584903808,323,108,A Starter Kit for Emergency Websites,https://mxb.dev/blog/emergency-website-kit/
+1921,HackerNews,2020-03-22T18:47:45.000Z,1584902865,93,26,Ffcms – FFmpeg's -filter_complex made simple,http://stryku.pl/poetry/ffcms.html
+1922,HackerNews,2020-03-22T18:39:31.000Z,1584902371,405,139,Zoom monitors activity on your computer,https://twitter.com/Ouren/status/1241398181205889024
+1923,HackerNews,2020-03-22T18:35:14.000Z,1584902114,416,508,Army Corps of Engineers to Build Temporary Hospitals in NY,https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary
+1924,HackerNews,2020-03-22T18:34:52.000Z,1584902092,92,2,Improved Geometric Specular Antialiasing [pdf],http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA(slides).pdf
+1925,HackerNews,2020-03-22T18:30:20.000Z,1584901820,91,23,Open Ventilator Registry,https://github.com/openventilatorregistry/OpenVentilatorRegistry
+1926,HackerNews,2020-03-22T17:58:47.000Z,1584899927,92,28,Ansible 101 by Jeff Geerling – new series on YouTube,https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
+1927,HackerNews,2020-03-22T17:40:17.000Z,1584898817,331,355,Merkel bans meetings of more than two people to slow coronavirus,https://www.politico.eu/article/merkel-bans-meetings-of-more-than-2-people-to-slow-coronavirus/
+1928,HackerNews,2020-03-22T17:39:19.000Z,1584898759,327,119,Breathing and Exercise: Strength Training for Your Diaphragm (2018),https://www.pennmedicine.org/updates/blogs/musculoskeletal-and-rheumatology/2018/october/breathing-exercises
+1929,HackerNews,2020-03-22T17:32:50.000Z,1584898370,184,107,Stagnation and Scientific Incentives,https://www.nber.org/papers/w26752
+1930,HackerNews,2020-03-22T16:58:02.000Z,1584896282,122,27,Turn a snorkeling mask into a respiratory mask for assisted ventilation [video],https://www.youtube.com/watch?v=w4Csqdxkrfw
+1931,HackerNews,2020-03-22T16:56:24.000Z,1584896184,365,98,Researchers say MS Edge's telemetry has worst privacy of any major browser,https://winbuzzer.com/2020/03/17/researchers-say-microsoft-edges-telemetry-has-the-worst-privacy-of-any-major-browser-xcxwbn/
+1932,HackerNews,2020-03-22T15:06:44.000Z,1584889604,86,42,"800Gb of possible Census Bureau data (tax records,etc) leaked. Check your data",https://cybernews.com/security/report-unidentified-database-exposes-200-million-americans/
+1933,HackerNews,2020-03-22T13:45:45.000Z,1584884745,190,292,How the CDC’s restrictive testing guidelines hid the coronavirus epidemic,https://www.wsj.com/articles/how-the-cdcs-restrictive-testing-guidelines-hid-the-coronavirus-epidemic-11584882001
+1934,HackerNews,2020-03-22T13:18:32.000Z,1584883112,280,77,GreenTunnel: anti-censorship utility designed to bypass deep packet inspection,https://github.com/SadeghHayeri/GreenTunnel
+1935,HackerNews,2020-03-22T13:01:52.000Z,1584882112,299,276,"Eat for $1.50 per Day – Layoffs, Coronavirus Quarantine, Food Shortages",https://efficiencyiseverything.com/eat-for-1-50-per-day-layoffs-coronavirus-quarantine-food-shortages/
+1936,HackerNews,2020-03-22T11:54:39.000Z,1584878079,202,181,Traffic and Pollution Plummet as U.S. Cities Shut Down,https://www.nytimes.com/interactive/2020/03/22/climate/coronavirus-usa-traffic.html
+1937,HackerNews,2020-03-22T11:51:37.000Z,1584877897,81,2,A lecture on differential equations using GNU TeXmacs [video],https://www.youtube.com/watch?v=ILiL4m61BLw
+1938,HackerNews,2020-03-22T11:42:39.000Z,1584877359,91,18,"Liquid metal renaissance points to wearables, soft robots, and new materials",https://www.pnas.org/content/117/10/5088
+1939,HackerNews,2020-03-22T11:34:15.000Z,1584876855,140,23,BOLT: Binary Optimization and Layout Tool,https://github.com/facebookincubator/BOLT
+1940,HackerNews,2020-03-22T11:11:24.000Z,1584875484,148,51,Professor Frisby's mostly adequate guide to functional programming (2018),https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+1941,HackerNews,2020-03-22T08:44:13.000Z,1584866653,207,90,Prettier 2.0 – Opinionated JavaScript formatter,https://prettier.io/blog/2020/03/21/2.0.0.html
+1942,HackerNews,2020-03-22T08:02:43.000Z,1584864163,243,133,Julia 1.4,https://github.com/JuliaLang/julia/blob/v1.4.0/NEWS.md
+1943,HackerNews,2020-03-22T07:55:59.000Z,1584863759,147,58,On Scaling Mental Models,https://buttondown.email/hillelwayne/archive/on-scaling-mental-models/
+1944,HackerNews,2020-03-22T07:47:19.000Z,1584863239,198,101,TSMC Details 5 nm,https://fuse.wikichip.org/news/3398/tsmc-details-5-nm/
+1945,HackerNews,2020-03-22T04:47:59.000Z,1584852479,192,74,Remembering the LAN,https://crawshaw.io/blog/remembering-the-lan
+1946,HackerNews,2020-03-22T04:19:32.000Z,1584850772,177,35,How to program a text adventure in C (2016),http://home.hccnet.nl/r.helderman/adventures/htpataic01.html
+1947,HackerNews,2020-03-22T03:51:10.000Z,1584849070,88,50,Shall We Play a Market Timing Game? (2018),https://engaging-data.com/market-timing-game/
+1948,HackerNews,2020-03-22T03:18:39.000Z,1584847119,170,36,Basic skeletal animation with geometric algebra,https://www.jeremyong.com/klein/case_studies/ga_skeletal_animation/
+1949,HackerNews,2020-03-22T02:39:44.000Z,1584844784,571,73,Technical Writing Courses,https://developers.google.com/tech-writing
+1950,HackerNews,2020-03-22T02:19:21.000Z,1584843561,104,34,This project posts one new startup idea every day for a year,https://www.billiondollarstartupideas.com/
+1951,HackerNews,2020-03-22T01:16:44.000Z,1584839804,87,19,"I Spent a Year in Space, and I Have Tips on Isolation to Share",https://www.nytimes.com/2020/03/21/opinion/scott-kelly-coronavirus-isolation.html
+1952,HackerNews,2020-03-22T01:12:28.000Z,1584839548,264,195,Covid-19’s stop-gap solution until vaccines and antivirals are ready,https://www.globalhealthnow.org/2020-03/covid-19s-stop-gap-solution-until-vaccines-and-antivirals-are-ready
+1953,HackerNews,2020-03-22T00:53:19.000Z,1584838399,241,185,Turns out claims Airbnb was taking houses out of the rental market were right,https://twitter.com/whimsley/status/1241425945686429699
+1954,HackerNews,2020-03-22T00:50:55.000Z,1584838255,249,436,Covid-19: the harms of exaggerated information and non‐evidence‐based measures,https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13222
+1955,HackerNews,2020-03-22T00:14:10.000Z,1584836050,161,116,'Pandemic ventilator' could offer solution in potential 'worst case' scenario,https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830
+1956,HackerNews,2020-03-21T23:21:44.000Z,1584832904,395,61,LibraryThing Is Now Free to All,https://blog.librarything.com/main/2020/03/librarything-goes-free/
+1957,HackerNews,2020-03-21T22:56:46.000Z,1584831406,250,57,How Prince of Persia Defeated Apple II's Memory Limitations [video],https://www.youtube.com/watch?v=sw0VfmXKq54
+1958,HackerNews,2020-03-21T22:39:08.000Z,1584830348,159,109,FDA issues first emergency use authorization for point-of-care diagnostic,https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-first-emergency-use-authorization-point-care-diagnostic
+1959,HackerNews,2020-03-21T22:23:43.000Z,1584829423,305,125,Show HN: A Covid-19 testing location site that a group of us are building,https://findcovidtesting.com/
+1960,HackerNews,2020-03-21T21:55:51.000Z,1584827751,125,24,Stop the Coronavirus Corporate Coup,https://mattstoller.substack.com/p/stop-the-coronavirus-corporate-coup
+1961,HackerNews,2020-03-21T21:33:10.000Z,1584826390,458,50,Stock Jump – a ski-jumping game with real stock data,http://stockjump.sos.gd/
+1962,HackerNews,2020-03-21T21:27:22.000Z,1584826042,169,39,Inside a Titan missile guidance computer,http://www.righto.com/2020/03/inside-titan-missile-guidance-computer.html
+1963,HackerNews,2020-03-21T20:36:46.000Z,1584823006,100,41,"I, Backpack",https://kortina.nyc/essays/i-backpack/
+1964,HackerNews,2020-03-21T19:50:57.000Z,1584820257,153,21,Fund-my-project: Earn grants/funding for your project,https://github.com/sakofchit/fund-my-project
+1965,HackerNews,2020-03-21T19:33:03.000Z,1584819183,116,25,Vocabulary as a Meta Mental Model,https://neilkakkar.com/vocabulary-mental-model.html
+1966,HackerNews,2020-03-21T19:22:41.000Z,1584818561,187,68,A Backpacker's Guide to Maps,https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
+1967,HackerNews,2020-03-21T19:16:07.000Z,1584818167,109,39,Decrypting Blind's Encrypted API,https://blog.jldc.me/posts/decrypting-blind
+1968,HackerNews,2020-03-21T18:23:25.000Z,1584815005,211,109,Loss of sense of smell a marker for Covid-19 infection,https://www.entuk.org/loss-sense-smell-marker-covid-19-infection
+1969,HackerNews,2020-03-21T18:05:24.000Z,1584813924,93,87,"99% of those who died from virus had other illness, Italy says",https://www.msn.com/en-us/news/world/99-25-of-those-who-died-from-virus-had-other-illness-italy-says/ar-BB11mr4X
+1970,HackerNews,2020-03-21T17:00:17.000Z,1584810017,258,415,Why is Japan still a coronavirus outlier?,https://www.japantimes.co.jp/opinion/2020/03/21/commentary/japan-commentary/japan-still-coronavirus-outlier/#.XnZH06FRUlQ
+1971,HackerNews,2020-03-21T16:53:21.000Z,1584809601,116,92,"The accusations were lies, but could we prove it?",https://www.nytimes.com/2020/03/18/magazine/title-ix-sexual-harassment-accusations.html
+1972,HackerNews,2020-03-21T16:23:43.000Z,1584807823,266,226,Amazon raises overtime pay for warehouse workers,https://www.reuters.com/article/us-health-coronavirus-amazon-com-exclusi/exclusive-amazon-raises-overtime-pay-for-warehouse-workers-idUSKBN2180Q1
+1973,HackerNews,2020-03-21T16:14:36.000Z,1584807276,269,61,How do Unix pipes work?,https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/
+1974,HackerNews,2020-03-21T15:19:48.000Z,1584803988,83,49,Twice as High Diet-Induced Thermogenesis After Breakfast vs. Dinner,https://academic.oup.com/jcem/article-abstract/105/3/dgz311/5740411?redirectedFrom=fulltext
+1975,HackerNews,2020-03-21T15:10:14.000Z,1584803414,119,6,CLI tool to get corona data in the terminal,https://www.combatnerd.com/news/building-cli-tool-get-corona-data-terminal/
+1976,HackerNews,2020-03-21T14:55:10.000Z,1584802510,82,34,Volkswagen explores using 3D printers to produce ventilators,https://www.dw.com/en/volkswagen-explores-using-3d-printers-to-produce-ventilators/a-52867155
+1977,HackerNews,2020-03-21T14:48:47.000Z,1584802127,332,100,"Cultivate the Skill of Undivided Attention, or “Deep Work” (2019)",https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/
+1978,HackerNews,2020-03-21T14:29:14.000Z,1584800954,118,87,I’m Bill Gates. AMA about Covid-19,https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/
+1979,HackerNews,2020-03-21T14:22:00.000Z,1584800520,85,70,Substantial undocumented infection facilitates rapid dissemination of SARS-CoV2,https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full
+1980,HackerNews,2020-03-21T14:12:26.000Z,1584799946,77,12,Denuvo protected games are getting cracked on average after 74 days,https://www.iscracked.info/?1
+1981,HackerNews,2020-03-21T14:08:21.000Z,1584799701,105,45,'Sushi parasites' have increased 283-fold in past 40 years,https://www.eurekalert.org/pub_releases/2020-03/uow-ph031520.php
+1982,HackerNews,2020-03-21T14:07:54.000Z,1584799674,136,201,"Apple CarPlay, Android Auto distract drivers more than pot, alcohol, says study",https://www.cnet.com/news/apple-carplay-android-auto-distracted-driving-pot-cannabis-alcohol-texting/
+1983,HackerNews,2020-03-21T13:31:38.000Z,1584797498,652,141,"Grocy: web-based, self-hosted grocery and household management",https://grocy.info/
+1984,HackerNews,2020-03-21T13:19:47.000Z,1584796787,367,204,Locked-down lawyers warned Alexa is hearing confidential calls,https://www.bloomberg.com/news/articles/2020-03-20/locked-down-lawyers-warned-alexa-is-hearing-confidential-calls
+1985,HackerNews,2020-03-21T13:07:45.000Z,1584796065,81,115,"Total Cost of Her Covid-19 Treatment: $34,927.43",https://time.com/5806312/coronavirus-treatment-cost/
+1986,HackerNews,2020-03-21T12:27:12.000Z,1584793632,132,36,How to Find a SaaS Idea,https://elliotbonneville.com/blog/how-to-find-a-saas-idea/
+1987,HackerNews,2020-03-21T12:08:35.000Z,1584792515,239,81,Picking up glowing hot space shuttle tiles with bare hands (2011) [video],https://kottke.org/20/03/picking-up-glowing-hot-space-shuttle-tiles-with-bare-hands
+1988,HackerNews,2020-03-21T12:04:22.000Z,1584792262,522,25,Creating a Pencil Effect in SVG,https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html
+1989,HackerNews,2020-03-21T11:52:56.000Z,1584791576,182,166,Keeping the coronavirus from infecting healthcare workers,https://www.newyorker.com/news/news-desk/keeping-the-coronavirus-from-infecting-health-care-workers
+1990,HackerNews,2020-03-21T11:52:07.000Z,1584791527,274,116,Why the EAX register of x86 is called that,https://keleshev.com/eax-x86-register-meaning-and-history/
+1991,HackerNews,2020-03-21T09:33:15.000Z,1584783195,243,245,The Doctor Who Helped Defeat Smallpox Explains What's Coming,https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/#intcid=recommendations_wired-homepage-right-rail-popular_d00a3648-f912-49b3-9b8a-f82ade2ecbd5_popular4-1
+1992,HackerNews,2020-03-21T09:13:09.000Z,1584781989,284,94,Build an 8-bit home computer with 5 chips,https://spectrum.ieee.org/geek-life/hands-on/build-this-8bit-home-computer-with-just-5-chips
+1993,HackerNews,2020-03-21T08:53:03.000Z,1584780783,108,20,Design for Living: What’s Great about Goethe?,https://www.newyorker.com/magazine/2016/02/01/design-for-living-books-adam-kirsch
+1994,HackerNews,2020-03-21T06:48:31.000Z,1584773311,259,68,GTA V – The Wormy Fountain,https://simonschreibt.de/gat/gta-v-wormy-fountain/
+1995,HackerNews,2020-03-21T06:37:20.000Z,1584772640,328,25,Kateryna Yushchenko,https://en.wikipedia.org/wiki/Kateryna_Yushchenko_(scientist)
+1996,HackerNews,2020-03-21T05:49:12.000Z,1584769752,154,23,"Thank You, Arash",https://blog.dropbox.com/topics/company/-thank-you--arash.html
+1997,HackerNews,2020-03-21T05:13:32.000Z,1584767612,204,67,Farewell,https://byuu.org/articles/farewell
+1998,HackerNews,2020-03-21T05:12:35.000Z,1584767555,344,39,"Apple CarPlay, Android Auto distract drivers more than pot, alcohol, says study",https://www.iamroadsmart.com/campaign-pages/end-customer-campaigns/infotainment#
+1999,HackerNews,2020-03-21T04:10:32.000Z,1584763832,249,77,How Tailscale Works,https://tailscale.com/blog/how-tailscale-works/
+2000,HackerNews,2020-03-21T02:30:35.000Z,1584757835,124,127,Coronavirus is not a good argument for quitting cash,https://www.technologyreview.com/s/615356/coronavirus-contaminated-cash-quarantine/
+2001,HackerNews,2020-03-21T01:02:11.000Z,1584752531,431,155,"If the heart is a muscle, why doesn't it ever get tired?",https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get/
+2002,HackerNews,2020-03-21T00:34:03.000Z,1584750843,295,475,Effect of economic crisis on America’s small businesses [slides],https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486
+2003,HackerNews,2020-03-20T22:40:45.000Z,1584744045,82,39,How much do rockets pollute?,https://everydayastronaut.com/rocket-pollution/
+2004,HackerNews,2020-03-20T22:36:05.000Z,1584743765,130,50,'42 Knees in One Day': Israeli Snipers Open Up About Shooting Gaza Protesters,https://www.haaretz.com/israel-news/.premium.MAGAZINE-42-knees-in-one-day-israeli-snipers-open-up-about-shooting-gaza-protesters-1.8632555
+2005,HackerNews,2020-03-20T22:33:31.000Z,1584743611,127,7,6.851: Advanced Data Structures (2017),https://courses.csail.mit.edu/6.851/fall17/lectures/
+2006,HackerNews,2020-03-20T22:23:16.000Z,1584742996,77,3,Gig: A new method for explaining complex ensemble ML models,https://www.zest.ai/blog/introducing-generalized-integrated-gradients-gig-a-practical-method-for-explaining-diverse-ensemble-machine-learning-models
+2007,HackerNews,2020-03-20T22:15:32.000Z,1584742532,149,6,Stanford CS243: Web Security,https://web.stanford.edu/class/cs253/
+2008,HackerNews,2020-03-20T22:11:52.000Z,1584742312,381,226,Apple is looking for engineers to convert its code from C to Rust,https://jobs.apple.com/en-us/details/200144575/software-engineer
+2009,HackerNews,2020-03-20T22:00:22.000Z,1584741622,157,42,Airbnb racks up hundreds of millions of dollars in losses -- WSJ,https://www.marketwatch.com/story/airbnb-racks-up-hundreds-of-millions-of-dollars-in-losses-considers-capital-raise--wsj-2020-03-20
+2010,HackerNews,2020-03-20T21:41:35.000Z,1584740495,302,181,FDA just cleared a $20 Covid-19 antibody test,https://coronachecktest.com/
+2011,HackerNews,2020-03-20T21:08:21.000Z,1584738501,99,61,Groceries and Delivered Goods Decontamination Station Instructions,https://www.colorado.edu/mcdb/coronavirus-information/professor-sara-sawyers-decon-station-instructions
+2012,HackerNews,2020-03-20T20:14:14.000Z,1584735254,222,147,"Tesla Model 3 Vulnerability – Disable Autopilot Notifications, Speedometer, etc.",https://safekeepsecurity.com/about/cve-2020-10558/
+2013,HackerNews,2020-03-20T19:51:35.000Z,1584733895,119,35,A new RISC-V version of uLisp,http://www.ulisp.com/show?30X8
+2014,HackerNews,2020-03-20T19:41:58.000Z,1584733318,95,35,Rai Stones,https://en.wikipedia.org/wiki/Rai_stones
+2015,HackerNews,2020-03-20T19:16:50.000Z,1584731810,165,37,Berlin Clubs stream live electronic music,https://en.unitedwestream.berlin/
+2016,HackerNews,2020-03-20T18:56:37.000Z,1584730597,254,269,State projections for Covid-19,http://covidactnow.org
+2017,HackerNews,2020-03-20T18:51:57.000Z,1584730317,239,48,AI for generative design: Plain text to 3D Designs,https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943
+2018,HackerNews,2020-03-20T18:37:20.000Z,1584729440,192,213,The 2020 MacBook Air,https://daringfireball.net/2020/03/the_2020_macbook_air
+2019,HackerNews,2020-03-20T18:34:02.000Z,1584729242,141,53,Lemmings 2: The Tribes,https://www.filfre.net/2020/03/lemmings-2-the-tribes/
+2020,HackerNews,2020-03-20T18:29:03.000Z,1584728943,203,141,Open Source Ventilator Project,https://opensourceventilator.ie/
+2021,HackerNews,2020-03-20T18:26:08.000Z,1584728768,263,104,"Show HN: An experimental, keyboard-first user interface",https://emvi.com/blog/a-new-experimental-user-interface-QMZgmZG1L5
+2022,HackerNews,2020-03-20T18:25:01.000Z,1584728701,208,80,Stanford CS248: Implement an SVG Rasterizer,https://github.com/stanford-cs248/draw-svg
+2023,HackerNews,2020-03-20T17:54:38.000Z,1584726878,174,71,Detailed audit of Voatz' voting app confirms security flaws,https://www.govtech.com/biz/Detailed-Audit-of-Voatz-Voting-App-Confirms-Security-Flaws.html
+2024,HackerNews,2020-03-20T17:53:45.000Z,1584726825,97,6,"iFixit is building a repair database for medical equipment, and needs your help",https://www.theverge.com/2020/3/20/21187981/ifixit-medical-device-repair-database-guides-ventilators-coronavirus-covid-19
+2025,HackerNews,2020-03-20T17:38:20.000Z,1584725900,139,178,UK government to pay up to 80% of wages for employees not working,https://www.bbc.co.uk/news/business-51982005
+2026,HackerNews,2020-03-20T17:01:53.000Z,1584723713,138,111,Airbnb Racks Up Hundreds of Millions in Losses Due to Coronavirus,https://www.wsj.com/articles/airbnb-racks-up-hundreds-of-millions-in-losses-due-to-coronavirus-11584723498
+2027,HackerNews,2020-03-20T16:26:52.000Z,1584721612,261,303,"Chloroquine, past and present",https://blogs.sciencemag.org/pipeline/archives/2020/03/20/chloroquine-past-and-present
+2028,HackerNews,2020-03-20T16:22:31.000Z,1584721351,131,130,An injection of magma under Norris Geyser Basin,https://www.nationalgeographic.com/science/2020/03/chunk-yellowstone-size-chicago-has-been-pulsing/
+2029,HackerNews,2020-03-20T16:15:56.000Z,1584720956,427,452,MIT to no longer consider SAT subject tests in admissions decisions,https://mitadmissions.org/blogs/entry/a-special-announcement-about-sat-subject-tests/
+2030,HackerNews,2020-03-20T15:52:26.000Z,1584719546,213,237,New York Governor announces 100% workforce reduction for non-essential services,https://techcrunch.com/2020/03/20/new-york-governor-announces-100-workforce-reduction-for-non-essential-services/
+2031,HackerNews,2020-03-20T15:45:09.000Z,1584719109,237,59,The untold origin story of eBay that I lived (2018),https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it
+2032,HackerNews,2020-03-20T15:34:49.000Z,1584718489,92,132,New York Gov. Cuomo Orders All Nonessential Workers in State to Stay Home,https://www.wsj.com/articles/new-york-gov-cuomo-orders-all-nonessential-workers-in-state-to-stay-home-11584718223
+2033,HackerNews,2020-03-20T15:29:52.000Z,1584718192,222,97,"IRS delays tax-filing date to july 15, matching payment deadline",https://www.bloomberg.com/news/articles/2020-03-20/tax-filings-payment-due-date-extended-to-july-15-mnuchin-says
+2034,HackerNews,2020-03-20T15:27:38.000Z,1584718058,85,39,Folding@home now has 400k users fighting coronavirus,https://decrypt.co/23064/folding-at-home-now-has-400000-users-fighting-coronavirus?&
+2035,HackerNews,2020-03-20T15:21:29.000Z,1584717689,84,60,Bethesda apparently broke its own Denuvo protection for Doom Eternal,https://arstechnica.com/gaming/2020/03/bethesda-apparently-broke-its-own-denuvo-protection-for-doom-eternal/
+2036,HackerNews,2020-03-20T15:12:41.000Z,1584717161,85,114,How the iPad's New Trackpad Works,https://www.theverge.com/2020/3/18/21185188/ipad-trackpad-how-to-support-mouse-cursor
+2037,HackerNews,2020-03-20T14:25:25.000Z,1584714325,237,40,NeRF: Representing scenes as neural radiance fields for view synthesis,http://www.matthewtancik.com/nerf
+2038,HackerNews,2020-03-20T14:16:11.000Z,1584713771,176,36,What is the smallest possible valid PDF?,https://stackoverflow.com/questions/17279712/what-is-the-smallest-possible-valid-pdf/17280876#17280876
+2039,HackerNews,2020-03-20T13:56:05.000Z,1584712565,88,158,GameStop: We Can Stay Open During Lockdowns Because We're 'Essential Retail',https://kotaku.com/gamestop-we-can-stay-open-during-lockdowns-because-wer-1842415962
+2040,HackerNews,2020-03-20T13:40:37.000Z,1584711637,130,55,Math Symbols Explained with Python,https://amitness.com/2019/08/math-for-programmers/
+2041,HackerNews,2020-03-20T13:02:38.000Z,1584709358,341,187,Build stuff,https://why.degree/motivation/
+2042,HackerNews,2020-03-20T12:29:27.000Z,1584707367,157,82,A Mysterious Song on the Internet (2019),https://www.rollingstone.com/music/music-features/most-mysterious-song-on-the-internet-885106/
+2043,HackerNews,2020-03-20T12:20:42.000Z,1584706842,104,32,Signal processing is key to embedded machine learning,https://www.edgeimpulse.com/blog/dsp-key-embedded-ml
+2044,HackerNews,2020-03-20T12:02:01.000Z,1584705721,79,41,'Nature is taking back Venice': wildlife returns to tourist-free city,https://www.theguardian.com/environment/2020/mar/20/nature-is-taking-back-venice-wildlife-returns-to-tourist-free-city
+2045,HackerNews,2020-03-20T12:01:13.000Z,1584705673,180,94,A history of roguelike games,https://arstechnica.com/gaming/2020/03/ascii-art-permadeath-the-history-of-roguelike-games/
+2046,HackerNews,2020-03-20T11:40:57.000Z,1584704457,171,58,Secure Rust Guidelines,https://anssi-fr.github.io/rust-guide/
+2047,HackerNews,2020-03-20T10:55:00.000Z,1584701700,119,58,Formula 1 launches Virtual Grand Prix Series to replace postponed races,https://www.formula1.com/en/latest/article.formula-1-launches-virtual-grand-prix-series-to-replace-postponed-races.1znLAbPzBbCQPj1IDMeiOi.html
+2048,HackerNews,2020-03-20T10:40:01.000Z,1584700801,99,114,An Oregon creamery making vodka from milk,https://www.atlasobscura.com/articles/alcohol-made-from-milk
+2049,HackerNews,2020-03-20T09:53:34.000Z,1584698014,80,9,Parallel-Stream,https://blog.yoshuawuyts.com/parallel-stream/
+2050,HackerNews,2020-03-20T09:42:27.000Z,1584697347,115,51,How to write documentation for a Rust crate,https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate
+2051,HackerNews,2020-03-20T08:43:46.000Z,1584693826,76,48,Cabin Fever,https://en.wikipedia.org/wiki/Cabin_fever
+2052,HackerNews,2020-03-20T07:17:36.000Z,1584688656,85,12,Pigweed: A Collection of Embedded Libraries,https://opensource.googleblog.com/2020/03/pigweed-collection-of-embedded-libraries.html
+2053,HackerNews,2020-03-20T05:34:32.000Z,1584682472,82,12,A doctor who helped defeat smallpox explains what’s coming,https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/
+2054,HackerNews,2020-03-20T03:55:59.000Z,1584676559,279,227,Stanford Student Claims to Run Bootleg Covid-19 Testing Lab,https://mailchi.mp/fountainhopper/foho-102student-claims-to-run-bootleg-covid-19-testing-lab-50-stanford-affiliates-allegedly-tested-more-news-you-can-use?e=[UNIQID]
+2055,HackerNews,2020-03-20T03:39:56.000Z,1584675596,129,20,Shibori,https://en.wikipedia.org/wiki/Shibori
+2056,HackerNews,2020-03-20T03:30:52.000Z,1584675052,257,154,Risky hack could double access to ventilators,https://www.vice.com/en_us/article/qjdm53/this-risky-hack-could-double-access-to-ventilators-as-coronavirus-peaks
+2057,HackerNews,2020-03-20T02:49:57.000Z,1584672597,103,136,Doctors Say Shortage of Protective Gear Is Dire,https://www.nytimes.com/2020/03/19/health/coronavirus-masks-shortage.html
+2058,HackerNews,2020-03-20T01:56:45.000Z,1584669405,398,620,California governor issues statewide 'stay at home' order,https://www.reuters.com/article/us-health-coronavirus-california-stay-at/california-governor-issues-statewide-stay-at-home-order-idUSKBN21707B
+2059,HackerNews,2020-03-20T01:55:06.000Z,1584669306,142,23,Book Review: Hoover,https://slatestarcodex.com/2020/03/17/book-review-hoover/
+2060,HackerNews,2020-03-20T01:13:52.000Z,1584666832,155,141,CA governor projecting 25.5M COVID19 cases in CA in 8 weeks [pdf],https://www.gov.ca.gov/wp-content/uploads/2020/03/3.18.20-Letter-USNS-Mercy-Hospital-Ship.pdf
+2061,HackerNews,2020-03-20T00:32:59.000Z,1584664379,139,86,Levandowski agrees to plea deal over Google secrets,https://www.reuters.com/article/us-uber-autonomous-levandowski/former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets-idUSKBN21646I
+2062,HackerNews,2020-03-19T23:17:32.000Z,1584659852,309,39,Grief in Ethiopia as trailblazing Australian doctor dies,https://www.bbc.com/news/world-australia-51965688
+2063,HackerNews,2020-03-19T21:17:35.000Z,1584652655,116,38,Senator dumped up to $1.6M of stock after reassuring public on Covid-19,https://www.propublica.org/article/senator-dumped-up-to-1-6-million-of-stock-after-reassuring-public-about-coronavirus-preparedness
+2064,HackerNews,2020-03-19T20:46:26.000Z,1584650786,437,199,Body Camera Once Again Catches an NYPD Officer Planting Drugs in Someone's Car,https://www.techdirt.com/articles/20200318/19164444128/body-camera-once-again-catches-nypd-officer-planting-drugs-someones-car.shtml
+2065,HackerNews,2020-03-19T20:40:53.000Z,1584650453,167,151,How coffee took over the world,https://www.theatlantic.com/magazine/archive/2020/04/michael-pollan-coffee/606805/
+2066,HackerNews,2020-03-19T20:31:56.000Z,1584649916,111,106,Amazon sellers ‘hijack’ listings to sell face masks despite new rules,https://www.wired.com/story/amazon-sellers-hijack-listings-face-masks-coronavirus/
+2067,HackerNews,2020-03-19T20:15:24.000Z,1584648924,196,120,Bayer donates 3M chloroquine phosphate tablets for potential Covid-19 treatment,https://www.reuters.com/article/us-health-coronavirus-bayer/bayer-donates-three-million-malaria-tablets-to-us-for-potential-use-against-coronavirus-idUSKBN21637E
+2068,HackerNews,2020-03-19T20:00:44.000Z,1584648044,153,59,Spotted water hemlock is the most toxic plant in North America,https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant
+2069,HackerNews,2020-03-19T19:18:04.000Z,1584645484,953,744,Netflix to cut streaming quality in Europe for 30 days,https://www.bbc.co.uk/news/technology-51968302
+2070,HackerNews,2020-03-19T18:20:17.000Z,1584642017,698,382,Things you can do with a browser in 2020,https://github.com/luruke/browser-2020
+2071,HackerNews,2020-03-19T18:02:29.000Z,1584640949,138,27,Tyk: Micro-grants for side projects,https://tyk.io/fund/
+2072,HackerNews,2020-03-19T18:01:32.000Z,1584640892,185,38,Machine Learning Flashcards,https://machinelearningflashcards.com/
+2073,HackerNews,2020-03-19T17:39:22.000Z,1584639562,257,86,A secret call to Andy Grove that may have helped Apple buy NeXT (2018),https://www.cake.co/conversations/g4CP6zJ/the-secret-call-to-andy-grove-that-may-have-helped-apple-buy-next
+2074,HackerNews,2020-03-19T16:59:23.000Z,1584637163,89,55,In Praise of Phone Calls,https://www.newyorker.com/culture/culture-desk/in-praise-of-phone-calls
+2075,HackerNews,2020-03-19T16:27:39.000Z,1584635259,357,156,The End of Starsky Robotics,https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5
+2076,HackerNews,2020-03-19T16:21:42.000Z,1584634902,508,290,"GitHub shuts off access to Aurelia repository, citing trade sanctions",https://twitter.com/eisenbergeffect/status/1240671036292485121
+2077,HackerNews,2020-03-19T15:26:22.000Z,1584631582,269,60,UpNext – an ePaper digital calendar for your desk,http://brettcvz.com/projects/6-upnext
+2078,HackerNews,2020-03-19T15:18:34.000Z,1584631114,146,108,Containers Are Not the Future,https://www.linkedin.com/pulse/containers-future-ian-eyberg/
+2079,HackerNews,2020-03-19T15:12:45.000Z,1584630765,75,13,Show HN: Hallway – make working from home less lonely,https://hallway.chat
+2080,HackerNews,2020-03-19T15:01:41.000Z,1584630101,96,91,Netflix urged to slow streaming to prevent breaking the internet,https://www.mercurynews.com/2020/03/19/netflix-urged-to-slow-streaming-to-prevent-breaking-the-internet/
+2081,HackerNews,2020-03-19T14:55:23.000Z,1584629723,85,143,Windows Subsystem for Linux is making inroads with developers,https://arstechnica.com/information-technology/2020/03/the-windows-subsystem-for-linux-conference-was-a-virtual-success/
+2082,HackerNews,2020-03-19T14:52:37.000Z,1584629557,155,133,New research shows social distancing a must to beat Covid-19,https://directorsblog.nih.gov/2020/03/19/to-beat-covid-19-social-distancing-is-a-must/
+2083,HackerNews,2020-03-19T14:40:56.000Z,1584628856,159,256,PlayStation 5: the specs and the tech,https://www.eurogamer.net/articles/digitalfoundry-2020-playstation-5-specs-and-tech-that-deliver-sonys-next-gen-vision
+2084,HackerNews,2020-03-19T14:21:22.000Z,1584627682,104,42,Hydroxychloroquine causes viral load reduction in Covid-19 patients,https://www.covidtrial.io/
+2085,HackerNews,2020-03-19T13:54:54.000Z,1584626094,193,80,ISH: An Alpine Linux Shell on iOS,https://ish.app
+2086,HackerNews,2020-03-19T13:51:40.000Z,1584625900,494,315,Is It Time to Rethink Globalized Supply Chains?,https://sloanreview.mit.edu/article/is-it-time-to-rethink-globalized-supply-chains/
+2087,HackerNews,2020-03-19T13:02:14.000Z,1584622934,462,217,CSS Zen Garden,http://www.csszengarden.com/
+2088,HackerNews,2020-03-19T12:30:42.000Z,1584621042,75,9,What the heck is Backstage anyway?,https://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/
+2089,HackerNews,2020-03-19T12:25:46.000Z,1584620746,94,68,Is China Ground Zero for a Future Pandemic? (2017),https://www.smithsonianmag.com/science-nature/china-ground-zero-future-pandemic-180965213/
+2090,HackerNews,2020-03-19T12:15:43.000Z,1584620143,126,16,AbstractAlgebra: Computer algebra package for Julia language,https://nemocas.github.io/AbstractAlgebra.jl/latest/index.html
+2091,HackerNews,2020-03-19T11:50:01.000Z,1584618601,116,43,"Introduction to AOLserver, Part 1 (1999)",https://philip.greenspun.com/wtr/aolserver/introduction-1.html
+2092,HackerNews,2020-03-19T11:35:07.000Z,1584617707,76,76,Netflix urged by EU to slow streaming to save internet,https://edition.cnn.com/2020/03/19/tech/netflix-internet-overload-eu/index.html
+2093,HackerNews,2020-03-19T11:33:08.000Z,1584617588,172,103,U.S. suspending visa services worldwide due to coronavirus,https://www.reuters.com/article/us-health-coronavirus-usa-visas-idUSKBN2153NP
+2094,HackerNews,2020-03-19T11:05:39.000Z,1584615939,245,132,Linux maintains bugs: The real reason ifconfig on Linux is deprecated (2018),https://blog.farhan.codes/2018/06/25/linux-maintains-bugs-the-real-reason-ifconfig-on-linux-is-deprecated/
+2095,HackerNews,2020-03-19T10:24:13.000Z,1584613453,103,41,Building a backdoor with Node.js,https://snyk.io/blog/what-is-a-backdoor/
+2096,HackerNews,2020-03-19T10:15:52.000Z,1584612952,282,173,"NASA to launch 247 petabytes of data into AWS, but forgot about egress costs",https://www.theregister.co.uk/2020/03/19/nasa_cloud_data_migration_mess/
+2097,HackerNews,2020-03-19T10:13:49.000Z,1584612829,272,72,Illustrated Jq Tutorial,https://mosermichael.github.io/jq-illustrated/dir/content.html
+2098,HackerNews,2020-03-19T10:10:21.000Z,1584612621,134,36,I built a dumb cell phone with a rotary dial,https://nautil.us/issue/83/intelligence/why-i-built-a-dumb-cell-phone-with-a-rotary-dial
+2099,HackerNews,2020-03-19T10:05:53.000Z,1584612353,182,57,A principled approach to system design and programming,https://urbit.org/blog/precepts/
+2100,HackerNews,2020-03-19T09:47:27.000Z,1584611247,171,130,It never makes sense to use foldl on lists in Haskell (2019),https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960
+2101,HackerNews,2020-03-19T09:22:04.000Z,1584609724,101,19,Show HN: Vuiet – a music player and explorer for Emacs,https://github.com/mihaiolteanu/vuiet
+2102,HackerNews,2020-03-19T09:17:54.000Z,1584609474,147,80,Relationship between the ABO Blood Group and the Covid-19 Susceptibility,https://www.medrxiv.org/content/10.1101/2020.03.11.20031096v1
+2103,HackerNews,2020-03-19T08:50:02.000Z,1584607802,126,90,WolframScript enables Wolfram Language code to be run from any terminal,https://www.wolfram.com/wolframscript/
+2104,HackerNews,2020-03-19T08:40:05.000Z,1584607205,139,45,"Distinct on: a confusing, unique and useful feature in Postgres",https://www.yogeshchauhan.com/167/postgres/the-confusing-unique-and-useful-feature-in-postgres-distinct-on
+2105,HackerNews,2020-03-19T08:27:20.000Z,1584606440,209,150,Quarantine Bread,https://andyljones.com/posts/bread.html
+2106,HackerNews,2020-03-19T08:24:10.000Z,1584606250,150,104,Why Adventure Games Suck (1989),https://grumpygamer.com/why_adventure_games_suck
+2107,HackerNews,2020-03-19T08:17:11.000Z,1584605831,309,277,RFC: Adopt a modern JavaScript framework for use with MediaWiki,https://phabricator.wikimedia.org/T241180
+2108,HackerNews,2020-03-19T07:34:23.000Z,1584603263,129,96,Mathematica v12.1,https://writings.stephenwolfram.com/2020/03/in-less-than-a-year-so-much-new-launching-version-12-1-of-wolfram-language-mathematica/
+2109,HackerNews,2020-03-19T07:00:21.000Z,1584601221,82,78,Show HN: Remotehour – Allows people to talk to you anytime you’re available,https://remotehour.co/
+2110,HackerNews,2020-03-19T06:55:48.000Z,1584600948,107,18,Hyperland (1990) [video],https://www.youtube.com/watch?v=1iAJPoc23-M
+2111,HackerNews,2020-03-19T05:41:55.000Z,1584596515,104,55,MonkeyType: A system for Python that automatically generates type annotations,https://github.com/instagram/MonkeyType
+2112,HackerNews,2020-03-19T03:21:38.000Z,1584588098,378,71,Handbook of Covid-19 Prevention and Treatment from Hospital with 0% fatality [pdf],https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf?spm=a3c0i.14138300.8102420620.download.5da1647fUkZuXY&file=Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf
+2113,HackerNews,2020-03-19T03:02:24.000Z,1584586944,138,126,Münchhausen Trilemma,https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma
+2114,HackerNews,2020-03-19T03:01:16.000Z,1584586876,398,42,MIT-licensed high-quality SVG icons,https://github.com/tabler/tabler-icons
+2115,HackerNews,2020-03-19T02:57:58.000Z,1584586678,101,22,Visualization map of seasonal illness/fever from smart thermometers,https://healthweather.us/
+2116,HackerNews,2020-03-19T02:45:50.000Z,1584585950,87,87,Fed reinstates multi-trillion dollar bailout program for Wall Street,https://wallstreetonparade.com/2020/03/fed-announces-program-for-wall-street-banks-to-pledge-plunging-stocks-to-get-trillions-in-loans-at-%C2%BC-percent-interest/
+2117,HackerNews,2020-03-19T02:40:38.000Z,1584585638,166,46,NASA fixes Mars lander by telling it to hit itself with a shovel,https://futurism.com/the-byte/nasa-mars-lander-hit-itself-shovel
+2118,HackerNews,2020-03-19T02:02:45.000Z,1584583365,831,548,GM’s CEO Offers to Make Ventilators in WWII-Style Mobilization,https://www.bloomberg.com/news/articles/2020-03-18/kudlow-says-gm-ceo-offered-to-make-ventilators-for-outbreak
+2119,HackerNews,2020-03-19T02:01:50.000Z,1584583310,83,40,Whiteboard exercises are a terrible way to investigate coding ability (2012),https://www.exratione.com/2012/09/whiteboard-exercises-are-a-terrible-way-to-investigate-coding-ability/
+2120,HackerNews,2020-03-19T01:10:48.000Z,1584580248,115,25,"GraphQL Tooling, Today and Tomorrow [video]",https://www.youtube.com/watch?v=JilN_PvQOqs
+2121,HackerNews,2020-03-19T01:10:41.000Z,1584580241,219,47,Covid-19 Open Research Dataset,https://pages.semanticscholar.org/coronavirus-research
+2122,HackerNews,2020-03-19T01:04:06.000Z,1584579846,86,4,Neuroevolution of Self-Interpretable Agents,https://attentionagent.github.io/
+2123,HackerNews,2020-03-19T00:50:40.000Z,1584579040,93,25,Playboy magazine will stop producing a print version,https://medium.com/naked-open-letters-from-playboy/an-open-letter-to-our-team-and-partners-b859b1a4c663
+2124,HackerNews,2020-03-19T00:42:28.000Z,1584578548,101,145,Hospital workers make masks from office supplies,https://www.bloomberg.com/news/articles/2020-03-18/hospital-makes-face-masks-covid-19-shields-from-office-supplies
+2125,HackerNews,2020-03-19T00:33:43.000Z,1584578023,109,54,Patriarch of Pandemics,https://demystifyingscience.com/blog/2020/3/4/patriarch-of-pandemics
+2126,HackerNews,2020-03-18T23:41:55.000Z,1584574915,135,94,Mark Cuban says bailed out companies should never be allowed to buy back stocks,https://www.cnbc.com/2020/03/18/mark-cuban-says-bailed-out-companies-should-never-be-allowed-to-buy-back-their-stocks-ever-again.html
+2127,HackerNews,2020-03-18T23:27:06.000Z,1584574026,465,150,1% rule,https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)
+2128,HackerNews,2020-03-18T23:08:44.000Z,1584572924,137,65,Salary Stream – Software Engineer Offers,https://email.levels.fyi/t/v/8fd44f81-e530-474c-af6a-0d999c33c658/d4660a8a-afa7-4989-9718-d6d3cc71f3c0
+2129,HackerNews,2020-03-18T21:45:22.000Z,1584567922,182,200,Time to Ban Wet Markets,https://spectator.us/time-ban-wet-markets/
+2130,HackerNews,2020-03-18T21:08:27.000Z,1584565707,98,179,‘I’m not an epidemiologist but’: The rise of the corona influencers,https://www.buzzfeednews.com/article/ryanhatesthis/im-not-an-epidemiologist-but-the-rise-of-the-corona
+2131,HackerNews,2020-03-18T20:58:18.000Z,1584565098,119,24,Show HN: Zectl – ZFS Boot Environment Manager for Linux,https://ramsdenj.com/2020/03/18/zectl-zfs-boot-environment-manager-for-linux.html
+2132,HackerNews,2020-03-18T20:41:11.000Z,1584564071,150,59,GraphQLize: JVM library to build GraphQL API instantly from PostgreSQL and MySQL,https://www.graphqlize.org/blog/announcing-graphqlize-alpha
+2133,HackerNews,2020-03-18T20:22:06.000Z,1584562926,105,117,Senate passes bill to provide benefits to individuals and small businesses,https://www.npr.org/2020/03/18/817737690/senate-passes-coronavirus-emergency-aid-sending-plan-to-president
+2134,HackerNews,2020-03-18T19:34:25.000Z,1584560065,134,103,New York City Weighs Turning Hotels into Hospitals,https://www.wsj.com/articles/new-york-city-weighs-turning-hotels-into-hospitals-11584556841
+2135,HackerNews,2020-03-18T18:29:00.000Z,1584556140,193,75,We are pausing upcoming Chrome and Chrome OS releases,https://blog.chromium.org/2020/03/upcoming-chrome-releases.html
+2136,HackerNews,2020-03-18T17:11:23.000Z,1584551483,133,225,Stocks Halt; Oil and Bonds Drop in Sync,https://www.wsj.com/articles/u-s-futures-fall-asian-markets-mixed-11584498324
+2137,HackerNews,2020-03-18T16:16:49.000Z,1584548209,272,281,Has the bidet's time in North America finally arrived?,https://www.wired.com/story/toilet-paper-shortage-bidet-sales-boom/
+2138,HackerNews,2020-03-18T15:29:50.000Z,1584545390,253,46,Crafting Interpreters: Superclasses,http://craftinginterpreters.com/superclasses.html
+2139,HackerNews,2020-03-18T15:29:41.000Z,1584545381,138,36,Anatomy of My Kubernetes Cluster,https://ttt.io/anatomy-of-my-kubernetes-cluster
+2140,HackerNews,2020-03-18T14:47:41.000Z,1584542861,75,60,How Much Toilet Paper? – The Coronavirus Toilet Paper Calculator,https://howmuchtoiletpaper.com/
+2141,HackerNews,2020-03-18T14:17:22.000Z,1584541042,103,20,PigPaxos: Removing the Scalability Bottlenecks in Paxos,https://muratbuffalo.blogspot.com/2020/03/pigpaxos-devouring-communication_18.html
+2142,HackerNews,2020-03-18T13:34:35.000Z,1584538475,291,100,Show HN: Covid-19 Interactive Model,https://neherlab.org/covid19/
+2143,HackerNews,2020-03-18T13:25:37.000Z,1584537937,88,32,"99% of Those Who Died from Virus Had Other Illness, Italy Says",https://www.bloomberg.com/news/articles/2020-03-18/99-of-those-who-died-from-virus-had-other-illness-italy-says
+2144,HackerNews,2020-03-18T13:09:41.000Z,1584536981,353,264,For Years WallStreet Spent More on Buybacks Than It Earned-Now They Want Bailout,https://thesoundingline.com/for-years-wall-street-spent-more-on-buybacks-and-dividends-than-it-actually-earned-now-they-want-a-taxpayer-bailout/
+2145,HackerNews,2020-03-18T12:50:54.000Z,1584535854,96,53,Show HN: Moving from a desktop hologram lab to a 3D hologram printer,https://www.litiholo.com/hologram-kits.html
+2146,HackerNews,2020-03-18T12:45:39.000Z,1584535539,118,95,The chronic suffering of the VB.NET community,https://anthonydgreen.net/2020/03/15/a-primer-on-why-the-chronic-suffering-of-the-vb-net-community-is-neither-necessary-nor-a-matter-of-expense-or-practicality/
+2147,HackerNews,2020-03-18T12:43:25.000Z,1584535405,283,248,Mac mini,https://www.apple.com/mac-mini/
+2148,HackerNews,2020-03-18T12:38:16.000Z,1584535096,379,234,"The reckless, infinite scope of web browsers",https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html
+2149,HackerNews,2020-03-18T12:25:15.000Z,1584534315,153,100,"New MacBook Air released, pricing now starts at $999, features Magic Keyboard",https://www.apple.com/newsroom/2020/03/new-macbook-air-has-more-to-love-and-is-now-just-999/
+2150,HackerNews,2020-03-18T12:14:06.000Z,1584533646,574,576,New MacBook Air,https://www.apple.com/macbook-air/
+2151,HackerNews,2020-03-18T12:10:54.000Z,1584533454,638,649,New iPad Pro with LiDAR Scanner and trackpad support,https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/
+2152,HackerNews,2020-03-18T12:01:59.000Z,1584532919,93,19,Johns Hopkins Coronavirus Resource Center,https://coronavirus.jhu.edu/
+2153,HackerNews,2020-03-18T11:56:29.000Z,1584532589,420,30,"Free virtual tours of 2,500 museums around the world",https://artsandculture.google.com/partner?hl=en
+2154,HackerNews,2020-03-18T11:53:30.000Z,1584532410,94,31,Show HN: I made a point of sale system with self-service for mobile devices,https://www.flexiblepos.com/
+2155,HackerNews,2020-03-18T11:48:34.000Z,1584532114,75,55,"A Five-Hour, $5k “Super Physical” Exam",https://www.insidehook.com/article/welcome-to-the-era-of-the-five-hour-5000-super-physical-exam
+2156,HackerNews,2020-03-18T11:44:18.000Z,1584531858,196,61,Show HN: Helm - A Flutter app that gamifies stress/anxiety/depression management,https://github.com/chuabingquan/helm
+2157,HackerNews,2020-03-18T11:32:15.000Z,1584531135,601,204,Covid-19 projects looking for volunteers,https://helpwithcovid.com/
+2158,HackerNews,2020-03-18T11:29:55.000Z,1584530995,243,41,"25,000-Year-Old Structure Built of the Bones of 60 Mammoths",https://www.smithsonianmag.com/science-nature/60-mammoths-house-russia-180974426/
+2159,HackerNews,2020-03-18T11:29:33.000Z,1584530973,181,106,Linux was first released to the world from here 17.9.1991,http://ftp.funet.fi/
+2160,HackerNews,2020-03-18T11:25:22.000Z,1584530722,168,98,The Troublesome Active Record Pattern,http://calpaterson.com/activerecord.html
+2161,HackerNews,2020-03-18T11:12:28.000Z,1584529948,424,82,Ed Catmull and Pat Hanrahan Win Turing Award,https://www.nytimes.com/2020/03/18/technology/pixar-pioneers-win-1-million-turing-award.html
+2162,HackerNews,2020-03-18T11:08:44.000Z,1584529724,159,84,LiquidText: A tool for academical note taking,https://www.liquidtext.net/liquidtextadeeperdive
+2163,HackerNews,2020-03-18T10:42:42.000Z,1584528162,127,82,One of Darwin's evolution theories finally proved by Cambridge researcher,https://phys.org/news/2020-03-darwin-evolution-theories-cambridge.html
+2164,HackerNews,2020-03-18T10:16:46.000Z,1584526606,244,330,"The Longest Record Broken: Gold/Silver Ratio Hits Highest in Over 5,000 Years",https://www.nasdaq.com/articles/the-longest-record-broken%3A-gold-silver-ratio-hits-highest-in-over-5000-years-2020-03-17
+2165,HackerNews,2020-03-18T10:14:03.000Z,1584526443,120,66,Using Visual Studio Code for Qt Applications,https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/
+2166,HackerNews,2020-03-18T10:04:54.000Z,1584525894,231,63,Andreessen vs. Thiel (2017),https://allenleein.github.io/2019/06/12/games2.html
+2167,HackerNews,2020-03-18T09:38:19.000Z,1584524299,88,70,RPC Olympics – The Search for the Perfect RPC Protocol,https://www.perimeterx.com/tech-blog/2020/rpc-olympics/
+2168,HackerNews,2020-03-18T09:38:12.000Z,1584524292,173,20,"When to Copy Ideas, When to Steal Ideas",https://davnicwil.com/when-to-copy-ideas-when-to-steal-ideas/
+2169,HackerNews,2020-03-18T08:46:10.000Z,1584521170,398,105,"Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+2170,HackerNews,2020-03-18T08:33:21.000Z,1584520401,187,168,Windows Terminal Preview v0.10 Release,https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-10-release/
+2171,HackerNews,2020-03-18T05:40:38.000Z,1584510038,77,53,A Defer Statement for C,https://github.com/moon-chilled/Defer
+2172,HackerNews,2020-03-18T03:46:38.000Z,1584503198,307,174,"U.S. govt, tech industry discuss using location data to combat coronavirus",https://www.washingtonpost.com/technology/2020/03/17/white-house-location-data-coronavirus/
+2173,HackerNews,2020-03-18T03:09:30.000Z,1584500970,277,121,Manufacturer Threatens To Sue Volunteers who printed a valve,https://www.techdirt.com/articles/20200317/04381644114/volunteers-3d-print-unobtainable-11000-valve-1-to-keep-covid-19-patients-alive-original-manufacturer-threatens-to-sue.shtml
+2174,HackerNews,2020-03-18T02:45:31.000Z,1584499531,161,65,DFI GHF51: AMD Ryzen R1000 on a Raspberry Pi Sized Board,https://www.dfi.com/product/index/1455
+2175,HackerNews,2020-03-18T02:39:57.000Z,1584499197,282,353,Why N95 masks are hard to make,https://www.npr.org/sections/goatsandsoda/2020/03/16/814929294/covid-19-has-caused-a-shortage-of-face-masks-but-theyre-surprisingly-hard-to-mak
+2176,HackerNews,2020-03-18T02:16:59.000Z,1584497819,189,210,"The 2,500 year old history of why Python’s all([]) returns True",https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/
+2177,HackerNews,2020-03-18T02:08:51.000Z,1584497331,126,13,How the brain encodes landmarks that help us navigate,http://news.mit.edu/2020/brain-encodes-landmarks-navigate-0310
+2178,HackerNews,2020-03-18T01:12:31.000Z,1584493951,80,65,"Coronavirus pandemic takes hold, we are making decisions without reliable data",https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/
+2179,HackerNews,2020-03-18T00:34:49.000Z,1584491689,243,100,How I Teach Classes Remotely,http://blog.ifost.org.au/2020/03/how-i-teach-classes-remotely.html
+2180,HackerNews,2020-03-18T00:25:02.000Z,1584491102,399,122,We called it RAID because it kills bugs dead,https://devblogs.microsoft.com/oldnewthing/20200317-00/?p=103566
+2181,HackerNews,2020-03-17T23:42:49.000Z,1584488569,209,140,Company threatens to sue volunteers who 3D-printed valves for coronavirus aid,https://www.theverge.com/2020/3/17/21184308/coronavirus-italy-medical-company-threatens-sue-3d-print-valves-treatments
+2182,HackerNews,2020-03-17T22:12:01.000Z,1584483121,116,105,New coronavirus stable for hours on surfaces,https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces
+2183,HackerNews,2020-03-17T21:54:04.000Z,1584482044,363,54,Cambridge University Press make their books free until May,https://www.cambridge.org/core/what-we-publish/textbooks
+2184,HackerNews,2020-03-17T21:47:31.000Z,1584481651,790,341,TikTok told moderators to suppress posts by “ugly” people and the poor,https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/
+2185,HackerNews,2020-03-17T21:21:11.000Z,1584480071,108,63,SoftBank Backs Away from Part of Planned WeWork Bailout,https://www.wsj.com/articles/softbank-backs-away-from-part-of-planned-wework-bailout-11584479235
+2186,HackerNews,2020-03-17T20:54:07.000Z,1584478447,150,42,Khronos Group Releases Vulkan Ray Tracing,https://www.khronos.org/news/press/khronos-group-releases-vulkan-ray-tracing
+2187,HackerNews,2020-03-17T20:45:53.000Z,1584477953,180,9,Rocket Lab gets NASA certification for official smallsat launches,https://techcrunch.com/2020/03/17/rocket-lab-gets-nasa-certification-for-official-smallsat-launches/
+2188,HackerNews,2020-03-17T20:15:07.000Z,1584476107,222,69,Software Engineering at Google,https://books.google.com/books?id=WXTTDwAAQBAJ
+2189,HackerNews,2020-03-17T19:49:01.000Z,1584474541,141,39,The Reconstruction of ZZT,https://github.com/asiekierka/reconstruction-of-zzt/
+2190,HackerNews,2020-03-17T19:47:32.000Z,1584474452,670,117,Senate leadership pushing a surveillance bill as Americans focused on Covid-19,https://www.politico.com/news/2020/03/16/senate-short-term-extension-spy-programs-132401
+2191,HackerNews,2020-03-17T19:29:46.000Z,1584473386,219,112,French researcher posts successful Covid-19 chloroquine drug trial,https://www.connexionfrance.com/French-news/French-researcher-in-Marseille-posts-successful-Covid-19-coronavirus-drug-trial-results
+2192,HackerNews,2020-03-17T19:18:34.000Z,1584472714,116,36,Charter engineer quits over “reckless” rules against work-from-home,https://arstechnica.com/tech-policy/2020/03/charter-faces-blowback-after-banning-work-from-home-during-pandemic/
+2193,HackerNews,2020-03-17T18:51:40.000Z,1584471100,134,95,Japanese man tests positive for coronavirus again,https://www3.nhk.or.jp/nhkworld/en/news/20200315_13/
+2194,HackerNews,2020-03-17T18:49:40.000Z,1584470980,82,7,The proximal origin of SARS-CoV-2,https://www.nature.com/articles/s41591-020-0820-9
+2195,HackerNews,2020-03-17T18:34:48.000Z,1584470088,152,42,Java 14 GA,https://jdk.java.net/14/
+2196,HackerNews,2020-03-17T18:25:26.000Z,1584469526,106,31,Treasury and IRS to delay tax season deadline by 90 days,https://www.cnbc.com/2020/03/17/treasury-and-irs-to-delay-tax-deadline-by-90-days.html
+2197,HackerNews,2020-03-17T18:11:34.000Z,1584468694,325,121,The good parts of AWS: a visual summary,https://hassenchaieb.com/aws-good-parts/
+2198,HackerNews,2020-03-17T18:10:41.000Z,1584468641,95,44,"Coronavirus: 18% of U.S. workers have lost jobs or hours, poll finds",https://www.latimes.com/business/story/2020-03-17/coronavirus-layoffs-work-hours-jobs
+2199,HackerNews,2020-03-17T18:07:10.000Z,1584468430,120,28,Curl will now output JSON,https://daniel.haxx.se/blog/2020/03/17/curl-write-out-json/
+2200,HackerNews,2020-03-17T18:01:58.000Z,1584468118,108,13,OxyGEN: Open-Source AMBU Respirator,https://oxygen.protofy.xyz/
+2201,HackerNews,2020-03-17T17:40:41.000Z,1584466841,96,56,Show HN: A directory of restaurants with links to buy gift cards to support them,http://givelocal.co
+2202,HackerNews,2020-03-17T17:39:29.000Z,1584466769,428,181,GitHub for mobile is now available,https://github.blog/2020-03-17-github-for-mobile-is-now-available/
+2203,HackerNews,2020-03-17T17:35:39.000Z,1584466539,330,81,The Philosophy of Computer Science (2017),https://plato.stanford.edu/entries/computer-science/
+2204,HackerNews,2020-03-17T17:24:13.000Z,1584465853,205,55,Show HN: WorkOS – APIs for enterprise features like SSO/SAML,https://workos.com/
+2205,HackerNews,2020-03-17T17:21:16.000Z,1584465676,173,153,"Tesla appears to defy Bay Area shutdown, plans to operate Fremont factory",https://electrek.co/2020/03/16/tesla-fremont-factory-shut-down-shelter-in-place/
+2206,HackerNews,2020-03-17T17:15:35.000Z,1584465335,150,20,How Soviet science magazines fantasized about life in outer space,https://www.atlasobscura.com/articles/soviet-space-graphics
+2207,HackerNews,2020-03-17T17:12:04.000Z,1584465124,298,171,"China Bans Americans Working for WSJ, NYT, WaPo",https://www.wsj.com/articles/china-bans-all-u-s-nationals-working-for-the-wall-street-journal-new-york-times-washington-post-whose-press-credentials-end-in-2020-11584464690
+2208,HackerNews,2020-03-17T16:59:51.000Z,1584464391,187,24,"OpenVidu: Open-source, multi-platform, WebRTC videoconferences",https://openvidu.io/
+2209,HackerNews,2020-03-17T16:41:04.000Z,1584463264,153,157,France could nationalize big companies if necessary: finance minister,https://www.reuters.com/article/us-health-coronavirus-france-nationalist/france-could-nationalize-big-companies-if-necessary-finance-minister-idUSKBN2141AO
+2210,HackerNews,2020-03-17T16:36:34.000Z,1584462994,305,249,Stock buybacks are dangerous for the economy,http://feeds.hbr.org/~r/harvardbusiness/~3/6jA8uy6spIQ/why-stock-buybacks-are-dangerous-for-the-economy
+2211,HackerNews,2020-03-17T16:28:57.000Z,1584462537,194,203,Facebook is giving $1k to every employee,https://www.theverge.com/2020/3/17/21183513/facebook-giving-1000-dollar-bonuses-every-employee-coronavirus-mark-zuckerberg
+2212,HackerNews,2020-03-17T16:25:23.000Z,1584462323,564,572,The state of the restaurant industry,https://www.opentable.com/state-of-industry
+2213,HackerNews,2020-03-17T15:54:25.000Z,1584460465,137,89,The Board reduced reserve requirement ratios to zero percent effective March 26,https://www.federalreserve.gov/monetarypolicy/reservereq.htm
+2214,HackerNews,2020-03-17T15:15:21.000Z,1584458121,143,135,Ventilator maker: we can ramp up production five-fold,https://www.forbes.com/sites/baldwin/2020/03/14/ventilator-maker-we-can-ramp-up-production-five-fold
+2215,HackerNews,2020-03-17T14:52:37.000Z,1584456757,354,308,Chinese scientists destroyed proof of virus in December?,https://www.thetimes.co.uk/article/chinese-scientists-destroyed-proof-of-virus-in-december-rz055qjnj
+2216,HackerNews,2020-03-17T14:52:35.000Z,1584456755,258,143,Firm wielding Theranos patents asks judge to block coronavirus test,https://arstechnica.com/tech-policy/2020/03/firm-uses-theranos-patents-to-sue-company-making-coronavirus-test/
+2217,HackerNews,2020-03-17T14:05:39.000Z,1584453939,200,65,Fulfillment by Amazon suspends non-essential inbound shipments,https://www.businessinsider.com/coronavirus-amazon-suspends-all-non-essential-shipments-to-warehouses-2020-3
+2218,HackerNews,2020-03-17T13:56:09.000Z,1584453369,102,55,Amazon: Staff told to work overtime as virus spikes demand,https://www.bbc.com/news/business-51921916
+2219,HackerNews,2020-03-17T13:55:54.000Z,1584453354,99,79,Amazon: Staff told to work overtime as virus spikes demand,https://www.bbc.co.uk/news/business-51921916
+2220,HackerNews,2020-03-17T13:51:58.000Z,1584453118,76,40,What is fsck up to now?,https://toroid.org/what-is-fsck-up-to-now
+2221,HackerNews,2020-03-17T13:51:19.000Z,1584453079,268,254,Giving Americans Money to Offset Coronavirus Impact Gains Support in Congress,https://www.wsj.com/articles/giving-americans-money-to-offset-coronavirus-impact-gains-bipartisan-support-in-congress-11584446801
+2222,HackerNews,2020-03-17T13:22:28.000Z,1584451348,770,146,4.2″ and 7.5″ NFC-powered e-Paper Displays Work without Battery,https://www.cnx-software.com/2020/03/17/nfc-powered-e-paper-displays-work-without-battery/
+2223,HackerNews,2020-03-17T13:19:58.000Z,1584451198,641,319,ReMarkable’s redesigned e-paper tablet is more powerful and more papery,https://techcrunch.com/2020/03/17/remarkables-redesigned-e-paper-tablet-is-more-powerful-and-more-papery/
+2224,HackerNews,2020-03-17T12:55:21.000Z,1584449721,97,64,India Could Be Next Virus Hotspot with an ‘Avalanche’ of Cases,https://www.bloomberg.com/news/articles/2020-03-17/india-could-be-next-virus-hotspot-with-an-avalanche-of-cases
+2225,HackerNews,2020-03-17T12:35:46.000Z,1584448546,285,77,"Yahoo, AOL results biased in favor of parent company Verizon’s websites",https://www.ctrl.blog/entry/verizon-media-search.html
+2226,HackerNews,2020-03-17T12:14:44.000Z,1584447284,317,222,Popcorn Time 4.0,https://github.com/popcorn-official/popcorn-desktop
+2227,HackerNews,2020-03-17T12:07:39.000Z,1584446859,440,251,Please consider not adopting Google WebComponents,https://forum.palemoon.org/viewtopic.php?f=1&t=24004
+2228,HackerNews,2020-03-17T12:05:11.000Z,1584446711,87,65,McDonald's is considering rent deferrals for franchisees,https://www.cnbc.com/2020/03/17/mcdonalds-cant-estimate-coronavirus-impact-to-its-business-and-is-considering-rent-deferrals.html
+2229,HackerNews,2020-03-17T11:35:22.000Z,1584444922,82,117,Biggest U.S. airlines spent bulk of free cash flow on stock repurchases,https://www.bloomberg.com/news/articles/2020-03-16/u-s-airlines-spent-96-of-free-cash-flow-on-buybacks-chart
+2230,HackerNews,2020-03-17T11:26:26.000Z,1584444386,117,72,Self-isolation is feeding my Warhammer addiction,https://unherd.com/2020/03/self-isolation-is-feeding-my-warhammer-addiction/
+2231,HackerNews,2020-03-17T10:52:28.000Z,1584442348,155,35,AMD’s 7nm Ryzen 4000 laptop processors,https://arstechnica.com/gadgets/2020/03/amds-7nm-ryzen-4000-laptop-processors-are-finally-here/
+2232,HackerNews,2020-03-17T09:26:59.000Z,1584437219,289,68,What Is the Geometry of the Universe?,https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/
+2233,HackerNews,2020-03-17T09:25:39.000Z,1584437139,78,52,Time Has No Meaning at the North Pole,https://blogs.scientificamerican.com/observations/time-has-no-meaning-at-the-north-pole/
+2234,HackerNews,2020-03-17T09:24:37.000Z,1584437077,125,79,The future of design tools,https://www.getmotion.io/blog/the-future-of-design-tools/
+2235,HackerNews,2020-03-17T08:31:56.000Z,1584433916,150,50,"Serverless eBook Using Gitbook, GitHub Pages, GitHub Actions, and Calibre",https://devops.novalagung.com/en/cicd-serverless-ebook-gitbook-github-pages-actions-calibre.html
+2236,HackerNews,2020-03-17T08:28:25.000Z,1584433705,87,72,Climate change: The rich are to blame,https://www.bbc.co.uk/news/business-51906530
+2237,HackerNews,2020-03-17T08:26:50.000Z,1584433610,91,11,The engineering of birds’ nests,https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html
+2238,HackerNews,2020-03-17T06:34:45.000Z,1584426885,97,32,Example of a Shakti-powered spreadsheet application [video],https://www.youtube.com/watch?v=CEG9pFNYBCI
+2239,HackerNews,2020-03-17T05:33:46.000Z,1584423226,103,26,Tree felling work uncovers WW2 underground bunker near Moffat,https://www.bbc.com/news/uk-scotland-south-scotland-51800809
+2240,HackerNews,2020-03-17T05:32:07.000Z,1584423127,533,471,50% – 75% of cases of Covid-19 are asymptomatic,https://www.repubblica.it/salute/medicina-e-ricerca/2020/03/16/news/coronavirus_studio_il_50-75_dei_casi_a_vo_sono_asintomatici_e_molto_contagiosi-251474302/?ref=RHPPTP-BH-I251454518-C12-P3-S2.4-T1
+2241,HackerNews,2020-03-17T05:08:08.000Z,1584421688,94,27,Social Distancing Festival,https://www.socialdistancingfestival.com/
+2242,HackerNews,2020-03-17T04:29:50.000Z,1584419390,109,31,The OODA Loop and the Half-Beat,https://thestrategybridge.org/the-bridge/2020/3/17/the-ooda-loop-and-the-half-beat
+2243,HackerNews,2020-03-17T03:36:33.000Z,1584416193,92,21,The Write Stuff for the Commodore 128,https://amigalove.com/viewtopic.php?f=13&t=1387
+2244,HackerNews,2020-03-17T03:31:26.000Z,1584415886,214,55,NsCDE: Not So Common Desktop Environment,https://github.com/nscde/nscde
+2245,HackerNews,2020-03-17T03:04:19.000Z,1584414259,462,254,Chloroquine has shown apparent efficacy in treatment of Covid-19,https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2020.01047/_pdf/-char/en
+2246,HackerNews,2020-03-17T02:16:56.000Z,1584411416,116,83,How to get your money back on a non-refundable hotel,https://philip.greenspun.com/blog/2020/03/16/how-to-get-your-money-back-on-a-non-refundable-hotel/
+2247,HackerNews,2020-03-17T01:57:41.000Z,1584410261,91,19,Study confirms vitamin D protects against colds and flu (2017),https://news.harvard.edu/gazette/story/2017/02/study-confirms-vitamin-d-protects-against-cold-and-flu/
+2248,HackerNews,2020-03-17T01:28:40.000Z,1584408520,125,138,Stay home. SF is requiring people to stay home except for essential needs.,https://sf.gov/stay-home-except-essential-needs#main-content
+2249,HackerNews,2020-03-17T01:02:33.000Z,1584406953,125,57,Charter prohibits working from home despite spread of coronavirus,https://techcrunch.com/2020/03/16/charter-coronavirus-work-home/
+2250,HackerNews,2020-03-17T00:23:52.000Z,1584404632,210,43,Bicycles for the mind have to be see-through [pdf],http://akkartik.name/akkartik-convivial-20200315.pdf
+2251,HackerNews,2020-03-17T00:10:58.000Z,1584403858,254,456,What If Andrew Yang Was Right?,https://www.theatlantic.com/politics/archive/2020/03/coronavirus-romney-yang-money/608134/
+2252,HackerNews,2020-03-17T00:05:45.000Z,1584403545,257,86,HashiCorp Raises $175M at $5.1B Valuation,http://www.globenewswire.com/news-release/2020/03/16/2001541/0/en/HashiCorp-Raises-175-Million-in-Series-E-Funding-to-Support-Multi-Cloud-Transformation-for-Global-Enterprises.html
+2253,HackerNews,2020-03-16T23:23:51.000Z,1584401031,211,141,Low-Cost Arduino-Based Ventilator,https://github.com/jcl5m1/ventilator
+2254,HackerNews,2020-03-16T23:06:41.000Z,1584400001,155,18,Looking inside a vintage Soviet TTL logic integrated circuit,http://www.righto.com/2020/03/looking-inside-vintage-soviet-ttl-logic.html
+2255,HackerNews,2020-03-16T22:58:20.000Z,1584399500,304,129,Don't Terminate People's Internet Connections,https://labs.ripe.net/Members/job_snijders/dont-terminate-peoples-internet-connections
+2256,HackerNews,2020-03-16T22:45:35.000Z,1584398735,123,11,"SoftBank Owned Patent Troll Sues to Block Covid Testing, Using Theranos Patents",https://www.techdirt.com/articles/20200316/14584244111/softbank-owned-patent-troll-using-monkey-selfie-law-firm-sues-to-block-covid-19-testing-using-theranos-patents.shtml
+2257,HackerNews,2020-03-16T22:29:11.000Z,1584397751,139,154,Substantial undocumented infection facilitates rapid dissemination of SARS-CoV2,https://science.sciencemag.org/content/early/2020/03/13/science.abb3221
+2258,HackerNews,2020-03-16T21:47:42.000Z,1584395262,119,113,Discord Is Having an Outage,https://status.discordapp.com/
+2259,HackerNews,2020-03-16T21:21:22.000Z,1584393682,341,258,The hard part of the economics of Covid-19,https://thereader.mitpress.mit.edu/flattening-the-coronavirus-curve-is-not-enough/
+2260,HackerNews,2020-03-16T21:12:05.000Z,1584393125,216,72,Kind - run local Kubernetes clusters using Docker,https://kind.sigs.k8s.io/
+2261,HackerNews,2020-03-16T21:00:12.000Z,1584392412,208,151,Stay home except for essential needs,https://sf.gov/stay-home-except-essential-needs
+2262,HackerNews,2020-03-16T20:40:43.000Z,1584391243,175,168,Global oil use heads for steepest annual contraction,https://www.worldoil.com/news/2020/3/15/global-oil-use-heads-for-steepest-annual-contraction-in-history
+2263,HackerNews,2020-03-16T20:21:55.000Z,1584390115,530,318,Amazon to hire 100k warehouse and delivery workers,https://www.wsj.com/articles/amazon-to-hire-100-000-warehouse-and-delivery-workers-amid-coronavirus-shutdowns-11584387833
+2264,HackerNews,2020-03-16T20:21:28.000Z,1584390088,390,468,Dow Falls 2997 points worst drop since 1987 crash,http://www.mortgagerateguru.com/2020/03/16/dow-falls-2997-points-worst-drop-since-87-crash/
+2265,HackerNews,2020-03-16T19:27:00.000Z,1584386820,399,390,Shelter in place for Bay Area counties,https://www.sfchronicle.com/local-politics/article/Bay-Area-must-shelter-in-place-Only-15135014.php?t=ebc54dc680
+2266,HackerNews,2020-03-16T19:22:09.000Z,1584386529,190,210,"WinUI, The modern native UI platform of Windows",https://microsoft.github.io/microsoft-ui-xaml/
+2267,HackerNews,2020-03-16T18:59:29.000Z,1584385169,355,66,Outbreak – playable simulations of a disease outbreak,https://meltingasphalt.com/interactive/outbreak/
+2268,HackerNews,2020-03-16T18:47:55.000Z,1584384475,79,79,Bitcoin price crash forces miners off network,https://decrypt.co/22538/chinese-miners-hash-halving-coronavirus
+2269,HackerNews,2020-03-16T18:32:55.000Z,1584383575,81,19,Actual Causality (2016),https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html
+2270,HackerNews,2020-03-16T18:32:23.000Z,1584383543,158,45,Rewriting the heart of our sync engine,https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
+2271,HackerNews,2020-03-16T18:14:18.000Z,1584382458,179,69,Mary Dash's Writing Tips,https://plainlanguage.gov/resources/articles/dash-writing-tips/
+2272,HackerNews,2020-03-16T17:54:21.000Z,1584381261,270,182,Canada to bar entry to non-residents (except US),https://www.cbc.ca/news/politics/cbsa-border-airports-screening-trudeau-covid19-coronavirus-1.5498866
+2273,HackerNews,2020-03-16T17:19:53.000Z,1584379193,94,88,Is presentation the cause of loneliness? (2017),https://kaomorphism.com/2017/10/06/Is-Presentation-The-Cause-Of-Loneliness.html
+2274,HackerNews,2020-03-16T17:16:31.000Z,1584378991,446,183,Ten-Minute Coronavirus Test for $1,https://www.bloomberg.com/news/articles/2020-03-16/ten-minute-coronavirus-test-could-be-game-changer-for-africa
+2275,HackerNews,2020-03-16T17:03:55.000Z,1584378235,400,212,Norwegian Air to cancel 85% of flights and temporarily lay off 90% of staff,https://www.reuters.com/article/us-health-coronavirus-norwegianair/norwegian-air-to-cancel-85-of-flights-and-lay-off-90-of-staff-idUSKBN2132F7
+2276,HackerNews,2020-03-16T17:01:23.000Z,1584378083,1829,557,NPM Is Joining GitHub,https://github.blog/2020-03-16-npm-is-joining-github/
+2277,HackerNews,2020-03-16T16:59:13.000Z,1584377953,264,199,2020 Stock Market Crash,https://en.wikipedia.org/wiki/2020_Black_Monday
+2278,HackerNews,2020-03-16T16:21:52.000Z,1584375712,80,13,Epidemic Calculator,http://gabgoh.github.io/COVID/index.html
+2279,HackerNews,2020-03-16T16:09:31.000Z,1584374971,75,123,"Most airlines face bankruptcy by end of May, industry body warns",https://www.ft.com/content/30a3a26e-674f-11ea-800d-da70cff6e4d3
+2280,HackerNews,2020-03-16T15:54:43.000Z,1584374083,217,280,One way to fight a coronavirus recession: $1k for every American,https://www.axios.com/coronavirus-recession-direct-payments-americans-ubi-c3393d14-33ad-47c2-a739-f2fec150b212.html
+2281,HackerNews,2020-03-16T15:44:55.000Z,1584373495,96,70,"How to fight the coronavirus SARS-CoV-2 and its disease, Covid-19 [pdf]",https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view
+2282,HackerNews,2020-03-16T15:39:48.000Z,1584373188,203,225,How do we stop people from blinding other drivers with aftermarket LEDs?,https://arstechnica.com/cars/2020/03/how-do-we-stop-people-blinding-other-drivers-with-aftermarket-leds/
+2283,HackerNews,2020-03-16T15:38:43.000Z,1584373123,350,203,GitHub blocked me and all my libraries,https://medium.com/@catamphetamine/how-github-blocked-me-and-all-my-libraries-c32c61f061d3
+2284,HackerNews,2020-03-16T15:36:10.000Z,1584372970,146,27,Backstage: an open platform for building developer portals,https://github.com/spotify/backstage
+2285,HackerNews,2020-03-16T14:16:12.000Z,1584368172,199,48,"AWS Session Manager: less infrastructure, more features",https://github.com/symopsio/terraform-okta-ssm-modules/blob/master/docs/AWSSessionManagerLessInfrastructureMoreFeatures.md
+2286,HackerNews,2020-03-16T14:05:02.000Z,1584367502,313,116,Formal GDPR complaint against Google’s internal data free-for-all,https://brave.com/google-internal-data-free-for-all/
+2287,HackerNews,2020-03-16T13:34:48.000Z,1584365688,111,157,"S&P 500 drops 9%, extending losses after 15-minute trading halt",https://www.cnbc.com/2020/03/15/traders-await-futures-open-after-fed-cuts-rates-launches-easing-program.html
+2288,HackerNews,2020-03-16T13:24:04.000Z,1584365044,78,7,"Shadowserver, the web’s bot containment unit, needs help",https://krebsonsecurity.com/2020/03/the-webs-bot-containment-unit-needs-your-help/
+2289,HackerNews,2020-03-16T12:53:25.000Z,1584363205,81,9,U.S. Health Agency Suffers Cyber-Attack During Covid-19 Response,https://www.bloomberg.com/news/articles/2020-03-16/u-s-health-agency-suffers-cyber-attack-during-covid-9-response
+2290,HackerNews,2020-03-16T12:26:30.000Z,1584361590,90,6,The EARN-IT Act-Prepare for another attack on encryption in the U.S.,https://www.schneier.com/blog/archives/2020/03/the_earn-it_act.html
+2291,HackerNews,2020-03-16T12:08:34.000Z,1584360514,283,110,"How I recorded an album on my own, in my room",https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
+2292,HackerNews,2020-03-16T12:02:14.000Z,1584360134,131,8,Irmin: A distributed database written in OCaml,https://irmin.org/
+2293,HackerNews,2020-03-16T11:44:39.000Z,1584359079,91,28,Hell is Other People: an experiment in anti-social media,https://hell.j38.net/
+2294,HackerNews,2020-03-16T11:38:45.000Z,1584358725,184,73,Concentrichron: A clock and calendar made of concentric rings,https://twitter.com/Vector_GL/status/1239512837325758464
+2295,HackerNews,2020-03-16T11:03:36.000Z,1584356616,99,22,Detection of Airborne Viruses,https://www.kth.se/mst/research/sensors/project/detection-airborne-1.523039
+2296,HackerNews,2020-03-16T10:57:49.000Z,1584356269,106,2,Writing an SDK with Core Bluetooth,https://littlegreenviper.com/series/bluetooth/
+2297,HackerNews,2020-03-16T10:48:08.000Z,1584355688,127,31,BigBlueButton: An open source web conferencing system,https://github.com/bigbluebutton/bigbluebutton
+2298,HackerNews,2020-03-16T10:45:15.000Z,1584355515,183,88,Apple fined $1.2B by French antitrust authorities,https://www.cnbc.com/2020/03/16/apple-fined-1point2-billion-by-french-competition-authorities.html
+2299,HackerNews,2020-03-16T10:43:06.000Z,1584355386,184,83,How I Start: Rust,https://christine.website/blog/how-i-start-rust-2020-03-15
+2300,HackerNews,2020-03-16T10:35:21.000Z,1584354921,293,179,I am mesmerized by our new robotic vacuum (2019),https://dev.to/deciduously/i-am-mesmerized-by-our-new-robotic-vacuum-10pc
+2301,HackerNews,2020-03-16T10:23:43.000Z,1584354223,145,123,Why Not WireGuard,https://blog.ipfire.org/post/why-not-wireguard
+2302,HackerNews,2020-03-16T09:49:41.000Z,1584352181,119,88,Show HN: Intention – DAG Todo App,https://about.i.ntention.app
+2303,HackerNews,2020-03-16T09:21:05.000Z,1584350465,117,30,GNU Make Guile Integration,https://www.gnu.org/software/make/manual/html_node/Guile-Integration.html
+2304,HackerNews,2020-03-16T08:09:38.000Z,1584346178,152,359,“I'm not sure there is an acceptable solution to the problem we are facing”,https://twitter.com/BallouxFrancois/status/1238837158007447558
+2305,HackerNews,2020-03-16T07:43:58.000Z,1584344638,245,106,Text Processing in the Shell,https://blog.balthazar-rouberol.com/text-processing-in-the-shell
+2306,HackerNews,2020-03-16T07:19:40.000Z,1584343180,138,22,Getting started with shaders: signed distance functions,https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/
+2307,HackerNews,2020-03-16T07:11:06.000Z,1584342666,120,20,Mishap during experiment led quantum researchers to crack a 58-year-old puzzle,https://newsroom.unsw.edu.au/news/science-tech/engineers-crack-58-year-old-puzzle-way-quantum-breakthrough
+2308,HackerNews,2020-03-16T06:52:36.000Z,1584341556,90,24,Recursive SQL Queries with PostgreSQL,https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b
+2309,HackerNews,2020-03-16T06:42:15.000Z,1584340935,75,78,Risky Business: Interview with Marc Andreessen (2018),https://www.startups.com/library/expert-advice/marc-andreessen
+2310,HackerNews,2020-03-16T05:59:48.000Z,1584338388,134,37,Timeouts and cancellation for humans (2018),https://vorpus.org/blog/timeouts-and-cancellation-for-humans/
+2311,HackerNews,2020-03-16T05:51:08.000Z,1584337868,101,9,"Using JAX, numpy, and optimization techniques to improve separable image filters",https://bartwronski.com/2020/03/15/using-jax-numpy-and-optimization-techniques-to-improve-separable-image-filters/
+2312,HackerNews,2020-03-16T04:50:45.000Z,1584334245,87,21,TikTok Told Moderators to Suppress Posts by “Ugly” People and the Poor,https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/
+2313,HackerNews,2020-03-16T03:43:04.000Z,1584330184,147,253,One Word Broke C,https://news.quelsolaar.com/2020/03/16/how-one-word-broke-c/
+2314,HackerNews,2020-03-16T02:38:40.000Z,1584326320,414,545,"Washington governor announces shutdown of restaurants, bars",https://www.governor.wa.gov/news-media/inslee-statement-statewide-shutdown-restaurants-bars-and-limits-size-gatherings-expanded
+2315,HackerNews,2020-03-16T02:11:51.000Z,1584324711,91,47,California Covid-19 risk screening and testing,https://www.projectbaseline.com/study/covid-19/
+2316,HackerNews,2020-03-16T01:48:28.000Z,1584323308,169,47,Mass amateurization,https://en.wikipedia.org/wiki/Mass_amateurization
+2317,HackerNews,2020-03-16T01:25:51.000Z,1584321951,141,30,Y Combinator may go fully remote for its next cohort,https://techcrunch.com/2020/03/15/y-combinator-may-go-fully-remote-for-its-next-cohort/
+2318,HackerNews,2020-03-16T01:09:02.000Z,1584320942,195,204,Man who stockpiled hand sanitizer donates it all ahead of investigation,https://thehill.com/blogs/blog-briefing-room/news/487711-tennessee-man-who-stockpiled-hand-sanitizer-donates-17700
+2319,HackerNews,2020-03-16T01:08:53.000Z,1584320933,230,51,United hides cheapest flights from passengers affected by Coronavirus,https://bookwithcarry.com/blog/united-cheap-flights-coronavirus
+2320,HackerNews,2020-03-16T00:31:19.000Z,1584318679,622,195,Italian hospital saves Covid-19 patients by 3D printing valves,https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
+2321,HackerNews,2020-03-16T00:18:01.000Z,1584317881,121,28,Finding McAfee: a case study on geoprofiling and imagery analysis,https://medium.com/@benjamindbrown/finding-mcafee-a-case-study-on-geoprofiling-and-imagery-analysis-6f16bbd5c219
+2322,HackerNews,2020-03-15T23:47:01.000Z,1584316021,311,375,CDC says U.S. gatherings of over 50 people should be put off,https://www.bloomberg.com/news/articles/2020-03-15/cdc-says-gatherings-over-50-people-should-be-delayed-eight-weeks
+2323,HackerNews,2020-03-15T23:38:50.000Z,1584315530,332,277,U.S. Government official: Coronavirus vaccine trial starts Monday,https://apnews.com/8089a3d0ec8f9fde971bddd7b3aa2ba1
+2324,HackerNews,2020-03-15T22:19:21.000Z,1584310761,244,227,Containment gets harder every day we delay,https://observablehq.com/@yurivish/dont-be-italy
+2325,HackerNews,2020-03-15T21:32:05.000Z,1584307925,90,45,Campaign to 'thank' Xi Jinping flatly rejected by Wuhan citizens,https://asia.nikkei.com/Editor-s-Picks/China-up-close/Campaign-to-thank-Xi-Jinping-flatly-rejected-by-Wuhan-citizens
+2326,HackerNews,2020-03-15T21:12:11.000Z,1584306731,99,77,Layoffs Are Coming,https://jacobian.org/2020/mar/13/layoffs-are-coming/
+2327,HackerNews,2020-03-15T21:04:26.000Z,1584306266,286,300,Federal Reserve slashes interest rates to zero,https://www.washingtonpost.com/business/2020/03/15/federal-reserve-slashes-interest-rates-zero-part-wide-ranging-emergency-intervention/
+2328,HackerNews,2020-03-15T20:53:49.000Z,1584305629,155,36,35 years ago today: the first domain name symbolics.com was registered,https://dofo.com/symbolics.com
+2329,HackerNews,2020-03-15T20:35:52.000Z,1584304552,120,19,Best Python Reference Ever,https://github.com/gto76/python-cheatsheet
+2330,HackerNews,2020-03-15T19:32:25.000Z,1584300745,689,73,Vienna Opera opened its archive for free streaming,https://www.staatsoperlive.com/
+2331,HackerNews,2020-03-15T19:10:52.000Z,1584299452,196,260,Harvard epidemiologist: my colleagues assumed UK coronavirus plan “was satire”,https://www.theguardian.com/commentisfree/2020/mar/15/epidemiologist-britain-herd-immunity-coronavirus-covid-19
+2332,HackerNews,2020-03-15T19:06:17.000Z,1584299177,165,51,Zero Trust Networks,https://crawshaw.io/blog/zero-trust
+2333,HackerNews,2020-03-15T19:00:30.000Z,1584298830,120,21,"Lisp: Good News, Bad News, How to Win Big (1991)",http://www.dreamsongs.com/WIB.html
+2334,HackerNews,2020-03-15T18:26:50.000Z,1584296810,224,7,Tell the Senate: Do Not Shut Down Debate on Mass Surveillance,https://act.eff.org/action/tell-the-senate-do-not-shut-down-debate-on-mass-surveillance
+2335,HackerNews,2020-03-15T17:36:07.000Z,1584293767,96,38,Lens: Desktop application for managing Kubernetes clusters,https://github.com/kontena/lens
+2336,HackerNews,2020-03-15T17:33:40.000Z,1584293620,130,21,Our Experience with Stripe Atlas,https://formcake.com/blog/our-experience-with-stripe-atlas
+2337,HackerNews,2020-03-15T16:35:50.000Z,1584290150,394,215,Funding for Covid-19 Projects,https://blog.samaltman.com/funding-for-covid-19-projects
+2338,HackerNews,2020-03-15T16:23:56.000Z,1584289436,126,211,Coronavirus: Some scientists say UK virus strategy is 'risking lives',https://www.bbc.com/news/science-environment-51892402
+2339,HackerNews,2020-03-15T16:20:21.000Z,1584289221,157,109,The story of Henry Ford's $5 a day wages: not what you think (2012),https://www.forbes.com/sites/timworstall/2012/03/04/the-story-of-henry-fords-5-a-day-wages-its-not-what-you-think/#674d6332766d
+2340,HackerNews,2020-03-15T16:17:40.000Z,1584289060,175,119,USA tried to pay Germans so coronavirus cure vaccine would be exclusive to USA,https://www.businessinsider.com/trump-administration-tried-to-pay-germans-scientists-for-coronavirus-cure-2020-3
+2341,HackerNews,2020-03-15T15:55:19.000Z,1584287719,309,286,Germany tries to stop U.S. from luring away firm seeking coronavirus vaccine,https://www.reuters.com/article/us-health-coronavirus-germany-usa/germany-tries-to-stop-u-s-from-luring-away-firm-seeking-coronavirus-vaccine-idUSKBN2120IV
+2342,HackerNews,2020-03-15T14:18:40.000Z,1584281920,139,86,Evidence that parasite prevalence predicts authoritarianism (2013),https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062275
+2343,HackerNews,2020-03-15T14:14:12.000Z,1584281652,83,43,Coronavirus Work from Home Model,https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/htmlview?usp=sharing&sle=true#
+2344,HackerNews,2020-03-15T12:03:32.000Z,1584273812,130,89,Are patients with hypertension and diabetes at increased risk for COVID-19?,https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext#coronavirus-linkback-header
+2345,HackerNews,2020-03-15T12:03:25.000Z,1584273805,130,14,David Attenborough calls for ban on deep sea mining,https://www.theguardian.com/environment/2020/mar/12/david-attenborough-calls-for-ban-on-devastating-deep-sea-mining
+2346,HackerNews,2020-03-15T09:51:00.000Z,1584265860,355,126,DefaultApp,https://tyler.io/default-app-for-mac-ios/
+2347,HackerNews,2020-03-15T09:47:35.000Z,1584265655,641,133,Employee Scheduling,https://developers.google.com/optimization/scheduling/employee_scheduling
+2348,HackerNews,2020-03-15T09:32:42.000Z,1584264762,118,38,Vitamin D deficiency worsens Respiratory Tract Infections: Meta-analysis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6747229/
+2349,HackerNews,2020-03-15T09:17:46.000Z,1584263866,136,34,MathJax Turns 3.0,http://bit-player.org/2020/mathjax-turns-3-0
+2350,HackerNews,2020-03-15T08:58:04.000Z,1584262684,132,19,WebAssembly brings extensibility to network proxies,https://opensource.googleblog.com/2020/03/webassembly-brings-extensibility-to.html
+2351,HackerNews,2020-03-15T08:55:52.000Z,1584262552,246,14,Nightmare – Guided Intro to Binary Exploitation/Reverse Engineering,https://guyinatuxedo.github.io/
+2352,HackerNews,2020-03-15T08:24:17.000Z,1584260657,146,160,People who haven't bought clothes for a decade,https://www.theguardian.com/fashion/2020/mar/12/i-wear-my-grandads-old-boxers-meet-the-people-who-havent-bought-clothes-for-a-decade
+2353,HackerNews,2020-03-15T08:19:56.000Z,1584260396,84,47,"Asm-dom, a minimal WebAssembly virtual DOM to build C++ SPA",https://mbasso.github.io/asm-dom/
+2354,HackerNews,2020-03-15T08:03:21.000Z,1584259401,137,151,British Society for Immunology open letter to Government on SARS-CoV-2 response,https://www.immunology.org/news/bsi-open-letter-government-sars-cov-2-outbreak-response
+2355,HackerNews,2020-03-15T07:57:14.000Z,1584259034,210,78,London’s trees are saving the city billions,https://www.citylab.com/environment/2020/03/london-trees-economic-benefits-urban-cooling-carbon/607525/
+2356,HackerNews,2020-03-15T07:51:33.000Z,1584258693,118,59,Show HN: TLDR This – Auto summarize any article or webpage in a click,https://tldrthis.com/
+2357,HackerNews,2020-03-15T06:40:37.000Z,1584254437,462,104,Activists create a 12.5M block library in Minecraft to bypass censorship,https://www.pulse.com.gh/bi/tech/activists-created-a-125-million-block-digital-library-in-minecraft-to-bypass/bn4gpcc
+2358,HackerNews,2020-03-15T05:44:48.000Z,1584251088,95,42,Cleaning the Ship's Cargo Hold (2019) [video],https://www.youtube.com/watch?v=is4cqxLM-N4
+2359,HackerNews,2020-03-15T04:37:22.000Z,1584247042,156,60,The case of the missing WAV audio files on the FAT32 SD Card,https://www.hanselman.com/blog/CSITheCaseOfTheMissingWAVAudioFilesOnTheFAT32SDCard.aspx
+2360,HackerNews,2020-03-15T04:26:41.000Z,1584246401,84,28,Project Open Air,https://www.projectopenair.org/
+2361,HackerNews,2020-03-15T03:16:40.000Z,1584242200,190,64,A chemical reaction in ancient Roman concrete makes it stronger over time (2017),https://science.howstuffworks.com/why-ancient-roman-concrete-stronger-than-modern.htm
+2362,HackerNews,2020-03-15T02:33:14.000Z,1584239594,275,210,Lesspass – open-source stateless password manager,https://lesspass.com/
+2363,HackerNews,2020-03-15T01:42:50.000Z,1584236570,78,69,“Out of an abundance of caution” – An overused phrase (2015),http://www.bifurcatedneedle.com/new-blog/2015/7/22/out-of-an-abundance-of-caution-an-overused-phrase
+2364,HackerNews,2020-03-15T01:22:02.000Z,1584235322,183,140,"NY hospitals pitch tents, nix surgeries to prepare for influx",https://www.bloomberg.com/news/articles/2020-03-14/n-y-hospitals-pitch-tents-nix-surgeries-to-prepare-for-influx
+2365,HackerNews,2020-03-15T01:11:42.000Z,1584234702,109,49,InboxSDK – Build apps inside Gmail,https://www.inboxsdk.com/
+2366,HackerNews,2020-03-15T00:50:48.000Z,1584233448,119,31,Genesis P-Orridge has died,https://www.bbc.co.uk/news/entertainment-arts-51893184
+2367,HackerNews,2020-03-15T00:46:06.000Z,1584233166,221,205,"Alphabet, Walmart join U.S. effort to speed up coronavirus testing",https://www.reuters.com/article/us-health-coronavirus-google/google-walmart-join-u-s-effort-to-speed-up-coronavirus-testing-idUSKBN21036R
