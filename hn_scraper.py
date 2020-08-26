@@ -62,7 +62,7 @@ def clean_text(text):
 
 if __name__ == '__main__':
     wordnet = WordNetLemmatizer()
-    upvotes_threshold = 74
+    upvotes_threshold = 74      #TODO: change this
     # startepoch = 1594853155            # 15Jul2020-00:00GMT   
     # startepoch = 1595457955            # 22Jul2020-00:00GMT   
     # startepoch = 1596062555            # 29Jul2020-00:00GMT   

@@ -14,9 +14,7 @@
     - Create website (and if; newsletter system)
 
 
-# HN_exclusive:
-
-## [Ticket1] POC_Approach: Scrape Data & Build Model : ( 12Aug20- )
+## [Ticket1] POC_Approach: Scrape Data & Build Model : ( 12Aug20-13Aug20)
 * [x] Scrape data from [arxiv](https://arxiv.org/) for 5 categories- 1000 entries each
   * csv file: {id, topic, title , content}
   * ISSUE: too many errors with python2, upgrading to python3. Got stuck! UPDARE: resolved
@@ -29,7 +27,7 @@
   * Sometimes Model2(LSCV or LSCV2) predicts right category with low accuracy
   * Where to go from here??
 
-## [Ticket2] Get HN Topics List : (14Aug20-23Aug)
+## [Ticket2] Get HN Topics List : (14Aug20-18Aug20)
 * **Target** : Get the list of all the big topics in last month of HN articles
 * [-] Figure Out scraping @Aayush
   * 1. HN Scrape: 
@@ -42,8 +40,8 @@
         * Schema: ID,Source(=HN), Time(IST), Upvotes,NumComments, Title, Url , Content, WeightedContent
         * [x] Handle brokern/forbidden urls
         * [x] handle https urls: tmp fixed(https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror), permanent soln later
-        * TODO: Need to have full title(not preprocessed) as I need to decide the topic based on that.Preprocessing to be done while feeding to Algo.Made the change.RUN `hn_scraper` again after 1 iteration is done
-        * TODO: HN scraping failed for '1596240000-1594771200', rerun!
+        * Need to have full title(not preprocessed) as I need to decide the topic based on that.Preprocessing to be done while feeding to Algo.Made the change.RUN `hn_scraper` again after 1 iteration is done
+        * HN scraping failed for '1596240000-1594771200', rerun!
   * 2. Inidvidual article linked website.Things to keep in mind:
     * Get meaningful content only i.e. remove ads, comments etc.
       * Appr1: Use someting like [boilerpipe](https://stackoverflow.com/questions/13791316/how-to-extract-meaningful-and-useful-content-from-web-pages) and use Adblockers data [ref](https://www.researchgate.net/post/How_do_I_extract_the_content_from_dynamic_web_pages)
@@ -56,9 +54,77 @@
           * images => get `alt` value of <img> for WeightedContent col 
           * videos/Anything else  => remove
   * 99. Last resort-PAID service [simplescrapper](https://simplescraper.io/)
-* [-] Build LDA POC @Manchan for finding all the topics list on HN
+* [-] Build LDA POC @Richa for finding all the topics list on HN
   * Tfidf will give good result in topic prediction(with comparison to Lda & bag of word)
   * LDA => word1->topic1, word2->topic2 ; this is not what we need
   * [x] Getting sentence-wise output Tfidf
-  * [x] Then; do the same for other algorithms => MNF performing better
+  * [x] Then; do the same for other algorithms => NMF performing better
   * [] Then; get data from @Aayush and do the best performing algo on it
+* **CONCLUSION** :[18Aug20]
+  * Since the HN datset was totally random, the coherence graph plotted with NMF was stratight line-showing that coherence score is independent of #topics(5-100) => No conclusion!
+  * So decided to assume all major Topics manually and get data for each of topic from multiple sources; build model on it; then predict HN articles to decide the %accuracy threshold.
+  * If this approach works-continue; else scrape the project!
+
+## [Ticket3]: Classify OR Die : (19Aug20-)
+* **TARGET** : Build model on scrambled data set & see if it can classify HN's content.If not, scrape the project
+* [i] Create Topics list- with domains which are contained in them
+  * NOTE: One article will have multiple topics; figure it out
+* [-] Getting tagged data for model building:
+  * [-] [lobste.rs](https://lobste.rs/)
+  * [] topicwise relevant subreddits
+  * [] other sources??
+* [-] Build NLP model on:
+  * [-] First: on some sample data @Richa
+  * [] Feed all the data
+* [] Test this model on:
+  * HN
+  * Other computer/tech based blogs sites/aggregators
+* [] See if model can predict on HN:
+  * if yes- proceed towards `%accuracy_th` -> `rank` -> ...
+  * ~~else- Burst!~~ 
+* [-] Static Data sources:
+  * [x] lobste.rs
+  * [ ] Subreddits
+  * [-] arxiv++
+* [-] Dynamic Data sources(for v1):
+  * HN(need classification)
+  * arxiv++(already tagged)
+  * Subreddits => Comes tagged already. But I can
+      * still classify the article to see if it belongs to other topics as well i.e. add finer tagging
+  * Business
+    * IndieHacker(tagged already)
+    * Produchunt(tagged already)
+  * For v2:
+    * Stackoverflow?
+    * Jobs
+      * Leetcode-articles?(tagged already)
+      * gfg?
+* [x] **Subscriptionn Plans**
+  * Plan1($5 pm): Any 3 topics
+  * Plan2($10 pm): All the topics
+* [@] Ranking logic:
+  * Sources:
+    * How HN & Reddit ranks: [medium.article](https://medium.com/jp-tech/how-are-popular-ranking-algorithms-such-as-reddit-and-hacker-news-working-724e639ed9f7) , [research_paper](https://arxiv.org/pdf/1501.07860.pdf)
+  * 1. Ranking subtopics in a topic: 
+    * => Could be only on the basis of number of (#items in subtopic)/(#items in topic)
+  * 2. Ranking items in a topic & subtopic
+    * Logic:
+      * ISSUE: newer posts have lower votes & comments => have to use log in ranking
+        * Why log10: The first 10 upvotes have the same weight as the next 100 upvotes which have the same weight as the next 1000 etc
+      * Have to give importance to both: #votes & #comments
+      * ISSUE: {HN, PH,IH} has upvote(&no downvotes), {reddit} has upvotes & downvotes ;how to rank theses 2 groups with a single formula??
+      * TODO: weight factor for each platform
+      * TODO: give more rank to recent(but low voted) posts???????? => "This is not what I need"
+      * TODO: I cant use any platform's(reddit,HN,IH etc) own rank as "this is not what I need"
+    * References(read them all and make accordingly):
+      * How reddit scores [article](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
+      * Wilson score: [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+        * its [code](https://gist.github.com/amix/8d14ff0a920d5c15738a)
+      * ranking platforms relatively: [weighted_means](https://stackoverflow.com/questions/3934579/algorithm-to-determine-most-popular-article-last-week-month-and-year)
+      * very nice & relatable strackexchange problem: [here](https://softwareengineering.stackexchange.com/questions/229622/coming-up-with-a-valid-ranking-algorithm-for-articles)
+      * Lengthy article: [Implementing Real-Time Trending Topics with a Distributed Rolling Count Algorithm in Storm](https://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/)
+      * z-scores to get the trending topics [stackoverflow](https://stackoverflow.com/questions/787496/what-is-the-best-way-to-compute-trending-topics-or-tags)
+      * Indiehacker's formula [article](https://medium.com/@catsarebetter98/how-i-hacked-indiehackers-and-google-seo-7d3861cd52b4)
+      * Quora's formula [here](https://www.quora.com/What-is-Quoras-algorithm-formula-for-determining-the-ordering-ranking-of-answers-on-a-question?no_redirect=1)
+      * reddits scoring [code](https://github.com/reddit-archive/reddit/blob/8af415476bcbecc6729c20ada7fcd1d041495140/r2/r2/lib/db/_sorts.pyx#L62)
+

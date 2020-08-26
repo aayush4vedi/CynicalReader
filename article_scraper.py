@@ -15,7 +15,13 @@ from nltk.stem import WordNetLemmatizer
 from bs4 import BeautifulSoup
 
 
-def contentfromhtml(html):
+def contentfromhtml(response):
+    """
+        get meaningful content from article page.Uses `readability` pkg
+    """
+
+    article = Document(response.text)
+    html = article.summary()
     soup = BeautifulSoup(html)
     # kill all script and style elements
     for script in soup(["script", "style"]):
@@ -28,7 +34,12 @@ def contentfromhtml(html):
     return text
 
 
-def weightedcontentfromhtml(html):
+def weightedcontentfromhtml(response):
+    """
+        get emphasised words from meaningful content from article page
+    """
+    article = Document(response.text)
+    html = article.summary()
     soup = BeautifulSoup(html)
     whitelist = [
         'h1',
@@ -47,6 +58,15 @@ def weightedcontentfromhtml(html):
     return weightedcontent
 
 def clean_text(text):
+    """Clean raw text using different methods :
+       1. tokenize text
+       2. lower text
+       3. remove punctuation
+       4. remove non-alphabetics char
+       5. remove stopwords
+       6. lemmatize
+    """
+    
     tokens = word_tokenize(text)
     tokens = [w.lower() for w in tokens]
     table = str.maketrans('', '', string.punctuation)
@@ -106,8 +126,8 @@ if __name__ == '__main__':
                         article = Document(response.text)
                         title = article.title()
                         rawcontent = article.summary()
-                        content = contentfromhtml(rawcontent)  
-                        weightedcontent = weightedcontentfromhtml(rawcontent)  
+                        content = contentfromhtml(response)  
+                        weightedcontent = weightedcontentfromhtml(response)  
                         line_count += 1
 
                         f = csv.writer(open(csv_dest_file, "a"))          
