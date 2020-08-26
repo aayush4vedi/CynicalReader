@@ -1,0 +1,1226 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,lisp,Lisp programming,A Simple Constraint Programming Implementation,https://bor0.wordpress.com/2020/08/22/a-simple-constraint-programming-implementation/
+2,Lobsters,lisp,Lisp programming,Rebuilding Racket on Chez Scheme Experience Report (2019),https://www.youtube.com/watch?v=s3Q3M2wZ7rI
+3,Lobsters,lisp,Lisp programming,STklos 1.50 released,https://stklos.net/index.html
+4,Lobsters,lisp,Lisp programming,"A Review of Paul Graham's Bel, Chris Granger's Eve, and a Silly VR Rant",https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32
+5,Lobsters,lisp,Lisp programming,Urn: A Lisp implementation for Lua,https://urn-lang.com/
+6,Lobsters,lisp,Lisp programming,Interlisp: restoring the Interlisp-D Medley computing environment to usability on modern OSes,https://interlisp.org/
+7,Lobsters,lisp,Lisp programming,Racket v7.8,https://blog.racket-lang.org/2020/08/racket-v7-8.html
+8,Lobsters,lisp,Lisp programming,Lisp Quickstart,https://cs.gmu.edu/~sean/lisp/LispTutorial.html
+9,Lobsters,lisp,Lisp programming,OCellator: a lispy synth language with structural editor,http://kevinmahoney.co.uk/ocellator/
+10,Lobsters,lisp,Lisp programming,A curious case of rational to flonum conversion,http://blog.practical-scheme.net/gauche/20200722-ratnum-flonum
+11,Lobsters,lisp,Lisp programming,Interface Builder's Alternative Lisp timeline,https://paulhammant.com/2013/03/28/interface-builders-alternative-lisp-timeline/
+12,Lobsters,lisp,Lisp programming,Mezzano (Common Lisp OS) releases Demo 5,https://github.com/froggey/Mezzano
+13,Lobsters,lisp,Lisp programming,cl-aristid: Draw Lindenmayer Systems with Common LISP,https://github.com/FdelMazo/cl-aristid
+14,Lobsters,lisp,Lisp programming,The Many Faces of an Undying Programming Language,http://jakob.space/blog/thoughts-on-lisps.html
+15,Lobsters,lisp,Lisp programming,The evolution of a Scheme programmer,https://erkin.party/blog/200715/evolution/
+16,Lobsters,lisp,Lisp programming,Google Common Lisp Style Guide,https://google.github.io/styleguide/lispguide.xml
+17,Lobsters,lisp,Lisp programming,MIT CADR Lisp Machine Emulation,http://www.unlambda.com/lisp/cadr.page
+18,Lobsters,lisp,Lisp programming,Making the Fennel compiler self-hosting with another compiler,https://technomancy.us/192
+19,Lobsters,lisp,Lisp programming,Deploying Racket Web Apps,https://defn.io/2020/06/28/racket-deployment/
+20,Lobsters,lisp,Lisp programming,JScheme: Scheme implemented in Java,http://norvig.com/jscheme.html
+21,Lobsters,lisp,Lisp programming,Translucent Procedures: Abstraction without Opacity (1993),https://apps.dtic.mil/sti/pdfs/ADA276877.pdf
+22,Lobsters,lisp,Lisp programming,Game Development With Fennel And Löve,https://beta7.io/posts/game-development-with-fennel-and-love.html
+23,Lobsters,lisp,Lisp programming,robpike/lisp,https://github.com/robpike/lisp
+24,Lobsters,lisp,Lisp programming,Guix Further Reduces Bootstrap Seed to 25%,https://guix.gnu.org/blog/2020/guix-further-reduces-bootstrap-seed-to-25/
+25,Lobsters,lisp,Lisp programming,Gambit Scheme: Inside Out (2010),http://www.iro.umontreal.ca/~gambit/Gambit-inside-out.pdf
+26,Lobsters,lisp,Lisp programming,A Simple Constraint Programming Implementation,https://bor0.wordpress.com/2020/08/22/a-simple-constraint-programming-implementation/
+27,Lobsters,lisp,Lisp programming,Rebuilding Racket on Chez Scheme Experience Report (2019),https://www.youtube.com/watch?v=s3Q3M2wZ7rI
+28,Lobsters,lisp,Lisp programming,STklos 1.50 released,https://stklos.net/index.html
+29,Lobsters,lisp,Lisp programming,"A Review of Paul Graham's Bel, Chris Granger's Eve, and a Silly VR Rant",https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32
+30,Lobsters,lisp,Lisp programming,Urn: A Lisp implementation for Lua,https://urn-lang.com/
+31,Lobsters,lisp,Lisp programming,Interlisp: restoring the Interlisp-D Medley computing environment to usability on modern OSes,https://interlisp.org/
+32,Lobsters,lisp,Lisp programming,Racket v7.8,https://blog.racket-lang.org/2020/08/racket-v7-8.html
+33,Lobsters,lisp,Lisp programming,Lisp Quickstart,https://cs.gmu.edu/~sean/lisp/LispTutorial.html
+34,Lobsters,lisp,Lisp programming,OCellator: a lispy synth language with structural editor,http://kevinmahoney.co.uk/ocellator/
+35,Lobsters,lisp,Lisp programming,A curious case of rational to flonum conversion,http://blog.practical-scheme.net/gauche/20200722-ratnum-flonum
+36,Lobsters,lisp,Lisp programming,Interface Builder's Alternative Lisp timeline,https://paulhammant.com/2013/03/28/interface-builders-alternative-lisp-timeline/
+37,Lobsters,lisp,Lisp programming,Mezzano (Common Lisp OS) releases Demo 5,https://github.com/froggey/Mezzano
+38,Lobsters,lisp,Lisp programming,cl-aristid: Draw Lindenmayer Systems with Common LISP,https://github.com/FdelMazo/cl-aristid
+39,Lobsters,lisp,Lisp programming,The Many Faces of an Undying Programming Language,http://jakob.space/blog/thoughts-on-lisps.html
+40,Lobsters,lisp,Lisp programming,The evolution of a Scheme programmer,https://erkin.party/blog/200715/evolution/
+41,Lobsters,lisp,Lisp programming,Google Common Lisp Style Guide,https://google.github.io/styleguide/lispguide.xml
+42,Lobsters,lisp,Lisp programming,MIT CADR Lisp Machine Emulation,http://www.unlambda.com/lisp/cadr.page
+43,Lobsters,lisp,Lisp programming,Making the Fennel compiler self-hosting with another compiler,https://technomancy.us/192
+44,Lobsters,lisp,Lisp programming,Deploying Racket Web Apps,https://defn.io/2020/06/28/racket-deployment/
+45,Lobsters,lisp,Lisp programming,JScheme: Scheme implemented in Java,http://norvig.com/jscheme.html
+46,Lobsters,lisp,Lisp programming,Translucent Procedures: Abstraction without Opacity (1993),https://apps.dtic.mil/sti/pdfs/ADA276877.pdf
+47,Lobsters,lisp,Lisp programming,Game Development With Fennel And Löve,https://beta7.io/posts/game-development-with-fennel-and-love.html
+48,Lobsters,lisp,Lisp programming,robpike/lisp,https://github.com/robpike/lisp
+49,Lobsters,lisp,Lisp programming,Guix Further Reduces Bootstrap Seed to 25%,https://guix.gnu.org/blog/2020/guix-further-reduces-bootstrap-seed-to-25/
+50,Lobsters,lisp,Lisp programming,Gambit Scheme: Inside Out (2010),http://www.iro.umontreal.ca/~gambit/Gambit-inside-out.pdf
+51,Lobsters,lisp,Lisp programming,The LISP 2 Project,https://mcjones.org/dustydecks/archives/2018/01/31/981/
+52,Lobsters,lisp,Lisp programming,Gerald Jay Sussman & Chris Hanson: Adventures In Advanced Symbolic Programming,https://archive.org/details/adventures-in-advanced-symbolic-programming
+53,Lobsters,lisp,Lisp programming,Cells in PicoLisp [tutorial],https://www.mail-archive.com/picolisp@software-lab.de/msg09857.html
+54,Lobsters,lisp,Lisp programming,A History of Clojure,https://clojure.org/about/history
+55,Lobsters,lisp,Lisp programming,Bintracker · A Chiptune Audio Workstation for the 21st Century,https://bintracker.org/
+56,Lobsters,lisp,Lisp programming,A baseline compiler for guile,http://wingolog.org/archives/2020/06/03/a-baseline-compiler-for-guile
+57,Lobsters,lisp,Lisp programming,PLDI 2020,https://pldi20.sigplan.org
+58,Lobsters,lisp,Lisp programming,Markdown View using the Racket editor%,https://alex-hhh.github.io/2020/05/markdown-view.html
+59,Lobsters,lisp,Lisp programming,Using Fennel to configure Hammerspon,https://github.com/dcreemer/dotfiles/tree/master/.hammerspoon
+60,Lobsters,lisp,Lisp programming,Interactive Lua development with Fennel (2018),https://technomancy.us/189
+61,Lobsters,lisp,Lisp programming,Toying with gemini,https://andregarzia.com/2020/05/toying-with-gemini.html
+62,Lobsters,lisp,Lisp programming,A tiny language called Z,https://chrisdone.com/posts/z/
+63,Lobsters,lisp,Lisp programming,LambdaNative: Build mobile and embedded apps in Scheme,http://www.lambdanative.org/
+64,Lobsters,lisp,Lisp programming,Why is Idris 2 so much faster than Idris 1?,https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html
+65,Lobsters,lisp,Lisp programming,Neut - A dependently-typed programming language with static memory management,https://github.com/u2zv1wx/neut
+66,Lobsters,lisp,Lisp programming,Array languages for Clojurians,http://www.appliedscience.studio/articles/array-programming-for-clojurists.html
+67,Lobsters,lisp,Lisp programming,Learn Emacs Lisp in 15 minutes,https://bzg.fr/en/learn-emacs-lisp-in-15-minutes.html/
+68,Lobsters,lisp,Lisp programming,Petalisp: A HPC library for Lisp,https://github.com/marcoheisig/Petalisp
+69,Lobsters,lisp,Lisp programming,Ask HN: Production Lisp in 2020?,https://news.ycombinator.com/item?id=23231701
+70,Lobsters,lisp,Lisp programming,(call/cc this-class),https://pavpanchekha.com/esp/continuations.html
+71,Lobsters,lisp,Lisp programming,Reading Lisp code: parentheses and indentation,https://nl.movim.eu/?blog/phoe%40movim.eu/cd3577f6-fb1d-45f5-b881-7b9a68ee822e
+72,Lobsters,lisp,Lisp programming,Ronin: a Lisp-based image processing tool,https://100r.co/site/ronin.html
+73,Lobsters,lisp,Lisp programming,Racket Stories,https://racket-stories.com/
+74,Lobsters,lisp,Lisp programming,Quasiquote - Literal Magic,https://weinholt.se/articles/quasiquote-literal-magic/
+75,Lobsters,lisp,Lisp programming,pontiff: a haskell-style build system for chicken scheme,https://github.com/sylphbio/pontiff
+76,Lobsters,lisp,Lisp programming,Today I Realized that to live reload my Lisp web app is straightforward and so convenient,https://lisp-journey.gitlab.io/blog/i-realized-that-to-live-reload-my-web-app-is-easy-and-convenient/
+77,Lobsters,lisp,Lisp programming,"Gerbil on Gambit, as they say Racket on Chez (2017)",https://www.youtube.com/watch?v=C3rzbs_8gNc
+78,Lobsters,lisp,Lisp programming,The Guaranteed Optimization Clause of the Macro-Writer's Bill of Rights,https://www.youtube.com/watch?v=LIEX3tUliHw
+79,Lobsters,lisp,Lisp programming,Gerbil Scheme,https://cons.io/
+80,Lobsters,lisp,Lisp programming,Continuations in Racket's Web Server,https://defn.io/2020/05/11/racket-web-server-internals/
+81,Lobsters,lisp,Lisp programming,Racket is 25,https://blog.racket-lang.org/2020/05/racket-is-25.html
+82,Lobsters,lisp,Lisp programming,A Scheme of Gerbils Runnin' in a Wheel,https://mdhughes.tech/2019/09/29/a-scheme-of-gerbils-runnin-in-a-wheel/
+83,Lobsters,lisp,Lisp programming,Why is Lisp not as popular as Python?,https://www.quora.com/Why-is-Lisp-not-as-popular-as-Python
+84,Lobsters,lisp,Lisp programming,Lisp in Vim with Slimv or Vlime,https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime/
+85,Lobsters,lisp,Lisp programming,Check for borrows in bitwise operations,https://www.pvk.ca/Blog/2020/05/02/check-for-borrows-in-bitwise-operations/
+86,Lobsters,lisp,Lisp programming,I’ve Consed Every Pair,https://medium.com/@peternorvig/ive-consed-every-pair-54ef5d9d93b6
+87,Lobsters,lisp,Lisp programming,"""Bringing GNU Emacs to Native Code"" at the European Lisp Symposium",https://lists.gnu.org/archive/html/emacs-devel/2020-04/msg01850.html
+88,Lobsters,lisp,Lisp programming,Internals of Zabavno the x86 emulator,https://weinholt.se/articles/zabavno-pc-emulator/
+89,Lobsters,lisp,Lisp programming,A janet web framework,https://github.com/joy-framework/joy
+90,Lobsters,lisp,Lisp programming,Puny GUI Puppy Finder,https://ahungry.com/blog/2020-04-24-Puny-GUI-Puppy-Finder.html
+91,Lobsters,lisp,Lisp programming,What's the best functional language to learn over the next 30 days?,/s/hf3y19/what_s_best_functional_language_learn
+92,Lobsters,lisp,Lisp programming,Device Drivers in Loko Scheme,https://weinholt.se/articles/drivers-loko-scheme/
+93,Lobsters,lisp,Lisp programming,Why i chose PicoLisp as main language for my projects,https://www.mail-archive.com/picolisp@software-lab.de/msg09621.html
+94,Lobsters,lisp,Lisp programming,"Continuation-Passing Style, and why JavaScript developers might be interested in it (2007)",https://marijnhaverbeke.nl/cps/
+95,Lobsters,lisp,Lisp programming,Programming Algorithms with code examples in Lisp,https://leanpub.com/progalgs/read
+96,Lobsters,lisp,Lisp programming,"Programming Algorithms Book - data structures, algorithms, tools, real-world considerations & Lisp",https://leanpub.com/progalgs
+97,Lobsters,lisp,Lisp programming,Racket News - Issue 29,https://racket-news.com/2020/04/racket-news-issue-29.html
+98,Lobsters,lisp,Lisp programming,Pastebin or ix.io service on PicoLisp,https://git.envs.net/mpech/skudra
+99,Lobsters,lisp,Lisp programming,"Adams – Ansible killer, written in Common Lisp was released today",https://github.com/cl-adams/adams
+100,Lobsters,lisp,Lisp programming,The Kawa Scheme language,https://www.gnu.org/software/kawa/index.html
+101,Lobsters,lisp,Lisp programming,Scheme from Scratch,http://peter.michaux.ca/articles/scheme-from-scratch-introduction
+102,Lobsters,lisp,Lisp programming,Understanding the Power of LISP,https://joshbradley.me/understanding-the-power-of-lisp/
+103,Lobsters,lisp,Lisp programming,The predecessor function for Church Numerals in the Lambda Calculus,http://gregfjohnson.com/pred/
+104,Lobsters,lisp,Lisp programming,"At Home With Josh, Part 2: Lambda Cleaning and Inspection",https://engblg.livingcomputers.org/index.php/2020/04/02/at-home-with-josh-part-2-lambda-cleaning-and-inspection/
+105,Lobsters,lisp,Lisp programming,Common Lisp to JavaScript compiler,https://github.com/cxxxr/valtan
+106,Lobsters,lisp,Lisp programming,Restarts in Common Lisp,https://sulami.github.io/posts/common-lisp-restarts/
+107,Lobsters,lisp,Lisp programming,"GUI toolkits for Common Lisp: Tk, Qt4, Gtk3, IUP, Nuklear - the CL Cookbook",https://lispcookbook.github.io/cl-cookbook/gui.html
+108,Lobsters,lisp,Lisp programming,uLisp - Sipeed Maixduino RISC-V board,http://www.ulisp.com/show?30X8
+109,Lobsters,lisp,Lisp programming,Advanced Scheme: Some Naughty Bits,https://people.csail.mit.edu/jhbrown/scheme/
+110,Lobsters,lisp,Lisp programming,Testing a Web API using rackcheck,https://defn.io/2020/03/13/property-testing-api/
+111,Lobsters,lisp,Lisp programming,A Game of Tetris,https://alex-hhh.github.io/2020/03/a-game-of-tetris.html
+112,Lobsters,lisp,Lisp programming,LYSP - a traditional LISP interpreter in 150 LOC,https://www.piumarta.com/software/lysp/
+113,Lobsters,lisp,Lisp programming,Some History of Functional Programming Languages,http://www.lambdadays.org/static/upload/media/1487239321204160davidturner.pdf
+114,Lobsters,lisp,Lisp programming,Joy - a Janet web framework,https://joyframework.com/
+115,Lobsters,lisp,Lisp programming,How to Create a Pollen Markup Alternative in 61 Lines,https://sagegerard.com/making-powerful-racket-markup.html
+116,Lobsters,lisp,Lisp programming,State of Common Lisp Survey 2020,https://forms.gle/Gr1i8NP9m2eLJeYR6
+117,Lobsters,lisp,Lisp programming,"Modern, functional Common Lisp: Myths and best practices",https://ambrevar.xyz/modern-common-lisp/index.html
+118,Lobsters,lisp,Lisp programming,"A Ruby implementation of, and toolchain for, the Bel LISP",https://github.com/cookrn/babybel
+119,Lobsters,lisp,Lisp programming,Racket-on-Chez Status: February 2020,https://blog.racket-lang.org/2020/02/racket-on-chez-status.html
+120,Lobsters,lisp,Lisp programming,Racket v7.6,https://blog.racket-lang.org/2020/02/racket-v7-6.html
+121,Lobsters,lisp,Lisp programming,Mezzano: An operating system written in Common Lisp,https://github.com/froggey/Mezzano
+122,Lobsters,lisp,Lisp programming,The Missing Guide to Racket's Web Server,https://defn.io/2020/02/12/racket-web-server-guide/
+123,Lobsters,lisp,Lisp programming,Manga Guide to Lisp,http://lambda.bugyo.tk/cdr/mwl/
+124,Lobsters,lisp,Lisp programming,Scheme fatigue,https://hyper.dev/blog/yet-another-scheme.html
+125,Lobsters,lisp,Lisp programming,Guile 3 & Guix,https://guix.gnu.org/blog/2020/guile-3-and-guix/
+126,Lobsters,lisp,Lisp programming,Dependent type systems as macros,https://dl.acm.org/doi/pdf/10.1145/3371071
+127,Lobsters,lisp,Lisp programming,"Time travel debugging in Spritely Goblins, previewed through Terminal Phase",https://dustycloud.org/blog/goblins-time-travel-micropreview/
+128,Lobsters,lisp,Lisp programming,Why GNU Guix matters,https://ambrevar.xyz/guix-matters/index.html
+129,Lobsters,lisp,Lisp programming,GNU Guile 3.0.0 released with JIT,https://www.gnu.org/software/guile/news/gnu-guile-300-released.html
+130,Lobsters,lisp,Lisp programming,Cracking the Agrippa Code (1992),https://www.robertxiao.ca/hacking/agrippa/
+131,Lobsters,lisp,Lisp programming,GNU Guile 2.9.9 Released,https://lists.gnu.org/archive/html/guile-devel/2020-01/msg00047.html
+132,Lobsters,lisp,Lisp programming,Cons cells vs. Linked Lists,http://funcall.blogspot.com/2020/01/cons-cells-vs-linked-lists.html
+133,Lobsters,lisp,Lisp programming,Emacs Lisp Animations,http://dantorop.info/project/emacs-animation/
+134,Lobsters,lisp,Lisp programming,R7RS versus R6RS,https://weinholt.se/articles/r7rs-vs-r6rs/
+135,Lobsters,lisp,Lisp programming,Year 2019 in review,https://racket-news.com/2020/01/racket-news-issue-23.html
+136,Lobsters,lisp,Lisp programming,Running Racket on iOS,https://defn.io/2020/01/05/racket-on-ios/
+137,Lobsters,lisp,Lisp programming,Native Applications with Racket,https://defn.io/2020/01/04/remember-internals/
+138,Lobsters,lisp,Lisp programming,Remember: Stash distractions for later,https://github.com/bogdanp/remember
+139,Lobsters,lisp,Lisp programming,Lisp in TRS-80 BASIC,https://m.facebook.com/story.php?story_fbid=10157953582457370&id=780707369
+140,Lobsters,lisp,Lisp programming,python is like lisp,https://nks.sh/j/2019-10-05.html
+141,Lobsters,lisp,Lisp programming,PicoLisp conf 2020,https://www.mail-archive.com/picolisp@software-lab.de/msg09333.html
+142,Lobsters,lisp,Lisp programming,Why Functional Programming,https://www.towardssoftware.com/blog#blog26
+143,Lobsters,lisp,Lisp programming,Efficient Alias of a Built-In Emacs Lisp Function,https://nullprogram.com/blog/2019/12/10/
+144,Lobsters,lisp,Lisp programming,Working with letsencrypt’s certbot for a Lisp webserver,https://lispblog.xach.com/post/189499356038/working-with-letsencrypts-certbot-for-a-lisp
+145,Lobsters,lisp,Lisp programming,`MOST-POSITIVE-BIGNUM`: The Biggest Bignum in TI Lisp Machines (2008),https://www.jwz.org/blog/2008/03/most-positive-bignum/
+146,Lobsters,lisp,Lisp programming,"If It Works, It’s Not AI: A Commercial Look at Artificial Intelligence Startups (1999)",https://web.archive.org/web/20110629172854/http://www.sts.tu-harburg.de/~r.f.moeller/symbolics-info/ai-business.pdf
+147,Lobsters,lisp,Lisp programming,‎gccemacs,http://akrl.sdf.org/gccemacs.html
+148,Lobsters,lisp,Lisp programming,SchemeMosaic Chop'n'Screw How-To Videos,http://www.youtube.com/playlist?list=PL0nuOl15T_6X0YL6mMBfm8zBSTmDpaRxh
+149,Lobsters,lisp,Lisp programming,Racket v7.5,https://blog.racket-lang.org/2019/11/racket-v7-5.html
+150,Lobsters,lisp,Lisp programming,Completing Racket's relicensing effort,https://blog.racket-lang.org/2019/11/completing-racket-s-relicensing-effort.html
+151,Lobsters,lisp,Lisp programming,I Built This Website Using Racket. Here's What I Can Do Now,https://sagegerard.com/racket-powered.html
+152,Lobsters,lisp,Lisp programming,Beating C with Common Lisp,http://verisimilitudes.net/2019-11-12
+153,Lobsters,lisp,Lisp programming,Terminal Phase: building a space shooter that runs in your terminal (in Racket),https://dustycloud.org/blog/terminal-phase-prototype/
+154,Lobsters,lisp,Lisp programming,"Python VS Common Lisp, workflow and ecosystem",https://lisp-journey.gitlab.io/pythonvslisp/
+155,Lobsters,lisp,Lisp programming,LoCal: A Language for Programs Operating on Serialized Data,http://recurial.com/pldi19main.pdf
+156,Lobsters,lisp,Lisp programming,Managing Servers with GNU Guix: A Tutorial,https://guix.gnu.org/blog/2019/managing-servers-with-gnu-guix-a-tutorial/
+157,Lobsters,lisp,Lisp programming,pflanze/ruly - Lispy interpreter on Rust,https://github.com/pflanze/ruly
+158,Lobsters,lisp,Lisp programming,Guix Profiles in Practice,https://guix.gnu.org/blog/2019/guix-profiles-in-practice/
+159,Lobsters,lisp,Lisp programming,A Bestiary of Single-File Implementations of Programming Languages,https://github.com/marcpaq/b1fipl
+160,Lobsters,lisp,Lisp programming,arpilisp: a lisp interpreter for Raspberry Pi implemented in ARM assembly,https://github.com/marcpaq/arpilisp
+161,Lobsters,lisp,Lisp programming,uLisp Sensor Library,http://library.ulisp.com/
+162,Lobsters,lisp,Lisp programming,Attempting to use GNU Guix,https://zge.us.to/guix.html
+163,Lobsters,lisp,Lisp programming,Helm-SLY released,/s/u5rziw/helm_sly_released
+164,Lobsters,lisp,Lisp programming,Let Over Lambda - 50 Years of Lisp,https://letoverlambda.com/textmode.cl/guest/chap5.html
+165,Lobsters,lisp,Lisp programming,Racket Stories - Vote on everything Racket related,https://racket-stories.com
+166,Lobsters,lisp,Lisp programming,A simple incremental low-pause GC design,https://fanael.github.io/incremental-low-pause-gc.html
+167,Lobsters,lisp,Lisp programming,Bel: a new dialect of Lisp,http://paulgraham.com/bel.html
+168,Lobsters,lisp,Lisp programming,Guix Reduces Bootstrap Seed by 50%,https://guix.gnu.org/blog/2019/guix-reduces-bootstrap-seed-by-50/
+169,Lobsters,lisp,Lisp programming,Visualizing Abstract Abstract Machines,http://kyleheadley.github.io/PHDWebsite/2019-headley-aamviz-scheme-submit.pdf
+170,Lobsters,lisp,Lisp programming,SchemeBBS,https://textboard.org/
+171,Lobsters,lisp,Lisp programming,Do you have a problem? Write a compiler,http://oleg.fi/gists/posts/2019-09-26-write-a-compiler.html
+172,Lobsters,lisp,Lisp programming,#Script Lisp,https://sharpscript.net/lisp/
+173,Lobsters,lisp,Lisp programming,Akku.scm - Scheme package manager,https://akkuscm.org/
+174,Lobsters,lisp,Lisp programming,A New R6RS Scheme Compiler,https://weinholt.se/articles/new-r6rs-compiler/
+175,Lobsters,lisp,Lisp programming,April: An APL subset embedded in common lisp,https://github.com/phantomics/april
+176,Lobsters,lisp,Lisp programming,SBCL 20: Steel Bank Common Lisp's 20th Anniversary Workshop,http://www.sbcl.org/sbcl20/
+177,Lobsters,lisp,Lisp programming,"Next browser 1.3.2: Hooks, file manager and clipboard ring",https://next.atlas.engineer/article/release-1.3.2.org
+178,Lobsters,lisp,Lisp programming,"""What Remains"" Technical Breakdown",http://www.dustmop.io/blog/2019/09/10/what-remains-technical-breakdown/
+179,Lobsters,lisp,Lisp programming,Rash shell: From Reckless Interactions to Reliable Programs,http://willghatch.net/publications/rash-gpce-2018-preprint.pdf
+180,Lobsters,lisp,Lisp programming,Interactive Maps in the DrRacket REPL,https://alex-hhh.github.io/2019/09/map-snip.html
+181,Lobsters,lisp,Lisp programming,Generators from Scratch,https://defn.io/2019/09/05/racket-generators/
+182,Lobsters,lisp,Lisp programming,Next browser 1.3.1: improved minibuffer and platform support,https://next.atlas.engineer/article/next-release-1.3.1.org
+183,Lobsters,lisp,Lisp programming,Flight Simulator in PicoLisp,https://youtu.be/D9HPq0fMVhw
+184,Lobsters,lisp,Lisp programming,"Typed Lisp, A Primer",https://alhassy.github.io/TypedLisp/
+185,Lobsters,lisp,Lisp programming,check collisions djb2 vs. xxhash32,https://git.envs.net/mpech/tankf33der/src/branch/master/collisions
+186,Lobsters,lisp,Lisp programming,Racket for e-commerce,https://defn.io/2019/08/20/racket-ecommerce/
+187,Lobsters,lisp,Lisp programming,The Stumpwm Experience (2007),https://www.youtube.com/watch?v=tKt_rVO960Q
+188,Lobsters,lisp,Lisp programming,PicoLisp compilation benchmark,https://picolisp.com/wiki/?compilationbenchmark
+189,Lobsters,lisp,Lisp programming,Extempore,https://extemporelang.github.io/
+190,Lobsters,lisp,Lisp programming,Visible Lisp Computer,http://www.technoblogy.com/show?2ODQ
+191,Lobsters,lisp,Lisp programming,julia,https://jott.live/markdown/julia
+192,Lobsters,lisp,Lisp programming,platform.sh now offers a SBCL common lisp target,https://platform.sh/blog/2019/lisp/
+193,Lobsters,lisp,Lisp programming,Racket v7.4,http://blog.racket-lang.org/2019/08/racket-v7-4.html
+194,Lobsters,lisp,Lisp programming,I Hate Racket - Why We Should Teach Python instead of Racket (at least here),https://acbart.github.io/ihateracket.com/
+195,Lobsters,lisp,Lisp programming,Next browser 1.3.0 - the programmable web browser,https://github.com/atlas-engineer/next/
+196,Lobsters,lisp,Lisp programming,Hy: A dialect of Lisp that's embedded in Python,https://github.com/hylang/hy
+197,Lobsters,lisp,Lisp programming,PROLOG Control in Six Slides,http://www.t3x.org/bits/prolog6.html
+198,Lobsters,lisp,Lisp programming,Ray tracing with uLisp,http://www.ulisp.com/show?2NWA
+199,Lobsters,lisp,Lisp programming,Common Lisp voxel game engine designed for live editing,https://github.com/gmasching/sucle
+200,Lobsters,lisp,Lisp programming,Are first class continuations a language-design dead end?,https://rain-1.github.io/scheme-continuations.html
+201,Lobsters,lisp,Lisp programming,"Toski: Scheme IDE with ""preview execution""",https://kennethfriedman.org/projects/toski/
+202,Lobsters,lisp,Lisp programming,Racket2 possibilities,https://groups.google.com/forum/#!topic/racket-users/HiC7z3A5O-k
+203,Lobsters,lisp,Lisp programming,A Road to Common Lisp,http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/#consequences
+204,Lobsters,lisp,Lisp programming,deta: a database mapper for Racket,https://deta.defn.io/
+205,Lobsters,lisp,Lisp programming,Fructure structural editor presentation from RacketCon,https://youtu.be/xSjk2PdQm5k?t=25639
+206,Lobsters,lisp,Lisp programming,Racket News - Issue 12,https://racket-news.com/2019/07/racket-news-issue-12.html
+207,Lobsters,lisp,Lisp programming,Removing the 2’s from Trinary Notation is a Terrible Idea,https://medium.com/@breckyunits/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665
+208,Lobsters,lisp,Lisp programming,Towards Guix for DevOps,https://www.gnu.org/software/guix/blog/2019/towards-guix-for-devops/
+209,Lobsters,lisp,Lisp programming,A Security Kernel Based on the Lambda Calculus,http://mumble.net/~jar/pubs/secureos/secureos.html
+210,Lobsters,lisp,Lisp programming,Racket is an acceptable Python,https://dustycloud.org/blog/racket-is-an-acceptable-python/
+211,Lobsters,lisp,Lisp programming,Why Lisp Failed (2008),https://locklessinc.com/articles/why_lisp_failed/
+212,Lobsters,lisp,Lisp programming,A Snake Game in Racket,https://github.com/bogdanp/hebi
+213,Lobsters,lisp,Lisp programming,Racket vs. Clojure,http://programming-puzzler.blogspot.com/2010/08/racket-vs-clojure.html
+214,Lobsters,lisp,Lisp programming,Oral History of John McCarthy (2007),https://www.youtube.com/watch?v=KuU82i3hi8c
+215,Lobsters,lisp,Lisp programming,Ale is a Lisp-1 for Go runtime,https://www.ale-lang.org/
+216,Lobsters,lisp,Lisp programming,Systems easily understandable by one person,https://medium.com/@kori/systems-easily-understandable-by-one-person-f92e8613e2e
+217,Lobsters,lisp,Lisp programming,A demo of Xlambda: A window manager extendable in Scheme,https://www.youtube.com/watch?v=PyXzosc0iVc
+218,Lobsters,lisp,Lisp programming,Racket News - Issue 11,https://racket-news.com/2019/07/racket-news-issue-11.html
+219,Lobsters,lisp,Lisp programming,Xlambda V1 released: A Window manager extensible in Guile Scheme,https://github.com/kori/Xlambda
+220,Lobsters,lisp,Lisp programming,"fibs, lies, and benchmarks",https://wingolog.org/archives/2019/06/26/fibs-lies-and-benchmarks
+221,Lobsters,lisp,Lisp programming,Libre Lounge episode about Guix with Ludovic Courtès,https://librelounge.org/episodes/episode-23-guix-with-ludovic-court%C3%A8s.html
+222,Lobsters,lisp,Lisp programming,SLY is a fork of SLIME,https://github.com/joaotavora/sly
+223,Lobsters,lisp,Lisp programming,Arc and Scheme in Emacs Lisp,https://repl.it/repls/UnluckySturdyCharactercode
+224,Lobsters,lisp,Lisp programming,Summer Racketfest 2019,https://racketfest.com/
+225,Lobsters,lisp,Lisp programming,Racket vs. Common Lisp - which should I learn?,/s/xjltzq/racket_vs_common_lisp_which_should_i_learn
+226,Lobsters,lisp,Lisp programming,racket/gui saves the day,https://defn.io/2019/06/17/racket-gui-saves/
+227,Lobsters,lisp,Lisp programming,Presenting the Eshell,http://www.howardism.org/Technical/Emacs/eshell-present.html
+228,Lobsters,lisp,Lisp programming,"20 more years of bootstrapping: SBCL – past, present, future",https://european-lisp-symposium.org/static/2019/rhodes.pdf
+229,Lobsters,lisp,Lisp programming,Racket News - Issue 10,https://racket-news.com/2019/06/racket-news-issue-10.html
+230,Lobsters,lisp,Lisp programming,Xsmith: A racket library and DSL for fuzz testing compilers and interpreters,https://docs.racket-lang.org/xsmith/index.html
+231,Lobsters,lisp,Lisp programming,The SHUT-IT-DOWN Common Lisp Library,http://verisimilitudes.net/2017-12-30
+232,Lobsters,lisp,Lisp programming,marionette: control Firefox from Racket,https://github.com/Bogdanp/marionette
+233,Lobsters,lisp,Lisp programming,JSON in Janet Shell,https://acha.ninja/blog/json-in-janet-shell/
+234,Lobsters,lisp,Lisp programming,Racket News - Issue 9,https://racket-news.com/2019/06/racket-news-issue-9.html
+235,Lobsters,lisp,Lisp programming,Lambda -- The Ultimate Political Party,https://nhplace.com/kent/PS/Lambda.html
+236,Lobsters,lisp,Lisp programming,Multilisp: A Language for Concurrent Symbolic Computation (1985),http://pages.cs.wisc.edu/~fischer/cs538.f04/multilisp.pdf
+237,Lobsters,lisp,Lisp programming,LISP System Implementation,http://www.t3x.org/lsi/index.html
+238,Lobsters,lisp,Lisp programming,Parenthetically Speaking (With Kent M. Pittman),https://nhplace.com/kent/PS/About-PS.html
+239,Lobsters,lisp,Lisp programming,Start With Just a Few Things: Thinking in Lisp,https://maxhallinan.com/posts/2019/05/30/start-with-just-a-few-things/
+240,Lobsters,lisp,Lisp programming,Equal Rights for Functional Objects (1993),http://home.pipeline.com/~hbaker1/ObjectIdentity.html
+241,Lobsters,lisp,Lisp programming,GNU Guix 1.0.1 released,https://gnu.org/software/guix/blog/2019/gnu-guix-1.0.1-released/
+242,Lobsters,lisp,Lisp programming,Racket v7.3,http://blog.racket-lang.org/2019/05/racket-v7-3.html
+243,Lobsters,lisp,Lisp programming,So you want to write an lp solver (2013),https://www.pvk.ca/Blog/2013/12/19/so-you-want-to-write-an-lp-solver/
+244,Lobsters,lisp,Lisp programming,Numpy implementation in Common Lisp,https://github.com/numcl/numcl
+245,Lobsters,lisp,Lisp programming,Janet 0.5.0,https://github.com/janet-lang/janet/releases
+246,Lobsters,lisp,Lisp programming,Risp - Lisp in Rust,https://m.stopa.io/risp-lisp-in-rust-90a0dad5b116
+247,Lobsters,lisp,Lisp programming,Racket News - Issue 7,https://racket-news.com/2019/05/racket-news-issue-7.html
+248,Lobsters,lisp,Lisp programming,RacketCon 2019 Speakers Announced,https://con.racket-lang.org/
+249,Lobsters,lisp,Lisp programming,A Hacker's Introduction to Partial Evaluation,http://cybertiggyr.com/peval.html
+250,Lobsters,lisp,Lisp programming,Meta-Circular Adventures in Functional Abstraction (2014),https://web.archive.org/web/20160609222905/https://chriskohlhepp.wordpress.com/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/
+251,Lobsters,lisp,Lisp programming,GNU Shepherd 0.6.0 released,http://lists.gnu.org/archive/html/info-gnu/2019-04/msg00006.html
+252,Lobsters,lisp,Lisp programming,An experimental blog written in Pollen / Racket,https://github.com/otherjoel/thenotepad
+253,Lobsters,lisp,Lisp programming,Fairylog – Program FPGAs in Racket,http://pinksquirrellabs.com/blog/2019/04/17/fairylog/
+254,Lobsters,lisp,Lisp programming,Defeating Racket’s separate compilation guarantee,http://lexi-lambda.github.io/blog/2019/04/21/defeating-racket-s-separate-compilation-guarantee/
+255,Lobsters,lisp,Lisp programming,Static type checking in the programmable programming language,https://medium.com/@MartinCracauer/static-type-checking-in-the-programmable-programming-language-lisp-79bb79eb068a
+256,Lobsters,lisp,Lisp programming,What is ZIL anyway?,http://blog.zarfhome.com/2019/04/what-is-zil-anyway.html
+257,Lobsters,lisp,Lisp programming,Continuations for Web Development,https://defn.io/2019/04/07/web-continuations/
+258,Lobsters,lisp,Lisp programming,Are you successful yet?,https://libranet.de/display/0b6b25a8-125c-a71f-c7ae-f1a686792961
+259,Lobsters,lisp,Lisp programming,Racket School 2019,https://school.racket-lang.org
+260,Lobsters,lisp,Lisp programming,Why language-oriented programming? Why Racket?,https://beautifulracket.com/appendix/why-lop-why-racket.html
+261,Lobsters,lisp,Lisp programming,Common Lispers List,https://common-lispers.hexstreamsoft.com/
+262,Lobsters,lisp,Lisp programming,I Built a Lisp Compiler,http://mpov.timmorgan.org/i-built-a-lisp-compiler
+263,Lobsters,lisp,Lisp programming,"Deep Learning from Scratch to GPU: The Backward Pass (CUDA, OpenCL, Nvidia, AMD, Intel)",https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-10-The-Backward-Pass-CDU-GPU-CUDA-OpenCL-Nvidia-AMD-Intel
+264,Lobsters,lisp,Lisp programming,The Symbolics Virtual Lisp Machine: or Using the DEC Alpha as a Programmable Micro-Engine,http://pt.withington.org/publications/VLM.pdf
+265,Lobsters,lisp,Lisp programming,An Async / Await Library for Emacs Lisp,https://nullprogram.com/blog/2019/03/10/
+266,Lobsters,lisp,Lisp programming,Kilo LISP: a purely symbolic LISP that fits in 64kb of memory,http://t3x.org/klisp/index.html
+267,Lobsters,lisp,Lisp programming,Common Lisp Brasil,https://lisp.com.br
+268,Lobsters,lisp,Lisp programming,Type Systems as Macros,http://www.ccs.neu.edu/home/stchang/popl2017/
+269,Lobsters,lisp,Lisp programming,Solene's percent %,https://dataswamp.org/~solene/
+270,Lobsters,lisp,Lisp programming,Lisp Hackers - Interviews with 100x More Productive Programmers,https://leanpub.com/lisphackers/read
+271,Lobsters,lisp,Lisp programming,Using Chez Scheme as a Shell,https://forum.hunterpraska.com/b/blog/5
+272,Lobsters,lisp,Lisp programming,The Grand SYMBOL-PLIST Treatise,http://blog.funcall.org/lisp/2016/03/01/grand-symbol-plist-treatise/
+273,Lobsters,lisp,Lisp programming,Lets LISP like it's 1959,https://www.youtube.com/watch?v=hGY3uBHVVr4
+274,Lobsters,lisp,Lisp programming,Elisp Cheet Sheet,https://github.com/alhassy/ElispCheatSheet
+275,Lobsters,lisp,Lisp programming,Compiler Fundamentals: Closure Conversion,https://gist.github.com/rain-1/36c4851b7c29cf8e42f23ba6eec37be6
+276,Lobsters,lisp,Lisp programming,Cisp: A Common Lisp Interpreter Built in COBOL,https://github.com/lauryndbrown/Cisp
+277,Lobsters,lisp,Lisp programming,Lisp and the foundations of computing,https://lwn.net/Articles/778550/
+278,Lobsters,lisp,Lisp programming,Emacs Lisp List,http://www.damtp.cam.ac.uk/user/sje30/emacs/ell.html
+279,Lobsters,lisp,Lisp programming,The Bipolar Lisp Programmer (2007),http://www.marktarver.com/bipolar.html
+280,Lobsters,lisp,Lisp programming,Why Ruby is an acceptable LISP (2005),http://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/
+281,Lobsters,lisp,Lisp programming,McCarthy's Ambiguous Operator,http://www.randomhacks.net/2005/10/11/amb-operator/
+282,Lobsters,lisp,Lisp programming,Common Lisp Pitfalls,https://web.archive.org/web/20160927201527/http://www.aiai.ed.ac.uk/~jeff/lisp/cl-pitfalls
+283,Lobsters,lisp,Lisp programming,A Retrospective on PAIP,http://www.norvig.com/Lisp-retro.html
+284,Lobsters,lisp,Lisp programming,/l/place: Draw something. Invite your friends,https://www.laarc.io/l/place
+285,Lobsters,lisp,Lisp programming,the Fennel programming language,https://fennel-lang.org/
+286,Lobsters,lisp,Lisp programming,Racket v7.2,http://blog.racket-lang.org/2019/01/racket-v7-2.html
+287,Lobsters,lisp,Lisp programming,Racket-on-Chez Status: January 2019,http://blog.racket-lang.org/2019/01/racket-on-chez-status.html
+288,Lobsters,lisp,Lisp programming,Fennel 0.2.0 released,https://lists.sr.ht/~technomancy/fennel/%3CCAGokn9+4vudb9%3D4x+Q_%3D7qReggoPqjUCvA1_KV5FHdZ-WLBV8w%40mail.gmail.com%3E#%3C20190118010015.GA25324@calvin-p51.localdomain%3E
+289,Lobsters,lisp,Lisp programming,What could a visual Clojure/LISP editor be like?,https://www.youtube.com/watch?v=edQyRJyVsUg
+290,Lobsters,lisp,Lisp programming,Can we abstract control flow? Exploring Racket's shift and reset,https://kilotau.com/2019/01/15/can-we-abstract-control-flow.html
+291,Lobsters,lisp,Lisp programming,Guix: The most advanced operating system,https://ambrevar.xyz/guix-advance/index.html
+292,Lobsters,lisp,Lisp programming,CLClojure: An Experiment Port of Clojure to Common Lisp,https://github.com/joinr/clclojure
+293,Lobsters,lisp,Lisp programming,Simulation and Formal Verification of x86 Machine-Code Programs that make System Calls,https://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD14/proceedings/18_goel.pdf
+294,Lobsters,lisp,Lisp programming,Lisp Badge,http://www.technoblogy.com/show?2AEE
+295,Lobsters,lisp,Lisp programming,Writing `syntax-case` Macros,http://blog.racket-lang.org/2011/04/writing-syntax-case-macros.html
+296,Lobsters,lisp,Lisp programming,SRFI 110: Sweet-expressions (2013),https://srfi.schemers.org/srfi-110/srfi-110.html
+297,Lobsters,lisp,Lisp programming,Writing a natural language date and time parser,http://lisper.in/nlp-date-parser
+298,Lobsters,lisp,Lisp programming,McCLIM A powerful GUI toolkit for Common Lisp - progress report,https://common-lisp.net/project/mcclim/posts/Yule-progress-report.html
+299,Lobsters,lisp,Lisp programming,Notes on Structure and Interpretation of Computer Programs,https://lethain.com//notes-sicp/
+300,Lobsters,lisp,Lisp programming,Personal Notes on Corman Lisp 3.1 Release,https://chaoticlab.io/lisp/update/2018/12/30/corman-3-1-release.html
+301,Lobsters,lisp,Lisp programming,History of Lisp,http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+302,Lobsters,lisp,Lisp programming,Next browser 1.2.0 is out,https://www.reddit.com/r/emacs/comments/a954i7/next_browser_120_is_out/
+303,Lobsters,lisp,Lisp programming,Creating a (Non-Trivial) Lisp Game in 2018,https://defungames.com/2018/12/creating-a-non-trivial-lisp-game-in-2018/
+304,Lobsters,lisp,Lisp programming,Pattern Matching,https://docs.racket-lang.org/reference/match.html
+305,Lobsters,lisp,Lisp programming,Ruckus: Procedural CAD For Weirdos,https://docs.racket-lang.org/ruckus/index.html
+306,Lobsters,lisp,Lisp programming,Everyday Use of GNU Guix,https://www.gnu.org/software/guix/blog/2018/back-from-seagl-2018/
+307,Lobsters,lisp,Lisp programming,The ACUTE-TERMINAL-CONTROL Common Lisp Library,http://verisimilitudes.net/2018-04-04
+308,Lobsters,lisp,Lisp programming,Perchance to Scheme (2016),https://hardmath123.github.io/perchance-to-scheme.html
+309,Lobsters,lisp,Lisp programming,Compiler basics: lisp to assembly,http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html
+310,Lobsters,lisp,Lisp programming,Lisp Machine Inc. K-machine,http://fare.tunes.org/tmp/emergent/kmachine.htm
+311,Lobsters,lisp,Lisp programming,"SBCL - COMPILE - threadsafe at last, probably",https://sourceforge.net/p/sbcl/mailman/message/36473674/
+312,Lobsters,lisp,Lisp programming,GPS mapping application,http://www.ulisp.com/show?2DT6
+313,Lobsters,lisp,Lisp programming,Lem: An editor/IDE well-tuned for Common Lisp,https://github.com/cxxxr/lem
+314,Lobsters,lisp,Lisp programming,Lessons Learned Implementing Common Lisp with LLVM,https://www.youtube.com/watch?v=mbdXeRBbgDM
+315,Lobsters,lisp,Lisp programming,Chess Game Using Racket's Pasteboard (part 2),http://alex-hhh.github.io/2018/10/chess-game-using-racket-s-pasteboard-part-2.html
+316,Lobsters,lisp,Lisp programming,CHICKEN 5.0.0 has been released,https://lists.gnu.org/archive/html/chicken-announce/2018-11/msg00001.html
+317,Lobsters,lisp,Lisp programming,How to Make LISP Go Faster Than C (2006),http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf
+318,Lobsters,lisp,Lisp programming,A Little Scheme Setup and Development on the Galaxy S9 Plus,http://www.blogbyben.com/2018/04/a-little-scheme-setup-and-development.html
+319,Lobsters,lisp,Lisp programming,Fortifying Macros (2010),https://www2.ccs.neu.edu/racket/pubs/icfp10-cf.pdf
+320,Lobsters,lisp,Lisp programming,Some documents on AM and EURISKO,http://blog.funcall.org/lisp/2018/11/03/am-eurisko-lenat-documents/
+321,Lobsters,lisp,Lisp programming,Evaluation Model [of Racket],https://docs.racket-lang.org/reference/eval-model.html
+322,Lobsters,lisp,Lisp programming,Slime the World: A Postmortem,http://jakob.space/posts/slime-the-world-postmortem/
+323,Lobsters,lisp,Lisp programming,"The Scheme Programming Language, 4th Edition",https://www.scheme.com/tspl4/
+324,Lobsters,lisp,Lisp programming,MIT/GNU Scheme 10.1 Released,https://www.gnu.org/software/mit-scheme/release.html
+325,Lobsters,lisp,Lisp programming,From Scheme to SMT solvers,http://www.edoput.it/scheme/2018/10/30/smt-and-scheme.html
+326,Lobsters,lisp,Lisp programming,"Pixie: Small, Fast, Clojure-inspired, Native LISP with ""Magical"" Powers",https://github.com/pixie-lang/pixie
+327,Lobsters,lisp,Lisp programming,S-expressions as a Lightweight Serialization Format,https://bryangarza.github.io/s-expressions-as-a-lightweight-serialization-format.html
+328,Lobsters,lisp,Lisp programming,Browsing the Web with Common Lisp,https://babbagefiles.xyz/next_browser-common_lisp/
+329,Lobsters,lisp,Lisp programming,racket-mode,http://www.greghendershott.com/2018/10/racket-mode.html
+330,Lobsters,lisp,Lisp programming,Playing With Racket,https://defn.io/2018/10/21/racket/
+331,Lobsters,lisp,Lisp programming,Evolution of Emacs Lisp,https://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf
+332,Lobsters,lisp,Lisp programming,A synopsis of Dan Weinreb's undergrad thesis: A Real-Time Display-oriented Editor for the LISP Machine,https://www.reddit.com/r/emacs/comments/9pvpxh/a_synopsis_of_dan_weinrebs_undergrad_thesis_a/
+333,Lobsters,lisp,Lisp programming,LOOP for Black Belts,http://www.gigamonkeys.com/book/loop-for-black-belts.html
+334,Lobsters,lisp,Lisp programming,LISP Implementation for the PDP-1 Computer (1964),http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf
+335,Lobsters,lisp,Lisp programming,This Old Lisp,http://thisoldlisp.com/talks/els-2018/
+336,Lobsters,lisp,Lisp programming,How Lisp Became God's Own Programming Language,https://twobithistory.org/2018/10/14/lisp.html
+337,Lobsters,lisp,Lisp programming,Dotted Canonical S-expressions,https://gist.github.com/rain-1/a253e47b939fc0769524d8716541c96e
+338,Lobsters,lisp,Lisp programming,A packaging tutorial for Guix,https://gnu.org/software/guix/blog/2018/a-packaging-tutorial-for-guix/
+339,Lobsters,lisp,Lisp programming,GNU Guile 2.9.1 (beta) released,https://www.gnu.org/software/guile/news/gnu-guile-291-beta-released.html
+340,Lobsters,lisp,Lisp programming,Compiling Lisp to JavaScript From Scratch in 350 LOC,https://gilmi.me/blog/post/2016/10/14/lisp-to-js
+341,Lobsters,lisp,Lisp programming,"LISP can be ""hard"" real time",https://franz.com/services/conferences_seminars/jlugm00/conference/Talk14_takeuchi.pdf
+342,Lobsters,lisp,Lisp programming,Emacs and Pairs,https://ebzzry.io/en/emacs-pairs
+343,Lobsters,lisp,Lisp programming,Running Lisp in Production [2015],https://tech.grammarly.com/blog/running-lisp-in-production
+344,Lobsters,lisp,Lisp programming,miniKanren: an interactive Tutorial,http://io.livecode.ch/learn/webyrd/webmk
+345,Lobsters,lisp,Lisp programming,Closure Web Browser,https://common-lisp.net/project/closure/
+346,Lobsters,lisp,Lisp programming,An Incremental Approach to Compiler Construction,http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+347,Lobsters,lisp,Lisp programming,Clojure Package for Apache MXNet,https://medium.com/apache-mxnet/clojure-package-for-mxnet-799f15043809
+348,Lobsters,lisp,Lisp programming,schemetran: Write (modern) Fortran in Scheme,https://gitlab.com/codetk/schemetran
+349,Lobsters,lisp,Lisp programming,Clojure is Cool,http://ahungry.com/blog/2018-09-09-Clojure-is-Cool.html
+350,Lobsters,lisp,Lisp programming,Compiling dynamic programming languages,http://notes.eatonphil.com/compiling-dynamic-programming-languages.html
+351,Lobsters,lisp,Lisp programming,The Bipolar Lisp Programmer,https://web.archive.org/web/20160112182109/http://www.shenlanguage.org/lambdassociates/htdocs/blog/bipolar.htm
+352,Lobsters,lisp,Lisp programming,A (mostly) comprehensive guide to calling C from Scheme and vice versa,https://www.more-magic.net/posts/scheme-c-integration.html
+353,Lobsters,lisp,Lisp programming,History of Lisp (1979),http://jmc.stanford.edu/articles/lisp/lisp.pdf
+354,Lobsters,lisp,Lisp programming,A Road to Common Lisp,http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/
+355,Lobsters,lisp,Lisp programming,William Byrd on The Most Beautiful Program Ever Written,https://paperswelove.org/2017/video/will-byrd-most-beautiful-program/
+356,Lobsters,lisp,Lisp programming,"Why I chose Common Lisp over Python, Ruby, and Clojure (2009)",https://web.archive.org/web/20121110011933/http://arantaday.com/why-i-chose-common-lisp-over-python-ruby-and
+357,Lobsters,lisp,Lisp programming,Mastodon Bot in Common Lisp,https://gkbrk.com/2018/08/mastodon-bot-in-common-lisp/
+358,Lobsters,lisp,Lisp programming,(An ((Even Better) Lisp) Interpreter (in Python)) (2015),https://norvig.com/lispy2.html
+359,Lobsters,lisp,Lisp programming,"The Specification, Verification, and Implementation of Data Structure in ACL2 (2013)",https://www.computer.org/csdl/proceedings/hicss/2013/4892/00/4892f059.pdf
+360,Lobsters,lisp,Lisp programming,CHICKEN 5.0.0 release candidate 1 available,http://lists.nongnu.org/archive/html/chicken-users/2018-08/msg00004.html
+361,Lobsters,lisp,Lisp programming,Fear of Macros,http://www.greghendershott.com/fear-of-macros/
+362,Lobsters,lisp,Lisp programming,Ferret - Embedded Lisp [Literate Programming],https://ferret-lang.org/
+363,Lobsters,lisp,Lisp programming,Racket v7.0,http://blog.racket-lang.org/2018/07/racket-v7-0.html
+364,Lobsters,lisp,Lisp programming,Scheme: Feel the cool,https://peertube.mastodon.host/videos/watch/6bdf3ade-efbd-435b-9334-9b10da0cf5cf
+365,Lobsters,lisp,Lisp programming,An Implementation of A Hygienic Syntactic Macro System for JavaScript: A Preliminary Report (2010),http://www.is.titech.ac.jp/~wakita/files/arai-s3.pdf
+366,Lobsters,lisp,Lisp programming,Lisp and Haskell (2015),https://markkarpov.com/post/lisp-and-haskell.html
+367,Lobsters,lisp,Lisp programming,A few things I know about LISP Machines,http://fare.tunes.org/LispM.html
+368,Lobsters,lisp,Lisp programming,Building a program synthesis tool to generate programs from specifications,https://homes.cs.washington.edu/~bornholt/post/building-synthesizer.html
+369,Lobsters,lisp,Lisp programming,Fun with Macros: If-Let and When-Let,http://stevelosh.com/blog/2018/07/fun-with-macros-if-let/
+370,Lobsters,lisp,Lisp programming,"PEG-based transformer provides front-, middle and back-end stages in a simple compiler",http://www.vpri.org/pdf/tr2010003_PEG.pdf
+371,Lobsters,lisp,Lisp programming,Clojure MXNet - The Module API,http://gigasquidsoftware.com/blog/2018/07/05/clojure-mxnet-the-module-api/
+372,Lobsters,lisp,Lisp programming,"If You’re Not Writing a Program, Don't Use a Programming Language",http://muratbuffalo.blogspot.com/2018/07/if-youre-not-writing-program-dont-use.html
+373,Lobsters,lisp,Lisp programming,SICP Goodness - A deep dive into square root procedure,https://www.lvguowei.me/post/sicp-goodness-sqrt/
+374,Lobsters,lisp,Lisp programming,The Machine that Builds Itself: the strengths of Lisp family languages,https://arxiv.org/abs/1608.02621
+375,Lobsters,lisp,Lisp programming,"The Rise of ""Worse Is Better"" [1991]",http://dreamsongs.com/RiseOfWorseIsBetter.html 
+376,Lobsters,lisp,Lisp programming,High-Coverage Hint Generation for Massive Courses,https://people.eecs.berkeley.edu/%7Emangpo/www/papers/61a_hint_Iticse2017.pdf
+377,Lobsters,lisp,Lisp programming,A Lisp-Style Library for C (1991),http://www.drdobbs.com/cpp/a-lisp-style-library-for-c/184408598?pgno=8
+378,Lobsters,lisp,Lisp programming,MIT Structure of Computer Programs 6.001 (1986),http://archive.org/download/MIT_Structure_of_Computer_Programs_1986/
+379,Lobsters,lisp,Lisp programming,My Lisp Journey #1: Getting Started With trivial-gamekit,https://lthms.xyz/blog/lisp-journey-getting-started
+380,Lobsters,lisp,Lisp programming,Behind the Scenes with Chicken Scheme,https://spin.atomicobject.com/2013/05/02/chicken-scheme-part-1/
+381,Lobsters,lisp,Lisp programming,Emacs 26 Brings Generators and Threads,http://nullprogram.com/blog/2018/05/31/
+382,Lobsters,lisp,Lisp programming,Rash: The Reckless Racket Shell,https://docs.racket-lang.org/rash/index.html
+383,Lobsters,lisp,Lisp programming,Interim: Low-level Lisp with compile-time memory management,https://github.com/eudoxia0/interim
+384,Lobsters,lisp,Lisp programming,"Practical, verifiable software freedom with GuixSD",https://media.libreplanet.org/u/libreplanet/m/practical-verifiable-software-freedom-with-guixsd/
+385,Lobsters,lisp,Lisp programming,Teach Yourself Scheme in Fixnum Days,https://ds26gte.github.io/tyscheme/
+386,Lobsters,lisp,Lisp programming,Symbolics Lisp Machine Museum,https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html
+387,Lobsters,lisp,Lisp programming,Fun with (Common Lisp) Macros: Gathering,http://stevelosh.com/blog/2018/05/fun-with-macros-gathering/
+388,Lobsters,lisp,Lisp programming,The Original Hacker's Dictionary,http://www.dourish.com/goodies/jargon.html
+389,Lobsters,lisp,Lisp programming,MOST-POSITIVE-BIGNUM (2008),https://www.jwz.org/blog/2008/03/most-positive-bignum/
+390,Lobsters,lisp,Lisp programming,DSLs for Ethereum Contracts,http://www.michaelburge.us/2018/05/15/ethereum-chess-engine.html
+391,Lobsters,lisp,Lisp programming,Extempore Language and Environment Philosophy,https://extemporelang.github.io/docs/overview/philosophy/
+392,Lobsters,lisp,Lisp programming,Reimplementing Hackett’s type language: expanding to custom core forms in Racket,http://lexi-lambda.github.io/blog/2018/04/15/reimplementing-hackett-s-type-language-expanding-to-custom-core-forms-in-racket/
+393,Lobsters,lisp,Lisp programming,Lisp in Parallel,https://lparallel.org/overview/
+394,Lobsters,lisp,Lisp programming,LispKit: extension and scripting languages for macOS,https://github.com/objecthub/swift-lispkit
+395,Lobsters,lisp,Lisp programming,"Using Racket, PostgreSQL, AWS (but no ads or JS)",http://www.greghendershott.com/2018/05/extramaze-llc-using-racket-postgresql-aws-but-no-ads-or-js.html
+396,Lobsters,lisp,Lisp programming,in which a game jam is recounted,https://technomancy.us/187
+397,Lobsters,lisp,Lisp programming,PythonR: A Python Implementation in Racket,https://fenix.tecnico.ulisboa.pt/downloadFile/844820067123802/resumo.pdf
+398,Lobsters,lisp,Lisp programming,A Functional I/O System (2009),http://cs.brown.edu/~sk/Publications/Papers/Published/fffk-functional-io/paper.pdf
+399,Lobsters,lisp,Lisp programming,Programming Languages as Operating Systems (or Revenge of the Son of the Lisp Machine),https://www2.ccs.neu.edu/racket/pubs/icfp99-ffkf.pdf
+400,Lobsters,lisp,Lisp programming,Lisp's Mysterious Tuple Problem (2017),https://www.codeproject.com/Articles/1186940/Lisps-Mysterious-Tuple-Problem
+401,Lobsters,lisp,Lisp programming,"A statically typed lisp, without a GC, for real-time applications",https://github.com/carp-lang/Carp
+402,Lobsters,lisp,Lisp programming,Adapting Scheme-like Macros to the C Language (2011),http://repository.readscheme.org/ftp/papers/sw2011/01-atkinson.pdf
+403,Lobsters,lisp,Lisp programming,TXR Language: A new lisp dialect + text pattern matching language,http://nongnu.org/txr/
+404,Lobsters,lisp,Lisp programming,Profile-Guided Meta-Programming (2015),http://users.eecs.northwestern.edu/~stamourv/papers/profile-guided-meta-programming.pdf
+405,Lobsters,lisp,Lisp programming,A LISP Garbage-Collector for Virtual-Memory Computer Systems (1969),https://www.cs.purdue.edu/homes/hosking/690M/p611-fenichel.pdf
+406,Lobsters,lisp,Lisp programming,The 90 Minute Scheme to C compiler,https://web.archive.org/web/20101006080406/http://www.iro.umontreal.ca:80/~boucherd/mslug/meetings/20041020/minutes-en.html
+407,Lobsters,lisp,Lisp programming,Reddit 1.0 was implemented in Common Lisp; here's the source code,https://github.com/reddit-archive/reddit1.0
+408,Lobsters,lisp,Lisp programming,Alan Kay's answer to Why is functional programming seen as the opposite of OOP,https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it
+409,Lobsters,lisp,Lisp programming,Alan Kay on OO vs FP,https://www.quora.com/Why-is-functional-programming-seen-as-the-opposite-of-OOP-rather-than-an-addition-to-it/answer/Alan-Kay-11?share=a52bda70&srid=s4tO
+410,Lobsters,lisp,Lisp programming,Wireguard on PicoLisp,https://bitbucket.org/mihailp/wireguard-pil/src
+411,Lobsters,lisp,Lisp programming,Kapok is a Lisp dialect for the Erlang VM with Clojure inspired syntax,https://github.com/kapok-lang/kapok
+412,Lobsters,lisp,Lisp programming,How knowing Lisp destroyed my programming career,http://coding.derkeiler.com/Archive/Lisp/comp.lang.lisp/2006-04/msg01644.html
+413,Lobsters,lisp,Lisp programming,A Framework for Extending microKanren with Constraints (2016),https://arxiv.org/pdf/1701.00633.pdf
+414,Lobsters,lisp,Lisp programming,Starting a minimal Common Lisp project,http://notes.eatonphil.com/starting-a-minimal-common-lisp-project.html
+415,Lobsters,lisp,Lisp programming,"Linear Logic, Linear Lisp, Linear Types and Concatenative Languages",https://cdiggins.github.io/blog/linear-logic-and-linear-lisp.html
+416,Lobsters,lisp,Lisp programming,First stable version of Scheme web framework Artanis released,http://lists.gnu.org/archive/html/artanis/2018-03/msg00000.html
+417,Lobsters,lisp,Lisp programming,Continuations in Racket,http://www.michaelburge.us/2018/03/06/continuations-in-racket.html
+418,Lobsters,lisp,Lisp programming,"Pierre Menard, Inventor of LISP",https://medium.com/@old_sound/pierre-menard-inventor-of-lisp-5ddc12c1363e
+419,Lobsters,lisp,Lisp programming,The how and why of the Fennel compiler,https://technomancy.us/186
+420,Lobsters,lisp,Lisp programming,Schism – A self-hosting Scheme to WebAssembly compiler,https://github.com/google/schism
+421,Lobsters,lisp,Lisp programming,A Programmable Programming Language,https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext
+422,Lobsters,lisp,Lisp programming,Emacs Lisp Lambda Expressions Are Not Self-Evaluating,http://nullprogram.com/blog/2018/02/22/
+423,Lobsters,lisp,Lisp programming,Deldo is a sex toy control and teledildonics mode for Emacs,https://github.com/qdot/deldo
+424,Lobsters,lisp,Lisp programming,Homoiconicity Isn't the Point,http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point/
+425,Lobsters,lisp,Lisp programming,fnl: zero-overhead lisp syntax for lua,https://github.com/bakpakin/fnl
+426,Lobsters,lisp,Lisp programming,Lisp Straw Men,http://wiki.c2.com/?LispStrawMen
+427,Lobsters,lisp,Lisp programming,LLVM’s garbage collection facilities and SBCL’s generational GC,https://medium.com/@MartinCracauer/llvms-garbage-collection-facilities-and-sbcl-s-generational-gc-a13eedfb1b31
+428,Lobsters,lisp,Lisp programming,Roko's Ransomware,http://www.michaelburge.us/2018/02/06/rokos-ransomware.html
+429,Lobsters,lisp,Lisp programming,"Different rings on PicoLisp, (coroutine) is strong winner.",https://bitbucket.org/mihailp/tankfeeder/src/default/rings/?at=default
+430,Lobsters,lisp,Lisp programming,Implementing Conway's Game of Life efficiently in Racket,http://jeapostrophe.github.io/2013-11-18-life-post.html
+431,Lobsters,lisp,Lisp programming,How lenses can reduce the headache of nested data in Racket,https://technomancy.us/185
+432,Lobsters,lisp,Lisp programming,"nEXT Browser: an extensible, keyboard driven Lisp Browser based on WebKit",https://next-browser.github.io/
+433,Lobsters,lisp,Lisp programming,Racket-on-Chez Status: January 2018,http://blog.racket-lang.org/2018/01/racket-on-chez-status.html
+434,Lobsters,lisp,Lisp programming,AdventOfCode 2017 on PicoLisp,https://www.mail-archive.com/picolisp@software-lab.de/msg07786.html
+435,Lobsters,lisp,Lisp programming,Some thoughts on hylang,https://beatworm.co.uk/blog/lisp/thoughts-about-hylang
+436,Lobsters,lisp,Lisp programming,Essay: S-Expressions are a Bad Idea (2002),http://cl.cddddr.org/index.cgi?Essay%3AS-expressions%20are%20a%20bad%20idea&l=
+437,Lobsters,lisp,Lisp programming,Common Lisp: A Tutorial on Conditions and Restarts (2008),http://lisper.in/restarts
+438,Lobsters,lisp,Lisp programming,Why is Scheme not a Lisp? (2002),https://groups.google.com/d/msg/comp.lang.lisp/Bj8Hx6mZEYI/6AWmNEwQR5YJ
+439,Lobsters,lisp,Lisp programming,Scheme For NuttX,https://keithp.com/blogs/nuttx-scheme/
+440,Lobsters,lisp,Lisp programming,Write your next Ethereum Contract in Pyramid Scheme,http://www.michaelburge.us/2017/11/28/write-your-next-ethereum-contract-in-pyramid-scheme.html
+441,Lobsters,lisp,Lisp programming,Lisp In Less Than 200 Lines Of C,https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html
+442,Lobsters,lisp,Lisp programming,(seventh RacketCon) individual videos,http://www.youtube.com/playlist?list=PLXr4KViVC0qIgkwFFzM-0we_aoOfAl16Y
+443,Lobsters,lisp,Lisp programming,Refinement Types in Typed Racket,http://blog.racket-lang.org/2017/11/adding-refinement-types.html
+444,Lobsters,lisp,Lisp programming,A new Common Lisp compiler/interpreter in Prolog,https://groups.google.com/forum/#!msg/comp.lang.prolog/85jyECdWTxc/l-yQ19kPAAAJ
+445,Lobsters,lisp,Lisp programming,"Emacs Horrors - Chirp, chirp",http://emacshorrors.com/posts/chirp-chirp.html
+446,Lobsters,lisp,Lisp programming,Awesome Common Lisp Application Software,https://github.com/azzamsa/awesome-cl-software
+447,Lobsters,lisp,Lisp programming,Collapsing Towers of Interpreters,https://www.cs.purdue.edu/homes/rompf/papers/amin-popl18.pdf
+448,Lobsters,lisp,Lisp programming,Gerard Huet Reflects On The History Of Theorem Provers,https://50ans.inria.fr/en/gerard-huet-languages-and-software/
+449,Lobsters,lisp,Lisp programming,Simplifying Slideshow,http://sigusr2.net/slideshow-simple.html
+450,Lobsters,lisp,Lisp programming,A tale of many nests,https://fare.livejournal.com/189741.html
+451,Lobsters,lisp,Lisp programming,PicoLisp port to Linux/Arm64,https://www.mail-archive.com/picolisp@software-lab.de/msg07756.html
+452,Lobsters,lisp,Lisp programming,Elnode: Backend web services in elisp,https://www.emacswiki.org/emacs/Elnode
+453,Lobsters,lisp,Lisp programming,Racket v6.11 released - includes refinement types and dependent function types,http://blog.racket-lang.org/2017/10/racket-v6-11.html
+454,Lobsters,lisp,Lisp programming,A space of their own: adding a type namespace to Hackett,http://lexi-lambda.github.io/blog/2017/10/27/a-space-of-their-own-adding-a-type-namespace-to-hackett
+455,Lobsters,lisp,Lisp programming,"What did Alan Kay mean by, ""Lisp is the greatest single programming language ever designed""?",https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11
+456,Lobsters,lisp,Lisp programming,Switching from Common Lisp to Julia,https://tpapp.github.io/post/common-lisp-to-julia/
+457,Lobsters,lisp,Lisp programming,LispOS: Specifcation of a Lisp operating system. (2013),http://metamodular.com/lispos.pdf
+458,Lobsters,lisp,Lisp programming,ChrysaLisp - 64-bit Lisp OS with Assembler/C-Script/GUI,https://github.com/vygr/ChrysaLisp
+459,Lobsters,lisp,Lisp programming,The Land of Lisp,http://landoflisp.com/
+460,Lobsters,lisp,Lisp programming,Moving Forward by Letting Go,http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html
+461,Lobsters,lisp,Lisp programming,The Lux Programming Language [Strange Loop 2017],https://www.youtube.com/watch?v=T-BZvBWiamU
+462,Lobsters,lisp,Lisp programming,"Lisp, Smalltalk, and the Power of Symmetry",https://medium.com/smalltalk-talk/lisp-smalltalk-and-the-power-of-symmetry-8bd96aaa0c0c
+463,Lobsters,lisp,Lisp programming,Pollen: the book is a program,http://docs.racket-lang.org/pollen/
+464,Lobsters,lisp,Lisp programming,Server: Racket – An ebook about web development with the Racket HTTP server,http://serverracket.com/
+465,Lobsters,lisp,Lisp programming,macro-lisp: A Lisp-like DSL for Rust,https://github.com/JunSuzukiJapan/macro-lisp
+466,Lobsters,lisp,Lisp programming,PilBox - Building Android Apps in PicoLisp,https://www.mail-archive.com/picolisp@software-lab.de/msg07658.html
+467,Lobsters,lisp,Lisp programming,Clojure: Turtles All The Way Down,https://www.youtube.com/watch?v=Gkwc3332L-0
+468,Lobsters,lisp,Lisp programming,Mapping the Monado,https://blog.jfo.click/mapping-the-monado/
+469,Lobsters,lisp,Lisp programming,GNU Daemon Shepherd - an alternative init system,https://www.gnu.org/software/shepherd/
+470,Lobsters,lisp,Lisp programming,The Development of Chez Scheme,https://www.cs.indiana.edu/~dyb/pubs/hocs.pdf
+471,Lobsters,lisp,Lisp programming,Chez Scheme now open-source,http://lambda-the-ultimate.org/node/5331
+472,Lobsters,lisp,Lisp programming,On Abstraction,https://www.youtube.com/watch?v=x9pxbnFC4aQ
+473,Lobsters,lisp,Lisp programming,Numbers and tagged pointers in early Lisp implementations,https://www.snellman.net/blog/archive/2017-09-04-lisp-numbers/
+474,Lobsters,lisp,Lisp programming,A gentle introduction to Compile-Time Computing — Part 1,https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-1-d4d96099cea0
+475,Lobsters,lisp,Lisp programming,User-programmable infix operators in Racket,http://lexi-lambda.github.io/blog/2017/08/12/user-programmable-infix-operators-in-racket
+476,Lobsters,lisp,Lisp programming,Empty Promises and Other Heresy,https://www.vincit.fi/en/blog/empty-promises-and-other-heresy/
+477,Lobsters,lisp,Lisp programming,Sweet-expressions: A readable format for Lisp-like languages (2006),https://www.dwheeler.com/readable/sweet-expressions.html
+478,Lobsters,lisp,Lisp programming,Why I haven't jumped ship from Common Lisp to Racket (just yet),http://fare.livejournal.com/188429.html
+479,Lobsters,lisp,Lisp programming,City of the Damned,https://github.com/gwathlobal/CotD
+480,Lobsters,lisp,Lisp programming,Extracting Chrome Cookies with Clojure,https://blog.laurentcharignon.com/post/extracting-chrome-cookie-clojure/
+481,Lobsters,lisp,Lisp programming,Not Everything is an Expression (2016),http://www.rntz.net/post/2016-06-06-not-everything-is-an-expression.html
+482,Lobsters,lisp,Lisp programming,kanaka/minimal - Lisp in < KB of JavaScript,https://github.com/kanaka/miniMAL
+483,Lobsters,lisp,Lisp programming,Meta Circular Interpreter Without Letrec Define,https://carld.github.io/2017/08/14/meta-circular-interpreter-without-letrec-define.html
+484,Lobsters,lisp,Lisp programming,Hypercrud: A clojure client/server framework for composable UIs,https://github.com/hyperfiddle/hypercrud.browser
+485,Lobsters,lisp,Lisp programming,Lisping at JPL,http://www.flownet.com/gat/jpl-lisp.html
+486,Lobsters,lisp,Lisp programming,Suggest.el: Synthesising Constants,http://www.wilfred.me.uk/blog/2017/08/06/suggest-el-synthesising-constants/
+487,Lobsters,lisp,Lisp programming,Clojure - the perfect language to expand your brain?,http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
+488,Lobsters,lisp,Lisp programming,6 things Reacters do that Re-framers avoid,https://purelyfunctional.tv/article/react-vs-re-frame/
+489,Lobsters,lisp,Lisp programming,Hy: a Lisp-flavoured Python,http://hylang.org/
+490,Lobsters,lisp,Lisp programming,Reagent/re-frame walkthrough,https://github.com/ClojureTO/JS-Workshop
+491,Lobsters,lisp,Lisp programming,Clojerl - Clojure implemented on the Erlang VM,https://github.com/jfacorro/clojerl/blob/master/README.md
+492,Lobsters,lisp,Lisp programming,Asynchronous Interrupts for Erlang-like thread killing in Gambit Scheme,http://webmail.iro.umontreal.ca/pipermail/gambit-list/2017-July/008727.html
+493,Lobsters,lisp,Lisp programming,An Algebraic Language for the Manipulation of Symbolic Expressions (1958),http://www.softwarepreservation.org/projects/LISP/MIT/AIM-001.pdf
+494,Lobsters,lisp,Lisp programming,Optimising Dash.el,http://www.wilfred.me.uk/blog/2017/07/29/optimising-dash-el/
+495,Lobsters,lisp,Lisp programming,Lumo: ClojureScript on Node.js without JVM,https://github.com/anmonteiro/lumo
+496,Lobsters,lisp,Lisp programming,Mes 0.9 released,https://lists.gnu.org/archive/html/guile-user/2017-07/msg00089.html
+497,Lobsters,lisp,Lisp programming,"William Byrd on ""The Most Beautiful Program Ever Written""",https://www.youtube.com/watch?v=OyfBQmvr2Hc
+498,Lobsters,lisp,Lisp programming,A list-creation DSL,https://rain-1.github.io/scheme-1
+499,Lobsters,lisp,Lisp programming,Industrial Hardware and Software Verification with ACL2,http://www.cs.utexas.edu/users/moore/publications/rs-verif-draft-5.pdf
+500,Lobsters,lisp,Lisp programming,The Re-Frame Guide: Front-End Architecture in Clojure,https://purelyfunctional.tv/guide/re-frame-building-blocks/
+501,Lobsters,lisp,Lisp programming,Migration from Postgres to Datomic,http://grishaev.me/en/pg-to-datomic
+502,Lobsters,lisp,Lisp programming,The 3L Project,https://3lproject.org/
+503,Lobsters,lisp,Lisp programming,Synthesising Elisp Code,http://www.wilfred.me.uk/blog/2017/07/02/synthesising-elisp-code/
+504,Lobsters,lisp,Lisp programming,Functional programming for deep learning,https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9
+505,Lobsters,lisp,Lisp programming,malcolmstill/ulubis - A Wayland compositor written in Common Lisp,https://github.com/malcolmstill/ulubis
+506,Lobsters,lisp,Lisp programming,Clojure concurrency and blocking with core.async,http://eli.thegreenplace.net/2017/clojure-concurrency-and-blocking-with-coreasync/
+507,Lobsters,lisp,Lisp programming,Programming-Language Theory Explained for the Working Programmer,https://www.leafac.com/prose/programming-language-theory-explained-for-the-working-programmer--principles-of-programming-languages/
+508,Lobsters,lisp,Lisp programming,A cross platform game in ~100% Scheme,https://www.reddit.com/r/scheme/comments/6hng3q/i_developed_a_medium_sized_cross_platform/
+509,Lobsters,lisp,Lisp programming,I dislike parentheses that that's one of the reasons why I love Lisp,https://twitter.com/nicoberger/status/874690048221995008
+510,Lobsters,lisp,Lisp programming,The L2 Programming Language,https://github.com/murisi/L2/
+511,Lobsters,lisp,Lisp programming,"Reducers, transducers and core.async in Clojure",http://eli.thegreenplace.net/2017/reducers-transducers-and-coreasync-in-clojure/
+512,Lobsters,lisp,Lisp programming,All 4clojure tasks on PicoLisp,https://bitbucket.org/mihailp/tankfeeder/src/919c4b16ed37b84ade980218bb8e749da29772c9/4clojure/?at=default
+513,Lobsters,lisp,Lisp programming,Exploring distributed designs with Erlangen: Kademlia,http://mr.gy/blog/erlangen-explore-kademlia-dht.html
+514,Lobsters,lisp,Lisp programming,(open (registration (seventh RacketCon))),http://con.racket-lang.org/
+515,Lobsters,lisp,Lisp programming,The German School of Lisp,http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/
+516,Lobsters,lisp,Lisp programming,Rosetta - A Solver-aided Programming Language That Extends Racket,https://emina.github.io/rosette/index.html
+517,Lobsters,lisp,Lisp programming,Why you should check out ClojureScript,https://medium.com/@chrisdaviesgeek/why-you-should-check-out-clojurescript-f31f64ac7d0e
+518,Lobsters,lisp,Lisp programming,Asi64 - 6502 Assembler in Racket,http://pinksquirrellabs.com/blog/2017/05/30/asi64/
+519,Lobsters,lisp,Lisp programming,Nightlight: An embedded editor for Clojure,https://github.com/oakes/Nightlight
+520,Lobsters,lisp,Lisp programming,Confessions of a threading macro addict,https://medium.com/@hlship/confessions-of-a-threading-macro-addict-5a026dae4af7
+521,Lobsters,lisp,Lisp programming,"Realizing Hackett, a metaprogrammable Haskell",https://lexi-lambda.github.io/blog/2017/05/27/realizing-hackett-a-metaprogrammable-haskell/
+522,Lobsters,lisp,Lisp programming,Readable Clojure,http://tonsky.me/blog/readable-clojure/
+523,Lobsters,lisp,Lisp programming,"Simple Ain't Easy, but Hard Ain't Simple: Leaving Clojure for Ruby",https://blog.appcanary.com/2017/hard-isnt-simple-ruby-clojure.html
+524,Lobsters,lisp,Lisp programming,Little Lisp interpreter,https://maryrosecook.com/blog/post/little-lisp-interpreter
+525,Lobsters,lisp,Lisp programming,Clojure is a data-first language,https://www.booleanknot.com/blog/2016/12/20/code-is-data.html
+526,Lobsters,lisp,Lisp programming,Doing Scheme – The Big Lie,https://vermillionazure.com/2017/05/18/doing-scheme-the-big-lie/
+527,Lobsters,lisp,Lisp programming,What is the type of eval?,http://lambda-the-ultimate.org/node/5431
+528,Lobsters,lisp,Lisp programming,Running TensorFlow in Clojure,http://kieranbrowne.com/research/clojure-tensorflow-interop/
+529,Lobsters,lisp,Lisp programming,The Right Tool For The Job (old article),http://www.podval.org/~sds/tool.html
+530,Lobsters,lisp,Lisp programming,Not Lisp again....,http://funcall.blogspot.com/2009/03/not-lisp-again.html
+531,Lobsters,lisp,Lisp programming,Simplified Common Lisp reference,http://jtra.cz/stuff/lisp/sclr/index.html
+532,Lobsters,lisp,Lisp programming,SNEK is Not an Acronym,http://inconvergent.net/snek-is-not-an-acronym/
+533,Lobsters,lisp,Lisp programming,Common Lisp Standard Draft,http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html
+534,Lobsters,lisp,Lisp programming,Shen Language Port for Wasp Lisp,https://bluishcoder.co.nz/2017/04/24/shen-language-port-for-wasp-lisp.html
+535,Lobsters,lisp,Lisp programming,"A small lisp interpreter from xedit, implementing a subset of Common Lisp",https://cgit.freedesktop.org/xorg/app/xedit/tree/lisp
+536,Lobsters,lisp,Lisp programming,A Scheme Interpreter for ARM Microcontrollers,http://armpit.sourceforge.net/
+537,Lobsters,lisp,Lisp programming,Writing a Lisp: String Interpolation,http://www.reinvanderwoerd.nl/blog/2017/04/20/writing-a-lisp-string-interpolation/
+538,Lobsters,lisp,Lisp programming,Shen has been ported to C,https://groups.google.com/forum/#!topic/qilang/lHXfxEYFmGs
+539,Lobsters,lisp,Lisp programming,GNU Guile 2.2.1 released; includes sandboxed execution support,https://lists.gnu.org/archive/html/guile-devel/2017-04/msg00034.html
+540,Lobsters,lisp,Lisp programming,Type Tailoring,http://blog.racket-lang.org/2017/04/type-tailoring.html
+541,Lobsters,lisp,Lisp programming,Robust Clojure: The best way to handle nil,https://bsima.me/clog/robust-clojure-nil.html
+542,Lobsters,lisp,Lisp programming,"On Recursion, Continuations and Trampolines",http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/
+543,Lobsters,lisp,Lisp programming,L2L: A superset of Lisp and Lua,https://github.com/meric/l2l
+544,Lobsters,lisp,Lisp programming,Urn: A Lisp implementation for Lua,https://squiddev.github.io/urn/
+545,Lobsters,lisp,Lisp programming,The Adventures of a Pythonista in Schemeland,http://www.phyast.pitt.edu/~micheles/scheme/index.html
+546,Lobsters,lisp,Lisp programming,"In Scheme, even your keywords could be redefined.",https://vermillionazure.com/2017/04/13/in-scheme-even-your-keywords-could-be-redefined/
+547,Lobsters,lisp,Lisp programming,A Pythonist finds a new home at Clojure land,https://notamonadtutorial.com/a-pythonist-finds-a-new-home-at-clojure-land-761ad8612b47
+548,Lobsters,lisp,Lisp programming,Shen: Sequent Calculus and Metaprogramming [30 mins],http://www.shenlanguage.org/shen.mp4
+549,Lobsters,lisp,Lisp programming,"Emulators, Immutability, and Time Travel - Angus Fletcher",https://www.youtube.com/watch?v=fiK0SmaqN20
+550,Lobsters,lisp,Lisp programming,Gush: A stack based language eventually for genetic programming,https://dustycloud.org/blog/gush-intro/
+551,Lobsters,lisp,Lisp programming,Clojure/West 2017,http://www.youtube.com/playlist?list=PLZdCLR02grLp4W4ySd1sHPOsK83gvqBQp
+552,Lobsters,lisp,Lisp programming,Fourteen Months with Clojure,https://blog.skyliner.io/fourteen-months-with-clojure-beb8b3e4bf00
+553,Lobsters,lisp,Lisp programming,Read Read-Eval-Print-λove 4,https://leanpub.com/readevalprintlove004/read
+554,Lobsters,lisp,Lisp programming,Make your own Lisp,https://github.com/kanaka/mal
+555,Lobsters,lisp,Lisp programming,Learning Lisp Fast,http://cs.gmu.edu/~sean/lisp/LispTutorial.html
+556,Lobsters,lisp,Lisp programming,Modern C++ and Lisp Programming Style,https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/
+557,Lobsters,lisp,Lisp programming,Penti Chorded Keyboard,http://software-lab.de/penti.html
+558,Lobsters,lisp,Lisp programming,Computing Environments for Data Analysis Part 3: Programming Environments (1987),https://www.stat.washington.edu/research/reports/1986/tr082.pdf
+559,Lobsters,lisp,Lisp programming,"Summing up my current ideas, A.K.A. The Zero Before the One, Redux.",https://medium.com/@kori/summing-up-my-current-ideas-a-k-a-the-zero-before-the-one-redux-83a8f58f138b
+560,Lobsters,lisp,Lisp programming,Acing the technical interview,https://aphyr.com/posts/340-acing-the-technical-interview
+561,Lobsters,lisp,Lisp programming,GNU Guile 2.20 Released,https://www.gnu.org/software/guile/news/gnu-guile-220-released.html
+562,Lobsters,lisp,Lisp programming,Beautiful Racket: Why Racket? Why Lisp?,http://beautifulracket.com/appendix/why-racket-why-lisp.html
+563,Lobsters,lisp,Lisp programming,Beautiful Racket v1.0,http://beautifulracket.com/
+564,Lobsters,lisp,Lisp programming,guile 2.2 omg!!!,http://wingolog.org/archives/2017/03/15/guile-2-2-omg
+565,Lobsters,lisp,Lisp programming,Lisping on the GPU,https://www.youtube.com/watch?v=XEtlxJsPR40
+566,Lobsters,lisp,Lisp programming,cljsbin - HTTP client testing service written in ClojureScript,https://cljsbin-bkhgroqzwe.now.sh/
+567,Lobsters,lisp,Lisp programming,How we've migrated from Ruby to Clojure (for the most part),https://medium.com/intercom-developers/from-ruby-to-clojure-an-intercom-integration-story-e6042806a152#.ykhqzmwqa
+568,Lobsters,lisp,Lisp programming,Flare Programming Language,http://flarelang.sourceforge.net/
+569,Lobsters,lisp,Lisp programming,Embedding Scheme for a game mission scripting DSL,http://carloscarrasco.com/embedding-scheme-for-a-game-mission-scripting-dsl.html
+570,Lobsters,lisp,Lisp programming,How to Write Your First Quantum Program,https://www.linkedin.com/pulse/how-write-your-first-quantum-program-view-supply-christoph
+571,Lobsters,lisp,Lisp programming,Ozymandias: MIT Scheme environment for the browser,https://github.com/joeltg/ozymandias
+572,Lobsters,lisp,Lisp programming,Nanopass Framework,http://docs.racket-lang.org/nanopass/index.html
+573,Lobsters,lisp,Lisp programming,Ramsey Nasser on Magic,https://vimeo.com/203271192
+574,Lobsters,lisp,Lisp programming,Step-by-step development of a Scheme-to-x86 compiler,https://github.com/namin/inc
+575,Lobsters,lisp,Lisp programming,MJPEG Video Decoder in Common Lisp,http://blog.funcall.org/lisp/2017/02/07/announcing-cl-video/
+576,Lobsters,lisp,Lisp programming,"Carrot - Purely functional lisp featuring default currying, left-associative s-expression, lazy eva",https://github.com/ympbyc/Carrot
+577,Lobsters,lisp,Lisp programming,State of Clojure Survey 2016 Analysis,https://danielcompton.net/2017/02/08/clojure-survey-2016
+578,Lobsters,lisp,Lisp programming,Tiny Lisp Computer 2 PCB,http://www.technoblogy.com/show?1KTO
+579,Lobsters,lisp,Lisp programming,Programmatically accessing ClojureScript's Externs Inference,http://bendyworks.com/blog/externs-clojurescript
+580,Lobsters,lisp,Lisp programming,Read-Eval-Print-λove Magazine,http://readevalprintlove.fogus.me/
+581,Lobsters,lisp,Lisp programming,We Really Don't Know How To Compute!,https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute
+582,Lobsters,lisp,Lisp programming,"Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I (1960)",http://www-formal.stanford.edu/jmc/recursive.pdf
+583,Lobsters,lisp,Lisp programming,Racket v6.8,http://blog.racket-lang.org/2017/01/racket-v6-8.html
+584,Lobsters,lisp,Lisp programming,Creating a language using only assembly language,https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language
+585,Lobsters,lisp,Lisp programming,ELS'17 - 10th European Lisp Symposium,http://genome.ufl.edu/ELS17/
+586,Lobsters,lisp,Lisp programming,"Joxa – A concurrent, distributed Lisp",http://joxa.org/
+587,Lobsters,lisp,Lisp programming,on lisp (2005),http://redditblog.com/2005/12/05/on-lisp/
+588,Lobsters,lisp,Lisp programming,Channels in Common Lisp,http://vicsydev.blogspot.com/2017/01/channels-in-common-lisp.html
+589,Lobsters,lisp,Lisp programming,"Pixie - A small, fast, native lisp with ""magical"" powers",http://pixielang.org/
+590,Lobsters,lisp,Lisp programming,RacketCon 2013: Dan Liebgold - Racket on the Playstation 3? It's Not What you Think!,https://www.youtube.com/watch?v=oSmqbnhHp1c
+591,Lobsters,lisp,Lisp programming,Roughing It with Lisp,https://dev.to/syncsynchalt/roughing-it-with-lisp
+592,Lobsters,lisp,Lisp programming,FSet: Set-Theoretic Library for Common Lisp,https://common-lisp.net/project/fset/Site/FSet-Tutorial.html
+593,Lobsters,lisp,Lisp programming,StumpWM 1.0.0 Released!,http://lists.nongnu.org/archive/html/stumpwm-devel/2017-01/msg00007.html
+594,Lobsters,lisp,Lisp programming,How we built the foundations of Finnish national Netflix with microservices,https://www.reaktor.com/blog/a-story-of-a-microservice/
+595,Lobsters,lisp,Lisp programming,Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/
+596,Lobsters,lisp,Lisp programming,Continuation Passing Style Interpreter,https://kseo.github.io/posts/2017-01-09-continuation-passing-style-interpreter.html
+597,Lobsters,lisp,Lisp programming,Meta-Circular Adventures in Functional Abstraction,https://chriskohlhepp.wordpress.com/functional-programming-section/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/
+598,Lobsters,lisp,Lisp programming,Our Shared Joy of Programming (2014),https://www.youtube.com/watch?v=3_zW63dcZB0
+599,Lobsters,lisp,Lisp programming,"""One function to a function.""",https://groups.google.com/forum/message/raw?msg=comp.lang.lisp/9SKZ5YJUmBg/Fj05OZQomzIJ
+600,Lobsters,lisp,Lisp programming,"Syndicate, an Actor-based language for interactive programs",http://syndicate-lang.org/
+601,Lobsters,lisp,Lisp programming,A Gentle Introduction to Music Composition Using Common LISP and Common Music,http://quod.lib.umich.edu/s/spobooks/bbv9810.0001.001/1:4/--algorithmic-composition-a-gentle-introduction-to-music?rgn=div1;view=toc
+602,Lobsters,lisp,Lisp programming,Rascal: a Haskell with more parentheses,http://lexi-lambda.github.io/blog/2017/01/02/rascal-a-haskell-with-more-parentheses/
+603,Lobsters,lisp,Lisp programming,Vip - Vi-Style Editor in #PicoLisp in 990 lines of code,http://picolisp.com/wiki/?vip
+604,Lobsters,lisp,Lisp programming,(R)creational Common Lisp,http://within-parens.blogspot.com/2016/12/rcreational-common-lisp.html
+605,Lobsters,lisp,Lisp programming,Deep Learning in Clojure with Cortex,http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/
+606,Lobsters,lisp,Lisp programming,The origin of CAR and CDR in LISP,http://www.iwriteiam.nl/HaCAR_CDR.html
+607,Lobsters,lisp,Lisp programming,Interpreted programming languages,http://fexpr.blogspot.com/2016/08/interpreted-programming-languages.html
+608,Lobsters,lisp,Lisp programming,NES Emulator in Common Lisp,https://github.com/samanthadoran/potential-disco
+609,Lobsters,lisp,Lisp programming,Identicons with ClojureScript,http://darrennewton.com/2016/12/17/identicons-with-clojurescript/
+610,Lobsters,lisp,Lisp programming,"Writing a Lisp, the series",https://bernsteinbear.com/blog/lisp/
+611,Lobsters,lisp,Lisp programming,Arcadia: Clojure in Unity3D,http://arcadia-unity.github.io/
+612,Lobsters,lisp,Lisp programming,CHIP-8 in Common Lisp: The CPU,http://stevelosh.com/blog/2016/12/chip8-cpu/
+613,Lobsters,lisp,Lisp programming,sxc: S-Expression C,https://github.com/burtonsamograd/sxc
+614,Lobsters,lisp,Lisp programming,GNU Guile 2.1.5 released,https://www.gnu.org/software/guile/news/gnu-guile-215-released.html
+615,Lobsters,lisp,Lisp programming,The Idea of Lisp,https://dev.to/ericnormand/the-idea-of-lisp
+616,Lobsters,lisp,Lisp programming,A lisp built for extending go,https://github.com/glycerine/zygomys
+617,Lobsters,lisp,Lisp programming,Hash Table Syntax in Common Lisp (2010),http://frank.kank.net/essays/hash.html
+618,Lobsters,lisp,Lisp programming,joker - Small interpreted dialect of Clojure written in Go,https://github.com/candid82/joker
+619,Lobsters,lisp,Lisp programming,Programming by poking: why MIT stopped teaching SICP,http://lambda-the-ultimate.org/node/5335
+620,Lobsters,lisp,Lisp programming,Practical Common Lisp,http://www.gigamonkeys.com/book/
+621,Lobsters,lisp,Lisp programming,Spec-ulation Keynote - Rich Hickey,https://www.youtube.com/watch?v=oyLBGkS5ICk
+622,Lobsters,lisp,Lisp programming,Write You A Scheme version 2.0,https://wespiser.com/writings/wyas/home.html
+623,Lobsters,lisp,Lisp programming,A guide to the Datomic licensing changes,https://danielcompton.net/2016/11/29/guide-to-datomic-licensing-changes
+624,Lobsters,lisp,Lisp programming,EQL5: Embedded Qt Lisp release with Qt5,https://gitlab.com/eql/EQL5
+625,Lobsters,lisp,Lisp programming,EuroClojure 2016 Videos,https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7
+626,Lobsters,lisp,Lisp programming,Lumo 1.0.0: Node-based clojurescript repl,https://github.com/anmonteiro/lumo/releases/tag/1.0.0
+627,Lobsters,lisp,Lisp programming,Learn you a Lisp in 0 minutes,https://hackernoon.com/learn-you-a-lisp-in-0-minutes-e0c1a060a178
+628,Lobsters,lisp,Lisp programming,Understanding Clojure transducers through types [2014],http://conscientiousprogrammer.com/blog/2014/08/07/understanding-cloure-transducers-through-types/
+629,Lobsters,lisp,Lisp programming,Racket Generic Collections: One Interface to Rule Them All,https://www.youtube.com/watch?v=JUD_JwG0alg
+630,Lobsters,lisp,Lisp programming,Tiny Lisp Computer 2,http://www.technoblogy.com/show?1INT
+631,Lobsters,lisp,Lisp programming,Videos from the sixth RacketCon are now available,https://www.youtube.com/playlist?list=PLXr4KViVC0qKSiKGO6Vz9EtxUfKPb1Ma0
+632,Lobsters,lisp,Lisp programming,Make Your Own Lisp Interpreter in 10 Incremental Steps,https://www.youtube.com/watch?v=jVhupfthTEk
+633,Lobsters,lisp,Lisp programming,Low-level web programming in Racket + a wiki in 500 lines,http://matt.might.net/articles/low-level-web-in-racket/
+634,Lobsters,lisp,Lisp programming,Little Oddities,http://okmij.org/ftp/Scheme/misc.html
+635,Lobsters,lisp,Lisp programming,Beautiful Racket: Continuations,http://beautifulracket.com/explainer/continuations.html
+636,Lobsters,lisp,Lisp programming,Adding A New Language major mode to Emacs,http://www.wilfred.me.uk/blog/2015/03/19/adding-a-new-language-to-emacs/
+637,Lobsters,lisp,Lisp programming,Lisp Is Just Syntax,http://www.wilfred.me.uk/blog/2014/02/04/lisp-is-just-syntax/
+638,Lobsters,lisp,Lisp programming,History of Actors (eighty-twenty news),https://eighty-twenty.org/2016/10/18/actors-hopl
+639,Lobsters,lisp,Lisp programming,From Clojure to ClojureScript,https://facundoolano.wordpress.com/2016/10/16/from-clojure-to-clojurescript/
+640,Lobsters,lisp,Lisp programming,The Long View: Macintosh Common Lisp,http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2013/2/17_Macintosh_Common_Lisp.html
+641,Lobsters,lisp,Lisp programming,Nightlight: An embedded editor for Clojure,https://sekao.net/nightlight/
+642,Lobsters,lisp,Lisp programming,Multics Emacs History/Design/Implementation (1979),http://www.multicians.org/mepap.html
+643,Lobsters,lisp,Lisp programming,"Neanderthal 0.8.0: CPU and GPU support on Linux, Windows, and OS X!",http://neanderthal.uncomplicate.org/articles/news/release-0.8.0.html
+644,Lobsters,lisp,Lisp programming,advenjure 0.3.0 - interactive fiction on the terminal and the browser,https://facundoolano.github.io/advenjure
+645,Lobsters,lisp,Lisp programming,Nash: a tracing JIT for Extension Language,https://www.youtube.com/watch?v=JM1uU07xMQs
+646,Lobsters,lisp,Lisp programming,Clojure Remote is on again for 2017. Big changes announced this Friday.,http://clojureremote.com/#2017
+647,Lobsters,lisp,Lisp programming,Searching A Million Lines Of Lisp,http://www.wilfred.me.uk/blog/2016/09/30/searching-a-million-lines-of-lisp/
+648,Lobsters,lisp,Lisp programming,Kicking the tires of Shen Prolog,https://bluishcoder.co.nz/2016/08/30/kicking-the-tires-of-shen-prolog.html
+649,Lobsters,lisp,Lisp programming,Linguistic relativity (Sapir–Whorf hypothesis),https://en.wikipedia.org/wiki/Linguistic_relativity
+650,Lobsters,lisp,Lisp programming,Aditya Siram: Shen Trick Shots - λC 2016,https://www.youtube.com/watch?v=BUJNyHAeAc8
+651,Lobsters,lisp,Lisp programming,Parsing With Derivatives,https://www.youtube.com/watch?v=FKiEsJiTMtI
+652,Lobsters,lisp,Lisp programming,The Design of the Connection Machine (1994),http://www.mission-base.com/tamiko/theory/cm_txts/di-frames.html
+653,Lobsters,lisp,Lisp programming,Agility & Robustness: Clojure spec,https://www.youtube.com/watch?v=VNTQ-M_uSo8
+654,Lobsters,lisp,Lisp programming,claro 0.2.0 – Clojure Data Access with a Focus on Infinity,https://github.com/xsc/claro/releases/tag/v0.2.0
+655,Lobsters,lisp,Lisp programming,Beautiful Racket: how to make your own pro­gram­ming lan­guages with Racket—and why,http://beautifulracket.com/
+656,Lobsters,lisp,Lisp programming,Using clojure.spec to declaratively parse http query parameters,https://www.bevuta.com/en/blog/declaratively-parse-query-params-using-clojure-spec/
+657,Lobsters,lisp,Lisp programming,Tiny Lisp Computer,http://www.technoblogy.com/show?1GX1
+658,Lobsters,lisp,Lisp programming,Functional Geometry (in Lisp),http://www.frank-buss.de/lisp/functional.html
+659,Lobsters,lisp,Lisp programming,Max’s Parser Combinators: Why? How?,http://mr.gy/blog/maxpc.html
+660,Lobsters,lisp,Lisp programming,Playing With Syntax,http://stevelosh.com/blog/2016/08/playing-with-syntax/
+661,Lobsters,lisp,Lisp programming,"QUEEN, chess, and writing fast Lisp code",http://lisperator.net/blog/queen-chess-fast-lisp/
+662,Lobsters,lisp,Lisp programming,"Common Lisp, SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session",https://asciinema.org/a/84033
+663,Lobsters,lisp,Lisp programming,An operating system written in Common Lisp,https://github.com/froggey/Mezzano
+664,Lobsters,lisp,Lisp programming,Dinosaur and Lisp,http://vito.sdf.org/dino.html
+665,Lobsters,lisp,Lisp programming,Alsa lisp in Alsa-lib [2013],https://zpcat.blogspot.com/2013/01/alsa-lisp-in-alsa-lib.html
+666,Lobsters,lisp,Lisp programming,Flow: Simple Flow-based Machine Learning,https://github.com/sorpaas/flow
+667,Lobsters,lisp,Lisp programming,Ao: A tool for programmatic computer-aided design,http://www.mattkeeter.com/projects/ao/
+668,Lobsters,lisp,Lisp programming,Using Racket's FFI,http://prl.ccs.neu.edu/blog/2016/06/27/tutorial-using-racket-s-ffi/
+669,Lobsters,lisp,Lisp programming,Zero to Sixty in Racket,http://prl.ccs.neu.edu/blog/2016/08/02/tutorial-zero-to-sixty-in-racket/
+670,Lobsters,lisp,Lisp programming,Programming with Class in Racket,http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html
+671,Lobsters,lisp,Lisp programming,The Ultimate Guide To Clojure REPLs,https://lambdaisland.com/guides/clojure-repls/
+672,Lobsters,lisp,Lisp programming,(How to Write a (Lisp) Interpreter (in Python)) (2010),http://www.norvig.com/lispy.html
+673,Lobsters,lisp,Lisp programming,Transforming Data with ClojureScript,http://langintro.com/icljs/
+674,Lobsters,lisp,Lisp programming,Lua-style Pattern Matching for Common Lisp,https://github.com/massung/re
+675,Lobsters,lisp,Lisp programming,Beating the Averages [2003],http://www.paulgraham.com/avg.html
+676,Lobsters,lisp,Lisp programming,Why Functional Programming Matters by John Hughes [1984],http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html
+677,Lobsters,lisp,Lisp programming,The Truth About Lisp,http://www.secretgeek.net/lisp_truth
+678,Lobsters,lisp,Lisp programming,Bayadera: A Clojure Library for Bayesian Data Analysis and Machine Learning on the GPU,https://github.com/uncomplicate/bayadera
+679,Lobsters,lisp,Lisp programming,Coursera Programming Languages Course Part A,https://www.coursera.org/learn/programming-languages
+680,Lobsters,lisp,Lisp programming,Clojure spec Screencast: Testing,https://www.youtube.com/watch?v=W6crrbF7s2s
+681,Lobsters,lisp,Lisp programming,Lisp Flavoured Erlang,http://lfe.io/
+682,Lobsters,lisp,Lisp programming,Let's Run Lisp on a Microcontroller,http://dmitryfrank.com/articles/lisp_on_mcu
+683,Lobsters,lisp,Lisp programming,What Template Haskell gets wrong and Racket gets right,http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/
+684,Lobsters,lisp,Lisp programming,Genetic Programming with clojure.spec,http://gigasquidsoftware.com/blog/2016/07/18/genetic-programming-with-clojure-dot-spec/
+685,Lobsters,lisp,Lisp programming,Full Metal Jacket: A Visual Programming Language Based on Lisp,http://web.onetel.com/~hibou/fmj/FMJ.html
+686,Lobsters,lisp,Lisp programming,Nightcode: An IDE for Clojure,https://sekao.net/nightcode/
+687,Lobsters,lisp,Lisp programming,Cirru Project - indentation-based grammar for languages,http://cirru.org/
+688,Lobsters,lisp,Lisp programming,Bit Wrangling for Fun and Profit,https://github.com/rongarret/BWFP
+689,Lobsters,lisp,Lisp programming,in which the reader is invited to engage in comparative lispology (2013),http://technomancy.us/169
+690,Lobsters,lisp,Lisp programming,Rapid Scheme 0.1: An implementation of R7RS scheme written in R7RS scheme,https://groups.google.com/forum/?hl=en&fromgroups#!topic/comp.lang.scheme/RFRAgbNVtcA
+691,Lobsters,lisp,Lisp programming,Running Open Genera 2.0 on Linux,http://www.loomcom.com/genera/genera-install.html
+692,Lobsters,lisp,Lisp programming,What the Hell is Symbolic Computation?,http://stevelosh.com/blog/2016/06/symbolic-computation/
+693,Lobsters,lisp,Lisp programming,Symbolics Lisp Machine Museum,http://smbx.org/
+694,Lobsters,lisp,Lisp programming,Concerns with Ring (Clojure library),https://juxt.pro/blog/posts/yada-2.html
+695,Lobsters,lisp,Lisp programming,Barliman synthesises programs from tests,https://github.com/webyrd/Barliman
+696,Lobsters,lisp,Lisp programming,"Understand and implement laziness with examples in Scala, JavaScript, Swift and Racket",http://matt.might.net/articles/implementing-laziness/
+697,Lobsters,lisp,Lisp programming,"Interesting Comment on ""My Increasing Frustration With Clojure""",https://www.reddit.com/r/Clojure/comments/4nlhgn/my_increasing_frustration_with_clojure/d4543dt
+698,Lobsters,lisp,Lisp programming,Lisp Koans - Common Lisp Programming Exercises,https://github.com/google/lisp-koans
+699,Lobsters,lisp,Lisp programming,My Increasing Frustration With Clojure,http://www.ashtonkemerling.com/blog/2016/06/11/my-increasing-frustration-with-clojure
+700,Lobsters,lisp,Lisp programming,The Semantics of Destructive Lisp (1986),http://sul-derivatives.stanford.edu/derivative?CSNID=00000086&mediaType=application/pdf
+701,Lobsters,lisp,Lisp programming,A Guided Tour of Lux,https://www.youtube.com/channel/UCtnwGRJTT4UFqcclbE8BrEQ
+702,Lobsters,lisp,Lisp programming,"Carp, a statically typed lisp, without a GC",https://github.com/eriksvedang/Carp
+703,Lobsters,lisp,Lisp programming,Lisp Is Not Functional - Let Over Lambda,http://letoverlambda.com/index.cl/guest/chap5.html
+704,Lobsters,lisp,Lisp programming,Anaphoric Macros - Let Over Lambda,http://letoverlambda.com/index.cl/guest/chap6.html
+705,Lobsters,lisp,Lisp programming,Podcast about Clojure spec with Rich Hickey,http://blog.cognitect.com/cognicast/103
+706,Lobsters,lisp,Lisp programming,Bone Lisp - Lisp Without Garbage Collection,https://github.com/wolfgangj/bone-lisp/
+707,Lobsters,lisp,Lisp programming,Why Lisp?,http://lisperator.net/blog/why-lisp/
+708,Lobsters,lisp,Lisp programming,Introducing yada,https://juxt.pro/blog/posts/yada-1.html
+709,Lobsters,lisp,Lisp programming,Make a Lisp guide,https://github.com/kanaka/mal/blob/master/process/guide.md
+710,Lobsters,lisp,Lisp programming,"7 lines of code, 3 minutes: Implement a programming language",http://matt.might.net/articles/implementing-a-programming-language/
+711,Lobsters,lisp,Lisp programming,A Tool For Thought,http://swannodette.github.io/2016/06/03/tools-for-thought
+712,Lobsters,lisp,Lisp programming,Full Stack Lisp - A Work in Progress Book about modern Common Lisp applications,http://fullstacklisp.com/
+713,Lobsters,lisp,Lisp programming,The Scheme Programming Language book by R. Kent Dybvig,http://www.scheme.com/tspl4/
+714,Lobsters,lisp,Lisp programming,9th European Lisp Symposium,http://www.european-lisp-symposium.org/content-programme-full.html
+715,Lobsters,lisp,Lisp programming,European Lisp Symposium 2016,https://www.youtube.com/playlist?list=PLA66mD-6yK8xqd5XKxzwVBIqf1d3QQXpv
+716,Lobsters,lisp,Lisp programming,One Fish Spec Fish,http://gigasquidsoftware.com/blog/2016/05/29/one-fish-spec-fish/
+717,Lobsters,lisp,Lisp programming,"Measuring GC latencies in Haskell, OCaml, Racket",http://prl.ccs.neu.edu/blog/2016/05/24/measuring-gc-latencies-in-haskell-ocaml-racket/
+718,Lobsters,lisp,Lisp programming,Escape from the Heap: Low-Level Programming in Common Lisp (2015),https://www.youtube.com/watch?v=S7nEZ3TuFpA
+719,Lobsters,lisp,Lisp programming,A Verified Compiler for VLisp PreScheme,http://repository.readscheme.org/ftp/papers/vlisp-lasc/prescheme.pdf
+720,Lobsters,lisp,Lisp programming,An opinionated guide to scheme implementations (2013),https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations
+721,Lobsters,lisp,Lisp programming,uLisp - Lisp for the Arduino,http://www.ulisp.com/
+722,Lobsters,lisp,Lisp programming,polymatheia - Clojure's Transducers in Haskell,http://hypirion.com/musings/haskell-transducers
+723,Lobsters,lisp,Lisp programming,"Neanderthal 0.6.0: now on Nvidia, AMD, and Intel GPU (Clojure matrix library)",http://neanderthal.uncomplicate.org/articles/news/release-0.6.0.html
+724,Lobsters,lisp,Lisp programming,An implemenatation of the Shen programming language in Emacs Lisp,https://github.com/deech/shen-elisp
+725,Lobsters,lisp,Lisp programming,clojure.spec,http://clojure.org/about/spec
+726,Lobsters,lisp,Lisp programming,Introducing clojure.spec,http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec
+727,Lobsters,lisp,Lisp programming,"A 6502 lisp compiler, sprite animation and the NES/Famicom",http://www.pawfal.org/dave/blog/2016/05/a-6502-lisp-compiler-sprite-animation-and-the-nesfamicom/
+728,Lobsters,lisp,Lisp programming,ClojureCL - a Clojure library for parallel computations with OpenCL 2.0 (GPGPU).,http://clojurecl.uncomplicate.org
+729,Lobsters,lisp,Lisp programming,Improving Lisp UX One Form at a Time,http://lisp-univ-etc.blogspot.com/2016/05/improving-lisp-ux-one-form-at-time.html
+730,Lobsters,lisp,Lisp programming,Common Lisp UltraSpec,http://phoe.tymoon.eu/clus/
+731,Lobsters,lisp,Lisp programming,A Personal Lisp Crisis (2012),https://blog.jacius.info/2012/05/29/a-personal-lisp-crisis/
+732,Lobsters,lisp,Lisp programming,Common Lisp,http://lisp-lang.org/
+733,Lobsters,lisp,Lisp programming,"Implementing Sugar & James’ paper, ""Finding the number of clusters in a data set: An information theoretic approach"" in Clojure — Part 1",https://gist.github.com/daveliepmann/88fcf516acc264714de69081ef0c076b
+734,Lobsters,lisp,Lisp programming,Implementation of the Newton-Raphson algorithm in Python and Clojure,http://eskatrem.github.io/Newton-Raphson
+735,Lobsters,lisp,Lisp programming,A fresh benchmark of major Scheme implementations,https://www.nexoid.at/tmp/scheme-benchmark-r7rs.html
+736,Lobsters,lisp,Lisp programming,Configuration: Make it obvious!,https://juxt.pro/blog/posts/aero.html
+737,Lobsters,lisp,Lisp programming,"The puts and takes of core.async, part !!!: You would be downright amazed at what I can do with just a pipeline.",http://blog.goose.haus/2016/04/30/you-would-be-downright-amazed-at-what-i-can-do-with-just-a-pipeline.html
+738,Lobsters,lisp,Lisp programming,"Lively Linear Lisp -- 'Look Ma, No Garbage!' (1992)",http://www.pipeline.com/~hbaker1/LinearLisp.html
+739,Lobsters,lisp,Lisp programming,A polyglot's guide to multiple dispatch - part 3,http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-3/
+740,Lobsters,lisp,Lisp programming,"Chez Scheme, a fast scheme implementation, is now free",https://github.com/cisco/ChezScheme
+741,Lobsters,lisp,Lisp programming,"Oh, a UNIX shell built around Scheme",https://github.com/michaelmacinnis/oh
+742,Lobsters,lisp,Lisp programming,Bringing the speed of Static Dispatch to CLOS — :inline-generic-function,https://github.com/guicho271828/inlined-generic-function
+743,Lobsters,lisp,Lisp programming,"Clojure, The Good Parts",https://rasterize.io/blog/clojure-the-good-parts.html
+744,Lobsters,lisp,Lisp programming,Hot Loading Angular2 With State,http://deliberate-software.com/figwheel-angular2/
+745,Lobsters,lisp,Lisp programming,"Afterglow, environment for algorithmic light shows in Clojure",https://github.com/brunchboy/afterglow
+746,Lobsters,lisp,Lisp programming,8sync: Asynchronous Programming Made Awesome,http://www.gnu.org/software/8sync/
+747,Lobsters,lisp,Lisp programming,Angular2 in ClojureScript,http://deliberate-software.com/cljs-angular2/
+748,Lobsters,lisp,Lisp programming,"Try Code: An online, interactive racket tutorial",http://trycode.io/
+749,Lobsters,lisp,Lisp programming,"The puts and takes of core.async, part !!: error handling for producers.",http://goose.haus/2016/04/04/producers-and-error-handling.html
+750,Lobsters,lisp,Lisp programming,Overtone Recipes - Programming music with Clojure,https://overtone-recipes.github.io/remake/2016/04/03/recreating-da-funk.html
+751,Lobsters,lisp,Lisp programming,Free your project from dependency hell,http://darkchestnut.com/2016/free-your-project-from-dependency-hell/
+752,Lobsters,lisp,Lisp programming,The puts and takes of core.async,http://goose.haus/2016/04/01/the-puts-and-takes-of-core-async.html
+753,Lobsters,lisp,Lisp programming,Wrangling State In Clojure,http://deliberate-software.com/clojure-state/
+754,Lobsters,lisp,Lisp programming,Forth Thinking,https://leanpub.com/readevalprintlove003/read
+755,Lobsters,lisp,Lisp programming,"ANA, a computer painting program",https://thebluereview.org/ana-ana-is-not-aaron-computer-painting/
+756,Lobsters,lisp,Lisp programming,LuxLang/lux,https://github.com/LuxLang/lux
+757,Lobsters,lisp,Lisp programming,CS 6510 Practical Functional Programming,https://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/
+758,Lobsters,lisp,Lisp programming,core.async Buffering Behavior,http://ce2144dc-f7c9-4f54-8fb6-7321a4c318db.s3.amazonaws.com/buffer.html
+759,Lobsters,lisp,Lisp programming,First impressions on Clojure,https://facundoolano.wordpress.com/2016/03/20/first-impressions-on-clojure/
+760,Lobsters,lisp,Lisp programming,Elements of Clojure,http://elementsofclojure.com/
+761,Lobsters,lisp,Lisp programming,Inside Clojure's Collection Model,http://insideclojure.org/2016/03/16/collections/
+762,Lobsters,lisp,Lisp programming,Lisp Flavoured Erlang 1.0 Released,https://twitter.com/rvirding/status/710259707819249664
+763,Lobsters,lisp,Lisp programming,klisp - a Kernel Programming Language implementation,http://klisp.org/
+764,Lobsters,lisp,Lisp programming,This just isn't functional,https://codewords.recurse.com/issues/six/this-just-isnt-functional
+765,Lobsters,lisp,Lisp programming,Parser combinator macros for Common Lisp,https://github.com/arathnim/parmesan
+766,Lobsters,lisp,Lisp programming,Why Did Symbolics Fail?,https://web.archive.org/web/20080614223925/http://dlweinreb.wordpress.com/2007/11/16/why-did-symbolics-fail/
+767,Lobsters,lisp,Lisp programming,"LambdaNative: Scheme for Mobile, Desktop, and Embedded Cross-Platform Development",http://www.infoq.com/news/2016/03/lambdanative-cross-platform-dev
+768,Lobsters,lisp,Lisp programming,Urlang: A racket-like syntax for javascript,https://github.com/soegaard/urlang
+769,Lobsters,lisp,Lisp programming,"Lisp: It's Not About Macros, It's About Read","http://jlongster.com/Lisp--It-s-Not-About-Macros,-It-s-About-Read"
+770,Lobsters,lisp,Lisp programming,Beautiful Racket preview: Make your first programming language — in one hour,http://beautifulracket.com/first-lang.html
+771,Lobsters,lisp,Lisp programming,CLJS Fiddle: A clojurescript + reagent web playground,http://cljsfiddle.com/
+772,Lobsters,lisp,Lisp programming,LISP I Programmer's Manual (1960),http://www.softwarepreservation.org/projects/LISP/book/LISP%20I%20Programmers%20Manual.pdf
+773,Lobsters,lisp,Lisp programming,"Interview with Robert Virding, creator of Lisp Flavored Erlang, an alien technology masterpiece",https://medium.com/this-is-not-a-monad-tutorial/interview-with-robert-virding-creator-lisp-flavored-erlang-an-alien-technology-masterpiece-c37003945c
+774,Lobsters,lisp,Lisp programming,"Klangmeister, music live coding in the browser",http://ctford.github.io/klangmeister/
+775,Lobsters,lisp,Lisp programming,"Clojarr, friendly Clojure fork",https://www.arrdem.com/2016/02/22/clojarr_-_a_friendly_clojure_fork/
+776,Lobsters,lisp,Lisp programming,Language Safety Score Mark 2 - Deliberate Software,http://deliberate-software.com/safety-rank-part-2/
+777,Lobsters,lisp,Lisp programming,Slippery exceptions in Clojure and Ruby,http://blog.appcanary.com/2016/slippery-exception-clojure-ruby.html
+778,Lobsters,lisp,Lisp programming,Proximity and Brevity,http://derek.troywest.com/articles/proximity-and-brevity
+779,Lobsters,lisp,Lisp programming,Shen: A Sufficiently Advanced Lisp (2014),https://www.youtube.com/watch?v=lMcRBdSdO_U
+780,Lobsters,lisp,Lisp programming,Fairy Tale Word Vectors,http://gigasquidsoftware.com/blog/2016/02/10/fairy-tale-word-vectors/
+781,Lobsters,lisp,Lisp programming,Parinfer for Emacs Lisp,https://github.com/oakmac/parinfer-elisp
+782,Lobsters,lisp,Lisp programming,Ketos: A lisp-like scripting and extension language for rust,https://github.com/murarth/ketos
+783,Lobsters,lisp,Lisp programming,Herbert Stoyan’s Lisp collection at CHM,http://www.mcjones.org/dustydecks/archives/2010/07/29/185/
+784,Lobsters,lisp,Lisp programming,Common Lisp: First Impressions,http://blog.00null.net/common-lisp-first-impressions/
+785,Lobsters,lisp,Lisp programming,a lambda is not (necessarily) a closure,https://wingolog.org/archives/2016/02/08/a-lambda-is-not-necessarily-a-closure
+786,Lobsters,lisp,Lisp programming,Why Hyperdimensional Socks Never Match,http://gigasquidsoftware.com/blog/2016/02/06/why-hyperdimensional-socks-never-match/
+787,Lobsters,lisp,Lisp programming,Gerbil: A new scheme dialect built on top of gambit,https://github.com/vyzo/gerbil
+788,Lobsters,lisp,Lisp programming,slime-macrostep,http://kvardek-du.kerno.org/2016/02/slime-macrostep.html
+789,Lobsters,lisp,Lisp programming,"A Small, Nice Thing",http://codahale.com/a-small-nice-thing/
+790,Lobsters,lisp,Lisp programming,Meta-Meta-Programming,http://matt.might.net/papers/ballantyne2014metameta.pdf
+791,Lobsters,lisp,Lisp programming,State of Clojure 2015 Survey Results,http://blog.cognitect.com/blog/2016/1/28/state-of-clojure-2015-survey-results
+792,Lobsters,lisp,Lisp programming,Making a game in CHICKEN scheme,https://www.upyum.com/en/post/3.xhtml
+793,Lobsters,lisp,Lisp programming,Let's add a statistical profiler to CHICKEN!,http://www.more-magic.net/posts/statistical-profiling.html
+794,Lobsters,lisp,Lisp programming,Practical Optional Types for Clojure,http://frenchy64.github.io/papers/esop16-short.pdf
+795,Lobsters,lisp,Lisp programming,Thoughts on Clojure Training - Reflections on bringing developers up to speed in Clojure,http://blog.juxt.pro/posts/training.html
+796,Lobsters,lisp,Lisp programming,"Compiling Clojure to JavaScript, pt. 2 – Why No Eval? (2011)",http://blog.fogus.me/2011/07/29/compiling-clojure-to-javascript-pt-2-why-no-eval/
+797,Lobsters,lisp,Lisp programming,"Why We Use Om, and Why We’re Excited for Om Next",http://blog.circleci.com/why-we-use-om-and-why-were-excited-for-om-next/
+798,Lobsters,lisp,Lisp programming,Datomic: The most innovative DB you've never heard of,http://augustl.com/blog/2016/datomic_the_most_innovative_db_youve_never_heard_of/
+799,Lobsters,lisp,Lisp programming,Clojure 1.8,http://blog.cognitect.com/blog/2016/1/19/clojure-18
+800,Lobsters,lisp,Lisp programming,Unboxing in Guile,https://wingolog.org/archives/2016/01/19/unboxing-in-guile
+801,Lobsters,lisp,Lisp programming,Improving Clojure's Error Messages with Grammars,https://www.youtube.com/watch?v%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D=kt4haSH2xcs
+802,Lobsters,lisp,Lisp programming,"The Haskell Rewrite (""...the motivation for moving away from Racket"")",http://oden-lang.org/blog/compiler/2016/01/18/the-haskell-rewrite.html
+803,Lobsters,lisp,Lisp programming,Papers We Love - Munich: Probabilistic Programming,https://www.youtube.com/watch?v=8uoCdjbZT6k
+804,Lobsters,lisp,Lisp programming,The Half Strap: Self-hosting and Guile,https://wingolog.org/archives/2016/01/11/the-half-strap-self-hosting-and-guile
+805,Lobsters,lisp,Lisp programming,A functional implementation of dynamic wind,http://awwx.github.io/functional-implementation-of-dynamic-wind.html
+806,Lobsters,lisp,Lisp programming,LambdaConf 2015,https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS
+807,Lobsters,lisp,Lisp programming,Making a Mini-Lisp: Introduction to Transpilers in JavaScript,https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/
+808,Lobsters,lisp,Lisp programming,Algebraic Datatypes in Typed Racket with macros,http://lexi-lambda.github.io/blog/2015/12/21/adts-in-typed-racket-with-macros/
+809,Lobsters,lisp,Lisp programming,Is Sound Gradual Typing Dead?,http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
+810,Lobsters,lisp,Lisp programming,A philosophical difference between Haskell and Lisp,http://chrisdone.com/posts/haskell-lisp-philosophy-difference
+811,Lobsters,lisp,Lisp programming,Clojure Design Patterns,http://mishadoff.com/blog/clojure-design-patterns/
+812,Lobsters,lisp,Lisp programming,Experimental Meta-Programming for Lua,http://mr.gy/blog/lua-meta-programming.html
+813,Lobsters,lisp,Lisp programming,The Anatomy of a Puzzle - Specification Driven Programming in Common Lisp,https://chriskohlhepp.wordpress.com/specification-driven-programming-in-common-lisp/
+814,Lobsters,lisp,Lisp programming,Ludum Dare 34 Postmortem / Steve Losh,http://stevelosh.com/blog/2015/12/ludum-dare-34/
+815,Lobsters,lisp,Lisp programming,Logic Programming in Clojure – Finite Domain Constraints,http://spin.atomicobject.com/2015/12/14/logic-programming-clojure-finite-domain-constraints/
+816,Lobsters,lisp,Lisp programming,"(Shem Golem), a Haskell 98 derived compile to JS Lisp",http://shem.io/
+817,Lobsters,lisp,Lisp programming,20 cool Clojure functions,http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
+818,Lobsters,lisp,Lisp programming,Staapl: A scheme-metaprogrammable PIC18F Forth,http://zwizwa.be/staapl/staapl.html
+819,Lobsters,lisp,Lisp programming,Binding as Sets of Scopes: Notes on a new model of macro expansion for Racket,https://www.cs.utah.edu/plt/scope-sets/
+820,Lobsters,lisp,Lisp programming,The Bipolar Lisp Programmer,http://www.shenlanguage.org/lambdassociates/htdocs/blog/bipolar.htm
+821,Lobsters,lisp,Lisp programming,Loops in Lisp Part 1: Goto,http://malisper.me/2015/11/24/loops-lisp-part-1-goto/
+822,Lobsters,lisp,Lisp programming,Clojure/conj 2015 Videos,https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf
+823,Lobsters,lisp,Lisp programming,A post on lisp machines.,http://kremlin.enterprises/post/129364443055/your-code-is-so-bad-we-had-to-make-etclocal
+824,Lobsters,lisp,Lisp programming,ClojureScript for Skeptics,https://www.youtube.com/watch?v=gsffg5xxFQI
+825,Lobsters,lisp,Lisp programming,"The Rise of ""Worse is Better"" (1991)",https://www.jwz.org/doc/worse-is-better.html
+826,Lobsters,lisp,Lisp programming,Oden Lang,https://oden-lang.github.io/
+827,Lobsters,lisp,Lisp programming,Rush = Python's grammar + C++'s efficiency + Lisp's power,https://github.com/roundsheep/rush
+828,Lobsters,lisp,Lisp programming,Automatic state management in Onyx (clojure data processing platform),http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html
+829,Lobsters,lisp,Lisp programming,Parinfer - simpler Lisp editing,http://shaunlebron.github.io/parinfer/index.html
+830,Lobsters,lisp,Lisp programming,SOLID Principles in Clojure,http://www.lispcast.com/solid-principles-in-clojure
+831,Lobsters,lisp,Lisp programming,Clojure Reader Conditionals By Example,http://danielcompton.net/2015/06/10/clojure-reader-conditionals-by-example
+832,Lobsters,lisp,Lisp programming,Serious Software SpecLisp for Sinclair ZX Spectrum,http://blog.funcall.org//lisp/2015/10/30/zx-spectrum-lisp/
+833,Lobsters,lisp,Lisp programming,Internal Clojure Libraries,https://honza.ca/2015/11/internal-clojure-libraries
+834,Lobsters,lisp,Lisp programming,Om/Next: The Reconciler,https://medium.com/@kovasb/om-next-the-reconciler-af26f02a6fb4
+835,Lobsters,lisp,Lisp programming,"two paths, one peak: a view from below on high-performance language implementations",https://wingolog.org/archives/2015/11/03/two-paths-one-peak-a-view-from-below-on-high-performance-language-implementations
+836,Lobsters,lisp,Lisp programming,"Recursive Functions of Symbolic Expressions andTheir Computation by Machine, Part I",http://www-formal.stanford.edu/jmc/recursive/recursive.html
+837,Lobsters,lisp,Lisp programming,Implementing a LISPy Language in Haskell,https://harlanhaskins.com/2015/11/02/implementing-a-lisp-in-haskell.html
+838,Lobsters,lisp,Lisp programming,Hal Abelson Q&A,http://www.codequarterly.com/2011/hal-abelson/
+839,Lobsters,lisp,Lisp programming,Applying Property Based Testing to User Interfaces,https://github.com/omcljs/om/wiki/Applying-Property-Based-Testing-to-User-Interfaces
+840,Lobsters,lisp,Lisp programming,Getting a full PDF from a DRM-encumbered online textbook,http://vgel.me/posts/cracking-online-textbook/
+841,Lobsters,lisp,Lisp programming,Speech Act Classification for Text with Clojure,http://gigasquidsoftware.com/blog/2015/10/20/speech-act-classification-for-text-with-clojure/
+842,Lobsters,lisp,Lisp programming,The birth of LISP – a summary of John McCarthy’s original paper,http://swizec.com/blog/the-birth-of-lisp-a-summary-of-john-mccarthys-original-paper/swizec/5075
+843,Lobsters,lisp,Lisp programming,core.async in the browser is sweet,http://ku1ik.com/2015/10/12/sweet-core-async.html
+844,Lobsters,lisp,Lisp programming,AI Winter,http://c2.com/cgi/wiki?AiWinter
+845,Lobsters,lisp,Lisp programming,Standardising racket's threading macros,https://groups.google.com/forum/#!topic/racket-users/uZnfMrbAE98
+846,Lobsters,lisp,Lisp programming,Functional-navigational programming in Clojure(Script) with Specter,http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html
+847,Lobsters,lisp,Lisp programming,Why CircleCI is no longer using Clojure's core.typed,http://blog.circleci.com/why-were-no-longer-using-core-typed/
+848,Lobsters,lisp,Lisp programming,Say What You Mean,http://nklein.com/2015/09/say-what-you-mean/
+849,Lobsters,lisp,Lisp programming,makelisp: a lisp implementation in GNU Make,https://github.com/shinh/makelisp
+850,Lobsters,lisp,Lisp programming,Inductive Programming in mm,https://thursdays.null.tl/2015/09/10/mm-inductive-programming/
+851,Lobsters,lisp,Lisp programming,Defasm,http://malisper.me/2015/09/08/defasm/
+852,Lobsters,lisp,Lisp programming,SICP Distilled Now Public,http://www.thattommyhall.com/2015/09/06/sicp-distilled-now-public/
+853,Lobsters,lisp,Lisp programming,"Higher order functions, functors and monads",http://kaygun.tumblr.com/post/38072973284/higher-order-functions-functors-and-monads-a
+854,Lobsters,lisp,Lisp programming,List comprehensions in Common Lisp,https://github.com/fredokun/lisp-list-comprehensions/blob/master/list-comprehensions.lisp.md
+855,Lobsters,lisp,Lisp programming,Scanabanana,http://sigusr2.net/scanabanana.html
+856,Lobsters,lisp,Lisp programming,Defaddress,http://malisper.me/2015/08/27/defaddress/
+857,Lobsters,lisp,Lisp programming,Conversations with Datomic - Part 3,http://gigasquidsoftware.com/blog/2015/08/25/converstations-with-datomic-3/
+858,Lobsters,lisp,Lisp programming,"State of the Common Lisp Ecosystem, 2015",http://eudoxia.me/article/common-lisp-sotu-2015
+859,Lobsters,lisp,Lisp programming,When a synonym-stream is useful,http://lisptips.com/post/127524780849
+860,Lobsters,lisp,Lisp programming,Debugging Lisp Part 5: Miscellaneous,http://malisper.me/2015/08/19/debugging-lisp-part-5-miscellaneous/
+861,Lobsters,lisp,Lisp programming,Conversations with Datomic Part 2,http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
+862,Lobsters,lisp,Lisp programming,Conversations with Datomic,http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
+863,Lobsters,lisp,Lisp programming,Parens of the Dead,http://www.parens-of-the-dead.com/
+864,Lobsters,lisp,Lisp programming,A page about call/cc (2002),http://www.madore.org/~david/computers/callcc.html
+865,Lobsters,lisp,Lisp programming,Article series on SICP in Clojure,http://www.afronski.pl/sicp-in-clojure/2015/08/07/sicp-in-clojure-chapter-2.html
+866,Lobsters,lisp,Lisp programming,An argument against call/cc (2012),http://okmij.org/ftp/continuations/against-callcc.html
+867,Lobsters,lisp,Lisp programming,On eval in dynamic languages generally and in Racket specifically (2011),http://blog.racket-lang.org/2011/10/on-eval-in-dynamic-languages-generally.html
+868,Lobsters,lisp,Lisp programming,ClojureScript and the Blub Paradox,http://wildermuthn.github.io/2015/08/04/clojurescript-and-the-blub-paradox/
+869,Lobsters,lisp,Lisp programming,Strictly Tagged Clojure,http://arrdem.com/2015/08/03/Strictly-Tagged-Clojure-Core/
+870,Lobsters,lisp,Lisp programming,CClasp only 4 times slower than SBCL/C++,https://drmeister.wordpress.com/2015/07/30/timing-data-comparing-cclasp-to-c-sbcl-and-python/
+871,Lobsters,lisp,Lisp programming,Articulate Lisp,http://articulate-lisp.com/
+872,Lobsters,lisp,Lisp programming,ClojureScript Next,http://swannodette.github.io/2015/07/29/clojurescript-17/
+873,Lobsters,lisp,Lisp programming,Demand-Driven Architecture by Kovas Boguta & David Nolen,http://www.infoq.com/presentations/domain-driven-architecture
+874,Lobsters,lisp,Lisp programming,Parsing EDIFACT with Clojure's Instaparse,http://www.lexicallyscoped.com/2015/07/27/parse-edifact-w-clojure-instaparse.html
+875,Lobsters,lisp,Lisp programming,Use cases for CHANGE-CLASS in Common Lisp,https://www.snellman.net/blog/archive/2015-07-27-use-cases-for-change-class-in-common-lisp/
+876,Lobsters,lisp,Lisp programming,Loop Optimizations in Guile,http://wingolog.org/archives/2015/07/28/loop-optimizations-in-guile
+877,Lobsters,lisp,Lisp programming,RcSim - A Model Flight Simulator,http://picolisp.com/wiki/?rcsim
+878,Lobsters,lisp,Lisp programming,JavaScript Isn't Scheme,http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/
+879,Lobsters,lisp,Lisp programming,Functional Programming in Python [free ebook],http://www.oreilly.com/programming/free/files/functional-programming-python.pdf
+880,Lobsters,lisp,Lisp programming,Ur-Scheme: A GPL self-hosting compiler from a subset of R5RS Scheme to fast Linux x86 asm,http://canonical.org/~kragen/sw/urscheme/
+881,Lobsters,lisp,Lisp programming,Debugging Lisp Part 2: Inspecting,http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/
+882,Lobsters,lisp,Lisp programming,Making Crash Bandicoot - GOOL,http://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/
+883,Lobsters,lisp,Lisp programming,Syntactic Corn Syrup,http://nklein.com/2015/06/syntactic-corn-syrup/
+884,Lobsters,lisp,Lisp programming,What is a closure?,https://groups.google.com/forum/#!msg/comp.lang.scheme/Wd69ecH082Y/lRJC49tlJ2UJ
+885,Lobsters,lisp,Lisp programming,Om Next - David Nolen,http://www.youtube.com/watch?v=ByNs9TG30E8
+886,Lobsters,lisp,Lisp programming,Debugging Lisp Part 1: Recompilation,http://malisper.me/2015/07/07/debugging-lisp-part-1-recompilation/
+887,Lobsters,lisp,Lisp programming,Ziggurat is a meta-language system,http://www.ccs.neu.edu/home/shivers/papers/ziggurat-jfp.pdf
+888,Lobsters,lisp,Lisp programming,Disney VR: Redux,http://www.realityprime.com/blog/2015/07/disney-vr-redux/
+889,Lobsters,lisp,Lisp programming,Fields in Physics are like Curried Functions or Physics for Functional Programmers,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.1181
+890,Lobsters,lisp,Lisp programming,Chemical Computing with Clojure,http://gigasquidsoftware.com/chemical-computing/index.html
+891,Lobsters,lisp,Lisp programming,Running Lisp in Production,http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html
+892,Lobsters,lisp,Lisp programming,The Nature of Lisp (2006),http://www.defmacro.org/ramblings/lisp.html
+893,Lobsters,lisp,Lisp programming,Racket v6.2 released,http://blog.racket-lang.org/2015/06/racket-v62.html
+894,Lobsters,lisp,Lisp programming,pilos: 64-bit PicoLisp running on bare metal,http://picolisp.com/wiki/?PilOS
+895,Lobsters,lisp,Lisp programming,"Parsing BibTeX in Racket and generating S-Expressions, JSON, XML and BibTeX",http://matt.might.net/articles/parsing-bibtex/
+896,Lobsters,lisp,Lisp programming,How I made my Clojure database tests 5x faster,http://www.lispcast.com/clojure-database-test-faster
+897,Lobsters,lisp,Lisp programming,Learning Lisp Was Hard,http://deliberate-software.com/learning-lisp-was-hard/
+898,Lobsters,lisp,Lisp programming,Reviving Lisp for smaller programmable machines,http://picolisp.com/wiki/!download?-A300
+899,Lobsters,lisp,Lisp programming,Deterministic Pixels,http://darrennewton.com/2015/01/04/deterministic-pixels/
+900,Lobsters,lisp,Lisp programming,Shen-JS in-browser REPL,http://gravicappa.github.io/shen-js/shen.html#.doc/welcome.html
+901,Lobsters,lisp,Lisp programming,Pycket: A Tracing JIT For a Functional Language,http://homes.soic.indiana.edu/samth/pycket-draft.pdf
+902,Lobsters,lisp,Lisp programming,The Racket Blog: King of the Hill on Rosetta Code,http://blog.racket-lang.org/2015/05/king-of-hill-on-rosetta-code.html
+903,Lobsters,lisp,Lisp programming,The Last Line Effect and Extralinguistic Mechanisms,http://hypercomplex.net/2015/04/24/last-line/
+904,Lobsters,lisp,Lisp programming,Melanie Mitchell - Visual Situation Recognition,http://www.youtube.com/watch?v=I1ay-iwk2sI
+905,Lobsters,lisp,Lisp programming,Everything Will Flow - A Talk on Applied Queueing Theory,https://www.youtube.com/watch?v=1bNOO3xxMc0
+906,Lobsters,lisp,Lisp programming,A node.js kernel for jupyter/ipython,https://github.com/notablemind/jupyter-nodejs
+907,Lobsters,lisp,Lisp programming,European Lisp Symposium 2015 (ELS2015) Proceedings,http://www.european-lisp-symposium.org/ELS2015.pdf
+908,Lobsters,lisp,Lisp programming,"Dead-simple threading with functions, in Clojure",http://missingfaktor.blogspot.com/2014/03/dead-simple-threading-with-functions-in.html
+909,Lobsters,lisp,Lisp programming,Pokemon Yellow Total Control Hack,http://aurellem.org/vba-clojure/html/total-control.html
+910,Lobsters,lisp,Lisp programming,Dependently Typed Racket (Informal Preview),http://www.youtube.com/watch?v=ZK0WtcppZuA
+911,Lobsters,lisp,Lisp programming,Contracts in Clojure,http://www.slideshare.net/jessitron/contracts-inclojurepete
+912,Lobsters,lisp,Lisp programming,How I Start: Clojure,http://howistart.org/posts/clojure/1/
+913,Lobsters,lisp,Lisp programming,A million lines of Lisp,http://psung.blogspot.com/2008/06/million-lines-of-lisp.html
+914,Lobsters,lisp,Lisp programming,Lisping at JPL (2002),http://www.flownet.com/gat/jpl-lisp.html
+915,Lobsters,lisp,Lisp programming,F*dging up a Racket,https://www.hashcollision.org/brainfudge/
+916,Lobsters,lisp,Lisp programming,The Racket Manifesto,http://www.ccs.neu.edu/home/matthias/Tmp/manifesto/
+917,Lobsters,lisp,Lisp programming,Gerald Sussman | Scheme (1978-1981),https://www.artsy.net/artwork/gerald-sussman-scheme
+918,Lobsters,lisp,Lisp programming,Dale: A Systems Programming Language With No GC,https://github.com/tomhrr/dale
+919,Lobsters,lisp,Lisp programming,Making Crash Bandicoot - part 1,http://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/
+920,Lobsters,lisp,Lisp programming,Simple materialized views in kafka and clojure,http://spootnik.org/entries/2015/03/10_simple-materialized-views-in-kafka-and-clojure.html
+921,Lobsters,lisp,Lisp programming,Lessons in the Fundamentals,http://swannodette.github.io/2015/03/09/lessons-in-the-fundamentals/
+922,Lobsters,lisp,Lisp programming,Pixie: stunningly good,http://blog.goodstuff.im/pixie
+923,Lobsters,lisp,Lisp programming,Deepening LLDB Integration with Open Dylan,http://dylanfoundry.org/2015/03/02/deepening-lldb-integration/
+924,Lobsters,lisp,Lisp programming,mal - Make a Lisp,https://github.com/kanaka/mal
+925,Lobsters,lisp,Lisp programming,Hacking S-expressions into Ruby,https://sonnym.github.io/2015/02/26/hacking-s-expressions-into-ruby/
+926,Lobsters,lisp,Lisp programming,SICP: Lisp-flavored Erlang edition,http://lfe.gitbooks.io/sicp/content/
+927,Lobsters,lisp,Lisp programming,Memory Management in Oxischeme,http://fitzgeraldnick.com/weblog/60/
+928,Lobsters,lisp,Lisp programming,End-to-end Production in Clojure,http://www.appsflyer.com/end-end-production-clojure/
+929,Lobsters,lisp,Lisp programming,Six Unusual Reasons Why Clojure Is a Delight,http://deliberate-software.com/unusual-reasons-why-clojure-is-a-delight/
+930,Lobsters,lisp,Lisp programming,"An opinionated CQRS/ES implementation using Onyx, Datomic, DynamoDB, Kafka and Zookeeper.",http://yuppiechef.github.io/cqrs-server/
+931,Lobsters,lisp,Lisp programming,Goby: Develop iOS apps with ClojureScript.,https://github.com/mfikes/goby
+932,Lobsters,lisp,Lisp programming,Vim as IDE,http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/
+933,Lobsters,lisp,Lisp programming,The Future of the LispM,http://arrdem.com/2014/11/28/the_future_of_the_lispm/
+934,Lobsters,lisp,Lisp programming,I Have No Idea What I’m Doing,http://codon.com/i-have-no-idea-what-im-doing
+935,Lobsters,lisp,Lisp programming,First Bot Ascension in Nethack,https://www.reddit.com/r/nethack/comments/2tluxv/yaap_fullauto_bot_ascension_bothack
+936,Lobsters,lisp,Lisp programming,A Tale of Jedi Masters and Ninjas,http://tagide.com/blog/2014/10/jedi-masters/
+937,Lobsters,lisp,Lisp programming,"Early bird registration opens for LambdaConf 2015 (May 22 - 24, Boulder CO)",http://degoesconsulting.com/lambdaconf-2015
+938,Lobsters,lisp,Lisp programming,"Mezzano, an operating system written in Common Lisp.",https://github.com/froggey/Mezzano
+939,Lobsters,lisp,Lisp programming,Clojure's Partition with Game of Thrones Pugs,http://gigasquidsoftware.com/blog/2015/01/26/partition-with-game-of-thrones-pugs/
+940,Lobsters,lisp,Lisp programming,Programming on Valium,http://fare.livejournal.com/183297.html
+941,Lobsters,lisp,Lisp programming,Monads in Dynamically-Typed Languages,http://eighty-twenty.org/2015/01/25/monads-in-dynamically-typed-languages/
+942,Lobsters,lisp,Lisp programming,Lisp flavoured erlang,http://lfe.io/
+943,Lobsters,lisp,Lisp programming,Get Bonus: Exploring predominantly functional video game design,https://github.com/get-bonus/get-bonus
+944,Lobsters,lisp,Lisp programming,Dylan and Gradual Typing,http://dylanfoundry.org/2015/01/20/dylan-and-gradual-typing/
+945,Lobsters,lisp,Lisp programming,Clojure Code Review: Clj-Slack teardown,http://yellerapp.com/posts/2015-01-14-clj-slack-review.html
+946,Lobsters,lisp,Lisp programming,The eleventh year: what to do after having taught yourself programming in ten years,https://medium.com/@unbalancedparen/the-eleventh-year-what-to-do-after-having-taught-yourself-programming-in-ten-years-a607edfcef03
+947,Lobsters,lisp,Lisp programming,Lisp: A Language for Stratified Design,http://dspace.mit.edu/bitstream/handle/1721.1/6064/AIM-986.pdf;jsessionid=F52EACA889313621A3394561E38ED4C1?sequence=2
+948,Lobsters,lisp,Lisp programming,History of T,http://www.paulgraham.com/thist.html
+949,Lobsters,lisp,Lisp programming,Rust for Clojurists,https://gist.github.com/oakes/4af1023b6c5162c6f8f0
+950,Lobsters,lisp,Lisp programming,Conspire: A Programming Environment for NOWHERE,http://blog.duangle.com/2015/01/conspire-programming-environment-for.html
+951,Lobsters,lisp,Lisp programming,Shen going BSD,https://groups.google.com/d/topic/qilang/e4-PcL2K2WQ/discussion
+952,Lobsters,lisp,Lisp programming,"Using Microscheme to write a keyboard controller, part 1",http://atreus.technomancy.us/firmware
+953,Lobsters,lisp,Lisp programming,Corman Lisp (Common Lisp) released under MIT license,https://github.com/sharplispers/cormanlisp
+954,Lobsters,lisp,Lisp programming,Clojure: Koan to Kata,http://paul.henrich.me/posts/2015/01/clojure-koan-to-kata.html
+955,Lobsters,lisp,Lisp programming,Unconditional FizzBuzz,http://carmenla.me/blog/posts/2014-12-31-fizzbuzz.html
+956,Lobsters,lisp,Lisp programming,Clojure 2014 Year in Review,http://stuartsierra.com/2015/01/02/clojure-2014-year-in-review
+957,Lobsters,lisp,Lisp programming,Open Dylan 2014.1 released,http://opendylan.org/news/2015/01/01/new-release.html
+958,Lobsters,lisp,Lisp programming,termite - Erlang-style concurrency for Gambit Scheme,https://code.google.com/p/termite/
+959,Lobsters,lisp,Lisp programming,nanopass-framework compiler framework,https://github.com/akeep/nanopass-framework
+960,Lobsters,lisp,Lisp programming,"Indie languages— Interview with Timothy Baldridge, Pixie’s language creator",https://medium.com/indie-programming-languages/indie-languages-interview-pixie-and-timothy-baldridge-cadbc36418dc
+961,Lobsters,lisp,Lisp programming,You Can't Dig Upwards,http://www.evanmiller.org/you-cant-dig-upwards.html
+962,Lobsters,lisp,Lisp programming,Jepsen: Call Me Maybe: simulating network partitions in DBs,https://github.com/aphyr/jepsen
+963,Lobsters,lisp,Lisp programming,Handy Emacs Project Tip,http://deliberate-software.com/emacs-project-tip/
+964,Lobsters,lisp,Lisp programming,Tesser: Clojure reducers for parallel execution on distributed systems,https://github.com/aphyr/tesser
+965,Lobsters,lisp,Lisp programming,s7: A tiny embeddable scheme,https://ccrma.stanford.edu/software/snd/snd/s7.html
+966,Lobsters,lisp,Lisp programming,Hy - An embedded Lisp for Python,http://docs.hylang.org/en/latest/
+967,Lobsters,lisp,Lisp programming,"Why Lisp macros are cool, a Perl perspective (2005)",http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html#
+968,Lobsters,lisp,Lisp programming,Gambit in Emacs in the browser,https://feeley.github.io/gambit-in-emacs-in-the-browser/
+969,Lobsters,lisp,Lisp programming,Read-Eval-Print-λove Issue #002 - UrLISP,https://leanpub.com/readevalprintlove002/read
+970,Lobsters,lisp,Lisp programming,Clojure is not for geniuses,http://adambard.com/blog/clojure-is-not-for-geniuses/
+971,Lobsters,lisp,Lisp programming,What can Scheme learn from Javascript?,https://wingolog.org/pub/scheme-workshop-2014-slides.pdf
+972,Lobsters,lisp,Lisp programming,Riffle: a high-performance write-once key/value storage engine for Clojure,http://blog.factual.com/how-factual-uses-persistent-storage-for-its-real-time-services
+973,Lobsters,lisp,Lisp programming,"Rhine, ""a Clojure-inspired Lisp on LLVM""",https://github.com/artagnon/rhine
+974,Lobsters,lisp,Lisp programming,Conway's Life and Clojurescript,http://blog.goose.haus/2014/11/16/life-and-clojurescript.html
+975,Lobsters,lisp,Lisp programming,"on yakshave, on color, on cosines, on glitchen",http://wingolog.org/archives/2014/11/14/on-yakshave-on-color-on-cosines-on-glitchen
+976,Lobsters,lisp,Lisp programming,Using Clojure To Generate Java To Reimplement Clojure,http://blog.factual.com/using-clojure-to-generate-java-to-reimplement-clojure
+977,Lobsters,lisp,Lisp programming,Playing with clojure core interfaces,http://spootnik.org/entries/2014/11/06_playing-with-clojure-core-interfaces.html
+978,Lobsters,lisp,Lisp programming,From angular.js to om: a walk-through,http://spootnik.org/entries/2014/10/26_from-angularjs-to-om-a-walk-through.html
+979,Lobsters,lisp,Lisp programming,Planjure: A* and Dijkstra's in Om,http://elbenshira.com/blog/planjure-astar-and-dijkstras-in-om/
+980,Lobsters,lisp,Lisp programming,"Onyx: Distributed, fault tolerant data processing for Clojure",https://github.com/MichaelDrogalis/onyx
+981,Lobsters,lisp,Lisp programming,Eve so far,http://incidentalcomplexity.com/2014/10/16/retrospective/
+982,Lobsters,lisp,Lisp programming,"Local State, Global Concerns: Better Snapshot Debugging for Om",http://blog.circleci.com/local-state-global-concerns/
+983,Lobsters,lisp,Lisp programming,"Pixie — A small fast, native lisp with ""magical"" powers",https://github.com/pixie-lang/pixie
+984,Lobsters,lisp,Lisp programming,Zelkova: Elm-style FRP for Clojure and ClojureScript,https://groups.google.com/d/topic/clojurescript/2Q9nTy0ar0I/discussion
+985,Lobsters,lisp,Lisp programming,Arcadia: Unity3D + Clojure,http://arcadia-unity.tumblr.com/post/100257212548/arcadia-0-1a-launched
+986,Lobsters,lisp,Lisp programming,Easy clojure logging set-up with logconfig,http://spootnik.org/entries/2014/10/15_easy-clojure-logging-set-up-with-logconfig.html
+987,Lobsters,lisp,Lisp programming,Shen Under BSD,http://www.shenlanguage.org/shenbsd.htm
+988,Lobsters,lisp,Lisp programming,Little scheme interpreter in QBasic,https://www.ma.utexas.edu/users/dmenezes/lisp.html
+989,Lobsters,lisp,Lisp programming,Sound: why is it so darn imperative?,https://www.youtube.com/watch?v=DkIVzHNjNEA
+990,Lobsters,lisp,Lisp programming,Purely Functional 3D in Typed Racket,https://www.youtube.com/watch?v=t3xdv4UP9-U&index=6&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh
+991,Lobsters,lisp,Lisp programming,Infinite Functional Entertainment at 60 FPS!,https://www.youtube.com/watch?v=_x0Ob2HY8C4&index=5&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh
+992,Lobsters,lisp,Lisp programming,Clojure Distilled,http://yogthos.github.io/ClojureDistilled.html
+993,Lobsters,lisp,Lisp programming,Announcing Clasp - an LLVM implementation of Common Lisp,http://drmeister.wordpress.com/2014/09/18/announcing-clasp/
+994,Lobsters,lisp,Lisp programming,"""Transducers"" by Rich Hickey (Strange Loop)",http://www.youtube.com/watch?v=6mTbuzafcII
+995,Lobsters,lisp,Lisp programming,PicoLisp in Hardware (PilMCU),http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html
+996,Lobsters,lisp,Lisp programming,Robin Templeton on the current state of Guile-Emacs,http://permalink.gmane.org/gmane.emacs.devel/174498
+997,Lobsters,lisp,Lisp programming,Emacs may move from Elisp to Common Lisp,https://lists.gnu.org/archive/html/emacs-devel/2014-09/msg00434.html
+998,Lobsters,lisp,Lisp programming,Calling Lisp From C Using ECL,http://cwndr.ws/posts/Calling-Lisp-from-C-using-ECL.html
+999,Lobsters,lisp,Lisp programming,Understanding Transducers,http://elbenshira.com/blog/understanding-transducers/
+1000,Lobsters,lisp,Lisp programming,Comparative Macrology,http://www.wilfred.me.uk/blog/2014/09/15/comparative-macrology/
+1001,Lobsters,lisp,Lisp programming,Embedding Lisp (ECL) in C++,http://chriskohlhepp.wordpress.com/embedding-lisp-in-cplusplus-a-recipe/
+1002,Lobsters,lisp,Lisp programming,CSP and transducers in JavaScript,http://phuu.net/2014/08/31/csp-and-transducers.html
+1003,Lobsters,lisp,Lisp programming,Coding a Lisp Interpreter in Shen: a Case Study,http://www.shenlanguage.org/library/shenpaper.pdf
+1004,Lobsters,lisp,Lisp programming,Guile - The GNU extension language,https://www.gnu.org/software/guile/
+1005,Lobsters,lisp,Lisp programming,Representing Game Dialogue as Expressions in First-Order Logic,http://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=2646&context=etd
+1006,Lobsters,lisp,Lisp programming,An Overview of the Dylan Type System,http://dylanfoundry.org/2014/08/28/type-system-overview/
+1007,Lobsters,lisp,Lisp programming,Configuring vim for SICP,http://crash.net.nz/posts/2014/08/configuring-vim-for-sicp/
+1008,Lobsters,lisp,Lisp programming,Going from Python to Guile Scheme: A natural progression,http://draketo.de/proj/py2guile/
+1009,Lobsters,lisp,Lisp programming,Using Emacs with Clojure,http://www.braveclojure.com/4-using-emacs-with-clojure/
+1010,Lobsters,lisp,Lisp programming,revisiting common subexpression elimination in guile,http://wingolog.org/archives/2014/08/25/revisiting-common-subexpression-elimination-in-guile
+1011,Lobsters,lisp,Lisp programming,Why Racket? Why Lisp?,http://practicaltypography.com/why-racket-why-lisp.html
+1012,Lobsters,lisp,Lisp programming,ILC2014 summary (International Lisp Conference),http://www.cipht.net/2014/08/19/ilc2014.html
+1013,Lobsters,lisp,Lisp programming,Google DevArt: Co(de)Factory,http://devartcodefactory.com/
+1014,Lobsters,lisp,Lisp programming,"Types of `map` function in Haskell, Scala, and Clojure",http://missingfaktor.blogspot.de/2014/08/types-of-map-function-in-haskell-scala.html
+1015,Lobsters,lisp,Lisp programming,Typing Transducers (as Kleisli arrows),http://tel.github.io/2014/08/10/typing-transducers/
+1016,Lobsters,lisp,Lisp programming,Composing Test Generators,https://www.youtube.com/watch?v=4-sPhFtGwZk&feature=youtu.be
+1017,Lobsters,lisp,Lisp programming,Quantum Lisp at D-Wave,http://www.dwavesys.com/careers/senior-software-developer
+1018,Lobsters,lisp,Lisp programming,"Scsh Reference Manual: ""I did it. I did it all, by myself"" - Olin Shivers",http://scsh.net/docu/html/man.html
+1019,Lobsters,lisp,Lisp programming,An extensively commented racket bytecode interpreter in racket,https://github.com/soegaard/meta/blob/master/runtime/racket-eval.rkt
+1020,Lobsters,lisp,Lisp programming,"ASDF 3, or Why Lisp is Now an Acceptable Scripting Language",http://fare.tunes.org/files/asdf3/asdf3-els2014.pdf
+1021,Lobsters,lisp,Lisp programming,a GNU doc viewer,https://github.com/nicferrier/gnudoc-js
+1022,Lobsters,lisp,Lisp programming,ProbLog: Probabilistic Logic Programming,http://dtai.cs.kuleuven.be/problog/
+1023,Lobsters,lisp,Lisp programming,A Package in a league of its own: Helm,https://tuhdo.github.io/helm-intro.html
+1024,Lobsters,lisp,Lisp programming,Function Types and Dylan 2016,http://dylanfoundry.org/2014/08/01/function-types-and-dylan-2016/
+1025,Lobsters,lisp,Lisp programming,Logic Programming is Underrated,https://swannodette.github.io/2013/03/09/logic-programming-is-underrated/
+1026,Lobsters,lisp,Lisp programming,Logic programming is overrated,http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html
+1027,Lobsters,lisp,Lisp programming,"Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I (1960)",http://www-formal.stanford.edu/jmc/recursive.pdf
+1028,Lobsters,lisp,Lisp programming,Nginx module for embedding Clojure or Java programs,https://github.com/nginx-clojure/nginx-clojure
+1029,Lobsters,lisp,Lisp programming,"understanding clojure concurrency, part 2",http://blakesmith.me/2012/05/25/understanding-clojure-concurrency-part-2.html
+1030,Lobsters,lisp,Lisp programming,Lisp in Summer Projects 2013 Winning Projects announced,http://lispinsummerprojects.org/winning-projects
+1031,Lobsters,lisp,Lisp programming,Understanding Clojure's Persistent Vector,http://hypirion.com/musings/understanding-persistent-vector-pt-1
+1032,Lobsters,lisp,Lisp programming,r5.rs - A Scheme implementation in Rust,https://github.com/kimhyunkang/r5.rs
+1033,Lobsters,lisp,Lisp programming,Understanding Clojure protocols,http://www.plusastra.com/2014/07/understanding-clojure-protocols.html
+1034,Lobsters,lisp,Lisp programming,GoLisp: a Scheme-Flavored Lisp Language and Runtime Implemented in Go,https://github.com/SteelSeries/golisp
+1035,Lobsters,lisp,Lisp programming,Exploring Racket,http://khinsen.wordpress.com/2014/05/10/exploring-racket/
+1036,Lobsters,lisp,Lisp programming,Building Single Page Apps with Reagent,http://yogthos.net/blog/54-Building+Single+Page+Apps+with+Reagent
+1037,Lobsters,lisp,Lisp programming,LambdaPi: A Scheme / Lisp based operating system for the Raspberry Pi,https://gitorious.org/lambdapi
+1038,Lobsters,lisp,Lisp programming,Interactive scientific computing: goldilocks languages,http://graydon2.dreamwidth.org/189377.html
+1039,Lobsters,lisp,Lisp programming,Whalesong: a Racket to JavaScript compiler,http://hashcollision.org/whalesong/
+1040,Lobsters,lisp,Lisp programming,Learn Lisp The Hard Way,http://learnlispthehardway.org/
+1041,Lobsters,lisp,Lisp programming,Racket Web Server - Why continuations for the web,https://groups.google.com/d/msg/plt-scheme/EKeMQOynKdM/Hl8lxlUSVIsJ
+1042,Lobsters,lisp,Lisp programming,It is not hard to read Lisp code,http://yoo2080.wordpress.com/2014/07/04/it-is-not-hard-to-read-lisp-code/
+1043,Lobsters,lisp,Lisp programming,Optimization Coaching in Racket,http://www.ccs.neu.edu/home/stamourv/papers/optimization-coaching.pdf
+1044,Lobsters,lisp,Lisp programming,A simple Scheme compiler for x86_64 systems (from Chicken's author),http://www.call-with-current-continuation.org/bones/
+1045,Lobsters,lisp,Lisp programming,"""The Big Problem"", and ""Visual Compilers: A Practical Example""",http://langnostic.inaimathi.ca/article?name=the-big-problem-and-visual-compilers.html
+1046,Lobsters,lisp,Lisp programming,flow analysis in guile,http://wingolog.org/archives/2014/07/01/flow-analysis-in-guile
+1047,Lobsters,lisp,Lisp programming,swiss arrows: a collection of arrow macros,https://github.com/rplevy/swiss-arrows
+1048,Lobsters,lisp,Lisp programming,awklisp - A Lisp interpreter written in Awk.,https://github.com/darius/awklisp
+1049,Lobsters,lisp,Lisp programming,Tangible Functional Programming,http://conal.net/papers/Eros/eros.pdf
+1050,Lobsters,lisp,Lisp programming,A Lisp implementation in GNU Sed,https://github.com/shinh/sedlisp
+1051,Lobsters,lisp,Lisp programming,"Read Lisp, Tweak Emacs",http://sachachua.com/blog/series/read-lisp-tweak-emacs/
+1052,Lobsters,lisp,Lisp programming,cl-notebook-demo - A python notebook-esque thing for Common Lisp,http://vimeo.com/97623064
+1053,Lobsters,lisp,Lisp programming,The Lambda Calculus for Absolute Dummies (2012),http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
+1054,Lobsters,lisp,Lisp programming,PICOBIT: A Compact Scheme System for Microcontrollers,http://www.iro.umontreal.ca/~feeley/papers/StAmourFeeleyIFL09.pdf
+1055,Lobsters,lisp,Lisp programming,ki - A lisp for your JavaScript,http://ki-lang.org/
+1056,Lobsters,lisp,Lisp programming,Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity,http://lispm.de/symbolics-lisp-machine-ergonomics
+1057,Lobsters,lisp,Lisp programming,"(spark '(1 1 2 3 5 8)) => ""▁▁▂▃▅▇""",https://github.com/tkych/cl-spark
+1058,Lobsters,lisp,Lisp programming,Crane: An ORM for Common Lisp,http://eudoxia0.github.io/crane/
+1059,Lobsters,lisp,Lisp programming,The Curse of the Excluded Middle,http://queue.acm.org/detail.cfm?id=2611829
+1060,Lobsters,lisp,Lisp programming,Genera Concepts,http://lispm.de/genera-concepts
+1061,Lobsters,lisp,Lisp programming,Meta-Circular Adventures in Functional Abstraction – Challenging Clojure in Common Lisp,http://chriskohlhepp.wordpress.com/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/
+1062,Lobsters,lisp,Lisp programming,"Morph is a clojure library of Haskell-style morphisms: monoids, functors, and monads.",https://github.com/blancas/morph
+1063,Lobsters,lisp,Lisp programming,Fluokitten - Category Theory in Idiomatic Clojure,http://fluokitten.uncomplicate.org
+1064,Lobsters,lisp,Lisp programming,Talking with Mikel Evins about the Lisp-based Newton OS from Apple,http://lispm.de/lisp-based-newton-os
+1065,Lobsters,lisp,Lisp programming,Game development in Clojure (with play-clj),https://www.youtube.com/watch?v=9ilUe7Re-RA
+1066,Lobsters,lisp,Lisp programming,"Clojure, Postgres, JSON",http://hiim.tv/clojure/2014/05/15/clojure-postgres-json/
+1067,Lobsters,lisp,Lisp programming,(Ab)Using Language Features: The Common Lisp Condition System,http://www.dawnofthedata.com/2014/05/abusing-langauge-features-common-lisp.html?m=1
+1068,Lobsters,lisp,Lisp programming,Learn a Lisp with Python,http://un.portemanteau.ca/learn-a-lisp-with-python.html
+1069,Lobsters,lisp,Lisp programming,Functional Programming explained in Clojure,http://www.braveclojure.com/functional-programming/
+1070,Lobsters,lisp,Lisp programming,Creating a Planet Lisp mobile app in 15 minutes with mocl,https://wukix.com/pl-screencast
+1071,Lobsters,lisp,Lisp programming,7th European Lisp Symposium,http://www.european-lisp-symposium.org/
+1072,Lobsters,lisp,Lisp programming,Core Async Go Macros - Part II,https://www.youtube.com/watch?v=SI7qtuuahhU
+1073,Lobsters,lisp,Lisp programming,Core Async Go Macro Internals - Part I,https://www.youtube.com/watch?v=R3PZMIwXN_g&feature=youtu.be&t=24m30s
+1074,Lobsters,lisp,Lisp programming,The Lisp Curse,http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
+1075,Lobsters,lisp,Lisp programming,Talking to Yourself: A Twitter Bot in Clojure as a Total Newb,http://nerd.kelseyinnis.com/blog/2014/05/06/talking-to-yourself-a-twitter-bot-in-clojure-by-a-total-newb/
+1076,Lobsters,lisp,Lisp programming,7 simple steps to implementing a programming language,http://kjetilvalle.com/posts/implement-a-programming-language.html
+1077,Lobsters,lisp,Lisp programming,"Clojure Compiler progress report ""Data All The ASTs""",https://www.youtube.com/watch?v=KhRQmT22SSg
+1078,Lobsters,lisp,Lisp programming,Thoughts on the Datomic License,http://java.dzone.com/articles/my-thoughts-datomic-license
+1079,Lobsters,lisp,Lisp programming,Handling Clojure state the Erlang way,http://noobtuts.com/clojure/handling-clojure-state-the-erlang-way
+1080,Lobsters,lisp,Lisp programming,"Learning Racket #2: Macros, Macros and a Bit of Modules",http://artyom.me/learning-racket-2
+1081,Lobsters,lisp,Lisp programming,Performance and Types in Lisp,http://blog.30dor.com/2014/03/21/performance-and-types-in-lisp/
+1082,Lobsters,lisp,Lisp programming,The Convergence of Modern C++ on the Lisp Programming Style,http://chriskohlhepp.wordpress.com/convergence-of-modern-cplusplus-and-lisp/
+1083,Lobsters,lisp,Lisp programming,"An implementation of Common Lisp, written in Emacs Lisp",https://github.com/larsbrinkhoff/emacs-cl
+1084,Lobsters,lisp,Lisp programming,Datomic chosen over Neo4J for Kevin-Bacon arbitrary-depth graph searches,http://hashrocket.com/blog/posts/using-datomic-as-a-graph-database
+1085,Lobsters,lisp,Lisp programming,Dylan 2016: Evolving Dylan,https://lists.opendylan.org/pipermail/hackers/2014-April/007032.html
+1086,Lobsters,lisp,Lisp programming,A Haskell programmer's enthusiastic foray into Racket,http://artyom.me/learning-racket-1
+1087,Lobsters,lisp,Lisp programming,On the Perils of Dynamic Scope,http://stuartsierra.com/2013/03/29/perils-of-dynamic-scope
+1088,Lobsters,lisp,Lisp programming,A thorough introduction to CHICKEN scheme's test egg,http://lisp-unleashed.de/2014/04/11/testing_your_chicken_code/
+1089,Lobsters,lisp,Lisp programming,Palimpsest - An HTML5 Canvas drawing app written in Clojurescript,http://zhehaomao.com/palimpsest/
+1090,Lobsters,lisp,Lisp programming,cells is a dataflow extension to CLOS,http://www.cliki.net/Cells
+1091,Lobsters,lisp,Lisp programming,"D-Expressions: Lisp Power, Dylan Style",http://people.csail.mit.edu/jrb/Projects/dexprs.pdf
+1092,Lobsters,lisp,Lisp programming,Diving into the python pickle format,http://spootnik.org/entries/2014/04/05_diving-into-the-python-pickle-format.html
+1093,Lobsters,lisp,Lisp programming,Octopus: An interesting new lisp,https://github.com/Zankoku-Okuno/octopus/
+1094,Lobsters,lisp,Lisp programming,Build Your Own Lisp,http://buildyourownlisp.com/
+1095,Lobsters,lisp,Lisp programming,TimL - a Clojure-like Lisp implemented in and compiling down to VimL,https://github.com/tpope/timl
+1096,Lobsters,lisp,Lisp programming,Chicken internals: the garbage collector,http://www.more-magic.net/posts/internals-gc.html
+1097,Lobsters,lisp,Lisp programming,Refactoring with LZ77: compression is compilation,http://www.pvk.ca/Blog/2014/03/30/refactoring-with-lz77-compilation-is-compression/
+1098,Lobsters,lisp,Lisp programming,A collection of simple clojure refactoring functions for Emacs,https://github.com/magnars/clj-refactor.el
+1099,Lobsters,lisp,Lisp programming,The Axis of Eval: Why Lisp is a Big Hack (And Haskell is Doomed to Succeed),http://axisofeval.blogspot.ca/2011/01/why-lisp-is-big-hack-and-haskell-is.html
+1100,Lobsters,lisp,Lisp programming,LISP as an embedded extension language for Go,https://github.com/zhemao/glisp
+1101,Lobsters,lisp,Lisp programming,MPS (Memory Pool System) Kit release 1.113.0,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000135.html
+1102,Lobsters,lisp,Lisp programming,Stack Representation and Changes in Guile,http://wingolog.org/archives/2014/03/17/stack-overflow
+1103,Lobsters,lisp,Lisp programming,SBCL: the ultimate assembly code breadboard,http://www.pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/
+1104,Lobsters,lisp,Lisp programming,Hitchhiker's Guide to Clojure,http://hitchhikersclojure.com/blog/hitchhikers-guide-to-clojure/
+1105,Lobsters,lisp,Lisp programming,Recent Changes in the Memory Pool System,http://mailman.ravenbrook.com/pipermail/mps-discussion/2014-March/000133.html
+1106,Lobsters,lisp,Lisp programming,Jig is an application harness providing a beautifully interactive development experience for Clojure,https://github.com/juxt/jig
+1107,Lobsters,lisp,Lisp programming,LISP- a Language for Internet Scripting and Programming,http://norvig.com/lugm.pdf
+1108,Lobsters,lisp,Lisp programming,Predicate Dispatching in the Common Lisp Object System,http://people.csail.mit.edu/jrb/Projects/ucko-thesis.pdf
+1109,Lobsters,lisp,Lisp programming,Clojure Cookbook: Parsing Command-Line Arguments,http://www.rkn.io/2014/02/27/clojure-cookbook-command-line-args/
+1110,Lobsters,lisp,Lisp programming,Racket v6.0 released,http://blog.racket-lang.org/2014/02/racket-v60.html
+1111,Lobsters,lisp,Lisp programming,Clojure from the ground up: modeling,http://aphyr.com/posts/312-clojure-from-the-ground-up-modeling
+1112,Lobsters,lisp,Lisp programming,Clojure from the ground up: logistics,http://aphyr.com/posts/311-clojure-from-the-ground-up-logistics
+1113,Lobsters,lisp,Lisp programming,Clojure Bootcamp Part 1,http://www.patshields.net/clojure/adzerk/bootcamp/2014/02/24/clojure-bootcamp-part-1.html
+1114,Lobsters,lisp,Lisp programming,Weasel - a WebSocket-connected REPL environment for ClojureScript,http://github.com/tomjakubowski/weasel/
+1115,Lobsters,lisp,Lisp programming,Clojure Cookbook: Custom Data Structures,http://www.rkn.io/2014/02/20/clojure-cookbook-rbt/
+1116,Lobsters,lisp,Lisp programming,Clojure Cookbook: Generating Ranges of Dates & Times,http://www.rkn.io/2014/02/13/clojure-cookbook-date-ranges/
+1117,Lobsters,lisp,Lisp programming,quick-clojure: Python utility runs Clojure scripts/REPLs without long JVM startup time,https://github.com/benwbooth/quick-clojure
+1118,Lobsters,lisp,Lisp programming,Learning Clojure by Solving Euler Problems,http://www.superloopy.io/articles/2014/learning-clojure.html
+1119,Lobsters,lisp,Lisp programming,Refactoring c++ using common lisp,http://www.youtube.com/watch?v=h31pURzgYX8
+1120,Lobsters,lisp,Lisp programming,Converting Common Lisp to Dylan,http://norvig.com/ltd/doc/ltd.html
+1121,Lobsters,lisp,Lisp programming,CL21 is an experimental project redesigning Common Lisp.,http://cl21.org
+1122,Lobsters,lisp,Lisp programming,Datomic Antipatterns: Conn as a Value,http://www.rkn.io/2014/02/10/datomic-antipatterns-connnnn/
+1123,Lobsters,lisp,Lisp programming,Clojure Cookbook: Daemonizing an Application,http://www.rkn.io/2014/02/06/clojure-cookbook-daemons/
+1124,Lobsters,lisp,Lisp programming,Open Dylan's Call For Help,http://opendylan.org/news/2014/01/28/call-for-help.html
+1125,Lobsters,lisp,Lisp programming,REPL Driven Development (Jay Fields),http://blog.jayfields.com/2014/01/repl-driven-development.html
+1126,Lobsters,lisp,Lisp programming,This is your web browser on LISP - video demo of Light Table + Om,http://www.youtube.com/watch?v=6TsIFH6UrrY&feature=youtu.be
+1127,Lobsters,lisp,Lisp programming,Poor man's dependency injection in clojure,http://spootnik.org/entries/2014/01/25_poor-mans-dependency-injection-in-clojure.html
+1128,Lobsters,lisp,Lisp programming,A walkthrough of channels in Core.Async,http://www.youtube.com/watch?v=WSgg-TQLsdw&feature=youtu.be&a
+1129,Lobsters,lisp,Lisp programming,Light Table ClojureScript Tutorial,https://github.com/swannodette/lt-cljs-tutorial
+1130,Lobsters,lisp,Lisp programming,Data Structures in Clojure: Singly-Linked Lists,http://macromancy.com/2014/01/16/data-structures-clojure-singly-linked-list.html
+1131,Lobsters,lisp,Lisp programming,memoize done right (2010),https://kotka.de/blog/2010/03/memoize_done_right.html
+1132,Lobsters,lisp,Lisp programming,μKanren: Relational (logic) Programming in 39 lines of Scheme,http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf
+1133,Lobsters,lisp,Lisp programming,Real-time Twitter trending on a budget with riemann,http://spootnik.org/entries/2014/01/14_real-time-twitter-trending-on-a-budget-with-riemann.html
+1134,Lobsters,lisp,Lisp programming,Illuminated Macros in Clojure,http://www.youtube.com/watch?v=o75g9ZRoLaw&feature=youtu.be
+1135,Lobsters,lisp,Lisp programming,Hindley-Milner in Clojure,http://www.lispcast.com/Hindley-Milner-in-Clojure
+1136,Lobsters,lisp,Lisp programming,Ki is a lisp with Clojure data structures and semantics,https://github.com/lantiga/ki
+1137,Lobsters,lisp,Lisp programming,"Random Terrain Generation, A Clojure Walkthrough",http://blog.mediocregopher.com/clojure-diamond-square.html
+1138,Lobsters,lisp,Lisp programming,Predicting Vehicle Usage with Clojure,http://www.youtube.com/watch?v=joOGH-JtHNY&feature=youtu.be
+1139,Lobsters,lisp,Lisp programming,"Markov Chains in Clojure, Part 2 – Scaling Up",http://diegobasch.com/markov-chains-in-clojure-part-2-scaling-up
+1140,Lobsters,lisp,Lisp programming,Tabasco Sort: a super-optimal merge sort,http://www.pvk.ca/Blog/2012/08/27/tabasco-sort-super-optimal-merge-sort/
+1141,Lobsters,lisp,Lisp programming,Clojure: the JFDI language,https://docs.google.com/presentation/d/15-7qFy6URdE7Owi2LitkQI_OHBu1AFWPUwHxgBc-O4E/edit
+1142,Lobsters,lisp,Lisp programming,Schema for Clojure(Script) Data Shape Declaration and Validation,http://blog.getprismatic.com/blog/2013/9/4/schema-for-clojurescript-data-shape-declaration-and-validation
+1143,Lobsters,lisp,Lisp programming,Streaming MapReduce in Clojure,http://www.youtube.com/watch?v=uuJW3EaN_3Q&feature=youtu.be
+1144,Lobsters,lisp,Lisp programming,Clojure: Programming with Hand Tools,https://www.youtube.com/watch?v=ShEez0JkOFw
+1145,Lobsters,lisp,Lisp programming,Light Table is open source,http://www.chris-granger.com/2014/01/07/light-table-is-open-source/
+1146,Lobsters,lisp,Lisp programming,Om Experience Report,http://adamsolove.com/js/2014/01/06/om-experience-report.html
+1147,Lobsters,lisp,Lisp programming,Michael Fogus - Zeder - Production Rule Systems in Clojure,http://www.youtube.com/watch?v=1E2CoObAaPQ
+1148,Lobsters,lisp,Lisp programming,Rich Hickey - Harmonikit,http://www.youtube.com/watch?v=bhkdyCPYgLs
+1149,Lobsters,lisp,Lisp programming,Learning to Talk to Machines with Speech Acts,https://www.youtube.com/watch?v=4qFvNMnPX68
+1150,Lobsters,lisp,Lisp programming,From Greek to Clojure!,https://www.youtube.com/watch?v=7kPMFkNm2dw
+1151,Lobsters,lisp,Lisp programming,Clojure from the ground up: state,http://aphyr.com/posts/306-clojure-from-the-ground-up-state
+1152,Lobsters,lisp,Lisp programming,Clojure Core.Async,http://www.youtube.com/watch?v=enwIIGzhahw
+1153,Lobsters,lisp,Lisp programming,bytecode interpreters for tiny computers,http://lists.canonical.org/pipermail/kragen-tol/2007-September/000871.html
+1154,Lobsters,lisp,Lisp programming,Clojure 2013 Year in Review,http://stuartsierra.com/2014/01/01/clojure-2013-year-in-review
+1155,Lobsters,lisp,Lisp programming,Time Travel: Implementing Undo in Om,http://swannodette.github.io/2013/12/31/time-travel/
+1156,Lobsters,lisp,Lisp programming,Potemkin is a collection of clojure facades and workarounds,https://github.com/ztellman/potemkin
+1157,Lobsters,lisp,Lisp programming,Frustrations with namespaces in Clojure,http://programming-puzzler.blogspot.com/2013/12/frustrations-with-namespaces-in-clojure.html
+1158,Lobsters,lisp,Lisp programming,LOOM: graph algorithms in clojure,http://vimeo.com/82507679
+1159,Lobsters,lisp,Lisp programming,Clojure Cookbook,http://clojure-cookbook.com
+1160,Lobsters,lisp,Lisp programming,gherkin: a functional programming language and interpreter written in GNU Bash 4,https://github.com/alandipert/gherkin
+1161,Lobsters,lisp,Lisp programming,Open Dylan 2013.2 released — Open Dylan,http://opendylan.org/news/2013/12/23/new-release.html
+1162,Lobsters,lisp,Lisp programming,The react tutorial rewritten in Om,https://github.com/jalehman/react-tutorial-om
+1163,Lobsters,lisp,Lisp programming,Eastwood - a clojure lint tool,https://github.com/jonase/eastwood
+1164,Lobsters,lisp,Lisp programming,Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/
+1165,Lobsters,lisp,Lisp programming,Fun with Markov Chains and Clojure,http://diegobasch.com/fun-with-markov-chains-and-clojure
+1166,Lobsters,lisp,Lisp programming,The many flavors of concurrency in Clojure,http://adambard.com/blog/clojure-concurrency-smorgasbord/
+1167,Lobsters,lisp,Lisp programming,Dylan: Eliminating Copies in C-FFI,http://dylanfoundry.org/2013/12/08/eliminating-copies-in-c-ffi/
+1168,Lobsters,lisp,Lisp programming,X11 server in Lisp,https://github.com/pyb/zen
+1169,Lobsters,lisp,Lisp programming,kibit is a static code analyzer for Clojure,https://github.com/jonase/kibit
+1170,Lobsters,lisp,Lisp programming,slingshot: Enhanced try and throw for Clojure leveraging Clojure's capabilities,https://github.com/scgilardi/slingshot
+1171,Lobsters,lisp,Lisp programming,"My readable lisp implementation with infix, first-class macros, unit tests",http://akkartik.name/post/wart
+1172,Lobsters,lisp,Lisp programming,ClojureScript Koans,http://clojurescriptkoans.com/
+1173,Lobsters,lisp,Lisp programming,A paredit mode for lisps in Sublime Text.,https://github.com/odyssomay/paredit
+1174,Lobsters,lisp,Lisp programming,Typed Clojure by Example,http://nathanic.org/posts/2013/typed-clojure-tour/
+1175,Lobsters,lisp,Lisp programming,The ~> Threading Macro,http://www.greghendershott.com/2013/05/the-threading-macro.html
+1176,Lobsters,lisp,Lisp programming,20 Free eBooks on Lisp,http://www.efytimes.com/e1/fullnews.asp?edid=118280
+1177,Lobsters,lisp,Lisp programming,Pico Lisp: A Radical Approach to Application Development,http://software-lab.de/radical.pdf
+1178,Lobsters,lisp,Lisp programming,CHICKEN Scheme,http://www.call-cc.org
+1179,Lobsters,lisp,Lisp programming,"My Clojure Workflow, Reloaded",http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
+1180,Lobsters,lisp,Lisp programming,A Brief History of Lisp Machines,http://www.andromeda.com/people/ddyer/lisp/
+1181,Lobsters,lisp,Lisp programming,Read-Eval-Print-λove is an Internet zine focusing on the Lisp family of programming languages,http://readevalprintlove.fogus.me/
+1182,Lobsters,lisp,Lisp programming,2013-07-22: The Underbelly of Racket Macro Basics,http://jeapostrophe.github.io/2013-07-22-123list-post.html
+1183,Lobsters,lisp,Lisp programming,Quine Relay,https://github.com/mame/quine-relay
+1184,Lobsters,lisp,Lisp programming,Open Dylan 2013.1 released,http://opendylan.org/news/2013/07/11/new-release.html
+1185,Lobsters,lisp,Lisp programming,"Dylan Hack-a-thon: July 13-14, 2013",http://opendylan.org/news/2013/06/30/dylan-hack-a-thon.html
+1186,Lobsters,lisp,Lisp programming,Behind the Scenes with CHICKEN Scheme and SPOCK (Part 2),http://spin.atomicobject.com/2013/06/19/chicken-scheme-spock-part-2/
+1187,Lobsters,lisp,Lisp programming,"Creating iOS and Android Apps in Lisp, with mocl",http://wukix.com/dist/mocl_eclm2013.pdf
+1188,Lobsters,lisp,Lisp programming,Intro to Functional Reactive Programming with Bacon.js and ClojureScript,http://www.youtube.com/watch?v=nket0K1RXU4
+1189,Lobsters,lisp,Lisp programming,Basic Machine Learning With K Nearest Neighbor and Racket,http://spin.atomicobject.com/2013/05/06/k-nearest-neighbor-racket/
+1190,Lobsters,lisp,Lisp programming,Behind the Scenes with CHICKEN Scheme (Part 1),http://spin.atomicobject.com/2013/05/02/chicken-scheme-part-1/
+1191,Lobsters,lisp,Lisp programming,Lisp in Small Projects,http://lispinsmallprojects.org/welcome
+1192,Lobsters,lisp,Lisp programming,Lists out of lambdas and boxes out of functions,http://bendyworks.com/geekville/articles/2013/4/lists-out-of-lambdas-and-boxes-out-of-functions
+1193,Lobsters,lisp,Lisp programming,The Secret History of Lambda,http://technicae.cogitat.io/2012/12/the-secret-history-of-lambda.html
+1194,Lobsters,lisp,Lisp programming,"Dylan Programming Guide (1996) now available in PDF, ePub, updated HTML",http://opendylan.org/news/2013/01/21/dylan-programming-guide.html
+1195,Lobsters,lisp,Lisp programming,Getting Started with OpenDylan 2012.1,http://dylanfoundry.org/2012/12/20/getting-started-with-opendylan-20121/
+1196,Lobsters,lisp,Lisp programming,Emacs Conf to take place on March 30th in the UK,http://lists.hugadev.com/pipermail/emacs-conf-hugadev.com/2012-December/000026.html
+1197,Lobsters,lisp,Lisp programming,The Mathematical Hacker,http://www.evanmiller.org/mathematical-hacker.html
+1198,Lobsters,lisp,Lisp programming,SuperCollider: A programming environment for real-time audio synthesis,http://supercollider.sourceforge.net/
+1199,Lobsters,lisp,Lisp programming,The Architecture of Datomic,http://www.infoq.com/articles/Architecture-Datomic
+1200,Lobsters,lisp,Lisp programming,A Practical Optional Type System for Clojure,https://s3.amazonaws.com/github/downloads/frenchy64/papers/paper.pdf
+1201,Lobsters,lisp,Lisp programming,Asynchronous Function Decorators,http://eigenjoy.com/2012/10/16/asynchronous-function-decorators/
+1202,Lobsters,lisp,Lisp programming,"""So, Ruby was a Lisp originally, in theory."" - Matz",http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/179642
+1203,Lobsters,lisp,Lisp programming,Lisp in 32 lines of Ruby,http://blog.fogus.me/2012/01/25/lisp-in-40-lines-of-ruby/
+1204,Lobsters,lisp,Lisp programming,"Prismatic's ""Graph"" at Strange Loop",http://blog.getprismatic.com/blog/2012/10/1/prismatics-graph-at-strange-loop.html
+1205,Lobsters,lisp,Lisp programming,"60,000% growth in 7 months using Clojure and AWS",http://www.colinsteele.org/post/27929539434/60-000-growth-in-7-months-using-clojure-and-aws
+1206,Lobsters,lisp,Lisp programming,LispyScript,http://lispyscript.com/
+1207,Lobsters,lisp,Lisp programming,Joxa: Lisp on the Erlang VM,http://joxa.org/
+1208,Lobsters,lisp,Lisp programming,CL-JavaScript: A JavaScript-to-Common Lisp compiler + runtime,http://marijnhaverbeke.nl/cl-javascript/
+1209,Lobsters,lisp,Lisp programming,Erik Meijer and Rich Hickey talk about Clojure and Datomic,http://channel9.msdn.com/posts/Expert-to-Expert-Erik-Meijer-and-Rich-Hickey-Clojure-and-Datomic
+1210,Lobsters,lisp,Lisp programming,Equational Reasoning,http://drcabana.org/2012/09/02/equational-reasoning/
+1211,Lobsters,lisp,Lisp programming,Condition Handling for Non-Lispers,http://lubutu.com/soso/condition-handling-for-non-lispers
+1212,Lobsters,lisp,Lisp programming,Deft: Emacs mode for note-taking (inspired by Notational Velocity),http://jblevins.org/projects/deft/
+1213,Lobsters,lisp,Lisp programming,A fast quicksort in Clojure,http://clojurefun.wordpress.com/2012/08/29/a-fast-quicksort-in-clojure/
+1214,Lobsters,lisp,Lisp programming,Tabasco Sort: a super-optimal merge sort,http://www.pvk.ca/Blog/2012/08/27/tabasco-sort-super-optimal-merge-sort/
+1215,Lobsters,lisp,Lisp programming,"Teaching With Racket, Working in Clojure",http://programming-puzzler.blogspot.se/2010/08/racket-vs-clojure.html
+1216,Lobsters,lisp,Lisp programming,Fully Inlined Merge Sort Macro,http://blog.racket-lang.org/2012/08/fully-inlined-merge-sort.html
+1217,Lobsters,lisp,Lisp programming,start-project: quickly create new Quicklisp-based projects,http://lisp.kyleisom.net/projects/start-project.html
+1218,Lobsters,lisp,Lisp programming,Noir tutorial (web development with Clojure),http://yogthos.net/blog/22
+1219,Lobsters,lisp,Lisp programming,Engineering a list merge sort,http://www.pvk.ca/Blog/2012/08/13/engineering-a-list-merge-sort/
+1220,Lobsters,lisp,Lisp programming,Deploying clojure on dotcloud,http://saolsen.tumblr.com/post/29527983171/deploying-clojure-on-dotcloud
+1221,Lobsters,lisp,Lisp programming,Making a small Lisp project with quickproject and Quicklisp,http://xach.livejournal.com/278047.html
+1222,Lobsters,lisp,Lisp programming,Why Lisp Did Not And Never Will Gain Enough Traction,http://kresimirbojcic.com/2012/08/14/why-lisp-did-not-and-never-will-gain-enough-traction.html
+1223,Lobsters,lisp,Lisp programming,The UNIX-HATERS Handbook,http://m.simson.net/ugh.pdf
+1224,Lobsters,lisp,Lisp programming,"The Land of Raspberry Lisp, Part 0.",http://yeel.es/2012/07/06/the-land-of-raspberry-lisp-part-0.html
+1225,Lobsters,lisp,Lisp programming,Immutable Persistent Data Structures in Common Lisp,http://blog.thezerobit.com/2012/07/21/immutable-persistent-data-structures-in-common-lisp.html

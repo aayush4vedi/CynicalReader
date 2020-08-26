@@ -1,0 +1,1251 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,rust,Rust programming,nixinfo -- a lib crate supplying information gathering functions for *nix,https://github.com/Phate6660/nixinfo
+2,Lobsters,rust,Rust programming,"defmt, a highly efficient Rust logging framework for embedded devices",https://ferrous-systems.com/blog/defmt/
+3,Lobsters,rust,Rust programming,Error Handling Isn't All About Errors,https://yaah.dev/rustconf
+4,Lobsters,rust,Rust programming,RustConf 2020,https://www.youtube.com/watch?v=ESXMg9OzWrQ
+5,Lobsters,rust,Rust programming,Early Impressions of Go from a Rust Programmer,https://www.ncameron.org/blog/early-impressions-of-go-from-a-rust-programmer/
+6,Lobsters,rust,Rust programming,"In Rust, ordinary vectors are values",http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/
+7,Lobsters,rust,Rust programming,First thoughts on Rust vs OCaml,https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/
+8,Lobsters,rust,Rust programming,Rust RwLock and Mutex Performance Oddities (2018),https://fy.blackhats.net.au/blog/html/2018/10/19/rust_rwlock_and_mutex_performance_oddities.html
+9,Lobsters,rust,Rust programming,Laying the foundation for Rust's future,https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html
+10,Lobsters,rust,Rust programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+11,Lobsters,rust,Rust programming,Existential types in Rust,https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html
+12,Lobsters,rust,Rust programming,comparative unsafety,https://flak.tedunangst.com/post/comparative-unsafety
+13,Lobsters,rust,Rust programming,Error recovery with parser combinators (using nom),https://www.eyalkalderon.com/nom-error-recovery/
+14,Lobsters,rust,Rust programming,Hiding messages in x86 binaries using semantic duals,https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals
+15,Lobsters,rust,Rust programming,How to Read First Impression Posts,https://www.possiblerust.com/community/how-to-read-first-impression-posts
+16,Lobsters,rust,Rust programming,xi-editor,https://github.com/xi-editor
+17,Lobsters,rust,Rust programming,"Frustrated? It's not you, it's Rust",https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
+18,Lobsters,rust,Rust programming,"probe-run, run embedded Rust apps like native apps",https://ferrous-systems.com/blog/probe-run/
+19,Lobsters,rust,Rust programming,RustFest 2019 Interview Series: Burnout in Open Source Software; The Rust Roadmap,https://rustacean-station.org/episode/025-katharina-florian/
+20,Lobsters,rust,Rust programming,"I am a Java, C#, C or C++ developer, time to do some Rust",https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust
+21,Lobsters,rust,Rust programming,"""Rust does not have a stable ABI""",https://people.gnome.org/~federico/blog/rust-stable-abi.html
+22,Lobsters,rust,Rust programming,gitoxide: pure rust implementation of git,https://github.com/Byron/gitoxide
+23,Lobsters,rust,Rust programming,rd is a record/replay debugger written in rust,https://github.com/sidkshatriya/rd
+24,Lobsters,rust,Rust programming,"probe.rs: a modern, embedded debugging toolkit, written in Rust",http://probe.rs/
+25,Lobsters,rust,Rust programming,Single Page Applications using Rust,http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
+26,Lobsters,rust,Rust programming,nixinfo -- a lib crate supplying information gathering functions for *nix,https://github.com/Phate6660/nixinfo
+27,Lobsters,rust,Rust programming,"defmt, a highly efficient Rust logging framework for embedded devices",https://ferrous-systems.com/blog/defmt/
+28,Lobsters,rust,Rust programming,Error Handling Isn't All About Errors,https://yaah.dev/rustconf
+29,Lobsters,rust,Rust programming,RustConf 2020,https://www.youtube.com/watch?v=ESXMg9OzWrQ
+30,Lobsters,rust,Rust programming,Early Impressions of Go from a Rust Programmer,https://www.ncameron.org/blog/early-impressions-of-go-from-a-rust-programmer/
+31,Lobsters,rust,Rust programming,"In Rust, ordinary vectors are values",http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/
+32,Lobsters,rust,Rust programming,First thoughts on Rust vs OCaml,https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/
+33,Lobsters,rust,Rust programming,Rust RwLock and Mutex Performance Oddities (2018),https://fy.blackhats.net.au/blog/html/2018/10/19/rust_rwlock_and_mutex_performance_oddities.html
+34,Lobsters,rust,Rust programming,Laying the foundation for Rust's future,https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html
+35,Lobsters,rust,Rust programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+36,Lobsters,rust,Rust programming,Existential types in Rust,https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html
+37,Lobsters,rust,Rust programming,comparative unsafety,https://flak.tedunangst.com/post/comparative-unsafety
+38,Lobsters,rust,Rust programming,Error recovery with parser combinators (using nom),https://www.eyalkalderon.com/nom-error-recovery/
+39,Lobsters,rust,Rust programming,Hiding messages in x86 binaries using semantic duals,https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals
+40,Lobsters,rust,Rust programming,How to Read First Impression Posts,https://www.possiblerust.com/community/how-to-read-first-impression-posts
+41,Lobsters,rust,Rust programming,xi-editor,https://github.com/xi-editor
+42,Lobsters,rust,Rust programming,"Frustrated? It's not you, it's Rust",https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
+43,Lobsters,rust,Rust programming,"probe-run, run embedded Rust apps like native apps",https://ferrous-systems.com/blog/probe-run/
+44,Lobsters,rust,Rust programming,RustFest 2019 Interview Series: Burnout in Open Source Software; The Rust Roadmap,https://rustacean-station.org/episode/025-katharina-florian/
+45,Lobsters,rust,Rust programming,"I am a Java, C#, C or C++ developer, time to do some Rust",https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust
+46,Lobsters,rust,Rust programming,"""Rust does not have a stable ABI""",https://people.gnome.org/~federico/blog/rust-stable-abi.html
+47,Lobsters,rust,Rust programming,gitoxide: pure rust implementation of git,https://github.com/Byron/gitoxide
+48,Lobsters,rust,Rust programming,rd is a record/replay debugger written in rust,https://github.com/sidkshatriya/rd
+49,Lobsters,rust,Rust programming,"probe.rs: a modern, embedded debugging toolkit, written in Rust",http://probe.rs/
+50,Lobsters,rust,Rust programming,Single Page Applications using Rust,http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
+51,Lobsters,rust,Rust programming,Surviving Rust async interfaces,https://fasterthanli.me/articles/surviving-rust-async-interfaces
+52,Lobsters,rust,Rust programming,Two Years With Rust,http://brooker.co.za/blog/2020/03/22/rust.html
+53,Lobsters,rust,Rust programming,Inbound & Outbound FFI,https://www.possiblerust.com/guide/inbound-outbound-ffi
+54,Lobsters,rust,Rust programming,Modernize network function development with this Rust(+DPDK)-based framework,https://opensource.com/article/20/8/capsule-networking
+55,Lobsters,rust,Rust programming,Rusty Days 2020,https://www.youtube.com/playlist?list=PLf3u8NhoEikhTC5radGrmmqdkOK-xMDoZ
+56,Lobsters,rust,Rust programming,How to speed up the Rust compiler some more in 2020,https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/
+57,Lobsters,rust,Rust programming,An introduction to Data Oriented Design with Rust,http://jamesmcm.github.io/blog/2020/07/25/intro-dod
+58,Lobsters,rust,Rust programming,1Password for Linux development preview,https://discussions.agilebits.com/discussion/114964/1password-for-linux-development-preview
+59,Lobsters,rust,Rust programming,A gentle intro to assembly with Rust,https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/
+60,Lobsters,rust,Rust programming,Go vs Rust: Writing a CLI tool,https://cuchi.me/posts/go-vs-rust
+61,Lobsters,rust,Rust programming,Learning Rust: Mindsets and Expectations,https://ferrous-systems.com/blog/mindsets-and-expectations/
+62,Lobsters,rust,Rust programming,"Blue Team Rust: What is ""Memory Safety"", really?",https://tiemoko.com/blog/blue-team-rust/
+63,Lobsters,rust,Rust programming,Writing and publishing a Python module in Rust,https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust
+64,Lobsters,rust,Rust programming,Zero Cost References with Regions in Vale,https://vale.dev/blog/zero-cost-refs-regions
+65,Lobsters,rust,Rust programming,Rust verification tools,https://alastairreid.github.io/rust-verification-tools/
+66,Lobsters,rust,Rust programming,Anachro-PC - The Anachronistic Personal Computer,https://jamesmunns.com/blog/anachro-pc-001/
+67,Lobsters,rust,Rust programming,Learning Rust With Entirely Too Many Linked Lists,https://rust-unofficial.github.io/too-many-lists/index.html
+68,Lobsters,rust,Rust programming,"An extremely fast, Pytorch-style Tensor+Autograd library written in Rust",https://github.com/bkkaggle/L2
+69,Lobsters,rust,Rust programming,oso: an open source policy engine for authorization,https://www.osohq.com
+70,Lobsters,rust,Rust programming,Enum or Trait Object,https://www.possiblerust.com/guide/enum-or-trait-object
+71,Lobsters,rust,Rust programming,Writing a file system from scratch in Rust,https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
+72,Lobsters,rust,Rust programming,Oak: an infinitely portable language powered by brainfuck inspired technology,https://github.com/adam-mcdaniel/oakc
+73,Lobsters,rust,Rust programming,Richter - A modern Quake engine,http://c-obrien.org/richter/
+74,Lobsters,rust,Rust programming,servo-unity: A browser plugin for Unity,https://blog.mozvr.com/a-browser-plugin-for-unity/
+75,Lobsters,rust,Rust programming,What is Tauri?,https://tauri.studio/docs/about/intro
+76,Lobsters,rust,Rust programming,Langcraft: The LLVM target for Minecraft you've never wanted,https://github.com/SuperTails/langcraft
+77,Lobsters,rust,Rust programming,Rust explained using easy English,https://github.com/Dhghomon/easy_rust
+78,Lobsters,rust,Rust programming,Cross-compiling to Redox using Nix,https://www.redox-os.org/news/redox-plus-nix-0/
+79,Lobsters,rust,Rust programming,Nuclei: Proactive IO & Runtime system,https://github.com/vertexclique/nuclei
+80,Lobsters,rust,Rust programming,"Monads, Explained Without Bullshit",https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html
+81,Lobsters,rust,Rust programming,Clear explanation of Rust’s module system,http://www.sheshbabu.com/posts/rust-module-system/
+82,Lobsters,rust,Rust programming,"dijo — scriptable, curses-based, digital event tracker",https://github.com/NerdyPepper/dijo
+83,Lobsters,rust,Rust programming,Popol: Minimal non-blocking I/O with Rust,https://cloudhead.io/popol/
+84,Lobsters,rust,Rust programming,wgpu API tracing infrastructure,http://kvark.github.io/wgpu/debug/test/ron/2020/07/18/wgpu-api-tracing.html
+85,Lobsters,rust,Rust programming,Announcing Rust 1.45.0,https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html
+86,Lobsters,rust,Rust programming,Two Beautiful Rust Programs,https://matklad.github.io//2020/07/15/two-beautiful-programs.html
+87,Lobsters,rust,Rust programming,Why even unused data needs to be valid,https://www.ralfj.de/blog/2020/07/15/unused-data.html
+88,Lobsters,rust,Rust programming,Building and debugging a high-throughput daemon in Rust,https://brokenco.de//2020/07/15/high-throughput-in-rust.html
+89,Lobsters,rust,Rust programming,Writing an asynchronous MQTT Broker in Rust - Part 2,https://hassamuddin.com/blog/rust-mqtt/ping-pong/
+90,Lobsters,rust,Rust programming,Rewriting FORTRAN Software In Rust,https://mckeogh.tech/post/shallow-water/
+91,Lobsters,rust,Rust programming,pgx: Build Postgres Extensions with Rust,https://github.com/zombodb/pgx
+92,Lobsters,rust,Rust programming,Faster Integer Parsing,https://rust-malaysia.github.io/code/2020/07/11/faster-integer-parsing.html
+93,Lobsters,rust,Rust programming,nnnoiseless: porting audio code from C to rust,https://jneem.github.io/nnnoiseless/
+94,Lobsters,rust,Rust programming,Rust is Surprisingly Good as a Server Language,https://stu2b50.dev/posts/rust-is-surpris76171
+95,Lobsters,rust,Rust programming,Is It Time to Rewrite the Operating System in Rust?,https://www.youtube.com/watch?v=HgtRAbE1nBM
+96,Lobsters,rust,Rust programming,Live loudness normalization in GStreamer & experiences with porting a C audio filter to Rust,https://coaxion.net/blog/2020/07/live-loudness-normalization-in-gstreamer-experiences-with-porting-a-c-audio-filter-to-rust/
+97,Lobsters,rust,Rust programming,Tour of Rust,https://tourofrust.com/
+98,Lobsters,rust,Rust programming,Linux kernel in-tree Rust support,https://lore.kernel.org/lkml/CAKwvOdmuYc8rW_H4aQG4DsJzho=F+djd68fp7mzmBp3-wY--Uw@mail.gmail.com/T/#u
+99,Lobsters,rust,Rust programming,Hunting down a non-determinism-bug in our Rust Wasm build,https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1
+100,Lobsters,rust,Rust programming,Concurrency Patterns in Embedded Rust,https://ferrous-systems.com/blog/embedded-concurrency-patterns/
+101,Lobsters,rust,Rust programming,The Fatal Flaw of Ownership Semantics,https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/
+102,Lobsters,rust,Rust programming,Small strings in Rust,https://fasterthanli.me/articles/small-strings-in-rust
+103,Lobsters,rust,Rust programming,Writing a winning 4K intro in Rust,https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html
+104,Lobsters,rust,Rust programming,Writing an aysnchronous MQTT Broker in Rust - Part 1,https://hassamuddin.com/blog/rust-mqtt/overview/
+105,Lobsters,rust,Rust programming,"Back to old tricks … (or, baby steps in Rust)",https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/
+106,Lobsters,rust,Rust programming,Cryptographic algorithms written in pure Rust,https://github.com/RustCrypto
+107,Lobsters,rust,Rust programming,Disk space and LTO improvements,https://blog.rust-lang.org/inside-rust/2020/06/29/lto-improvements.html
+108,Lobsters,rust,Rust programming,A Few More Reasons Rust Compiles Slowly,https://pingcap.com/blog/reasons-rust-compiles-slowly
+109,Lobsters,rust,Rust programming,drep - a grep with runtime reloadable filters,https://github.com/maxpert/drep
+110,Lobsters,rust,Rust programming,Abstracting away correctness,https://fasterthanli.me/articles/abstracting-away-correctness
+111,Lobsters,rust,Rust programming,Im bad at unsafe,https://djugei.github.io/bad-at-unsafe/
+112,Lobsters,rust,Rust programming,xi-editor retrospective,https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html
+113,Lobsters,rust,Rust programming,How CDNs Generate Certificates,https://fly.io/blog/how-cdns-generate-certificates/
+114,Lobsters,rust,Rust programming,Egui – An experimental immediate mode GUI written in Rust,https://emilk.github.io/emigui/index.html
+115,Lobsters,rust,Rust programming,Cross building Rust GStreamer plugins for the Raspberry Pi,https://www.collabora.com/news-and-blog/blog/2020/06/23/cross-building-rust-gstreamer-plugins-for-the-raspberry-pi/
+116,Lobsters,rust,Rust programming,Building a faster CouchDB View Server in Rust,https://www.garrensmith.com/blogs/fortuna-rs-couchdb-view-server
+117,Lobsters,rust,Rust programming,Tracking eye centers location with Rust & OpenCV,https://www.blog.nodrama.io/rust-opencv-eye-center-localisation/
+118,Lobsters,rust,Rust programming,toydb: a distributed SQL database in Rust,https://github.com/erikgrinaker/toydb
+119,Lobsters,rust,Rust programming,Rust's Huge Compilation Units,https://pingcap.com/blog/rust-huge-compilation-units
+120,Lobsters,rust,Rust programming,Hardware Floating Point,https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/
+121,Lobsters,rust,Rust programming,Tips for Faster Rust Compile Times,https://endler.dev/2020/rust-compile-times/
+122,Lobsters,rust,Rust programming,Rust concurrency: the archetype of a message-passing bug,https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8
+123,Lobsters,rust,Rust programming,Rust code reviews,https://web.crev.dev/rust-reviews/
+124,Lobsters,rust,Rust programming,How Rust Lets Us Monitor 30k API calls/min,https://blog.bearer.sh/how-rust-lets-us-monitor-30k-api-calls-min/
+125,Lobsters,rust,Rust programming,The Rust compiler isn't slow; we are,https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html
+126,Lobsters,rust,Rust programming,Using Rust to Delete Gitignored Cruft,https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/
+127,Lobsters,rust,Rust programming,Third-party audit of rustls,http://jbp.io/2020/06/14/rustls-audit.html
+128,Lobsters,rust,Rust programming,"Rust, WebAssembly, and Javascript Make Three: An FFI Story",https://www.infoq.com/presentations/rust-webassembly-javascript/
+129,Lobsters,rust,Rust programming,Shredder: Garbage Collection as a Library for Rust,https://blog.typingtheory.com/shredder-garbage-collection-as-a-library-for-rust/
+130,Lobsters,rust,Rust programming,Building TodoMVC With vgtk,https://bodil.lol/vgtk/
+131,Lobsters,rust,Rust programming,Announcing our Rust Driver: Version 1.0 (for MongoDB),https://www.mongodb.com/blog/post/announcing-rust-driver-version-1
+132,Lobsters,rust,Rust programming,New inline assembly syntax available in nightly,https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html
+133,Lobsters,rust,Rust programming,Futures and Segmented Stacks,https://without.boats/blog/futures-and-segmented-stacks/
+134,Lobsters,rust,Rust programming,Top for NGINX,https://github.com/gsquire/topngx
+135,Lobsters,rust,Rust programming,"Pazi: an autojump ""zap to directory"" helper",https://github.com/euank/pazi
+136,Lobsters,rust,Rust programming,chardetng: A More Compact Character Encoding Detector for the Legacy Web,https://hsivonen.fi/chardetng/
+137,Lobsters,rust,Rust programming,choose: A human-friendly and fast alternative to awk and cut,https://github.com/theryangeary/choose
+138,Lobsters,rust,Rust programming,MiniCouchDB in Rust,https://www.garrensmith.com/blogs/mini-couch-hack-week
+139,Lobsters,rust,Rust programming,Zero To Production in Rust,https://lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/
+140,Lobsters,rust,Rust programming,A guide to writing a DNS Server from scratch in Rust,https://github.com/EmilHernvall/dnsguide
+141,Lobsters,rust,Rust programming,Why the developers who use Rust love it so much,https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/
+142,Lobsters,rust,Rust programming,"Calculate the frequencies of words, pairs of words and more in a Wikipedia dataset",https://github.com/asimihsan/word-frequencies
+143,Lobsters,rust,Rust programming,gitea-release Tool Announcement,https://christine.website/blog/gitea-release-tool-2020-05-31
+144,Lobsters,rust,Rust programming,Rust as a High Level Language,https://llogiq.github.io/2020/05/30/hi.html
+145,Lobsters,rust,Rust programming,Rust: Dropping heavy things in another thread can make your code 10000 times faster,https://abramov.io/rust-dropping-things-in-another-thread
+146,Lobsters,rust,Rust programming,Coverage Marks,https://ferrous-systems.com/blog/coverage-marks/
+147,Lobsters,rust,Rust programming,Writing Linux Kernel Modules in Safe Rust - Geoffrey Thomas & Alex Gaynor,https://www.youtube.com/watch?v=RyY01fRyGhM
+148,Lobsters,rust,Rust programming,How to build a WebSocket server with Rust,https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/
+149,Lobsters,rust,Rust programming,Maybe you don't need Rust and WASM to speed up your JS (2018),https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
+150,Lobsters,rust,Rust programming,Compiling Rust binaries for Windows 98 SE and more: a journey,https://seri.tools/blog/compiling-rust-for-legacy-windows/
+151,Lobsters,rust,Rust programming,Cargo-Guppy: A Tool to Analyze Cargo Dependency Graphs,https://github.com/facebookincubator/cargo-guppy
+152,Lobsters,rust,Rust programming,Terminal interface for checking IPv6 exposed local ports,https://github.com/vvilhonen/ipv6shell
+153,Lobsters,rust,Rust programming,Conway’s Game of Life on the NES in Rust,https://gridbugs.org/conways-game-of-life-on-the-nes-in-rust/
+154,Lobsters,rust,Rust programming,Integration Testing in Rust,https://joshleeb.com/blog/rust-integration-tests/
+155,Lobsters,rust,Rust programming,Rust's Runtime,https://blog.mgattozzi.dev/rusts-runtime/
+156,Lobsters,rust,Rust programming,Common Rust Lifetime Misconceptions,https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+157,Lobsters,rust,Rust programming,Broom: An ergonomic tracing garbage collector,https://github.com/zesterer/broom
+158,Lobsters,rust,Rust programming,Fil: a new Python memory profiler for data scientists and scientists,https://pythonspeed.com/articles/memory-profiler-data-scientists/
+159,Lobsters,rust,Rust programming,acme-redirect: easy to use acmev2 daemon in rust,https://github.com/kpcyrd/acme-redirect
+160,Lobsters,rust,Rust programming,Things I hate about Rust,https://blog.yossarian.net/2020/05/20/Things-I-hate-about-rust
+161,Lobsters,rust,Rust programming,SAFE Network,https://safenetwork.tech/
+162,Lobsters,rust,Rust programming,Oxidizing the technical interview,https://blog.mgattozzi.dev/oxidizing-the-technical-interview/
+163,Lobsters,rust,Rust programming,Controlling mutation with types,https://blog.jcoglan.com/2020/05/12/controlling-mutation-with-types/
+164,Lobsters,rust,Rust programming,Next Few Years,https://rust-analyzer.github.io//blog/2020/05/18/next-few-years.html
+165,Lobsters,rust,Rust programming,"Orb.Farm, a virtual aquatic ecosystem",https://orb.farm
+166,Lobsters,rust,Rust programming,SIMD accelerated rank/select data structure,https://github.com/sujayakar/rsdict
+167,Lobsters,rust,Rust programming,Common *nix commands written in Rust,https://gcollazo.com/common-nix-commands-written-in-rust/
+168,Lobsters,rust,Rust programming,Five Years of Rust,https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
+169,Lobsters,rust,Rust programming,"NuShell: the shell where traditional Unix meets modern development, written in Rust",https://notamonadtutorial.com/nushell-the-shell-where-traditional-unix-meets-modern-development-written-in-rust-caf92c2c7c98
+170,Lobsters,rust,Rust programming,Succinct Data Structures and Delta Encoding for Modern Databases,https://github.com/terminusdb/terminus-server/blob/dev/docs/whitepaper/terminusdb.pdf
+171,Lobsters,rust,Rust programming,Using Rust to Power Python Importing With oxidized_importer,https://gregoryszorc.com/blog/2020/05/10/using-rust-to-power-python-importing-with-oxidized_importer/
+172,Lobsters,rust,Rust programming,ruruby: Ruby in Rust,https://github.com/sisshiki1969/ruruby
+173,Lobsters,rust,Rust programming,C++ Is Faster and Safer Than Rust: Benchmarked by Yandex,https://www.viva64.com/en/b/0733/
+174,Lobsters,rust,Rust programming,A practical introduction to async programming in Rust,http://jamesmcm.github.io/blog/2020/05/06/a-practical-introduction-to-async-programming-in-rust
+175,Lobsters,rust,Rust programming,Writing A Wayland Compositor In Rust,https://wiki.alopex.li/WritingAWaylandCompositorInRust
+176,Lobsters,rust,Rust programming,Auto-currying Rust Functions: A guide to Rust's Procedural Macros,https://peppe.rs/posts/auto-currying_rust_functions/
+177,Lobsters,rust,Rust programming,gitui release: terminal ui for git written in rust,http://extrawurst.github.io/general/2020/05/08/gitui-release.html
+178,Lobsters,rust,Rust programming,micro-mitten: simple Rust-like lang with compile-time memory management,https://github.com/doctorn/micro-mitten
+179,Lobsters,rust,Rust programming,Decoding Bitcoin Messages with Tokio Codecs,https://www.zfnd.org/blog/decoding-bitcoin-messages-with-tokio-codecs/
+180,Lobsters,rust,Rust programming,Reducing the size of a Rust GStreamer plugin,https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/
+181,Lobsters,rust,Rust programming,no_std async/await - soon on stable,https://ferrous-systems.com/blog/stable-async-on-embedded/
+182,Lobsters,rust,Rust programming,smol: A small and fast async runtime for Rust,https://github.com/stjepang/smol
+183,Lobsters,rust,Rust programming,Min of Three (2017),https://matklad.github.io//2017/03/12/min-of-three.html
+184,Lobsters,rust,Rust programming,Making rust as fast as go,https://www.christianfscott.com/making-rust-as-fast-as-go/
+185,Lobsters,rust,Rust programming,Rust in an instant,https://fnordig.de/2020/05/02/rust-in-an-instant/
+186,Lobsters,rust,Rust programming,Rust-Written Redox OS Booting The 128-Thread AMD Ryzen Threadripper 3990X,https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-On-Threadripper-3990X
+187,Lobsters,rust,Rust programming,The Safety Boat: Kubernetes and Rust,http://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/
+188,Lobsters,rust,Rust programming,Hot Reloadable structs: Memory Mapping,https://mun-lang.org/blog/2020/05/01/memory-mapping/
+189,Lobsters,rust,Rust programming,Microsoft: Why we used programming language Rust over Go for WebAssembly on Kubernetes app,https://www.zdnet.com/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/
+190,Lobsters,rust,Rust programming,Rust/WinRT Public Preview,https://blogs.windows.com/windowsdeveloper/2020/04/30/rust-winrt-public-preview/
+191,Lobsters,rust,Rust programming,"archseer/enigma - Enigma VM, an implementation of the Erlang VM in Rust",https://github.com/archseer/enigma
+192,Lobsters,rust,Rust programming,A thread about Rust. What I like and what not,https://twitter.com/eugeneia_/status/1255803692181327872
+193,Lobsters,rust,Rust programming,Notes on Parsing in Rust,https://blog.wesleyac.com/posts/rust-parsing
+194,Lobsters,rust,Rust programming,"Rust at FullStory, Part 2: A Look Inside Our Mobile SDK",https://bionic.fullstory.com/rust-at-fullstory-part-2/
+195,Lobsters,rust,Rust programming,"pkg: A CLI frontend to emerge with extra features, written in Rust",https://github.com/Phate6660/pkg
+196,Lobsters,rust,Rust programming,rsfetch: Fast (~1ms execution time) and somewhat(?) minimal fetch program written in Rust,https://github.com/rsfetch/rsfetch
+197,Lobsters,rust,Rust programming,rust-analyzer - First Release,https://rust-analyzer.github.io//blog/2020/04/20/first-release.html
+198,Lobsters,rust,Rust programming,Learning embedded Rust by building RISC-V-powered robot - Part 4,https://k155la3.blog/2020/04/19/learning-embedded-rust-by-building-riscv-powered-robot-part-4/
+199,Lobsters,rust,Rust programming,saurvs/astro-rust,https://github.com/saurvs/astro-rust
+200,Lobsters,rust,Rust programming,How to speed up the Rust compiler in 2020,https://blog.mozilla.org/nnethercote/2020/04/24/how-to-speed-up-the-rust-compiler-in-2020/
+201,Lobsters,rust,Rust programming,Embedded Rust pattern - Zero Sized References,https://ferrous-systems.com/blog/zero-sized-references/
+202,Lobsters,rust,Rust programming,Wgpu-rs on the web,https://gfx-rs.github.io/2020/04/21/wgpu-web.html
+203,Lobsters,rust,Rust programming,Announcing Rust 1.43.0,https://blog.rust-lang.org/2020/04/23/Rust-1.43.0.html
+204,Lobsters,rust,Rust programming,How to write CRaP Rust code,https://blog.logrocket.com/how-to-write-crap-rust-code/
+205,Lobsters,rust,Rust programming,Shipyard - Entity Component System focused on usability and speed,https://github.com/leudz/shipyard
+206,Lobsters,rust,Rust programming,sn0int - Semi-automatic OSINT framework and package manager,https://github.com/kpcyrd/sn0int
+207,Lobsters,rust,Rust programming,"Clojure, implemented atop Rust",https://github.com/Tko1/ClojureRS
+208,Lobsters,rust,Rust programming,How to Build a REST API in Rust — A Step-by-Step Guide,https://medium.com/better-programming/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0
+209,Lobsters,rust,Rust programming,"A runtime for writing reliable asynchronous applications. Provides I/O, networking, scheduling",https://github.com/tokio-rs/tokio
+210,Lobsters,rust,Rust programming,Testing sync at Dropbox,https://dropbox.tech/infrastructure/-testing-our-new-sync-engine
+211,Lobsters,rust,Rust programming,"Logos 0.11 is out: Iterators, callbacks, and stateful tokens",https://github.com/maciejhirsz/logos/releases/tag/v0.11.0
+212,Lobsters,rust,Rust programming,Writing Python inside your Rust code — Part 1,https://blog.m-ou.se/writing-python-inside-rust-1/
+213,Lobsters,rust,Rust programming,Rust Survey 2019 Results,https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html
+214,Lobsters,rust,Rust programming,convert_case rust crate released,https://docs.rs/convert_case/0.1.0/convert_case/index.html
+215,Lobsters,rust,Rust programming,From Pratt to Dijkstra,https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html
+216,Lobsters,rust,Rust programming,How I Reverse Engineered the LastPass CLI Tool,http://adventures.michaelfbryan.com/posts/lastpass/
+217,Lobsters,rust,Rust programming,"BEAM in the Browser with Lumen, Part 1: Motivations & Constraints",https://tylerscript.dev/bringing-the-beam-to-webassembly-with-lumen
+218,Lobsters,rust,Rust programming,A Possible New Backend for Rust,https://jason-williams.co.uk/a-possible-new-backend-for-rust
+219,Lobsters,rust,Rust programming,"Andrei Alexandrescu on D, Go, and Rust",https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+220,Lobsters,rust,Rust programming,Create book from markdown files. Like Gitbook but implemented in Rust,https://github.com/rust-lang/mdBook
+221,Lobsters,rust,Rust programming,Simple but Powerful Pratt Parsing,https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html
+222,Lobsters,rust,Rust programming,How often does Rust change?,https://words.steveklabnik.com/how-often-does-rust-change
+223,Lobsters,rust,Rust programming,How We Test Vector,https://vector.dev/blog/how-we-test-vector/
+224,Lobsters,rust,Rust programming,I can't keep up with idiomatic Rust,https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
+225,Lobsters,rust,Rust programming,Error Handling in a Correctness-Critical Rust Project,http://sled.rs/errors
+226,Lobsters,rust,Rust programming,Programming Servo: Workers at your Service,https://medium.com/programming-servo/programming-servo-workers-at-your-service-db71e5943511
+227,Lobsters,rust,Rust programming,Learning embedded Rust by building RISC-V-powered robot - Part 3,https://k155la3.blog/2020/04/04/learning-embedded-rust-by-building-riscv-powered-robot-part-3/
+228,Lobsters,rust,Rust programming,Why I’m building a new async runtime,https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html
+229,Lobsters,rust,Rust programming,Reducing tail latencies with automatic cooperative task yielding,https://tokio.rs/blog/2020-04-preemption/
+230,Lobsters,rust,Rust programming,What constitutes a vulnerability?,https://boats.gitlab.io/blog/post/vulnerabilities/
+231,Lobsters,rust,Rust programming,reliverator,https://flak.tedunangst.com/post/reliverator
+232,Lobsters,rust,Rust programming,State Machines in Rust,https://blog.yoshuawuyts.com/state-machines/
+233,Lobsters,rust,Rust programming,Async/Await | Writing an OS in Rust,https://os.phil-opp.com/async-await/
+234,Lobsters,rust,Rust programming,Rust from Golang's Perspective,https://www.youtube.com/watch?v=eQjPvsmfIts
+235,Lobsters,rust,Rust programming,Learning embedded Rust by building RISC-V-powered robot - Part 2,https://k155la3.blog/2020/03/22/learning-embedded-rust-by-building-riscv-powered-robot-part-2/
+236,Lobsters,rust,Rust programming,pa'i Benchmarks,https://christine.website/blog/pahi-benchmarks-2020-03-26
+237,Lobsters,rust,Rust programming,MeiliSearch: Zero config alternative to ElasticSearch,https://docs.meilisearch.com/
+238,Lobsters,rust,Rust programming,Quickly Find Rust Program Bottlenecks Online Using a Go Tool,https://pingcap.com/blog/quickly-find-rust-program-bottlenecks-online-using-a-go-tool/
+239,Lobsters,rust,Rust programming,"Reducing memory consumption in librsvg, part 3: slack space in Bézier paths",https://people.gnome.org/~federico/blog/reducing-memory-consumption-in-librsvg-3.html
+240,Lobsters,rust,Rust programming,d0iasm/rvemu - RISC-V online emulator with WebAssembly generated by Rust,https://github.com/d0iasm/rvemu
+241,Lobsters,rust,Rust programming,Two Years With Rust,http://brooker.co.za/blog/2020/03/22/rust.html
+242,Lobsters,rust,Rust programming,Learning embedded Rust by building RISC-V-powered robot - Part 1,https://k155la3.blog/2020/03/21/learning-embedded-rust-by-building-riscv-powered-robot-part-1/
+243,Lobsters,rust,Rust programming,Comparing Alternatives to top Written in Rust,https://www.wezm.net/v2/posts/2020/rust-top-alternatives/
+244,Lobsters,rust,Rust programming,Cheatsheet: Option (in Rust) vs Maybe (in Haskell),https://notes.iveselov.info/cheatsheet-rust-option-vs-haskell-maybe
+245,Lobsters,rust,Rust programming,Memory-Safety Challenge Considered Solved? An Empirical Study with All Rust CVEs,https://arxiv.org/abs/2003.03296
+246,Lobsters,rust,Rust programming,Secure Rust Guidelines,https://anssi-fr.github.io/rust-guide/
+247,Lobsters,rust,Rust programming,docs.rs now allows you to choose your build targets,https://blog.rust-lang.org/2020/03/15/docs-rs-opt-into-fewer-targets.html
+248,Lobsters,rust,Rust programming,Rewriting the heart of our sync engine,https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
+249,Lobsters,rust,Rust programming,Scripting in rust with self-interpreting source code,https://neosmart.net/blog/2020/self-compiling-rust-code/
+250,Lobsters,rust,Rust programming,How I Start: Rust,https://christine.website/blog/how-i-start-rust-2020-03-15
+251,Lobsters,rust,Rust programming,Out of the Box Dynamic Dispatch,https://llogiq.github.io/2020/03/14/ootb.html
+252,Lobsters,rust,Rust programming,krabs: An x86 bootloader written in Rust,https://github.com/ellbrid/krabs
+253,Lobsters,rust,Rust programming,"Optimizations That Aren't, Or Are They?",https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write
+254,Lobsters,rust,Rust programming,Oxidize 1K: A Remote Conference,https://oxidizeconf.com/oxidize-1k/
+255,Lobsters,rust,Rust programming,"Yes, I am still learning Rust",https://llogiq.github.io/2020/03/07/learning.html
+256,Lobsters,rust,Rust programming,Announcing Rust 1.42.0,https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+257,Lobsters,rust,Rust programming,Async Interview #7: Withoutboats,http://smallcultfollowing.com/babysteps/blog/2020/03/10/async-interview-7-withoutboats/
+258,Lobsters,rust,Rust programming,navi - An interactive cheatsheet tool for the command-line,https://github.com/denisidoro/navi
+259,Lobsters,rust,Rust programming,Bottlerocket - An operating system designed for hosting containers,https://aws.amazon.com/bottlerocket/
+260,Lobsters,rust,Rust programming,A C# programmer examines Rust - Part 1,"https://treit.github.io/programming,/rust,/c%23/2020/03/06/StartingRust.html"
+261,Lobsters,rust,Rust programming,My exploration of Rust and .NET,https://ericsink.com/entries/dotnet_rust.html
+262,Lobsters,rust,Rust programming,Implementing the Clipper chip cipher in Rust,https://blog.yossarian.net/2020/03/09/Implementing-the-Clipper-chip-cipher-in-Rust
+263,Lobsters,rust,Rust programming,How I Start: Nix,https://christine.website/blog/how-i-start-nix-2020-03-08
+264,Lobsters,rust,Rust programming,zoxide: a new cd command written in Rust that learns your habits,https://github.com/ajeetdsouza/zoxide
+265,Lobsters,rust,Rust programming,Considering Rust,https://www.youtube.com/watch?v=DnT-LUQgc7s
+266,Lobsters,rust,Rust programming,Stork: a WASM search interface/plugin built for static sites,https://stork-search.net
+267,Lobsters,rust,Rust programming,Recent and future pattern matching improvements in Rust,https://blog.rust-lang.org/inside-rust/2020/03/04/recent-future-pattern-matching-improvements.html
+268,Lobsters,rust,Rust programming,Building a Rust Driver for PineTime’s Touch Controller,https://medium.com/@ly.lee/building-a-rust-driver-for-pinetimes-touch-controller-cbc1a5d5d3e9
+269,Lobsters,rust,Rust programming,async/await on embedded Rust,https://ferrous-systems.com/blog/async-on-embedded/
+270,Lobsters,rust,Rust programming,"orz - a high performance, general purpose data compressor",https://github.com/richox/orz
+271,Lobsters,rust,Rust programming,Rust dependencies scare,https://blog.debiania.in.ua/posts/2020-03-01-rust-dependencies-scare.html
+272,Lobsters,rust,Rust programming,Rust Ownership Rules,https://www.geekabyte.io/2020/02/rust-ownership-rules.html
+273,Lobsters,rust,Rust programming,ExpressJS vs Actix-Web: performance and running cost comparison,https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a
+274,Lobsters,rust,Rust programming,"A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly",https://endler.dev/2019/tinysearch/
+275,Lobsters,rust,Rust programming,neovide – No Nonsense Neovim Client in Rust,https://github.com/Kethku/neovide
+276,Lobsters,rust,Rust programming,bottom – Yet another cross-platform graphical process/system monitor,https://github.com/ClementTsang/bottom
+277,Lobsters,rust,Rust programming,"sauron-native: Truly cross platform, truly native. multiple backend GUI for rust",https://github.com/ivanceras/sauron-native
+278,Lobsters,rust,Rust programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/
+279,Lobsters,rust,Rust programming,Early Impressions of Rust from a Go Programmer,https://coded.io/2020/02/early-impressions-of-rust-from-a-go-programmer/
+280,Lobsters,rust,Rust programming,From &str to Cow (2016),https://jwilm.io/blog/from-str-to-cow/
+281,Lobsters,rust,Rust programming,A tutorial on how to contribute to the Rust compiler,https://quietmisdreavus.net/code/2019/08/23/is-this-magic-ferris-explores-rustc/
+282,Lobsters,rust,Rust programming,Async HTTP,https://blog.yoshuawuyts.com/async-http/
+283,Lobsters,rust,Rust programming,"Bastion - distributed, fault tolerant system for Rust",https://github.com/bastion-rs/bastion
+284,Lobsters,rust,Rust programming,Rust/WinRT coming soon,https://kennykerr.ca/2020/02/22/rust-winrt-coming-soon/
+285,Lobsters,rust,Rust programming,pa'i: hello world,https://christine.website/blog/pahi-hello-world-2020-02-22
+286,Lobsters,rust,Rust programming,spotify-backup download your spotify albums and playlists in json format,https://0io.eu/spotify-backup/
+287,Lobsters,rust,Rust programming,Programming metaphors for theological concepts,https://shaungallagher.pressbin.com/blog/metaphors.html
+288,Lobsters,rust,Rust programming,Working with strings in Rust,https://fasterthanli.me/blog/2020/working-with-strings-in-rust/
+289,Lobsters,rust,Rust programming,A Pragmatic Approach To Global State,http://adventures.michaelfbryan.com/posts/pragmatic-global-state/
+290,Lobsters,rust,Rust programming,Why Rust,https://christine.website/blog/why-rust-2020-02-15
+291,Lobsters,rust,Rust programming,Sealed Rust Update: The Plan for Safety Critical Rust,https://ferrous-systems.com/blog/sealed-rust-the-plan/
+292,Lobsters,rust,Rust programming,Safe Systems Programming in Rust: The Promise and the Challenge,https://robbertkrebbers.nl/research/articles/safe_programming_rust.pdf
+293,Lobsters,rust,Rust programming,Every Melody Has Been Copyrighted (and they're all on this hard drive),https://www.youtube.com/watch?v=sfXn_ecH5Rw
+294,Lobsters,rust,Rust programming,rust-analyzer: Changelog #11,https://rust-analyzer.github.io//thisweek/2020/02/10/changelog-11.html
+295,Lobsters,rust,Rust programming,"oreboot - a fork of coreboot, with C removed, written in Rust",https://github.com/oreboot/oreboot
+296,Lobsters,rust,Rust programming,Bringing async/await to embedded Rust,https://ferrous-systems.com/blog/embedded-async-await/
+297,Lobsters,rust,Rust programming,Mozilla Developer Talks Up WGPU As Their WebGPU Implementation In Rust,https://www.phoronix.com/scan.php?page=news_item&px=Mozilla-WGPU-WebGPU-2020
+298,Lobsters,rust,Rust programming,Embedded Rust Frustrations,https://josh.robsonchase.com/embedded-frustrations/
+299,Lobsters,rust,Rust programming,Rust for Low Power Digital Signal Processing,https://interrupt.memfault.com/blog/rust-for-digital-signal-processing
+300,Lobsters,rust,Rust programming,Why Discord is switching from Go to Rust,https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+301,Lobsters,rust,Rust programming,free: A terrible programming language that targets brainfuck,https://github.com/adam-mcdaniel/free
+302,Lobsters,rust,Rust programming,Tensor Flow bindings for Rust,https://github.com/tensorflow/rust
+303,Lobsters,rust,Rust programming,Say hello to OpenSK: a fully open-source security key implementation,https://security.googleblog.com/2020/01/say-hello-to-opensk-fully-open-source.html
+304,Lobsters,rust,Rust programming,The Rust Compilation Model Calamity,https://pingcap.com/blog/rust-compilation-model-calamity/
+305,Lobsters,rust,Rust programming,Rust 1.41,https://blog.rust-lang.org/2020/01/30/Rust-1.41.0.html
+306,Lobsters,rust,Rust programming,Bitfields Forever: Why we need a C-compatible Rust Crate,https://immunant.com/blog/2020/01/bitfields/
+307,Lobsters,rust,Rust programming,Interview with Jonathan Blow,https://oxide.computer/blog/on-the-metal-9-jonathan-blow/
+308,Lobsters,rust,Rust programming,"A plan for MeiliSearch, open source alternative to Algolia",https://blog.meilisearch.com/to-open-source-and-beyond/
+309,Lobsters,rust,Rust programming,duck typing in rust: trait vs type,https://www.ultrasaurus.com/2020/01/duck-typing-in-rust-trait-vs-type/
+310,Lobsters,rust,Rust programming,Writing a c library in rust,https://www.ultrasaurus.com/2020/01/writing-c-library-in-rust/
+311,Lobsters,rust,Rust programming,What is Rust and why is it so popular?,https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+312,Lobsters,rust,Rust programming,The Soundness Pledge,https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html
+313,Lobsters,rust,Rust programming,Units of Measure in Rust with Refinement Types,https://yoric.github.io/post/uom.rs/
+314,Lobsters,rust,Rust programming,"actix-web author: ""I am done with open source""",https://github.com/actix/actix-web
+315,Lobsters,rust,Rust programming,Smoke-testing Rust HTTP clients,https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6
+316,Lobsters,rust,Rust programming,"LambdaConf 2020 Call for Proposals: Scala, Haskell, Kotlin, Purescript, Rust, Elm, Elixir, F#",https://lambdaconf.zohobackstage.com/LambdaConf2020#/cfp?lang=en
+317,Lobsters,rust,Rust programming,Spinlocks Considered Harmful,https://matklad.github.io//2020/01/02/spinlocks-considered-harmful.html
+318,Lobsters,rust,Rust programming,Rust and GTK from a React perspective,https://savanni.luminescent-dreams.com/2020/01/15/rust-react-gtk/
+319,Lobsters,rust,Rust programming,Roguelike Tutorial in Rust,http://bfnightly.bracketproductions.com/rustbook/
+320,Lobsters,rust,Rust programming,Synthesizing Loop-Free Programs with Rust and Z3,http://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html
+321,Lobsters,rust,Rust programming,Oxidizing sourmash: PR walkthrough,https://blog.luizirber.org/2020/01/10/sourmash-pr/
+322,Lobsters,rust,Rust programming,Towards a Rust foundation,http://smallcultfollowing.com/babysteps/blog/2020/01/09/towards-a-rust-foundation/
+323,Lobsters,rust,Rust programming,Way Cooler Post Mortem,http://way-cooler.org/blog/2020/01/09/way-cooler-post-mortem.html
+324,Lobsters,rust,Rust programming,Broot: a new way to see and navigate directory trees,https://dystroy.org/broot/
+325,Lobsters,rust,Rust programming,Translating Quake 3 into Rust,https://immunant.com/blog/2020/01/quake3/
+326,Lobsters,rust,Rust programming,Let the Compiler Do the Work,http://cliffle.com/p/dangerust/6/
+327,Lobsters,rust,Rust programming,Actix Web: Optimization Amongst Optimizations,https://brandur.org/nanoglyphs/008-actix
+328,Lobsters,rust,Rust programming,Make Vim Python plugin 10x faster using Rust,http://www.liuchengxu.org/posts/speed-up-vim-python-plugin-using-rust/
+329,Lobsters,rust,Rust programming,Making really tiny WebAssembly graphics demos,http://cliffle.com/blog/bare-metal-wasm/
+330,Lobsters,rust,Rust programming,Rewriting m4vgalib in Rust,http://cliffle.com/blog/m4vga-in-rust/
+331,Lobsters,rust,Rust programming,SQLx -- typesafe pure SQL on Rust,https://github.com/launchbadge/sqlx
+332,Lobsters,rust,Rust programming,Monorepos: Moving Fast in a Huge Repository,https://www.facebook.com/atscaleevents/videos/systems-scale-2019-monorepos-moving-fast-in-a-huge-repository/457153524992062/
+333,Lobsters,rust,Rust programming,A Thought Experiment: Using the ECS Pattern Outside of Game Engines,http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/
+334,Lobsters,rust,Rust programming,jann - Configuration deployment utility (alternative to GNU Stow),https://github.com/jgbyrne/jann
+335,Lobsters,rust,Rust programming,Streams Concurrency,https://blog.yoshuawuyts.com/streams-concurrency/
+336,Lobsters,rust,Rust programming,Learn Rust the Dangerous Way,http://cliffle.com/p/dangerust/
+337,Lobsters,rust,Rust programming,"Program for BOB developer conference online - Berlin, 28 Feb 2020",https://bobkonf.de/2020/program.html
+338,Lobsters,rust,Rust programming,"Stop worrying about blocking: the new async-std runtime, inspired by Go",https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/
+339,Lobsters,rust,Rust programming,KillingSpark/rustysd - systemd reimplementation in rust,https://github.com/KillingSpark/rustysd
+340,Lobsters,rust,Rust programming,Nushell - The Cross Platform Shell,https://notryanb.github.io/nushell.html
+341,Lobsters,rust,Rust programming,Solving the The Burger Problem with Rust,https://rust-malaysia.github.io/code/2019/12/15/the-burger-problem.html
+342,Lobsters,rust,Rust programming,A/B Street: Traffic simulation game written in Rust,https://github.com/dabreegster/abstreet
+343,Lobsters,rust,Rust programming,How to speed up the Rust compiler one last time in 2019,https://blog.mozilla.org/nnethercote/2019/12/11/how-to-speed-up-the-rust-compiler-one-last-time-in-2019/
+344,Lobsters,rust,Rust programming,"Soundness bugs in Rust libraries: can't live with 'em, can't live without 'em",https://docs.rs/dtolnay/0.0.7/dtolnay/macro._03__soundness_bugs.html
+345,Lobsters,rust,Rust programming,Formatting is Unreasonably Expensive for Embedded Rust,https://jamesmunns.com/blog/fmt-unreasonably-expensive/
+346,Lobsters,rust,Rust programming,Rust is fun,https://artemix.org/blog/rust-is-fun.html
+347,Lobsters,rust,Rust programming,Declarative UI Patterns in Rust,https://youtu.be/xH2x99FTY4k?t=385
+348,Lobsters,rust,Rust programming,Implementing pid1 with Rust and async/await,https://tech.fpcomplete.com/rust/pid1
+349,Lobsters,rust,Rust programming,Tokio 0.2 - Rust Crash Course lesson 9,https://www.snoyman.com/blog/2019/12/rust-crash-course-09-tokio-0-2
+350,Lobsters,rust,Rust programming,Launching the 2019 State of Rust Survey,https://blog.rust-lang.org/2019/12/03/survey-launch.html
+351,Lobsters,rust,Rust programming,Constant propagation is now on by default in nightly,https://blog.rust-lang.org/inside-rust/2019/12/02/const-prop-on-by-default.html
+352,Lobsters,rust,Rust programming,Microsoft: We're creating a new Rust-based programming language for secure coding,https://www.zdnet.com/article/microsoft-were-creating-a-new-rust-based-programming-language-for-secure-coding/
+353,Lobsters,rust,Rust programming,moxie: incremental declarative UI in Rust,https://blog.anp.lol/rust/moxie-intro/
+354,Lobsters,rust,Rust programming,How to RiiR,http://adventures.michaelfbryan.com/posts/how-to-riir/
+355,Lobsters,rust,Rust programming,Unsoundness in `Pin`,https://internals.rust-lang.org/t/unsoundness-in-pin/11311
+356,Lobsters,rust,Rust programming,"Real hardware breakthroughs, and focusing on rustc",https://www.redox-os.org/news/focusing-on-rustc/
+357,Lobsters,rust,Rust programming,Tide,https://blog.yoshuawuyts.com/tide/
+358,Lobsters,rust,Rust programming,Moving gnome-shell's styles to Rust,https://people.gnome.org/~federico/blog/moving-gnome-shell-styles-to-rust.html
+359,Lobsters,rust,Rust programming,`if` and `match` in constants on nightly rust,https://blog.rust-lang.org/inside-rust/2019/11/25/const-if-match.html
+360,Lobsters,rust,Rust programming,Building a language server for Muon,https://nickmqb.github.io/2019/11/24/building-a-language-server-for-muon.html
+361,Lobsters,rust,Rust programming,Neat Rust Tricks: Passing Rust Closures to C,https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c
+362,Lobsters,rust,Rust programming,Shipping a compiler every six weeks,https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/
+363,Lobsters,rust,Rust programming,Error Handling Survey,https://blog.yoshuawuyts.com/error-handling-survey/
+364,Lobsters,rust,Rust programming,Rust's Freedom Flaws,https://wiki.hyperbola.info/doku.php?id=en:main:rusts_freedom_flaws
+365,Lobsters,rust,Rust programming,Multi-Value All The Wasm,https://bytecodealliance.org/articles/multi-value-all-the-wasm
+366,Lobsters,rust,Rust programming,Lessons learned by transpiling C to Rust,https://immunant.com/blog/2019/11/rust2020/
+367,Lobsters,rust,Rust programming,Announcing the Allsorts Font Shaping Engine,https://yeslogic.com/blog/allsorts-rust-font-shaping-engine.html
+368,Lobsters,rust,Rust programming,Rust Bug Minimization Patterns,http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
+369,Lobsters,rust,Rust programming,Stacked Borrows: An Aliasing Model for Rust (the paper),https://www.ralfj.de/blog/2019/11/18/stacked-borrows-paper.html
+370,Lobsters,rust,Rust programming,Understanding Serde,https://www.joshmcguigan.com/blog/understanding-serde/
+371,Lobsters,rust,Rust programming,Pathivu - log ingestion system written in rust,https://github.com/pathivu/pathivu
+372,Lobsters,rust,Rust programming,Generalizing Coroutines in Rust,https://samsartor.com/coroutines-1/
+373,Lobsters,rust,Rust programming,Announcing Bastion 0.3 - Highly-available Distributed Fault-tolerant Runtime,http://bastion.rs/
+374,Lobsters,rust,Rust programming,Rustlings 2.0 and human-centered versioning,https://write.as/mokou/rustlings-2-0-and-human-centered-versioning
+375,Lobsters,rust,Rust programming,"CSS in librsvg is now in Rust, courtesy of Mozilla Servo",https://people.gnome.org/~federico/blog/css-in-librsvg-is-now-in-rust.html
+376,Lobsters,rust,Rust programming,Announcing async-std 1.0,https://async.rs/blog/announcing-async-std-1-0/
+377,Lobsters,rust,Rust programming,Amethyst Legion ECS Evolution RFC,https://github.com/amethyst/rfcs/issues/22
+378,Lobsters,rust,Rust programming,Audio Processing for Dummies,http://adventures.michaelfbryan.com/posts/audio-processing-for-dummies/
+379,Lobsters,rust,Rust programming,How Swift Achieved Dynamic Linking Where Rust Couldn't,https://gankra.github.io/blah/swift-abi/
+380,Lobsters,rust,Rust programming,iou: Rust bindings for liburing,https://boats.gitlab.io/blog/post/iou/
+381,Lobsters,rust,Rust programming,async-std 0.9.12: async/.await is ready,https://async.rs/blog/async-std-0-9-12-async-await-is-ready/
+382,Lobsters,rust,Rust programming,Async-await on stable Rust,https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
+383,Lobsters,rust,Rust programming,Rust 1.39.0,https://blog.rust-lang.org/2019/11/07/Rust-1.39.0.html
+384,Lobsters,rust,Rust programming,Using Type-Level Programming in Rust to Make Safer Hardware Abstractions,https://blog.auxon.io/2019/10/25/type-level-registers/
+385,Lobsters,rust,Rust programming,A sorted array with O(lg n) access and O(sqrt(n)) inserts and deletes,https://github.com/senderista/sorted-vec
+386,Lobsters,rust,Rust programming,How to make your C codebase rusty: rewriting keyboard firmware keymap in Rust,https://about.houqp.me/posts/rusty-c/
+387,Lobsters,rust,Rust programming,mrustc 0.9 now with Rust 1.29.0 support,https://github.com/thepowersgang/mrustc
+388,Lobsters,rust,Rust programming,Announcing cfnts: Cloudflare's implementation of NTS in Rust,https://blog.cloudflare.com/announcing-cfnts/
+389,Lobsters,rust,Rust programming,A call for blogs 2020,https://blog.rust-lang.org/2019/10/29/A-call-for-blogs-2020.html
+390,Lobsters,rust,Rust programming,pflanze/ruly - Lispy interpreter on Rust,https://github.com/pflanze/ruly
+391,Lobsters,rust,Rust programming,"Quantum computing in Rust, part 1",https://walther.guru/blog/impl-quantum-part-1/
+392,Lobsters,rust,Rust programming,Ferris Fencing,http://www.ferrisfencing.org/
+393,Lobsters,rust,Rust programming,why async fn in traits are hard,http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/
+394,Lobsters,rust,Rust programming,bb - simple process viewer in Rust,https://github.com/epilys/bb
+395,Lobsters,rust,Rust programming,Rust and C++ on Floating-point Intensive Code,https://www.reidatcheson.com/hpc/architecture/performance/rust/c++/2019/10/19/measure-cache.html
+396,Lobsters,rust,Rust programming,Floorplan: Spatial Layout in Memory Management Systems,http://cronburg.com/papers/floorplan19.pdf
+397,Lobsters,rust,Rust programming,How to not rewrite it in Rust,http://adventures.michaelfbryan.com/posts/how-not-to-riir/
+398,Lobsters,rust,Rust programming,Where rustc spends its time,https://wiki.alopex.li/WhereRustcSpendsItsTime
+399,Lobsters,rust,Rust programming,Interview with Noria’s creator: a promising dataflow research database implemented in Rust,https://notamonadtutorial.com/interview-with-norias-creator-a-promising-dataflow-database-implemented-in-rust-352e2c3d9d95
+400,Lobsters,rust,Rust programming,Dealing with process termination in Linux (with Rust examples),https://iximiuz.com/en/posts/dealing-with-processes-termination-in-Linux/
+401,Lobsters,rust,Rust programming,Searching for palindromic superpermutations,https://tuzz.tech/blog/palindromic-superpermutations
+402,Lobsters,rust,Rust programming,I made a NES emulator in Rust using generators,https://kyle.space/posts/i-made-a-nes-emulator/
+403,Lobsters,rust,Rust programming,Types for units of measure,https://varkor.github.io/blog/2018/07/30/types-for-units-of-measure.html
+404,Lobsters,rust,Rust programming,"""A Talk Near the Future of Python"" - live coding a simple VM / web assembly interpreter",https://www.youtube.com/watch?v=r-A78RgMhZU
+405,Lobsters,rust,Rust programming,Announcing Rustup 1.20.0,https://blog.rust-lang.org/2019/10/15/Rustup-1.20.0.html
+406,Lobsters,rust,Rust programming,Rusoto: AWS SDK for Rust,https://github.com/rusoto/rusoto
+407,Lobsters,rust,Rust programming,Making the Tokio scheduler 10x faster,https://tokio.rs/blog/2019-10-scheduler/
+408,Lobsters,rust,Rust programming,Learning Rust at Hacktoberfest in 8 hours,https://medium.com/@knidarkness/learning-rust-at-hacktoberfest-in-8-hours-7b788883c665
+409,Lobsters,rust,Rust programming,My favorite rust function,https://blog.jabid.in/2019/10/11/drop.html
+410,Lobsters,rust,Rust programming,How to speed up the Rust compiler some more in 2019,https://blog.mozilla.org/nnethercote/2019/10/11/how-to-speed-up-the-rust-compiler-some-more-in-2019/
+411,Lobsters,rust,Rust programming,Designing a COM library for Rust,https://msrc-blog.microsoft.com/2019/10/08/designing-a-com-library-for-rust/
+412,Lobsters,rust,Rust programming,Productive and safe Rust binding for OCR applications (leptonica and tesseract),https://github.com/houqp/leptess
+413,Lobsters,rust,Rust programming,Compile Stress Test,https://christine.website/blog/compile-stress-test-2019-10-03
+414,Lobsters,rust,Rust programming,Async-await hits beta,https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
+415,Lobsters,rust,Rust programming,The Fascinating Influence of Cyclone,http://pling.jondgoodwin.com/post/cyclone/
+416,Lobsters,rust,Rust programming,HTMLRewriter API Beta to Cloudflare Workers,https://blog.cloudflare.com/html-rewriter-beta/
+417,Lobsters,rust,Rust programming,Security advisory for Cargo,https://blog.rust-lang.org/2019/09/30/Security-advisory-for-cargo.html
+418,Lobsters,rust,Rust programming,Rust 1.38,https://blog.rust-lang.org/2019/09/26/Rust-1.38.0.html
+419,Lobsters,rust,Rust programming,Drone: An Embedded Operating System for writing real-time applications in Rust,https://www.drone-os.com/
+420,Lobsters,rust,Rust programming,"Neqo, an Implementation of QUIC written in Rust",https://github.com/mozilla/neqo
+421,Lobsters,rust,Rust programming,"Weld: accelerating numpy, scikit and pandas as much as 100x with Rust and LLVM",https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1
+422,Lobsters,rust,Rust programming,"Of bitpacking, with or without SSE3",https://fulmicoton.com/posts/bitpacking/
+423,Lobsters,rust,Rust programming,"issue-bot, a bot to handle bug reports through mail for gitea's issue tracker",https://github.com/meli/issue-bot
+424,Lobsters,rust,Rust programming,Closing the gap: cross-language LTO between Rust and C/C++,http://blog.llvm.org/2019/09/closing-gap-cross-language-lto-between.html
+425,Lobsters,rust,Rust programming,An unexpected performance regression,https://dev.to/sharkdp/an-unexpected-performance-regression-11ai
+426,Lobsters,rust,Rust programming,Pass-By-Value in C++ and Rust,https://dev.to/deciduously/pass-by-value-in-c-and-rust-1jo
+427,Lobsters,rust,Rust programming,Why Go and not Rust?,https://kristoff.it/blog/why-go-and-not-rust/
+428,Lobsters,rust,Rust programming,Rust on the ESP32,https://mabez.dev/blog/posts/esp32-rust/
+429,Lobsters,rust,Rust programming,Rust Language Cheat Sheet,https://cheats.rs
+430,Lobsters,rust,Rust programming,How Rust optimizes async/await II: Program analysis,https://tmandry.gitlab.io/blog/posts/optimizing-await-2/
+431,Lobsters,rust,Rust programming,Combining Coverage-Guided and Generation-Based Fuzzing,http://fitzgeraldnick.com/2019/09/04/combining-coverage-guided-and-generation-based-fuzzing.html
+432,Lobsters,rust,Rust programming,"9 best open-source findings, August 2019",https://dev.to/sobolevn/9-best-open-source-findings-august-2019-31m8
+433,Lobsters,rust,Rust programming,Porting Rust and WebAssembly's Game of Life onto Wavelet,https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6
+434,Lobsters,rust,Rust programming,A Memory Safety Research Agenda,https://alexgaynor.net/2019/sep/02/memory-safety-research-agenda/
+435,Lobsters,rust,Rust programming,Exploring lock-free Rust: Crossbeam,https://morestina.net/blog/784/exploring-lock-free-rust-3-crossbeam
+436,Lobsters,rust,Rust programming,"A Decentralized Blog using React, Gatsby, and Wavelet",https://medium.com/perlin-network/a-decentralized-blog-using-react-gatsby-and-wavelet-af07db78a2c0
+437,Lobsters,rust,Rust programming,"Rust is the future of systems programming, C is the new Assembly",https://hub.packtpub.com/rust-is-the-future-of-systems-programming-c-is-the-new-assembly-intel-principal-engineer-josh-triplett/
+438,Lobsters,rust,Rust programming,Async Stack Traces in Rust,http://fitzgeraldnick.com/2019/08/27/async-stacks-in-rust.html
+439,Lobsters,rust,Rust programming,Should small Rust structs be passed by-copy or by-borrow?,https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
+440,Lobsters,rust,Rust programming,"Criterion.rs v0.3 - Custom Measurements, Profiling Hooks, Custom Test Framework, API Changes",https://bheisler.github.io/post/criterion-rs-0-3/
+441,Lobsters,rust,Rust programming,Intel and Rust: the Future of Systems Programming,https://www.youtube.com/watch?v=l9hM0h6IQDo
+442,Lobsters,rust,Rust programming,"pastel: A command-line tool to generate, analyze, convert and manipulate colors",https://github.com/sharkdp/pastel
+443,Lobsters,rust,Rust programming,Introducing nushell,http://www.jonathanturner.org/2019/08/introducing-nushell.html
+444,Lobsters,rust,Rust programming,Rust GUI ecosystem overview,https://gitlab.com/z0mbie42/rust_gui_ecosystem_overview
+445,Lobsters,rust,Rust programming,A framework for Linux device drivers in Rust,https://github.com/lizhuohua/linux-kernel-module-rust
+446,Lobsters,rust,Rust programming,Thoughts on Rust bloat,https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html
+447,Lobsters,rust,Rust programming,Polsim - a case study for small-scale scientific computing in Rust,https://tinkering.xyz/polsim/
+448,Lobsters,rust,Rust programming,Systems performance telemetry,https://github.com/twitter/rezolus
+449,Lobsters,rust,Rust programming,Introducing Rezolus,https://blog.twitter.com/engineering/en_us/topics/open-source/2019/introducing-rezolus.html
+450,Lobsters,rust,Rust programming,How Rust optimizes async/await: Part 1,https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
+451,Lobsters,rust,Rust programming,CPU atomics and orderings explained,https://fy.blackhats.net.au/blog/html/2019/07/16/cpu_atomics_and_orderings_explained.html
+452,Lobsters,rust,Rust programming,ruffle: A Flash Player emulator written in Rust,https://github.com/ruffle-rs/ruffle
+453,Lobsters,rust,Rust programming,Announcing `async-std`,https://async.rs/blog/announcing-async-std/
+454,Lobsters,rust,Rust programming,Rust 1.37.0,https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html
+455,Lobsters,rust,Rust programming,Functional Programming Jargon in Rust,https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555
+456,Lobsters,rust,Rust programming,"The Roguelike Toolkit (RLTK), implemented for Rust",https://github.com/thebracket/rltk_rs
+457,Lobsters,rust,Rust programming,"Here's My Type, So Initialize Me Maybe (mem::uninitialized is deprecated)",https://gankro.github.io/blah/initialize-me-maybe/
+458,Lobsters,rust,Rust programming,Artichoke Ruby Playground,https://artichoke.github.io/artichoke/
+459,Lobsters,rust,Rust programming,Rust Compiler Team,https://rust-lang.github.io/compiler-team/
+460,Lobsters,rust,Rust programming,Python vs Rust for Neural Networks,https://ngoldbaum.github.io/posts/python-vs-rust-nn/
+461,Lobsters,rust,Rust programming,Rustlings: Small exercises to get you used to reading and writing Rust code,https://github.com/rust-lang/rustlings
+462,Lobsters,rust,Rust programming,Rust to SPIR-V compiler,https://github.com/MaikKlein/rlsl
+463,Lobsters,rust,Rust programming,The Rust compiler is still getting faster,https://blog.mozilla.org/nnethercote/2019/07/25/the-rust-compiler-is-still-getting-faster/
+464,Lobsters,rust,Rust programming,Rust ownership explained with books,https://hauleth.dev/post/eli5-ownership/
+465,Lobsters,rust,Rust programming,Why Rust for safe systems programming,https://msrc-blog.microsoft.com/2019/07/22/why-rust-for-safe-systems-programming/
+466,Lobsters,rust,Rust programming,Bastion: Fault-tolerant Runtime for Rust applications,https://github.com/vertexclique/bastion
+467,Lobsters,rust,Rust programming,"Models of Generics and Metaprogramming: Go, Rust, Swift, D and More",http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/
+468,Lobsters,rust,Rust programming,Rust compiler added to Android tree,https://android.googlesource.com/toolchain/rustc/
+469,Lobsters,rust,Rust programming,Notes on a smaller Rust,https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/
+470,Lobsters,rust,Rust programming,Why was the Rust language chosen? (Congressional Hearing on Facebook Digital Currency),https://www.c-span.org/video/?c4808083/rust-language-chosen
+471,Lobsters,rust,Rust programming,A proactive approach to more secure code,https://msrc-blog.microsoft.com/2019/07/16/a-proactive-approach-to-more-secure-code/
+472,Lobsters,rust,Rust programming,Rust vs C++ - Implementing a Neural Network,http://www.nicktasios.nl/posts/rust-vs-c%2B%2B-implementing-a-neural-network.html
+473,Lobsters,rust,Rust programming,"How the Rust community has been built, by Aaron Turon",https://www.youtube.com/embed/xSjk2PdQm5k?start=800&feature=oembed&enablejsapi=1
+474,Lobsters,rust,Rust programming,Global state & unstable ABI in ld breaks linker replacement dryad (2016),https://github.com/m4b/dryad/issues/5
+475,Lobsters,rust,Rust programming,"""What The Hardware Does"" is not What Your Program Does: Uninitialized Memory",https://www.ralfj.de/blog/2019/07/14/uninit.html
+476,Lobsters,rust,Rust programming,Method for Emulating Higher-Kinded Types in Rust,https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf
+477,Lobsters,rust,Rust programming,Rust Async-await status report #2,http://smallcultfollowing.com/babysteps/blog/2019/07/08/async-await-status-report-2/
+478,Lobsters,rust,Rust programming,"Pista - a simple {bash, zsh} prompt written in rust",https://github.com/nerdypepper/pista
+479,Lobsters,rust,Rust programming,"meli, a new mail client for the terminal - pre-alpha release",https://meli.delivery/posts/2019-06-15-pre-alpha.html
+480,Lobsters,rust,Rust programming,Speedy Desktop Apps With GTK and Rust,https://nora.codes/tutorial/speedy-desktop-apps-with-gtk-and-rust/
+481,Lobsters,rust,Rust programming,Announcing Rust 1.36.0,https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html
+482,Lobsters,rust,Rust programming,Build A Decentralized Chat Using JavaScript & Rust (WebAssembly),https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52
+483,Lobsters,rust,Rust programming,rust-log_buffer,https://github.com/whitequark/rust-log_buffer
+484,Lobsters,rust,Rust programming,Vector - A High-Performance Log and Metric Router Written in Rust,https://github.com/timberio/vector
+485,Lobsters,rust,Rust programming,Status of rust-analyzer: Achievements and Open Collective,https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/
+486,Lobsters,rust,Rust programming,eva - a simple calculator repl written in rust,https://github.com/NerdyPepper/eva
+487,Lobsters,rust,Rust programming,Writing a small ray tracer in Rust and Zig,https://nelari.us/post/raytracer_with_rust_and_zig/
+488,Lobsters,rust,Rust programming,"One Program Written in Python, Go, and Rust",http://nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
+489,Lobsters,rust,Rust programming,Breaking News: Non-Lexical Lifetimes arrives for everyone,http://blog.pnkfx.org/blog/2019/06/26/breaking-news-non-lexical-lifetimes-arrives-for-everyone/
+490,Lobsters,rust,Rust programming,"An open ledger for writing scalable, mission-critical, decentralized WebAssembly applications",https://wavelet.perlin.net
+491,Lobsters,rust,Rust programming,"Meuse, a free Rust private registry, first alpha release",https://github.com/mcorbin/meuse
+492,Lobsters,rust,Rust programming,"Weld, accelerating Data Science by 100x",https://youtu.be/JbTqNuCIJM4
+493,Lobsters,rust,Rust programming,aljabar - an experimental n-dimensional linear algebra library for Rust based on const generics,https://github.com/maplant/aljabar
+494,Lobsters,rust,Rust programming,railcar: A rust implementation of the Open Containers Initiative runtime spec,https://github.com/oracle/railcar
+495,Lobsters,rust,Rust programming,Building Standalone Python Applications with PyOxidizer,https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/
+496,Lobsters,rust,Rust programming,My iterator is returning a reference to a reference,https://blog.tawhidhannan.co.uk/rust/tidbits/rust-double-ref
+497,Lobsters,rust,Rust programming,Real Time For the Masses goes multi-core,https://blog.japaric.io/multicore-rtfm/
+498,Lobsters,rust,Rust programming,BEAM + Rust A match made in heaven,https://codesync.global/media/beam-rust-a-match-made-in-heaven/
+499,Lobsters,rust,Rust programming,RSoC: Implementing ptrace for Redox OS - part 0,https://www.redox-os.org/news/rsoc-ptrace-0/
+500,Lobsters,rust,Rust programming,Collaborative Editor in Rust,https://caolan.org/posts/collaborative_editor_in_rust.html
+501,Lobsters,rust,Rust programming,The Typestate Pattern in Rust,http://cliffle.com/blog/rust-typestate/
+502,Lobsters,rust,Rust programming,"Rust Creator Graydon Hoare Talks About Security, History, and Rust",https://thenewstack.io/rust-creator-graydon-hoare-talks-about-security-history-and-rust/
+503,Lobsters,rust,Rust programming,m-labs/smoltcp,https://github.com/m-labs/smoltcp
+504,Lobsters,rust,Rust programming,Amethyst 0.11 Released,https://amethyst.rs/posts/release-0-11
+505,Lobsters,rust,Rust programming,"Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml",http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
+506,Lobsters,rust,Rust programming,Green Threads Explained in 200 Lines of Rust,https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+507,Lobsters,rust,Rust programming,The rust module system and useful crates for CLI apps,https://ngoldbaum.github.io/posts/helpful-rust-cli-crates/
+508,Lobsters,rust,Rust programming,Launching a new keyserver,https://keys.openpgp.org/about/news#2019-06-12-launch
+509,Lobsters,rust,Rust programming,Responsive compilers - Nicholas Matsakis - PLISS 2019,https://www.youtube.com/watch?v=N6b44kMS6OM
+510,Lobsters,rust,Rust programming,Bzip2 in Rust: porting the randomization table,https://people.gnome.org/~federico/blog/bzip2-in-rust-randomization-table.html
+511,Lobsters,rust,Rust programming,rustly: A Clojure to Rust transpiler,https://github.com/timothypratley/rustly
+512,Lobsters,rust,Rust programming,Rust for the Brave and True,https://dev.to/gruberb/rust-for-the-brave-and-true-4766
+513,Lobsters,rust,Rust programming,SPARK/Ada gets pointer support inspired by the Rust memory model,https://blog.adacore.com/using-pointers-in-spark
+514,Lobsters,rust,Rust programming,The first 20 Project Euler problems in rust,https://ngoldbaum.github.io/posts/project-euler/
+515,Lobsters,rust,Rust programming,"Actix-web 1.0 – A small, pragmatic, and fast web framework for Rust",https://docs.rs/actix-web/1.0.0/actix_web/
+516,Lobsters,rust,Rust programming,Sealed Rust,https://ferrous-systems.com/blog/sealed-rust-the-pitch/
+517,Lobsters,rust,Rust programming,Maintaining bzip2,https://people.gnome.org/~federico/blog/maintaining-bzip2.html
+518,Lobsters,rust,Rust programming,The design and implementation of a lock-free ring-buffer with contiguous reservations,https://ferrous-systems.com/blog/lock-free-ring-buffer/
+519,Lobsters,rust,Rust programming,The Problem With Single-threaded Shared Mutability - In Pursuit of Laziness (2015),http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/
+520,Lobsters,rust,Rust programming,Gopher Server in Rust,https://gkbrk.com/2019/06/gopher-server/
+521,Lobsters,rust,Rust programming,Storing versioned data with revlogs,https://ngoldbaum.github.io/posts/revlog/
+522,Lobsters,rust,Rust programming,Orkhon – ML Inference Framework and Server Runtime,https://github.com/vertexclique/orkhon
+523,Lobsters,rust,Rust programming,Update on await syntax,https://boats.gitlab.io/blog/post/await-decision-ii/
+524,Lobsters,rust,Rust programming,Curiosity Killed the Mario,http://www.michaelburge.us/2019/05/21/marai-agent.html
+525,Lobsters,rust,Rust programming,Rust In Avast,https://vorner.github.io/2019/05/19/rust-in-avast.html
+526,Lobsters,rust,Rust programming,Shell Completions in Pure Rust,https://www.joshmcguigan.com/blog/shell-completions-pure-rust/
+527,Lobsters,rust,Rust programming,A new memory profiler for Linux from Nokia written in Rust,https://github.com/nokia/memory-profiler
+528,Lobsters,rust,Rust programming,Crates You Should Know: bindgen and cbindgen—automatic generation of FFI types between Rust and C,https://newrustacean.com/show_notes/cysk/bindgen_cbindgen/
+529,Lobsters,rust,Rust programming,Using Rust to Scale Elixir for 11 Million Concurrent Users,https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3
+530,Lobsters,rust,Rust programming,Zero Cost Abstractions,https://boats.gitlab.io/blog/post/zero-cost-abstractions/
+531,Lobsters,rust,Rust programming,Terraform: generate 3-d models of geographic terrain,https://jaredforsyth.com/posts/intoducing-terraform/
+532,Lobsters,rust,Rust programming,4 years of Rust,https://blog.rust-lang.org/2019/05/15/4-Years-Of-Rust.html
+533,Lobsters,rust,Rust programming,e031: Rust FFI Deep Dive,https://newrustacean.com/show_notes/e031/
+534,Lobsters,rust,Rust programming,Cloud Hypervisor written in Rust from Intel,https://github.com/intel/cloud-hypervisor
+535,Lobsters,rust,Rust programming,ManticoreOS: A research operating system to explore parakernels,https://github.com/manticoreos/manticore
+536,Lobsters,rust,Rust programming,Security advisory for the Rust standard library,https://blog.rust-lang.org/2019/05/13/Security-advisory.html
+537,Lobsters,rust,Rust programming,"Managing Rust Dependencies with Nix, Part I",https://www.hadean.com/blog/managing-rust-dependencies-with-nix-part-i
+538,Lobsters,rust,Rust programming,μAMP: Asymmetric Multi-Processing on microcontrollers,https://blog.japaric.io/microamp/
+539,Lobsters,rust,Rust programming,How and why await should be a method after all,https://www.hardmo.de/article/2019-05-06-await-method-afterall.md
+540,Lobsters,rust,Rust programming,“The Tie Between Ruby and Rust.”,https://github.com/danielpclark/rutie
+541,Lobsters,rust,Rust programming,A final proposal for await syntax,https://boats.gitlab.io/blog/post/await-decision/
+542,Lobsters,rust,Rust programming,I underestimated the dangers of Rust FFI,https://blog.debiania.in.ua/posts/2019-05-05-i-underestimated-the-dangers-of-rust-ffi.html
+543,Lobsters,rust,Rust programming,Rust parallelism for non-C/C++ developers,https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
+544,Lobsters,rust,Rust programming,vtext: NLP in Rust with Python bindings,https://github.com/rth/vtext
+545,Lobsters,rust,Rust programming,Risp - Lisp in Rust,https://m.stopa.io/risp-lisp-in-rust-90a0dad5b116
+546,Lobsters,rust,Rust programming,Explained: Futures in Rust for Web Development,https://dev.to/gruberb/explained-rust-futures-for-web-development-a10
+547,Lobsters,rust,Rust programming,Linkerd's design principles,https://linkerd.io/2019/04/29/linkerd-design-principles/
+548,Lobsters,rust,Rust programming,Making Sandspiel,https://maxbittker.com/making-sandspiel
+549,Lobsters,rust,Rust programming,Rethinking databases with Noria,https://corecursive.com/030-rethinking-databases-with-jon-gjengset/
+550,Lobsters,rust,Rust programming,Stretch: A high performance cross-platform layout engine in Rust,https://vislyhq.github.io/stretch/
+551,Lobsters,rust,Rust programming,Giving up on wlroots-rs (rewriting way-cooler in C),http://way-cooler.org/blog/2019/04/29/rewriting-way-cooler-in-c.html
+552,Lobsters,rust,Rust programming,e030: Can You See Me Now? Item visibility and pub(<restricted>) as API design tools in Rust,https://newrustacean.com/show_notes/e030/
+553,Lobsters,rust,Rust programming,Writing Emacs module in Rust,https://github.com/ubolonton/emacs-module-rs
+554,Lobsters,rust,Rust programming,Rust types cheat sheet,https://upsuper.github.io/rust-cheatsheet/
+555,Lobsters,rust,Rust programming,What I Learnt Building a Lobsters TUI in Rust,https://www.wezm.net/technical/2019/04/lobsters-tui/
+556,Lobsters,rust,Rust programming,Linkerd 2.3: towards Zero-Touch Zero-Trust Networking for Kubernetes,https://linkerd.io/2019/04/16/announcing-linkerd-2.3/
+557,Lobsters,rust,Rust programming,Rust's 2019 roadmap,https://blog.rust-lang.org/2019/04/23/roadmap.html
+558,Lobsters,rust,Rust programming,Generic returns in Rust,https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/
+559,Lobsters,rust,Rust programming,Rust - Compile Time Memory Safety,https://kkimdev.github.io/posts/2019/04/22/Rust-Compile-Time-Memory-Safety.html
+560,Lobsters,rust,Rust programming,Is It Time to Rewrite the Operating System in Rust?,https://www.youtube.com/watch?v=HgtRAbE1nBM
+561,Lobsters,rust,Rust programming,Things I Enjoy in Rust: Error Handling,https://blog.jonstodle.com/things-i-enjoy-in-rust-error-handling/
+562,Lobsters,rust,Rust programming,"News: Rust 1.33 and 1.34—Moar `const fn`, some `Pin`, and alternative Cargo registries",https://newrustacean.com/show_notes/news/rust_1_33_1_34/
+563,Lobsters,rust,Rust programming,AiC: Adventures in consensus,http://smallcultfollowing.com/babysteps/blog/2019/04/19/aic-adventures-in-consensus/
+564,Lobsters,rust,Rust programming,The Power of Lifetimes,http://pling.jondgoodwin.com/post/lifetimes/
+565,Lobsters,rust,Rust programming,runtime: seamless asynchronous programming in Rust,https://blog.yoshuawuyts.com/runtime/
+566,Lobsters,rust,Rust programming,Learning Parser Combinators With Rust,https://bodil.lol/parser-combinators/
+567,Lobsters,rust,Rust programming,Build a Roguelike in Rust with libtcod,https://www.youtube.com/watch?v=Q0-xjeEiYw4
+568,Lobsters,rust,Rust programming,High performance nudity detection in rust,https://github.com/kpcyrd/nude-rs
+569,Lobsters,rust,Rust programming,A z-machine interpreter for text adventure games,https://sterlingdemille.com/encrusted/
+570,Lobsters,rust,Rust programming,Rust: beyond the typechecker,https://blog.merigoux.ovh/en/2019/04/16/verifying-rust.html
+571,Lobsters,rust,Rust programming,Create a RESTful API with Rust,https://dev.to/gruberb/web-development-with-rust-03-x-create-a-rest-api-3i82
+572,Lobsters,rust,Rust programming,Hello world! from Rust Malaysia,https://rust-malaysia.github.io/community/2019/03/11/hello-world.html
+573,Lobsters,rust,Rust programming,Announcing Rust 1.34.0,https://blog.rust-lang.org/2019/04/11/Rust-1.34.0.html
+574,Lobsters,rust,Rust programming,The Summer of Rust,https://www.youtube.com/watch?v=LjFM8vw3pbU
+575,Lobsters,rust,Rust programming,A Love Letter to Rust Macros,https://happens.lol/posts/a-love-letter-to-rust-macros/
+576,Lobsters,rust,Rust programming,Noise Explorer Now Generates Rust Implementations with Formally Verified Primitives,https://moderncrypto.org/mail-archive/noise/2019/002013.html
+577,Lobsters,rust,Rust programming,e029: I’m Out to C,https://newrustacean.com/show_notes/e029/
+578,Lobsters,rust,Rust programming,Idiomatic monads in Rust,https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html
+579,Lobsters,rust,Rust programming,"Rust, Open-Source and dogs",https://facundoolano.wordpress.com/2019/04/02/rust-open-source-and-dogs/
+580,Lobsters,rust,Rust programming,Sonic: a minimalist alternative to Elasticsearch written in Rust,https://notamonadtutorial.com/sonic-a-minimalist-alternative-to-elasticsearch-written-in-rust-7f3612ecb47b
+581,Lobsters,rust,Rust programming,Crossing the Rust FFI frontier with Protocol Buffers,https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/
+582,Lobsters,rust,Rust programming,Explained: How does async work in Rust?,https://dev.to/gruberb/explained-how-does-async-work-in-rust-46f8
+583,Lobsters,rust,Rust programming,An interview with the creator of Gleam: an ML like language for the Erlang VM with a compiler,https://notamonadtutorial.com/an-interview-with-the-creator-of-gleam-an-ml-like-language-for-the-erlang-vm-with-a-compiler-e94775f60dc7
+584,Lobsters,rust,Rust programming,Five Super Helpful Rust Things That Nobody Told You About,https://saghm.github.io/five-rust-things/
+585,Lobsters,rust,Rust programming,Chaining Functions Without Returning Self,https://randompoison.github.io/posts/returning-self/
+586,Lobsters,rust,Rust programming,Using the IOMMU for Safe and SecureUser Space Network Drivers,https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2019-ixy-iommu.pdf
+587,Lobsters,rust,Rust programming,"BoringTun, a userspace WireGuard implementation in Rust",https://blog.cloudflare.com/boringtun-userspace-wireguard-rust/
+588,Lobsters,rust,Rust programming,Standardizing WASI: A system interface to run WebAssembly outside the web,https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
+589,Lobsters,rust,Rust programming,How to Debug Rust with Visual Studio Code,https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/
+590,Lobsters,rust,Rust programming,crate2nix - a nix build file generator for rust crates,https://github.com/kolloch/crate2nix
+591,Lobsters,rust,Rust programming,Rust is not a good C replacement,https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html
+592,Lobsters,rust,Rust programming,My First 3 Weeks of Professional Rust,https://www.wezm.net/technical/2019/03/first-3-weeks-of-professional-rust/
+593,Lobsters,rust,Rust programming,Helix: Improve the Performance of Rails with Rust,https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/
+594,Lobsters,rust,Rust programming,DataFusion: A Rust-native Query Engine for Apache Arrow,http://arrow.apache.org/blog/2019/02/04/datafusion-donation/
+595,Lobsters,rust,Rust programming,How to combat JavaScript fatigue with Rust,https://dev.to/gruberb/how-to-combat-javascript-fatigue-with-rust-2o5l
+596,Lobsters,rust,Rust programming,Why Hashbrown Does A Double-Lookup,https://gankro.github.io/blah/hashbrown-insert/
+597,Lobsters,rust,Rust programming,Pijul: Sanakirja database gets its full concurrency model,https://pijul.org/posts/2019-03-20-sanakirja-0.10/
+598,Lobsters,rust,Rust programming,Implementing a NES Emulator in Rust,http://www.michaelburge.us/2019/03/18/nes-design.html
+599,Lobsters,rust,Rust programming,How to deploy your first Rust web application,https://medium.com/@gruberbastian/rust-for-the-web-02-x-deploy-your-first-app-51d1ed69cbe3
+600,Lobsters,rust,Rust programming,A Rust API for librsvg,https://people.gnome.org/~federico/blog/a-rust-api-for-librsvg.html
+601,Lobsters,rust,Rust programming,Easy flamegraphs without Perl or pipes,https://github.com/ferrous-systems/flamegraph
+602,Lobsters,rust,Rust programming,Paging Implementation,https://os.phil-opp.com/paging-implementation/
+603,Lobsters,rust,Rust programming,"Fast, Bump-Allocated Virtual DOMs with Rust and Wasm",https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/
+604,Lobsters,rust,Rust programming,Why I rewrote the mesh generator of Dust3D from Rust to C++,https://blogs.dust3d.org/2019/03/13/why-i-rewrote-the-mesh-generator-of-dust3d-from-rust-to-cplusplus/
+605,Lobsters,rust,Rust programming,Implementing a static stack usage analysis tool,https://blog.japaric.io/stack-analysis/
+606,Lobsters,rust,Rust programming,How we made Haskell search strings as fast as Rust,https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html
+607,Lobsters,rust,Rust programming,A Coding Retreat and Getting Embedded Rust Running on a SensorTag,https://www.wezm.net/technical/2019/03/sensortag-embedded-rust-coding-retreat/
+608,Lobsters,rust,Rust programming,A Case for Oxidation: The Rust Programming Language,https://www.youtube.com/watch?v=cDFSrVhnZKo
+609,Lobsters,rust,Rust programming,"ncspot, ncurses spotify client written in rust",https://github.com/hrkfdn/ncspot
+610,Lobsters,rust,Rust programming,Introducing @now/rust,https://zeit.co/blog/introducing-now-rust
+611,Lobsters,rust,Rust programming,Rust Programming Tipz,https://github.com/spacejam/elements-of-rust
+612,Lobsters,rust,Rust programming,Intro to web programming in Rust for NodeJS developers,https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1
+613,Lobsters,rust,Rust programming,Moving from NodeJS to Rust in 2019,https://medium.com/@foreach/moving-from-nodejs-to-rust-in-2019-62c0b85d2fa7
+614,Lobsters,rust,Rust programming,Oxide: The Essence of Rust,https://arxiv.org/pdf/1903.00982.pdf
+615,Lobsters,rust,Rust programming,Proposal: New channels for Rusts standard library,https://stjepang.github.io/2019/03/02/new-channels.html
+616,Lobsters,rust,Rust programming,Building fast interpreters in Rust,https://blog.cloudflare.com/building-fast-interpreters-in-rust/
+617,Lobsters,rust,Rust programming,Implications of Rewriting a Browser Component in Rust,https://hacks.mozilla.org/2019/02/rewriting-a-browser-component-in-rust/
+618,Lobsters,rust,Rust programming,Building a fast Electron app with Rust,https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/
+619,Lobsters,rust,Rust programming,Announcing Rust 1.33.0,https://blog.rust-lang.org/2019/02/28/Rust-1.33.0.html
+620,Lobsters,rust,Rust programming,I Still Make Silly Mistakes,https://newrustacean.com/show_notes/bonus/_13/
+621,Lobsters,rust,Rust programming,Fuchsia is not unix,https://github.com/rust-lang/rust/issues/58590
+622,Lobsters,rust,Rust programming,Community makes Rust an easy choice for npm,https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf
+623,Lobsters,rust,Rust programming,"e028: Meet My Associates—Rust's associated items: functions and methods, constants, and types",https://newrustacean.com/show_notes/e028/
+624,Lobsters,rust,Rust programming,r/rust - Rust 2019: Rust Audio,https://www.reddit.com/r/rust/comments/aua2tb/rust_2019_rust_audio/
+625,Lobsters,rust,Rust programming,Comparing C and Rust network protocol exercises,https://ayende.com/blog/185859-A/comparing-c-and-rust-network-protocol-exercises
+626,Lobsters,rust,Rust programming,Getting started with Rust FFI,https://rushsteve1.us/wp/getting-started-with-rust-ffi/
+627,Lobsters,rust,Rust programming,Stacked Borrows Implemented,https://www.ralfj.de/blog/2018/11/16/stacked-borrows-implementation.html
+628,Lobsters,rust,Rust programming,Cross-compiling Rust code to Minix,https://iandouglasscott.com/2019/02/18/cross-compiling-rust-code-to-minix/
+629,Lobsters,rust,Rust programming,Moving from Ruby to Rust,https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
+630,Lobsters,rust,Rust programming,Replacing a hot path in your app's JavaScript with WebAssembly,https://developers.google.com/web/updates/2019/02/hotpath-with-wasm
+631,Lobsters,rust,Rust programming,"No, the problem isnt bad coders",https://medium.com/@sgrif/no-the-problem-isnt-bad-coders-ed4347810270
+632,Lobsters,rust,Rust programming,Writing a Rust Roguelike for the Desktop and the Web,https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/
+633,Lobsters,rust,Rust programming,Rust: A unique perspective,https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html
+634,Lobsters,rust,Rust programming,Zero-Knowledge Proofs in WebAssembly,https://zkwasm.kobi.one/
+635,Lobsters,rust,Rust programming,osaka.rs - rust async without the noise,https://aep.github.io/rust-async-without-the-noise/
+636,Lobsters,rust,Rust programming,A Python Interpreter Written in Rust,https://github.com/RustPython/RustPython
+637,Lobsters,rust,Rust programming,"broot, a new way to browse directories",https://github.com/Canop/broot
+638,Lobsters,rust,Rust programming,Enclave Development Platform,https://edp.fortanix.com/
+639,Lobsters,rust,Rust programming,"galacritty, GTK terminal emulator based on Alacritty",https://github.com/myfreeweb/galacritty
+640,Lobsters,rust,Rust programming,Lock-free Rust: Crossbeam in 2019,https://stjepang.github.io/2019/01/29/lock-free-rust-crossbeam-in-2019.html
+641,Lobsters,rust,Rust programming,Embedded Rust Experiments - Is my STM32 MCU running fast?,http://nercury.github.io/rust/embedded/experiments/2019/01/27/rust-embedded-02-measuring-the-clock.html
+642,Lobsters,rust,Rust programming,Rust n-body benchmark ranks #1,https://www.reddit.com/r/rust/comments/akgmef/rust_nbody_benchmark_ranks_1/
+643,Lobsters,rust,Rust programming,My Rust Powered linux.conf.au E-Paper Badge,http://www.wezm.net/technical/2019/01/linux-conf-au-rust-epaper-badge/
+644,Lobsters,rust,Rust programming,Embedding WebAssembly in your Rust application Wasmer,https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46
+645,Lobsters,rust,Rust programming,A case where Rust is safer than Haskell,https://www.fpcomplete.com/blog/when-rust-is-safer-than-haskell
+646,Lobsters,rust,Rust programming,Savoury implementation of the QUIC transport protocol,https://github.com/cloudflare/quiche
+647,Lobsters,rust,Rust programming,News: Rust 1.32,https://newrustacean.com/show_notes/news/rust_1_32/
+648,Lobsters,rust,Rust programming,Taglib Rust bindings,https://github.com/ebassi/taglib-rust
+649,Lobsters,rust,Rust programming,Quinn 0.2.0: QUIC protocol implementation in Rust,https://github.com/djc/quinn/releases/tag/0.2.0
+650,Lobsters,rust,Rust programming,Is It Time to Rewrite the Operating System in Rust?,https://www.infoq.com/presentations/os-rust
+651,Lobsters,rust,Rust programming,Leaving Mozilla and (most of) the Rust project,http://www.ncameron.org/blog/leaving-mozilla-and-most-of-the-rust-project/
+652,Lobsters,rust,Rust programming,Building Spotifyd on NetBSD,https://atomicules.co.uk/2019/01/17/Building-Spotifyd-on-NetBSD.html
+653,Lobsters,rust,Rust programming,The Evolution of a Rust Programmer,http://antoyo.ml/evolution-rust-programmer
+654,Lobsters,rust,Rust programming,"The state of ggez [Rust game framework], 2019",https://wiki.alopex.li/TheStateOfGGEZ2019
+655,Lobsters,rust,Rust programming,"pushb: like pushd/popd, but for git branches",https://github.com/pwoolcoc/pushb
+656,Lobsters,rust,Rust programming,"News: Rust 1.31 and the 2018 Edition, Part II",https://newrustacean.com/show_notes/news/rust_1_31/part_2/
+657,Lobsters,rust,Rust programming,Writing an OS in Rust: Introduction to Paging,https://os.phil-opp.com/paging-introduction/
+658,Lobsters,rust,Rust programming,Tutorial - Rust and WebAssembly,https://rustwasm.github.io/book/game-of-life/introduction.html
+659,Lobsters,rust,Rust programming,Monotonic clocks are not monotonic,https://github.com/rust-lang/rust/pull/56988
+660,Lobsters,rust,Rust programming,Toshi: A Full Text Search Engine in Rust Based on Tantivy,https://github.com/toshi-search/Toshi
+661,Lobsters,rust,Rust programming,hexyl is a new command-line hex viewer,https://github.com/sharkdp/hexyl
+662,Lobsters,rust,Rust programming,Rust programming language: Seven reasons why you should learn it in 2019,https://www.techrepublic.com/article/rust-programming-language-seven-reasons-why-you-should-learn-it-in-2019/
+663,Lobsters,rust,Rust programming,"News: Rust 1.31 and the 2018 Edition, Part I",https://newrustacean.com/show_notes/news/rust_1_31/part_1/index.html
+664,Lobsters,rust,Rust programming,"thank u, next",https://words.steveklabnik.com/thank-u-next
+665,Lobsters,rust,Rust programming,WebGL + Rust: Basic Water Tutorial,http://www.chinedufn.com/3d-webgl-basic-water-tutorial/
+666,Lobsters,rust,Rust programming,Rust at speed — building a fast concurrent database,https://www.youtube.com/watch?v=s19G6n0UjsM
+667,Lobsters,rust,Rust programming,Leveraging Rust types for modular specification and verification,https://www.research-collection.ethz.ch/handle/20.500.11850/311092
+668,Lobsters,rust,Rust programming,Making MPD index SoundCloud,https://polyfloyd.net/post/soundcloud-fuse-mpd/
+669,Lobsters,rust,Rust programming,Distributing Standalone Python Applications,https://gregoryszorc.com/blog/2018/12/18/distributing-standalone-python-applications/
+670,Lobsters,rust,Rust programming,Interview: Integer32 (Carol Nichols || Goulding and Jake Goulding),https://newrustacean.com/show_notes/interview/integer32/
+671,Lobsters,rust,Rust programming,"Comparing Pythagorean triples in C++, D, and Rust",https://atilanevesoncode.wordpress.com/2018/12/31/comparing-pythagorean-triples-in-c-d-and-rust/
+672,Lobsters,rust,Rust programming,Easy Postgres Extensions in Rust,https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html
+673,Lobsters,rust,Rust programming,A Rusty Advent of Code: My AOC Experience with the Rust Community,https://cprimozic.net/blog/a-rusty-aoc/
+674,Lobsters,rust,Rust programming,Rust 2019 and beyond: limits to (some) growth,https://graydon2.dreamwidth.org/263429.html
+675,Lobsters,rust,Rust programming,swc: rust port of babel and closure compiler,https://github.com/swc-project/swc
+676,Lobsters,rust,Rust programming,Copying someone else's performance tweak,https://dev.to/notriddle/copying-someone-elses-performance-tweak-5g5h
+677,Lobsters,rust,Rust programming,Procedural Macros in Rust 2018,https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html
+678,Lobsters,rust,Rust programming,Organizational Debt -- Rust 2019 blog post,https://boats.gitlab.io/blog/post/rust-2019/
+679,Lobsters,rust,Rust programming,"Sandspiel, a falling sand game built in Rust+WebGL",https://sandspiel.club
+680,Lobsters,rust,Rust programming,The Tale of a Bug in Arc: Synchronization and Data Races,https://www.ralfj.de/blog/2018/07/13/arc-synchronization.html
+681,Lobsters,rust,Rust programming,Rust and WebAssembly in 2019,http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html
+682,Lobsters,rust,Rust programming,Rusta Rhymes - Ferris Crab (Rust Raps 2018 Edition),http://fitzgeraldnick.com/2018/12/13/rust-raps.html
+683,Lobsters,rust,Rust programming,"Async in Rust, circa 2018",https://rust-lang-nursery.github.io/wg-net/2018/12/13/async-update.html
+684,Lobsters,rust,Rust programming,"Scale By The Bay 2018: Bryan Cantrill, Rust and Other Interesting Things",https://www.youtube.com/watch?v=2wZ1pCpJUIM
+685,Lobsters,rust,Rust programming,Announcing Rust 1.31 and Rust 2018,https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html
+686,Lobsters,rust,Rust programming,Reflecting on Rust and WebAssembly in 2018,https://rustwasm.github.io/2018/12/06/reflecting-on-rust-and-wasm-in-2018.html
+687,Lobsters,rust,Rust programming,Rust 2018 is here… but what is it?,https://hacks.mozilla.org/2018/12/rust-2018-is-here/
+688,Lobsters,rust,Rust programming,Patterns of Refactoring C to Rust: The case of librsvg,https://people.gnome.org/~federico/blog/docs/fmq-refactoring-c-to-rust.pdf
+689,Lobsters,rust,Rust programming,How I Wrote a Modern C++ Library in Rust,https://hsivonen.fi/modern-cpp-in-rust/
+690,Lobsters,rust,Rust programming,Bao - a general purpose cryptographic tree hash built on BLAKE2,https://www.youtube.com/watch?v=Dya9c2DXMqQ
+691,Lobsters,rust,Rust programming,Language package managers: mix vs cargo,http://txti.es/wzic4
+692,Lobsters,rust,Rust programming,Trust Me; I Promise! – An intro to unsafe Rust and Rust's idea of safety,https://newrustacean.com/show_notes/e027/
+693,Lobsters,rust,Rust programming,Rust and WebAssembly,https://rustwasm.github.io/book/
+694,Lobsters,rust,Rust programming,Rust Runtime for AWS Lambda,https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/
+695,Lobsters,rust,Rust programming,A new look for rust-lang.org,https://blog.rust-lang.org/2018/11/29/a-new-look-for-rust-lang-org.html
+696,Lobsters,rust,Rust programming,Rust Quiz,https://dtolnay.github.io/rust-quiz
+697,Lobsters,rust,Rust programming,Haskell and Rust,https://www.fpcomplete.com/blog/2018/11/haskell-and-rust
+698,Lobsters,rust,Rust programming,Fearless Low-Latency Audio Synthesis,https://synthesize.rs/nov-2018-talk
+699,Lobsters,rust,Rust programming,Sequoia: The Seeding Sees The Light Of Day,https://sequoia-pgp.org/blog/2018/11/26/initial-release/
+700,Lobsters,rust,Rust programming,RustFest Rome livestream,https://rome.rustfest.eu/livetime/
+701,Lobsters,rust,Rust programming,Still in love with Rust,https://dpc.pw/still-in-love-with-rust
+702,Lobsters,rust,Rust programming,Fastly Labs -- Terrarium,https://www.fastlylabs.com/
+703,Lobsters,rust,Rust programming,typed-html: type-checked JSX for Rust,https://github.com/bodil/typed-html
+704,Lobsters,rust,Rust programming,A verified email address will be required to publish to crates.io starting on 2019-02-28,https://users.rust-lang.org/t/a-verified-email-address-will-be-required-to-publish-to-crates-io-starting-on-2019-02-28/22425
+705,Lobsters,rust,Rust programming,What are some problems that would demonstrate Rust's speed advantage? More context in post,/s/dipydh/what_are_some_problems_would_demonstrate
+706,Lobsters,rust,Rust programming,Bringing Elm’s architecture to Rust and Webassembly,https://sindrejohansen.no/blog/willow/rust/elm/2018/11/16/willow-elm-in-rust.html
+707,Lobsters,rust,Rust programming,"Porting FlatBuffers to Rust (Rust Bay Area - November 13th, 2018)",https://www.youtube.com/watch?v=YsiQDX20lXI
+708,Lobsters,rust,Rust programming,Rust 1.29 and 1.30 – procedural macros and better paths (and a progress bar for Cargo!),https://newrustacean.com/show_notes/news/rust_1_29_1_30/
+709,Lobsters,rust,Rust programming,Program Synthesis is Possible in Rust,http://fitzgeraldnick.com/2018/11/15/program-synthesis-is-possible-in-rust.html
+710,Lobsters,rust,Rust programming,Things Rust doesn’t let you do,https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5
+711,Lobsters,rust,Rust programming,Wavelet – 10k+ TPS DAG-Based Ledger with Proof-of-Stake & Smart Contract Support,https://medium.com/perlin-network/wavelet-pre-alpha-launch-7e6c042a0768
+712,Lobsters,rust,Rust programming,Implementing Rust’s std::sync::Mutex in D,https://atilanevesoncode.wordpress.com/2018/11/06/implementing-rusts-stdsyncmutex-in-d/
+713,Lobsters,rust,Rust programming,How to speed up the Rust compiler in 2018: NLL edition,https://blog.mozilla.org/nnethercote/2018/11/06/how-to-speed-up-the-rust-compiler-in-2018-nll-edition/
+714,Lobsters,rust,Rust programming,A New Way of Thinking,https://boakye.yiadom.org/rust/new/
+715,Lobsters,rust,Rust programming,A hammer you can only hold by the handle,https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html
+716,Lobsters,rust,Rust programming,MIR-based borrowck is almost here,http://smallcultfollowing.com/babysteps/blog/2018/10/31/mir-based-borrowck-is-almost-here/
+717,Lobsters,rust,Rust programming,"A minimal, fast alternative to 'du -sh'",https://github.com/sharkdp/dup
+718,Lobsters,rust,Rust programming,Azul GUI Framework for Rust,https://azul.rs/
+719,Lobsters,rust,Rust programming,Parsing logs 230x faster with Rust,https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/
+720,Lobsters,rust,Rust programming,Summer School With The Rust Compiler,http://patshaughnessy.net/2018/10/24/summer-school-with-the-rust-compiler
+721,Lobsters,rust,Rust programming,Announcing Rust 1.30 - The Rust Programming Language Blog,https://blog.rust-lang.org/2018/10/25/Rust-1.30.0.html
+722,Lobsters,rust,Rust programming,Towards fearless SIMD,https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html
+723,Lobsters,rust,Rust programming,"Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time",https://www.influxdata.com/blog/rust-can-be-difficult-to-learn-and-frustrating-but-its-also-the-most-exciting-thing-in-software-development-in-a-long-time/
+724,Lobsters,rust,Rust programming,"Amethyst 0.9: Rendering 100,000 sprites at 60fps",https://www.amethyst.rs/blog/release-0-9/
+725,Lobsters,rust,Rust programming,Multithreading Rust and Wasm,https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html
+726,Lobsters,rust,Rust programming,Kick the Tires - Rust Crash Course lesson 1,https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires
+727,Lobsters,rust,Rust programming,Sandcrust: Automatic Sandboxing of Unsafe Components in Rust (2017),https://os.inf.tu-dresden.de/papers_ps/plos2017-lamowski-rust-sandboxing-paper.pdf
+728,Lobsters,rust,Rust programming,Writing an OS in Rust: Hardware Interrupts,https://os.phil-opp.com/hardware-interrupts/
+729,Lobsters,rust,Rust programming,An introduction to the McLeod Pitch Method,https://github.com/sevagh/mpm-rs
+730,Lobsters,rust,Rust programming,Serverless Rust with AWS Lambda and WebAssembly,https://blog.scottlogic.com/2018/10/18/serverless-rust.html
+731,Lobsters,rust,Rust programming,Is Rust functional?,https://www.fpcomplete.com/blog/2018/10/is-rust-functional
+732,Lobsters,rust,Rust programming,Rust and the Three Laws of Informatics,https://medium.com/@schemouil/rust-and-the-three-laws-of-informatics-4324062b322b
+733,Lobsters,rust,Rust programming,Introducing the Rust crash course,https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course
+734,Lobsters,rust,Rust programming,Oxidizing Python: Speeding up URL quoting by 10x using Rust,https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/
+735,Lobsters,rust,Rust programming,Garbage collection as a Rust library,https://boats.gitlab.io/blog/post/shifgrethor-i/
+736,Lobsters,rust,Rust programming,Rust Web Survey,https://docs.google.com/forms/d/e/1FAIpQLSf9KCUs-8G87pHB08lM8-iXcDSY_VttOI0PvkKseHaZseCGGA/viewform
+737,Lobsters,rust,Rust programming,Evaluation Context for Rust,https://github.com/google/evcxr
+738,Lobsters,rust,Rust programming,The Rust Web Survey,https://twitter.com/rustnetwg/status/1052072484353298432
+739,Lobsters,rust,Rust programming,The success of Go heralds that of Rust,https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500
+740,Lobsters,rust,Rust programming,Notes on Type Layouts and ABIs in Rust,https://gankro.github.io/blah/rust-layouts-and-abis/
+741,Lobsters,rust,Rust programming,Rust has a static garbage collector,https://words.steveklabnik.com/borrow-checking-escape-analysis-and-the-generational-hypothesis
+742,Lobsters,rust,Rust programming,Remacs continues to improve,http://db48x.net/rust-remacs-2018/
+743,Lobsters,rust,Rust programming,"Noria: dynamic, partially-stateful data-flow for high-performance web applications",https://www.usenix.org/conference/osdi18/presentation/gjengset
+744,Lobsters,rust,Rust programming,How I’ve found vulnerability in a popular Rust crate (and you can too),https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb
+745,Lobsters,rust,Rust programming,Property testing framework for Rust,https://docs.rs/proptest/0.7.0/proptest/index.html
+746,Lobsters,rust,Rust programming,Introducing Ruukh Framework,https://sharadchand.com/2018/10/03/ruukh-framework.html
+747,Lobsters,rust,Rust programming,Lessons learned on writing web applications completely in Rust,https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287
+748,Lobsters,rust,Rust programming,lolbench: automagically and empirically discovering Rust performance regressions,https://blog.anp.lol/rust/2018/09/29/lolbench/
+749,Lobsters,rust,Rust programming,An unsafety bug in rust's stdlib,/s/i0jf4b/unsafety_bug_rust_s_stdlib
+750,Lobsters,rust,Rust programming,The relative performance of C and Rust,http://dtrace.org/blogs/bmc/2018/09/28/the-relative-performance-of-c-and-rust/
+751,Lobsters,rust,Rust programming,Rust testanything: generating results in the Test Anything Protocol (TAP),https://github.com/Cigna/TAP-Rust
+752,Lobsters,rust,Rust programming,Announcing the web-sys crate: raw bindings to all the Web’s APIs,https://rustwasm.github.io/2018/09/26/announcing-web-sys.html
+753,Lobsters,rust,Rust programming,Hands On With Linkerd 2.0 - Kubernetes,https://kubernetes.io/blog/2018/09/18/hands-on-with-linkerd-2.0/
+754,Lobsters,rust,Rust programming,Cargo's crate index: upcoming squash into one commit,https://internals.rust-lang.org/t/cargos-crate-index-upcoming-squash-into-one-commit/8440
+755,Lobsters,rust,Rust programming,The evolution of performance in ppbert,https://vfoley.xyz/ppbert-perf-evolution/
+756,Lobsters,rust,Rust programming,Falling in love with Rust,http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
+757,Lobsters,rust,Rust programming,Alacritty now supports scrollback,https://jwilm.io/blog/alacritty-lands-scrollback/
+758,Lobsters,rust,Rust programming,The 9p protocol as a serde format and message types,https://github.com/KevinMGranger/nine
+759,Lobsters,rust,Rust programming,Iridium VM: A BEAM like VM project/tutorial written in Rust,https://blog.subnetzero.io/project/iridium-vm/
+760,Lobsters,rust,Rust programming,"You can't ""turn off the borrow checker"" in Rust",https://words.steveklabnik.com/you-can-t-turn-off-the-borrow-checker-in-rust
+761,Lobsters,rust,Rust programming,RustConf 2018 Videos,http://www.youtube.com/playlist?list=PL85XCvVPmGQi3tivxDDF1hrT9qr5hdMBZ
+762,Lobsters,rust,Rust programming,Integrating Rust into Tor: Successes and Challenges,http://confreaks.tv/videos/rustconf2018-integrating-rust-into-tor-successes-and-challenges
+763,Lobsters,rust,Rust programming,Rust Faster SIMD edition,https://llogiq.github.io/2018/09/06/fast.html
+764,Lobsters,rust,Rust programming,Official Rust support for the FlatBuffers serialization format,https://github.com/google/flatbuffers/pull/4898
+765,Lobsters,rust,Rust programming,Primitives in Rust are Weird (and Cool),https://speice.io/2018/09/primitives-in-rust-are-weird.html
+766,Lobsters,rust,Rust programming,Bat. A cat(1) clone with wings,https://github.com/sharkdp/bat
+767,Lobsters,rust,Rust programming,Rust Factory Without Box (Trait Object),https://singpolyma.net/2018/09/rust-factory-without-box-trait-object/
+768,Lobsters,rust,Rust programming,WebRender (and PathFinder) in Firefox,http://pcwalton.github.io/slides/201808-webrender/
+769,Lobsters,rust,Rust programming,Verifying Rust Programs with SMACK,http://soarlab.org/publications/atva2018-bhr.pdf
+770,Lobsters,rust,Rust programming,CVE-2018-1000657 - Arbitrary code execution in a core Rust library,https://cve.mitre.org/cgi-bin/cvename.cgi?name=%20CVE-2018-1000657
+771,Lobsters,rust,Rust programming,"News: Rust 1.28—Stable #[global_allocator], more Rust 2018 Edition schedule news, video learning res",https://newrustacean.com/show_notes/news/rust_1_28/index.html
+772,Lobsters,rust,Rust programming,"Never patterns, exhaustive matching, and uninhabited types (oh my!)",http://smallcultfollowing.com/babysteps/blog/2018/08/13/never-patterns-exhaustive-matching-and-uninhabited-types-oh-my/
+773,Lobsters,rust,Rust programming,How Rust’s standard library was vulnerable for years and nobody noticed,https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6
+774,Lobsters,rust,Rust programming,Zero cost stack overflow protection for ARM Cortex-M devices,https://blog.japaric.io/stack-overflow-protection/
+775,Lobsters,rust,Rust programming,The Summer of RUST,https://www.youtube.com/watch?v=LjFM8vw3pbU
+776,Lobsters,rust,Rust programming,Syntax diagram generator,https://lukaslueg.github.io/macro_railroad_wasm_demo/
+777,Lobsters,rust,Rust programming,How to alleviate the pain of Rust compile times,https://vfoley.xyz/rust-compile-speed-tips/
+778,Lobsters,rust,Rust programming,jrust: a Rust macro which turns Java syntax in to Rust,https://gitlab.com/jD91mZM2/jrust
+779,Lobsters,rust,Rust programming,"Kickstart, a fast and simple project template bootstrapper",https://blog.artemix.org/article/show/kickstart
+780,Lobsters,rust,Rust programming,Launching the 2018 State of Rust Survey,https://blog.rust-lang.org/2018/08/08/survey.html
+781,Lobsters,rust,Rust programming,Stacked Borrows: An Aliasing Model For Rust,https://www.ralfj.de/blog/2018/08/07/stacked-borrows.html
+782,Lobsters,rust,Rust programming,Rust and the Case of the Redundant Comparison,https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/
+783,Lobsters,rust,Rust programming,Implementing a JIT-compiler with Rust,https://dinfuehr.github.io/blog/dora-implementing-a-jit-compiler-with-rust/
+784,Lobsters,rust,Rust programming,Announcing Rust 1.28,https://blog.rust-lang.org/2018/08/02/Rust-1.28.html
+785,Lobsters,rust,Rust programming,Fastcat - A Faster `cat` Implementation Using Splice,https://matthias-endler.de/2018/fastcat/
+786,Lobsters,rust,Rust programming,"Should C Programmers learn C++, Go or Rust?",http://ds9a.nl/articles/posts/cpp-rust-go/
+787,Lobsters,rust,Rust programming,Rust compiler cannot be built without test failures on Debian and Fedora,https://salsa.debian.org/rust-team/rust/blob/debian/sid/debian/NEWS#L1-29
+788,Lobsters,rust,Rust programming,Streaming UTF-8 in Haskell and Rust,https://www.fpcomplete.com/blog/2018/07/streaming-utf8-haskell-rust
+789,Lobsters,rust,Rust programming,Writing an OS in Rust: Double Fault Exceptions,https://os.phil-opp.com/double-fault-exceptions/
+790,Lobsters,rust,Rust programming,Percy - A modular toolkit for building isomorphic web apps with Rust + WebAssembly,https://github.com/chinedufn/percy
+791,Lobsters,rust,Rust programming,Version selection in Cargo,http://aturon.github.io/2018/07/25/cargo-version-selection/
+792,Lobsters,rust,Rust programming,rutie: A bridge betweeh ruby and rust,https://github.com/danielpclark/rutie
+793,Lobsters,rust,Rust programming,Natively run OCaml from Rust,https://blog.s-m.ac/ocaml-rust-ffi/
+794,Lobsters,rust,Rust programming,Signing my git commits without GPG in pure Rust,https://boats.gitlab.io/blog/post/signing-commits-without-gpg/
+795,Lobsters,rust,Rust programming,Futures 0.3.0-alpha.1,https://rust-lang-nursery.github.io/futures-rs/blog/2018/07/19/futures-0.3.0-alpha.1.html
+796,Lobsters,rust,Rust programming,Deploying Rust with Docker and Kubernetes,https://www.fpcomplete.com/blog/2018/07/deploying-rust-with-docker-and-kubernetes
+797,Lobsters,rust,Rust programming,Auditing popular crates: how a one-line unsafe has nearly ruined everything,https://www.reddit.com/r/rust/comments/8zpp5f/auditing_popular_crates_how_a_oneline_unsafe_has/
+798,Lobsters,rust,Rust programming,Async & Await in Rust,https://boats.gitlab.io/blog/post/2018-04-06-async-await-final/
+799,Lobsters,rust,Rust programming,rav1e: The fastest and safest AV1 encoder,https://github.com/xiph/rav1e
+800,Lobsters,rust,Rust programming,A web application completely in Rust,https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471
+801,Lobsters,rust,Rust programming,The State of Rust on Haiku - July 2018,https://www.haiku-os.org/blog/nielx/2018-07-05_the_state_of_rust_on_haiku/
+802,Lobsters,rust,Rust programming,Systems Languages: An Experience Report,https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628
+803,Lobsters,rust,Rust programming,"Rust Traits Deep Dive, Part III: Closure traits, impl trait, dyn trait, and object safety!",https://newrustacean.com/show_notes/e025/index.html
+804,Lobsters,rust,Rust programming,Type-safe & high-perf distributed actor systems with Rust,https://www.youtube.com/watch?v=LiIoE8ArACs
+805,Lobsters,rust,Rust programming,Josephine: Using JavaScript to safely manage the lifetimes of Rust data,https://arxiv.org/abs/1807.00067
+806,Lobsters,rust,Rust programming,A FUSE file system based on Google Drive,https://github.com/harababurel/gcsf
+807,Lobsters,rust,Rust programming,c2rust vs Corrode,https://jamey.thesharps.us/2018/06/30/c2rust-vs-corrode/
+808,Lobsters,rust,Rust programming,Rust Pointers for C Programmers,http://blahg.josefsipek.net/?p=580
+809,Lobsters,rust,Rust programming,News: Rust 1.27,https://newrustacean.com/show_notes/news/rust_1_27/
+810,Lobsters,rust,Rust programming,The Story of Stylo: Replacing Firefox's CSS engine with Rust,https://www.youtube.com/watch?v=Y6SSTRr2mFU
+811,Lobsters,rust,Rust programming,Citybound,http://cityboundsim.com/
+812,Lobsters,rust,Rust programming,Rust 2018 Edition alpha preview,https://internals.rust-lang.org/t/rust-2018-an-early-preview/7776
+813,Lobsters,rust,Rust programming,Introducing feL4: Rust Programs for the seL4 Microkernel,https://users.rust-lang.org/t/introducing-fel4-rust-programs-for-the-sel4-microkernel/17897
+814,Lobsters,rust,Rust programming,"`llvm-tools`, a new rustup component for binary inspection (objdump, nm, size) and profiling (profdata)",https://internals.rust-lang.org/t/llvm-tools-a-new-rustup-component-for-binary-inspection-objdump-nm-size-and-profiling-profdata/7830
+815,Lobsters,rust,Rust programming,Nebulet | More answers to questions that you may or may not have asked.,https://lsneff.me/more-answers.html
+816,Lobsters,rust,Rust programming,nannou.cc – A creative-coding toolkit that enables easy access to high-performance graphics and audio.,http://nannou.cc/
+817,Lobsters,rust,Rust programming,A Rusty Go at Channels,https://gsquire.github.io/static/post/a-rusty-go-at-channels/
+818,Lobsters,rust,Rust programming,RustSec: Security advisory database for Rust crates,https://github.com/RustSec
+819,Lobsters,rust,Rust programming,Our Vision for Rust and WebAssembly,https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html
+820,Lobsters,rust,Rust programming,Oxy - A Security Focused Remote Access Tool,https://oxy-secure.app/
+821,Lobsters,rust,Rust programming,Translating c to rust,https://c2rust.com/
+822,Lobsters,rust,Rust programming,Compiler Explorer (think CodePen for C(++)/D/Go/Rust/Swift/Haskell disassembly),https://gcc.godbolt.org/
+823,Lobsters,rust,Rust programming,Announcing Rust 1.27,https://blog.rust-lang.org/2018/06/21/Rust-1.27.html
+824,Lobsters,rust,Rust programming,"Traits Deep Dive, Part II",https://newrustacean.com/show_notes/e024/index.html
+825,Lobsters,rust,Rust programming,Building better compression together with DivANS,http://blogs.dropbox.com/tech/2018/06/building-better-compression-together-with-divans/
+826,Lobsters,rust,Rust programming,Rust is Not so Hairy,https://nevi.me/rust-is-not-so-hairy/
+827,Lobsters,rust,Rust programming,A Trick For Test Maintenance,https://matklad.github.io//2018/06/18/a-trick-for-test-maintenance.html
+828,Lobsters,rust,Rust programming,kvakvs/ErlangRT,https://github.com/kvakvs/ErlangRT
+829,Lobsters,rust,Rust programming,A Web Server Unikernel in Rust,https://rajiv256.github.io/projects/ouros/
+830,Lobsters,rust,Rust programming,Rust Distilled: An Expressive Tower of Languages,https://arxiv.org/abs/1806.02693
+831,Lobsters,rust,Rust programming,First Impressions of the Rust Programming Language,http://jakob.space/blog/post/First+Impressions+of+the+Rust+Programming+Language
+832,Lobsters,rust,Rust programming,"Crates.rs — a new, faster crate index website",https://users.rust-lang.org/t/crates-rs-a-new-faster-crate-index-website/17876
+833,Lobsters,rust,Rust programming,How to speed up the Rust compiler some more in 2018,https://blog.mozilla.org/nnethercote/2018/06/05/how-to-speed-up-the-rust-compiler-some-more-in-2018/
+834,Lobsters,rust,Rust programming,The Rust Way of OS Development,https://phil-opp.github.io/talk-konstanz-may-2018/
+835,Lobsters,rust,Rust programming,Crates You Should Know: The wasm tools,https://newrustacean.com/show_notes/cysk/wasm/index.html
+836,Lobsters,rust,Rust programming,Building Reliable Infrastructure in Rust,https://www.youtube.com/watch?v=hMJEPWcSD8w
+837,Lobsters,rust,Rust programming,I don't need types,https://dmerej.info/blog/post/trying-mypy/
+838,Lobsters,rust,Rust programming,Event Sourcing with Aggregates in Rust,https://medium.com/capital-one-developers/event-sourcing-with-aggregates-in-rust-4022af41cf67
+839,Lobsters,rust,Rust programming,Why Nebulet?,http://lsneff.me/why-nebulet/
+840,Lobsters,rust,Rust programming,Compile Time Prevention of SQL-Injections in Rust,https://polyfloyd.net/post/compile-time-prevention-of-sql-injections/
+841,Lobsters,rust,Rust programming,The Rust compiler is getting faster,https://blog.mozilla.org/nnethercote/2018/05/17/the-rust-compiler-is-getting-faster/
+842,Lobsters,rust,Rust programming,Rust turns three,https://blog.rust-lang.org/2018/05/15/Rust-turns-three.html
+843,Lobsters,rust,Rust programming,"nebulet: a microkernel that implements a WebAssembly ""usermode"" that runs in Ring 0",https://github.com/nebulet/nebulet
+844,Lobsters,rust,Rust programming,News: Rust 1.26,https://newrustacean.com/show_notes/news/rust_1_26/index.html
+845,Lobsters,rust,Rust programming,How a Rust upgrade more than tripled the speed of my code,http://troubles.md/posts/the-power-of-compilers/
+846,Lobsters,rust,Rust programming,genact: A nonsense activity generator,https://github.com/svenstaro/genact
+847,Lobsters,rust,Rust programming,Performance experiments with matrix multiplication,https://vorner.github.io/2018/05/12/Mat-perf.html
+848,Lobsters,rust,Rust programming,Announcing Rust 1.26,https://blog.rust-lang.org/2018/05/10/Rust-1.26.html
+849,Lobsters,rust,Rust programming,The Simplest Rust Toolchain Installer,https://gitlab.com/Screwtapello/simplest-rust-toolchain-installer/blob/master/src/main.md
+850,Lobsters,rust,Rust programming,Entity-Component-System architecture for UI in Rust,https://raphlinus.github.io/personal/2018/05/08/ecs-ui.html
+851,Lobsters,rust,Rust programming,Rust in production at Figma,https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929
+852,Lobsters,rust,Rust programming,KRust: A Formal Executable Semantics of Rust,https://arxiv.org/abs/1804.10806
+853,Lobsters,rust,Rust programming,"Using LLVM from Rust, to generate WebAssembly",https://medium.com/@jayphelps/using-llvm-from-rust-to-generate-webassembly-93e8c193fdb4
+854,Lobsters,rust,Rust programming,c3r3s: a serial 64-bit bootloader for the raspberry pi 3,https://github.com/robey/c3r3s
+855,Lobsters,rust,Rust programming,Writing an OS in Rust - Unit Testing,https://os.phil-opp.com/unit-testing/
+856,Lobsters,rust,Rust programming,"Rust: Traits Deep Dive, Part I",https://newrustacean.com/show_notes/e023/
+857,Lobsters,rust,Rust programming,"nperf, a sampling profiler for Linux written in Rust from Nokia",https://github.com/nokia/nperf
+858,Lobsters,rust,Rust programming,"Reflections on Rust, and the Sand Castle Metaphor",https://brandur.org/fragments/rust-reflections
+859,Lobsters,rust,Rust programming,How does dynamic dispatch work in WebAssembly?,http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html
+860,Lobsters,rust,Rust programming,Rust Case Study: Chucklefish Taps Rust to Bring Safe Concurrency to Video Games,https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf
+861,Lobsters,rust,Rust programming,Splitting up modules in Rust,https://chronicbuildfailure.co/splitting-up-modules-in-rust-5ad7713201d5
+862,Lobsters,rust,Rust programming,Why Rust's error handling is awesome,http://rantsideasstuff.com/posts/2018/04/20-rust-error-handling-awesome/
+863,Lobsters,rust,Rust programming,Hello wasm-pack!,https://hacks.mozilla.org/2018/04/hello-wasm-pack/
+864,Lobsters,rust,Rust programming,"Twiggy, a code size profiler for WebAssembly",https://github.com/rustwasm/twiggy
+865,Lobsters,rust,Rust programming,Angle Grinder: CLI App to Slice and Dice Your Logs,https://github.com/rcoh/angle-grinder
+866,Lobsters,rust,Rust programming,Dark Side Of Ergonomics,https://vorner.github.io/2018/04/08/Dark-side-of-ergonomics.html
+867,Lobsters,rust,Rust programming,Tutorial: Conway's Game of Life in Rust and WebAssembly,https://rust-lang-nursery.github.io/rust-wasm/game-of-life/introduction.html
+868,Lobsters,rust,Rust programming,Sneak Peek at WebAssembly Studio,https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
+869,Lobsters,rust,Rust programming,Writing a recursive ascent parser by hand,https://www.abubalay.com/blog/2018/04/08/recursive-ascent
+870,Lobsters,rust,Rust programming,Immutable Data Structures for Rust,https://docs.rs/im/10.0.0/im/
+871,Lobsters,rust,Rust programming,Building Actor Systems in Rust,https://www.youtube.com/watch?v=hg89CJKIMhI
+872,Lobsters,rust,Rust programming,Anduril Industries is Hiring,/s/frlonn/anduril_industries_is_hiring
+873,Lobsters,rust,Rust programming,JavaScript to Rust and Back Again: A wasm-bindgen Tale,https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/
+874,Lobsters,rust,Rust programming,"MesaLink: a memory-safe and OpenSSL-compatible TLS library, implemented in Rust",https://github.com/mesalock-linux/mesalink
+875,Lobsters,rust,Rust programming,Building Tiny Rust Binaries for Embedded Linux,https://jamesmunns.com/update/2018/04/01/tinyrocket.html
+876,Lobsters,rust,Rust programming,Rust: the new LLVM,http://willcrichton.net/notes/rust-the-new-llvm/
+877,Lobsters,rust,Rust programming,Getting Rid of Rust with Ada,https://blog.adacore.com/getting-rid-of-rust-with-ada
+878,Lobsters,rust,Rust programming,You can't Rust that,http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/
+879,Lobsters,rust,Rust programming,"Thoughts on Rust, a few thousand lines in",https://rcoh.me/posts/things-learned-first-thousand-lines-of-rust/
+880,Lobsters,rust,Rust programming,A geometric Rust adventure,https://eev.ee/blog/2018/03/30/a-geometric-rust-adventure/
+881,Lobsters,rust,Rust programming,I've just learned Rust and I think I'm in love ·,https://rskupnik.github.io/I-learned-rust-and-I-think-Im-in-love
+882,Lobsters,rust,Rust programming,Announcing Rust 1.25 - The Rust Programming Language Blog,https://blog.rust-lang.org/2018/03/29/Rust-1.25.html
+883,Lobsters,rust,Rust programming,Speeding Up dwarfdump With Rust,https://robert.ocallahan.org/2018/03/speeding-up-dwarfdump-with-rust.html
+884,Lobsters,rust,Rust programming,Atomics and Memory Ordering,https://vorner.github.io/2018/03/25/Atomics.html
+885,Lobsters,rust,Rust programming,"Touring a Fast, Safe, and Complete(ish) Web Service in Rust — Brandur Leach",https://brandur.org/rust-web
+886,Lobsters,rust,Rust programming,Stealing Where from Rust,http://www.parsonsmatt.org/2018/03/26/stealing_where_from_rust.html
+887,Lobsters,rust,Rust programming,Making WebAssembly better for Rust & for all languages,https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
+888,Lobsters,rust,Rust programming,Rust Talk videos from meetups and conferences like the Rust Belt Rust Conference or RustFest Zürich,https://blog.meetupfeed.com/rust-talk-videos-meetups-conferences-like-rust-belt-rust-conference-rustfest-zurich/
+889,Lobsters,rust,Rust programming,Roguelike Tutorial in Rust + tcod,https://tomassedovic.github.io/roguelike-tutorial/
+890,Lobsters,rust,Rust programming,Rust's 2018 roadmap,https://blog.rust-lang.org/2018/03/12/roadmap.html
+891,Lobsters,rust,Rust programming,Closing Keynote: Safe Systems Software and Future of Computing by Joe Duffy (2017),https://www.youtube.com/watch?v=CuD7SCqHB7k
+892,Lobsters,rust,Rust programming,Writing a Simple IPFS Crawler in Rust,https://gkbrk.com/2018/03/writing-a-simple-ipfs-crawler/
+893,Lobsters,rust,Rust programming,Short Paper: Rusty Types for Solid Safety (2016),https://sergio.bz/docs/rusty-types-2016.pdf
+894,Lobsters,rust,Rust programming,Writing an OS in pure Rust,https://os.phil-opp.com/news/2018-03-09-pure-rust/
+895,Lobsters,rust,Rust programming,A New Preferences Parser for Firefox,https://blog.mozilla.org/nnethercote/2018/03/09/a-new-preferences-parser-for-firefox/
+896,Lobsters,rust,Rust programming,Announcing the Tokio runtime,https://tokio.rs/blog/2018-03-tokio-runtime/
+897,Lobsters,rust,Rust programming,Writing a Microservice in Rust,https://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/
+898,Lobsters,rust,Rust programming,"Adhesion, a Rust design-by-contract library, reaches feature parity with D inspiration (0.5 release)",https://github.com/ErichDonGubler/adhesion-rs/commit/38e34b0f446956ef9c962cf4d54925bb504d77ba
+899,Lobsters,rust,Rust programming,Rust in 2018 - A Fast Tour,https://www.youtube.com/watch?v=lKTo7aDf0bE
+900,Lobsters,rust,Rust programming,Why Rust Has Macros,https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/
+901,Lobsters,rust,Rust programming,Serializing awkward data with serde,http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html
+902,Lobsters,rust,Rust programming,Opportunistic Mutations for Rust,https://llogiq.github.io/2018/03/03/opportune.html
+903,Lobsters,rust,Rust programming,synapse 1.0-rc1: a lightweight bittorrent daemon written in Rust,https://synapse-bt.org
+904,Lobsters,rust,Rust programming,Announcing Rust 1.24.1,https://blog.rust-lang.org/2018/03/01/Rust-1.24.1.html
+905,Lobsters,rust,Rust programming,"Rust 1.24: Performance wins, incremental compilation, and the Rust 2018 Roadmap and Epoch!",http://www.newrustacean.com/show_notes/news/rust_1_24/
+906,Lobsters,rust,Rust programming,It All Looks the Same to Me,https://www.innoq.com/en/blog/looks-the-same-to-me/
+907,Lobsters,rust,Rust programming,Reasoning with Types in Rust,https://aaronweiss.us/posts/2018-02-26-reasoning-with-types-in-rust.html
+908,Lobsters,rust,Rust programming,A Code Cartoon introduction to WebAssembly with Lin Clark,https://www.youtube.com/watch?v=smcN0Dvctac
+909,Lobsters,rust,Rust programming,Speed Without Wizardry,http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
+910,Lobsters,rust,Rust programming,Rust SGX SDK: Towards Memory Safety in Intel SGX (2017),https://qconsf.com/system/files/presentation-slides/qconsf-reviewed-ding.pdf
+911,Lobsters,rust,Rust programming,Cargo: Windows 7 users broken by Github dropping TLS 1.0/1.1,https://github.com/rust-lang/cargo/issues/5066
+912,Lobsters,rust,Rust programming,Why Writing a Linked List in (safe) Rust is So Damned Hard,https://rcoh.me/posts/rust-linked-list-basically-impossible/
+913,Lobsters,rust,Rust programming,Programming an ARM microcontroller in Rust at four different levels of abstraction,http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/
+914,Lobsters,rust,Rust programming,Rust things I miss in C,https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html
+915,Lobsters,rust,Rust programming,Announcing Rust 1.24,https://blog.rust-lang.org/2018/02/15/Rust-1.24.html
+916,Lobsters,rust,Rust programming,"Comm - a decentralized, censorship-resistant p2p messaging app written in Rust",https://github.com/zacstewart/comm-gtk
+917,Lobsters,rust,Rust programming,Wire's Rust implementation of the Double Ratchet Algorithm,https://github.com/wireapp/proteus
+918,Lobsters,rust,Rust programming,Keep your dependencies up-to-date,https://deps.rs/
+919,Lobsters,rust,Rust programming,Humble Book Bundle: Functional Programming,https://www.humblebundle.com/books/functional-programming-books
+920,Lobsters,rust,Rust programming,Closing out an incredible week in Rust,http://aturon.github.io/2018/02/09/amazing-week/
+921,Lobsters,rust,Rust programming,Crates You Should Know: Serde (Rust serialization/deserialization library),http://www.newrustacean.com/show_notes/cysk/serde/
+922,Lobsters,rust,Rust programming,Reflecting on ppbert,https://vfoley.xyz/ppbert/
+923,Lobsters,rust,Rust programming,A Wee Allocator for WebAssembly,http://fitzgeraldnick.com/2018/02/09/wee-alloc.html
+924,Lobsters,rust,Rust programming,Async/Await V: Getting back to the futures,https://boats.gitlab.io/blog/post/2018-02-08-async-v-getting-back-to-the-futures/
+925,Lobsters,rust,Rust programming,Guitar Effects in Rust,http://rickyhan.com/jekyll/update/2018/02/06/rust-guitar-pedal-effects-dsp.html
+926,Lobsters,rust,Rust programming,A vision for portability in Rust,http://aturon.github.io/2018/02/06/portability-vision/
+927,Lobsters,rust,Rust programming,Writing eBPF tracing tools in Rust,https://jvns.ca/blog/2018/02/05/rust-bcc/
+928,Lobsters,rust,Rust programming,Improving the bucket compression trick,https://github.com/robey/pack4x5
+929,Lobsters,rust,Rust programming,Memory Safety in Rust: A Case Study with C,http://willcrichton.net/notes/rust-memory-safety/
+930,Lobsters,rust,Rust programming,Rust's ownership model formally proven with Coq,https://dl.acm.org/citation.cfm?doid=3177123.3158154
+931,Lobsters,rust,Rust programming,How it works: Compiler Explorer,https://xania.org/201609/how-compiler-explorer-runs-on-amazon
+932,Lobsters,rust,Rust programming,Send and Sync: The “marker traits” that Rust uses for safe concurrency.,http://www.newrustacean.com/show_notes/e022/
+933,Lobsters,rust,Rust programming,Rust Lifetimes for the Uninitialised,http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/
+934,Lobsters,rust,Rust programming,Amp - A complete text editor for your terminal,https://amp.rs/
+935,Lobsters,rust,Rust programming,How do you read the memory maps of a Mac process?,https://jvns.ca/blog/2018/01/26/mac-memory-maps/
+936,Lobsters,rust,Rust programming,"📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀",https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95
+937,Lobsters,rust,Rust programming,Why is Rust difficult?,https://vorner.github.io/difficult.html
+938,Lobsters,rust,Rust programming,Interview: Sean Griffin on Diesel 1.0 (the Rust ORM),http://www.newrustacean.com/show_notes/interview/diesel_1_0/index.html
+939,Lobsters,rust,Rust programming,Brave new I/O - Embedded in Rust,http://blog.japaric.io/brave-new-io/
+940,Lobsters,rust,Rust programming,Evolving Line Art,https://gkbrk.com/2018/01/evolving-line-art/
+941,Lobsters,rust,Rust programming,Getting started with Rust on the command line,http://asquera.de/blog/2018-01-20/getting-started-with-rust-on-the-command-line/
+942,Lobsters,rust,Rust programming,Rust and QML: a timely example,https://www.vandenoever.info/blog/2017/09/10/time_for_rust_and_qml.html
+943,Lobsters,rust,Rust programming,Oxidizing Source Maps with Rust and WebAssembly,https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/
+944,Lobsters,rust,Rust programming,What’s Tokio and Async IO All About?,http://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/
+945,Lobsters,rust,Rust programming,Rust with Ruby,http://mildlyinternet.com/code/rust-with-ruby.html
+946,Lobsters,rust,Rust programming,Rust in 2018: it's way easier to use!,https://jvns.ca/blog/2018/01/13/rust-in-2018--way-easier-to-use/
+947,Lobsters,rust,Rust programming,Building on an unsafe foundation,https://www.youtube.com/watch?v=rTo2u13lVcQ
+948,Lobsters,rust,Rust programming,2018: The year we learn Rust 1.0,http://yakshav.es/rust-2018/
+949,Lobsters,rust,Rust programming,Rust in 2018,http://manishearth.github.io/blog/2018/01/10/rust-in-2018/
+950,Lobsters,rust,Rust programming,#Rust2018 : Don’t be the new Haskell,https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481
+951,Lobsters,rust,Rust programming,Web Scraping With Rust,https://medium.com/@kadek/web-scraping-in-rust-881b534a60f7
+952,Lobsters,rust,Rust programming,New Rustacean – News: Rust 1.23,http://www.newrustacean.com/show_notes/news/rust_1_23/index.html
+953,Lobsters,rust,Rust programming,Announcing Rust 1.23,https://blog.rust-lang.org/2018/01/04/Rust-1.23.html
+954,Lobsters,rust,Rust programming,A Killer Linux GUI For Neovim: NeovimGtk,http://www.wezm.net/technical/2017/12/a-killer-linux-gui-for-neovim-neovimgtk/
+955,Lobsters,rust,Rust programming,Not Explicit,https://boats.gitlab.io/blog/post/2017-12-27-things-explicit-is-not/
+956,Lobsters,rust,Rust programming,Outperforming Rust With Functional Programming,http://blog.vmchale.com/article/fast-functional
+957,Lobsters,rust,Rust programming,Yew: Rust framework for making React-like client web apps,https://github.com/DenisKolodin/yew
+958,Lobsters,rust,Rust programming,My first Rust macro,https://jvns.ca/blog/2017/12/24/my-first-rust-macro/
+959,Lobsters,rust,Rust programming,Debugging a segfault in my Rust program,https://jvns.ca/blog/2017/12/23/segfault-debugging/
+960,Lobsters,rust,Rust programming,Bindgen: awesome Rust tool for generating C bindings,https://jvns.ca/blog/2017/12/21/bindgen-is-awesome/
+961,Lobsters,rust,Rust programming,"cache_warmer - tool to warm-up HTTP caches, written in Rust",https://chr4.org/blog/2017/12/18/cache-warmer-tool-to-warm-up-http-caches/
+962,Lobsters,rust,Rust programming,Writing a CHIP-8 emulator with Rust and WebAssembly,http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html
+963,Lobsters,rust,Rust programming,The Rise of Rust in Dev/Ops,https://mesosphere.com/blog/rust-devops/
+964,Lobsters,rust,Rust programming,OxidationPlan - Using Rust in Mercurial,https://www.mercurial-scm.org/wiki/OxidationPlan#
+965,Lobsters,rust,Rust programming,Rocket - A Rust game running on WASM,https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/
+966,Lobsters,rust,Rust programming,Using Rust in Mercurial,https://www.mercurial-scm.org/wiki/OxidationPlan
+967,Lobsters,rust,Rust programming,Breaking the Enigma Code With Rust,https://kevinyap.ca/2017/04/breaking-the-enigma-code-with-rust/
+968,Lobsters,rust,Rust programming,py2rs - From Python into Rust,https://github.com/rochacbruno/py2rs
+969,Lobsters,rust,Rust programming,Multiprogramming a 64KB Computer Safely and Efficiently (2017),https://www.tockos.org/assets/papers/tock-sosp2017.pdf
+970,Lobsters,rust,Rust programming,What's a reference in Rust?,https://jvns.ca/blog/2017/11/27/rust-ref/
+971,Lobsters,rust,Rust programming,"Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox",http://bholley.net/blog/2017/stylo.html
+972,Lobsters,rust,Rust programming,Speed up your Python using Rust,https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/
+973,Lobsters,rust,Rust programming,Abstracting Over Mutability In Rust Macros,https://lab.whitequark.org/notes/2017-01-16/abstracting-over-mutability-in-rust-macros/
+974,Lobsters,rust,Rust programming,The Manifest - Episode 8: Cargo and Crates.io with Carol (Nichols || Goulding),http://manifest.fm/8
+975,Lobsters,rust,Rust programming,Rust nightly allows WebAssembly compilation without requiring additional tools,https://www.hellorust.com/news/native-wasm-target.html
+976,Lobsters,rust,Rust programming,Writing fast and safe native Node.js modules with Rust,https://blog.risingstack.com/node-js-native-modules-with-rust/
+977,Lobsters,rust,Rust programming,Rope science part 12: minimal invalidation,https://github.com/google/xi-editor/blob/b2cfcd059780e9c5bdd05e55aa3118295ac3533f/doc/rope_science/rope_science_12.md
+978,Lobsters,rust,Rust programming,Fearless Concurrency in Firefox Quantum,https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html
+979,Lobsters,rust,Rust programming,A reimagining of what it looks like to generate WebAssembly code from Rust,https://github.com/rust-lang/rust/pull/45905
+980,Lobsters,rust,Rust programming,Calling Rust From Python,https://bheisler.github.io/post/calling-rust-in-python/
+981,Lobsters,rust,Rust programming,Tock Embedded Operating System,https://www.tockos.org/
+982,Lobsters,rust,Rust programming,RustFest Zürich 2017 Videos,https://www.youtube.com/watch?v=jywiVWKm1TI&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+983,Lobsters,rust,Rust programming,into_rust(): screencasts for learning Rust,http://intorust.com/
+984,Lobsters,rust,Rust programming,Rust: Builder pattern by example,http://juggernaut.github.io/rust/2017/11/02/rust-builder-pattern.html
+985,Lobsters,rust,Rust programming,Fixie tries,https://www.cipht.net/2017/10/29/fixie-tries.html
+986,Lobsters,rust,Rust programming,Why would anyone choose Docker over fat binaries?,http://www.smashcompany.com/technology/why-would-anyone-choose-docker-over-fat-binaries
+987,Lobsters,rust,Rust programming,Exploring lock-free Rust 1: Locks,https://morestina.net/blog/742/exploring-lock-free-rust-1-locks
+988,Lobsters,rust,Rust programming,Chucklefish developer discusses building one of their next projects in Rust,https://www.reddit.com/r/rust/comments/78bowa/hey_this_is_kyren_from_chucklefish_we_make_and/
+989,Lobsters,rust,Rust programming,Using Options by example,http://juggernaut.github.io/rust/2017/10/23/rust-options.html
+990,Lobsters,rust,Rust programming,"Rust to WebAssembly, Made Easy",https://lord.io/blog/2017/wargo/
+991,Lobsters,rust,Rust programming,HolyJit: A New Hope,https://blog.mozilla.org/javascript/2017/10/20/holyjit-a-new-hope/
+992,Lobsters,rust,Rust programming,The Case for Writing a Kernel in Rust,http://www.cs.virginia.edu/~bjc8c/papers/levy17rustkernel.pdf
+993,Lobsters,rust,Rust programming,Rust: str vs String,http://juggernaut.github.io/rust/2017/10/12/rust-str-vs-String.html
+994,Lobsters,rust,Rust programming,"fd - A simple, fast and user-friendly alternative to find, written in Rust",https://github.com/sharkdp/fd
+995,Lobsters,rust,Rust programming,marinintim/rust-gist: yet another Gist publishing client,https://github.com/marinintim/rust-gist
+996,Lobsters,rust,Rust programming,Testing a Rust Command Line Tool,https://mattgathu.github.io/testing-rust-cli-apps/
+997,Lobsters,rust,Rust programming,The 2016 Underhanded Rust Contest - The Results,http://blog.community.rs/underhanded/2017/09/27/underhanded-results.html
+998,Lobsters,rust,Rust programming,Chrome OS KVM - A component written in Rust,https://chromium.googlesource.com/chromiumos/platform/crosvm/
+999,Lobsters,rust,Rust programming,Why did we choose Rust over Golang or C/C++ to develop TiKV?,https://pingcap.github.io/blog/2017/09/26/whyrust/
+1000,Lobsters,rust,Rust programming,"Dialect of brainfuck, writtenin Rust, which only uses emoji",http://emotifuck.rs/
+1001,Lobsters,rust,Rust programming,"Security advisory for crates.io, 2017-09-19",https://users.rust-lang.org/t/security-advisory-for-crates-io-2017-09-19/12960
+1002,Lobsters,rust,Rust programming,Come hack on bindgen with us!,http://fitzgeraldnick.com/2017/09/21/come-hack-on-bindgen-with-us.html
+1003,Lobsters,rust,Rust programming,mrustc: an alternative Rust compiler written in C++,https://github.com/thepowersgang/mrustc
+1004,Lobsters,rust,Rust programming,macro-lisp: A Lisp-like DSL for Rust,https://github.com/JunSuzukiJapan/macro-lisp
+1005,Lobsters,rust,Rust programming,Find something Rusty to work on,https://www.rustaceans.org/findwork/
+1006,Lobsters,rust,Rust programming,impl Future for Rust,http://blog.rust-lang.org/2017/09/18/impl-future-for-rust.html
+1007,Lobsters,rust,Rust programming,Discover the world of microcontrollers through Rust!,https://japaric.github.io/discovery/
+1008,Lobsters,rust,Rust programming,Rust: Frequently Asked Questions,https://www.rust-lang.org/en-US/faq.html
+1009,Lobsters,rust,Rust programming,"How glib-rs works, part 3: Boxed types",https://people.gnome.org/~federico/blog/how-glib-rs-works-part-3.html
+1010,Lobsters,rust,Rust programming,"Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others",https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/
+1011,Lobsters,rust,Rust programming,A Simple Tip to Improve Rust Program Speed,http://vfoley.xyz/rust-compilation-tip/
+1012,Lobsters,rust,Rust programming,Rust 2017 Survey Results,https://blog.rust-lang.org/2017/09/05/Rust-2017-Survey-Results.html
+1013,Lobsters,rust,Rust programming,A dive into the rust-cratedb driver,https://crate.io/a/rust-cratedb-1-0/
+1014,Lobsters,rust,Rust programming,Generator (Coroutine) support merged in Rust,https://github.com/rust-lang/rust/pull/43076
+1015,Lobsters,rust,Rust programming,Inside a super fast CSS engine: Quantum CSS (aka Stylo),https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
+1016,Lobsters,rust,Rust programming,Replacing C library code with Rust: what I learned with librsvg,https://people.gnome.org/~federico/blog/guadec-2017.html
+1017,Lobsters,rust,Rust programming,Rust performance: finishing the job,http://mikejsavage.co.uk/blog/rust-performance-finishing-the-job.html
+1018,Lobsters,rust,Rust programming,rustgo: calling Rust from Go with near-zero overhead,https://blog.filippo.io/rustgo/
+1019,Lobsters,rust,Rust programming,Rust for the web,https://thefullsnack.com/en/rust-for-the-web.html
+1020,Lobsters,rust,Rust programming,Rust Performance: A story featuring perf and flamegraph on Linux,http://blog.adamperry.me/rust/2016/07/24/profiling-rust-perf-flamegraph/
+1021,Lobsters,rust,Rust programming,Debugging a Race Condition in a Release Target,http://blog.boxofrox.me/2017/08/debugging-a-rust-release-build.html
+1022,Lobsters,rust,Rust programming,What the RLS can do,http://www.ncameron.org/blog/what-the-rls-can-do/
+1023,Lobsters,rust,Rust programming,Vagga is a containerization tool without daemons,https://github.com/tailhook/vagga
+1024,Lobsters,rust,Rust programming,Scrapmetal — Scrap Your Rust Boilerplate,http://fitzgeraldnick.com/2017/08/03/scrapmetal.html
+1025,Lobsters,rust,Rust programming,Writing an OS in Rust,https://os.phil-opp.com/
+1026,Lobsters,rust,Rust programming,Fearless concurrency with hazard pointers ·,http://ticki.github.io/blog/fearless-concurrency-with-hazard-pointers/
+1027,Lobsters,rust,Rust programming,"Grokking Diesel, Rust's ORM",https://gist.github.com/2fa2860c4526a9cc37dbf5af898ecc56
+1028,Lobsters,rust,Rust programming,Microsoft didn’t sandbox Windows Defender,https://blog.trailofbits.com/2017/08/02/microsoft-didnt-sandbox-windows-defender-so-i-did/
+1029,Lobsters,rust,Rust programming,Rust: Not So Great for Codec Implementing,https://codecs.multimedia.cx/?p=1246
+1030,Lobsters,rust,Rust programming,Announcing the `http` crate,https://users.rust-lang.org/t/announcing-the-http-crate/12123
+1031,Lobsters,rust,Rust programming,IntelliJ Rust Plugin now officially supported by JetBrains,https://intellij-rust.github.io/2017/07/31/changelog-47.html
+1032,Lobsters,rust,Rust programming,Mononoke: A Mercurial server designed for Monorepos,https://github.com/facebookexperimental/mononoke
+1033,Lobsters,rust,Rust programming,PyO3: python to rust bindings,https://github.com/PyO3/pyo3
+1034,Lobsters,rust,Rust programming,Towards a second edition of the Rust compiler,https://internals.rust-lang.org/t/towards-a-second-edition-of-the-compiler/5582
+1035,Lobsters,rust,Rust programming,Announcing Rust 1.19 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/07/20/Rust-1.19.html
+1036,Lobsters,rust,Rust programming,The 2017 Rust Conference Lineup,http://blog.rust-lang.org/2017/07/18/conf-lineup.html
+1037,Lobsters,rust,Rust programming,Remacs – A community-driven port of Emacs to Rust,https://github.com/Wilfred/remacs
+1038,Lobsters,rust,Rust programming,How Rust is tested,https://brson.github.io/2017/07/10/how-rust-is-tested
+1039,Lobsters,rust,Rust programming,Iterators and Streams in Rust and Haskell,https://www.fpcomplete.com/blog/2017/07/iterators-streams-rust-haskell
+1040,Lobsters,rust,Rust programming,RustBelt: Securing the Foundations of the Rust Programming Language,https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf
+1041,Lobsters,rust,Rust programming,A Rust view on Effective Modern C++,http://mainisusuallyafunction.blogspot.com/2017/06/a-rust-view-on-effective-modern-c.html
+1042,Lobsters,rust,Rust programming,"Rust's 2017 roadmap, six months in",http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html
+1043,Lobsters,rust,Rust programming,Up to x141 Faster Crypto using libsodium Rust Bindings in Node,https://medium.com/@wireapp/speeding-up-crypto-on-wire-desktop-apps-3ff37fc98c3f
+1044,Lobsters,rust,Rust programming,johalun/echo: FreeBSD kernel module in Rust,https://github.com/johalun/echo
+1045,Lobsters,rust,Rust programming,pg-amqp-bridge: Send messages to RabbitMQ from PostgreSQL,https://github.com/subzerocloud/pg-amqp-bridge
+1046,Lobsters,rust,Rust programming,Idiomatic bindings to the Starcraft Broodwar game,https://users.rust-lang.org/t/idiomatic-bindings-to-the-starcraft-broodwar-game/11572
+1047,Lobsters,rust,Rust programming,Simple Verification of Rust Programs with Functional Purification (2016),https://pp.info.uni-karlsruhe.de/uploads/publikationen/ullrich16masterarbeit.pdf
+1048,Lobsters,rust,Rust programming,Bugs You'll Probably Only Have in Rust,https://gankro.github.io/blah/only-in-rust/
+1049,Lobsters,rust,Rust programming,System programming in Rust: beyond safety,https://blog.acolyer.org/2017/06/14/system-programming-in-rust-beyond-safety/
+1050,Lobsters,rust,Rust programming,Rust as a gateway drug to Haskell,http://xion.io/post/programming/rust-into-haskell.html
+1051,Lobsters,rust,Rust programming,How MutexGuard was Sync When It Should Not Have Been,https://www.ralfj.de/blog/2017/06/09/mutexguard-sync.html
+1052,Lobsters,rust,Rust programming,Seer: Symbolic Execution Engine for Rust,https://github.com/dwrensha/seer
+1053,Lobsters,rust,Rust programming,Language servers and IDEs,https://perplexinglyemma.blogspot.com/2017/06/language-servers-and-ides.html
+1054,Lobsters,rust,Rust programming,Rust Performance Pitfalls,https://llogiq.github.io/2017/06/01/perf-pitfalls.html
+1055,Lobsters,rust,Rust programming,Exploring MIR Semantics through miri,https://www.ralfj.de/blog/2017/06/06/MIR-semantics.html
+1056,Lobsters,rust,Rust programming,Linux Containers Internals (Part I),http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
+1057,Lobsters,rust,Rust programming,Rewrite the Linux kernel in Rust?,https://dominuscarnufex.github.io/cours/rs-kernel/en.html
+1058,Lobsters,rust,Rust programming,Fuzzing the Rust typechecker using CLP (2015),https://www.cs.ucsb.edu/~benh/research/papers/dewey15fuzzing.pdf
+1059,Lobsters,rust,Rust programming,"Tofino, data storage, and how we got to Mentat",https://www.ncalexander.net/blog/2017/05/31/tofino-data-storage-and-how-we-got-to-mentat/
+1060,Lobsters,rust,Rust programming,Writing Ruby gems with Rust and Helix,https://blog.dnsimple.com/2017/05/writing-ruby-gems-with-rust-and-helix/
+1061,Lobsters,rust,Rust programming,"Tectonic: a complete, modernized, self-contained TeX/LaTeX engine",https://users.rust-lang.org/t/tectonic-a-complete-modernized-self-contained-tex-latex-engine/11053
+1062,Lobsters,rust,Rust programming,Library for browser orchestration with Rust and WebDriver,https://github.com/jonhoo/fantoccini
+1063,Lobsters,rust,Rust programming,Rust: A Scala Engineer's Perspective,https://beachape.com/blog/2017/05/24/rust-from-scala/
+1064,Lobsters,rust,Rust programming,Notes on Building Noise: a JSON Search Engine written in Rust,http://damienkatz.net/2017/05/23/notes-on-building-noise-a-json-search-engine-written-in-rust/
+1065,Lobsters,rust,Rust programming,Writing Parsers Like it is 2017,http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
+1066,Lobsters,rust,Rust programming,Helix: Build Native Ruby Extensions Without Fear,https://www.youtube.com/watch?v=nq1nNx8-fNQ
+1067,Lobsters,rust,Rust programming,Query structure in chalk,http://smallcultfollowing.com/babysteps/blog/2017/05/25/query-structure-in-chalk/
+1068,Lobsters,rust,Rust programming,Sccache for caching Rust compilation,https://users.rust-lang.org/t/sccache-for-caching-rust-compilation/10960
+1069,Lobsters,rust,Rust programming,A Procedural Landscape Experiment,https://medium.com/@rap2h/a-procedural-landscape-experiment-4efe1826906f
+1070,Lobsters,rust,Rust programming,A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust,https://github.com/mre/idiomatic-rust
+1071,Lobsters,rust,Rust programming,haret: strongly consistent distributed coordination system implemented in rust,https://github.com/vmware/haret/blob/master/docs/why.md
+1072,Lobsters,rust,Rust programming,Writing correct systems in Rust with TLA+,https://github.com/spacejam/tla-rust
+1073,Lobsters,rust,Rust programming,Rust Cookbook,https://brson.github.io/rust-cookbook/intro.html
+1074,Lobsters,rust,Rust programming,Two years of Rust,http://blog.rust-lang.org/2017/05/15/rust-at-two-years.html
+1075,Lobsters,rust,Rust programming,GStreamer & Rust – A perfect match,https://www.youtube.com/watch?v=W_mnFFqpMpQ
+1076,Lobsters,rust,Rust programming,The `?` operator in Rust,https://m4rw3r.github.io/rust-questionmark-operator
+1077,Lobsters,rust,Rust programming,The Story of a Rust Bug,https://thesquareplanet.com/blog/the-story-of-a-rust-bug/
+1078,Lobsters,rust,Rust programming,Fearless concurrency in your microcontroller,http://blog.japaric.io/fearless-concurrency/
+1079,Lobsters,rust,Rust programming,I Made a Game in Rust,https://michaelfairley.com/blog/i-made-a-game-in-rust/
+1080,Lobsters,rust,Rust programming,The Pain Of Real Linear Types in Rust,https://gankro.github.io/blah/linear-rust/
+1081,Lobsters,rust,Rust programming,How I Broke Rust's Package Manager for All Windows Users,http://sasheldon.com/blog/2017/05/07/how-i-broke-cargo-for-windows/
+1082,Lobsters,rust,Rust programming,The Grass is Always Greener - My Struggles with Rust,https://compileandrun.com/stuggles-with-rust.html
+1083,Lobsters,rust,Rust programming,The Rust Libz Blitz,http://blog.rust-lang.org/2017/05/05/libz-blitz.html
+1084,Lobsters,rust,Rust programming,Launching the 2017 State of Rust Survey,http://blog.rust-lang.org/2017/05/03/survey.html
+1085,Lobsters,rust,Rust programming,gnome-class: Integrating Rust and the GNOME object system,http://smallcultfollowing.com/babysteps/blog/2017/05/02/gnome-class-integrating-rust-and-the-gnome-object-system/
+1086,Lobsters,rust,Rust programming,?? Interview 4 – Jonathan Turner: Part 1/3,http://www.newrustacean.com/show_notes/interview/_4/part_1/index.html
+1087,Lobsters,rust,Rust programming,Rust your ARM microcontroller!,http://blog.japaric.io/quickstart/
+1088,Lobsters,rust,Rust programming,Announcing Rust 1.17 - The Rust Programming Language Blog,http://blog.rust-lang.org/2017/04/27/Rust-1.17.html
+1089,Lobsters,rust,Rust programming,Implementing Weld in Rust,http://dawn.cs.stanford.edu/blog/weld.html
+1090,Lobsters,rust,Rust programming,Crates You Should Know: Rust Language Service,http://www.newrustacean.com/show_notes/crates_you_should_know/_3/index.html
+1091,Lobsters,rust,Rust programming,Rust and SPARK: Software Reliability for Everyone,http://electronicdesign.com/industrial/rust-and-spark-software-reliability-everyone
+1092,Lobsters,rust,Rust programming,Rope Science - An article series about advanced computer science concepts used in the Xi editor,https://github.com/google/xi-editor/tree/master/doc/rope_science
+1093,Lobsters,rust,Rust programming,Optimizing Rust Struct Size: A 6-month Compiler Development Project,http://camlorn.net/posts/April%202017/rust-struct-field-reordering.html
+1094,Lobsters,rust,Rust programming,Windows nightly builds for Servo now available,https://blog.servo.org/2017/04/13/windows/
+1095,Lobsters,rust,Rust programming,The Minimally-nice Open Source Software Maintainer,http://brson.github.io/2017/04/05/minimally-nice-maintainer
+1096,Lobsters,rust,Rust programming,Rust Optimizations That C++ Can't Do,http://robert.ocallahan.org/2017/04/rust-optimizations-that-c-cant-do.html
+1097,Lobsters,rust,Rust programming,"Pijul 0.4, Improvements and breaking changes",http://pijul.org/2017/04/02/pijul-0.4.html
+1098,Lobsters,rust,Rust programming,e020: Putting code in its place (organizing Rust codebases),http://www.newrustacean.com/show_notes/e020/
+1099,Lobsters,rust,Rust programming,alert-after: CLI utility written to Rust to get a desktop notification after a command finishes,https://github.com/frewsxcv/alert-after
+1100,Lobsters,rust,Rust programming,Rust's fatal flaw,https://lambda.xyz/blog/rusts-fatal-flaw/
+1101,Lobsters,rust,Rust programming,Rust Bibliography,https://forge.rust-lang.org/bibliography.html
+1102,Lobsters,rust,Rust programming,STDSHOUT!!!1!,https://github.com/badboy/stdshout
+1103,Lobsters,rust,Rust programming,A comparison of regex engines,https://rust-leipzig.github.io/regex/2017/03/28/comparison-of-regex-engines/
+1104,Lobsters,rust,Rust programming,Building Realtime APIs in Rust,https://lord.io/blog/2017/backtalk/
+1105,Lobsters,rust,Rust programming,Have you considered Rewriting It In Rust?,http://transitiontech.ca/random/RIIR
+1106,Lobsters,rust,Rust programming,"Async, Futures, AMQP, pick three: lapin, a new Rust AMQP client library",https://www.clever-cloud.com/blog/engineering/2017/03/28/lapin-new-rust-amqp-library/
+1107,Lobsters,rust,Rust programming,Using Rust in Windows,http://www.jonathanturner.org/2017/03/rust-in-windows.html
+1108,Lobsters,rust,Rust programming,Handling Exceptions when writing an OS in Rust,http://os.phil-opp.com/handling-exceptions.html
+1109,Lobsters,rust,Rust programming,Rust by Example,http://rustbyexample.com/
+1110,Lobsters,rust,Rust programming,"Unification in Chalk, part 1",http://smallcultfollowing.com/babysteps/blog/2017/03/25/unification-in-chalk-part-1/
+1111,Lobsters,rust,Rust programming,The Rust Programming Language (2nd Edition Draft),https://doc.rust-lang.org/nightly/book/second-edition/
+1112,Lobsters,rust,Rust programming,A Gentle Introduction To Rust,http://stevedonovan.github.io/rust-gentle-intro/index.html
+1113,Lobsters,rust,Rust programming,Changes I would make to Go,http://sitr.us/2017/02/21/changes-i-would-make-to-go.html
+1114,Lobsters,rust,Rust programming,New Rustacean Bonus 8: Giving back (by teaching),http://www.newrustacean.com/show_notes/bonus/_8/
+1115,Lobsters,rust,Rust programming,Announcing the tokio-io Crate,https://tokio.rs/blog/tokio-io/
+1116,Lobsters,rust,Rust programming,Cross-compile and link a static binary on macOS for Linux with cargo and rust - chr4,https://chr4.org/blog/2017/03/15/cross-compile-and-link-a-static-binary-on-macos-for-linux-with-cargo-and-rust
+1117,Lobsters,rust,Rust programming,"Pijul 0.3, our first public release! Featuring nest.pijul.com",http://pijul.org/2017/03/16/pijul-0.3.html
+1118,Lobsters,rust,Rust programming,Weld: a runtime and language for accelerating data analytics frameworks,https://github.com/weld-project/weld
+1119,Lobsters,rust,Rust programming,Go and Rust are bloody enemies!,http://byrd.im/go-vs-rust/
+1120,Lobsters,rust,Rust programming,Calling a C function from Rust,http://blog.jfo.click/calling-a-c-function-from-rust/
+1121,Lobsters,rust,Rust programming,Rust's Type System is Turing-Complete: an exploration of type-level programming in Rust,https://sdleffler.github.io/RustTypeSystemTuringComplete/
+1122,Lobsters,rust,Rust programming,Functional IoT - Connect things by well-typed bridge. (Embedded ATS!),http://fpiot.metasepi.org/
+1123,Lobsters,rust,Rust programming,Buzz: simple systray app for notifying about unseen e-mail,https://github.com/jonhoo/buzz
+1124,Lobsters,rust,Rust programming,"xmake v2.1.1 released, support golang, dlang and rust languages",http://www.tboox.org/2017/03/04/update-v2.1.1/
+1125,Lobsters,rust,Rust programming,Rust Faster Than C? Not So Fast…,https://dennisforbes.ca/index.php/2017/03/03/rust-faster-than-c-not-so-fast/
+1126,Lobsters,rust,Rust programming,Rust's language ergonomics initiative,http://blog.rust-lang.org/2017/03/02/lang-ergonomics.html
+1127,Lobsters,rust,Rust programming,Simulating LIDAR driving with Rust and OpenAI,https://medium.com/@andrew_subarctic/simulating-lidar-driving-with-rust-and-openai-19a8dcbc2ad8
+1128,Lobsters,rust,Rust programming,Nested method calls via two-phase borrowing,http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/
+1129,Lobsters,rust,Rust programming,? New Rustacean e019: Let's `Clone` a `Cow`!,http://www.newrustacean.com/show_notes/e019/index.html
+1130,Lobsters,rust,Rust programming,Extending the Underhanded Rust Submission Deadline to March 31 (and more),https://underhanded.rs/blog/2017/02/28/extending-submission-deadline.en-US.html
+1131,Lobsters,rust,Rust programming,PumpkinDB: an event sourcing database engine that doesn't overwrite data,http://pumpkindb.org/
+1132,Lobsters,rust,Rust programming,Demangling C++ Symbols ... in Rust,http://fitzgeraldnick.com/2017/02/22/cpp-demangle.html
+1133,Lobsters,rust,Rust programming,How copying an int made my code 11 times faster,https://medium.com/@robertgrosse/how-copying-an-int-made-my-code-11-times-faster-f76c66312e0f
+1134,Lobsters,rust,Rust programming,(Rust) Crates You Should Know: clap,http://www.newrustacean.com/show_notes/crates_you_should_know/_2/
+1135,Lobsters,rust,Rust programming,"Pathfinder, a fast GPU-based font rasterizer in Rust",http://pcwalton.github.com/blog/2017/02/14/pathfinder
+1136,Lobsters,rust,Rust programming,What can the programming language Rust do for astrophysics?,https://arxiv.org/abs/1702.02951
+1137,Lobsters,rust,Rust programming,Rust on AVR: Safer microcontrollers almost here,http://dylanmckay.io/blog/rust/avr/llvm/2017/02/09/safer-microcontrollers-almost-here.html
+1138,Lobsters,rust,Rust programming,Rustler - Safe Elixir and Erlang NIFs in Rust,http://hansihe.com/2017/02/05/rustler-safe-erlang-elixir-nifs-in-rust.html
+1139,Lobsters,rust,Rust programming,Announcing Rust 1.15.1,http://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html
+1140,Lobsters,rust,Rust programming,Learning Rust With Entirely Too Many Linked Lists,http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html
+1141,Lobsters,rust,Rust programming,Deep learning super-resolution in Rust,https://github.com/millardjn/rusty_sr
+1142,Lobsters,rust,Rust programming,Servo Architecture: Safety and Performance,https://www.youtube.com/watch?v=an5abNFba4Q
+1143,Lobsters,rust,Rust programming,Rust's 2017 roadmap,http://blog.rust-lang.org/2017/02/06/roadmap.html
+1144,Lobsters,rust,Rust programming,"What Rust Can Do That Other Languages Can't, In Six Short Lines",http://robert.ocallahan.org/2017/02/what-rust-can-do-that-other-languages.html
+1145,Lobsters,rust,Rust programming,Marijn Haverbeke - The Rust That Could Have Been,https://www.youtube.com/watch?v=olbTX95hdbg
+1146,Lobsters,rust,Rust programming,Announcing Rust 1.15,http://blog.rust-lang.org/2017/02/02/Rust-1.15.html
+1147,Lobsters,rust,Rust programming,Zig Programming Language Blurs the Line Between Compile-Time and Run-Time,http://andrewkelley.me/post/zig-programming-language-blurs-line-compile-time-run-time.html
+1148,Lobsters,rust,Rust programming,C and C++ are dead like COBOL in 2017,http://trevorjim.com/c-and-c++-are-dead-like-cobol-in-2017/
+1149,Lobsters,rust,Rust programming,Lowering Rust traits to logic,http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/
+1150,Lobsters,rust,Rust programming,Setting Expectations for Rust's Difficulty,http://www.suspectsemantics.com/blog/2017/01/26/setting-expectations-for-rusts-difficulty/
+1151,Lobsters,rust,Rust programming,"Of tantivy, a search engine in Rust",http://fulmicoton.com/posts/behold-tantivy/
+1152,Lobsters,rust,Rust programming,Coding skills you won't learn in school: Object Ownership,https://codewithoutrules.com/2017/01/26/object-ownership/
+1153,Lobsters,rust,Rust programming,An Overview of Macros in Rust,http://words.steveklabnik.com/an-overview-of-macros-in-rust
+1154,Lobsters,rust,Rust programming,The struggle with Rust,https://ayende.com/blog/176801/the-struggle-with-rust
+1155,Lobsters,rust,Rust programming,Short intro to C++ for Rust developers: Ownership and Borrowing,http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html
+1156,Lobsters,rust,Rust programming,Parallelizing Enjarify in Go and Rust,https://medium.com/@robertgrosse/parallelizing-enjarify-in-go-and-rust-21055d64af7e
+1157,Lobsters,rust,Rust programming,Assigning blame to unsafe code,http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/
+1158,Lobsters,rust,Rust programming,Rust vs. Go,https://blog.ntpsec.org/2017/01/18/rust-vs-go.html
+1159,Lobsters,rust,Rust programming,Announcing Rust Language Server Alpha Release,http://www.jonathanturner.org/2017/01/rls-alpha-release.html
+1160,Lobsters,rust,Rust programming,Fighting the Borrow Checker,https://m-decoster.github.io//2017/01/16/fighting-borrowchk/
+1161,Lobsters,rust,Rust programming,Accord: data validation library for Rust (with example REST API using Rocket + Accord),https://github.com/ChrisBuchholz/accord
+1162,Lobsters,rust,Rust programming,Rust severely disappoints me,http://esr.ibiblio.org/?p=7294
+1163,Lobsters,rust,Rust programming,Pijul - First usable Pijul,http://pijul.org/2017/01/10/first-working-pijul.html
+1164,Lobsters,rust,Rust programming,Thrussh: Portable SSH client and server library,https://pijul.org/thrussh/
+1165,Lobsters,rust,Rust programming,Announcing Remacs: Porting Emacs to Rust,http://www.wilfred.me.uk/blog/2017/01/11/announcing-remacs-porting-emacs-to-rust/
+1166,Lobsters,rust,Rust programming,Announcing Tokio 0.1,https://tokio.rs/blog/tokio-0-1/
+1167,Lobsters,rust,Rust programming,Virtual machine and JIT compiler for eBPF written in Rust by 6WIND,https://github.com/qmonnet/rbpf
+1168,Lobsters,rust,Rust programming,American Fuzzy Lop’ing Rust,http://blog.troutwine.us/2017/01/06/american-fuzzy-loping-rust/
+1169,Lobsters,rust,Rust programming,Exploring the limits of Rust one-liners • /r/rust,https://www.reddit.com/r/rust/comments/5mhx4f/exploring_the_limits_of_rust_oneliners/
+1170,Lobsters,rust,Rust programming,Rux: A Hobbyist Microkernel Written in Rust,https://github.com/sorpaas/rux
+1171,Lobsters,rust,Rust programming,Replacing the Jet Engine While Still Flying: Transitioning Gecko to Servo in Firefox,http://jensimmons.com/post/jan-4-2017/replacing-jet-engine-while-still-flying
+1172,Lobsters,rust,Rust programming,"alacritty - A cross-platform, GPU enhanced terminal emulator",https://github.com/jwilm/alacritty
+1173,Lobsters,rust,Rust programming,The Rust module system is too confusing,https://withoutboats.github.com/blog/rust/2017/01/04/the-rust-module-system-is-too-confusing.html
+1174,Lobsters,rust,Rust programming,Librsvg 2.41.0 is released (now requires Rust),https://mail.gnome.org/archives/desktop-devel-list/2017-January/msg00001.html
+1175,Lobsters,rust,Rust programming,Compiling Rust to WebAssembly Guide,https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde
+1176,Lobsters,rust,Rust programming,Rust at OneSignal,https://onesignal.com/blog/rust-at-onesignal/
+1177,Lobsters,rust,Rust programming,Getting Past C,http://blog.ntpsec.org/2017/01/03/getting-past-c.html
+1178,Lobsters,rust,Rust programming,Servo Browser Nightly Builds Available,https://servo.org
+1179,Lobsters,rust,Rust programming,This Year in Redox,http://www.redox-os.org/news/this-year-in-redox-18/
+1180,Lobsters,rust,Rust programming,Fire Flowers and Marios: Marketing Rust,https://medium.com/@ag_dubs/fire-flowers-and-marios-marketing-rust-996b3fdbe8f3
+1181,Lobsters,rust,Rust programming,"Lobsters, what do you actually use Rust for, and why?",/s/zugvlr/lobsters_what_do_you_actually_use_rust_for
+1182,Lobsters,rust,Rust programming,"Fire Mario, not Fire Flowers",http://words.steveklabnik.com/fire-mario-not-fire-flowers
+1183,Lobsters,rust,Rust programming,Safety is Rust's Fireflower,https://thefeedbackloop.xyz/safety-is-rusts-fireflower/
+1184,Lobsters,rust,Rust programming,Rust is mostly safety,http://graydon2.dreamwidth.org/247406.html
+1185,Lobsters,rust,Rust programming,Rust is more than safety,http://words.steveklabnik.com/rust-is-more-than-safety
+1186,Lobsters,rust,Rust programming,Rust vs C Pitfalls,http://www.garin.io/rust-vs-c-pitfalls
+1187,Lobsters,rust,Rust programming,This Year in Robigalia,https://robigalia.org/blog/2016/12/27/this-year-in-robigalia.html
+1188,Lobsters,rust,Rust programming,Drop-merge sort,https://github.com/emilk/drop-merge-sort
+1189,Lobsters,rust,Rust programming,Getting Started with Tokio,https://lukesteensen.com/2016/12/getting-started-with-tokio/
+1190,Lobsters,rust,Rust programming,Rocket: Web Framework for Rust,https://rocket.rs/
+1191,Lobsters,rust,Rust programming,Announcing Rust 1.14,http://blog.rust-lang.org/2016/12/22/Rust-1.14.html
+1192,Lobsters,rust,Rust programming,Idiomatic tree and graph like structures in Rust,https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/
+1193,Lobsters,rust,Rust programming,Writing An Interpreter In Rust,https://chr4.org/blog/2016/12/09/writing-an-interpreter-in-rust
+1194,Lobsters,rust,Rust programming,Rust required to build Gecko,https://groups.google.com/forum/m/#!msg/mozilla.dev.platform/Gzwh1IbxvHE/7RlO21I6DwAJ
+1195,Lobsters,rust,Rust programming,The First Annual Underhanded Rust Contest,https://underhanded.rs/blog/2016/12/15/underhanded-rust.en-US.html
+1196,Lobsters,rust,Rust programming,Trait Driven Development in Rust,https://scribbles.pascalhertleif.de/trait-driven-development-in-rust.html
+1197,Lobsters,rust,Rust programming,How to translate a large C project to Rust,http://jamey.thesharps.us/2016/12/how-to-translate-large-c-project-to-rust.html
+1198,Lobsters,rust,Rust programming,A Rusting Rubyist - Embedding Rust in a Ruby module,https://medium.com/fullstack-labs/a-rubyist-rusting-db6e7e9c8f36
+1199,Lobsters,rust,Rust programming,Extending Python with Rust,https://www.youtube.com/watch?v=-ylbuEzkG4M
+1200,Lobsters,rust,Rust programming,"Starting a new Rust project right, with error-chain",http://brson.github.io/2016/11/30/starting-with-error-chain
+1201,Lobsters,rust,Rust programming,24 days of Rust,https://siciarz.net/24-days-rust-rayon/
+1202,Lobsters,rust,Rust programming,Rust: 128 bit integers preparing to be released,https://github.com/rust-lang/rust/pull/37900#issuecomment-264676043
+1203,Lobsters,rust,Rust programming,ripgrep code review,http://blog.mbrt.it/2016-12-01-ripgrep-code-review/
+1204,Lobsters,rust,Rust programming,Reflections on Rusting Trust,http://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/
+1205,Lobsters,rust,Rust programming,Zero-cost abstractions,https://ruudvanasseldonk.com/2016/11/30/zero-cost-abstractions
+1206,Lobsters,rust,Rust programming,Building native macOS applications with Rust,http://blog.bugsnag.com/building-macos-apps-with-rust/
+1207,Lobsters,rust,Rust programming,Russian Dolls and clean Rust code,https://mgattozzi.com/posts/russian-dolls.html
+1208,Lobsters,rust,Rust programming,Nom PEG parser version 2 released,https://unhandledexpression.com/2016/11/25/this-year-in-nom-2-0-is-here/
+1209,Lobsters,rust,Rust programming,Peer to Peer VPN implemented in rust,https://github.com/dswd/vpncloud.rs
+1210,Lobsters,rust,Rust programming,Rust hash iteration+reinsertion is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion
+1211,Lobsters,rust,Rust programming,An Experiment in Garbage Collection,http://pliniker.github.io/mo-gc-intro.html
+1212,Lobsters,rust,Rust programming,Building Languages In Rust,https://www.youtube.com/watch?v=U3upi-y2pCk
+1213,Lobsters,rust,Rust programming,Rust community discussion about its vision for the 2017 cycle,https://internals.rust-lang.org/t/setting-our-vision-for-the-2017-cycle/3958
+1214,Lobsters,rust,Rust programming,Rust and the Future of Systems Programming,https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/
+1215,Lobsters,rust,Rust programming,Parallel Iterators Part 1: Foundations,http://smallcultfollowing.com/babysteps/blog/2016/02/19/parallel-iterators-part-1-foundations/
+1216,Lobsters,rust,Rust programming,intermezzOS: a teaching operating system,https://www.youtube.com/watch?v=WxbrhruIAa8
+1217,Lobsters,rust,Rust programming,Using Rust Instead of Python for scripting,http://www.chriskrycho.com/2016/using-rust-for-scripting.html
+1218,Lobsters,rust,Rust programming,Rapid prototyping C applications with Rust,https://rust-leipzig.github.io/cargo/2016/11/13/rapid-prototyping-c-applications/
+1219,Lobsters,rust,Rust programming,Announcing Rust 1.13,http://blog.rust-lang.org/2016/11/10/Rust-1.13.html
+1220,Lobsters,rust,Rust programming,A quick tour of Rust’s Type System Part 1: Sum Types (a.k.a. Tagged Unions),https://tonyarcieri.com/a-quick-tour-of-rusts-type-system-part-1-sum-types-a-k-a-tagged-unions
+1221,Lobsters,rust,Rust programming,Rust and Vala,https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/
+1222,Lobsters,rust,Rust programming,"Rust + Haskell: Software Rasterization, N-Body Simulation & Game of Life • /r/haskell",https://www.reddit.com/r/haskell/comments/468r93/rust_haskell_software_rasterization_nbody/
+1223,Lobsters,rust,Rust programming,Porting a few C functions to Rust,https://people.gnome.org/~federico/news-2016-10.html#28
+1224,Lobsters,rust,Rust programming,The Rust community team page,http://community.rs
+1225,Lobsters,rust,Rust programming,A Quantum Leap for the Web,https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12
+1226,Lobsters,rust,Rust programming,Gnome's Librsvg gets Rusty,https://people.gnome.org/~federico/news-2016-10.html#25
+1227,Lobsters,rust,Rust programming,A fast cloc replacement written in rust,https://github.com/cgag/loc
+1228,Lobsters,rust,Rust programming,This Summer in Redox,http://www.redox-os.org/news/this-summer-in-redox-15/
+1229,Lobsters,rust,Rust programming,2017 Rust Roadmap,https://github.com/aturon/rfcs/blob/roadmap-2017/text/0000-roadmap-2017.md
+1230,Lobsters,rust,Rust programming,Announcing Rust 1.12.1 - The Rust Programming Language Blog,http://blog.rust-lang.org/2016/10/20/Rust-1.12.1.html
+1231,Lobsters,rust,Rust programming,Fixing Python Performance with Rust,https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html
+1232,Lobsters,rust,Rust programming,"Introducing Rust Language Server, source release",https://internals.rust-lang.org/t/introducing-rust-language-server-source-release/4209
+1233,Lobsters,rust,Rust programming,"watchexec: Rust-based file watcher for OS X, Linux, and Windows",https://github.com/mattgreen/watchexec
+1234,Lobsters,rust,Rust programming,Exploring ARM inline assembly in Rust,http://embed.rs/articles/2016/arm-inline-assembly-rust/
+1235,Lobsters,rust,Rust programming,How to speed up the Rust compiler,https://blog.mozilla.org/nnethercote/2016/10/14/how-to-speed-up-the-rust-compiler/
+1236,Lobsters,rust,Rust programming,Compiling to the web with Rust and emscripten,https://users.rust-lang.org/t/compiling-to-the-web-with-rust-and-emscripten/7627
+1237,Lobsters,rust,Rust programming,NetBricks: A new network function framework based on Rust,http://netbricks.io/
+1238,Lobsters,rust,Rust programming,A Hoare logic for Rust,http://ticki.github.io/blog/a-hoare-logic-for-rust/
+1239,Lobsters,rust,Rust programming,Announcing Rust 1.12,http://blog.rust-lang.org/2016/09/29/Rust-1.12.html
+1240,Lobsters,rust,Rust programming,Rust as a language for high performance GC implementation,http://ts.data61.csiro.au/publications/nictaabstracts/Lin_BHN_16.abstract.pml
+1241,Lobsters,rust,Rust programming,GPU Programming in Rust,https://www.cs.indiana.edu/~eholk/papers/hips2013.pdf
+1242,Lobsters,rust,Rust programming,"ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}",http://blog.burntsushi.net/ripgrep
+1243,Lobsters,rust,Rust programming,Why Rust's `std::collections` is absolutely fantastic,https://ticki.github.io/blog/fantastic/
+1244,Lobsters,rust,Rust programming,Why I’m dropping Rust,https://hackernoon.com/why-im-dropping-rust-fd1c32986c88
+1245,Lobsters,rust,Rust programming,Learning systems programming with Rust,http://jvns.ca/blog/2016/09/11/rustconf-keynote/
+1246,Lobsters,rust,Rust programming,"? New Rustacean Bonus 7: Katas—or, learning by doing",http://www.newrustacean.com/show_notes/bonus/_7/
+1247,Lobsters,rust,Rust programming,Incremental Compilation for Rust,http://blog.rust-lang.org/2016/09/08/incremental.html
+1248,Lobsters,rust,Rust programming,ruby-stacktrace - spy on/profile running ruby programs,https://github.com/jvns/ruby-stacktrace
+1249,Lobsters,rust,Rust programming,Are we learning yet? - State of machine learning in Rust,http://www.arewelearningyet.com/
+1250,Lobsters,rust,Rust programming,Adding a billion numbers in Rust,http://pramode.in/2016/08/25/rust-add-billion-numbers/

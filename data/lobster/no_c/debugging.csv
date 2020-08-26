@@ -1,0 +1,600 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,debugging,Debugging,Effective Debugging of Memory Leaks in Ruby,https://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby
+2,Lobsters,debugging,Debugging,Step-through debugging with no debugger on Cortex-M,https://interrupt.memfault.com/blog/cortex-m-debug-monitor
+3,Lobsters,debugging,Debugging,rd is a record/replay debugger written in rust,https://github.com/sidkshatriya/rd
+4,Lobsters,debugging,Debugging,AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | USENIX,https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
+5,Lobsters,debugging,Debugging,"probe.rs: a modern, embedded debugging toolkit, written in Rust",http://probe.rs/
+6,Lobsters,debugging,Debugging,Shopify/toxiproxy -- framework for simulating network conditions,https://github.com/Shopify/toxiproxy
+7,Lobsters,debugging,Debugging,Let's Debug a Node.js Application,https://blog.heroku.com/debug-node-applications
+8,Lobsters,debugging,Debugging,6 ways to improve your debugging skills,https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/
+9,Lobsters,debugging,Debugging,The GNU GDB Debugger and NetBSD (Part 3),https://blog.netbsd.org/tnf/entry/the_gnu_gdb_debugger_and2
+10,Lobsters,debugging,Debugging,Measuring USB with bpftrace,https://blog.habets.se/2020/08/Measuring-USB-with-bpftrace.html
+11,Lobsters,debugging,Debugging,Julia 1.5 Feature Preview: Time Traveling (Linux) Bug Reporting,https://julialang.org/blog/2020/05/rr/
+12,Lobsters,debugging,Debugging,PEBKAC: How I Spent 2 Days Fixing a Bug that Didn't Exist,https://figbert.com/posts/pebkac-txtodo/
+13,Lobsters,debugging,Debugging,Remake - GNU Make with comprehensible tracing and a debugger,http://bashdb.sourceforge.net/remake/
+14,Lobsters,debugging,Debugging,Automatically detect memory leaks with Puppeteer,https://media-codings.com/articles/automatically-detect-memory-leaks-with-puppeteer
+15,Lobsters,debugging,Debugging,Debugging Incidents in Google's Distributed Systems,https://queue.acm.org/detail.cfm?id=3404974
+16,Lobsters,debugging,Debugging,What debugging technique did it take you entirely too long to learn?,/s/h7f6qk/what_debugging_technique_did_it_take_you
+17,Lobsters,debugging,Debugging,Triplefault: Djordje Todorovic on LLVM and debug information,https://engineering.backtrace.io/posts/2020-07-20-triplefault-1/
+18,Lobsters,debugging,Debugging,Fixing Mass Effect black blobs on modern AMD CPUs,https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/
+19,Lobsters,debugging,Debugging,Mastering JQ: Part 1,https://codefaster.substack.com/p/mastering-jq-part-1-59c
+20,Lobsters,debugging,Debugging,Debugging a dynamic linking bug in a Nix project,https://www.johnbcoughlin.com/posts/nix-dynamic-linking/
+21,Lobsters,debugging,Debugging,Utility to determine if ELF binary is built with debug sections,https://github.com/sbz/elfdbg
+22,Lobsters,debugging,Debugging,An introduction to Linux kernel initcalls,https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/
+23,Lobsters,debugging,Debugging,Graceful Degradation,https://www.solipsys.co.uk/new/GracefulDegradation.html?tg14lb
+24,Lobsters,debugging,Debugging,Erlang dbg Intro,https://antranigv.am/weblog_en/posts/erlang-dbg-intro/
+25,Lobsters,debugging,Debugging,Major Bug in glibc is Killing Applications With a Memory Limit,https://thehftguy.com/2020/05/21/major-bug-in-glibc-is-killing-applications-with-a-memory-limit/
+26,Lobsters,debugging,Debugging,Effective Debugging of Memory Leaks in Ruby,https://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby
+27,Lobsters,debugging,Debugging,Step-through debugging with no debugger on Cortex-M,https://interrupt.memfault.com/blog/cortex-m-debug-monitor
+28,Lobsters,debugging,Debugging,rd is a record/replay debugger written in rust,https://github.com/sidkshatriya/rd
+29,Lobsters,debugging,Debugging,AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | USENIX,https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
+30,Lobsters,debugging,Debugging,"probe.rs: a modern, embedded debugging toolkit, written in Rust",http://probe.rs/
+31,Lobsters,debugging,Debugging,Shopify/toxiproxy -- framework for simulating network conditions,https://github.com/Shopify/toxiproxy
+32,Lobsters,debugging,Debugging,Let's Debug a Node.js Application,https://blog.heroku.com/debug-node-applications
+33,Lobsters,debugging,Debugging,6 ways to improve your debugging skills,https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/
+34,Lobsters,debugging,Debugging,The GNU GDB Debugger and NetBSD (Part 3),https://blog.netbsd.org/tnf/entry/the_gnu_gdb_debugger_and2
+35,Lobsters,debugging,Debugging,Measuring USB with bpftrace,https://blog.habets.se/2020/08/Measuring-USB-with-bpftrace.html
+36,Lobsters,debugging,Debugging,Julia 1.5 Feature Preview: Time Traveling (Linux) Bug Reporting,https://julialang.org/blog/2020/05/rr/
+37,Lobsters,debugging,Debugging,PEBKAC: How I Spent 2 Days Fixing a Bug that Didn't Exist,https://figbert.com/posts/pebkac-txtodo/
+38,Lobsters,debugging,Debugging,Remake - GNU Make with comprehensible tracing and a debugger,http://bashdb.sourceforge.net/remake/
+39,Lobsters,debugging,Debugging,Automatically detect memory leaks with Puppeteer,https://media-codings.com/articles/automatically-detect-memory-leaks-with-puppeteer
+40,Lobsters,debugging,Debugging,Debugging Incidents in Google's Distributed Systems,https://queue.acm.org/detail.cfm?id=3404974
+41,Lobsters,debugging,Debugging,What debugging technique did it take you entirely too long to learn?,/s/h7f6qk/what_debugging_technique_did_it_take_you
+42,Lobsters,debugging,Debugging,Triplefault: Djordje Todorovic on LLVM and debug information,https://engineering.backtrace.io/posts/2020-07-20-triplefault-1/
+43,Lobsters,debugging,Debugging,Fixing Mass Effect black blobs on modern AMD CPUs,https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/
+44,Lobsters,debugging,Debugging,Mastering JQ: Part 1,https://codefaster.substack.com/p/mastering-jq-part-1-59c
+45,Lobsters,debugging,Debugging,Debugging a dynamic linking bug in a Nix project,https://www.johnbcoughlin.com/posts/nix-dynamic-linking/
+46,Lobsters,debugging,Debugging,Utility to determine if ELF binary is built with debug sections,https://github.com/sbz/elfdbg
+47,Lobsters,debugging,Debugging,An introduction to Linux kernel initcalls,https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/
+48,Lobsters,debugging,Debugging,Graceful Degradation,https://www.solipsys.co.uk/new/GracefulDegradation.html?tg14lb
+49,Lobsters,debugging,Debugging,Erlang dbg Intro,https://antranigv.am/weblog_en/posts/erlang-dbg-intro/
+50,Lobsters,debugging,Debugging,Major Bug in glibc is Killing Applications With a Memory Limit,https://thehftguy.com/2020/05/21/major-bug-in-glibc-is-killing-applications-with-a-memory-limit/
+51,Lobsters,debugging,Debugging,Hunting down a non-determinism-bug in our Rust Wasm build,https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1
+52,Lobsters,debugging,Debugging,Hardware breakpoints and exceptions on Windows,https://ling.re/hardware-breakpoints/
+53,Lobsters,debugging,Debugging,A very simple UDP-to-database logger,https://github.com/borud/simpleton
+54,Lobsters,debugging,Debugging,Debugging an evil Go runtime bug (2017),https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+55,Lobsters,debugging,Debugging,"Syzkaller can be enhanced to find bugs in specific Linux drivers, such as V4L2",https://www.collabora.com/news-and-blog/blog/2020/06/26/using-syzkaller-part-4-driver-fuzzing/
+56,Lobsters,debugging,Debugging,Reverse Engineering Snapchat (Part II): Deobfuscating the Undeobfuscatable,https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html
+57,Lobsters,debugging,Debugging,"Spooky action at a distance, how an AWS outage ate our load balancer",https://www.hostedgraphite.com/blog/spooky-action-at-a-distance-how-an-aws-outage-ate-our-load-balancer
+58,Lobsters,debugging,Debugging,Tracing Kernel Functions: How the illumos AMD64 FBT Provider Intercepts Function Calls,https://zinascii.com/2020/the-amd64-fbt-handler.html
+59,Lobsters,debugging,Debugging,Coding a Single Instance Application the wrong way,https://cookieplmonster.github.io/2020/06/13/single-instance-application-the-wrong-way/
+60,Lobsters,debugging,Debugging,Conversational software development,https://oli.me.uk/conversational-software-development/
+61,Lobsters,debugging,Debugging,Schrödinger’s Packet Drops,https://medium.com/niometrics-tech-blog/schrodingers-packet-drops-e1556af3e228
+62,Lobsters,debugging,Debugging,SQLancer: Detecting Logic Bugs in DBMS,https://github.com/sqlancer/sqlancer
+63,Lobsters,debugging,Debugging,Ultimate Guide to Python Debugging,https://towardsdatascience.com/ultimate-guide-to-python-debugging-854dea731e1b
+64,Lobsters,debugging,Debugging,Fixing a long-standing bug in satellite-based nuclear weapon detectors,https://docs.google.com/document/d/1pyGft-OXrSw1ZPUMZCE0mxG92_xqtzgdanHwkKLpxUQ/edit
+65,Lobsters,debugging,Debugging,Template metaprogramming trick: Get the compiler to tell you what type you have,https://devblogs.microsoft.com/oldnewthing/20200528-00/?p=103804
+66,Lobsters,debugging,Debugging,Using Z3 Theorem on AVR Firmware,https://medium.com/@ryancor/using-z3-theorem-on-avr-firmware-c6d2f45ac9c2
+67,Lobsters,debugging,Debugging,Latency in Asynchronous Python,https://nullprogram.com/blog/2020/05/24/
+68,Lobsters,debugging,Debugging,Detecting Optimization Bugs in Database Engines via Non-Optimizing Reference Engine Construction,https://www.manuelrigger.at/preprints/NoREC.pdf
+69,Lobsters,debugging,Debugging,Infer: Find Races and Deadlocks,https://medium.com/@thomas.dubuisson/infer-find-races-and-deadlocks-e9e33c4091f7
+70,Lobsters,debugging,Debugging,Using syzkaller: fuzzing your changes,https://www.collabora.com/news-and-blog/blog/2020/05/12/using-syzkaller-fuzzing-your-changes/
+71,Lobsters,debugging,Debugging,Fuzzing Firefox with WebIDL,https://hacks.mozilla.org/2020/04/fuzzing-with-webidl/
+72,Lobsters,debugging,Debugging,GDI leaks and the importance of luck,https://randomascii.wordpress.com/2020/05/10/gdi-leaks-and-the-importance-of-luck/
+73,Lobsters,debugging,Debugging,Open-source Web debugging proxy alternative to Charles,https://github.com/alibaba/lightproxy
+74,Lobsters,debugging,Debugging,The root cause of a crash,http://boston.conman.org/2020/05/06.1
+75,Lobsters,debugging,Debugging,The GNU GDB Debugger and NetBSD (Part 2),https://blog.netbsd.org/tnf/entry/the_gnu_gdb_debugger_and1
+76,Lobsters,debugging,Debugging,Cracking Age of Empires III over shader quality settings,https://medium.com/@lancelot.deferriere/cracking-age-of-empires-iii-over-shader-quality-settings-7f729528cf1d
+77,Lobsters,debugging,Debugging,Why strace doesn't work in Docker,https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/
+78,Lobsters,debugging,Debugging,Bug stories,http://beza1e1.tuxen.de/lore/index.html
+79,Lobsters,debugging,Debugging,Hunting a Linux kernel bug,https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
+80,Lobsters,debugging,Debugging,What can space botany teach us about debugging software?,https://chelseatroy.com/2020/04/16/lessons-from-space-debugging-plants/
+81,Lobsters,debugging,Debugging,spiermar/d3-flame-graph - A D3.js plugin that produces flame graphs from hierarchical data,https://github.com/spiermar/d3-flame-graph
+82,Lobsters,debugging,Debugging,Debugging Distributed Systems,https://dl.acm.org/doi/pdf/10.1145/2927299.2940294
+83,Lobsters,debugging,Debugging,Key Visualizer: Observe Distributed Databases to Discover the Unknowns,https://pingcap.com/blog/observe-distributed-databases-to-discover-unknowns/
+84,Lobsters,debugging,Debugging,The saddest script I ever wrote,http://blog.snailtext.com/posts/the-saddest-script-i-ever-wrote.html
+85,Lobsters,debugging,Debugging,Debugging Bash scripts,https://advancedweb.hu/debugging-bash-scripts/
+86,Lobsters,debugging,Debugging,A QQGameHall storm,https://daniel.haxx.se/blog/2020/04/09/a-qqgamehall-storm/
+87,Lobsters,debugging,Debugging,Debugging embedded C (1988),https://www.embedded.com/debugging-embedded-c/
+88,Lobsters,debugging,Debugging,"When debugging, your attitude matters",https://jvns.ca/blog/debugging-attitude-matters/
+89,Lobsters,debugging,Debugging,How many warnings should your JavaScript app have?,https://gist.github.com/laurent22/bbe965c3321f4d49a605e95219b37661
+90,Lobsters,debugging,Debugging,SilentPatch for Scarface: The World is Yours & launching a Patreon campaign,https://cookieplmonster.github.io/2020/03/29/silentpatch-scarface/
+91,Lobsters,debugging,Debugging,Read your own .note.gnu.build-id,https://github.com/mattst88/build-id
+92,Lobsters,debugging,Debugging,Discord Incident Report (March 16 Outage),https://status.discordapp.com/incidents/62gt9cgjwdgf
+93,Lobsters,debugging,Debugging,How to use Sysprof to…,https://blogs.gnome.org/chergert/2020/03/14/how-to-use-sysprof-to/
+94,Lobsters,debugging,Debugging,Tracing D Applications,https://dlang.org/blog/2020/03/13/tracing-d-applications/
+95,Lobsters,debugging,Debugging,"Creating a Public Symbol Server, Easily",https://randomascii.wordpress.com/2020/03/14/creating-a-public-symbol-server-easily/
+96,Lobsters,debugging,Debugging,The Missing Fundamental,https://blog.testdouble.com/posts/2020-03-10-the-missing-fundamental/
+97,Lobsters,debugging,Debugging,The character that swallowed a week,https://nibblestew.blogspot.com/2020/03/the-character-that-swallowed-week.html
+98,Lobsters,debugging,Debugging,How hard is it to guide test case generators with branch coverage feedback?,https://engineering.backtrace.io/posts/2020-03-11-how-hard-is-it-to-guide-test-case-generators-with-branch-coverage-feedback/
+99,Lobsters,debugging,Debugging,Towards backtracing through signal trampolines and fresh libc++,https://blog.netbsd.org/tnf/entry/towards_backtracing_through_signal_trampolines
+100,Lobsters,debugging,Debugging,Debugging Gdb Using rr: Ptrace Emulation,https://robert.ocallahan.org/2020/03/debugging-gdb-using-rr-ptrace-emulation.html
+101,Lobsters,debugging,Debugging,Post-Mortem Python Plotting,https://andyljones.com/posts/post-mortem-plotting.html
+102,Lobsters,debugging,Debugging,My new favorite vim/tmux bug (2014),http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/
+103,Lobsters,debugging,Debugging,How a broken memory module hid in plain sight - and how I blamed the Linux Kernel and two innocent hard drives,https://chollinger.com/blog/2020/02/how-a-broken-memory-module-hid-in-plain-sight-and-how-i-blamed-the-linux-kernel-and-two-innocent-hard-drives/
+104,Lobsters,debugging,Debugging,Software testers see indications of failure before anyone else. Here's their warning signs,https://www.functionize.com/blog/from-the-qa-trenches-6-signs-of-project-success-or-failure/
+105,Lobsters,debugging,Debugging,Challenge: Help the Firefox Graphics team track down an interesting WebRender bug,https://mozillagfx.wordpress.com/2020/02/18/challenge-snitch-on-the-glitch-help-the-graphics-team-track-down-an-interesting-webrender-bug/
+106,Lobsters,debugging,Debugging,The Glitch Gallery: an online exhibition of pretty software bugs,https://glitchgallery.org/
+107,Lobsters,debugging,Debugging,"Leveraging the ""Display Server"" to Improve Debugging",https://arcan-fe.com/2020/02/10/leveraging-the-display-server-to-improve-debugging/
+108,Lobsters,debugging,Debugging,Approaching the end of work on ptrace(2),https://blog.netbsd.org/tnf/entry/approaching_the_end_of_work
+109,Lobsters,debugging,Debugging,Web Replay,https://webreplay.io
+110,Lobsters,debugging,Debugging,LLDB now works on i386,https://blog.netbsd.org/tnf/entry/lldb_now_works_on_i386
+111,Lobsters,debugging,Debugging,Profiling and Tracing the Nanos Unikernel,https://nanovms.com/dev/tutorials/profiling-and-tracing-nanos-unikernel
+112,Lobsters,debugging,Debugging,Watching for software inefficiencies with Valgrind,https://kristerw.blogspot.com/2020/02/watching-for-software-inefficiencies.html
+113,Lobsters,debugging,Debugging,Too much locality... for stores to forward,https://www.pvk.ca/Blog/2020/02/01/too-much-locality-for-store-forwarding/
+114,Lobsters,debugging,Debugging,"Emulator bug? No, LLVM bug",https://cookieplmonster.github.io/2020/02/01/emulator-bug-llvm-bug/
+115,Lobsters,debugging,Debugging,Collecting and analyzing memory dumps,https://devblogs.microsoft.com/dotnet/collecting-and-analyzing-memory-dumps/
+116,Lobsters,debugging,Debugging,GDB Custom Commands: Dynamic Arrays,https://testfit.io/devblog/gdb_custom_commands_dynamic_arrays
+117,Lobsters,debugging,Debugging,"A deep dive into the Apollo Guidance Computer, and the hack that saved Apollo 14",https://arstechnica.com/science/2020/01/a-deep-dive-into-the-apollo-guidance-computer-and-the-hack-that-saved-apollo-14/
+118,Lobsters,debugging,Debugging,yabfig: a gdb-like debugger for Brainfuck,https://humaidq.ae/projects/yabfig/
+119,Lobsters,debugging,Debugging,Working towards LLDB on i386,https://blog.netbsd.org/tnf/entry/working_towards_lldb_on_i386
+120,Lobsters,debugging,Debugging,Debugging Through WebAssembly Is Impossible,https://erikmcclure.com/blog/debugging-through-webassembly-is-impossible/
+121,Lobsters,debugging,Debugging,BattlEye single stepping,https://vmcall.blog/battleye-kernel-single-step/
+122,Lobsters,debugging,Debugging,Lucidity – an interactive program-state visualizer,http://symbolflux.com/luciditystory.html
+123,Lobsters,debugging,Debugging,AWS S3: You’re out of order,https://m.signalvnoise.com/aws-s3-youre-out-of-order/
+124,Lobsters,debugging,Debugging,Reversing Web Assembly (WASM),https://anee.me/reversing-web-assembly-wasm-dd59eb2a52d4
+125,Lobsters,debugging,Debugging,PoSD 2: What causes insidious bugs?,https://chelseatroy.com/2019/12/30/posd-2-what-causes-insidious-bugs/
+126,Lobsters,debugging,Debugging,PFAB#6: Real-world debugging practice,https://robertheaton.com/2019/12/28/pfab6-real-world-debugging-practice/
+127,Lobsters,debugging,Debugging,Dissecting Linux Kernel Code,https://finnoleary.net/kernel-code.html
+128,Lobsters,debugging,Debugging,"Clang build bot now uses two-stage builds, and other LLVM/LLDB news",https://blog.netbsd.org/tnf/entry/clang_build_bot_now_usage
+129,Lobsters,debugging,Debugging,BPF: A New Type of Software,http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html
+130,Lobsters,debugging,Debugging,Firefox Replay,https://firefox-replay.com/
+131,Lobsters,debugging,Debugging,Troubleshooting with Wireshark: The Case of the TCP Challenge ACK,https://www.networkdefenseblog.com/post/wireshark-tcp-challenge-ack
+132,Lobsters,debugging,Debugging,Your Debugger Sucks,https://robert.ocallahan.org/2019/11/your-debugger-sucks.html
+133,Lobsters,debugging,Debugging,Debugging network stalls on Kubernetes,https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/
+134,Lobsters,debugging,Debugging,TLA+ Video Course by Leslie Lamport,https://lamport.azurewebsites.net/video/videos.html
+135,Lobsters,debugging,Debugging,Rust Bug Minimization Patterns,http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
+136,Lobsters,debugging,Debugging,Moldable tools; a book and a movement,http://blog.rfox.eu/Bystroushaak%20s%20blog/English%20section/Moldable%20tools%20a%20book%20and%20a%20movement.html
+137,Lobsters,debugging,Debugging,"gprof, Valgrind and gperftools - an evaluation of some tools for application level CPU profiling",http://gernotklingler.com/blog/gprof-valgrind-gperftools-evaluation-tools-application-level-cpu-profiling-linux/
+138,Lobsters,debugging,Debugging,LLDB Threading support now ready for mainline,http://blog.netbsd.org/tnf/entry/lldb_threading_support_now_ready
+139,Lobsters,debugging,Debugging,How We Spotted and Fixed a Performance Degradation in Our Python Code,https://blog.redash.io/how-we-spotted-and-fixed-a-performance-degradation-in-our-python-code/
+140,Lobsters,debugging,Debugging,Stabilization of the ptrace(2) threads continued,http://blog.netbsd.org/tnf/entry/stabilization_of_the_ptrace_21
+141,Lobsters,debugging,Debugging,KTRW: The journey to build a debuggable iPhone,https://googleprojectzero.blogspot.com/2019/10/ktrw-journey-to-build-debuggable-iphone.html
+142,Lobsters,debugging,Debugging,Pernosco Demo Video,https://robert.ocallahan.org/2019/10/pernosco-demo-video.html
+143,Lobsters,debugging,Debugging,Fixing a corrupt sqlite3 database with vbindiff,https://www.härdin.se/blog/2019/10/20/fixing-a-corrupt-sqlite3-database-with-vbindiff/
+144,Lobsters,debugging,Debugging,GCP Goodies Part 8— Stackdriver debugging,https://blog.softwaremill.com/gcp-goodies-part-8-stackdriver-debugging-f4a8af6cec14
+145,Lobsters,debugging,Debugging,gdb-colour-filter: Colorify gdb backtrace,https://github.com/daskol/gdb-colour-filter
+146,Lobsters,debugging,Debugging,ratio of bugs per line of code,https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio
+147,Lobsters,debugging,Debugging,Firefox’s New WebSocket Inspector,https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/
+148,Lobsters,debugging,Debugging,Bypass McAfee with McAfee,https://dmaasland.github.io/posts/mcafee.html
+149,Lobsters,debugging,Debugging,Stabilization of the ptrace(2) threads,http://blog.netbsd.org/tnf/entry/stabilization_of_the_ptrace_2
+150,Lobsters,debugging,Debugging,An Old Bug,https://blog.npmjs.org/post/186190819147/an-old-bug
+151,Lobsters,debugging,Debugging,Threading support in LLDB continued,http://blog.netbsd.org/tnf/entry/threading_support_in_lldb_continued
+152,Lobsters,debugging,Debugging,GNU Tools Cauldron 2019,http://www.youtube.com/playlist?list=PL_GiHdX17Wtx2Bu1O_bREetZZv4moIaRi
+153,Lobsters,debugging,Debugging,When exceptions collide,https://www.arangodb.com/2019/09/when-exceptions-collide/
+154,Lobsters,debugging,Debugging,Taking NetBSD kernel bug roast to the next level: Kernel Fuzzers (quick A.D. 2019 overview),http://netbsd.org/~kamil/eurobsdcon2019_fuzzing/presentation.html
+155,Lobsters,debugging,Debugging,Using GDB in Emacs,https://undo.io/resources/gdb-resource-portal/gdb-watchpoint/using-gdb-emacs/
+156,Lobsters,debugging,Debugging,eBPF support for GCC,https://gcc.gnu.org/ml/gcc-patches/2019-08/msg01987.html
+157,Lobsters,debugging,Debugging,LLVM santizers and GDB regression test suite,https://blog.netbsd.org/tnf/entry/llvm_santizers_and_gdb_regression
+158,Lobsters,debugging,Debugging,Open source smart file comparison tool,https://github.com/madushadhanushka/differ
+159,Lobsters,debugging,Debugging,"How four rotten packets broke CenturyLink's network for 37 hours, knackering 911 calls, VoIP, broadband",https://www.theregister.co.uk/2019/08/20/centurylink_outage_report_fcc/
+160,Lobsters,debugging,Debugging,Debug Adapter Protocol,https://microsoft.github.io/debug-adapter-protocol/debug-adapter-protocol/
+161,Lobsters,debugging,Debugging,How Facebook Catches Bugs in Its 100 Million Lines of Code,https://www.wired.com/story/facebook-zoncolan-static-analysis-tool/
+162,Lobsters,debugging,Debugging,Getting the GNU gdbserver to work,https://blog.netbsd.org/tnf/entry/getting_the_gnu_gdbserver_to
+163,Lobsters,debugging,Debugging,Bryan Cantrill on tail -f (2013),https://www.youtube.com/watch?v=vm1GJMp0QN4&t=2460
+164,Lobsters,debugging,Debugging,Fast and flexible observability with canonical log lines,https://stripe.com/gb/blog/canonical-log-lines
+165,Lobsters,debugging,Debugging,A Deep Dive into ARM Cortex-M Debug Interfaces,https://interrupt.memfault.com/blog/a-deep-dive-into-arm-cortex-m-debug-interfaces
+166,Lobsters,debugging,Debugging,The Compact C Type Format in the GNU toolchain,https://lwn.net/SubscriberLink/795384/6f053c2605b27665/
+167,Lobsters,debugging,Debugging,A Python prompt into a running process: debugging with Manhole,https://pythonspeed.com/articles/live-debugging-python/
+168,Lobsters,debugging,Debugging,Work-in-progress threading support in LLDB,https://blog.netbsd.org/tnf/entry/work_in_progress_threading_support
+169,Lobsters,debugging,Debugging,Crashing DInput8 DLL with two lines of code,https://cookieplmonster.github.io/2019/08/02/win10-dinput8-crash/
+170,Lobsters,debugging,Debugging,A Practical Guide to (Correctly) Troubleshooting with Traceroute,https://archive.nanog.org/meetings/nanog47/presentations/Sunday/RAS_Traceroute_N47_Sun.pdf
+171,Lobsters,debugging,Debugging,Postgres tips for the average and power user,https://www.citusdata.com/blog/2019/07/17/postgres-tips-for-average-and-power-user/
+172,Lobsters,debugging,Debugging,"Toski: Scheme IDE with ""preview execution""",https://kennethfriedman.org/projects/toski/
+173,Lobsters,debugging,Debugging,Tarot for Hackers,https://christine.website/blog/tarot-for-hackers-2019-07-24
+174,Lobsters,debugging,Debugging,Pyrasite: tools for injecting code into running Python processes,http://pyrasite.com/
+175,Lobsters,debugging,Debugging,Cloud Performance Root Cause Analysis at Netflix (2018),https://www.youtube.com/watch?v=03EC8uA30Pw
+176,Lobsters,debugging,Debugging,Debugging in production,https://jbd.dev/prod-debugging/
+177,Lobsters,debugging,Debugging,"Kubernetes, etcd and disk throughput",https://blog.bejarano.io/kubernetes-etcd-and-disk-throughput.html
+178,Lobsters,debugging,Debugging,Library to work with ebpf from Go,https://github.com/dropbox/goebpf
+179,Lobsters,debugging,Debugging,"LLDB: watchpoints, XSTATE in ptrace() and core dumps",http://blog.netbsd.org/tnf/entry/lldb_watchpoints_xstate_in_ptrace
+180,Lobsters,debugging,Debugging,Distributed Tracing — we’ve been doing it wrong,https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df
+181,Lobsters,debugging,Debugging,Code Coverage and Post-Release Defects: A Large Scale Study on Open Source Projects,https://hal.inria.fr/hal-01653728/document
+182,Lobsters,debugging,Debugging,MsgWaitForMultipleObjects and the queue state,https://devblogs.microsoft.com/oldnewthing/20050217-00/?p=36423
+183,Lobsters,debugging,Debugging,"The Day ""/proc"" Died",https://rkeene.org/projects/info/wiki/173
+184,Lobsters,debugging,Debugging,Automate Debugging with GDB Python API,https://interrupt.memfault.com/blog/automate-debugging-with-gdb-python-api
+185,Lobsters,debugging,Debugging,Debugging: appearances vs. reality,https://twitter.com/trptcolin/status/1129850896966406145
+186,Lobsters,debugging,Debugging,Single-stepping through the Kernel,https://www.anmolsarma.in/post/single-step-kernel/
+187,Lobsters,debugging,Debugging,"Dapper, a Large-Scale Distributed Systems Tracing Infrastructure",https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf
+188,Lobsters,debugging,Debugging,What does debugging a program look like?,https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/
+189,Lobsters,debugging,Debugging,GCC gOlogy: studying the impact of optimizations on debugging,http://www.fsfla.org/~lxoliva/writeups/gOlogy/gOlogy.txt
+190,Lobsters,debugging,Debugging,Our Workflows with Address Sanitizer and Valgrind,https://engineering.backtrace.io/posts/sanitizers/
+191,Lobsters,debugging,Debugging,The bug I wish I hadn’t caught,https://roganmurley.com/2019/06/08/the-bug.html
+192,Lobsters,debugging,Debugging,XSAVE and compat32 kernel work for LLDB,https://blog.netbsd.org/tnf/entry/xsave_and_compat32_kernel_work
+193,Lobsters,debugging,Debugging,Validation and improvements of debugging interfaces,https://blog.netbsd.org/tnf/entry/validation_and_improvements_of_debugging
+194,Lobsters,debugging,Debugging,"Property-Based Testing in a Screencast Editor, Case Study 3: Integration Testing",https://wickstrom.tech/programming/2019/06/02/property-based-testing-in-a-screencast-editor-case-study-3.html
+195,Lobsters,debugging,Debugging,Dolphin Progress Report: May 2019,https://dolphin-emu.org/blog/2019/06/02/dolphin-progress-report-may-2019/
+196,Lobsters,debugging,Debugging,Profiling GNOME Shell,https://feaneron.com/2019/05/31/profiling-gnome-shell/
+197,Lobsters,debugging,Debugging,A Journey Into the Ether: Debugging Star Microcode,https://engblg.livingcomputers.org/index.php/2019/03/29/833/
+198,Lobsters,debugging,Debugging,Exploring Python Using GDB,https://stripe.com/blog/exploring-python-using-gdb
+199,Lobsters,debugging,Debugging,Debugging Firmware with GDB,https://interrupt.memfault.com/blog/gdb-for-firmware-1
+200,Lobsters,debugging,Debugging,Building better software with better tools: sanitizers versus valgrind,https://lemire.me/blog/2019/05/16/building-better-software-with-better-tools-sanitizers-versus-valgrind/
+201,Lobsters,debugging,Debugging,Debugging in Vim,https://www.dannyadam.com/blog/2019/05/debugging-in-vim/
+202,Lobsters,debugging,Debugging,"ZIO adds asynchronous stack traces, full execution traces & fiber ancestry traces",https://www.slideshare.net/jdegoes/error-management-future-vs-zio
+203,Lobsters,debugging,Debugging,Professional debugging for IoT with Particle Workbench: going beyond Serial.print(),https://blog.particle.io/2019/05/03/professional-debugging-for-iot-with-particle-workbench-going-beyond-serial-print/
+204,Lobsters,debugging,Debugging,docker-debug tool that attach to an already run container,https://github.com/zeromake/docker-debug
+205,Lobsters,debugging,Debugging,A Recipe for Training Neural Networks,http://karpathy.github.io/2019/04/25/recipe/
+206,Lobsters,debugging,Debugging,5 Tasks You Didn't Know Could be Done from the Developer Console,https://www.256kilobytes.com/content/show/10378/5-tasks-you-didnt-know-could-be-done-from-the-developer-console
+207,Lobsters,debugging,Debugging,Property-Based Testing in a Screencast Editor: Video Scene Classification,https://wickstrom.tech/programming/2019/04/17/property-based-testing-in-a-screencast-editor-case-study-2.html
+208,Lobsters,debugging,Debugging,Improving Key Expiration in Redis,https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html
+209,Lobsters,debugging,Debugging,Crash early and crash often for more reliable software,https://medium.com/@mattklein123/crash-early-and-crash-often-for-more-reliable-software-597738dd21c5
+210,Lobsters,debugging,Debugging,Introducing Time Travel Debugging for Visual Studio Enterprise 2019,https://devblogs.microsoft.com/visualstudio/introducing-time-travel-debugging-for-visual-studio-enterprise-2019/
+211,Lobsters,debugging,Debugging,Dev console trick: selector helpers,https://gomakethings.com/dev-console-trick-selector-helpers/
+212,Lobsters,debugging,Debugging,Show some love to Node.js process errors,https://github.com/ehmicky/log-process-errors
+213,Lobsters,debugging,Debugging,Chaos Engineering with the GraphQL API,https://blog.newrelic.com/engineering/graphql-chaos-engineering/
+214,Lobsters,debugging,Debugging,How to Debug Rust with Visual Studio Code,https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/
+215,Lobsters,debugging,Debugging,"Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all",https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
+216,Lobsters,debugging,Debugging,DTrace on Windows,https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902
+217,Lobsters,debugging,Debugging,Debugging experience in Debian,https://michael.stapelberg.ch/posts/2019-02-15-debian-debugging-devex/
+218,Lobsters,debugging,Debugging,A brief introduction to SystemTap,http://www.linux.it/~ema/systemtap-intro.html
+219,Lobsters,debugging,Debugging,Debugging in RubyBusting a Year-old Bug in Sprockets,https://blog.heroku.com/debugging-year-old-sprockets-bug
+220,Lobsters,debugging,Debugging,LLDB from trunk is running on NetBSD once again,https://blog.netbsd.org/tnf/entry/lldb_from_trunk_is_running
+221,Lobsters,debugging,Debugging,Retrieving function arguments while unwinding the stack,http://nikhilism.com/post/2019/retrieving-function-arguments-while-unwinding-the-stack/
+222,Lobsters,debugging,Debugging,Fixing an airline app bug for fun and profit,https://pmatias.me/2019-02/fixing-airline-app-fun-profit/
+223,Lobsters,debugging,Debugging,gamozolabs/mesos | Binary coverage tool without binary modification for Windows,https://github.com/gamozolabs/mesos
+224,Lobsters,debugging,Debugging,Can You Find The Bug in This Code?,https://victorzhou.com/blog/a-javascript-bug-i-had-once
+225,Lobsters,debugging,Debugging,"The Intel 80386, part 14: Rescuing a stack trace after the debugger gave up when it reached an FPO f",https://blogs.msdn.microsoft.com/oldnewthing/20190207-00/?p=100885
+226,Lobsters,debugging,Debugging,"Reverse engineering of a mobile game, part 2: they updated, we dumped memory",https://medium.com/@xplodwild/reverse-engineering-of-a-mobile-game-part-2-they-updated-we-dumped-memory-27046efdfb85
+227,Lobsters,debugging,Debugging,When your Memory Allocator hides Security Bugs,https://blog.fuzzing-project.org/65-When-your-Memory-Allocator-hides-Security-Bugs.html
+228,Lobsters,debugging,Debugging,C++ Compile-Time Exceptions -- Debugging C++ templates should be less surreal and horrible,https://blog.esciencecenter.nl/c-compile-time-exceptions-5443f5bf06fe
+229,Lobsters,debugging,Debugging,One-bit catastrophe,https://semidoc.github.io/lagarde-catastrophe
+230,Lobsters,debugging,Debugging,Best engineering practices: how to fix a bug?,https://dev.to/wemake-services/best-engineering-practices-how-to-fix-a-bug-58g5
+231,Lobsters,debugging,Debugging,The night of a cascading failure,https://rachelbythebay.com/w/2019/01/20/quiet/
+232,Lobsters,debugging,Debugging,Operable Software,https://ferd.ca/operable-software.html
+233,Lobsters,debugging,Debugging,The Curious Case of the 99.9% Latency Hike,https://mahdytech.com/2019/01/13/curious-case-999-latency-hike/
+234,Lobsters,debugging,Debugging,"Secret Writer's Society, the best way to swear at children in 1998",https://obscuritory.com/educational/secret-writers-society/
+235,Lobsters,debugging,Debugging,Optimising startup time of Prometheus 2.6.0 with pprof,https://www.robustperception.io/optimising-startup-time-of-prometheus-2-6-0-with-pprof
+236,Lobsters,debugging,Debugging,Tracing a closed-source Linux-binary behavior,https://medium.com/cloud-niners/tracing-a-closed-source-linux-binary-behavior-5dc0bc2db641
+237,Lobsters,debugging,Debugging,Retro debugging,https://wozniak.ca/blog/2019/01/04/Retro-debugging/index.html
+238,Lobsters,debugging,Debugging,Causal logging for distributed scientific computing with Eliot and Dask,https://eliot.readthedocs.io/en/stable/usecases/scientific-computing.html
+239,Lobsters,debugging,Debugging,The case of the orphaned critical section despite being managed by an RAII type,https://blogs.msdn.microsoft.com/oldnewthing/20181228-00/?p=100585
+240,Lobsters,debugging,Debugging,Attaching sources to iOS/macOS binaries compiled on another machine,https://medium.com/@maxraskin/background-1b4b6a9c65be
+241,Lobsters,debugging,Debugging,"Beagle from scratch, or: adventures in JTAG, part 1 (2014)",http://www.shrike-systems.com/beagle-from-scratch-or-adventures-in-jtag-part-1.html
+242,Lobsters,debugging,Debugging,How I wound up finding a bug in GNU Tar,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TarFindingTruncateBug
+243,Lobsters,debugging,Debugging,A Meta-Programming Technique for Debugging Answer-Set Programs,https://publik.tuwien.ac.at/files/PubDat_167810.pdf
+244,Lobsters,debugging,Debugging,War Story – The Mystery Of The Very Long GC Pauses in .NET Windows Service,http://tooslowexception.com/scenario-mystery-of-the-very-long-gc-pauses-in-net-windows-service/
+245,Lobsters,debugging,Debugging,Common term for 'debugging' and 'tracing',/s/pjxekw/common_term_for_debugging_tracing
+246,Lobsters,debugging,Debugging,When Your Profiler Lies,https://randomascii.wordpress.com/2018/12/09/when-your-profiler-lies/
+247,Lobsters,debugging,Debugging,Kernel (kprobes)-based System Call Tracer (2017),https://github.com/bytefire/esct
+248,Lobsters,debugging,Debugging,Debugging a Non Reproducible Crash,https://blog.bam.tech/developper-news/debugging-a-non-reproducible-crash
+249,Lobsters,debugging,Debugging,Network debugging with eBPF,https://developers.redhat.com/blog/2018/12/03/network-debugging-with-ebpf/
+250,Lobsters,debugging,Debugging,Enhancing the Linux kernel with BTF type information,https://facebookmicrosites.github.io/bpf/blog/2018/11/14/btf-enhancement.html
+251,Lobsters,debugging,Debugging,Viewing Python execution with source code rewriting,http://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
+252,Lobsters,debugging,Debugging,The art of debugging — or how it took me 3 years to fix my PC,https://medium.com/@reinmarpl/the-art-of-debugging-or-how-it-took-me-3-years-to-fix-my-pc-23a9f7ec1426
+253,Lobsters,debugging,Debugging,Compiling C# to WASM with Mono and Blazor then Debugging .NET Source with Remote Debugging in Chrome,https://www.hanselman.com/blog/CompilingCToWASMWithMonoAndBlazorThenDebuggingNETSourceWithRemoteDebuggingInChromeDevTools.aspx
+254,Lobsters,debugging,Debugging,Programming Servo: A background-hang-monitor,https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1
+255,Lobsters,debugging,Debugging,Comparing The Quality Of Debug Information Produced By Clang And Gcc,https://robert.ocallahan.org/2018/11/comparing-quality-of-debug-information.html
+256,Lobsters,debugging,Debugging,Specification gaming examples in AI - master list,https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml
+257,Lobsters,debugging,Debugging,Defensive programming can hide bugs,http://boston.conman.org/2018/11/06.1
+258,Lobsters,debugging,Debugging,How Facebook tools learn to fix bugs automatically,https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/
+259,Lobsters,debugging,Debugging,iPhones are Allergic to Helium,https://ifixit.org/blog/11986/iphones-are-allergic-to-helium/
+260,Lobsters,debugging,Debugging,SYN packet handling in the wild,https://blog.cloudflare.com/syn-packet-handling-in-the-wild/
+261,Lobsters,debugging,Debugging,REPT: reverse debugging of failures in deployed software,https://blog.acolyer.org/2018/10/17/rept-reverse-debugging-of-failures-in-deployed-software/
+262,Lobsters,debugging,Debugging,"I can’t type properly when the game is minimized, why?",https://cookieplmonster.github.io/2018/10/12/i-cant-type-when-the-game-is-minimized/
+263,Lobsters,debugging,Debugging,Announcing BuildInfer for C++,https://medium.com/@buckaroo.pm/announcing-buildinfer-for-c-3dfa3eb15feb
+264,Lobsters,debugging,Debugging,CrashDB,https://github.com/gunnihinn/crashdb
+265,Lobsters,debugging,Debugging,bpftrace (DTrace 2.0) for Linux 2018,http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html
+266,Lobsters,debugging,Debugging,"FE engineers, how do you debug on IE?",/s/ehskgj/fe_engineers_how_do_you_debug_on_ie
+267,Lobsters,debugging,Debugging,Debugging designs with TLA+,http://muratbuffalo.blogspot.com/2018/10/debugging-designs-with-tla.html
+268,Lobsters,debugging,Debugging,Fixing a bug in an 18 year old Shockwave game,https://mattbruv.github.io/ccsr-bugfix/
+269,Lobsters,debugging,Debugging,That One Bug,https://blog.mmorpgtycoon.com/post/obsessions/
+270,Lobsters,debugging,Debugging,Accurately measuring layout on the web,https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/
+271,Lobsters,debugging,Debugging,A cache invalidation bug in Linux memory management,https://googleprojectzero.blogspot.com/2018/09/a-cache-invalidation-bug-in-linux.html
+272,Lobsters,debugging,Debugging,How I ended up writing opensnoop in pure C using eBPF,https://bolinfest.github.io/opensnoop-native/
+273,Lobsters,debugging,Debugging,"Illegal streams, decrypting m3u8's, and building a better stream experience",https://blog.jonlu.ca/posts/illegal-streams
+274,Lobsters,debugging,Debugging,All programmers must learn C and Assembly (2017),https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
+275,Lobsters,debugging,Debugging,An awesome new Python profiler: py-spy,https://jvns.ca/blog/2018/09/08/an-awesome-new-python-profiler--py-spy-/
+276,Lobsters,debugging,Debugging,Sega bass fishing - bad polys,https://www.supermodel3.com/Forum/viewtopic.php?f=7&t=1561#p15251
+277,Lobsters,debugging,Debugging,Service provider story about tracking down TCP RSTs,https://mailman.nanog.org/pipermail/nanog/2018-September/096871.html
+278,Lobsters,debugging,Debugging,Assertions in Production Code? (2008),http://www.drdobbs.com/architecture-and-design/assertions-in-production-code/228700788
+279,Lobsters,debugging,Debugging,Better Geometry Through Graph Theory,http://ideolalia.com/2018/08/28/artifex.html
+280,Lobsters,debugging,Debugging,Beej's Quick Guide to GDB,https://beej.us/guide/bggdb/
+281,Lobsters,debugging,Debugging,24-core CPU and I can’t type an email (part two),https://randomascii.wordpress.com/2018/08/22/24-core-cpu-and-i-cant-type-an-email-part-two/
+282,Lobsters,debugging,Debugging,Monitoring and Observability in the .NET Runtime,http://www.mattwarren.org/2018/08/21/Monitoring-and-Observability-in-the-.NET-Runtime/
+283,Lobsters,debugging,Debugging,24-core CPU and I can’t type an email (part one),https://randomascii.wordpress.com/2018/08/16/24-core-cpu-and-i-cant-type-an-email-part-one/
+284,Lobsters,debugging,Debugging,Fairytale about performance in web application,https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc
+285,Lobsters,debugging,Debugging,Art of debugging with Chrome DevTools,https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4
+286,Lobsters,debugging,Debugging,A timesyncd total failure and systemd's complete lack of debugability,https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTimesyncdFailure
+287,Lobsters,debugging,Debugging,Floating (point) butterfly effect: Searching for tiny bugs that cause big problems,https://blog.esciencecenter.nl/floating-point-butterfly-effect-62ebe004200f
+288,Lobsters,debugging,Debugging,NaNs cause the craziest bugs,https://tomforsyth1000.github.io/blog.wiki.html#[[NaNs%20cause%20the%20craziest%20bugs]]
+289,Lobsters,debugging,Debugging,Please Provide an Example App,https://www.codetriage.com/example_app
+290,Lobsters,debugging,Debugging,Firefox Nightly just got time-travel debugging,https://gist.github.com/jasonLaster/1e220992c294a571dd9b59abd084ccf2
+291,Lobsters,debugging,Debugging,WebReplay: Time Travel Debugging for Firefox,https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay
+292,Lobsters,debugging,Debugging,Git Aliases & Shell,https://bridge.grumpy-troll.org/2018/07/git-aliases-shell/
+293,Lobsters,debugging,Debugging,Ndb – An improved debugging experience for Node.js,https://github.com/GoogleChromeLabs/ndb
+294,Lobsters,debugging,Debugging,Fixing the core memory in a vintage IBM 1401 mainframe (2015),http://www.righto.com/2015/10/repairing-50-year-old-mainframe-inside.html
+295,Lobsters,debugging,Debugging,"Testing with Autotools, Valgrind, and Gcov",http://ansuz.sooke.bc.ca/entry/233
+296,Lobsters,debugging,Debugging,Why Isn't Debugging Treated As A First-Class Activity?,https://robert.ocallahan.org/2018/07/why-isnt-debugging-treated-as-first.html
+297,Lobsters,debugging,Debugging,"Making a low level (Linux) debugger, part 3: our first program",https://blog.asrpo.com/making_a_low_level_debugger_part_3
+298,Lobsters,debugging,Debugging,Timeless Debugging of Complex Software,https://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/
+299,Lobsters,debugging,Debugging,Making a low level (Linux) debugger part 2: C,https://blog.asrpo.com/making_a_low_level_debugger_part_2
+300,Lobsters,debugging,Debugging,Compiler Explorer (think CodePen for C(++)/D/Go/Rust/Swift/Haskell disassembly),https://gcc.godbolt.org/
+301,Lobsters,debugging,Debugging,Sed: a debugging story,https://www.fpcomplete.com/blog/2018/06/sed-a-debugging-story
+302,Lobsters,debugging,Debugging,How I use Wireshark,https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/
+303,Lobsters,debugging,Debugging,Why Skylake CPUs Are Sometimes 50% Slower – How Intel Has Broken Existing Code,https://aloiskraus.wordpress.com/2018/06/16/why-skylakex-cpus-are-sometimes-50-slower-how-intel-has-broken-existing-code/
+304,Lobsters,debugging,Debugging,Tools for Exploring .NET Internals,http://www.mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/
+305,Lobsters,debugging,Debugging,Making a low level (Linux) debugger,https://blog.asrpo.com/making_a_low_level_debugger
+306,Lobsters,debugging,Debugging,The Great Bug Hunt,https://allenpike.com/2018/the-great-bug-hunt/
+307,Lobsters,debugging,Debugging,Using Skylight to Solve Real-World Performance Problems [Part III: Code Triage],http://blog.skylight.io/using-skylight-to-solve-real-world-performance-problems-part-3-code-triage/
+308,Lobsters,debugging,Debugging,OpenBSD Kernel Internals — Creation of process from user-space to kernel space.,https://medium.com/@_neerajpal/openbsd-kernel-internals-creation-of-process-from-user-space-to-kernel-space-31a504389f87
+309,Lobsters,debugging,Debugging,The Case of the Phantom Caller,https://www.gimletmedia.com/reply-all/104-case-phantom-caller
+310,Lobsters,debugging,Debugging,Autotrace – Debug on Steroids,https://zwischenzugs.com/2018/05/21/autotrace-debug-on-steroids/
+311,Lobsters,debugging,Debugging,In which the CPU changes my data under my nose,http://troubles.md/posts/i-triple-equals/
+312,Lobsters,debugging,Debugging,Pinpointing deadlocks in Haskell,https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell
+313,Lobsters,debugging,Debugging,Diagnosing Network Issues with MTR,https://www.linode.com/docs/networking/diagnostics/diagnosing-network-issues-with-mtr/
+314,Lobsters,debugging,Debugging,The puzzling empathy of debugging,https://wozniak.ca/blog/2018/05/07/The-puzzling-empathy-of-debugging.html
+315,Lobsters,debugging,Debugging,My PoC walk through for CVE-2018–6789,https://medium.com/@straightblast426/my-poc-walk-through-for-cve-2018-6789-2e402e4ff588
+316,Lobsters,debugging,Debugging,Redirecting stderr of a running process,http://sircmpwn.github.io/2018/05/04/Redirecitng-stderr-of-running-process.html
+317,Lobsters,debugging,Debugging,SNES9x Netplay Crash,http://gekk.info/articles/snes9x.html
+318,Lobsters,debugging,Debugging,Visualizing the Oplog with Splunk,http://www.petecorey.com/blog/2018/04/30/visualizing-the-oplog-with-splunk/
+319,Lobsters,debugging,Debugging,Forking fixes in the context of debuggers,https://blog.netbsd.org/tnf/entry/forking_fixes_in_the_context
+320,Lobsters,debugging,Debugging,Code that debugs itself: Fixing a deadlock with a watchdog,http://evanjones.ca/rare-deadlock-log-bug.html
+321,Lobsters,debugging,Debugging,Three kinds of memory leaks,https://blog.nelhage.com/post/three-kinds-of-leaks/
+322,Lobsters,debugging,Debugging,How to get a core dump for a segfault on Linux,https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/
+323,Lobsters,debugging,Debugging,Implementing a Debugger: The Fundamentals,https://backtrace.io/blog/backtrace/debugger-internals/
+324,Lobsters,debugging,Debugging,An Introduction to Windows Kernel Debugging,https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging
+325,Lobsters,debugging,Debugging,Struggling to fix a bohrbug in X86 Debug Registers,https://blog.netbsd.org/tnf/entry/struggling_to_fix_a_bohrbug
+326,Lobsters,debugging,Debugging,Using FreeBSD Text Dumps,http://www.etinc.com/122/Using-FreeBSD-Text-Dumps
+327,Lobsters,debugging,Debugging,Leak Hunting and Mutter Hacking,https://feaneron.com/2018/03/30/leak-hunting-and-mutter-hacking/
+328,Lobsters,debugging,Debugging,Why I usually run 'w' first when troubleshooting unknown machines,https://rachelbythebay.com/w/2018/03/26/w/
+329,Lobsters,debugging,Debugging,Book review: Formalizing debugging,https://wozniak.ca/blog/2018/03/25/Book-review-Formalizing-debugging/index.html
+330,Lobsters,debugging,Debugging,Craft Minimal Bug Reports,http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
+331,Lobsters,debugging,Debugging,Things you might be interested in if you want start learning about the Pony programming language,https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005
+332,Lobsters,debugging,Debugging,Better Mobile Application Testing with Charles Proxy,http://www.testeffective.com/better-mobile-app-testing-with-charles-proxy/
+333,Lobsters,debugging,Debugging,Learning from Code History (2009),https://www.youtube.com/watch?v=SzRqd4YeLlM
+334,Lobsters,debugging,Debugging,Solving a Mysterious Heap Corruption Crash,https://topologyeyewear.github.io/engineering-blog/2018/03/07/heap_corruption/
+335,Lobsters,debugging,Debugging,The Stale Pointer,https://backtrace.io/blog/breakpoint-paul-khuong-appnexus/
+336,Lobsters,debugging,Debugging,A few things I've learned about computer networking,https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
+337,Lobsters,debugging,Debugging,Symbolic Execution: Intuition and Implementation,http://www.usrsb.in/symbolic-execution-intuition-and-implementation.html
+338,Lobsters,debugging,Debugging,Prototyping an ltrace clone using eBPF,https://jvns.ca/blog/2018/02/24/an-ltrace-clone-using-ebpf/
+339,Lobsters,debugging,Debugging,The Hurricane's Butterfly: Debugging Pathologically Performing Systems,https://www.youtube.com/watch?v=7AO4wz6gI3Q
+340,Lobsters,debugging,Debugging,My Favorite Bug (WadlerFest 2016),http://www.ccs.neu.edu/home/types/resources/pdf/serrano-2016.pdf
+341,Lobsters,debugging,Debugging,Debugging C like it's Python,http://blog.asrpo.com/debugging_c_like_python
+342,Lobsters,debugging,Debugging,dtrace for linux,https://gnu.wildebeest.org/blog/mjw/2018/02/14/dtrace-for-linux-oracle-does-the-right-thing/
+343,Lobsters,debugging,Debugging,Inspector - A drop-anywhere C++ REPL,https://github.com/inspector-repl/inspector
+344,Lobsters,debugging,Debugging,Debugging Node without restarting processes,https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200
+345,Lobsters,debugging,Debugging,A Man-in-the-Middle Attack in the Wild (2011),https://jcs.org/notaweblog/2011/08/17/a_man-in-the-middle_attack_in_the_wild
+346,Lobsters,debugging,Debugging,A short tale of a read overflow,http://antirez.com/news/117
+347,Lobsters,debugging,Debugging,From intuition to methodology in debugging,http://wozniak.ca/blog/2018/02/04/From-intuition-to-methodology-in-debugging/index.html
+348,Lobsters,debugging,Debugging,Adding a new statement to Python's syntax in python_terp,http://blog.asrpo.com/adding_new_statement
+349,Lobsters,debugging,Debugging,Spying on a Ruby process's memory allocations with eBPF,https://jvns.ca/blog/2018/01/31/spying-on-a-ruby-process-s-memory-allocations/
+350,Lobsters,debugging,Debugging,I think I found a Mac kernel bug?,https://jvns.ca/blog/2018/01/28/mac-freeze/
+351,Lobsters,debugging,Debugging,How do you spy on a program running in a container?,https://jvns.ca/blog/2018/01/26/spy-container/
+352,Lobsters,debugging,Debugging,Stacktrace improvements in .NET Core 2.1,https://www.ageofascent.com/2018/01/26/stack-trace-for-exceptions-in-dotnet-core-2.1/
+353,Lobsters,debugging,Debugging,Using Go 1.10 new trace features to debug an integration test,https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d
+354,Lobsters,debugging,Debugging,Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace,http://nullprogram.com/blog/2018/01/17/
+355,Lobsters,debugging,Debugging,On battle scars and debugging,http://wozniak.ca/blog/2018/01/15/On-battle-scars-and-debugging/index.html
+356,Lobsters,debugging,Debugging,However improbable: The story of a processor bug,https://blog.cloudflare.com/however-improbable-the-story-of-a-processor-bug/
+357,Lobsters,debugging,Debugging,Using IOpipe profiling to gain crucial observability into your AWS Lambda functions,https://read.iopipe.com/using-iopipe-profiling-to-gain-crucial-observability-into-your-aws-lambda-functions-506f5dda6bdf
+358,Lobsters,debugging,Debugging,Oxidizing Source Maps with Rust and WebAssembly,https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/
+359,Lobsters,debugging,Debugging,Profiler adventures: resolving symbol addresses is hard!,https://jvns.ca/blog/2018/01/09/resolving-symbol-addresses/
+360,Lobsters,debugging,Debugging,Abstractions (And 3 sad tales of the slow app),https://alonisser.github.io/abstractions-talk/#1
+361,Lobsters,debugging,Debugging,How does gdb call functions?,https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/
+362,Lobsters,debugging,Debugging,The LLVM Memory Sanitizer support work in progress,https://blog.netbsd.org/tnf/entry/the_llvm_memory_sanitizer_support
+363,Lobsters,debugging,Debugging,Building and fixing the Dreadbox Hades,https://insom.github.io/journal/2018/01/01/
+364,Lobsters,debugging,Debugging,A perf cheat sheet,https://jvns.ca/blog/2017/12/27/a-perf-cheat-sheet/
+365,Lobsters,debugging,Debugging,Debugging a segfault in my Rust program,https://jvns.ca/blog/2017/12/23/segfault-debugging/
+366,Lobsters,debugging,Debugging,Haskell Performance Debugging,http://www.parsonsmatt.org/2017/12/18/haskell_performance_debugging.html
+367,Lobsters,debugging,Debugging,Kernel debugging for newbies,http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html
+368,Lobsters,debugging,Debugging,How do Ruby & Python profilers work?,https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/
+369,Lobsters,debugging,Debugging,I hope you don’t mind if some of your globals’ destructors are skipped,https://peteronprogramming.wordpress.com/2017/12/06/i-hope-you-dont-mind-if-some-of-your-globals-destructors-are-not-called/
+370,Lobsters,debugging,Debugging,GoCardless Incident review: API and Dashboard outage on 10 October 2017,https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/
+371,Lobsters,debugging,Debugging,Where Do Most Software Flaws Come From?,http://users.ece.utexas.edu/~perry/work/papers/1010-DP-ms25.pdf
+372,Lobsters,debugging,Debugging,Debugging an evil Go runtime bug,https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+373,Lobsters,debugging,Debugging,Charles Web Debugging Proxy,https://www.charlesproxy.com/
+374,Lobsters,debugging,Debugging,Tangent: Source-to-Source Debuggable Derivatives,https://opensource.googleblog.com/2017/11/tangent-source-to-source-debuggable.html
+375,Lobsters,debugging,Debugging,Love your bugs,http://akaptur.github.com/blog/2017/11/12/love-your-bugs/
+376,Lobsters,debugging,Debugging,Run and Debug Java 9 in Visual Studio Code,https://blogs.msdn.microsoft.com/visualstudio/2017/11/10/run-and-debug-java-9-in-visual-studio-code/
+377,Lobsters,debugging,Debugging,A bug-fix 12 years in the making,http://www.dra27.uk/blog/platform/2017/10/30/ocaml-unicode.html
+378,Lobsters,debugging,Debugging,Isolating memory leaks with Chrome’s Allocation Timeline,https://blog.logrocket.com/isolating-memory-leaks-with-chromes-allocation-timeline-244fa9c48e8e
+379,Lobsters,debugging,Debugging,gdbgui: browser-based frontend to GDB,https://github.com/cs01/gdbgui
+380,Lobsters,debugging,Debugging,Something Rotten In The Core,http://www.codersnotes.com/notes/something-rotten-in-the-core/
+381,Lobsters,debugging,Debugging,"Zebras All the Way Down - Bryan Cantrill, Uptime 2017",https://www.youtube.com/watch?v=fE2KDzZaxvE
+382,Lobsters,debugging,Debugging,Try quickly typing 1 + 2 + 3 into the iOS 11 Calculator. I bet you won't get 6,https://www.reddit.com/r/apple/comments/782250/try_quickly_typing_1_2_3_into_the_ios_11/
+383,Lobsters,debugging,Debugging,Kernel Recipes 2017 - Performance Analysis with BPF - Brendan Gregg,https://www.youtube.com/watch?v=nhxq6jLGc_w
+384,Lobsters,debugging,Debugging,The Folder of God,https://www.excelsiorjet.com/blog/support-stories/the-folder-of-god/
+385,Lobsters,debugging,Debugging,Leverage comprehensive debugging tricks in one shot,http://nanxiao.me/en/leverage-comprehensive-debugging-tricks-in-one-shot/
+386,Lobsters,debugging,Debugging,Diagnosing a Linux-only unit test failure,https://codeblog.jonskeet.uk/2017/10/08/diagnosing-a-linux-only-unit-test-failure/
+387,Lobsters,debugging,Debugging,Falsehoods Programmers Believe about REST APIs,http://slinkp.com/falsehoods-programmers-believe-about-apis.html
+388,Lobsters,debugging,Debugging,Why does punching Sonic 3D trigger a Secret Level Select?,https://www.youtube.com/watch?v=i9bkKw32dGw
+389,Lobsters,debugging,Debugging,Debugging a Hardware Panic,http://blog.alicegoldfuss.com/debugging-hardware-panic/
+390,Lobsters,debugging,Debugging,Time Travel Debugging in WinDbg Preview!,https://blogs.msdn.microsoft.com/windbg/2017/09/25/time-travel-debugging-in-windbg-preview/
+391,Lobsters,debugging,Debugging,Jaeger - a Distributed Tracing System,https://github.com/jaegertracing/jaeger
+392,Lobsters,debugging,Debugging,EuroBSDcon 2017 System Performance Analysis Methodologies,https://www.slideshare.net/brendangregg/eurobsdcon-2017-system-performance-analysis-methodologies
+393,Lobsters,debugging,Debugging,How I Fixed a 10 Year Old Guitar Hero Bug Without the Source Code,https://www.youtube.com/watch?v=A9U5wK_boYM
+394,Lobsters,debugging,Debugging,"Sysadmin war story: “The network ate my font""",http://verticalsysadmin.com/blog/sysadmin-war-story-the-network-ate-my-font/
+395,Lobsters,debugging,Debugging,*THE* classic Unix horror story,http://www.lug.wsu.edu/node/414
+396,Lobsters,debugging,Debugging,Debugging Types: A Stream of Thought,http://www.parsonsmatt.org/2017/09/13/debugging_types_a_stream_of_thought.html
+397,Lobsters,debugging,Debugging,Understanding Elixir's recompilation,http://milhouseonsoftware.com/2016/08/11/understanding-elixir-recompilation/
+398,Lobsters,debugging,Debugging,rr 5.0 Released,http://robert.ocallahan.org/2017/09/rr-50-released.html
+399,Lobsters,debugging,Debugging,Finding out if/why a server is dropping packets,https://jvns.ca/blog/2017/09/05/finding-out-where-packets-are-being-dropped/
+400,Lobsters,debugging,Debugging,Personal observations on the reliability of the Shuttle,https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt
+401,Lobsters,debugging,Debugging,Debugging netlink requests,https://jvns.ca/blog/2017/09/03/debugging-netlink-requests/
+402,Lobsters,debugging,Debugging,New WinDbg available in preview!,https://blogs.msdn.microsoft.com/windbg/2017/08/28/new-windbg-available-in-preview/
+403,Lobsters,debugging,Debugging,Compile Once Debug Twice: Picking a Compiler for Debuggability (1/3),https://backtrace.io/blog/compile-once-debug-twice-picking-a-compiler-for-debuggability-1of3/
+404,Lobsters,debugging,Debugging,LLVM on Windows now supports PDB Debug Info,http://blog.llvm.org/2017/08/llvm-on-windows-now-supports-pdb-debug.html
+405,Lobsters,debugging,Debugging,Why PS4 downloads are so slow,https://www.snellman.net/blog/archive/2017-08-19-slow-ps4-downloads/
+406,Lobsters,debugging,Debugging,The tragic tale of the deadlocking Python queue,https://codewithoutrules.com/2017/08/16/concurrency-python/
+407,Lobsters,debugging,Debugging,Debugging a Race Condition in a Release Target,http://blog.boxofrox.me/2017/08/debugging-a-rust-release-build.html
+408,Lobsters,debugging,Debugging,Mastering console.log(),http://www.hugodaniel.pt/posts/2017-08-11-mastering-console-log.html
+409,Lobsters,debugging,Debugging,The Modern Java Monitoring Stack: How to Reverse Engineer the Ideal Setup for Your Production Environment,http://blog.takipi.com/the-modern-java-monitoring-stack-how-to-reverse-engineer-the-ideal-setup-for-your-production-environment/
+410,Lobsters,debugging,Debugging,Finding that pesky listener that’s hijacking your event,https://medium.com/@azizhk/finding-that-pesky-listener-thats-hijacking-your-event-javascript-b590593f2a83
+411,Lobsters,debugging,Debugging,"The Tale of a Go Resource Leak, Square Engineering",https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da
+412,Lobsters,debugging,Debugging,Using GHC CallStacks,http://www.parsonsmatt.org/2017/07/29/using_ghc_callstacks.html
+413,Lobsters,debugging,Debugging,Patching a Linux Kernel Module,https://intoli.com/blog/patching-a-linux-kernel-module/
+414,Lobsters,debugging,Debugging,The slow currentTimeMillis(),http://pzemtsov.github.io/2017/07/23/the-slow-currenttimemillis.html
+415,Lobsters,debugging,Debugging,Breaking backwards compatibility: a 5 year old bug deep within Windows,http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html
+416,Lobsters,debugging,Debugging,Debugging Tips and Tricks,https://css-tricks.com/debugging-tips-tricks/
+417,Lobsters,debugging,Debugging,The mystery of the hanging S3 downloads,https://www.snellman.net/blog/archive/2017-07-20-s3-mystery/
+418,Lobsters,debugging,Debugging,13 hours debugging a segmentation fault in .NET Core on Raspberry Pi due to FTP,https://www.hanselman.com/blog/13HoursDebuggingASegmentationFaultInNETCoreOnRaspberryPiAndTheSolutionWas.aspx
+419,Lobsters,debugging,Debugging,"The Tale Of The Two-Day, One-Character Patch",https://www.happyassassin.net/2017/01/11/the-tale-of-the-two-day-one-character-patch/
+420,Lobsters,debugging,Debugging,debug-me - secure remote debugging,https://debug-me.branchable.com/
+421,Lobsters,debugging,Debugging,When Debuggers Lie,https://tech.okcupid.com/when-debuggers-lie/
+422,Lobsters,debugging,Debugging,27 000 errors in the Tizen operating system,https://www.viva64.com/en/b/0519/
+423,Lobsters,debugging,Debugging,24-core CPU and I can’t move my mouse,https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/
+424,Lobsters,debugging,Debugging,Linux tracing systems & how they fit together,https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
+425,Lobsters,debugging,Debugging,Gagallium : How I found a bug in Intel Skylake processors,http://gallium.inria.fr/blog/intel-skylake-bug/
+426,Lobsters,debugging,Debugging,OSH Runs Real Shell Programs,http://www.oilshell.org/blog/2017/07/02.html
+427,Lobsters,debugging,Debugging,Skylake bug: a detective story,https://medium.com/ahrefs/skylake-bug-a-detective-story-ab1ad2beddcd
+428,Lobsters,debugging,Debugging,It’s always your responsibility,https://codewithoutrules.com/2017/06/27/its-always-your-fault-in-practice/
+429,Lobsters,debugging,Debugging,The Elgin rectangle: why couldn't people lock their cars in Carlton?,http://www.theage.com.au/victoria/the-elgin-rectangle-why-couldnt-people-lock-their-cars-in-carlton-20170623-gwx6v8.html
+430,Lobsters,debugging,Debugging,How to find and fix bug in JRuby and don't go crazy,http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy
+431,Lobsters,debugging,Debugging,Kernel driver unpacking x64dbg,http://x64dbg.com/blog/2017/06/08/kernel-driver-unpacking.html
+432,Lobsters,debugging,Debugging,Debugging SmartOS: Finding Lock Inversions with DTrace,https://zinascii.com/2017/dbg-sos-001.html
+433,Lobsters,debugging,Debugging,What is the deal with NULLs?,http://thoughts.davisjeff.com/2009/08/02/what-is-the-deal-with-nulls/
+434,Lobsters,debugging,Debugging,How I Found A 20-Year-Old Linux Kernel Bug,http://robert.ocallahan.org/2017/06/how-i-found-20-year-old-linux-kernel-bug.html
+435,Lobsters,debugging,Debugging,Don't leave Coredumps on Web Servers,https://blog.hboeck.de/archives/887-Dont-leave-Coredumps-on-Web-Servers.html
+436,Lobsters,debugging,Debugging,Another Case Of Obscure CPU Nondeterminism,http://robert.ocallahan.org/2017/06/another-case-of-obscure-cpu.html
+437,Lobsters,debugging,Debugging,LLDB: Sanitizing the debugger's runtime,https://blog.netbsd.org/tnf/entry/lldb_sanitizing_the_debugger_s
+438,Lobsters,debugging,Debugging,Tracking down a segfault in grep,http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/
+439,Lobsters,debugging,Debugging,PostgreSQL operations that you can't EXPLAIN,http://felixge.de/2017/05/05/postgresql-operations-that-you-cant-explain.html
+440,Lobsters,debugging,Debugging,External authentication scripts in OpenVPN the right way,http://engineering.freeagent.com/2017/05/22/external-authentication-scripts-in-openvpn-the-right-way/
+441,Lobsters,debugging,Debugging,How Basic Performance Analysis Saved Us Millions,http://heap.engineering/basic-performance-analysis-saved-us-millions/
+442,Lobsters,debugging,Debugging,Give me 15 minutes and I'll change your view of Linux tracing,http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html
+443,Lobsters,debugging,Debugging,The Kremlin Eats GPS for Breakfast,https://themoscowtimes.com/articles/the-kremlin-eats-gps-for-breakfast-55823
+444,Lobsters,debugging,Debugging,A small website mystery,https://jvns.ca/blog/2017/05/10/a-small-website-bug-story/
+445,Lobsters,debugging,Debugging,Announcing debug-me,https://joeyh.name/blog/entry/announcing_debug-me/
+446,Lobsters,debugging,Debugging,The Horror in the Standard Library,https://www.zerotier.com/blog/2017-05-05-theleak.shtml
+447,Lobsters,debugging,Debugging,The Science of Debugging (and Neutrinos),https://medium.com/@SteveHerrin/the-science-of-debugging-and-neutrinos-db8d116680aa
+448,Lobsters,debugging,Debugging,LuaJIT to extended BPF compiler,https://gitlab.com/vavrusa/luajit-bpf
+449,Lobsters,debugging,Debugging,SessionStack demo: see how to replay user actions that led to a crash,https://youtu.be/buRN3hcfCEE
+450,Lobsters,debugging,Debugging,"SessionStack, the tool to replay and reproduce production issues in web apps, gets an update",http://blog.sessionstack.com/2017/04/a-heap-of-new-updates-now-available-in-sessionstack/
+451,Lobsters,debugging,Debugging,Quick tips for reducing the cognitive load of your code | Codementor,https://www.codementor.io/christianmaioli/quick-tips-for-reducing-the-cognitive-load-of-your-code-70esp51yh
+452,Lobsters,debugging,Debugging,debug-me,https://joeyh.name/code/debug-me/
+453,Lobsters,debugging,Debugging,Preventing AMI’s BIOS from interfering with coreboot flashing on the Librem 13,https://puri.sm/posts/preventing-interference-from-the-old-bios-while-flashing-coreboot/
+454,Lobsters,debugging,Debugging,Debugging macOS Kernel using VirtualBox,https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/
+455,Lobsters,debugging,Debugging,You’re Doing It Wrong,http://manishearth.github.io/blog/2017/04/05/youre-doing-it-wrong/
+456,Lobsters,debugging,Debugging,NetBSD: the first BSD introducing a modern process plugin framework in LLDB,http://blog.netbsd.org/tnf/entry/netbsd_the_first_bsd_introducing
+457,Lobsters,debugging,Debugging,env-diff: Compare expected environment variables to those set in production,https://github.com/jacebrowning/env-diff
+458,Lobsters,debugging,Debugging,The Debugging Mindset - ACM Queue,http://queue.acm.org/detail.cfm?id=3068754
+459,Lobsters,debugging,Debugging,"setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation",http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/
+460,Lobsters,debugging,Debugging,Introducing Bloaty McBloatface: a size profiler for binaries,http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html
+461,Lobsters,debugging,Debugging,ftrace: trace your kernel functions!,https://jvns.ca/blog/2017/03/19/getting-started-with-ftrace/
+462,Lobsters,debugging,Debugging,The Case of the Mysterious Python Crash,https://benbernardblog.com/the-case-of-the-mysterious-python-crash/
+463,Lobsters,debugging,Debugging,When the memory allocator works against you,https://glandium.org/blog/?p=3698
+464,Lobsters,debugging,Debugging,Host-based simulation for embedded systems,http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/
+465,Lobsters,debugging,Debugging,So You Want To Write Your Own CSV code?,http://tburette.github.io/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/
+466,Lobsters,debugging,Debugging,Understanding Nginx Server and Location Block Selection Algorithms,https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+467,Lobsters,debugging,Debugging,My new favorite vim/tmux bug,http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/
+468,Lobsters,debugging,Debugging,A tour of Elixir performance & monitoring tools,https://hackernoon.com/a-tour-of-elixir-performance-monitoring-tools-aac2df726e8c#.b2v3ch2m1
+469,Lobsters,debugging,Debugging,Shaggy Dogs and SpiderMonkey Unwinders,http://tromey.com/blog/?p=927
+470,Lobsters,debugging,Debugging,Adventures in /usr/bin and the likes,https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html
+471,Lobsters,debugging,Debugging,Incorrectly Rounded Conversions in Visual C++,http://www.exploringbinary.com/incorrectly-rounded-conversions-in-visual-c-plus-plus/
+472,Lobsters,debugging,Debugging,Sleeping beauty - How one of the oldest bugs in EVE got hunted down and resolved,http://community.eveonline.com/news/dev-blogs/sleeping-beauty/
+473,Lobsters,debugging,Debugging,Postmortem of database outage of January 31 - Gitlab,https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/
+474,Lobsters,debugging,Debugging,50 Bytes of Code That Took 4 GB to Compile,https://randomascii.wordpress.com/2013/08/14/50-bytes-of-code-that-took-4-gb-to-compile/
+475,Lobsters,debugging,Debugging,"Buggy Software, Loyal Users: Why Bug Reporting is Key To User Retention",https://codewithoutrules.com/2017/02/10/voice-exit-user-retention/
+476,Lobsters,debugging,Debugging,Announcing Rust 1.15.1,http://blog.rust-lang.org/2017/02/09/Rust-1.15.1.html
+477,Lobsters,debugging,Debugging,The Flame Graph (2016),https://queue.acm.org/detail.cfm?id=2927301
+478,Lobsters,debugging,Debugging,Where has my disk space gone? Flame graphs for file systems,http://www.brendangregg.com/blog/2017-02-05/file-system-flame-graph.html
+479,Lobsters,debugging,Debugging,rr 4.5.0 Released,http://robert.ocallahan.org/2017/02/rr-450-released.html
+480,Lobsters,debugging,Debugging,"Stop Filing Bugs, File a Container!",http://blog.runkit.com/2017/02/01/stop-filing-bugs-file-a-container.html
+481,Lobsters,debugging,Debugging,Time-Travel Debugging for JavaScript/Node.js,https://www.microsoft.com/en-us/research/publication/time-travel-debugging-javascriptnode-js/
+482,Lobsters,debugging,Debugging,"Debugging with the natives, part 2",http://www.cl.cam.ac.uk/~srk31/blog/2017/01/30/#native-debugging-part-2
+483,Lobsters,debugging,Debugging,Packet Loss for an App-Level Developer. Part I,http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/
+484,Lobsters,debugging,Debugging,A brief trip through Spacetime,https://blogs.janestreet.com/a-brief-trip-through-spacetime/
+485,Lobsters,debugging,Debugging,Cracking Sublime Text 3,http://blog.fernandodominguez.me/cracking-sublime-text-3/
+486,Lobsters,debugging,Debugging,American Fuzzy Lop’ing Rust,http://blog.troutwine.us/2017/01/06/american-fuzzy-loping-rust/
+487,Lobsters,debugging,Debugging,Lock-Free Bugs,https://research.swtch.com/lockfree
+488,Lobsters,debugging,Debugging,DTrace at Home,http://dtrace.org/blogs/ahl/2016/12/18/dtrace-at-home/
+489,Lobsters,debugging,Debugging,Debugging CSS,https://benfrain.com/debugging-css/
+490,Lobsters,debugging,Debugging,Finding test coupling,http://nedbatchelder.com/blog/201612/finding_test_coupling.html
+491,Lobsters,debugging,Debugging,simeji/jid: JSON incremental digger,https://github.com/simeji/jid
+492,Lobsters,debugging,Debugging,Cache COW — a debugging adventure on Minoca OS,https://blog.minocacorp.com/cache-cow-a-debugging-adventure-on-minoca-os-573a7bd0d5c9
+493,Lobsters,debugging,Debugging,Debugging with Humility,http://amir.rachum.com/blog/2016/12/18/debugging-with-humility/
+494,Lobsters,debugging,Debugging,Stuff Goes Bad: Erlang in Anger,https://s3.amazonaws.com/erlang-in-anger/text.v1.1.0.pdf
+495,Lobsters,debugging,Debugging,Logs and Metrics and Graphs,https://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/
+496,Lobsters,debugging,Debugging,Debugging Your Operating System: A Lesson In Memory Allocation,https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/
+497,Lobsters,debugging,Debugging,How the Circle Line rogue train was caught with data,https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a
+498,Lobsters,debugging,Debugging,Avoid these Things When Logging from Your Application,https://blog.logentries.com/2016/09/avoid-these-things-when-logging-from-your-application/
+499,Lobsters,debugging,Debugging,Who Called Git? An Unusual Debugging Story,http://schneems.com/2016/11/28/who-called-git-an-unusual-debugging-story/
+500,Lobsters,debugging,Debugging,Adventures in the land of substrings and RegExps,http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html
+501,Lobsters,debugging,Debugging,TaxDC: A Taxonomy of Non-Deterministic Concurrency Bugs in Datacenter Distributed Systems,http://ucare.cs.uchicago.edu/pdf/asplos16-TaxDC.pdf
+502,Lobsters,debugging,Debugging,Rust hash iteration+reinsertion is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion
+503,Lobsters,debugging,Debugging,What is Parameter Sniffing in SQL Server?,https://www.brentozar.com/archive/2013/06/the-elephant-and-the-mouse-or-parameter-sniffing-in-sql-server/
+504,Lobsters,debugging,Debugging,Analysis of a Python performance issue,https://haypo.github.io/analysis-python-performance-issue.html
+505,Lobsters,debugging,Debugging,Debugging SSL in Java using mitmproxy,http://blog.packagecloud.io/eng/2016/11/14/debugging-ssl-in-java-using-mitmproxy/
+506,Lobsters,debugging,Debugging,"Debugging Software, Sherlock Holmes-style",https://codewithoutrules.com/2016/11/16/debugging-sherlock-holmes/
+507,Lobsters,debugging,Debugging,rr: Lightweight User-Space Record And Replay,https://arxiv.org/abs/1610.02144
+508,Lobsters,debugging,Debugging,Dontbug: A reverse debugger for PHP (based on rr),https://github.com/sidkshatriya/dontbug
+509,Lobsters,debugging,Debugging,Improve your Dev and Ops skills with Troubleshooting Theory,https://blog.dnsimple.com/2016/11/troubleshooting-theory/
+510,Lobsters,debugging,Debugging,"OPA, A live memory debugger for C programs",https://www.youtube.com/watch?v=pvkn9Xz-xks
+511,Lobsters,debugging,Debugging,DTrace for Linux 2016,http://www.brendangregg.com/blog/2016-10-27/dtrace-for-linux-2016.html
+512,Lobsters,debugging,Debugging,A New Impossible Coin,https://www.youtube.com/watch?v=iPILIf7ru48
+513,Lobsters,debugging,Debugging,Beautiful Racket: Continuations,http://beautifulracket.com/explainer/continuations.html
+514,Lobsters,debugging,Debugging,Clownshoes available in sizes 2^10+1 and up! (2011),https://blog.mozilla.org/nnethercote/2011/08/05/clownshoes-available-in-sizes-2101-and-up/
+515,Lobsters,debugging,Debugging,Include Detective: Keep An Eye On Those Includes,https://metricpanda.com/rival-fortress-update-38-include-detective-keep-an-eye-on-those-includes
+516,Lobsters,debugging,Debugging,Managing good bug reports,https://anarc.at/blog/2016-10-14-bug-reporting/
+517,Lobsters,debugging,Debugging,How to speed up the Rust compiler,https://blog.mozilla.org/nnethercote/2016/10/14/how-to-speed-up-the-rust-compiler/
+518,Lobsters,debugging,Debugging,Simple testing can prevent most critical failures,https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/
+519,Lobsters,debugging,Debugging,Linus Torvalds admits 'buggy crap' made it into Linux 4.8,http://www.theregister.co.uk/2016/10/05/linus_torvalds_admits_buggy_crap_made_it_into_linux_48/
+520,Lobsters,debugging,Debugging,The Power Jack 3500 Watt inverter - buyers beware!,http://ludens.cl/Electron/chinverter/chinverter.html
+521,Lobsters,debugging,Debugging,Video Troubleshooting with Keyframes,http://curi.us/1907-video-troubleshooting-with-keyframes
+522,Lobsters,debugging,Debugging,"Debugging PostgreSQL performance, the hard way",https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/
+523,Lobsters,debugging,Debugging,Parse A Monster [nice writeup of finding a bug in .NET's CLR c++ parser],http://www.empear.com/blog/parse-a-monster/
+524,Lobsters,debugging,Debugging,The Mysterious Fiber Bomb Problem: A Debugging Story,https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story
+525,Lobsters,debugging,Debugging,"Python: hash, id and Dictionary Order (2013)",http://amir.rachum.com/blog/2013/07/03/python-hash-id-and-dictionary-order/
+526,Lobsters,debugging,Debugging,Keyboard Tester,http://www.keyboardtester.com/
+527,Lobsters,debugging,Debugging,Tattletale Variables,http://tinypig2.blogspot.com/2016/09/tattletale-variables.html
+528,Lobsters,debugging,Debugging,"Dynamic linker tricks: Using LD_PRELOAD to cheat, inject features and investigate programs (2013)",https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/
+529,Lobsters,debugging,Debugging,Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS,https://medium.com/@bert.hubert/optimizing-optimizing-some-insights-that-led-to-a-400-speedup-of-powerdns-5e1a44b58f1c
+530,Lobsters,debugging,Debugging,The Ten Years Bug: Our Experience Solving a Bug That Won't Go Away,http://blog.getjaco.com/the-ten-years-bug-solving-a-bug-that-wont-go-away/
+531,Lobsters,debugging,Debugging,A swiss army knife of debugging tools,http://jvns.ca/blog/2016/09/17/strange-loop-talk/
+532,Lobsters,debugging,Debugging,Systems programming as a swiss army knife,https://www.youtube.com/watch?v=HfD9IMZ9rKY
+533,Lobsters,debugging,Debugging,The Voodoo of Elevation Gain and Strava (and How I Get Around It) (2015),http://regex.info/blog/2015-05-09/2568
+534,Lobsters,debugging,Debugging,"Everything Old is New Again, and a Compiler Bug",https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/
+535,Lobsters,debugging,Debugging,A Funny Thing Happened on the Way to Java 8,http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/
+536,Lobsters,debugging,Debugging,Introducing debugger.html,https://hacks.mozilla.org/2016/09/introducing-debugger-html/
+537,Lobsters,debugging,Debugging,"GSoC 2016 Reports: Split debug symbols for pkgsrc builds, part 2",http://blog.netbsd.org/tnf/entry/gsoc_2016_reports_split_debug2
+538,Lobsters,debugging,Debugging,What really happened on Mars? (1997),http://research.microsoft.com/en-us/um/people/mbj/Mars_Pathfinder/Mars_Pathfinder.html
+539,Lobsters,debugging,Debugging,"RevDB, the Reverse Debugger",https://bitbucket.org/pypy/revdb/
+540,Lobsters,debugging,Debugging,Your Debugger Is Obsolete,http://timkellogg.me/blog/2016/09/06/debugger-obsolete
+541,Lobsters,debugging,Debugging,Three JavaScript performance fundamentals that make Bluebird fast - Reaktor,https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/
+542,Lobsters,debugging,Debugging,Debugging unfamiliar code in an unfamiliar language using an unfamiliar IDE,http://bitfunnel.org/debugging-nativejit/
+543,Lobsters,debugging,Debugging,Performance Improvements for FreeBSD Kernel Debugging,http://backtrace.io/blog/blog/2016/08/25/improving-freebsd-kernel-debugging/
+544,Lobsters,debugging,Debugging,Q&A with Diomidis Spinellis on Effective Debugging,https://www.infoq.com/articles/book-review-effective-debugging
+545,Lobsters,debugging,Debugging,"Obscure Ethernet for $200 please, Alex: The Ethernet PAUSE frame",http://jeffq.com/blog/the-ethernet-pause-frame/
+546,Lobsters,debugging,Debugging,I Botched a Perl 6 Release And Now a Robot Is Taking My Job,http://perl6.party/post/I-Botched-A-Perl-6-Release-And-Now-A-Robot-Is-Taking-My-Job
+547,Lobsters,debugging,Debugging,TCP Puzzlers,https://www.joyent.com/blog/tcp-puzzlers
+548,Lobsters,debugging,Debugging,What is BPF and why is it taking over Linux Performance analysis?,http://blog.memsql.com/bpf-linux-performance/
+549,Lobsters,debugging,Debugging,My first professional bug,https://borkwarellc.wordpress.com/2011/04/03/my-first-professional-bug/
+550,Lobsters,debugging,Debugging,This is strictly a violation of the TCP specification,http://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/
+551,Lobsters,debugging,Debugging,The Search For <Class:0x00000027b59290>,https://chrisarcand.com//the-search-for-class0x0000001ab51700/
+552,Lobsters,debugging,Debugging,How does gdb work?,http://jvns.ca/blog/2016/08/10/how-does-gdb-work/
+553,Lobsters,debugging,Debugging,gdb Debugging Full Example (Tutorial): ncurses,http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+554,Lobsters,debugging,Debugging,Notes on concurrency bugs,http://danluu.com/concurrency-bugs/
+555,Lobsters,debugging,Debugging,Debugging using system calls in Mac OS X,http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html
+556,Lobsters,debugging,Debugging,A look at DevOps tools landscape,https://devup.co/a-look-at-devops-tools-landscape-7220099c6b81#.jlqckymes
+557,Lobsters,debugging,Debugging,"Arena ""leak"" in glibc",http://codearcana.com/posts/2016/07/11/arena-leak-in-glibc.html
+558,Lobsters,debugging,Debugging,tcpdump is amazing,http://jvns.ca/blog/2016/03/17/tcpdump-is-amazing/
+559,Lobsters,debugging,Debugging,Using usbmon,https://www.kernel.org/doc/Documentation/usb/usbmon.txt
+560,Lobsters,debugging,Debugging,Debugging GNU Emacs memory leaks (part 1),http://notes.secretsauce.net/notes/2015/09/19_debugging-gnu-emacs-memory-leaks-part-1.html
+561,Lobsters,debugging,Debugging,Become a GDB Power User,https://www.youtube.com/watch?v=713ay4bZUrw
+562,Lobsters,debugging,Debugging,Give me 15 minutes & I'll change your view of GDB,http://undo-software.com/resources/presentations/cppcon-2015-greg-law-give-me-15-minutes-ill-change/
+563,Lobsters,debugging,Debugging,Accidental art produced by buggy code,https://twitter.com/accidental__art
+564,Lobsters,debugging,Debugging,Reverse debugging for Python,https://morepypy.blogspot.in/2016/07/reverse-debugging-for-python.html
+565,Lobsters,debugging,Debugging,PyPy Status Blog: Reverse debugging for Python,https://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html
+566,Lobsters,debugging,Debugging,Pro Linux systems spelunking,http://pythonsweetness.tumblr.com/post/146910732262/pro-linux-systems-spelunking
+567,Lobsters,debugging,Debugging,"Don't tug on that, you never know what it might be attached to",http://blog.plover.com/tech/tmpdir.html
+568,Lobsters,debugging,Debugging,Unreferenced Function Parameters and You,http://angersock.com/blog/2016/06/28/unreferenced-fucntion-parameters-and-you
+569,Lobsters,debugging,Debugging,I do not use a debugger,http://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/
+570,Lobsters,debugging,Debugging,How to spy on a Ruby program,http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/
+571,Lobsters,debugging,Debugging,JWT Inspector - Chrome extension to inspect and debug JSON Web Tokens,https://www.jwtinspector.io/
+572,Lobsters,debugging,Debugging,Tracking down a performance hit,https://codeblog.jonskeet.uk/2016/06/09/tracking-down-a-performance-hit/
+573,Lobsters,debugging,Debugging,Tracking Down Heap Overflows with rr,https://sean.heelan.io/2016/05/31/tracking-down-heap-overflows-with-rr/
+574,Lobsters,debugging,Debugging,JavaScriptCore CSI: A Crash Site Investigation Story,https://webkit.org/blog/6411/javascriptcore-csi-a-crash-site-investigation-story/
+575,Lobsters,debugging,Debugging,The rise and fall of the Dungeon Master,https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f
+576,Lobsters,debugging,Debugging,A Two Month Debugging Story,https://kev.inburke.com/kevin/a-two-month-debugging-story/
+577,Lobsters,debugging,Debugging,Machete-mode Debugging,http://nedbatchelder.com/text/machete.html
+578,Lobsters,debugging,Debugging,How big an issue is the nausea problem for Virtual Reality products?,https://www.quora.com/How-big-an-issue-is-the-nausea-problem-for-Virtual-Reality-products
+579,Lobsters,debugging,Debugging,"Mid-2016 Tor bug retrospective, with lessons for future coding | The Tor Blog",https://blog.torproject.org/blog/mid-2016-tor-bug-retrospective-lessons-future-coding
+580,Lobsters,debugging,Debugging,A Regex Debugger,http://eigenstate.org/notes/regex-debug
+581,Lobsters,debugging,Debugging,Symbolic Debugging With DWARF (video and PDF),http://backtrace.io/blog/blog/2016/05/09/symbolic-debugging-with-dwarf
+582,Lobsters,debugging,Debugging,STRIKE-OTR - How implementing the new OTR protocol fixed a bug in the previous one,http://blog.torchz.net/2015/09/22/strike-otr.html
+583,Lobsters,debugging,Debugging,Understanding Half-Pixel and Half-Texel Offsets,http://drilian.com/2008/11/25/understanding-half-pixel-and-half-texel-offsets/
+584,Lobsters,debugging,Debugging,Learning From Your Bugs,https://henrikwarne.com/2016/04/28/learning-from-your-bugs/
+585,Lobsters,debugging,Debugging,Debugging memory corruption: who the hell writes “2” into my stack?!,http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2/
+586,Lobsters,debugging,Debugging,Sysdig: Troubleshooting Cassandra column selection to boost database performance,https://sysdig.com/blog/column-selection-effects-query-performance/
+587,Lobsters,debugging,Debugging,How I hunted the most odd ruby bug,http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
+588,Lobsters,debugging,Debugging,Linus hacks fsck to recover deleted files (1993),https://groups.google.com/forum/#!searchin/alt.hackers/Linus|sort:relevance/alt.hackers/yxLsw4a4d3E/wWp_h7C2bjkJ
+589,Lobsters,debugging,Debugging,The Linux Scheduler: a Decade of Wasted Cores,http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf
+590,Lobsters,debugging,Debugging,Performance Culture,http://joeduffyblog.com/2016/04/10/performance-culture/
+591,Lobsters,debugging,Debugging,Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com
+592,Lobsters,debugging,Debugging,systemtap 3.0 released,https://lwn.net/Articles/681527/
+593,Lobsters,debugging,Debugging,TASVideos / Game Resources / Common Tricks,http://tasvideos.org/GameResources/CommonTricks.html
+594,Lobsters,debugging,Debugging,The revenge of the listening sockets,http://blog.cloudflare.com/revenge-listening-sockets/
+595,Lobsters,debugging,Debugging,USENIX Enigma 2016 - Timeless Debugging,https://www.youtube.com/watch?v=eGl6kpSajag
+596,Lobsters,debugging,Debugging,That VMware IPv6 NAT thing is stranger than it looks,http://rachelbythebay.com/w/2016/03/27/wonky/
+597,Lobsters,debugging,Debugging,Using rr To Debug rr,http://robert.ocallahan.org/2016/04/using-rr-to-debug-rr.html
+598,Lobsters,debugging,Debugging,tcpdump is amazing,http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/
+599,Lobsters,debugging,Debugging,New tag suggestion: 'debugging',/s/8jjsvq/new_tag_suggestion_debugging

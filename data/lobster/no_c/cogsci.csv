@@ -1,0 +1,366 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,cogsci,Cognitive Science,The IKEA effect,https://stitcher.io/blog/the-ikea-effect
+2,Lobsters,cogsci,Cognitive Science,[1991] The Psychology of Advanced Mathematical Thinking,https://homepages.warwick.ac.uk/staff/David.Tall/pdfs/dot1991k-psychology-of-amt.pdf
+3,Lobsters,cogsci,Cognitive Science,The Pervert's Guide to Computer Programming Languages,https://www.youtube.com/watch?v=mZyvIHYn2zk
+4,Lobsters,cogsci,Cognitive Science,Not a 'math person'? You may be better at learning to code than you think,https://phys.org/news/2020-03-math-person-code.html
+5,Lobsters,cogsci,Cognitive Science,Developing Embodied Familiarity with Hyperphysical Phenomena,https://www.graycrawford.com/thesis
+6,Lobsters,cogsci,Cognitive Science,The Evolution of Trust,https://ncase.me/trust/
+7,Lobsters,cogsci,Cognitive Science,Hidden Computational Power Found in the Arms of Neurons,https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
+8,Lobsters,cogsci,Cognitive Science,Artificial Personas and Public Discourse,https://www.schneier.com/blog/archives/2020/01/artificial_pers.html
+9,Lobsters,cogsci,Cognitive Science,A Very Unlikely Chess Game,https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
+10,Lobsters,cogsci,Cognitive Science,Growing Human Neurons Connected to a Computer,https://www.youtube.com/watch?v=V2YDApNRK3g
+11,Lobsters,cogsci,Cognitive Science,HackEEG: Arduino Shield for Reading Brainwaves,https://www.crowdsupply.com/starcat/hackeeg
+12,Lobsters,cogsci,Cognitive Science,Wait Wait...Tell Me,https://99percentinvisible.org/episode/wait-wait-tell-me/
+13,Lobsters,cogsci,Cognitive Science,Scientists Demonstrate Direct Brain-to-Brain Communication in Humans,https://www.scientificamerican.com/article/scientists-demonstrate-direct-brain-to-brain-communication-in-humans/
+14,Lobsters,cogsci,Cognitive Science,Your app makes me fat (2013),http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat
+15,Lobsters,cogsci,Cognitive Science,Producing Wrong Data Without Doing Anything Obviously Wrong,https://john.cs.olemiss.edu/~hcc/researchMethods/notes/localcopy/mytkowicz-wrong-data.pdf
+16,Lobsters,cogsci,Cognitive Science,Socio-Technical Seeing - Modeling The Dynamics Of Code and Attention,https://michaelfeathers.silvrback.com/socio-technical-seeing
+17,Lobsters,cogsci,Cognitive Science,30 Weird Chess Algorithms,https://www.youtube.com/watch?v=DpXy041BIlA
+18,Lobsters,cogsci,Cognitive Science,"Capstone, a tablet for thinking",https://www.inkandswitch.com/capstone-manuscript.html
+19,Lobsters,cogsci,Cognitive Science,Spiking Neural Network (SNN) with PyTorch: towards bridging the gap between deep learning and the human brain,https://guillaume-chevalier.com/spiking-neural-network-snn-with-pytorch-where-backpropagation-engenders-stdp-hebbian-learning/
+20,Lobsters,cogsci,Cognitive Science,Would aliens understand lambda calculus? (2018),http://tomasp.net/blog/2018/alien-lambda-calculus/
+21,Lobsters,cogsci,Cognitive Science,The time I tried to ruin Halo 2,https://www.polygon.com/features/2019/7/2/18651880/the-time-i-tried-to-ruin-halo-2-user-research
+22,Lobsters,cogsci,Cognitive Science,"For The First Time, Engineers Measure Accuracy of 2 Qubits in Silicon - And It Works",https://www.sciencealert.com/quantum-breakthrough-accurate-2-qubit-operations-in-silicon-measured-for-first-time
+23,Lobsters,cogsci,Cognitive Science,Misattribution of Arousal (2011),https://youarenotsosmart.com/2011/07/07/misattribution-of-arousal/
+24,Lobsters,cogsci,Cognitive Science,39 studies about human perception in 30 minutes,https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73
+25,Lobsters,cogsci,Cognitive Science,SHRDLURN: learning language games through interaction,http://shrdlurn.sidaw.xyz/
+26,Lobsters,cogsci,Cognitive Science,The IKEA effect,https://stitcher.io/blog/the-ikea-effect
+27,Lobsters,cogsci,Cognitive Science,[1991] The Psychology of Advanced Mathematical Thinking,https://homepages.warwick.ac.uk/staff/David.Tall/pdfs/dot1991k-psychology-of-amt.pdf
+28,Lobsters,cogsci,Cognitive Science,The Pervert's Guide to Computer Programming Languages,https://www.youtube.com/watch?v=mZyvIHYn2zk
+29,Lobsters,cogsci,Cognitive Science,Not a 'math person'? You may be better at learning to code than you think,https://phys.org/news/2020-03-math-person-code.html
+30,Lobsters,cogsci,Cognitive Science,Developing Embodied Familiarity with Hyperphysical Phenomena,https://www.graycrawford.com/thesis
+31,Lobsters,cogsci,Cognitive Science,The Evolution of Trust,https://ncase.me/trust/
+32,Lobsters,cogsci,Cognitive Science,Hidden Computational Power Found in the Arms of Neurons,https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
+33,Lobsters,cogsci,Cognitive Science,Artificial Personas and Public Discourse,https://www.schneier.com/blog/archives/2020/01/artificial_pers.html
+34,Lobsters,cogsci,Cognitive Science,A Very Unlikely Chess Game,https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
+35,Lobsters,cogsci,Cognitive Science,Growing Human Neurons Connected to a Computer,https://www.youtube.com/watch?v=V2YDApNRK3g
+36,Lobsters,cogsci,Cognitive Science,HackEEG: Arduino Shield for Reading Brainwaves,https://www.crowdsupply.com/starcat/hackeeg
+37,Lobsters,cogsci,Cognitive Science,Wait Wait...Tell Me,https://99percentinvisible.org/episode/wait-wait-tell-me/
+38,Lobsters,cogsci,Cognitive Science,Scientists Demonstrate Direct Brain-to-Brain Communication in Humans,https://www.scientificamerican.com/article/scientists-demonstrate-direct-brain-to-brain-communication-in-humans/
+39,Lobsters,cogsci,Cognitive Science,Your app makes me fat (2013),http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat
+40,Lobsters,cogsci,Cognitive Science,Producing Wrong Data Without Doing Anything Obviously Wrong,https://john.cs.olemiss.edu/~hcc/researchMethods/notes/localcopy/mytkowicz-wrong-data.pdf
+41,Lobsters,cogsci,Cognitive Science,Socio-Technical Seeing - Modeling The Dynamics Of Code and Attention,https://michaelfeathers.silvrback.com/socio-technical-seeing
+42,Lobsters,cogsci,Cognitive Science,30 Weird Chess Algorithms,https://www.youtube.com/watch?v=DpXy041BIlA
+43,Lobsters,cogsci,Cognitive Science,"Capstone, a tablet for thinking",https://www.inkandswitch.com/capstone-manuscript.html
+44,Lobsters,cogsci,Cognitive Science,Spiking Neural Network (SNN) with PyTorch: towards bridging the gap between deep learning and the human brain,https://guillaume-chevalier.com/spiking-neural-network-snn-with-pytorch-where-backpropagation-engenders-stdp-hebbian-learning/
+45,Lobsters,cogsci,Cognitive Science,Would aliens understand lambda calculus? (2018),http://tomasp.net/blog/2018/alien-lambda-calculus/
+46,Lobsters,cogsci,Cognitive Science,The time I tried to ruin Halo 2,https://www.polygon.com/features/2019/7/2/18651880/the-time-i-tried-to-ruin-halo-2-user-research
+47,Lobsters,cogsci,Cognitive Science,"For The First Time, Engineers Measure Accuracy of 2 Qubits in Silicon - And It Works",https://www.sciencealert.com/quantum-breakthrough-accurate-2-qubit-operations-in-silicon-measured-for-first-time
+48,Lobsters,cogsci,Cognitive Science,Misattribution of Arousal (2011),https://youarenotsosmart.com/2011/07/07/misattribution-of-arousal/
+49,Lobsters,cogsci,Cognitive Science,39 studies about human perception in 30 minutes,https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73
+50,Lobsters,cogsci,Cognitive Science,SHRDLURN: learning language games through interaction,http://shrdlurn.sidaw.xyz/
+51,Lobsters,cogsci,Cognitive Science,Dreaming Is the Inverse of Anxious Mind-Wandering,https://psyarxiv.com/k6trz
+52,Lobsters,cogsci,Cognitive Science,Human Mind Control of Rat Cyborg’s Continuous Locomotion with Wireless Brain-to-Brain Interface,https://www.nature.com/articles/s41598-018-36885-0
+53,Lobsters,cogsci,Cognitive Science,Flat Design vs Traditional Design: Comparative Experimental Study,https://www.researchgate.net/publication/281628009_Flat_Design_vs_Traditional_Design_Comparative_Experimental_Study
+54,Lobsters,cogsci,Cognitive Science,The zone of comfort: Predicting visual discomfort with stereo displays,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369815/
+55,Lobsters,cogsci,Cognitive Science,The Effects of MP3 Compression on Perceived Emotional Characteristics in Musical Instruments,http://www.aes.org/e-lib/browse.cfm?elib=18523
+56,Lobsters,cogsci,Cognitive Science,MIL-STD-1472G -- Design Criteria: Human Engineering,http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472G_39997/
+57,Lobsters,cogsci,Cognitive Science,The Ghost in the Machine,https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine
+58,Lobsters,cogsci,Cognitive Science,How To Remember Anything Forever-ish,https://ncase.me/remember/
+59,Lobsters,cogsci,Cognitive Science,The intertwined quest for understanding biological intelligence and creating artificial intelligence,https://hai.stanford.edu/news/the_intertwined_quest_for_understanding_biological_intelligence_and_creating_artificial_intelligence/
+60,Lobsters,cogsci,Cognitive Science,The Brain's Autopilot Mechanism Steers Consciousness,https://www.scientificamerican.com/article/the-brains-autopilot-mechanism-steers-consciousness/
+61,Lobsters,cogsci,Cognitive Science,Building a Fly Brain in a Computer,https://www.cifar.ca/cifarnews/2018/10/25/building-a-fly-brain-in-a-computer
+62,Lobsters,cogsci,Cognitive Science,Uncoiling the spiral: Maths and hallucinations,https://plus.maths.org/content/uncoiling-spiral-maths-and-hallucinations
+63,Lobsters,cogsci,Cognitive Science,What makes code unreadable,https://medium.com/software-engineering-problems/what-makes-code-unreadable-to-human-45fa30544386
+64,Lobsters,cogsci,Cognitive Science,How to make a racist AI without really trying,http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/
+65,Lobsters,cogsci,Cognitive Science,Augmenting Long-term Memory,http://augmentingcognition.com/ltm.html
+66,Lobsters,cogsci,Cognitive Science,Believing is seeing: Insightful research illuminates the newly possible in the realm of natural and synthetic images,https://www.microsoft.com/en-us/research/blog/believing-is-seeing-insightful-research-illuminates-the-newly-possible-in-the-realm-of-natural-and-synthetic-images/
+67,Lobsters,cogsci,Cognitive Science,Illustrating Mathematics using 3D Printers,https://arxiv.org/abs/1306.5599
+68,Lobsters,cogsci,Cognitive Science,Comparing codes of conduct to copyleft licenses (2016),https://archive.fosdem.org/2016/schedule/event/conduct_and_copyleft/
+69,Lobsters,cogsci,Cognitive Science,Google’s Selfish Ledger is an unsettling vision of Silicon Valley social engineering,https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
+70,Lobsters,cogsci,Cognitive Science,Psychology of Code Readability,https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a
+71,Lobsters,cogsci,Cognitive Science,what the Dunning-Kruger effect is and isn’t,https://www.talyarkoni.org/blog/2010/07/07/what-the-dunning-kruger-effect-is-and-isnt/
+72,Lobsters,cogsci,Cognitive Science,The Tech Industry’s Psychological War on Kids,https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce
+73,Lobsters,cogsci,Cognitive Science,Having Your Smartphone Nearby Takes a Toll on Your Thinking,https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking
+74,Lobsters,cogsci,Cognitive Science,PyTorch – Internal Architecture Tour,http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/
+75,Lobsters,cogsci,Cognitive Science,Augmenting Human Intellect: A Conceptual Framework (1962),https://www.dougengelbart.org/pubs/augment-3906.html
+76,Lobsters,cogsci,Cognitive Science,Color: From Hexcodes to Eyeballs,http://jamie-wong.com/post/color/
+77,Lobsters,cogsci,Cognitive Science,Just How Random Are Two Factor Authentication Codes?,https://www.wired.com/story/2fa-randomness/
+78,Lobsters,cogsci,Cognitive Science,Janki Method: Using spaced repetition systems to learn and retain technical knowledge,http://www.jackkinsella.ie/articles/janki-method
+79,Lobsters,cogsci,Cognitive Science,Prosthetic memory system successful in humans,https://www.sciencedaily.com/releases/2018/03/180327194350.htm
+80,Lobsters,cogsci,Cognitive Science,The Trust Spectrum,https://www.gamasutra.com/blogs/RaphKoster/20180316/315615/The_Trust_Spectrum.php
+81,Lobsters,cogsci,Cognitive Science,The spread of true and false news online,http://science.sciencemag.org/content/359/6380/1146.full
+82,Lobsters,cogsci,Cognitive Science,Your Cortex Contains 17 Billion Computers,https://medium.com/the-spike/your-cortex-contains-17-billion-computers-9034e42d34f2
+83,Lobsters,cogsci,Cognitive Science,RR 184 - What We Actually Know About Software Development and Why We Believe It's True - Ruby Rogues,https://www.youtube.com/watch?v=qDY-Lk1rsQY
+84,Lobsters,cogsci,Cognitive Science,The Quorum Programming Language,https://quorumlanguage.com
+85,Lobsters,cogsci,Cognitive Science,MoodBot: A Long Term Mood Tracking Project,http://www.usrsb.in/moodbot.html
+86,Lobsters,cogsci,Cognitive Science,"Speech and Language Processing, 3rd Edition",https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+87,Lobsters,cogsci,Cognitive Science,A Guide to Natural Language Processing,https://tomassetti.me/guide-natural-language-processing/
+88,Lobsters,cogsci,Cognitive Science,Gamble your life away in ZT Online (2007),http://www.danwei.org/electronic_games/gambling_your_life_away_in_zt.php
+89,Lobsters,cogsci,Cognitive Science,ICLR 2018 Reproducibility Challenge,http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
+90,Lobsters,cogsci,Cognitive Science,Jamming the Signal: Better Living Through Subliminal Messages,http://www.mondo2000.com/2017/10/12/jamming-signal-better-living-subliminal-messages/
+91,Lobsters,cogsci,Cognitive Science,Perceptually uniform color spaces,https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/
+92,Lobsters,cogsci,Cognitive Science,Quick and dirty review of Psychology of Programming Interest Group (2016),http://scattered-thoughts.net/blog/2016/11/17/qnd-review-of-ppig-1989-2015/
+93,Lobsters,cogsci,Cognitive Science,Natural Language Processing with Python updated for Python 3 and NLTK 3,http://www.nltk.org/book/
+94,Lobsters,cogsci,Cognitive Science,Book Review: Surfing Uncertainty,http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/
+95,Lobsters,cogsci,Cognitive Science,Why viewing yourself as a black box is the one of the best things you can do,https://medium.com/@rtotheohan/why-viewing-yourself-as-a-black-box-is-the-one-of-the-best-things-you-can-do-e23e19142dad
+96,Lobsters,cogsci,Cognitive Science,Overcoming Repetitive Strain Injury(RSI): What worked and what didn’t,https://medium.com/bambuu/overcoming-reptitive-strain-injury-rsi-what-worked-and-what-didnt-e315e737b96a
+97,Lobsters,cogsci,Cognitive Science,The Illusion of Speed,https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/
+98,Lobsters,cogsci,Cognitive Science,The Effects of Computer Programming on the Brain (2012),https://web.archive.org/web/20130906141542/http://virtuecenter.com/blog/the_effects_of_computer_programming_on_the_brain.html
+99,Lobsters,cogsci,Cognitive Science,Psycholinguistic evidence on scrambled letters in reading,https://www.mrc-cbu.cam.ac.uk/people/
+100,Lobsters,cogsci,Cognitive Science,Prediction Markets vs Polls vs Models,http://messymatters.com/prediction-without-markets/
+101,Lobsters,cogsci,Cognitive Science,Bending lines and circles with Gabor patches,http://www.syfy.com/syfywire/can-you-make-your-brain-not-see-this-circle-illusion
+102,Lobsters,cogsci,Cognitive Science,Readers forced to take quiz to show they understand story before commenting on it (2017-03),http://www.independent.co.uk/life-style/gadgets-and-tech/news/nrk-norwegian-news-site-comments-read-story-understand-post-quiz-questions-a7607246.html
+103,Lobsters,cogsci,Cognitive Science,How to think about non-linear progress?,/s/tz0dq0/how_think_about_non_linear_progress
+104,Lobsters,cogsci,Cognitive Science,This Is How Your Fear and Outrage Are Being Sold for Profit,https://medium.com/the-mission/the-enemy-in-our-feeds-e86511488de
+105,Lobsters,cogsci,Cognitive Science,Improve Inventory-Aware Pathfinding with Map Preprocessing,http://www.gamasutra.com/blogs/DavideAversa/20170612/299814/Improve_InventoryAware_Pathfinding_with_Map_Preprocessing.php
+106,Lobsters,cogsci,Cognitive Science,On the Unhappiness of Software Developers,https://arxiv.org/abs/1703.04993
+107,Lobsters,cogsci,Cognitive Science,A Generative Approach to Simulating Watercolor Paints,http://www.tylerlhobbs.com/writings/watercolor
+108,Lobsters,cogsci,Cognitive Science,Living Together: Mind and Machine Intelligence,https://arxiv.org/abs/1705.07996
+109,Lobsters,cogsci,Cognitive Science,Artificial intelligence in real-time strategy games,http://hevi.info/tag/artificial-intelligence-in-real-time-strategy-games/
+110,Lobsters,cogsci,Cognitive Science,Evolving Maps for Match Balancing in First Person Shooters,http://storage.kghost.de/cig_proc/full/paper_77.pdf
+111,Lobsters,cogsci,Cognitive Science,HypheNN-de: German Hyphenation with Neural Networks,http://blog.m-siemens.de/hyphenn-de-german-hyphenation-with-neural-networks/
+112,Lobsters,cogsci,Cognitive Science,New Model Predicts Which Mentally Ill Patients Are Unlikely to Be Violent,http://www.acsh.org/news/2017/05/05/new-model-predicts-which-mentally-ill-patients-are-unlikely-be-violent-11238
+113,Lobsters,cogsci,Cognitive Science,Running TensorFlow in Clojure,http://kieranbrowne.com/research/clojure-tensorflow-interop/
+114,Lobsters,cogsci,Cognitive Science,Copying & Repetition,https://zedshaw.com/2017/04/24/copying-repetition/
+115,Lobsters,cogsci,Cognitive Science,Probabilistic Models of Cognition,https://probmods.org/v1/
+116,Lobsters,cogsci,Cognitive Science,Everything about Self Driving Cars Explained for Non-Engineers,https://medium.com/@mngrwl/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c
+117,Lobsters,cogsci,Cognitive Science,The Dark Secret at the Heart of AI,https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
+118,Lobsters,cogsci,Cognitive Science,Deeply Artificial Trees,https://vimeo.com/211758157
+119,Lobsters,cogsci,Cognitive Science,Sex differences in the adult human brain,http://biorxiv.org/content/biorxiv/early/2017/04/04/123729.full.pdf
+120,Lobsters,cogsci,Cognitive Science,Killzone's AI: dynamic procedural combat tactics,http://www.cgf-ai.com/docs/straatman_remco_killzone_ai.pdf
+121,Lobsters,cogsci,Cognitive Science,DeepDoggo: Learning to Answer “Who's a Good Dog?”,http://www.cs.cmu.edu/~blengeri/downloads/deepdoggo.pdf
+122,Lobsters,cogsci,Cognitive Science,AI Alignment,https://ai-alignment.com/
+123,Lobsters,cogsci,Cognitive Science,The Debugging Mindset,https://queue.acm.org/detail.cfm?id=3068754&ref=rss
+124,Lobsters,cogsci,Cognitive Science,Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model,https://arxiv.org/abs/1703.10135
+125,Lobsters,cogsci,Cognitive Science,Defeating AI image recognition,https://arxiv.org/pdf/1610.08401v1.pdf
+126,Lobsters,cogsci,Cognitive Science,Colormind: deep learning AI that knows color theory,http://colormind.io/
+127,Lobsters,cogsci,Cognitive Science,Recurrent Neural Networks - A Short TensorFlow Tutorial,https://github.com/silicon-valley-data-science/RNN-Tutorial
+128,Lobsters,cogsci,Cognitive Science,Google open-sources Tensorflow based framework for NLP,https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html
+129,Lobsters,cogsci,Cognitive Science,How to replicate IBM Watson hardware and systems design for your own use in your basement (2011),https://www.ibm.com/developerworks/community/blogs/InsideSystemStorage/entry/ibm_watson_how_to_build_your_own_watson_jr_in_your_basement7
+130,Lobsters,cogsci,Cognitive Science,Complexity Aversion when Seeking Alpha,http://home.uchicago.edu/~umar/tarik.umar.jmp.pdf
+131,Lobsters,cogsci,Cognitive Science,Stanford University: Tensorflow for Deep Learning Research,http://web.stanford.edu/class/cs20si/syllabus.html
+132,Lobsters,cogsci,Cognitive Science,Deep Forest: Towards An Alternative to Deep Neural Networks,https://arxiv.org/abs/1702.08835
+133,Lobsters,cogsci,Cognitive Science,Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument,https://arxiv.org/abs/1702.08495
+134,Lobsters,cogsci,Cognitive Science,Deep Voice: real-time neural text-to-speech for production,http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/
+135,Lobsters,cogsci,Cognitive Science,Worker-Owned Cooperative Models for Training Artificial Intelligence,https://homes.cs.washington.edu/~jbragg/files/sriraman-cscw17.pdf
+136,Lobsters,cogsci,Cognitive Science,Why Facts Don’t Change Our Minds,http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+137,Lobsters,cogsci,Cognitive Science,ganguli-lab/twpca: ? Time-warped principal components analysis (twPCA),https://github.com/ganguli-lab/twpca
+138,Lobsters,cogsci,Cognitive Science,"Toddlers’ grammar skills are learned, not innate",http://news.stanford.edu/2017/02/22/new-research-toddlers-grammar-skills-learned-not-innate/
+139,Lobsters,cogsci,Cognitive Science,Having No Life is the New Aspirational Lifestyle,http://hbswk.hbs.edu/item/having-no-life-is-the-new-aspirational-lifestyle
+140,Lobsters,cogsci,Cognitive Science,DeepCoder: Learning to Write Programs,https://arxiv.org/abs/1611.01989
+141,Lobsters,cogsci,Cognitive Science,On sex and AI,https://www.reddit.com/r/artificial/comments/5venjf/on_sex_and_ai/
+142,Lobsters,cogsci,Cognitive Science,Machine Learning @Scale 2017 recap,https://code.facebook.com/posts/1692857177682119/machine-learning-scale-2017-recap/
+143,Lobsters,cogsci,Cognitive Science,A.I. Duet: A piano that responds to you,https://aiexperiments.withgoogle.com/ai-duet
+144,Lobsters,cogsci,Cognitive Science,Semantic Question Matching with Deep Learning - Engineering at Quora,https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+145,Lobsters,cogsci,Cognitive Science,Non-euclidean virtual reality I: explorations of H3,https://arxiv.org/abs/1702.04004
+146,Lobsters,cogsci,Cognitive Science,Attacking machine learning with adversarial examples,https://openai.com/blog/adversarial-example-research/
+147,Lobsters,cogsci,Cognitive Science,Cluster-izing in AFNI: A Response to 'Cluster Failure',https://drive.google.com/file/d/0B6Sn11ZTBrhvRk5oajhXYnJnN3M/view
+148,Lobsters,cogsci,Cognitive Science,TensorFlow v1.0,https://github.com/tensorflow/tensorflow/releases/tag/v1.0.0
+149,Lobsters,cogsci,Cognitive Science,Abusing Generative Adversarial Networks to Make 8-bit Pixel Art,https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7
+150,Lobsters,cogsci,Cognitive Science,10 Essential Usability Metrics,http://measuringu.com/essential-metrics/
+151,Lobsters,cogsci,Cognitive Science,Creating an AI DOOM bot,https://www.codelitt.com/blog/doom-ai/
+152,Lobsters,cogsci,Cognitive Science,Provably Beneficial AI by Stuart Russell,https://www.youtube.com/watch?v=pARXQnX6QS8
+153,Lobsters,cogsci,Cognitive Science,A Review of Temporal Visualizations based on Generalized Space-Time Cube Operations,http://spacetimecubevis.com/
+154,Lobsters,cogsci,Cognitive Science,Overlearning hyperstabilizes a skill by rapidly making neurochemical processing inhibitory-dominant,http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4490.html
+155,Lobsters,cogsci,Cognitive Science,Causality in machine learning - Unofficial Google Data Science,http://www.unofficialgoogledatascience.com/2017/01/causality-in-machine-learning.html
+156,Lobsters,cogsci,Cognitive Science,We Really Don't Know How To Compute!,https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute
+157,Lobsters,cogsci,Cognitive Science,Neural Information Processing Systems (NIPS) 2016 Videos,https://nips.cc/Conferences/2016/Schedule
+158,Lobsters,cogsci,Cognitive Science,Machine Learning for Dummies: Part 1,https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07
+159,Lobsters,cogsci,Cognitive Science,Shark Attacks vs. Plane Parts,https://docs.google.com/document/d/1wC1rLrsM6pI93OpGLMfACeldb5uUQqzPJzz_Aq6GPik/preview
+160,Lobsters,cogsci,Cognitive Science,Duolingo: How we learn how you learn,http://making.duolingo.com/how-we-learn-how-you-learn
+161,Lobsters,cogsci,Cognitive Science,Parable of the Polygons,http://ncase.me/polygons/
+162,Lobsters,cogsci,Cognitive Science,How To Get Into Natural Language Processing,http://blog.ycombinator.com/how-to-get-into-natural-language-processing/
+163,Lobsters,cogsci,Cognitive Science,PyTorch: A python wrapper for Torch,http://pytorch.org/
+164,Lobsters,cogsci,Cognitive Science,Recognizing Traffic Lights With Deep Learning,https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc
+165,Lobsters,cogsci,Cognitive Science,Artificial intelligence predicts when heart will fail,http://www.bbc.com/news/health-38635871
+166,Lobsters,cogsci,Cognitive Science,OpenNMT: Open-Source Neural Machine Translation,https://github.com/OpenNMT/OpenNMT
+167,Lobsters,cogsci,Cognitive Science,A Few Useful Things to Know about Machine Learning,https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+168,Lobsters,cogsci,Cognitive Science,Rules of Machine Learning,http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+169,Lobsters,cogsci,Cognitive Science,The science of Westworld (an AI Summary),https://blog.plan99.net/the-science-of-westworld-ec624585e47
+170,Lobsters,cogsci,Cognitive Science,TensorKart: self-driving MarioKart with TensorFlow,http://kevinhughes.ca/blog/tensor-kart
+171,Lobsters,cogsci,Cognitive Science,33C3: Machine Dreams,https://media.ccc.de/v/33c3-8369-machine_dreams
+172,Lobsters,cogsci,Cognitive Science,10 top fads in education and training,http://donaldclarkplanb.blogspot.com/2016/12/7-top-fads-in-hr.html
+173,Lobsters,cogsci,Cognitive Science,How Self-Driving Cars Work,http://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html
+174,Lobsters,cogsci,Cognitive Science,Learning Machine Learning: A beginner's journey,http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html
+175,Lobsters,cogsci,Cognitive Science,GOTO 2016 • Who do You Trust? Beware of Your Brain • Linda Rising,https://www.youtube.com/watch?v=IGHhCmdIvuI
+176,Lobsters,cogsci,Cognitive Science,Building Jarvis,https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634/
+177,Lobsters,cogsci,Cognitive Science,Success in Introductory Programming: What Works?,https://swcarpentry.github.io/instructor-training/files/papers/porter-what-works-2013.pdf
+178,Lobsters,cogsci,Cognitive Science,Spaced repetition,https://www.gwern.net/Spaced%20repetition
+179,Lobsters,cogsci,Cognitive Science,Neuroscientists Say Simple Mathematical Logic Underlies Complex Brain Computations,http://www.sci-news.com/featurednews/mathematical-logic-underlies-brain-computations-04397.html
+180,Lobsters,cogsci,Cognitive Science,Connecting Communities,https://speakerdeck.com/ange/connecting-communities
+181,Lobsters,cogsci,Cognitive Science,Tiny-dnn – A C++11 implementation of deep learning,https://github.com/tiny-dnn/tiny-dnn
+182,Lobsters,cogsci,Cognitive Science,H.M.S. Dolores (Game Review by Chris Wray),https://opinionatedgamers.com/2016/10/26/h-m-s-dolores-game-review-by-chris-wray/
+183,Lobsters,cogsci,Cognitive Science,Q&A: Ocelot Society on building Event[0] around an AI chatbot,http://www.gamasutra.com/view/news/285902/QA_Ocelot_Society_on_building_Event0_around_an_AI_chatbot.php
+184,Lobsters,cogsci,Cognitive Science,Stuart Russell's Q & A: The future of artificial intelligence,http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html
+185,Lobsters,cogsci,Cognitive Science,An Alarm Designer on How to Annoy People in the Most Effective Ways,http://www.atlasobscura.com/articles/an-alarm-designer-on-how-to-annoy-people-in-the-most-effective-ways
+186,Lobsters,cogsci,Cognitive Science,Ability to remember code improves with experience,http://shape-of-code.coding-guidelines.com/2016/11/17/ability-to-remember-code-improves-with-experience/
+187,Lobsters,cogsci,Cognitive Science,Google QuickDraw,https://quickdraw.withgoogle.com/
+188,Lobsters,cogsci,Cognitive Science,The Post Virtual Reality Sadness,https://medium.com/desk-of-van-schneider/the-post-virtual-reality-sadness-fb4a1ccacae4
+189,Lobsters,cogsci,Cognitive Science,Statistical Literacy and You: An Intro for Programmers · Schneems,http://schneems.com/2016/10/14/statistical-lit.html
+190,Lobsters,cogsci,Cognitive Science,Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment,http://kmunger.github.io/pdfs/Twitter_harassment_final.pdf
+191,Lobsters,cogsci,Cognitive Science,Why is machine learning 'hard'?,http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html
+192,Lobsters,cogsci,Cognitive Science,Guns and Guardians: Comparative Cluster Analysis and Behavioral Profiling in Destiny,https://andersdrachen.files.wordpress.com/2014/07/gunsguardians.pdf
+193,Lobsters,cogsci,Cognitive Science,FlappyLearning - Program learning to play Flappy Bird by machine learning,https://github.com/xviniette/FlappyLearning
+194,Lobsters,cogsci,Cognitive Science,Differentiable neural computers,https://deepmind.com/blog/differentiable-neural-computers/
+195,Lobsters,cogsci,Cognitive Science,Neural Enhance - Super Resolution for images using deep learning.,https://github.com/alexjc/neural-enhance
+196,Lobsters,cogsci,Cognitive Science,Ten Commandments for Aspiring Superforecasters,https://www.farnamstreetblog.com/2015/12/ten-commandments-for-superforecasters/
+197,Lobsters,cogsci,Cognitive Science,AI•ON: Artificial Intelligence Open Network,http://ai-on.org/
+198,Lobsters,cogsci,Cognitive Science,Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition,http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/
+199,Lobsters,cogsci,Cognitive Science,A parallel recommendation engine in Julia.,http://juliacomputing.com/blog/2016/04/22/a-parallel-recommendation-engine-in-julia.html
+200,Lobsters,cogsci,Cognitive Science,"When her best friend died, she used artificial intelligence to keep talking to him",http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
+201,Lobsters,cogsci,Cognitive Science,An overview of gradient descent optimization algorithms,http://sebastianruder.com/optimizing-gradient-descent/
+202,Lobsters,cogsci,Cognitive Science,How to confuse a moral compass,http://www.nature.com/news/how-to-confuse-a-moral-compass-1.11447
+203,Lobsters,cogsci,Cognitive Science,Linguistic relativity (Sapir–Whorf hypothesis),https://en.wikipedia.org/wiki/Linguistic_relativity
+204,Lobsters,cogsci,Cognitive Science,Concise Visual Summary of Deep Learning Architectures,http://www.datasciencecentral.com/profiles/blogs/concise-visual-summary-of-deep-learning-architectures
+205,Lobsters,cogsci,Cognitive Science,La révolution de l’intelligence artificielle [French],https://www.facebook.com/umontreal/videos/10157469146890494/
+206,Lobsters,cogsci,Cognitive Science,Strengthening the Student Toolbox: Study Strategies to Boost Learning,http://www.aft.org/sites/default/files/periodicals/dunlosky.pdf
+207,Lobsters,cogsci,Cognitive Science,Evidence Rebuts Chomsky's Theory of Language Learning,http://www.scientificamerican.com/article/evidence-rebuts-chomsky-s-theory-of-language-learning/
+208,Lobsters,cogsci,Cognitive Science,Deep Neural Networks for YouTube Recommendations,http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+209,Lobsters,cogsci,Cognitive Science,Skill acquisition in online games,http://www.dataonthemind.org/node/1591
+210,Lobsters,cogsci,Cognitive Science,A Cognitive Neuroscience Perspective on Memory for Programming Tasks,http://chrisparnin.me/pdf/ppig10.pdf
+211,Lobsters,cogsci,Cognitive Science,Our First Reddit Bot - Coloring B&W Photos Using AI Deep Neural Network Machine,http://www.whatimade.today/our-frst-reddit-bot-coloring-b-2/
+212,Lobsters,cogsci,Cognitive Science,Do Day Traders Rationally Learn About Their Ability?,https://faculty.haas.berkeley.edu/odean/papers/Day%20Traders/Day%20Trading%20and%20Learning%20110217.pdf
+213,Lobsters,cogsci,Cognitive Science,How a Japanese cucumber farmer is using deep learning and TensorFlow,https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow
+214,Lobsters,cogsci,Cognitive Science,OpenAI - Infrastructure for Deep Learning,https://openai.com/blog/infrastructure-for-deep-learning/
+215,Lobsters,cogsci,Cognitive Science,"Programmer, Interrupted",http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php
+216,Lobsters,cogsci,Cognitive Science,Recommending music on Spotify with deep learning,http://benanne.github.io/2014/08/05/spotify-cnns.html
+217,Lobsters,cogsci,Cognitive Science,How AI and Machine Learning Work at Apple,https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b
+218,Lobsters,cogsci,Cognitive Science,"Motivational Incongruence and Well-Being at the Workplace: Person-Job Fit, Job Burnout, and Physical Symptoms",http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01153/full
+219,Lobsters,cogsci,Cognitive Science,fasttext - A Python interface for Facebook fastText,https://github.com/pyk/fastText.py
+220,Lobsters,cogsci,Cognitive Science,Hacking Your Head : Managing Information Overload,https://media.ccc.de/v/emf2016-141-hacking-your-head-managing-information-overload
+221,Lobsters,cogsci,Cognitive Science,Why is machine learning not more widely used for medical diagnosis?,https://www.quora.com/Why-is-machine-learning-not-more-widely-used-for-medical-diagnosis
+222,Lobsters,cogsci,Cognitive Science,IBM Watson correctly diagnoses a form of leukemia,http://siliconangle.com/blog/2016/08/05/watson-correctly-diagnoses-woman-after-doctors-were-stumped/
+223,Lobsters,cogsci,Cognitive Science,Information + people != democracy,https://grugq.tumblr.com/post/148394704908/cyber-showdown
+224,Lobsters,cogsci,Cognitive Science,facebook opensources fastText: a library for efficient learning of word representations and sentence,https://github.com/facebookresearch/fastText
+225,Lobsters,cogsci,Cognitive Science,Why Minimal Guidance During Instruction Does Not Work (2006),http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf
+226,Lobsters,cogsci,Cognitive Science,In Memory: Seymour Papert,https://www.media.mit.edu/people/in-memory/papert
+227,Lobsters,cogsci,Cognitive Science,A first lesson in meta-rationality,http://meaningness.com/metablog/bongard-meta-rationality
+228,Lobsters,cogsci,Cognitive Science,Can Artificial Intelligences Suffer from Mental Illness? A Philosophical Matter to Consider,http://link.springer.com/article/10.1007/s11948-016-9783-0
+229,Lobsters,cogsci,Cognitive Science,"Udacity launches the ""Self-Driving Car Engineer Nanodegree""",https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+230,Lobsters,cogsci,Cognitive Science,Language Evolution Simulation,https://fatiherikli.github.io/language-evolution-simulation/
+231,Lobsters,cogsci,Cognitive Science,Designing for Adaptation in Games: An Early Analysis,http://www.gamasutra.com/blogs/MatthijsVandeLaar/20160715/277159/Designing_for_Adaptation_in_Games_An_Early_Analysis.php
+232,Lobsters,cogsci,Cognitive Science,"Exploring Facebook’s massive, picture-painting AI brain",http://www.theverge.com/2016/7/13/12172904/facebook-ai-big-sur-machine-learning-prineville-data-center
+233,Lobsters,cogsci,Cognitive Science,Deep Learning Book,http://www.deeplearningbook.org/
+234,Lobsters,cogsci,Cognitive Science,Capital Capitals,http://chronicle.com/blogs/linguafranca/2016/07/05/capital-capitals/
+235,Lobsters,cogsci,Cognitive Science,I Am Robot: (Deep) Learning to Break Semantic Image CAPTCHAs,http://www.cs.columbia.edu/~polakis/papers/sivakorn_eurosp16.pdf
+236,Lobsters,cogsci,Cognitive Science,Writing good code: how to reduce the cognitive load of your code,http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/
+237,Lobsters,cogsci,Cognitive Science,Behind Apple’s Advanced Computer Vision for Photos app,https://medium.com/@iosight/behind-apples-advanced-computer-vision-for-photos-app-41f3f617d31c
+238,Lobsters,cogsci,Cognitive Science,People for the Ethical Treatment of Reinforcement Learners,http://petrl.org/
+239,Lobsters,cogsci,Cognitive Science,Social Clicks: What and Who Gets Read on Twitter?,https://hal.inria.fr/hal-01281190/en/
+240,Lobsters,cogsci,Cognitive Science,Aphantasia: How It Feels To Be Blind In Your Mind,http://archive.is/plTOj
+241,Lobsters,cogsci,Cognitive Science,A Second Year of Spaced Repetition Software in the Classroom,http://lesswrong.com/lw/nkz/a_second_year_of_spaced_repetition_software_in/
+242,Lobsters,cogsci,Cognitive Science,"Artificial intelligence should be protected by human rights, says Oxford mathematician",http://www.sciencealert.com/artificial-intelligence-should-be-protected-by-human-rights-says-oxford-mathematician
+243,Lobsters,cogsci,Cognitive Science,UNU.ai - Many Ask. UNU Answers.,http://unu.ai/
+244,Lobsters,cogsci,Cognitive Science,Urbit - A personal server,https://urbit.org/posts/overview/
+245,Lobsters,cogsci,Cognitive Science,Unethical Research: How to Create a Malevolent Artificial Intelligence,http://arxiv.org/pdf/1605.02817v1.pdf
+246,Lobsters,cogsci,Cognitive Science,Understanding Convolutional Neural Networks,http://arxiv.org/pdf/1605.09081v1.pdf
+247,Lobsters,cogsci,Cognitive Science,Your mind will not be uploaded (2014),http://www.softmachines.org/wordpress/?p=1558
+248,Lobsters,cogsci,Cognitive Science,TensorFlow: A system for large-scale machine learning,http://arxiv.org/abs/1605.08695
+249,Lobsters,cogsci,Cognitive Science,Principles of Hierarchical Temporal Memory (HTM): Foundations of Machine Intelligence,https://www.youtube.com/watch?v=6ufPpZDmPKA
+250,Lobsters,cogsci,Cognitive Science,Hubert Dreyfus's critique on artificial intelligence,https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence
+251,Lobsters,cogsci,Cognitive Science,Your brain does not process information and it is not a computer,https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
+252,Lobsters,cogsci,Cognitive Science,"Bots lack metaphors, and that is their biggest asset",http://cfenollosa.com/blog/bots-lack-metaphors-and-that-is-their-biggest-asset.html
+253,Lobsters,cogsci,Cognitive Science,Google Translate Works Offline (guess the size of the translate-English-to-Hindi file),https://googleblog.blogspot.com/2016/05/translate-where-you-need-it-in-any-app.html
+254,Lobsters,cogsci,Cognitive Science,The illusion of understanding,http://meaningness.com/understanding
+255,Lobsters,cogsci,Cognitive Science,Marketing Grit: When Science Lags Behind Populism,http://quillette.com/2016/05/07/marketing-grit-when-science-lags-behind-populism/
+256,Lobsters,cogsci,Cognitive Science,Learning Chess at 40,http://nautil.us/issue/36/aging/learning-chess-at-40
+257,Lobsters,cogsci,Cognitive Science,AI talent grab sparks excitement and concern,http://www.nature.com/news/ai-talent-grab-sparks-excitement-and-concern-1.19821
+258,Lobsters,cogsci,Cognitive Science,Cruise Control for Pedestrians: Controlling Walking Direction using Electrical Muscle Stimulation,http://hci.uni-hannover.de/papers/pfeiffer2015CHICruise.pdf
+259,Lobsters,cogsci,Cognitive Science,Studying the Language and Structure in Non-Programmers’ Solutions to Programming Problems,http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf
+260,Lobsters,cogsci,Cognitive Science,How the wisdom of the crowd works - and why it can fail,http://www.clearerthinking.org/#!How-the-wisdom-of-the-crowds-works-and-why-it-can-fail/c1toj/57067b7f0cf2ecf50ee71f5b
+261,Lobsters,cogsci,Cognitive Science,What It’s Like to ‘Wake Up’ From Autism After Magnetic Stimulation,http://nymag.com/scienceofus/2016/04/what-its-like-to-wake-up-from-autism-after-magnetic-stimulation.html
+262,Lobsters,cogsci,Cognitive Science,Commonsense Reasoning and Commonsense Knowledge in Artificial Intelligence (2015),http://cacm.acm.org/magazines/2015/9/191169-commonsense-reasoning-and-commonsense-knowledge-in-artificial-intelligence/fulltext
+263,Lobsters,cogsci,Cognitive Science,The Prospects and Risks of Neurostimulation,http://www.nature.com/nature/journal/v531/n7592_supp/full/531S6a.html
+264,Lobsters,cogsci,Cognitive Science,KGS Go Server Open Sources Protocol,https://plus.google.com/+Gokgs/posts/RTK8aFQd98Y
+265,Lobsters,cogsci,Cognitive Science,My son's flashcard routine,http://bentilly.blogspot.com/2012/10/my-sons-flashcard-routine.html
+266,Lobsters,cogsci,Cognitive Science,Artificial Intelligence as Force of Nature,http://www.the-vital-edge.com/artificial-intelligence-nature/
+267,Lobsters,cogsci,Cognitive Science,Political Topic Confounds Math Ability,http://grist.org/politics/science-confirms-politics-wrecks-your-ability-to-do-math/
+268,Lobsters,cogsci,Cognitive Science,How to Think About Bots,http://motherboard.vice.com/read/how-to-think-about-bots
+269,Lobsters,cogsci,Cognitive Science,Novice pilot skills improved via expert-pilot brainwave patterns,http://www.kurzweilai.net/now-you-can-learn-to-fly-a-plane-from-expert-pilot-brainwave-patterns
+270,Lobsters,cogsci,Cognitive Science,ACL Anthology: A Digital Archive of Research Papers in Computational Linguistics,http://www.aclweb.org/anthology/
+271,Lobsters,cogsci,Cognitive Science,Playing Games Across the Superintelligence Divide,http://game.engineering.nyu.edu/wp-content/uploads/2016/02/playing-games-superintelligence-AAAI16-FINAL.pdf
+272,Lobsters,cogsci,Cognitive Science,Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective,https://www.youtube.com/watch?v=dXQPL9GooyI
+273,Lobsters,cogsci,Cognitive Science,"She’ll Text Me, She’ll Text Me Not",http://nautil.us/issue/33/attraction/shell-text-me-shell-text-me-not
+274,Lobsters,cogsci,Cognitive Science,AI's Biggest Danger Is So Subtle You Might Not Even Notice It,http://www.fastcodesign.com/3055867/ais-biggest-danger-is-so-subtle-you-might-not-even-notice-it
+275,Lobsters,cogsci,Cognitive Science,Cross-cultural studies of toddler self-awareness have been using an unfair test,http://digest.bps.org.uk/2016/02/cross-cultural-studies-of-toddler-self.html
+276,Lobsters,cogsci,Cognitive Science,jsPsych - behavioral experiments in a web browser,http://www.jspsych.org/
+277,Lobsters,cogsci,Cognitive Science,Deep Residual Learning for Image Recognition (from Microsoft Research Asia),https://github.com/KaimingHe/deep-residual-networks
+278,Lobsters,cogsci,Cognitive Science,Training Program Closes Spatial Cognition Gap,http://nautil.us/issue/32/space/men-are-better-at-maps-until-women-take-this-course
+279,Lobsters,cogsci,Cognitive Science,Petuum: A New Platform for Distributed Machine Learning on Big Data,http://www.cs.cmu.edu/~./seunghak/petuum_kdd15.pdf
+280,Lobsters,cogsci,Cognitive Science,Game Genre Map: The Cognitive Threshold in Strategy Games,http://quanticfoundry.com/2016/01/20/game-genre-map-the-cognitive-threshold-in-strategy-games/
+281,Lobsters,cogsci,Cognitive Science,Quora Session with Yoshua Bengio,https://www.quora.com/profile/Yoshua-Bengio/session/37/
+282,Lobsters,cogsci,Cognitive Science,These Tricks Make Virtual Reality Feel Real,http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real
+283,Lobsters,cogsci,Cognitive Science,Carol Dweck Revisits the 'Growth Mindset',http://www.edweek.org/ew/articles/2015/09/23/carol-dweck-revisits-the-growth-mindset.html
+284,Lobsters,cogsci,Cognitive Science,The Unreasonable Reputation of Neural Networks,http://thinkingmachines.mit.edu/blog/unreasonable-reputation-neural-networks
+285,Lobsters,cogsci,Cognitive Science,A 'Brief' History of Neural Nets and Deep Learning,http://andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
+286,Lobsters,cogsci,Cognitive Science,The Science of Everyday Thinking,http://think101.org/
+287,Lobsters,cogsci,Cognitive Science,McCollough Effect,http://www.michaelbach.de/ot/col-McCollough/index.html
+288,Lobsters,cogsci,Cognitive Science,We Talked to a Witch Who Casts Viruses Out of Computers With Magic,https://motherboard.vice.com/en_uk/read/we-talked-to-a-witch-who-casts-viruses-out-of-computers-with-magic
+289,Lobsters,cogsci,Cognitive Science,Free will does not exist,http://backreaction.blogspot.co.uk/2016/01/free-will-is-dead-lets-bury-it.html
+290,Lobsters,cogsci,Cognitive Science,Bug eyes: Tiny glasses confirm 3D vision in insects,http://www.ncl.ac.uk/press/news/2016/01/3dglassesformantises/
+291,Lobsters,cogsci,Cognitive Science,About ASETNIOP,http://asetniop.com/about.shtml
+292,Lobsters,cogsci,Cognitive Science,Timing of Turn-Taking in Conversation,http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-conversations/422439/
+293,Lobsters,cogsci,Cognitive Science,Detrimental Effects of Reward: Reality or Myth? (1996),http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.497.5780&rep=rep1&type=pdf
+294,Lobsters,cogsci,Cognitive Science,The concept of different “learning styles” is one of the greatest neuroscience myths,http://qz.com/585143/the-concept-of-different-learning-styles-is-one-of-the-greatest-neuroscience-myths/
+295,Lobsters,cogsci,Cognitive Science,The psychology of clickbait,http://www.wired.com/2015/12/psychology-of-clickbait/
+296,Lobsters,cogsci,Cognitive Science,Hierarchy is Detrimental for Human Cooperation,http://www.nature.com/articles/srep18634
+297,Lobsters,cogsci,Cognitive Science,The science of cycology: Failures to understand how everyday objects work,https://www.liverpool.ac.uk/~rlawson/PDF_Files/L-M&C-2006.pdf
+298,Lobsters,cogsci,Cognitive Science,Learning to Deal With the Impostor Syndrome,http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html
+299,Lobsters,cogsci,Cognitive Science,New Technologies and Mixed-Use Convergence - How Humans and Algorithms are Adapting to Each Other,http://posr.org/w/images/b/b5/Applin_Fischer_IEEE_ISTAS_2015_PREPUB_DRAFT.pdf
+300,Lobsters,cogsci,Cognitive Science,Who Will Choose AI’s Ethical Code?,http://www.technologyreview.com/news/544556/what-will-it-take-to-build-a-virtuous-ai/
+301,Lobsters,cogsci,Cognitive Science,"Gary Marcus, A Deep Learning Dissenter, Thinks He Has a More Powerful AI Approach",http://www.technologyreview.com/featuredstory/544606/can-this-man-make-ai-more-human/
+302,Lobsters,cogsci,Cognitive Science,Machine Learning: The High-Interest Credit Card of Technical Debt,http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
+303,Lobsters,cogsci,Cognitive Science,"Chomsky Was Right, NYU Researchers Find: We Do Have a “Grammar” in Our Head",http://www.nyu.edu/about/news-publications/news/2015/12/07/chomsky-was-right-nyu-researchers-find-we-do-have-a-grammar-in-our-head.html
+304,Lobsters,cogsci,Cognitive Science,Introducing OpenAI,https://openai.com/blog/introducing-openai/
+305,Lobsters,cogsci,Cognitive Science,Microsoft researchers win ImageNet computer vision challenge,http://blogs.microsoft.com/next/2015/12/10/microsoft-researchers-win-imagenet-computer-vision-challenge/
+306,Lobsters,cogsci,Cognitive Science,Life With My Robot Secretary,http://www.fastcodesign.com/3052646/innovation-by-design/life-with-my-robot-secretary
+307,Lobsters,cogsci,Cognitive Science,Rationality: From AI to Zombies,https://intelligence.org/rationality-ai-zombies/
+308,Lobsters,cogsci,Cognitive Science,MarI/O - Machine Learning for Video Games,https://www.youtube.com/watch?v=qv6UVOQ0F44
+309,Lobsters,cogsci,Cognitive Science,English is an unusual language,https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages
+310,Lobsters,cogsci,Cognitive Science,How computers translate human language,https://www.youtube.com/watch?v=X4BmV2t83SM
+311,Lobsters,cogsci,Cognitive Science,Microsoft Project Oxford,https://www.projectoxford.ai/demo/emotion#detection
+312,Lobsters,cogsci,Cognitive Science,24/192 Music Downloads are Very Silly Indeed,http://people.xiph.org/~xiphmont/demo/neil-young.html
+313,Lobsters,cogsci,Cognitive Science,Turing's Red Flag,http://arxiv.org/pdf/1510.09033.pdf
+314,Lobsters,cogsci,Cognitive Science,Math & Beauty & Brain Areas,http://www.dam.brown.edu/people/mumford/blog/2015/MathBeautyBrain.html
+315,Lobsters,cogsci,Cognitive Science,What a Deep Neural Network thinks about your #selfie,http://karpathy.github.io/2015/10/25/selfie/
+316,Lobsters,cogsci,Cognitive Science,Obstacles On the path to AI (LeCun),https://drive.google.com/file/d/0BxKBnD5y2M8NbWN6XzM5UXkwNDA/view?pli=1
+317,Lobsters,cogsci,Cognitive Science,How Artificial Intelligence Will Really Kill Us All,http://paultyma.blogspot.com/2015/10/how-artificial-intelligence-will-really.html
+318,Lobsters,cogsci,Cognitive Science,From Seed AI to Technological Singularity via Recursively Self-Improving Software,http://arxiv.org/abs/1502.06512
+319,Lobsters,cogsci,Cognitive Science,Effective Learning Strategies for Programmers,http://akaptur.github.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
+320,Lobsters,cogsci,Cognitive Science,Datacratic MLDB,http://mldb.ai
+321,Lobsters,cogsci,Cognitive Science,Metaphors We Code By,https://speakerdeck.com/npryce/devday-2015
+322,Lobsters,cogsci,Cognitive Science,Two Minute Papers - Deep Neural Network Learns Van Gogh's Art,http://www.youtube.com/watch?v=-R9bJGNHltQ
+323,Lobsters,cogsci,Cognitive Science,“Logic Check” — Fixing Communication Through Deep Learning,https://fixingtao.com/2015/08/logic-check-fixing-communication-through-deep-learning/
+324,Lobsters,cogsci,Cognitive Science,Allen Newell : Desires and Diversions : 1991 : Carnegie Mellon University,http://www.youtube.com/watch?v=_sD42h9d1pk
+325,Lobsters,cogsci,Cognitive Science,Scaling Collective Intelligence,https://medium.com/enspiral-tales/scaling-collective-intelligence-4b08a9214406
+326,Lobsters,cogsci,Cognitive Science,A Minimal Architecture for General Cognition,http://axon.cs.byu.edu/mrsmith/2015IJCNN_MANIC.pdf
+327,Lobsters,cogsci,Cognitive Science,The Frame Problem,http://plato.stanford.edu/entries/frame-problem/
+328,Lobsters,cogsci,Cognitive Science,Composing Music With Recurrent Neural Networks,http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+329,Lobsters,cogsci,Cognitive Science,The Next Wave A Conversation With John Markoff,http://edge.org/conversation/john_markoff-the-next-wave
+330,Lobsters,cogsci,Cognitive Science,Musical Preferences are Linked to Cognitive Styles,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131151
+331,Lobsters,cogsci,Cognitive Science,Proceeding of the First International Conference on Live Coding,http://iclc.livecodenetwork.org/2015/iclc2015-proceedings.pdf
+332,Lobsters,cogsci,Cognitive Science,Parsing Garden Path Sentences,https://en.wikipedia.org/wiki/Garden_path_sentence#Parsing
+333,Lobsters,cogsci,Cognitive Science,Understanding Neural Networks Through Deep Visualization,http://yosinski.com/deepvis
+334,Lobsters,cogsci,Cognitive Science,Caffe is a Deep Learning Framework,http://caffe.berkeleyvision.org/
+335,Lobsters,cogsci,Cognitive Science,Google DeepMind Teaches Artificial Intelligence Machines to Read using CNN articles,http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/
+336,Lobsters,cogsci,Cognitive Science,The AI Revolution: Road to Superintelligence,http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+337,Lobsters,cogsci,Cognitive Science,The American Journal of Play,http://www.journalofplay.org/issues/7/2
+338,Lobsters,cogsci,Cognitive Science,Deep Learning vs Probabilistic Graphical Models vs Logic,http://quantombone.blogspot.com/2015/04/deep-learning-vs-probabilistic.html
+339,Lobsters,cogsci,Cognitive Science,"DST starts in USA & Canada on Sunday, March 8, 2015; Areas with no DST; Recent Bills to Abolish DST",http://www.timeanddate.com/news/time/usa-canada-start-dst-2015.html
+340,Lobsters,cogsci,Cognitive Science,The Society of Mind,http://aurellem.org/society-of-mind/
+341,Lobsters,cogsci,Cognitive Science,"Alan Kay's tribute to Ted Nelson at ""Intertwingled"" Fest",https://www.youtube.com/watch?v=AnrlSqtpOkw&feature=youtu.be
+342,Lobsters,cogsci,Cognitive Science,brain time,http://eagleman.com/blog/item/6-brain-time
+343,Lobsters,cogsci,Cognitive Science,Burnout and Ops,https://www.usenix.org/conference/lisa14/conference-program/presentation/lehtonen
+344,Lobsters,cogsci,Cognitive Science,The Design and Implementation of Probabilistic Programming Languages,http://dippl.org/
+345,Lobsters,cogsci,Cognitive Science,Do Deep Nets Really Need to be Deep?,http://arxiv.org/pdf/1312.6184v5.pdf
+346,Lobsters,cogsci,Cognitive Science,How to tell when a robot has written you a letter,https://medium.com/message/how-to-tell-when-a-robot-has-written-you-a-letter-701562705d59
+347,Lobsters,cogsci,Cognitive Science,Neglected machine learning ideas,http://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/
+348,Lobsters,cogsci,Cognitive Science,How to Give an Academic Talk,http://pne.people.si.umich.edu/PDF/howtotalk.pdf
+349,Lobsters,cogsci,Cognitive Science,How to Read a Book,http://pne.people.si.umich.edu/PDF/howtoread.pdf
+350,Lobsters,cogsci,Cognitive Science,Secrets of the Creative Brain,http://www.theatlantic.com/features/archive/2014/06/secrets-of-the-creative-brain/372299/
+351,Lobsters,cogsci,Cognitive Science,Anti-Tesla sentiment + the death of optimism : Nash and Pareto Equilibrium,http://cjohnson.io/2014/tesla
+352,Lobsters,cogsci,Cognitive Science,Bret Victor - Seeing Spaces,http://vimeo.com/97903574
+353,Lobsters,cogsci,Cognitive Science,N.I.H. Seeks $4.5 Billion to Try to Crack the Code of How Brains Function,http://www.nytimes.com/2014/06/06/science/nih-seeks-4-5-billion-to-try-to-crack-the-code-of-how-brains-function.html?action=click&contentCollection=Health&region=Footer&module=MoreInSection&pgtype=Blogs
+354,Lobsters,cogsci,Cognitive Science,The People Who Would Teach Machines to Learn,http://blog.bigml.com/2014/05/19/the-people-who-would-teach-machines-to-learn/
+355,Lobsters,cogsci,Cognitive Science,"The Mystery of Go, the Ancient Game That Computers Still Can’t Win",http://www.wired.com/2014/05/the-world-of-computer-go/
+356,Lobsters,cogsci,Cognitive Science,Vindinium,http://vindinium.org/
+357,Lobsters,cogsci,Cognitive Science,Computer Algorithm Seeks To Crack Code Of Fiction Bestsellers,http://www.insidescience.org/content/computer-algorithm-seeks-crack-code-fiction-bestsellers/1530
+358,Lobsters,cogsci,Cognitive Science,Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank,http://nlp.stanford.edu/sentiment/index.html
+359,Lobsters,cogsci,Cognitive Science,Revisiting why incompetents think they’re awesome,http://arstechnica.com/science/2012/05/revisiting-why-incompetents-think-theyre-awesome/
+360,Lobsters,cogsci,Cognitive Science,Neural Networks in Clojure with core.matrix,http://gigasquidsoftware.com/blog/2013/12/02/neural-networks-in-clojure-with-core-dot-matrix/
+361,Lobsters,cogsci,Cognitive Science,How abstractions encourage good thinking,http://www.saturnflyer.com/blog/jim/2013/11/13/how-abstractions-encourage-good-thinking/
+362,Lobsters,cogsci,Cognitive Science,The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+363,Lobsters,cogsci,Cognitive Science,The Benefit of Doubt: Fake Progress and Lumosity’s “Brain Games”,http://www.mediumdifficulty.com/2012/08/20/the-doubt-of-thebenefit/
+364,Lobsters,cogsci,Cognitive Science,Procrastination Is Not Laziness,http://thoughtcatalog.com/2013/procrastination-is-not-laziness/
+365,Lobsters,cogsci,Cognitive Science,Athene's Theory of Everything - YouTube (2011),http://www.youtube.com/watch?v=dbh5l0b2-0o

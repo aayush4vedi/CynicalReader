@@ -1,0 +1,189 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,perl,Perl,Hardening Perl’s Hash Function (2013),https://blog.booking.com/hardening-perls-hash-function.html
+2,Lobsters,perl,Perl,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+3,Lobsters,perl,Perl,Perl7 is a fork of values,http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html
+4,Lobsters,perl,Perl,"Demonstrating PERL with Tic-Tac-Toe, Part 1",https://fedoramagazine.org/demonstrating-perl-with-tic-tac-toe-part-1/
+5,Lobsters,perl,Perl,Thinking about a new Type System for Perl/Cor,https://github.com/Ovid/Cor/wiki/Type-System
+6,Lobsters,perl,Perl,Zing - Actor Toolkit and Multi-Process Management System,https://github.com/iamalnewkirk/zing
+7,Lobsters,perl,Perl,Perl is dying quick. Could be extinct by 2023,https://thehftguy.com/2019/10/07/perl-is-dying-quick-could-be-extinct-by-2023/
+8,Lobsters,perl,Perl,Announcing Perl 7,https://www.perl.com/article/announcing-perl-7/
+9,Lobsters,perl,Perl,Perl 5.32 released,https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod
+10,Lobsters,perl,Perl,Conference in the Cloud – A Perl & Raku Conference (June 24-26 2020),https://perlconference.us/tpc-2020-cloud/
+11,Lobsters,perl,Perl,Find the most recent/dependent RFCs from a list,https://strayalpha.com/software/rfcwhatimean/rfc-what-i-mean.pl
+12,Lobsters,perl,Perl,Perl scripts for phylogenomic analysis,https://github.com/daisieh/phylogenomics
+13,Lobsters,perl,Perl,A Review of Perl 6 (Raku) (2017),https://www.evanmiller.org/a-review-of-perl-6.html
+14,Lobsters,perl,Perl,Why does OpenBSD still include Perl in its base installation?,https://marc.info/?l=openbsd-misc&m=159041121804486&w=2
+15,Lobsters,perl,Perl,WebPerl,https://webperl.zero-g.net/
+16,Lobsters,perl,Perl,Should x < $foo < y read from $foo once or twice? Perl debates,https://github.com/Perl/perl5/issues/17692
+17,Lobsters,perl,Perl,You have to kill your perlings,http://nibblestew.blogspot.com/2020/05/you-have-to-kill-your-perlings.html
+18,Lobsters,perl,Perl,"Apocalypse 1: The Ugly, the Bad, and the Good (2001)",https://www.perl.com/pub/2001/04/02/wall.html/
+19,Lobsters,perl,Perl,"Larry Wall makes fun of Python, PostScript etc (2010)",https://www.youtube.com/watch?v=uzUTIffsc-M
+20,Lobsters,perl,Perl,preconfigured opinionated IkiWiki in a container,https://jmtd.net/log/opinionated_ikiwiki/
+21,Lobsters,perl,Perl,Simulated Losses to a Covid-19 Outbreak in the US Congress,https://www.dolthub.com/blog/2020-03-27-whos-at-risk-of-covid19-in-congress/
+22,Lobsters,perl,Perl,Natural Language Principles in Perl,http://www.wall.org/~larry/natural.html
+23,Lobsters,perl,Perl,Testing Perl Clients and Go Servers,https://blog.afoolishmanifesto.com/posts/testing-perl-clients-golang-servers/
+24,Lobsters,perl,Perl,Lingua::Romana::Perligata -- Perl for the XXIimum Century,http://users.monash.edu/~damian/papers/HTML/Perligata.html
+25,Lobsters,perl,Perl,Higher-Order Perl,https://hop.perl.plover.com/
+26,Lobsters,perl,Perl,Hardening Perl’s Hash Function (2013),https://blog.booking.com/hardening-perls-hash-function.html
+27,Lobsters,perl,Perl,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+28,Lobsters,perl,Perl,Perl7 is a fork of values,http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html
+29,Lobsters,perl,Perl,"Demonstrating PERL with Tic-Tac-Toe, Part 1",https://fedoramagazine.org/demonstrating-perl-with-tic-tac-toe-part-1/
+30,Lobsters,perl,Perl,Thinking about a new Type System for Perl/Cor,https://github.com/Ovid/Cor/wiki/Type-System
+31,Lobsters,perl,Perl,Zing - Actor Toolkit and Multi-Process Management System,https://github.com/iamalnewkirk/zing
+32,Lobsters,perl,Perl,Perl is dying quick. Could be extinct by 2023,https://thehftguy.com/2019/10/07/perl-is-dying-quick-could-be-extinct-by-2023/
+33,Lobsters,perl,Perl,Announcing Perl 7,https://www.perl.com/article/announcing-perl-7/
+34,Lobsters,perl,Perl,Perl 5.32 released,https://metacpan.org/pod/release/XSAWYERX/perl-5.32.0/pod/perldelta.pod
+35,Lobsters,perl,Perl,Conference in the Cloud – A Perl & Raku Conference (June 24-26 2020),https://perlconference.us/tpc-2020-cloud/
+36,Lobsters,perl,Perl,Find the most recent/dependent RFCs from a list,https://strayalpha.com/software/rfcwhatimean/rfc-what-i-mean.pl
+37,Lobsters,perl,Perl,Perl scripts for phylogenomic analysis,https://github.com/daisieh/phylogenomics
+38,Lobsters,perl,Perl,A Review of Perl 6 (Raku) (2017),https://www.evanmiller.org/a-review-of-perl-6.html
+39,Lobsters,perl,Perl,Why does OpenBSD still include Perl in its base installation?,https://marc.info/?l=openbsd-misc&m=159041121804486&w=2
+40,Lobsters,perl,Perl,WebPerl,https://webperl.zero-g.net/
+41,Lobsters,perl,Perl,Should x < $foo < y read from $foo once or twice? Perl debates,https://github.com/Perl/perl5/issues/17692
+42,Lobsters,perl,Perl,You have to kill your perlings,http://nibblestew.blogspot.com/2020/05/you-have-to-kill-your-perlings.html
+43,Lobsters,perl,Perl,"Apocalypse 1: The Ugly, the Bad, and the Good (2001)",https://www.perl.com/pub/2001/04/02/wall.html/
+44,Lobsters,perl,Perl,"Larry Wall makes fun of Python, PostScript etc (2010)",https://www.youtube.com/watch?v=uzUTIffsc-M
+45,Lobsters,perl,Perl,preconfigured opinionated IkiWiki in a container,https://jmtd.net/log/opinionated_ikiwiki/
+46,Lobsters,perl,Perl,Simulated Losses to a Covid-19 Outbreak in the US Congress,https://www.dolthub.com/blog/2020-03-27-whos-at-risk-of-covid19-in-congress/
+47,Lobsters,perl,Perl,Natural Language Principles in Perl,http://www.wall.org/~larry/natural.html
+48,Lobsters,perl,Perl,Testing Perl Clients and Go Servers,https://blog.afoolishmanifesto.com/posts/testing-perl-clients-golang-servers/
+49,Lobsters,perl,Perl,Lingua::Romana::Perligata -- Perl for the XXIimum Century,http://users.monash.edu/~damian/papers/HTML/Perligata.html
+50,Lobsters,perl,Perl,Higher-Order Perl,https://hop.perl.plover.com/
+51,Lobsters,perl,Perl,"Moonpig, a billing system that doesn't suck (2013)",https://blog.plover.com/prog/Moonpig.html
+52,Lobsters,perl,Perl,The joy of Perl (1998),https://www.salon.com/1998/10/13/feature_269/
+53,Lobsters,perl,Perl,An unexpected benefit of thinking functional in Perl,https://blog.petdance.com/2019/12/04/thinking-functional-in-perl/
+54,Lobsters,perl,Perl,An introduction to Raku,https://www.slideshare.net/SimonProctor8/an-introduction-to-raku-196440606
+55,Lobsters,perl,Perl,Functional Perl release,https://marc.info/?l=perl5-porters&m=157442915530310&w=2
+56,Lobsters,perl,Perl,Tabs or spaces for indentation? Statistics on 3.8 million Perl files created in 24 years,https://squareperl.com/en/tabs-vs-spaces-in-millions-of-perl-files
+57,Lobsters,perl,Perl,An Evening on Modern Programming Languages (2019-11-21),https://ossg.bcs.org/blog/event/modern-languages/
+58,Lobsters,perl,Perl,London Perl Workshop 2019 Videos,https://www.youtube.com/channel/UCn7t_JB2atzCs_K4V1EwPyg
+59,Lobsters,perl,Perl,Larry Wall approves of renaming Perl 6 to Raku,https://github.com/perl6/problem-solving/pull/89#pullrequestreview-300789072
+60,Lobsters,perl,Perl,93% of Paint Splatters are Valid Perl Programs,https://famicol.in/sigbovik/
+61,Lobsters,perl,Perl,To compute a constant of calculus (A treatise on multiple ways),http://blogs.perl.org/users/damian_conway/2019/09/to-compute-a-constant-of-calculusa-treatise-on-multiple-ways.html
+62,Lobsters,perl,Perl,Is Perl 6 Being Renamed?,http://blogs.perl.org/users/ovid/2019/08/is-perl-6-being-renamed.html
+63,Lobsters,perl,Perl,From SQL to Nested Data Structures,https://dev.yorhel.nl/doc/sqlobject
+64,Lobsters,perl,Perl,With friends like these,http://blogs.perl.org/users/damian_conway/2019/08/with-friends-like-these.html
+65,Lobsters,perl,Perl,HN&&LO - a webpage with submissions common to Hacker News and Lobste.rs,http://gerikson.com/hnlo/
+66,Lobsters,perl,Perl,D&D Rolls in Perl 6,https://aearnus.github.io//2019/08/07/d-d-rolls-in-perl-6
+67,Lobsters,perl,Perl,PerlCon 2019 in Rīga,https://domm.plix.at/perl/2019_08_perlcon_riga.html
+68,Lobsters,perl,Perl,"Proposal to rename ""Perl 6"" to ""Camelia""",https://github.com/perl6/problem-solving/issues/81
+69,Lobsters,perl,Perl,Your Regex Here,http://ajs.github.io/tools/your-regex-here/
+70,Lobsters,perl,Perl,PFT 1.4.1 is released,https://dacav.roundhousecode.com/blog/2019-07/26-pft-1-4-1.html
+71,Lobsters,perl,Perl,The Perl Family Queue,http://ajs.github.io//tools/perl-family-queue/
+72,Lobsters,perl,Perl,Using generate_series and daterange for fun and profit,https://domm.plix.at/perl/2019_07_render_availabily_schedule.html
+73,Lobsters,perl,Perl,OpenBSD::Unveil(3p) added to -current,http://undeadly.org/cgi?action=article;sid=20190712101304
+74,Lobsters,perl,Perl,Infinite work is less work with Perl,http://blogs.perl.org/users/damian_conway/2019/07/infinite-work-is-less-work.html
+75,Lobsters,perl,Perl,“Perl 6 is Cursed! I hate it!”,https://aearnus.github.io//2019/07/06/perl-6-is-cursed
+76,Lobsters,perl,Perl,As simple as possible...but no simpler,http://blogs.perl.org/users/damian_conway/2019/07/as-simple-as-possiblebut-no-simpler.html
+77,Lobsters,perl,Perl,Coding with an even fuller toolset,http://blogs.perl.org/users/damian_conway/2019/06/coding-with-an-even-fuller-toolset.html
+78,Lobsters,perl,Perl,Scripting Languages to Be Removed,https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/
+79,Lobsters,perl,Perl,Why I love Perl 6,http://blogs.perl.org/users/damian_conway/2019/05/why-i-love-perl-6.html
+80,Lobsters,perl,Perl,Perl 5.30 released,https://metacpan.org/pod/release/XSAWYERX/perl-5.30.0/pod/perldelta.pod
+81,Lobsters,perl,Perl,"After 2020, European Perl conferences are over",https://www.reddit.com/r/perl/comments/bmgy8q/after_2020_european_perl_conferences_are_over/
+82,Lobsters,perl,Perl,Perl 6 Weekly - 2019.16 Easter Down,https://p6weekly.wordpress.com/2019/04/23/2019-16-easter-down/
+83,Lobsters,perl,Perl,2019.15 Schrödinger,https://p6weekly.wordpress.com/2019/04/15/2019-15-schrodinger/
+84,Lobsters,perl,Perl,Perl 6 nightly Docker images,https://www.tyil.nl/post/2019/04/11/perl6-nightly-docker-images/
+85,Lobsters,perl,Perl,Perl6 is the Worlds Worst ML (with addendum by Damian Conway),https://aearnus.github.io//2019/04/05/perl6-is-the-world-s-worst-ml
+86,Lobsters,perl,Perl,A Whirlwind Tour of Perl6s Best Features,https://aearnus.github.io//2019/04/03/a-whirlwind-tour-of-perl6-s-best-features
+87,Lobsters,perl,Perl,93% of Paint Splatters are Valid Perl Programs,http://colinm.org/sigbovik/
+88,Lobsters,perl,Perl,Opensource vs Big Companies,https://twitter.com/shadowcat_mst/status/1108207238689243136
+89,Lobsters,perl,Perl,Writing a WebSocket Client in Perl 5,https://greg-kennedy.com/wordpress/2019/03/11/writing-a-websocket-client-in-perl-5/
+90,Lobsters,perl,Perl,Report of German Perl Workshop 2019 in Munich,https://domm.plix.at/perl/2019_03_german_perl_workshop.html
+91,Lobsters,perl,Perl,Perl Cannot Be Parsed: A Formal Proof (2008),https://www.perlmonks.org/?node_id=663393
+92,Lobsters,perl,Perl,German Perl Workshop 2019,http://act.yapc.eu/gpw2019/
+93,Lobsters,perl,Perl,Perl 6 at a Glance,https://perl6.online/perl6-at-a-glance/
+94,Lobsters,perl,Perl,Perl 6 as a new tool for language compilers,https://www.youtube.com/watch?v=lwIXF25KJCo
+95,Lobsters,perl,Perl,"PerlCon 2019 | The European Perl Conference in Riga, Latvia, 7–9 August",https://perlcon.eu/
+96,Lobsters,perl,Perl,Periodic Table of the Operators,http://www.ozonehouse.com/mark/periodic/
+97,Lobsters,perl,Perl,How to balance Perl's flexibility and type correctness,https://www.reddit.com/r/perl/comments/aervtw/how_to_balance_perls_flexibility_and_type/
+98,Lobsters,perl,Perl,Yet Another CPAN Grep,https://grep.cpanauthors.org
+99,Lobsters,perl,Perl,London Perl Workshop 2018,http://act.yapc.eu/lpw2018/
+100,Lobsters,perl,Perl,London Perl Workshop 2018 schedule,https://act.yapc.eu/lpw2018/schedule
+101,Lobsters,perl,Perl,Announce: Raku Perl 6 'Diwali' 6.d Language Specification Release,https://github.com/perl6/roast/blob/master/docs/announce/6.d.md
+102,Lobsters,perl,Perl,TRE: A Regex Engine with Approximate Matching,http://ducktape.blot.im/tre-a-regex-engine-with-approximate-matching
+103,Lobsters,perl,Perl,This Perl Goes To 11,http://perl11.org/
+104,Lobsters,perl,Perl,WebPerl,https://webperl.zero-g.net/
+105,Lobsters,perl,Perl,Syncing data using advanced SQL,https://domm.plix.at/perl/2018_05_syncing_data_via_advanced_sql.html
+106,Lobsters,perl,Perl,Looking at the Lispy side of Perl,https://opensource.com/article/18/5/looking-lispy-side-perl
+107,Lobsters,perl,Perl,Grep for unicode characters by description,https://bitbucket.org/sietsebb/dotfiles/src/default/bin/unicode
+108,Lobsters,perl,Perl,The Long Death of CGI.pm,https://perlhacks.com/2015/12/long-death-cgi-pm/
+109,Lobsters,perl,Perl,"Interview with a Perl developer, Randal Schwartz",http://blog.builtinperl.com/post/interview-with-a-perl-developer-randal-schwartz
+110,Lobsters,perl,Perl,Unit Testing Asynchronous Code,https://tech.binary.com/unit-testing-with-futures/
+111,Lobsters,perl,Perl,Perl 6 - Introduction to application programming,https://www.tyil.nl/tutorials/perl6-introduction-to-application-programming/
+112,Lobsters,perl,Perl,An Open Letter to the Perl Community,https://www.perl.com/article/an-open-letter-to-the-perl-community/
+113,Lobsters,perl,Perl,Day 1 – The Grinch of Perl 6: A Practical Guide to Ruining Christmas,https://perl6advent.wordpress.com/2017/12/01/the-grinch-of-perl-6-a-practical-guide-to-ruining-christmas/
+114,Lobsters,perl,Perl,2016 London Perl Workshop,http://www.youtube.com/playlist?list=PLxavAW22r8Ak2l6yBK27awPF1ZNP8Ryf2
+115,Lobsters,perl,Perl,Object models / fuzzy notepad,https://eev.ee/blog/2017/11/28/object-models/
+116,Lobsters,perl,Perl,London Perl Workshop,http://act.yapc.eu/lpw2017/
+117,Lobsters,perl,Perl,Perl turns 30 and its community continues to thrive,https://opensource.com/article/17/10/perl-turns-30
+118,Lobsters,perl,Perl,Elegant reactive services in Perl 6 and React/Redux,http://cro.services/docs/intro/spa-with-cro
+119,Lobsters,perl,Perl,Rakudo gets a new thread pool,https://6guts.wordpress.com/2017/09/23/rakudo-gets-a-new-thread-pool/
+120,Lobsters,perl,Perl,From sockets to services: reactive distributed software in Perl 6,https://www.youtube.com/watch?v=6CsBDnTUJ3A
+121,Lobsters,perl,Perl,Recognizing when two arithmetic expressions are essentially the same,https://blog.plover.com/math/24-puzzle-2.html
+122,Lobsters,perl,Perl,[Perl 6] 2017.34 Going Atomic,https://p6weekly.wordpress.com/2017/08/21/2017-34-going-atomic/
+123,Lobsters,perl,Perl,A Review of Perl 6,http://www.evanmiller.org/a-review-of-perl-6.html
+124,Lobsters,perl,Perl,What I expect from a Web Framework,https://domm.plix.at/perl/2017_08_what_i_expect_from_a_web_framework.html
+125,Lobsters,perl,Perl,First Language (1998),https://groups.google.com/forum/#!msg/comp.lang.perl.misc/z0rObxz4CLw/1xHbGEuni7UJ
+126,Lobsters,perl,Perl,Why I'm Learning Perl 6,http://www.evanmiller.org/why-im-learning-perl-6.html
+127,Lobsters,perl,Perl,Welcome Inside the Head of Larry Wall - Joe Armstrong and Larry Wall,https://www.youtube.com/watch?v=SpH9BTMZKXc
+128,Lobsters,perl,Perl,Think Perl 6,http://greenteapress.com/wp/think-perl-6/
+129,Lobsters,perl,Perl,The Right Tool For The Job (old article),http://www.podval.org/~sds/tool.html
+130,Lobsters,perl,Perl,"the Context - versioned news portal with open api in xml, json & markdown",http://thecontext.net/opinion/2017/04/4/the-post-truth-and-the-context/
+131,Lobsters,perl,Perl,"worth.pl -- find the value of your stock, and how much longer you have",https://www.jwz.org/hacks/worth.pl
+132,Lobsters,perl,Perl,Abigail's regex to test for prime numbers (2000),http://neilk.net/blog/2000/06/01/abigails-regex-to-test-for-prime-numbers/
+133,Lobsters,perl,Perl,Computer Science Professor Stages a Play to Teach his Family Perl 6,https://thenewstack.io/cs-professor-tries-teaching-family-perl-6/
+134,Lobsters,perl,Perl,A great disturbance in the force (imdb boards no more),https://www.beatworm.co.uk/blog/internet/imdb-boards-no-more
+135,Lobsters,perl,Perl,Ack for CSS Developers,http://csswizardry.com/2017/01/ack-for-css-developers/
+136,Lobsters,perl,Perl,"With the Rise of DevOps, Perl Shows Its Muscle",http://www.i-programmer.info/programming/perl/9649-with-the-rise-of-devops-perl-shows-its-muscle.html
+137,Lobsters,perl,Perl,Day 7 — Set In Your Ways: Perl 6’s Setty and Baggy Types,https://perl6advent.wordpress.com/2016/12/07/set-in-your-ways-perl-6s-setty-and-baggy-types/
+138,Lobsters,perl,Perl,Rakudo and NQP Internals Course,https://github.com/edumentab/rakudo-and-nqp-internals-course
+139,Lobsters,perl,Perl,Perl 6 is biased towards mutators being really simple. That’s a good thing.,https://6guts.wordpress.com/2016/11/25/perl-6-is-biased-towards-mutators-being-really-simple-thats-a-good-thing/
+140,Lobsters,perl,Perl,git-pisect: A Parallel Version of git-bisect,https://hoelz.ro/blog/git-pisect
+141,Lobsters,perl,Perl,Poking around /usr/lib/git-core,http://kamalmarhubi.com/blog/2016/10/07/git-core/
+142,Lobsters,perl,Perl,Public Keys in Perl 6,https://www.promptworks.com/blog/public-keys-in-perl-6
+143,Lobsters,perl,Perl,Perl 6: What Programming In The Future Is Like?,http://perl6.party/post/Perl-6-What-Programming-In-The-Future-Is-Like
+144,Lobsters,perl,Perl,The curious case of the disappearing test,http://strangelyconsistent.org/blog/the-curious-case-of-the-disappearing-test
+145,Lobsters,perl,Perl,Retrofitting privsep into dpb and pkg_add,https://www.openbsd.org/papers/eurobsdcon2016-privsep.pdf
+146,Lobsters,perl,Perl,Tattletale Variables,http://tinypig2.blogspot.com/2016/09/tattletale-variables.html
+147,Lobsters,perl,Perl,I Botched a Perl 6 Release And Now a Robot Is Taking My Job,http://perl6.party/post/I-Botched-A-Perl-6-Release-And-Now-A-Robot-Is-Taking-My-Job
+148,Lobsters,perl,Perl,MooseX::Method::Signatures Deprecation Notice,http://search.cpan.org/~ether/MooseX-Method-Signatures-0.49/lib/MooseX/Method/Signatures.pm#DEPRECATION_NOTICE
+149,Lobsters,perl,Perl,Learning Perl 6—Need a general outline of basic things one should know to checkoff.,/s/clb2ta/learning_perl_6_need_general_outline
+150,Lobsters,perl,Perl,The Awesome Errors of Perl 6,http://perl6.party/post/The-Awesome-Errors-of-Perl-6
+151,Lobsters,perl,Perl,IRC::Client: Perl 6 Multi-Server IRC (or Awesome Async Interfaces with Perl 6),http://blogs.perl.org/users/zoffix_znet/2016/07/ircclient-perl-6-multi-server-irc-or-awesome-async-interfaces-with-perl-6.html
+152,Lobsters,perl,Perl,Interview With Larry Wall,http://m.slashdot.org/story/313671
+153,Lobsters,perl,Perl,The Greek Clock,http://blog.plover.com/2016/06/22#Greek-clock
+154,Lobsters,perl,Perl,Combining Character Caveats,http://hoelz.ro/blog/combining-character-caveats
+155,Lobsters,perl,Perl,"""Anguish"": Invisible Programming Language and Invisible Data Theft",http://blogs.perl.org/users/zoffix_znet/2016/05/anguish-invisible-programming-language-and-invisible-data-theft.html
+156,Lobsters,perl,Perl,Our 2016 Donations to Open Source – park.io,http://blog.park.io/articles/2016-donations-to-open-source
+157,Lobsters,perl,Perl,"Wow, Perl 6!",http://tpm2016.zoffix.com/#/
+158,Lobsters,perl,Perl,Binding to C++ With NativeCall,http://hoelz.ro/blog/binding-to-cpp-with-nativecall
+159,Lobsters,perl,Perl,Finding the most common n-grams in Russian using Perl 6 and HabrHabr,http://hoelz.ro/blog/finding-most-common-russian-ngrams
+160,Lobsters,perl,Perl,All Software is Legacy,https://leejo.github.io/2016/02/22/all_software_is_legacy/
+161,Lobsters,perl,Perl,Anonymous State Variables And How They Work,http://hoelz.ro/blog/anonymous-state-variables-and-how-they-work
+162,Lobsters,perl,Perl,How Perl Saved the Human Genome Project (1996),http://web.stanford.edu/class/gene211/handouts/How_Perl_HGP.html
+163,Lobsters,perl,Perl,Online regex tester and debugger,https://regex101.com/
+164,Lobsters,perl,Perl,Released an alpha version of my Perl 6 Apache Kafka client,https://github.com/mempko/PKafka
+165,Lobsters,perl,Perl,Using Valgrind to find memory problems,http://hoelz.ro/blog/using-valgrind-to-find-memory-problems
+166,Lobsters,perl,Perl,Perl 6 Released,https://perl6advent.wordpress.com/
+167,Lobsters,perl,Perl,"Christmas has come, perl 6 is here.",https://perl6advent.wordpress.com/2015/12/24/an-unexpectedly-long-expected-party/
+168,Lobsters,perl,Perl,Address Your Sanity with AddressSanitizer,http://hoelz.ro/blog/address-your-sanity-with-address-sanitizer
+169,Lobsters,perl,Perl,Hunted By a Leak,http://hoelz.ro/blog/hunted-by-a-leak
+170,Lobsters,perl,Perl,Functional Perl,http://functional-perl.org
+171,Lobsters,perl,Perl,Larry Wall Unveils Perl 6.0.0,http://www.pigdog.org/auto/software_jihad/link/3138.html
+172,Lobsters,perl,Perl,Interview with Larry Wall,http://www.linuxvoice.com/interview-larry-wall/
+173,Lobsters,perl,Perl,Emulating Linux MIPS in Perl - Part 1: ELF loader,http://blog.schmorp.de/2015-06-08-emulating-linux-mips-in-perl-1.html
+174,Lobsters,perl,Perl,Hacking on Rakudo Talk from Chicago.pm and Milwaukee.pm,https://docs.google.com/presentation/d/1JVJfNlCQL7crJytbKsdlf7Jw4c4dMScjogHLkZuOwcs/edit?usp=sharing
+175,Lobsters,perl,Perl,Why is it hard to write a compiler for Perl 6?,http://perlgeek.de/blog-en/perl-6/2015-why-hard.html
+176,Lobsters,perl,Perl,Linear? Yeah right,https://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2015/03/linear.html
+177,Lobsters,perl,Perl,The Perl Jam: Exploiting a 20 Year-old Vulnerability [31c3] - YouTube,https://www.youtube.com/watch?v=gweDBQ-9LuQ
+178,Lobsters,perl,Perl,Why Perl Didn't Win,http://outspeaking.com/words-of-technology/why-perl-didnt-win.html
+179,Lobsters,perl,Perl,The Mid-Career Crisis of the Perl Programmer,http://www.modernperlbooks.com/mt/2014/02/the-mid-career-crisis-of-the-perl-programmer.html
+180,Lobsters,perl,Perl,Take the 2015 CPAN Pull Request Challenge,http://blogs.perl.org/users/neilb/2014/12/take-the-2015-cpan-pull-request-challenge.html
+181,Lobsters,perl,Perl,Using Rust from Perl and Julia,http://paul.woolcock.us/posts/rust-perl-julia-ffi.html
+182,Lobsters,perl,Perl,"Why Lisp macros are cool, a Perl perspective (2005)",http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html#
+183,Lobsters,perl,Perl,New Class of Vulnerability in Perl Web Applications,http://blog.gerv.net/2014/10/new-class-of-vulnerability-in-perl-web-applications/
+184,Lobsters,perl,Perl,Guess what this does (solution),http://blog.plover.com/prog/perl/barewords.html
+185,Lobsters,perl,Perl,"Weekly changes in and around Perl 6 | Inlining, some more JIT, a bit of gtk and cairo",http://p6weekly.wordpress.com/2014/06/16/2014-24-inlining-some-more-jit-a-bit-of-gtk-and-cairo/
+186,Lobsters,perl,Perl,System Sleuthing - Using ptrace to Print Backtraces,http://hoelz.ro/blog/system-sleuthing-using-ptrace-to-find-syscall-sites
+187,Lobsters,perl,Perl,"Weekly changes in and around Perl 6: NLPW2014 recordings, release, optimization, GTK and Cairo",http://p6weekly.wordpress.com/2014/05/26/2014-21-nlpw2014-recordings-release-optimization-gtk-and-cairo/
+188,Lobsters,perl,Perl,Perl tag?,/s/ddlmon/perl_tag

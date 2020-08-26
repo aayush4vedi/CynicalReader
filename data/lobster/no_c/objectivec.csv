@@ -1,0 +1,60 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,objectivec,Objective-C programming,Brad Cox,https://deprogrammaticaipsum.com/brad-cox/
+2,Lobsters,objectivec,Objective-C programming,Advancements in the Objective-C runtime,https://developer.apple.com/videos/play/wwdc2020/10163/
+3,Lobsters,objectivec,Objective-C programming,Tiger to Catalina: let’s port some code,https://www.sicpers.info/2020/07/tiger-to-catalina-lets-port-some-code/
+4,Lobsters,objectivec,Objective-C programming,Objective-C Direct Methods,https://nshipster.com/direct/
+5,Lobsters,objectivec,Objective-C programming,"Beyond Faster JSON Support for iOS/macOS, Part 9: CSV and SQLite",https://blog.metaobject.com/2020/06/beyond-faster-json-support-for-iosmacos.html
+6,Lobsters,objectivec,Objective-C programming,The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax,https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html
+7,Lobsters,objectivec,Objective-C programming,The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT,https://dl.acm.org/doi/pdf/10.1145/3386332
+8,Lobsters,objectivec,Objective-C programming,MPWTest: Reducing Test Friction by Going Beyond the xUnit Model,https://blog.metaobject.com/2020/05/mpwtest-reducing-test-friction-by-going.html
+9,Lobsters,objectivec,Objective-C programming,ObjFW 98 SE: Bringing Objective-C to Windows 98 SE and NT 4.0,https://blog.nil.im/?77
+10,Lobsters,objectivec,Objective-C programming,A modern chat client built on Matrix,https://gitlab.com/ditto-chat/ditto-mobile
+11,Lobsters,objectivec,Objective-C programming,Santa: Binary whitelisting system extension for macOS,https://github.com/google/santa
+12,Lobsters,objectivec,Objective-C programming,ReDoomEd,http://twilightedge.com/mac/redoomed/
+13,Lobsters,objectivec,Objective-C programming,Objective-Smalltalk,http://objective.st/
+14,Lobsters,objectivec,Objective-C programming,Bypassing objc_msgSend,https://saagarjha.com/blog/2019/12/15/bypassing-objc-msgsend/
+15,Lobsters,objectivec,Objective-C programming,The Four Stages of Objective-Smalltalk,https://blog.metaobject.com/2019/12/the-4-stages-of-objective-smalltalk.html
+16,Lobsters,objectivec,Objective-C programming,Technical Deep Dive: How does Retroactive work?,https://medium.com/@cormiertyshawn895/deep-dive-how-does-retroactive-work-95fe0e5ea49e
+17,Lobsters,objectivec,Objective-C programming,High Performance Numeric Programming with Swift: Explorations and Reflections,https://www.fast.ai/2019/01/10/swift-numerics/
+18,Lobsters,objectivec,Objective-C programming,objc_msgSend’s New Prototype,https://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html
+19,Lobsters,objectivec,Objective-C programming,Darling Progress Report Q2 2019,http://blog.darlinghq.org/2019/07/darling-progress-report-q2-2019.html
+20,Lobsters,objectivec,Objective-C programming,6 mac apps that fit everyone,https://sobolevn.me/2019/07/6-best-mac-apps
+21,Lobsters,objectivec,Objective-C programming,Skiptracing: Reversing Spotify.app,https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d
+22,Lobsters,objectivec,Objective-C programming,The C Object System,http://ldeniau.web.cern.ch/ldeniau/html/cos-dls09-draft.pdf
+23,Lobsters,objectivec,Objective-C programming,"LLVM JIT, Objective-C and Swift on macOS: knowledge dump",https://stanislaw.github.io/2018/09/03/llvm-jit-objc-and-swift-knowledge-dump.html
+24,Lobsters,objectivec,Objective-C programming,iTerm2 has a new drawing engine that uses Metal 2,https://gitlab.com/gnachman/iterm2/wikis/Metal-Renderer
+25,Lobsters,objectivec,Objective-C programming,macOS VPN architecture from System Preferences down to nesessionmanager,https://blog.timac.org/2018/0717-macos-vpn-architecture/
+26,Lobsters,objectivec,Objective-C programming,Brad Cox,https://deprogrammaticaipsum.com/brad-cox/
+27,Lobsters,objectivec,Objective-C programming,Advancements in the Objective-C runtime,https://developer.apple.com/videos/play/wwdc2020/10163/
+28,Lobsters,objectivec,Objective-C programming,Tiger to Catalina: let’s port some code,https://www.sicpers.info/2020/07/tiger-to-catalina-lets-port-some-code/
+29,Lobsters,objectivec,Objective-C programming,Objective-C Direct Methods,https://nshipster.com/direct/
+30,Lobsters,objectivec,Objective-C programming,"Beyond Faster JSON Support for iOS/macOS, Part 9: CSV and SQLite",https://blog.metaobject.com/2020/06/beyond-faster-json-support-for-iosmacos.html
+31,Lobsters,objectivec,Objective-C programming,The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax,https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html
+32,Lobsters,objectivec,Objective-C programming,The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT,https://dl.acm.org/doi/pdf/10.1145/3386332
+33,Lobsters,objectivec,Objective-C programming,MPWTest: Reducing Test Friction by Going Beyond the xUnit Model,https://blog.metaobject.com/2020/05/mpwtest-reducing-test-friction-by-going.html
+34,Lobsters,objectivec,Objective-C programming,ObjFW 98 SE: Bringing Objective-C to Windows 98 SE and NT 4.0,https://blog.nil.im/?77
+35,Lobsters,objectivec,Objective-C programming,A modern chat client built on Matrix,https://gitlab.com/ditto-chat/ditto-mobile
+36,Lobsters,objectivec,Objective-C programming,Santa: Binary whitelisting system extension for macOS,https://github.com/google/santa
+37,Lobsters,objectivec,Objective-C programming,ReDoomEd,http://twilightedge.com/mac/redoomed/
+38,Lobsters,objectivec,Objective-C programming,Objective-Smalltalk,http://objective.st/
+39,Lobsters,objectivec,Objective-C programming,Bypassing objc_msgSend,https://saagarjha.com/blog/2019/12/15/bypassing-objc-msgsend/
+40,Lobsters,objectivec,Objective-C programming,The Four Stages of Objective-Smalltalk,https://blog.metaobject.com/2019/12/the-4-stages-of-objective-smalltalk.html
+41,Lobsters,objectivec,Objective-C programming,Technical Deep Dive: How does Retroactive work?,https://medium.com/@cormiertyshawn895/deep-dive-how-does-retroactive-work-95fe0e5ea49e
+42,Lobsters,objectivec,Objective-C programming,High Performance Numeric Programming with Swift: Explorations and Reflections,https://www.fast.ai/2019/01/10/swift-numerics/
+43,Lobsters,objectivec,Objective-C programming,objc_msgSend’s New Prototype,https://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html
+44,Lobsters,objectivec,Objective-C programming,Darling Progress Report Q2 2019,http://blog.darlinghq.org/2019/07/darling-progress-report-q2-2019.html
+45,Lobsters,objectivec,Objective-C programming,6 mac apps that fit everyone,https://sobolevn.me/2019/07/6-best-mac-apps
+46,Lobsters,objectivec,Objective-C programming,Skiptracing: Reversing Spotify.app,https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d
+47,Lobsters,objectivec,Objective-C programming,The C Object System,http://ldeniau.web.cern.ch/ldeniau/html/cos-dls09-draft.pdf
+48,Lobsters,objectivec,Objective-C programming,"LLVM JIT, Objective-C and Swift on macOS: knowledge dump",https://stanislaw.github.io/2018/09/03/llvm-jit-objc-and-swift-knowledge-dump.html
+49,Lobsters,objectivec,Objective-C programming,iTerm2 has a new drawing engine that uses Metal 2,https://gitlab.com/gnachman/iterm2/wikis/Metal-Renderer
+50,Lobsters,objectivec,Objective-C programming,macOS VPN architecture from System Preferences down to nesessionmanager,https://blog.timac.org/2018/0717-macos-vpn-architecture/
+51,Lobsters,objectivec,Objective-C programming,Macros in C / Objective-C,https://yurylapitsky.com/metamacros
+52,Lobsters,objectivec,Objective-C programming,"These 299 macOS apps are so buggy, Apple had to fix them in AppKit",https://worthdoingbadly.com/appkitcompat/
+53,Lobsters,objectivec,Objective-C programming,Mach-O exploration. Tools - nm,https://yurylapitsky.com/exploring_mac-o_binaries_nm
+54,Lobsters,objectivec,Objective-C programming,Bringing Objective-C to the Amiga,https://heap.zone/blog/?76
+55,Lobsters,objectivec,Objective-C programming,Introduction to Objective-C in MorphOS 3.10,http://morphos-team.net/guide/objective-c
+56,Lobsters,objectivec,Objective-C programming,iPhone X home button,http://blog.zats.io/2017/12/27/iPhone-X-home-button/
+57,Lobsters,objectivec,Objective-C programming,Why many developers still prefer Objective-C to Swift,https://www.hackingwithswift.com/articles/27/why-many-developers-still-prefer-objective-c-to-swift
+58,Lobsters,objectivec,Objective-C programming,Objective-C Implementation and Performance Details for C and C++ Programmers,https://swolchok.github.io/objcperf/
+59,Lobsters,objectivec,Objective-C programming,Tag Suggestion: C++,/s/emf0a5/tag_suggestion_c

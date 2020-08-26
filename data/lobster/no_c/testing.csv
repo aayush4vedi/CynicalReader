@@ -1,0 +1,854 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,testing,Software Testing,An introduction to Formal Verification for Software Systems,https://www.moritz.systems/blog/an-introduction-to-formal-verification/
+2,Lobsters,testing,Software Testing,Measuring the coverage achieved by symbolic execution,http://ccadar.blogspot.com/2020/07/measuring-coverage-achieved-by-symbolic.html
+3,Lobsters,testing,Software Testing,The Relevance of Classic Fuzz Testing: Have We Solved This One?,https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf
+4,Lobsters,testing,Software Testing,"An open-source tool which combines API test-automation, mocks, performance testing and UI automation",https://github.com/intuit/karate
+5,Lobsters,testing,Software Testing,Testing Weston DRM/KMS backends with virtme and VKMS,https://www.collabora.com/news-and-blog/blog/2020/08/07/testing-weston-drm-kms-backends-with-virtme-and-vkms/
+6,Lobsters,testing,Software Testing,Curses Library Automated Testing,https://blog.netbsd.org/tnf/entry/gsoc_2020_second_evaluation_report
+7,Lobsters,testing,Software Testing,Testing a Twilio Interactive Voice Response (IVR) System With Python and pytest,https://www.twilio.com/blog/testing-twilio-ivr-system-python-pytest
+8,Lobsters,testing,Software Testing,Bats: Bash Automated Testing System,https://github.com/sstephenson/bats
+9,Lobsters,testing,Software Testing,An introduction to mutation testing in Python,https://opensource.com/article/20/7/mutmut-python
+10,Lobsters,testing,Software Testing,Testing And Scale,https://thecobraeffect.blogspot.com/2020/07/testing-and-scale.html
+11,Lobsters,testing,Software Testing,Stabilizing Marathon: Part I | D2iQ,https://d2iq.com/blog/stabilizing-marathon-part-i
+12,Lobsters,testing,Software Testing,Asynchronous testing with Enzyme & React in Jest,https://www.benmvp.com/blog/asynchronous-testing-with-enzyme-react-jest/
+13,Lobsters,testing,Software Testing,What’s the difference between a good QA director and a great one? A comparison,https://www.functionize.com/blog/whats-the-difference-between-a-good-qa-director-and-a-great-one/
+14,Lobsters,testing,Software Testing,"Test-Driven Security with StackHawk, Travis-CI, and Docker Compose",https://www.stackhawk.com/blog/test-driven-security-with-travis-ci-and-docker-compose/
+15,Lobsters,testing,Software Testing,Why I don't mock (2014),https://blog.metaobject.com/2014/05/why-i-don-mock.html
+16,Lobsters,testing,Software Testing,A handy software defect tracking checklist,https://www.functionize.com/blog/a-handy-software-defect-tracking-checklist/
+17,Lobsters,testing,Software Testing,Don’t Mock Types You Don’t Own,https://testing.googleblog.com/2020/07/testing-on-toilet-dont-mock-types-you.html
+18,Lobsters,testing,Software Testing,Extreme programming meets systematic testing using Coyote,https://cloudblogs.microsoft.com/opensource/2020/07/14/extreme-programming-meets-systematic-testing-using-coyote/
+19,Lobsters,testing,Software Testing,The Magic Tricks of Testing,https://www.youtube.com/watch?v=URSWYvyc42M
+20,Lobsters,testing,Software Testing,Testing Firefox more efficiently with machine learning,https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/
+21,Lobsters,testing,Software Testing,Unit Testing is Overrated,https://tyrrrz.me/blog/unit-testing-is-overrated
+22,Lobsters,testing,Software Testing,against testing,https://flak.tedunangst.com/post/against-testing
+23,Lobsters,testing,Software Testing,How to reduce your tests and the origin story of Hypothesis,/s/8sv92g/how_reduce_your_tests_origin_story
+24,Lobsters,testing,Software Testing,Bach is a Bash testing framework,https://bach.sh/
+25,Lobsters,testing,Software Testing,The TodoMVC Showdown: Testing with WebCheck,https://wickstrom.tech/programming/2020/07/02/the-todomvc-showdown-testing-with-webcheck.html
+26,Lobsters,testing,Software Testing,An introduction to Formal Verification for Software Systems,https://www.moritz.systems/blog/an-introduction-to-formal-verification/
+27,Lobsters,testing,Software Testing,Measuring the coverage achieved by symbolic execution,http://ccadar.blogspot.com/2020/07/measuring-coverage-achieved-by-symbolic.html
+28,Lobsters,testing,Software Testing,The Relevance of Classic Fuzz Testing: Have We Solved This One?,https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf
+29,Lobsters,testing,Software Testing,"An open-source tool which combines API test-automation, mocks, performance testing and UI automation",https://github.com/intuit/karate
+30,Lobsters,testing,Software Testing,Testing Weston DRM/KMS backends with virtme and VKMS,https://www.collabora.com/news-and-blog/blog/2020/08/07/testing-weston-drm-kms-backends-with-virtme-and-vkms/
+31,Lobsters,testing,Software Testing,Curses Library Automated Testing,https://blog.netbsd.org/tnf/entry/gsoc_2020_second_evaluation_report
+32,Lobsters,testing,Software Testing,Testing a Twilio Interactive Voice Response (IVR) System With Python and pytest,https://www.twilio.com/blog/testing-twilio-ivr-system-python-pytest
+33,Lobsters,testing,Software Testing,Bats: Bash Automated Testing System,https://github.com/sstephenson/bats
+34,Lobsters,testing,Software Testing,An introduction to mutation testing in Python,https://opensource.com/article/20/7/mutmut-python
+35,Lobsters,testing,Software Testing,Testing And Scale,https://thecobraeffect.blogspot.com/2020/07/testing-and-scale.html
+36,Lobsters,testing,Software Testing,Stabilizing Marathon: Part I | D2iQ,https://d2iq.com/blog/stabilizing-marathon-part-i
+37,Lobsters,testing,Software Testing,Asynchronous testing with Enzyme & React in Jest,https://www.benmvp.com/blog/asynchronous-testing-with-enzyme-react-jest/
+38,Lobsters,testing,Software Testing,What’s the difference between a good QA director and a great one? A comparison,https://www.functionize.com/blog/whats-the-difference-between-a-good-qa-director-and-a-great-one/
+39,Lobsters,testing,Software Testing,"Test-Driven Security with StackHawk, Travis-CI, and Docker Compose",https://www.stackhawk.com/blog/test-driven-security-with-travis-ci-and-docker-compose/
+40,Lobsters,testing,Software Testing,Why I don't mock (2014),https://blog.metaobject.com/2014/05/why-i-don-mock.html
+41,Lobsters,testing,Software Testing,A handy software defect tracking checklist,https://www.functionize.com/blog/a-handy-software-defect-tracking-checklist/
+42,Lobsters,testing,Software Testing,Don’t Mock Types You Don’t Own,https://testing.googleblog.com/2020/07/testing-on-toilet-dont-mock-types-you.html
+43,Lobsters,testing,Software Testing,Extreme programming meets systematic testing using Coyote,https://cloudblogs.microsoft.com/opensource/2020/07/14/extreme-programming-meets-systematic-testing-using-coyote/
+44,Lobsters,testing,Software Testing,The Magic Tricks of Testing,https://www.youtube.com/watch?v=URSWYvyc42M
+45,Lobsters,testing,Software Testing,Testing Firefox more efficiently with machine learning,https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/
+46,Lobsters,testing,Software Testing,Unit Testing is Overrated,https://tyrrrz.me/blog/unit-testing-is-overrated
+47,Lobsters,testing,Software Testing,against testing,https://flak.tedunangst.com/post/against-testing
+48,Lobsters,testing,Software Testing,How to reduce your tests and the origin story of Hypothesis,/s/8sv92g/how_reduce_your_tests_origin_story
+49,Lobsters,testing,Software Testing,Bach is a Bash testing framework,https://bach.sh/
+50,Lobsters,testing,Software Testing,The TodoMVC Showdown: Testing with WebCheck,https://wickstrom.tech/programming/2020/07/02/the-todomvc-showdown-testing-with-webcheck.html
+51,Lobsters,testing,Software Testing,"Better tests with ""Testing Hooks"" pattern",https://gregberge.com/blog/testing-hooks
+52,Lobsters,testing,Software Testing,Testers vs TDD,https://www.functionize.com/blog/testers-vs-tdd/
+53,Lobsters,testing,Software Testing,Jepsen: Redis-Raft 1b3fbf6,https://jepsen.io/analyses/redis-raft-1b3fbf6
+54,Lobsters,testing,Software Testing,"In your experience, what's the difference between a great QA director and a good one?",/s/bdhjp9/your_experience_what_s_difference
+55,Lobsters,testing,Software Testing,How to test code that interacts with external systems,/s/otkutk/how_test_code_interacts_with_external
+56,Lobsters,testing,Software Testing,Writing tests for external API calls,https://www.cosmicpython.com/blog/2020-01-25-testing_external_api_calls.html
+57,Lobsters,testing,Software Testing,Property Testing with Complex Inputs,https://www.hillelwayne.com/post/property-testing-complex-inputs/
+58,Lobsters,testing,Software Testing,Testing Warranties - Managing API use across an organization,https://michaelfeathers.silvrback.com/testing-warranties
+59,Lobsters,testing,Software Testing,Advanced pytest techniques I learned while contributing to pandas,https://levelup.gitconnected.com/advanced-pytest-techniques-i-learned-while-contributing-to-pandas-7ba1465b65eb
+60,Lobsters,testing,Software Testing,What testers should know about domain knowledge,https://www.functionize.com/blog/what-testers-should-know-about-domain-knowledge/
+61,Lobsters,testing,Software Testing,Spark Joy by Running Fewer Tests,https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests
+62,Lobsters,testing,Software Testing,Jepsen - PostgreSQL 12.3,http://jepsen.io/analyses/postgresql-12.3
+63,Lobsters,testing,Software Testing,WebCheck: High-confidence browser testing,https://webcheck.tools/
+64,Lobsters,testing,Software Testing,RSpec matchers that make testing JSON documents simpler,https://github.com/paul/rspec-resembles_json_matchers 
+65,Lobsters,testing,Software Testing,What are Unit Tests For?,https://ahuth.github.io/content/articles/what-are-unit-tests-for.html
+66,Lobsters,testing,Software Testing,Test design principles to get you to continuous integration,https://techbeacon.com/app-dev-testing/3-test-design-principles-get-you-continuous-integration 
+67,Lobsters,testing,Software Testing,15+ Best Cross-Browser Testing Tools 2020,https://cssauthor.com/best-cross-browser-testing-tools/
+68,Lobsters,testing,Software Testing,SpaceX software team Reddit AMA,https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/
+69,Lobsters,testing,Software Testing,The best QA job interview questions for managers to ask,https://www.functionize.com/blog/the-best-qa-job-interview-questions-for-managers-to-ask/
+70,Lobsters,testing,Software Testing,Using ASCII waveforms to test hardware designs,https://blog.janestreet.com/using-ascii-waveforms-to-test-hardware-designs/
+71,Lobsters,testing,Software Testing,Benjamin Pierce: Backtracking Generators for Random Testing,https://www.youtube.com/watch?v=dfZ94N0hS4I
+72,Lobsters,testing,Software Testing,MPWTest: Reducing Test Friction by Going Beyond the xUnit Model,https://blog.metaobject.com/2020/05/mpwtest-reducing-test-friction-by-going.html
+73,Lobsters,testing,Software Testing,"You're sold on load testing. But for what ""unreasonable"" load should you test?",https://www.functionize.com/blog/youre-sold-on-load-testing-but-for-what-unreasonable-load-should-you-test/
+74,Lobsters,testing,Software Testing,Coverage Marks,https://ferrous-systems.com/blog/coverage-marks/
+75,Lobsters,testing,Software Testing,REPL Driven Design,http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html
+76,Lobsters,testing,Software Testing,Automation: A Failure Story,https://medium.com/salesloft-engineering/automation-a-failure-story-94c2868488a5
+77,Lobsters,testing,Software Testing,"New fuzzing tool finds 26 USB bugs in Linux, Windows, macOS, and FreeBSD",https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/
+78,Lobsters,testing,Software Testing,How do you design a Proof of Concept project for a new dev/test tool?,/s/8lrdyw/how_do_you_design_proof_concept_project
+79,Lobsters,testing,Software Testing,Integration Testing in Rust,https://joshleeb.com/blog/rust-integration-tests/
+80,Lobsters,testing,Software Testing,BaseSAFE: Baseband SAnitized Fuzzing through Emulation,https://arxiv.org/abs/2005.07797
+81,Lobsters,testing,Software Testing,Mocking time and testing event loops in Go,https://dmitryfrank.com/articles/mocking_time_in_go
+82,Lobsters,testing,Software Testing,The mobile testing gotchas you need to know about,https://www.functionize.com/blog/the-mobile-testing-gotchas-you-need-to-know-about/ 
+83,Lobsters,testing,Software Testing,Diagnosing a 45 Second Test Startup,https://www.johnbcoughlin.com/posts/java-classloading-overhead/
+84,Lobsters,testing,Software Testing,Test coverage only matters if it's at 100%,https://www.dein.fr/2019-09-06-test-coverage-only-matters-if-at-100-percent.html
+85,Lobsters,testing,Software Testing,"What was the best question you heard a recruiter or interviewer ask, when you were looking for a QA",/s/5usx0f/what_was_best_question_you_heard
+86,Lobsters,testing,Software Testing,The Self-Contained Test,https://thoughtbot.com/blog/the-self-contained-test
+87,Lobsters,testing,Software Testing,Google Fuzzing Forum,https://github.com/google/fuzzing
+88,Lobsters,testing,Software Testing,Parameterize Python Tests,https://kracekumar.com/post/618264170735009792/parameterize-python-tests
+89,Lobsters,testing,Software Testing,Jepsen: MongoDB 4.2.6,http://jepsen.io/analyses/mongodb-4.2.6
+90,Lobsters,testing,Software Testing,The challenges of testing GUIs,https://www.functionize.com/blog/the-challenges-of-testing-guis/
+91,Lobsters,testing,Software Testing,QuickCheck-style end-to-end testing,https://github.com/tomakita/RetroCheck
+92,Lobsters,testing,Software Testing,Using syzkaller: fuzzing your changes,https://www.collabora.com/news-and-blog/blog/2020/05/12/using-syzkaller-fuzzing-your-changes/
+93,Lobsters,testing,Software Testing,Fuzzing Firefox with WebIDL,https://hacks.mozilla.org/2020/04/fuzzing-with-webidl/
+94,Lobsters,testing,Software Testing,"Bryan Cantrill talks Sun Microsystems, DTrace, and Shouting in the Data Center",https://www.youtube.com/watch?v=_IYzD_NR0W4
+95,Lobsters,testing,Software Testing,Incremental testing: save time and money on CI for monorepo,https://ashishb.net/tech/incremental-testing-save-time-and-money-on-ci-for-monorepo/
+96,Lobsters,testing,Software Testing,How to Misuse Code Coverage,http://www.exampler.com/testing-com/writings/coverage.pdf
+97,Lobsters,testing,Software Testing,Why You Should Document Your Tests,https://hynek.me/articles/document-your-tests/
+98,Lobsters,testing,Software Testing,Jepsen: Dgraph 1.1.1,https://jepsen.io/analyses/dgraph-1.1.1
+99,Lobsters,testing,Software Testing,Elm Regression Testing,https://github.com/jgrenat/regression-testing/blob/master/README.md
+100,Lobsters,testing,Software Testing,The argument against clearing the database between tests,http://calpaterson.com/against-database-teardown.html
+101,Lobsters,testing,Software Testing,How to break everything by fuzz testing,https://chameth.com/break-everything-fuzz-testing/
+102,Lobsters,testing,Software Testing,On the architecture for unit testing,https://thomasvilhena.com/2020/04/on-the-architecture-for-unit-testing
+103,Lobsters,testing,Software Testing,Key Visualizer: Observe Distributed Databases to Discover the Unknowns,https://pingcap.com/blog/observe-distributed-databases-to-discover-unknowns/
+104,Lobsters,testing,Software Testing,How NASA does software testing and QA,https://www.functionize.com/blog/how-nasa-does-software-testing-and-qa/
+105,Lobsters,testing,Software Testing,IJON: Exploring Deep State Spaces via Fuzzing,https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/27/IJON-Oakland20.pdf
+106,Lobsters,testing,Software Testing,Test-Driven Development is Fundamentally Wrong,https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
+107,Lobsters,testing,Software Testing,What it's like developing for *any browser*? Here is a video of a smoke-testing session (13MB video),http://sm.chg.pw/demo-2020-04-14_multi_browser_basic_smoke_testing.mkv
+108,Lobsters,testing,Software Testing,Generate unit tests for your code with IntelliTest,https://docs.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest
+109,Lobsters,testing,Software Testing,Intro to Storage Systems,https://developer.sh/posts/storage-technologies-for-developers
+110,Lobsters,testing,Software Testing,How We Test Vector,https://vector.dev/blog/how-we-test-vector/
+111,Lobsters,testing,Software Testing,Diagnosing a Slow Network,https://alta3.com/blog/diagnosing-a-slow-network
+112,Lobsters,testing,Software Testing,How to Provide Test Fixtures for Django Models in Pytest,https://realpython.com/django-pytest-fixtures/
+113,Lobsters,testing,Software Testing,Announcing unverified.email,https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html
+114,Lobsters,testing,Software Testing,Simultating concurrent writes to sqlite3 with multiprocessing and pytest,https://github.com/joedougherty/sqlite3_concurrent_writes_test_suite
+115,Lobsters,testing,Software Testing,"Let’s make testing Agile, they said. Uh, what did they mean by that?",https://www.functionize.com/blog/lets-make-testing-agile-they-said-uh-what-did-they-mean-by-that/
+116,Lobsters,testing,Software Testing,How is the Linux kernel tested?,https://embeddedbits.org/how-is-the-linux-kernel-tested/
+117,Lobsters,testing,Software Testing,DejaGNU (2011),https://www.airs.com/blog/archives/499
+118,Lobsters,testing,Software Testing,Growing Neat Software Architecture from Jupyter Notebooks,https://www.youtube.com/watch?v=K4QN27IKr0g
+119,Lobsters,testing,Software Testing,16 things that testers wished they’d learned earlier,https://www.functionize.com/blog/16-things-that-testers-wished-theyd-learned-earlier/
+120,Lobsters,testing,Software Testing,International Competition on Software Testing Test-Comp (2019),https://www.sosy-lab.org/research/pub/2019-TACAS.International_Competition_on_Software_Testing_Test-Comp.pdf
+121,Lobsters,testing,Software Testing,Continuous testing for a new project,/s/dw4sdb/continuous_testing_for_new_project
+122,Lobsters,testing,Software Testing,Get started with computer science papers,https://developer.sh/posts/computer-science-papers
+123,Lobsters,testing,Software Testing,For those who got an ISTB certification: What was the financial payoff?,/s/fwhc7c/for_those_who_got_istb_certification_what
+124,Lobsters,testing,Software Testing,Testing a Web API using rackcheck,https://defn.io/2020/03/13/property-testing-api/
+125,Lobsters,testing,Software Testing,Effectful Property Testing,https://www.parsonsmatt.org/2020/03/11/effectful_property_testing.html
+126,Lobsters,testing,Software Testing,The books that QA professionals recommend,https://www.functionize.com/blog/5-surprising-books-that-qa-professionals-recommend-and-10-useful-references-that-wont-shock-you/
+127,Lobsters,testing,Software Testing,Improve your tests with JUnit 5,https://98elements.com/blog/improve-your-tests-with-junit-5/
+128,Lobsters,testing,Software Testing,SLO Pitfalls,https://www.linkedin.com/pulse/slo-pitfalls-femi-agbabiaka
+129,Lobsters,testing,Software Testing,Testing Perl Clients and Go Servers,https://blog.afoolishmanifesto.com/posts/testing-perl-clients-golang-servers/
+130,Lobsters,testing,Software Testing,(Make your tests both) Necessary & Sufficient,https://blog.testdouble.com/posts/2020-02-25-necessary-and-sufficient/
+131,Lobsters,testing,Software Testing,Parameterized Tests: An Underused Technique,https://jlorenzen.blogspot.com/2020/02/parameterized-tests-underused-technique.html
+132,Lobsters,testing,Software Testing,Test Desiderata,http://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl
+133,Lobsters,testing,Software Testing,Property Tests for Legacy Code,https://matt.diephouse.com/2020/02/property-tests-for-legacy-code/
+134,Lobsters,testing,Software Testing,A Systematic Impact Study for Fuzzer-Found Compiler Bugs,https://arxiv.org/abs/1902.09334
+135,Lobsters,testing,Software Testing,Cautiously sniffling your UI,https://mankykitty.github.io/posts/2020-02-22-cautiously-sniffle-properties.html
+136,Lobsters,testing,Software Testing,Conditional coverage,https://sobolevn.me/2020/02/conditional-coverage
+137,Lobsters,testing,Software Testing,Testing in Go: Clean Tests Using t.Cleanup,https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/
+138,Lobsters,testing,Software Testing,How To Use A Single Virtual Machine As A Kubernetes Cluster Using Kubeadm,https://alta3.com/blog/00fg5lqocxkpikimilx872gnbtt2yc
+139,Lobsters,testing,Software Testing,Recent Papers Related To Fuzzing,https://github.com/wcventure/FuzzingPaper
+140,Lobsters,testing,Software Testing,IME Smoke Testing,https://hsivonen.fi/ime/
+141,Lobsters,testing,Software Testing,What did it take you entirely too long to learn about software testing?,/s/yw1bnm/what_did_it_take_you_entirely_too_long
+142,Lobsters,testing,Software Testing,Survey of Automated Vulnerability Detection and Exploit Generation Techniques in C.R.S.'s (2018),https://arxiv.org/pdf/1702.06162.pdf
+143,Lobsters,testing,Software Testing,"Setting up a custom CI/CD pipeline for a personal project (Node.js, Docker, Travis)",https://www.taniarascia.com/continuous-integration-pipeline-docker/
+144,Lobsters,testing,Software Testing,Baretest — A minimalistic alternative to Jest,https://volument.com/baretest
+145,Lobsters,testing,Software Testing,Applying Combinatorial Testing to Systems with a Complex Input Space (2013),https://rc.library.uta.edu/uta-ir/bitstream/handle/10106/25541/NourozBorazjany_uta_2502D_12129.pdf?sequence=1
+146,Lobsters,testing,Software Testing,"How to use Hedgehog to test a real world, large scale, stateful app",https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/
+147,Lobsters,testing,Software Testing,"Fuzzing: Hack, Art, and Science",https://patricegodefroid.github.io/public_psfiles/Fuzzing-101-CACM2020.pdf
+148,Lobsters,testing,Software Testing,Jepsen: etcd 3.4.3,https://jepsen.io/analyses/etcd-3.4.3
+149,Lobsters,testing,Software Testing,A Chaos Test too far…,https://medium.com/ft-product-technology/a-chaos-test-too-far-6405c2cc4bbb
+150,Lobsters,testing,Software Testing,Record/Replay testing in Sorbet,https://blog.nelhage.com/post/record-replay-in-sorbet/
+151,Lobsters,testing,Software Testing,JQF: Coverage-Guided Property-Based Testing in Java,https://people.eecs.berkeley.edu/~ksen/papers/jqf.pdf
+152,Lobsters,testing,Software Testing,Levels of Fuzzing,https://blog.regehr.org/archives/1039
+153,Lobsters,testing,Software Testing,A Rails and PostgreSQL setup for GitHub actions (CI),https://dev.to/vvo/a-rails-and-postgresql-setup-for-github-actions-ci-nc8
+154,Lobsters,testing,Software Testing,What Could Possibly Go Wrong: Polyglot Party with Nextjournal,https://www.innoq.com/en/blog/what-could-possibly-go-wrong/
+155,Lobsters,testing,Software Testing,Calculating the mean of a list of numbers (2016),https://hypothesis.works/articles/calculating-the-mean/
+156,Lobsters,testing,Software Testing,Binary Mutation Analysis of Tests Using Reassembleable Disassembly,https://www-users.cs.umn.edu/~emamd001/bma_bar2019.pdf
+157,Lobsters,testing,Software Testing,Warming up to Unit Testing,https://www.junglecoder.com/blog/warming-up-to-unit-testing
+158,Lobsters,testing,Software Testing,Unit testing C code with LD_PRELOAD,https://williamdurand.fr/2020/01/07/unit-testing-with-ld-preload/
+159,Lobsters,testing,Software Testing,"Moonpig, a billing system that doesn't suck (2013)",https://blog.plover.com/prog/Moonpig.html
+160,Lobsters,testing,Software Testing,Testing Lua,https://www.youtube.com/watch?v=yU5QNKpATxk
+161,Lobsters,testing,Software Testing,Fuzz Revisited: A Re-examination of the Reliability of UNIX Utilities and Services (1995),http://ftp.cs.wisc.edu/pub/paradyn/technical_papers/fuzz-revisited.pdf
+162,Lobsters,testing,Software Testing,Building Fast Fuzzers,https://arxiv.org/abs/1911.07707
+163,Lobsters,testing,Software Testing,Two kinds of testing,https://blog.nelhage.com/post/two-kinds-of-testing/
+164,Lobsters,testing,Software Testing,Frontend Monitoring with Prometheus,https://medium.com/@nedmcclain/frontend-monitoring-with-prometheus-38f798406125
+165,Lobsters,testing,Software Testing,Precise Unit Tests with PyHamcrest,https://orbifold.xyz/pyhamcrest.html
+166,Lobsters,testing,Software Testing,How randomly skipping tests made them better,https://daniel.haxx.se/blog/2019/12/16/how-randomly-skipping-tests-made-them-better/
+167,Lobsters,testing,Software Testing,Should you even bother loadtesting,https://abe-winter.github.io/2019/12/15/ltarch.html
+168,Lobsters,testing,Software Testing,Go test utility: Setup/teardown and reusable fixtures,https://github.com/houqp/gtest
+169,Lobsters,testing,Software Testing,Systems Benchmarking Crimes,https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html
+170,Lobsters,testing,Software Testing,Exploratory Testing,https://martinfowler.com/bliki/ExploratoryTesting.html
+171,Lobsters,testing,Software Testing,Test-driven Development Fundamentals,https://www.pluralsight.com/tech-blog/test-driven-development-fundamentals/
+172,Lobsters,testing,Software Testing,Tests for timezones,https://tanin.nanakorn.com/technical/2019/12/08/tests-for-timezones.html
+173,Lobsters,testing,Software Testing,Property based testing for scientific code in Python,https://datascience.blog.wzb.eu/2019/11/08/property-based-testing-for-scientific-code-in-python/
+174,Lobsters,testing,Software Testing,Automatic Loop Invariant Generation and Refinement through Selective Sampling (2017),https://lijiaying.github.io/papers/ase17.pdf
+175,Lobsters,testing,Software Testing,Testing Django Migrations,https://sobolevn.me/2019/10/testing-django-migrations
+176,Lobsters,testing,Software Testing,Automatically Testing Implementations of Numerical Abstract Domains (2018),https://mariachris.github.io/Pubs/ASE-2018.pdf
+177,Lobsters,testing,Software Testing,Automated testing is not working,https://blog.logrocket.com/automated-testing-is-not-working/
+178,Lobsters,testing,Software Testing,High Coverage Testing of Haskell Programs,https://www.doc.ic.ac.uk/~tora/irulan/issta.pdf
+179,Lobsters,testing,Software Testing,A Survey of Compiler Testing,http://software-lab.org/publications/csur2019_compiler_testing.pdf
+180,Lobsters,testing,Software Testing,One-Liner to test the Startup Speed of Firefox and Chromium,http://www.gibney.de/browser_startup_speed
+181,Lobsters,testing,Software Testing,Bash Automated Testing System,https://github.com/bats-core/bats-core
+182,Lobsters,testing,Software Testing,"Unit, Functional, Integration? You are doing it wrong",https://blog.7mind.io/constructive-test-taxonomy.html
+183,Lobsters,testing,Software Testing,TDD Doesn't Work (2016),https://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html
+184,Lobsters,testing,Software Testing,Overfitting code to the unit tests,https://kaushikghose.wordpress.com/2019/11/07/overfitting-code-to-the-unit-tests/
+185,Lobsters,testing,Software Testing,"Helping Generative Fuzzers Avoid Looking Only Where the Light is Good, Part 1",https://blog.regehr.org/archives/1700
+186,Lobsters,testing,Software Testing,"Haskell Programming With Tests, and Some Alloy",https://staff.fnwi.uva.nl/d.j.n.vaneijck2/courses/10/pdfs/Week6.pdf
+187,Lobsters,testing,Software Testing,Some pointers for developers trying to introduce automated testing,https://erik.itland.no/some-pointers-for-developers-trying-to-introduce-automated-testing
+188,Lobsters,testing,Software Testing,Causing ZFS corruption for fun and profit (and quality assurance purposes),https://datto.engineering/post/causing-zfs-corruption
+189,Lobsters,testing,Software Testing,Test Desiderata,https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
+190,Lobsters,testing,Software Testing,Testing is hard: git submodules edition,https://www.alexrs.me/2019/testing-is-hard-git-submodules-edition
+191,Lobsters,testing,Software Testing,Systematically Covering Input Structure,https://havrikov.github.io/publications/ase19-preprint.pdf
+192,Lobsters,testing,Software Testing,When Results Are All That Matters: The Case of the Angora Fuzzer,https://andreas-zeller.blogspot.com/2019/10/when-results-are-all-that-matters-case.html
+193,Lobsters,testing,Software Testing,Embedded C/C++ Unit Testing Basics,https://interrupt.memfault.com/blog/unit-testing-basics
+194,Lobsters,testing,Software Testing,Fuzzing for SMT Solvers,https://kyledewey.github.io/comp490-fall18/lecture/week_9/socal_fall_15.pdf
+195,Lobsters,testing,Software Testing,How do you make your app testable?,https://nick318.github.io/2019/10/05/principles-of-testability
+196,Lobsters,testing,Software Testing,"Microservices Testing Strategies, Types & Tools: A Complete Guide",https://www.simform.com/microservice-testing-strategies/
+197,Lobsters,testing,Software Testing,When TDD Is Not a Good Fit,https://henrikwarne.com/2019/09/29/when-tdd-is-not-a-good-fit/
+198,Lobsters,testing,Software Testing,Against TDD,http://neopragma.com/index.php/2019/09/29/against-tdd/
+199,Lobsters,testing,Software Testing,Jaliborc/WoWUnit - A unit testing framework for World of Warcraft,https://github.com/Jaliborc/WoWUnit
+200,Lobsters,testing,Software Testing,CATG: Concolic Test Generation Tool for Java,https://github.com/ksen007/janala2
+201,Lobsters,testing,Software Testing,FuzzFactory: Domain-Specific Fuzzing with Waypoints,https://github.com/rohanpadhye/FuzzFactory
+202,Lobsters,testing,Software Testing,"Coding, Components, and the Learning Ladder [VIDEO]",https://www.youtube.com/watch?v=TFKl5QJkywQ
+203,Lobsters,testing,Software Testing,A Combinatorial Testing Framework for Intuitionistic Propositional Theorem Provers,https://www.cse.unt.edu/~tarau/research/2019/tprover.pdf
+204,Lobsters,testing,Software Testing,Lessons I’ve learned while writing and maintaining tests over years,https://medium.com/thron-tech/lessons-ive-learned-while-writing-and-maintaining-tests-over-years-93c357513a8d
+205,Lobsters,testing,Software Testing,Jepsen: YugaByte DB 1.3.1,https://jepsen.io/analyses/yugabyte-db-1.3.1
+206,Lobsters,testing,Software Testing,Combining Coverage-Guided and Generation-Based Fuzzing,http://fitzgeraldnick.com/2019/09/04/combining-coverage-guided-and-generation-based-fuzzing.html
+207,Lobsters,testing,Software Testing,Unit testing C code with gtest,http://notes.eatonphil.com/unit-testing-c-code-with-gtest.html
+208,Lobsters,testing,Software Testing,I test in prod,https://increment.com/testing/i-test-in-production/
+209,Lobsters,testing,Software Testing,Testing the boundaries of collaboration,https://increment.com/testing/testing-the-boundaries-of-collaboration/
+210,Lobsters,testing,Software Testing,Fuzzification: Anti-Fuzzing Techniques,https://www.usenix.org/system/files/sec19fall_jung_prepub.pdf
+211,Lobsters,testing,Software Testing,[Maildev] Roadmap towards a Mork-free address book back-end,http://lists.thunderbird.net/pipermail/maildev_lists.thunderbird.net/2019-August/001900.html
+212,Lobsters,testing,Software Testing,The five stages to unit-testing enlightenment,https://dev.to/saidaspen/the-five-stages-to-unit-testing-enlightenment-3cli
+213,Lobsters,testing,Software Testing,Using Elastic Search with Python,https://dev.libreneitor.com/using-elastic-search-with-python/
+214,Lobsters,testing,Software Testing,The Role of Qualification Gates in Getting to Beta and Beyond,https://storj.io/blog/2019/08/the-role-of-qualification-gates-in-getting-to-beta-and-beyond/
+215,Lobsters,testing,Software Testing,Book published: Property-Based Testing in a Screencast Editor,https://leanpub.com/property-based-testing-in-a-screencast-editor
+216,Lobsters,testing,Software Testing,How (not) to test graphics algorithms,https://bartwronski.com/2019/08/14/how-not-to-test-graphics-algorithms/
+217,Lobsters,testing,Software Testing,sourcehut - the hacker's forge,https://sourcehut.org/
+218,Lobsters,testing,Software Testing,FUDGE: Fuzz Driver Generation at Scale,https://ai.google/research/pubs/pub48314
+219,Lobsters,testing,Software Testing,Resurrecting simnet,https://zinascii.com/2019/resurrecting-simnet.html
+220,Lobsters,testing,Software Testing,TL;DR; or Chapter 11 on Validating Parallel Programming,https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+221,Lobsters,testing,Software Testing,Why your mock doesn’t work,https://nedbatchelder.com//blog/201908/why_your_mock_doesnt_work.html
+222,Lobsters,testing,Software Testing,NEUZZ: Efficient Fuzzing with Neural Program Smoothing (2018),https://arxiv.org/abs/1807.05620
+223,Lobsters,testing,Software Testing,Improve your tests in Django with fakes and factories (2017),https://hacksoft.blog/improve-your-tests-django-fakes-and-factories/
+224,Lobsters,testing,Software Testing,Compositional Fuzzing Aided by Targeted Symbolic Execution,https://arxiv.org/pdf/1903.02981
+225,Lobsters,testing,Software Testing,TRUNCATE vs DELETE: Efficiently Clearing Data from a Postgres Table,https://lob.com/blog/truncate-vs-delete-efficiently-clearing-data-from-a-postgres-table/
+226,Lobsters,testing,Software Testing,An empirical investigation into path divergences for concolic execution using CREST (2015),https://onlinelibrary.wiley.com/doi/epdf/10.1002/sec.1290
+227,Lobsters,testing,Software Testing,Practical production python scripts,https://www.madmode.com/2019/python-eng.html
+228,Lobsters,testing,Software Testing,Using Pairwise Testing to Verify Automatically-Generated Formal Specifications (2015),http://www.cs.utep.edu/isalamah/publications/C6.pdf
+229,Lobsters,testing,Software Testing,Start a new project with an Event Sourcing Architecture,https://keith-mifsud.me/blog/start-a-new-project-with-an-event-sourcing-architecture
+230,Lobsters,testing,Software Testing,How to Spot Good Fuzzing Research,https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/
+231,Lobsters,testing,Software Testing,Executable formal semantics for the POSIX shell,https://arxiv.org/abs/1907.05308
+232,Lobsters,testing,Software Testing,Design and Evolution of C-Reduce (Part 1),https://blog.regehr.org/archives/1678
+233,Lobsters,testing,Software Testing,Grey-box Concolic Testing on Binary Code,https://softsec.kaist.ac.kr/~jschoi/data/icse2019.pdf
+234,Lobsters,testing,Software Testing,A gentle introduction to Linux Kernel fuzzing,https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/
+235,Lobsters,testing,Software Testing,Evaluating Combinatorial vs Exhaustive Testing of DOM Events (2013),http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0F788528A9CA836D7A1E3A09D6326696?doi=10.1.1.303.3462&rep=rep1&type=pdf
+236,Lobsters,testing,Software Testing,Repeat tests. Repeat tests. Repeat tests,https://github.com/ehmicky/test-each
+237,Lobsters,testing,Software Testing,Pruning the Search Space in Path-based Test Generation (2009),http://sebastien.bardin.free.fr/icst-09.pdf
+238,Lobsters,testing,Software Testing,Fuzzers & Reducers as Productivity Tools,https://kripken.github.io/blog/binaryen/2019/06/11/fuzz-reduce-productivity.html
+239,Lobsters,testing,Software Testing,Programmer Test Principles,https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934
+240,Lobsters,testing,Software Testing,Speeding up tests on CircleCI for a Python Django project,https://www.brautaset.org/articles/2019/speed-up-circleci.html
+241,Lobsters,testing,Software Testing,There Are Only Integration Tests,https://dimes.github.io/blog/there-are-only-integration-tests.html
+242,Lobsters,testing,Software Testing,A tool for automating E2E microservices testing,https://github.com/comtihon/catcher
+243,Lobsters,testing,Software Testing,Finding Bugs with Property Based Testing in a Statistics Calculation,https://pragtob.wordpress.com/2019/06/24/finding-bugs-with-property-based-testing-in-a-statistics-calculation/
+244,Lobsters,testing,Software Testing,Don't test in production? Test in production,https://opensource.com/article/19/5/dont-test-production
+245,Lobsters,testing,Software Testing,Xsmith: A racket library and DSL for fuzz testing compilers and interpreters,https://docs.racket-lang.org/xsmith/index.html
+246,Lobsters,testing,Software Testing,Jepsen: TiDB 2.1.7,https://jepsen.io/analyses/tidb-2.1.7
+247,Lobsters,testing,Software Testing,Let’s Talk Testing: 4 quick lessons on the philosophy of testing,https://zendev.com/2019/06/11/lets-talk-testing-philosophy.html
+248,Lobsters,testing,Software Testing,Correctness Testing of Loop Optimization in C and C++ Compilers (2018),http://sattose.wdfiles.com/local--files/2018:schedule/SATToSE_2018_paper_13.pdf
+249,Lobsters,testing,Software Testing,"Property-Based Testing in a Screencast Editor, Case Study 3: Integration Testing",https://wickstrom.tech/programming/2019/06/02/property-based-testing-in-a-screencast-editor-case-study-3.html
+250,Lobsters,testing,Software Testing,Zhmenu -- A lightweight adaptable dmenu-like pinyin-to-chinese input menu. Depends only on Xorg,https://gitlab.com/finnoleary/zhmenu
+251,Lobsters,testing,Software Testing,Discovery Testing,https://github.com/testdouble/contributing-tests/wiki/Discovery-Testing
+252,Lobsters,testing,Software Testing,Building on developers' intuitions to create effective property-based tests,https://www.youtube.com/watch?v=NcJOiQlzlXQ
+253,Lobsters,testing,Software Testing,My Take on Property-Based Testing,https://medium.com/erlang-battleground/property-based-testing-erlang-elixir-de72ad24966b
+254,Lobsters,testing,Software Testing,Testing Without Mocks: A Pattern Language,https://www.jamesshore.com/Blog/Testing-Without-Mocks.html
+255,Lobsters,testing,Software Testing,Jenkins is Getting Old,https://itnext.io/jenkins-is-getting-old-2c98b3422f79
+256,Lobsters,testing,Software Testing,Parser directed fuzzing,http://rahul.gopinath.org/resources/pldi2019/mathis2019parser.pdf
+257,Lobsters,testing,Software Testing,Property-Based Testing in a Screencast Editor: Video Scene Classification,https://wickstrom.tech/programming/2019/04/17/property-based-testing-in-a-screencast-editor-case-study-2.html
+258,Lobsters,testing,Software Testing,Adventures in CI,https://www.bassi.io/articles/2019/04/13/adventures-in-ci/
+259,Lobsters,testing,Software Testing,Buildkite,https://buildkite.com/
+260,Lobsters,testing,Software Testing,RSpec mocks and stubs in plain English,https://www.codewithjason.com/rspec-mocks-stubs-plain-english/
+261,Lobsters,testing,Software Testing,Mutation vs Property Based testing,https://medium.com/@boxed/mutation-vs-property-based-testing-4c788b06f665
+262,Lobsters,testing,Software Testing,The high cost of slow tests,https://pythonspeed.com/articles/high-cost-slow-tests/
+263,Lobsters,testing,Software Testing,Finding Property Tests,https://www.hillelwayne.com/post/contract-examples/
+264,Lobsters,testing,Software Testing,FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems,https://ucare.cs.uchicago.edu/pdf/eurosys19-flyMC.pdf
+265,Lobsters,testing,Software Testing,Show some love to Node.js process errors,https://github.com/ehmicky/log-process-errors
+266,Lobsters,testing,Software Testing,OpenBSD testing wiki,https://github.com/ligurio/openbsd-tests/wiki
+267,Lobsters,testing,Software Testing,Run django tests in docker environment from emacs using .dir-locals.el,https://grimeywebsites.com/#/snippets/elisp?id=run-django-tests-in-docker-environment-from-emacs-using-dir-localsel
+268,Lobsters,testing,Software Testing,Jepsen: YugaByte DB 1.1.9,https://jepsen.io/analyses/yugabyte-db-1.1.9
+269,Lobsters,testing,Software Testing,Metamorphic Testing,https://www.hillelwayne.com/post/metamorphic-testing/
+270,Lobsters,testing,Software Testing,"Property-Based Testing in a Screencast Editor, Case Study 1: Timeline Flattening",https://wickstrom.tech/programming/2019/03/24/property-based-testing-in-a-screencast-editor-case-study-1.html
+271,Lobsters,testing,Software Testing,Testing the Hard Stuff and Staying Sane,https://www.youtube.com/watch?v=zi0rHwfiX1Q
+272,Lobsters,testing,Software Testing,When you can't (and shouldn't) unit test,https://atilaoncode.blog/2019/03/21/when-you-cant-and-shouldnt-unit-test/
+273,Lobsters,testing,Software Testing,Testing at the boundaries,http://www.tedinski.com/2019/03/19/testing-at-the-boundaries.html
+274,Lobsters,testing,Software Testing,Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing,https://www.cs.ucr.edu/~heng/pubs/digfuzz_ndss19.pdf
+275,Lobsters,testing,Software Testing,A little testing,https://www.bassi.io/articles/2019/03/14/a-little-testing/
+276,Lobsters,testing,Software Testing,Inside Kdenlive: How to fuzz a complex GUI application?,https://kdenlive.org/en/2019/03/inside-kdenlive-how-to-fuzz-a-complex-gui-application/
+277,Lobsters,testing,Software Testing,Generating Finite State Machines from Abstract State Machines (2002),https://www.microsoft.com/en-us/research/wp-content/uploads/2002/07/issta02.pdf
+278,Lobsters,testing,Software Testing,Sometimes its better for tests to hit the real API,https://www.codewithjason.com/sometimes-better-tests-hit-real-api/
+279,Lobsters,testing,Software Testing,Jepsen: FaunaDB 2.5.4,https://jepsen.io/analyses/faunadb-2.5.4
+280,Lobsters,testing,Software Testing,Unit and Integration Testing In Elixir with Multiple Environments,https://spin.atomicobject.com/2018/10/22/elixir-test-multiple-environments/
+281,Lobsters,testing,Software Testing,Metamorphic Testing: A New Approach for Generating Next Test Cases (1998),https://www.cse.ust.hk/~scc/publ/CS98-01-metamorphictesting.pdf
+282,Lobsters,testing,Software Testing,Increasing coverage of signal semantics in regression tests,https://blog.netbsd.org/tnf/entry/increasing_coverage_of_signal_semantics
+283,Lobsters,testing,Software Testing,Property-Based Testing in a Screencast Editor: Introduction,https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html
+284,Lobsters,testing,Software Testing,Looks like TravisCI Is On The Way Out,https://twitter.com/carmatrocity/status/1098538649908666368
+285,Lobsters,testing,Software Testing,Rahul Gopinath's Summary of His Research on Mutation Testing,http://rahul.gopinath.org/
+286,Lobsters,testing,Software Testing,The future of Catch2,https://codingnest.com/the-future-of-catch2/
+287,Lobsters,testing,Software Testing,Farewell to fsync(): 10× faster database tests with Docker,https://pythonspeed.com/articles/faster-db-tests/
+288,Lobsters,testing,Software Testing,Fuzzing the Windows Kernel (2016),https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-fuzzing-the-windows-kernel.pdf
+289,Lobsters,testing,Software Testing,Testing Distributed Systems w/ Deterministic Simulation,https://www.youtube.com/watch?v=4fFDFbi3toc
+290,Lobsters,testing,Software Testing,"Test Generation from Bounded, Algebraic Specifications Using Alloy (2008)",http://www.di.fc.ul.pt/~mal/QUEST/ICSOFT2011.pdf
+291,Lobsters,testing,Software Testing,Notes on fuzzing ImageMagick and GraphicsMagick,https://alexgaynor.net/2019/feb/05/notes-fuzzing-imagemagick-graphicsmagick/
+292,Lobsters,testing,Software Testing,Benchmarking Go vs Node vs Elixir,https://stressgrid.com/blog/benchmarking_go_vs_node_vs_elixir/
+293,Lobsters,testing,Software Testing,Automated Test Generation and Mutation Testingfor Alloy (2017),https://kaiyuanw.github.io/papers/paper4-icst17.pdf
+294,Lobsters,testing,Software Testing,Dream Code First,http://www.rubypigeon.com/posts/dream-code-first/
+295,Lobsters,testing,Software Testing,Learn Go With Test-Driven Development,https://github.com/quii/learn-go-with-tests
+296,Lobsters,testing,Software Testing,5 Short Stories about Tests,https://nmattia.com/posts/2019-01-22-the-5-raisons-detre-of-testing.html
+297,Lobsters,testing,Software Testing,The Day I Fell in Love with Fuzzing,https://nullprogram.com/blog/2019/01/25/
+298,Lobsters,testing,Software Testing,Better Acceptance Tests with Page Objects,https://robots.thoughtbot.com/better-acceptance-tests-with-page-objects
+299,Lobsters,testing,Software Testing,An in-depth look at quickcheck-state-machine,http://www.well-typed.com/blog/2019/01/qsm-in-depth/
+300,Lobsters,testing,Software Testing,Continuous Deployment Isnt Just for Applications,https://medium.com/braintree-product-technology/continuous-deployment-isnt-just-for-applications-ed78b4f4a7f6
+301,Lobsters,testing,Software Testing,"Travis CI acquired, joins the Idera family",https://blog.travis-ci.com/2019-01-23-travis-ci-joins-idera-inc
+302,Lobsters,testing,Software Testing,Stuck with slow tests? Speed up your feedback loop,https://pythonspeed.com/articles/slow-tests-fast-feedback/
+303,Lobsters,testing,Software Testing,Best engineering practices: how to fix a bug?,https://dev.to/wemake-services/best-engineering-practices-how-to-fix-a-bug-58g5
+304,Lobsters,testing,Software Testing,How to Reduce Test Interference in Minitest,https://www.gregnavis.com/articles/how-to-reduce-test-interference-in-minitest.html
+305,Lobsters,testing,Software Testing,Testing isn't everything,https://arp242.net/weblog/testing.html
+306,Lobsters,testing,Software Testing,An Efficient Coverage-driven Functional Verification System via Genetic Algorithms (2012),https://www.researchgate.net/profile/Sridhar_Seshadri2/publication/286984206_An_efficient_coverage_driven_functional_verification_system_based_on_genetic_algorithm/links/5684e4cd08ae1e63f1f312b4.pdf?origin=publication_detail
+307,Lobsters,testing,Software Testing,"Property-Based Testing with PropEr, Erlang, and Elixir",https://ferd.ca/property-based-testing-with-proper-erlang-and-elixir.html
+308,Lobsters,testing,Software Testing,The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study,https://engineering.shopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study
+309,Lobsters,testing,Software Testing,Checking in JSON,https://orbifold.xyz/check-in-json.html
+310,Lobsters,testing,Software Testing,Notes on Test-Case Reduction,https://www.drmaciver.com/2019/01/notes-on-test-case-reduction/
+311,Lobsters,testing,Software Testing,Hunt bugs down before they are merged,https://nmattia.com/posts/2019-01-08-hunt-bugs-down-before-they-are-merged.html
+312,Lobsters,testing,Software Testing,Fuzzing Like It’s 1989,https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/
+313,Lobsters,testing,Software Testing,API using GraphQL and NodeJs,https://medium.com/programming-society-gazette/part-1-api-using-graphql-and-node-js-3423a6004b96
+314,Lobsters,testing,Software Testing,Testing Distributed Systems w/ Deterministic Simulation,https://www.youtube.com/watch?v=4fFDFbi3toc
+315,Lobsters,testing,Software Testing,Copying someone else's performance tweak,https://dev.to/notriddle/copying-someone-elses-performance-tweak-5g5h
+316,Lobsters,testing,Software Testing,LCOV provides a very valuable starting point on how to improve test quality (2016),http://reedmedia.net/~reed/qa/lcov-2016/
+317,Lobsters,testing,Software Testing,Operant Conditioning by Software Bugs,https://blog.regehr.org/archives/861
+318,Lobsters,testing,Software Testing,Simple unit testing in C,https://text.causal.agency/005-testing-c.txt
+319,Lobsters,testing,Software Testing,Tests won’t make your software correct,https://codewithoutrules.com/2018/12/12/tests-are-not-enough/
+320,Lobsters,testing,Software Testing,Unit Testing Anti-Patterns Full List,https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html
+321,Lobsters,testing,Software Testing,MicroTESK (toolkit that automates development of test program generators for microprocessors),http://www.microtesk.org/microtesk/about-microtesk/
+322,Lobsters,testing,Software Testing,CPA-SymExec: Efficient Symbolic Execution in CPAchecker,https://www.sosy-lab.org/research/pub/2018-ASE.CPA-SymExec_Efficient_Symbolic_Execution_in_CPAchecker.pdf
+323,Lobsters,testing,Software Testing,Automated Test Summit 2018,http://www.youtube.com/playlist?list=PLKZSArYQptsPGftWXdlTI7vPCc42FXksD
+324,Lobsters,testing,Software Testing,7 reasons not to skip the tests,https://piet.me/blog/x-reasons-not-to-skip-the-tests/
+325,Lobsters,testing,Software Testing,Expert Excuses for Not Writing Unit Tests,https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/
+326,Lobsters,testing,Software Testing,"ipfs-wormhole: Get things from one computer to another, safely. Over IPFS (optional to receive)",https://github.com/aurelg/ipfs-wormhole
+327,Lobsters,testing,Software Testing,The Value of Mutation Testing with Markus Schirp,https://engineering-management.space/post/consultant-interview-markus-schirp/
+328,Lobsters,testing,Software Testing,"Unit testing? Do as I say, don't do as I do",https://atilanevesoncode.wordpress.com/2018/11/20/unit-testing-do-as-i-say-dont-do-as-i-do/
+329,Lobsters,testing,Software Testing,Noise-based Testing and Analysis of Multi-threaded C/C++ Programs on the Binary Level,http://www.fit.vutbr.cz/~vojnar/Publications/padtad-12.pdf
+330,Lobsters,testing,Software Testing,Estimating number of bugs left to find with Lincoln index,https://www.johndcook.com/blog/2010/07/13/lincoln-index/
+331,Lobsters,testing,Software Testing,Introduction to state machine testing: part 2,http://qfpl.io/posts/intro-to-state-machine-testing-2/
+332,Lobsters,testing,Software Testing,A Unified Processor Model for Compiler Verification and Simulation using ASM,http://www.complang.tuwien.ac.at/tbfg/abz2012.pdf
+333,Lobsters,testing,Software Testing,The little mocker,https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html
+334,Lobsters,testing,Software Testing,Why Good Developers Write Bad Unit Tests,https://mtlynch.io/good-developers-bad-tests/
+335,Lobsters,testing,Software Testing,Defensive programming can hide bugs,http://boston.conman.org/2018/11/06.1
+336,Lobsters,testing,Software Testing,Statically-Directed Dynamic Automated Test Generation,https://people.eecs.berkeley.edu/~dawnsong/papers/2011%20issta11sandwich.pdf
+337,Lobsters,testing,Software Testing,Anglocentrism broke my tests – ignore localisation at your peril,http://blog.tdwright.co.uk/2018/11/06/anglocentrism-broke-my-tests-ignore-localisation-at-your-peril/
+338,Lobsters,testing,Software Testing,Generating Software Tests,https://www.fuzzingbook.org/
+339,Lobsters,testing,Software Testing,Testing is hard: xcodebuild test and the -only-testing flag,https://www.alexrs.me/2018/testing-is-hard-xcodebuild-test-only-testing
+340,Lobsters,testing,Software Testing,Lineage-driven Fault Injection,https://people.ucsc.edu/~palvaro/molly.pdf
+341,Lobsters,testing,Software Testing,Scales of Feedback Time in Software Development (from Compiler to Monitoring),https://www.chriskrycho.com/2018/scales-of-feedback-time-in-software-development.html
+342,Lobsters,testing,Software Testing,Unit testing and TDD misconceptions,https://www.linkedin.com/pulse/unit-testing-tdd-misconceptions-marko-bjelac/
+343,Lobsters,testing,Software Testing,How to run 128 (testnet) I2P routers in multiple subnets on a single Linux system,http://0xcc.re/how-to-run-128-i2p-routers-in-multiple-subnets-on-a-single-linux-system/
+344,Lobsters,testing,Software Testing,Testing Ruby's CGI,https://www.mikeperham.com/2018/10/12/testing-rubys-cgi/
+345,Lobsters,testing,Software Testing,Design of Automated Validation Environment For Radiation Hardened MIPS Microprocessor,https://repository.asu.edu/attachments/57211/content/Sharma_asu_0010N_10877.pdf
+346,Lobsters,testing,Software Testing,Useful tools: Headless Chrome & puppeteer for browser automation & testing,https://medium.com/square-corner-blog/useful-tools-headless-chrome-puppeteer-for-browser-automation-testing-1ac7707bad40
+347,Lobsters,testing,Software Testing,"Practical, Symbolic, Execution Analysis and Methodology for GPU Programs",http://formalverification.cs.utah.edu/theses/pengLi_thesis.pdf
+348,Lobsters,testing,Software Testing,Travis CI adds support for builds on Windows,https://blog.travis-ci.com/2018-10-11-windows-early-release
+349,Lobsters,testing,Software Testing,Mocking Effects using Constraints and Phantom Data Kinds,https://chrispenner.ca/posts/mock-effects-with-data-kinds
+350,Lobsters,testing,Software Testing,How to check your data integrity?,https://dataswamp.org/~solene/2017-03-17-integrity.html
+351,Lobsters,testing,Software Testing,Python Mock Cookbook,https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html
+352,Lobsters,testing,Software Testing,The Siren Song of Automated UI Testing,http://www.bennorthrop.com/Essays/2014/the-siren-song-of-automated-testing.php
+353,Lobsters,testing,Software Testing,How to Speed up Your Tests without Touching the Code,https://www.gregnavis.com/articles/how-to-tune-your-database-to-make-tests-faster.html
+354,Lobsters,testing,Software Testing,How I’ve found vulnerability in a popular Rust crate (and you can too),https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb
+355,Lobsters,testing,Software Testing,Property testing framework for Rust,https://docs.rs/proptest/0.7.0/proptest/index.html
+356,Lobsters,testing,Software Testing,Why choosing the right testing suite matters,https://techbeacon.com/why-your-choice-software-testing-suites-matters
+357,Lobsters,testing,Software Testing,Confessions of Wall St Programmer: Static Analysis Posts,https://btorpey.github.io/blog/categories/static-analysis/
+358,Lobsters,testing,Software Testing,Testing Closed-Source Binary Device Drivers with DDT (2010),http://dslab.epfl.ch/pubs/ddt.pdf
+359,Lobsters,testing,Software Testing,"Model-based, Trace Checking (2017)",https://arxiv.org/pdf/1111.2825.pdf
+360,Lobsters,testing,Software Testing,Running Clojurescript Tests on the JVM,http://sulami.github.io/posts/running-clojurescript-tests-on-the-jvm/
+361,Lobsters,testing,Software Testing,Experiences with QuickCheck: testing the hard stuff and staying sane,http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf
+362,Lobsters,testing,Software Testing,Testing APIs in Ruby: An overview,https://blog.schembri.me/post/testing-apis-in-ruby-with-rspec/
+363,Lobsters,testing,Software Testing,Tests Coverage is Dead — Long Live Mutation Testing,https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e
+364,Lobsters,testing,Software Testing,"Introducing halfempty: Fast, Parallel, Test-Case Minimization",https://github.com/googleprojectzero/halfempty/blob/master/README.md
+365,Lobsters,testing,Software Testing,localstack: A fully functional local AWS cloud stack,https://github.com/localstack/localstack
+366,Lobsters,testing,Software Testing,Go Interface Mocking Tool,https://github.com/percolate/charlatan
+367,Lobsters,testing,Software Testing,Jon Rowe and Sam Phippen are RSpec's new leads,http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/
+368,Lobsters,testing,Software Testing,How the GNU coreutils are tested,http://www.pixelbeat.org/docs/coreutils-testing.html
+369,Lobsters,testing,Software Testing,A simple split-stream mutation engine in Python,https://rahul.gopinath.org/2018/09/16/writing-a-mutation-engine/
+370,Lobsters,testing,Software Testing,DeepSmith: Compiler Fuzzing through Deep Learning,https://chriscummins.cc/pub/2018-acaces.pdf
+371,Lobsters,testing,Software Testing,Structure-aware Fuzzing for Clang and LLVM (2017),https://llvm.org/devmtg/2017-10/slides/Serebryany-Structure-aware%20fuzzing%20for%20Clang%20and%20LLVM%20with%20libprotobuf-mutator.pdf
+372,Lobsters,testing,Software Testing,Azure Pipelines,https://azure.microsoft.com/en-us/services/devops/pipelines/
+373,Lobsters,testing,Software Testing,Fuzzing with Code Fragments (2012),https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final73.pdf
+374,Lobsters,testing,Software Testing,What CPython could use Cython for,http://blog.behnel.de/posts/what-cpython-could-use-cython-for.html
+375,Lobsters,testing,Software Testing,On Writing Beautiful Tests,https://crate.io/a/on-writing-beautiful-tests/
+376,Lobsters,testing,Software Testing,Mostly avoid unit tests,https://www.teamten.com/lawrence/programming/mostly-avoid-unit-tests.html
+377,Lobsters,testing,Software Testing,Testing is hard: flakiness,https://www.alexrs.me/2018/testing-is-hard-flakiness
+378,Lobsters,testing,Software Testing,Building a finance tracking REST API using Go with TDD - Part 1,https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-test-driven-development---part-1-16o8
+379,Lobsters,testing,Software Testing,Adaptive Grey-Box Fuzz-Testing with Thompson Sampling,https://arxiv.org/abs/1808.08256v1
+380,Lobsters,testing,Software Testing,Testing the Unthinkable,https://codingagainstchaos.com/2018/07/21/testing-the-unthinkable.html
+381,Lobsters,testing,Software Testing,Value-Oriented Programming,https://matt.diephouse.com/2018/08/value-oriented-programming/
+382,Lobsters,testing,Software Testing,Machine Learning for CI,https://github.com/mtreinish/ciml
+383,Lobsters,testing,Software Testing,TDD for those who don't need it,https://www.youtube.com/watch?v=a6oP24CSdUg
+384,Lobsters,testing,Software Testing,Automated Tests are Still Code,https://dkettlestrings.github.io/testing/2016/01/05/its-still-code/
+385,Lobsters,testing,Software Testing,Lessons Learned Writing Unit Tests,https://stephenmann.io/post/lessons-learned-writing-unit-tests/
+386,Lobsters,testing,Software Testing,Q&A on the Book Agile Methods for Safety-Critical Systems,https://www.infoq.com/articles/book-review-agile-safety-critical-systems
+387,Lobsters,testing,Software Testing,"Automated Software Test Generation: Some Challenges, Solutions, and Recent Advances",https://patricegodefroid.github.io/public_psfiles/lncs10000-2018.pdf
+388,Lobsters,testing,Software Testing,TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing,https://arxiv.org/abs/1807.10875
+389,Lobsters,testing,Software Testing,Unit testing anti-patterns: Structural Inspection,https://enterprisecraftsmanship.com/2016/07/21/unit-testing-anti-patterns-structural-inspection/
+390,Lobsters,testing,Software Testing,TaskSanitizer: Runtime Determinacy Race Detection Tool for OpenMP Tasks,https://github.com/hassansalehe/TaskSanitizer
+391,Lobsters,testing,Software Testing,EmbedSanitizer: A Runtime Race Detection Tool for 32-bit Embedded ARM,https://github.com/hassansalehe/EmbedSanitizer
+392,Lobsters,testing,Software Testing,Crash Triage Process,https://blog.grimm-co.com/post/crash-triage-process/
+393,Lobsters,testing,Software Testing,Semantic Crash Bucketing,https://www.cs.cmu.edu/~rvantond/pdfs/scb-ase-2018.pdf
+394,Lobsters,testing,Software Testing,Tried TDD and didn’t realize the benefits? Try it the next time you get writer’s block,https://www.coreycleary.me/tried-tdd-and-didnt-realize-the-benefits-try-it-the-next-time-you-get-writers-block/
+395,Lobsters,testing,Software Testing,Books & papers on generative testing? Essential textbooks in software testing?,/s/pntmun/books_papers_on_generative_testing
+396,Lobsters,testing,Software Testing,The Hidden Perils of Automated Assessment,http://blog.brownplt.org/2018/07/26/perils-of-automated-assessment.html
+397,Lobsters,testing,Software Testing,No API Is the Best API — The elegant power of Power Assert,https://intoli.com/blog/power-assert/
+398,Lobsters,testing,Software Testing,How Verified (or Tested) is My Code? Falsification-Driven Verification and Testing,https://agroce.github.io/asej18.pdf
+399,Lobsters,testing,Software Testing,Ask: Do you use generative testing? How would you improve your use of it?,/s/lewzfu/ask_do_you_use_generative_testing_how
+400,Lobsters,testing,Software Testing,PerfFuzz: Automatically Generating Pathological Inputs,http://www.carolemieux.com/perffuzz-issta2018.pdf
+401,Lobsters,testing,Software Testing,Compiler Fuzzing through Deep Learning,http://homepages.inf.ed.ac.uk/hleather/publications/2018_deepfuzzing_issta.pdf
+402,Lobsters,testing,Software Testing,Badger: Complexity Analysis with Fuzzing and Symbolic Execution,https://arxiv.org/abs/1806.03283
+403,Lobsters,testing,Software Testing,Engineering a Safer World,https://mitpress.mit.edu/books/engineering-safer-world
+404,Lobsters,testing,Software Testing,"An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Directions",https://people.cs.umass.edu/~rjust/publ/industrial_mutation_icst_2018.pdf
+405,Lobsters,testing,Software Testing,"Testing with Autotools, Valgrind, and Gcov",http://ansuz.sooke.bc.ca/entry/233
+406,Lobsters,testing,Software Testing,State of Mutation Testing at Google,https://ai.google/research/pubs/pub46584
+407,Lobsters,testing,Software Testing,An Industrial Application of Mutation Testing,https://emil.hessman.se/articles/an-industrial-application-of-mutation-testing
+408,Lobsters,testing,Software Testing,Looking at TDD: An Academic Survey,https://www.tedmyoung.com/looking-at-tdd-an-academic-survey/
+409,Lobsters,testing,Software Testing,TestProf: a good doctor for slow Ruby tests,https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests
+410,Lobsters,testing,Software Testing,Call for testers - Audio improvements for NetBSD 8.1,http://mail-index.netbsd.org/tech-kern/2018/06/23/msg023541.html
+411,Lobsters,testing,Software Testing,Equivalence Testing for JavaScript Transformations,https://people.mpi-sws.org/~jkloos/eqtesting.pdf
+412,Lobsters,testing,Software Testing,How Unit Testing Improves Code Quality in TDD,https://www.simform.com/unit-testing-tdd/
+413,Lobsters,testing,Software Testing,A Trick For Test Maintenance,https://matklad.github.io//2018/06/18/a-trick-for-test-maintenance.html
+414,Lobsters,testing,Software Testing,Making Tests Go Faster,https://ryanbigg.com/2018/06/making-tests-go-faster
+415,Lobsters,testing,Software Testing,Beyond Unit Tests,https://www.hillelwayne.com/talks/beyond-unit-tests/
+416,Lobsters,testing,Software Testing,The true meaning of unit testing,https://codewithoutrules.com/2018/06/08/what-does-unittesting-mean/
+417,Lobsters,testing,Software Testing,On Unit Tests,https://blog.bloomca.me/2018/06/03/on-unit-tests.html
+418,Lobsters,testing,Software Testing,"Applying Combinatorial Testing to Systems with a Complex, Input Space (2013)",https://uta-ir.tdl.org/uta-ir/bitstream/handle/10106/25541/NourozBorazjany_uta_2502D_12129.pdf?sequence=1
+419,Lobsters,testing,Software Testing,Sketch.systems,https://sketch.systems/
+420,Lobsters,testing,Software Testing,Building Reliable Infrastructure in Rust,https://www.youtube.com/watch?v=hMJEPWcSD8w
+421,Lobsters,testing,Software Testing,"Empirical Study Comparing Pairwise, Automated Testing to Hand-Crafted Tests (2017)",https://arxiv.org/pdf/1706.01636v1.pdf
+422,Lobsters,testing,Software Testing,My Personal Source Code: Books to Learn Analysis,http://www.satisfice.com/blog/archives/1918
+423,Lobsters,testing,Software Testing,Faction - A Small C Library for Test-Driven Development,https://timetoplatypus.com/static/faction/index.html
+424,Lobsters,testing,Software Testing,Building Robust Dist Systems and Network Protocols Using Adversarial Testing and Behavioral Analysis,https://nds2.ccs.neu.edu/papers/prot_secdev2016.pdf
+425,Lobsters,testing,Software Testing,Reversing BIP-39 and the Power of Property Testing,http://www.petecorey.com/blog/2018/05/07/reversing-bip39-and-the-power-of-property-testing/
+426,Lobsters,testing,Software Testing,coreboot release 4.8 - Please help with release notes and testing,https://mail.coreboot.org/pipermail/coreboot/2018-May/086729.html
+427,Lobsters,testing,Software Testing,From Unit Testing to Formal Proofs,https://www.adampalay.com/blog/2018/05/04/from-unit-testing-to-formal-proofs/
+428,Lobsters,testing,Software Testing,Build farm using docker containers to test sql/plpgsql under multiple PostgreSQL versions,https://github.com/wsdookadr/pg-docker-buildfarm
+429,Lobsters,testing,Software Testing,How To Find All Your Bugs Using Generative Testing,https://www.youtube.com/watch?v=AqWFaDJYhIA
+430,Lobsters,testing,Software Testing,Testing the Hard Stuff and Staying Sane (2014),https://www.youtube.com/watch?v=zi0rHwfiX1Q
+431,Lobsters,testing,Software Testing,Writing an OS in Rust - Unit Testing,https://os.phil-opp.com/unit-testing/
+432,Lobsters,testing,Software Testing,Boosting the Permissiveness of Dynamic Information-Flow Tracking by Testing (2012),https://pdfs.semanticscholar.org/1338/7865d474afa7a8d824bdbecdf24cbd892c7c.pdf
+433,Lobsters,testing,Software Testing,"Toward a Framework for Highly Automated Vehicle Safety Validation, Philip Koopman & Michael Wagner",http://users.ece.cmu.edu/~koopman/pubs/koopman18_av_safety_validation.pdf
+434,Lobsters,testing,Software Testing,Software Testing Anti-patterns,http://blog.codepipes.com/testing/software-testing-antipatterns.html
+435,Lobsters,testing,Software Testing,Testing Distributed Systems w/ Deterministic Simulation,https://www.youtube.com/watch?v=4fFDFbi3toc
+436,Lobsters,testing,Software Testing,Design-by-Contract for Specification and Conformance Testing of Distributed Software (2014),https://www.researchgate.net/publication/253790802_Extended_Design-by-Contract_Approach_to_Specification_and_Conformance_Testing_of_Distributed_Software
+437,Lobsters,testing,Software Testing,Factories Breed Complexity (2012),http://bjeanes.com/2012/02/factories-breed-complexity
+438,Lobsters,testing,Software Testing,Easy CI with fastlane: How we automated everything iOS from running tests to distributing a build,https://medium.com/aaptiv-engineering/easy-ci-with-fastlane-how-we-automated-everything-ios-from-running-tests-to-distributing-a-build-5ecbb817fba0
+439,Lobsters,testing,Software Testing,Should we use mocking libraries for go testing?,https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/
+440,Lobsters,testing,Software Testing,Automatic Testing of Symbolic Execution Engines via Program Generation and Testing (2017),https://srg.doc.ic.ac.uk/files/papers/symex-engine-tester-ase-17.pdf
+441,Lobsters,testing,Software Testing,Software Testing as Species Discovery (statistical properties of fuzzing campaigns),https://arxiv.org/abs/1803.02130
+442,Lobsters,testing,Software Testing,Property-based Testing Basics (2016),https://ferd.ca/property-based-testing-basics.html
+443,Lobsters,testing,Software Testing,Faster Unit Testing in a Legacy JRuby on Rails App,https://www.promptworks.com/blog/faster-unit-tests-for-legacy-jruby-rails-apps
+444,Lobsters,testing,Software Testing,How to write ATF tests for NetBSD,https://r3xnation.wordpress.com/2018/04/10/how-to-write-atf-tests-for-netbsd/
+445,Lobsters,testing,Software Testing,Just a Whole Bunch of Different Tests,https://www.hillelwayne.com/post/a-bunch-of-tests/
+446,Lobsters,testing,Software Testing,T-Fuzz: fuzzing by program transformation,https://nebelwelt.net/publications/files/18Oakland.pdf
+447,Lobsters,testing,Software Testing,Introducing BDD (2006),https://dannorth.net/introducing-bdd/
+448,Lobsters,testing,Software Testing,Generative testing in Clojure,https://www.youtube.com/watch?v=u0TkAw8QqrQ
+449,Lobsters,testing,Software Testing,Reliable Systems Series: Model-Based Testing,https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360
+450,Lobsters,testing,Software Testing,Beginner's Luck: A Language for Property-based Generators (2016),https://arxiv.org/pdf/1607.05443.pdf
+451,Lobsters,testing,Software Testing,"Testing in Production, the safe way",https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1
+452,Lobsters,testing,Software Testing,Unit Testing Asynchronous Code,https://tech.binary.com/unit-testing-with-futures/
+453,Lobsters,testing,Software Testing,Tricking elm-test into solving a river-crossing puzzle,https://ellie-app.com/nHNx6brVja1/0
+454,Lobsters,testing,Software Testing,Type-level Unit Testing in Haskell,https://jship.github.io/posts/2018-03-21-type-level-unit-testing-in-haskell.html
+455,Lobsters,testing,Software Testing,GitLab 10.6 released with CI/CD for GitHub and deeper Kubernetes integration,https://about.gitlab.com/2018/03/22/gitlab-10-6-released/
+456,Lobsters,testing,Software Testing,How We Test the Stateful Autoscaling of Our Stream Processing System,https://blog.wallaroolabs.com/2018/03/how-we-test-the-stateful-autoscaling-of-our-stream-processing-system/
+457,Lobsters,testing,Software Testing,Setting up automated testing with MSTest and Selenium,http://flyingfisch.github.io/testing/2018/03/20/automated-testing-with-mstest-and-selenium.html
+458,Lobsters,testing,Software Testing,Things you might be interested in if you want start learning about the Pony programming language,https://gist.github.com/aturley/49b60c98306d90ffc2f981515827b005
+459,Lobsters,testing,Software Testing,Lightning-Fast Testing For ClojureScript React Components,https://cambium.consulting/articles/2018/3/13/lightning-fast-testing-for-clojurescript-react-components
+460,Lobsters,testing,Software Testing,Model-based Testing of Operating System-Level Security Mechanisms (2016),https://tel.archives-ouvertes.fr/tel-01306992/document
+461,Lobsters,testing,Software Testing,Type-Targeted Testing (2015),https://arxiv.org/pdf/1410.5370
+462,Lobsters,testing,Software Testing,Improving your OSS dependency workflow with Licensed,https://githubengineering.com/improving-your-oss-dependency-workflow-with-licensed/
+463,Lobsters,testing,Software Testing,"Adhesion, a Rust design-by-contract library, reaches feature parity with D inspiration (0.5 release)",https://github.com/ErichDonGubler/adhesion-rs/commit/38e34b0f446956ef9c962cf4d54925bb504d77ba
+464,Lobsters,testing,Software Testing,The Missing Testing Tip – Erlang Battleground,https://medium.com/erlang-battleground/the-missing-testing-tip-628686ebbbda
+465,Lobsters,testing,Software Testing,Please don't mock me,http://blog.testdouble.com/posts/2018-03-06-please-dont-mock-me
+466,Lobsters,testing,Software Testing,Suspending the development of phantomjs,https://github.com/ariya/phantomjs/issues/15344
+467,Lobsters,testing,Software Testing,Opportunistic Mutations for Rust,https://llogiq.github.io/2018/03/03/opportune.html
+468,Lobsters,testing,Software Testing,Testing First-Order Logic Axioms in Program Verification (2011),https://ti.arc.nasa.gov/m/profile/edenney/papers/testing-axioms_final.pdf
+469,Lobsters,testing,Software Testing,Testing at warp speed: Why you should care about your test speed,http://tech.adroll.com/blog/dev/2018/02/27/erlang-speed-tests.html
+470,Lobsters,testing,Software Testing,On the Freedombox,https://whole-net-digest.retrodigital.net/wp/2018/02/24/on-the-freedombox/
+471,Lobsters,testing,Software Testing,Testing Database Changes the Right Way,https://heapanalytics.com/blog/engineering/testing-database-changes-right-way
+472,Lobsters,testing,Software Testing,Combining Symbolic Execution and Model Checking for Data Flow Testing (2015),http://web.cs.ucdavis.edu/~su/publications/icse15-dft.pdf
+473,Lobsters,testing,Software Testing,"Developing SaaS? Forget Scrum, Check Out Kanban and Similar Approaches",https://onsaasproducts.wordpress.com/2012/03/09/developing-saas-forget-scrum-check-out-kanban-and-similar-approaches/
+474,Lobsters,testing,Software Testing,"Verification, coverage and maximization: The big picture",https://blog.foretellix.com/2016/12/23/verification-coverage-and-maximization-the-big-picture/
+475,Lobsters,testing,Software Testing,Identifying Security Critical Properties for the Dynamic Verification of a Processor (2017),https://cs.unc.edu/~csturton/papers/ASPLOS2017Zhang.pdf
+476,Lobsters,testing,Software Testing,QuickSpec: equational laws for free,https://github.com/nick8325/quickspec
+477,Lobsters,testing,Software Testing,"CommonMark is a Useful, High-Quality Project",http://www.oilshell.org/blog/2018/02/14.html
+478,Lobsters,testing,Software Testing,The Practical Test Pyramid,https://martinfowler.com/articles/practical-test-pyramid.html
+479,Lobsters,testing,Software Testing,Software Verification: Testing vs Model-Checking - Comparative Evaluation of State of the Art (2017),https://www.sosy-lab.org/research/pub/2017-HVC.Software_Verification_Testing_vs_Model_Checking.pdf
+480,Lobsters,testing,Software Testing,An Empirical Study on the Reliability of UNIX Utilities (1989),http://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz.pdf
+481,Lobsters,testing,Software Testing,The Art of Fuzzing,https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf
+482,Lobsters,testing,Software Testing,DevConf CZ 2018 - Videos,https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg
+483,Lobsters,testing,Software Testing,End-To-End Testing A VueJS HackerNews Clone,https://vuejsdevelopers.com/2018/01/29/vue-js-e2e-test-hacker-news/
+484,Lobsters,testing,Software Testing,Unit Tests Correlate With Desirable Codebase Properties,https://blog.ndepend.com/unit-tests-desirable-codebase-properties/
+485,Lobsters,testing,Software Testing,"Vue, Test Coverage, and Drag-and-Drop",https://www.joezimjs.com/javascript/vue-test-coverage-and-drag-and-drop/
+486,Lobsters,testing,Software Testing,Some obscure C features you might not know about,https://mort.coffee/home/obscure-c-features/
+487,Lobsters,testing,Software Testing,Using Hypothesis and Pexpect to Test High School Programming Assignments,http://blog.jrheard.com/hypothesis-and-pexpect
+488,Lobsters,testing,Software Testing,"I've been toying with making a testing library for C, and I think it's coming together pretty well.",https://github.com/mortie/snow
+489,Lobsters,testing,Software Testing,The Fearless and Natural Approach to TDD,https://keith-mifsud.me/the-fearless-natural-approach-to-tdd
+490,Lobsters,testing,Software Testing,Converting a Team to TDD,https://medium.com/@DaveSchinkel/converting-a-team-to-tdd-d76924543084
+491,Lobsters,testing,Software Testing,"Testing responsiveness of different consistent storages (CockroachDB, MongoDB, TiDB, Etcd)",https://github.com/rystsov/perseus/
+492,Lobsters,testing,Software Testing,Test Driven Development,https://hwengineer.github.io/TDD/
+493,Lobsters,testing,Software Testing,Don't be fooled by 100% code coverage.,http://ordepdev.me/posts/code-coverage
+494,Lobsters,testing,Software Testing,PHP software development workflow,https://keith-mifsud.me/php-software-development-workflow
+495,Lobsters,testing,Software Testing,New patterns in tasty,https://ro-che.info/articles/2018-01-08-tasty-new-patterns
+496,Lobsters,testing,Software Testing,Building a Mobile Automation Lab (Part 2) — Paving the Yellow Brick Road,https://medium.com/aaptiv-engineering/building-a-mobile-automation-lab-part-2-paving-the-yellow-brick-road-c320aeff2a8d
+497,Lobsters,testing,Software Testing,Discomfort as a Tool for Change,https://testing.googleblog.com/2017/02/discomfort-as-tool-for-change.html
+498,Lobsters,testing,Software Testing,"Testing Microservices, the sane way",https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16
+499,Lobsters,testing,Software Testing,Testing Ansible Playbooks With Vagrant,https://carlchenet.com/testing-ansible-playbooks-with-vagrant/
+500,Lobsters,testing,Software Testing,Implementing a Custom Waiting Action in Nightmare JS,https://intoli.com/blog/nightmare-network-idle/
+501,Lobsters,testing,Software Testing,"The Unit Test Effect Study, Refined",https://blog.ndepend.com/unit-test-effect-study-refined/
+502,Lobsters,testing,Software Testing,Advanced Testing Techniques in Go,https://segment.com/blog/5-advanced-testing-techniques-in-go/
+503,Lobsters,testing,Software Testing,Leveraging Ada Run-time Checks with Fuzz Testing in AFL (2017),http://blog.adacore.com/running-american-fuzzy-lop-on-your-ada-code
+504,Lobsters,testing,Software Testing,Driller - Augmenting Fuzzing Through Selective Symbolic Execution (2016),http://cs.ucsb.edu/~chris/research/doc/ndss16_driller.pdf
+505,Lobsters,testing,Software Testing,Property Tests + Contracts = Integration Tests,https://www.hillelwayne.com/post/pbt-contracts/
+506,Lobsters,testing,Software Testing,Writing Testable GPU Code,https://blog.esciencecenter.nl/writing-testable-gpu-code-23bbda3a5d62
+507,Lobsters,testing,Software Testing,Introducing Pointed: Mock backends as a service,https://blog.pointed.io/introducing-pointed/
+508,Lobsters,testing,Software Testing,Fuzzy Thinking: Fuzz Testing and Formal Grammar,https://maxhallinan.com/posts/2017/12/09/fuzzy-thinking/
+509,Lobsters,testing,Software Testing,Don't blame the decaf: What really causes software failures (and successes),https://github.com/jorendorff/talks/blob/master/blame/blame.md
+510,Lobsters,testing,Software Testing,"Testing Non-Interference, Quickly (2012)",https://www.cis.upenn.edu/~aarthur/testing-noninterference-icfp2013.pdf
+511,Lobsters,testing,Software Testing,"The New QuickCheck: Random, Exhaustive, and Symbolic Testing Under One Roof (2012)",http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.230.6416
+512,Lobsters,testing,Software Testing,Model-Based Testing with Logical Properties vs State Machines (2011),https://www.researchgate.net/publication/235900230_Model_Based_Testing_with_Logical_Properties_versus_State_Machines
+513,Lobsters,testing,Software Testing,DIABLO: Datacenter-in-a-Box Simulator Using FPGA's (2013),http://diablo.cs.berkeley.edu/about.html
+514,Lobsters,testing,Software Testing,The COGENT Case for Property-Based Testing (2017),http://www.ssrg.nicta.com.au/publications/csiro_full_text//Chen_OKKH_17.pdf
+515,Lobsters,testing,Software Testing,Unit Testing Doesn't Affect Codebases the Way You Would Think,https://blog.ndepend.com/unit-testing-affect-codebases/
+516,Lobsters,testing,Software Testing,Design by Contract: A Missing Link [1998],https://www.win.tue.nl/~wstomv/edu/2ip30/references/design-by-contract/index.html
+517,Lobsters,testing,Software Testing,Retrospective: An Axiomatic Basis for Computer Programming,https://cacm.acm.org/magazines/2009/10/42360-retrospective-an-axiomatic-basis-for-computer-programming/fulltext
+518,Lobsters,testing,Software Testing,Teaching software testing concepts using a mutation testing game,http://code-defenders.org/
+519,Lobsters,testing,Software Testing,Automated Testing of Graphics Shader Compilers (2017),http://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2017/OOPSLA.pdf
+520,Lobsters,testing,Software Testing,À la carte Entropy,http://shape-of-code.coding-guidelines.com/2017/11/15/a-la-carte-entropy/
+521,Lobsters,testing,Software Testing,OSH 0.2 - Parsing One Million Lines of Shell,http://www.oilshell.org/blog/2017/11/10.html
+522,Lobsters,testing,Software Testing,"KLOVER: A Symbolic Execution and Automatic, Test Generator for C++ Programs",http://www.cs.utah.edu/~ligd/publications/KLOVER-CAV11.pdf
+523,Lobsters,testing,Software Testing,Haskell Theory Exploration,http://chriswarbo.net/git/haskell-te
+524,Lobsters,testing,Software Testing,Docker-based utility for testing network failures and partitions in distributed applications,https://github.com/worstcase/blockade
+525,Lobsters,testing,Software Testing,Green tests and ham – Dr Seuss on the test pyramid,https://medium.com/ncr-edinburgh/green-tests-and-ham-b4694f90f7eb
+526,Lobsters,testing,Software Testing,A Survey of Symbolic Execution Techniques,https://arxiv.org/pdf/1610.00502.pdf
+527,Lobsters,testing,Software Testing,Episode 104 - Speeding Up Tests,https://www.driftingruby.com/episodes/speeding-up-tests
+528,Lobsters,testing,Software Testing,Learn TLA,https://www.learntla.com/introduction/
+529,Lobsters,testing,Software Testing,You Shouldn’t Use Faker (or other test randomization libraries),https://kev.inburke.com/kevin/faker-js-problems/
+530,Lobsters,testing,Software Testing,Automating The Arrange Phase With AutoFixture,http://jackhiston.com/2017/11/2/automating-the-arrange-phase-with-autofixture/
+531,Lobsters,testing,Software Testing,StreamData: Property-based testing comes to Elixir,https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
+532,Lobsters,testing,Software Testing,Why TDD Isn't Crap,https://www.hillelwayne.com/post/why-tdd-isnt-crap/
+533,Lobsters,testing,Software Testing,Mocking is a Code Smell,https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
+534,Lobsters,testing,Software Testing,os-test,https://sortix.org/os-test/
+535,Lobsters,testing,Software Testing,Unit Tests Aren't Tests,https://www.hillelwayne.com/post/unit-tests-are-not-tests/
+536,Lobsters,testing,Software Testing,End To End Testing With Hspec (Almost),https://vadosware.io/post/end-to-end-testing-with-hspec-almost/
+537,Lobsters,testing,Software Testing,Property Testing Like AFL,https://blog.nelhage.com/post/property-testing-like-afl/
+538,Lobsters,testing,Software Testing,Oil Status Update: Parser Correctness and Performance,http://www.oilshell.org/blog/2017/10/24.html
+539,Lobsters,testing,Software Testing,Episode 102 - Feature Testing with Capybara,https://www.driftingruby.com/episodes/feature-testing-with-capybara
+540,Lobsters,testing,Software Testing,Open-sourcing RacerD: Fast static race detection at scale,https://code.facebook.com/posts/293371094514305/open-sourcing-racerd-fast-static-race-detection-at-scale/
+541,Lobsters,testing,Software Testing,Effective Snapshot Testing,https://tinyletter.com/kentcdodds/letters/effective-snapshot-testing
+542,Lobsters,testing,Software Testing,Testing curl,https://daniel.haxx.se/blog/2017/10/12/testing-curl/
+543,Lobsters,testing,Software Testing,Drive Mirroring solution for OpenBSD (2000),https://marc.info/?l=openbsd-misc&m=96398385425151&w=2
+544,Lobsters,testing,Software Testing,Write blazing fast Vue unit tests with Tape and Vue Test Utils,https://medium.freecodecamp.org/how-to-write-blazing-fast-vue-unit-tests-with-tape-and-vue-test-utils-be069ccd4acf
+545,Lobsters,testing,Software Testing,Building a Mobile Automation Lab (Part 1) — We’re not in Kansas Anymore,https://medium.com/aaptiv-engineering/building-a-mobile-automation-lab-part-1-were-not-in-kansas-anymore-436ee7db51bf
+546,Lobsters,testing,Software Testing,Diagnosing a Linux-only unit test failure,https://codeblog.jonskeet.uk/2017/10/08/diagnosing-a-linux-only-unit-test-failure/
+547,Lobsters,testing,Software Testing,Uncle Bob and Silver Bullets,https://www.hillelwayne.com/post/uncle-bob/
+548,Lobsters,testing,Software Testing,Measuring Correctness of State in a Distributed System,https://blog.wallaroolabs.com/2017/10/measuring-correctness-of-state-in-a-distributed-system/
+549,Lobsters,testing,Software Testing,2 Simple Ways To Improve Your Unit Tests,http://jackhiston.com/2017/10/3/2-simple-ways-to-improve-your-unit-tests/
+550,Lobsters,testing,Software Testing,Property-Based Testing Is Fuzzing,https://blog.nelhage.com/post/property-testing-is-fuzzing/
+551,Lobsters,testing,Software Testing,Testing a Rust Command Line Tool,https://mattgathu.github.io/testing-rust-cli-apps/
+552,Lobsters,testing,Software Testing,Code Review and Continuous Inspection/Integration: Open Workshop,http://crest.cs.ucl.ac.uk/cow/56/
+553,Lobsters,testing,Software Testing,Generating Synthetic Computer Vision Training Data,http://www.csun.io/2017/08/31/synthetic-cv-dataset.html
+554,Lobsters,testing,Software Testing,"Code-based, Test-Generation Tools",http://mit.bme.hu/~micskeiz/pages/code_based_test_generation.html
+555,Lobsters,testing,Software Testing,How to Prevent the Next Heartbleed (2014-2017),https://www.dwheeler.com/essays/heartbleed.html
+556,Lobsters,testing,Software Testing,"Combined Static and Dynamic, Automated, Test Generation (2011)",https://pdfs.semanticscholar.org/b351/f99c0d579d7f4df2c79fd465bdf300045e63.pdf
+557,Lobsters,testing,Software Testing,The Fox in the Henhouse,https://mempko.wordpress.com/2016/08/23/the-fox-in-the-henhouse/
+558,Lobsters,testing,Software Testing,Python Coverage could be fast,http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/
+559,Lobsters,testing,Software Testing,Free books about formal methods and verification,https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md#formal-verification
+560,Lobsters,testing,Software Testing,How frontend unit testing turned from a fling to a real thing for me,https://medium.com/@programmiri/how-frontend-unit-testing-turned-from-a-fling-to-a-real-thing-for-me-36bf2844d3a0
+561,Lobsters,testing,Software Testing,Déjà Fu : A Concurrency Testing Library for Haskell,https://www.barrucadu.co.uk/publications/YCS-2016-503.pdf
+562,Lobsters,testing,Software Testing,Using CircleCI 2.0 with Elixir and Phoenix,http://joeellis.la/using-circle-2-0-with-elixir/
+563,Lobsters,testing,Software Testing,Making a Master Puppeteer,http://jackhiston.com/2017/9/13/making-a-master-puppeteer/
+564,Lobsters,testing,Software Testing,7 Misconceptions about TDD,http://blog.crisp.se/2017/09/11/perlundholm/7-misconceptions-about-tdd
+565,Lobsters,testing,Software Testing,JCUnit - A Combinatorial + Model-based Testing Framework Built on JUnit,https://github.com/dakusui/jcunit
+566,Lobsters,testing,Software Testing,Move Your Bugs to the Left,http://samwho.co.uk/blog/2017/09/06/move-your-bugs-to-the-left/
+567,Lobsters,testing,Software Testing,Finding inter-procedural bugs at scale with Infer static analyzer,https://code.facebook.com/posts/1537144479682247
+568,Lobsters,testing,Software Testing,What's the easiest way to test code on many different OSes and architectures?,/s/k6y9dv/what_s_easiest_way_test_code_on_many
+569,Lobsters,testing,Software Testing,In search of the Selenium IDE’s successor – Brian Anderson,https://medium.com/@briananderson2209/in-search-of-the-selenium-ides-successor-33bc7eaefe7f
+570,Lobsters,testing,Software Testing,Six year old PDF loop bug affects most major implementations,https://blog.fuzzing-project.org/59-Six-year-old-PDF-loop-bug-affects-most-major-implementations.html
+571,Lobsters,testing,Software Testing,Testing - It's about confidence,http://benlakey.com/2017/09/01/testing-its-about-confidence/
+572,Lobsters,testing,Software Testing,Supporting Hypothesis,https://stripe.com/blog/hypothesis
+573,Lobsters,testing,Software Testing,How to test Go HTTPS Services,https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/
+574,Lobsters,testing,Software Testing,Principles of Automated Testing,http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
+575,Lobsters,testing,Software Testing,Firefox in Headless mode,https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode
+576,Lobsters,testing,Software Testing,How we replaced dozens of test fixtures with a context function,https://medium.com/@hakibenita/how-we-replaced-dozens-of-test-fixtures-with-one-simple-function-bac73bfc277d
+577,Lobsters,testing,Software Testing,Node.fz: fuzzing the server-side event-driven architecture,https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/
+578,Lobsters,testing,Software Testing,Testing GHC release candidates with Stack,http://taylor.fausak.me/2017/05/17/testing-ghc-release-candidates-with-stack/
+579,Lobsters,testing,Software Testing,Developer Testing,https://henrikwarne.com/2017/08/20/developer-testing/
+580,Lobsters,testing,Software Testing,Analyse and test C with Python,http://jamesroutley.co.uk/tech/2017/08/16/analyse-test-c-with-python.html
+581,Lobsters,testing,Software Testing,"Domain models, Algebraic laws and Unit tests",http://debasishg.blogspot.com/2017/06/domain-models-algebraic-laws-and-unit.html
+582,Lobsters,testing,Software Testing,Testing a Feature with Rails and RSpec: A deep dive,https://chrisherring.co/posts/testing-a-feature-with-rails-and-rspec-a-deep-dive
+583,Lobsters,testing,Software Testing,"A ""data-driven"" approach to improving HMM-based map-matching",https://mapzen.com/blog/map-matching-validation
+584,Lobsters,testing,Software Testing,Isolated Integration Tests in Shell,https://zachholman.com/posts/integration-tests
+585,Lobsters,testing,Software Testing,Highlight text or element - codecept module,https://github.com/hyperia-sk/highlight-ception
+586,Lobsters,testing,Software Testing,Tautology Tests,https://medium.com/@rowillia/tautology-tests-7dabd81ade30
+587,Lobsters,testing,Software Testing,Improve Python testing with parameterisation,http://jamesroutley.co.uk/tech/2017/08/09/parameterise-python-tests.html
+588,Lobsters,testing,Software Testing,State machine testing with Hedgehog,http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html
+589,Lobsters,testing,Software Testing,Reflecting on performance testing,http://aakinshin.net/blog/post/reflecting-on-performance-testing/
+590,Lobsters,testing,Software Testing,An introduction to property-based testing,https://fsharpforfunandprofit.com/posts/property-based-testing/
+591,Lobsters,testing,Software Testing,Subtests are the Best,https://www.caktusgroup.com/blog/2017/05/29/subtests-are-best/
+592,Lobsters,testing,Software Testing,Invert Your Mocks!,http://www.parsonsmatt.org/2017/07/27/inverted_mocking.html
+593,Lobsters,testing,Software Testing,High Coverage Testing of Haskell Programs (2011),https://pdfs.semanticscholar.org/a6a5/972ffac9bc746b9bdea622a7fdaee1da40af.pdf
+594,Lobsters,testing,Software Testing,"Advanced Testing in Go, Mitchell Hashimoto at GopherCon",https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto
+595,Lobsters,testing,Software Testing,Microsoft Security Risk Detection,https://www.microsoft.com/en-us/security-risk-detection/
+596,Lobsters,testing,Software Testing,Elixir Continuous Integration with SemaphoreCI,https://www.dailydrip.com/topics/elixir/drips/continuous-integration-with-semaphore
+597,Lobsters,testing,Software Testing,ShellCheck – shell script analysis tool,https://www.shellcheck.net/
+598,Lobsters,testing,Software Testing,Hypothesis Testing with Oracle Functions,https://www.hillelwayne.com/post/hypothesis-oracles/
+599,Lobsters,testing,Software Testing,Javascript tools for end-to-end testing web applications,http://mo.github.io/2017/07/20/javascript-e2e-integration-testing.html
+600,Lobsters,testing,Software Testing,Selective Unit Testing – Costs and Benefits [2009],http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
+601,Lobsters,testing,Software Testing,Running 4558 tests in 1m 55sec (or saving 50 hours/week),https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/
+602,Lobsters,testing,Software Testing,Moving Beyond Types,http://hypothesis.works/articles/types-and-properties/
+603,Lobsters,testing,Software Testing,A Generic Synthesisable Test Bench,https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201509-memocode2015-bluecheck.pdf
+604,Lobsters,testing,Software Testing,Property testing with Hedgehog,http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html
+605,Lobsters,testing,Software Testing,How I test Rails applications,https://m.patrikonrails.com/how-i-test-my-rails-applications-cf150e347a6b
+606,Lobsters,testing,Software Testing,How Rust is tested,https://brson.github.io/2017/07/10/how-rust-is-tested
+607,Lobsters,testing,Software Testing,PropEr Testing,http://propertesting.com/
+608,Lobsters,testing,Software Testing,Testing Bash applications,https://medium.com/wemake-services/testing-bash-applications-85512e7fe2de
+609,Lobsters,testing,Software Testing,Unit testing effectful Haskell with monad-mock,http://lexi-lambda.github.io/blog/2017/06/29/unit-testing-effectful-haskell-with-monad-mock
+610,Lobsters,testing,Software Testing,Testing Redux: Async Action Creators,http://joeellis.la/testing-redux-actions/
+611,Lobsters,testing,Software Testing,Random Generation Testing,http://norswap.com/gen-testing/
+612,Lobsters,testing,Software Testing,Container Assisted Testing,https://medium.com/@mhausenblas/container-assisted-testing-b76ee74278b7
+613,Lobsters,testing,Software Testing,Fuzz testing makes you a better programmer,https://blog.reifyworks.com/fuzz-testing-makes-you-a-better-programmer-e065b04e7d32
+614,Lobsters,testing,Software Testing,How I Plan to Use Tests: Transforming OSH,http://www.oilshell.org/blog/2017/06/24.html
+615,Lobsters,testing,Software Testing,We had a unit test which only failed on Sundays,https://qntm.org/unit
+616,Lobsters,testing,Software Testing,Oil Shell: How I Use Tests,http://www.oilshell.org/blog/2017/06/22.html
+617,Lobsters,testing,Software Testing,Running Selenium with Headless Firefox,https://intoli.com/blog/running-selenium-with-headless-firefox/
+618,Lobsters,testing,Software Testing,"An Orchestrated Survey on Automated, Software, Test-Case Generation (2013)",https://cs.stanford.edu/people/saswat/research/ASTJSS.pdf
+619,Lobsters,testing,Software Testing,TDD is not a testing practice,http://anthonysciamanna.com/2017/06/18/tdd-is-not-a-testing-practice.html
+620,Lobsters,testing,Software Testing,"No excuses, write unit tests",https://dev.to/jackmarchant/no-excuses-write-unit-tests
+621,Lobsters,testing,Software Testing,Is It Snappy?,http://isitsnappy.com/
+622,Lobsters,testing,Software Testing,"Test environments, the right way.",http://blog.stack.foundation/2017/06/08/1204/
+623,Lobsters,testing,Software Testing,Nanotrusting the Nanotime,https://shipilev.net/blog/2014/nanotrusting-nanotime/
+624,Lobsters,testing,Software Testing,System Testing a Compiler,http://username.github.io/2017/06/07/System-Testing-Compiler.html
+625,Lobsters,testing,Software Testing,Testing the Windows Subsystem for Linux,https://blogs.msdn.microsoft.com/wsl/2017/04/11/testing-the-windows-subsystem-for-linux/
+626,Lobsters,testing,Software Testing,The round-trip property,http://teh.id.au/posts/2017/06/07/round-trip-property/index.html
+627,Lobsters,testing,Software Testing,Unit Testing in Nim,http://blog.zdsmith.com/posts/unit-testing-in-nim.html
+628,Lobsters,testing,Software Testing,Testing Distributed Systems for Linearizability,http://www.anishathalye.com/2017/06/04/testing-distributed-systems-for-linearizability/
+629,Lobsters,testing,Software Testing,Assertions Are Strongly-Correlated With Test Suit Effectiveness (2015),http://salt.ece.ubc.ca/publications/docs/fse15.pdf
+630,Lobsters,testing,Software Testing,Practical Combinatorial Testing (2010),https://pdfs.semanticscholar.org/3f55/e2f645df06ad72b15d2fe1ef86630fa0ab52.pdf
+631,Lobsters,testing,Software Testing,Getting rid of ‘QA’ and why what we call things matters,http://engineering.freeagent.com/2017/05/29/freeagent-testermonials-qa-nae-mair/
+632,Lobsters,testing,Software Testing,How Yelp Runs Millions of Tests Every Day,https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html
+633,Lobsters,testing,Software Testing,How to test gradient implementations,http://timvieira.github.io/blog/post/2017/04/21/how-to-test-gradient-implementations/
+634,Lobsters,testing,Software Testing,"Big picture software testing: unit testing, Lean Startup, and everything in-between (PyCon 2017)",https://www.youtube.com/watch?v=Vaq_e7qUA-4
+635,Lobsters,testing,Software Testing,CDSChecker: A model checker for C11/C++11 atomics,http://plrg.eecs.uci.edu/software_page/42-2/
+636,Lobsters,testing,Software Testing,Fuzzing Irssi,https://irssi.org/2017/05/12/fuzzing-irssi/
+637,Lobsters,testing,Software Testing,Five Factor Testing,https://www.devmynd.com/blog/five-factor-testing/
+638,Lobsters,testing,Software Testing,MinUnit -- a minimal unit testing framework for C,http://www.jera.com/techinfo/jtns/jtn002.html
+639,Lobsters,testing,Software Testing,The tragedy of 100% code coverage,http://labs.ig.com/code-coverage-100-percent-tragedy
+640,Lobsters,testing,Software Testing,Linux Kernel Testing: Intro to kernelci.org,http://baylibre.com/intro-kernelci/
+641,Lobsters,testing,Software Testing,Using Property-Based Testing on DHCP Library,https://somerandomidiot.com/blog/2017/04/26/crowbar-dhcp/
+642,Lobsters,testing,Software Testing,Misadventures with Property-Based TDD: A Lesson Learned,http://natpryce.com/articles/000800.html
+643,Lobsters,testing,Software Testing,An Empirical Study on the Correctness of Formally Verified Distributed Systems,https://homes.cs.washington.edu/~pfonseca/papers/eurosys2017-dsbugs.pdf
+644,Lobsters,testing,Software Testing,Where do our flaky tests come from?,https://testing.googleblog.com/2017/04/where-do-our-flaky-tests-come-from.html
+645,Lobsters,testing,Software Testing,Design Pressure,http://kellysutton.com/2017/04/18/design-pressure.html
+646,Lobsters,testing,Software Testing,Why Recorded Tests in Selenium Break,https://blog.automatedbrowsertesting.com/why-recorded-tests-in-selenium-break
+647,Lobsters,testing,Software Testing,The Economics of Software Correctness,http://hypothesis.works/articles/economics-of-software-correctness/
+648,Lobsters,testing,Software Testing,Oil Shell: The Riskiest Part of the Project,http://www.oilshell.org/blog/2017/04/08.html
+649,Lobsters,testing,Software Testing,How Feature Flags Tame the Four-Heads of Complexity,https://thetechladder.com/story/feature-flags-slay-four-heads-complexity/
+650,Lobsters,testing,Software Testing,Solving the Water Jug Problem from Die Hard 3 with TLA+ and Hypothesis,http://nchammas.com/writing/how-not-to-die-hard-with-hypothesis
+651,Lobsters,testing,Software Testing,Testing Mix Tasks in Elixir,https://jc00ke.com/2017/04/05/testing-elixir-mix-tasks/
+652,Lobsters,testing,Software Testing,To Mock or Not To Mock? An Empirical Study on Mocking Practice,https://pure.tudelft.nl/portal/files/13757227/PID4728641.pdf
+653,Lobsters,testing,Software Testing,env-diff: Compare expected environment variables to those set in production,https://github.com/jacebrowning/env-diff
+654,Lobsters,testing,Software Testing,"Testing the invisible, preventing elements invisibly blocking other elements",https://medium.com/findworkco/testing-the-invisible-2ac2ccae1101
+655,Lobsters,testing,Software Testing,Tasty: a modern testing framework for Haskell,https://github.com/feuerbach/tasty
+656,Lobsters,testing,Software Testing,Why and how you should test your software,https://codewithoutrules.com/2017/03/26/why-how-test-software/
+657,Lobsters,testing,Software Testing,Oil Shell: Measuring Progress with Tests,http://www.oilshell.org/blog/2017/03/23.html
+658,Lobsters,testing,Software Testing,All fun and games until you start with GameDays,https://gocardless.com/blog/game-days-at-gc/
+659,Lobsters,testing,Software Testing,Introduction to Property Based Testing,http://get-finch.com/2017/03/21/introduction_to_property_based_testing.html
+660,Lobsters,testing,Software Testing,The sad state of test frameworks,https://github.com/codr4life/vicsydev/blob/master/test_frameworks.md
+661,Lobsters,testing,Software Testing,Web application test strategy,https://blog.scottnonnenberg.com/web-application-test-strategy/
+662,Lobsters,testing,Software Testing,"Getting ""real work"" done with formal methods",https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f
+663,Lobsters,testing,Software Testing,Linting HTML using CSS,https://bitsofco.de/linting-html-using-css/
+664,Lobsters,testing,Software Testing,"Unit testing, Lean Startup, and everything in-between",https://codewithoutrules.com/2017/03/12/software-testing-big-picture/
+665,Lobsters,testing,Software Testing,Testing is a separate skill and that’s why you are frustrated,https://medium.com/@pankowecki/testing-is-a-separate-skill-and-thats-why-you-are-frustrated-7239b1500a6c
+666,Lobsters,testing,Software Testing,A Guide to TLA+ and Practical Formal Methods,https://www.learntla.com/
+667,Lobsters,testing,Software Testing,? Jest 19: Immersive Watch Mode & Test Platform Improvements,http://facebook.github.io/jest/blog/2017/02/21/jest-19-immersive-watch-mode-test-platform-improvements.html
+668,Lobsters,testing,Software Testing,End-to-end Testing in Elixir with Hound,https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound
+669,Lobsters,testing,Software Testing,TestCheck - Generative property testing for JavaScript,http://leebyron.com/testcheck-js/
+670,Lobsters,testing,Software Testing,phpstan: PHP Static Analysis Tool - discover bugs in your code without running it!,https://github.com/phpstan/phpstan
+671,Lobsters,testing,Software Testing,Germany: Federal agency for work stops IT project ROBASO (60 million euros lost),https://translate.google.com/translate?sl=de&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fwww.arbeitsagentur.de%2Fcontent%2F1478796561842&edit-text=
+672,Lobsters,testing,Software Testing,65535 interfaces ought to be enough for anybody,http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/
+673,Lobsters,testing,Software Testing,A tale of two exceptions,http://nedbatchelder.com//blog/201701/a_tale_of_two_exceptions.html
+674,Lobsters,testing,Software Testing,"Parallel visual testing, a comparison of techniques",http://twolfson.com/2017-01-29-parallel-visual-testing
+675,Lobsters,testing,Software Testing,I found a ridiculous bug in YouTube and seem unable to successfully report it :(,https://blog.dantup.com/2017/02/i-found-a-ridiculous-bug-in-youtube-and-seem-unable-to-successfully-report-it/
+676,Lobsters,testing,Software Testing,TDD Bug Categories (2004),http://www.exampler.com/old-blog/2004/01/27/index.html#tdd-bug-categories
+677,Lobsters,testing,Software Testing,Espresso Test Addiction: An Anti-pattern,https://www.philosophicalhacker.com/post/espresso-test-addiction/
+678,Lobsters,testing,Software Testing,Simultaneous Testing Using Two-layer Covering Arrays,http://csrc.nist.gov/groups/SNS/acts/documents/iwct2015-oracle-free.pdf
+679,Lobsters,testing,Software Testing,QuickCheck and Magic of Testing,https://www.fpcomplete.com/blog/2017/01/quickcheck
+680,Lobsters,testing,Software Testing,Open sourcing the VS Test platform,https://blogs.msdn.microsoft.com/bharry/2017/01/20/open-sourcing-the-vs-test-platform/
+681,Lobsters,testing,Software Testing,Doing Terrible Things To Your Code,https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+682,Lobsters,testing,Software Testing,How To Test Ruby CLI: The Setup,http://lucaguidi.com/2017/01/20/how-to-test-ruby-cli-the-setup/
+683,Lobsters,testing,Software Testing,Write Explicit Tests,http://amir.rachum.com/blog/2017/01/14/explicit-tests/
+684,Lobsters,testing,Software Testing,The Design and Use of QuickCheck,https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html
+685,Lobsters,testing,Software Testing,Deeply typed programming languages,http://typeinference.com//languages/2017/01/12/deeply-typed-programming-languages.html
+686,Lobsters,testing,Software Testing,The Schiaparelli Lesson – Unusual and Faulty Conditions | Intel® Software,https://software.intel.com/en-us/blogs/2017/01/11/the-schiaparelli-lesson-unusual-and-faulty-conditions
+687,Lobsters,testing,Software Testing,Finding and Understanding Bugs in C Compilers,https://www.flux.utah.edu/paper/yang-pldi11
+688,Lobsters,testing,Software Testing,LTR101: WebAppTesting - Methods to the Madness,http://blog.zsec.uk/ltr101-method-to-madness/
+689,Lobsters,testing,Software Testing,The fourfold path to software quality,https://codewithoutrules.com/2017/01/06/path-to-software-quality/
+690,Lobsters,testing,Software Testing,Continuous Integration with Android,https://medium.com/appaloosa-store-engineering/continuous-integration-with-android-14047096f3de#.4ekvemrdw
+691,Lobsters,testing,Software Testing,Announcing OSS-Fuzz: Continuous Fuzzing for Open Source Software,https://security.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html
+692,Lobsters,testing,Software Testing,A Survey of Symbolic Execution Techniques,https://arxiv.org/pdf/1610.00502v1.pdf
+693,Lobsters,testing,Software Testing,"KLEE - Unassisted, Automatic Generation of High-Coverage Tests for System Programs (2008)",https://www.doc.ic.ac.uk/~cristic/papers/klee-osdi-08.pdf
+694,Lobsters,testing,Software Testing,Design for Testability,https://blog.nelhage.com/2016/03/design-for-testability
+695,Lobsters,testing,Software Testing,How I Write Tests,https://blog.nelhage.com/2016/12/how-i-test
+696,Lobsters,testing,Software Testing,der-ascii: a readable / writable ASCII representation for ASN.1 DER data,https://github.com/google/der-ascii
+697,Lobsters,testing,Software Testing,Tautological Tests,http://randycoulman.com/blog/2016/12/20/tautological-tests/
+698,Lobsters,testing,Software Testing,A CutEr Tool,https://www.youtube.com/watch?v=XVOV0KQAf-8
+699,Lobsters,testing,Software Testing,"Experts, True Believers and Test-Driven Development: how expert advice becomes a religion",https://codewithoutrules.com/2016/12/15/experts-vs-zealots/
+700,Lobsters,testing,Software Testing,How Do I Test?,https://medium.com/erlang-battleground/how-do-i-test-a9658a83c392
+701,Lobsters,testing,Software Testing,Create Swagger documentation after running integration tests,https://github.com/lazywithclass/swaggins
+702,Lobsters,testing,Software Testing,Utility oriented testing,http://twolfson.com/2016-11-19-utility-oriented-testing
+703,Lobsters,testing,Software Testing,The benchmark reports of coroutine,http://tboox.org/2016/10/28/benchbox-coroutine/
+704,Lobsters,testing,Software Testing,Haskell Testing Desiderata,http://www.shimweasel.com/2016/10/27/haskell-testing-desiderata
+705,Lobsters,testing,Software Testing,Some things that might help you write better software,http://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/
+706,Lobsters,testing,Software Testing,Automated browser testing for the modern web development stack,http://devexpress.github.io/testcafe/
+707,Lobsters,testing,Software Testing,Limits of QuickCheck,http://get-finch.com/2016/10/23/limits-of-quickcheck.html
+708,Lobsters,testing,Software Testing,A failed plugin,http://nedbatchelder.com//blog/201610/a_failed_plugin.html
+709,Lobsters,testing,Software Testing,Why TDD’ing your frontend feels pointless,https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325
+710,Lobsters,testing,Software Testing,TypeChef: Typechecking #ifdef variability,https://github.com/ckaestne/TypeChef
+711,Lobsters,testing,Software Testing,Static typing will not save us from broken software,http://www.drmaciver.com/2016/10/static-typing-will-not-save-us-from-broken-software/
+712,Lobsters,testing,Software Testing,"Why Pylint is both useful and unusable, and how you can actually use it",https://codewithoutrules.com/2016/10/19/pylint/
+713,Lobsters,testing,Software Testing,Cleanroom - High-quality software through semi-formal specs and verification,http://infohost.nmt.edu/~al/cseet-paper.html
+714,Lobsters,testing,Software Testing,Property-based testing: another invariant to test for encoders,http://hypothesis.works/articles/canonical-serialization/
+715,Lobsters,testing,Software Testing,Wasting Time TDDing The Wrong Things,http://www.rubypigeon.com/posts/wasting-time-tdd-the-wrong-things/
+716,Lobsters,testing,Software Testing,A Quick Guide to Testing in Golang,https://caitiem.com/2016/08/18/a-quick-guide-to-testing-in-golang/
+717,Lobsters,testing,Software Testing,An External Replication on the Effects of Test-driven Development Using a Multi-site Blind Analysis Approach,http://dl.acm.org/citation.cfm?doid=2961111.2962592
+718,Lobsters,testing,Software Testing,Don't memorize: automate your development process,https://codewithoutrules.com/2016/03/01/process-reminders/
+719,Lobsters,testing,Software Testing,patter: `go test -v` as TAP output,https://github.com/apg/patter
+720,Lobsters,testing,Software Testing,The curious case of the disappearing test,http://strangelyconsistent.org/blog/the-curious-case-of-the-disappearing-test
+721,Lobsters,testing,Software Testing,Agility & Robustness: Clojure spec,https://www.youtube.com/watch?v=VNTQ-M_uSo8
+722,Lobsters,testing,Software Testing,Testing like the TSA,https://signalvnoise.com/posts/3159-testing-like-the-tsa
+723,Lobsters,testing,Software Testing,Testing Asynchronous APIs With QuickCheck,https://www.youtube.com/watch?v=iW2J7Of8jsE
+724,Lobsters,testing,Software Testing,The Importance of Fuzzing…Emulators?,https://mgba.io/2016/09/13/fuzzing-emulators/
+725,Lobsters,testing,Software Testing,"Guiding With Types, Property Based Testing and Dependency Resolution",http://blog.appliedcompscilab.com/2016-Q3/index.html
+726,Lobsters,testing,Software Testing,Comparison of Hypothesis and Eris property based testing libraries,http://hypothesis.works/articles/hypothesis-vs-eris/
+727,Lobsters,testing,Software Testing,Automatic Combinatorial Testing for Software (ACTS) by NIST,http://csrc.nist.gov/groups/SNS/acts/index.html
+728,Lobsters,testing,Software Testing,WebDriver Support in Safari 10,https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+729,Lobsters,testing,Software Testing,Thoughts on testing Phoenix views,http://blog.roundingpegs.com/thoughts-on-testing-phoenix-views/
+730,Lobsters,testing,Software Testing,"Testing, for people who hate testing",https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/
+731,Lobsters,testing,Software Testing,Circumventing Fuzzing Roadblocks with Compiler Transformations,https://lafintel.wordpress.com/2016/08/15/circumventing-fuzzing-roadblocks-with-compiler-transformations/
+732,Lobsters,testing,Software Testing,"On Growing Object Oriented Software, Guided by Tests",https://medium.com/@TuckerConnelly/on-growing-object-oriented-software-guided-by-tests-e4dbe0702299
+733,Lobsters,testing,Software Testing,Characterization Testing,https://michaelfeathers.silvrback.com/characterization-testing
+734,Lobsters,testing,Software Testing,Notes on concurrency bugs,http://danluu.com/concurrency-bugs/
+735,Lobsters,testing,Software Testing,Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works,http://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works
+736,Lobsters,testing,Software Testing,What We Learned about Continuous Integration from Analyzing 2+ Million Travis Builds,https://blog.travis-ci.com/2016-07-28-what-we-learned-from-analyzing-2-million-travis-builds
+737,Lobsters,testing,Software Testing,Write test doubles you can trust using verified fakes,https://codewithoutrules.com/2016/07/31/verified-fakes/
+738,Lobsters,testing,Software Testing,Clojure spec Screencast: Testing,https://www.youtube.com/watch?v=W6crrbF7s2s
+739,Lobsters,testing,Software Testing,Testing Angular 2 Services,https://www.angularonrails.com/angular-2-service-test-example/
+740,Lobsters,testing,Software Testing,thoughtbot - Fundamentals of Test-Driven Development,https://thoughtbot.com/upcase/fundamentals-of-tdd
+741,Lobsters,testing,Software Testing,A/B Test Gotchas,https://medium.com/snagajobeng/a-b-test-gotchas-3643b3701734
+742,Lobsters,testing,Software Testing,Fuzzing through multi-objective shrinking,http://www.drmaciver.com/2016/07/fuzzing-through-multi-objective-shrinking/
+743,Lobsters,testing,Software Testing,Defer Teardown,http://sigusr2.net/defer-teardown.html
+744,Lobsters,testing,Software Testing,Onyx 0.9.7: How We Handle High Risk Design Changes,http://www.onyxplatform.org/jekyll/update/2016/07/06/Onyx-0.9.7-Refactoring.html
+745,Lobsters,testing,Software Testing,How to add a million bugs to a program (and why you might want to),http://moyix.blogspot.com/2016/06/how-to-add-a-million-bugs-to-a-program.html
+746,Lobsters,testing,Software Testing,"Video: 4 Papers We Love (NYC) Talks: AlphaGo, Mesa, IronFleet, Simple Testing...Critical Failures",http://paperswelove.org/2016/video/evelina-eric-ines-caitie/
+747,Lobsters,testing,Software Testing,A bug in fMRI software could invalidate 15 years of brain research,http://www.sciencealert.com/a-bug-in-fmri-software-could-invalidate-decades-of-brain-research-scientists-discover
+748,Lobsters,testing,Software Testing,Egypt cancelled DST ... with just 3 days' notice,http://mm.icann.org/pipermail/tz/2016-July/023855.html
+749,Lobsters,testing,Software Testing,Tests as a complete specification,http://hypothesis.works/articles/tests-as-complete-specifications/
+750,Lobsters,testing,Software Testing,The Art Of Layout Testing With Galen Framework,https://www.smashingmagazine.com/2016/06/the-art-of-layout-testing-with-galen-framework/
+751,Lobsters,testing,Software Testing,How SQLite Is Tested,https://www.sqlite.org/testing.html
+752,Lobsters,testing,Software Testing,Barliman synthesises programs from tests,https://github.com/webyrd/Barliman
+753,Lobsters,testing,Software Testing,Cleaning up Parallel Tests in Go 1.7,https://kev.inburke.com/kevin/go-1-7-parallel-tests/
+754,Lobsters,testing,Software Testing,A new way of testing,http://akkartik.name/post/tracing-tests
+755,Lobsters,testing,Software Testing,Fast Iteration Tools in the Production of the Talos Principle,http://www.gdcvault.com/play/1022784/Fast-Iteration-Tools-in-the
+756,Lobsters,testing,Software Testing,"What do you use to document requirements, specifications, and use-cases?",/s/cja7rk/what_do_you_use_document_requirements
+757,Lobsters,testing,Software Testing,sappy | A single-page application web server for end-to-end testing.,https://github.com/jacebrowning/sappy
+758,Lobsters,testing,Software Testing,Evolving toward property-based testing with Hypothesis,http://hypothesis.works/articles/incremental-property-based-testing/
+759,Lobsters,testing,Software Testing,"Haskell Tutorials, a tutorial",http://yannesposito.com/Scratch/en/blog/Haskell-Tutorials--a-tutorial/
+760,Lobsters,testing,Software Testing,The Economics between Testing and Types,https://medium.com/@danwang74/the-economics-between-testing-and-types-4a3f8c8a86eb
+761,Lobsters,testing,Software Testing,HyperDev – Developer Playground for Full-Stack Web Apps,http://joelonsoftware.com/items/2016/05/30.html
+762,Lobsters,testing,Software Testing,Testing Optimizers with Hypothesis,http://hypothesis.works/articles/testing-optimizers-with-hypothesis/
+763,Lobsters,testing,Software Testing,Exploring Voting Systems with Hypothesis,http://hypothesis.works/articles/exploring-voting-with-hypothesis/
+764,Lobsters,testing,Software Testing,"Our testing terminology is broken: let's never say ""unit test"" again",http://codewithoutrules.com/2016/02/27/testing-terminology/
+765,Lobsters,testing,Software Testing,"Mid-2016 Tor bug retrospective, with lessons for future coding | The Tor Blog",https://blog.torproject.org/blog/mid-2016-tor-bug-retrospective-lessons-future-coding
+766,Lobsters,testing,Software Testing,Unit Testing Principles,http://benlakey.com/2016/05/15/unit-testing-principles/
+767,Lobsters,testing,Software Testing,DevOps Checklist,http://devopschecklist.com/
+768,Lobsters,testing,Software Testing,The costs and benefits of pair programming,http://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+769,Lobsters,testing,Software Testing,What is property based testing?,http://hypothesis.works/articles/what-is-property-based-testing/
+770,Lobsters,testing,Software Testing,Parallel testing multiple versions of ImageMagick,http://blog.garage-coding.com/2016/05/10/parallel-testing-multiple-versions.html
+771,Lobsters,testing,Software Testing,What you should do when testing is a pain,http://codewithoutrules.com/2016/02/21/painfultesting/
+772,Lobsters,testing,Software Testing,How Not To Write Golden Master Tests,http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests
+773,Lobsters,testing,Software Testing,Emissions Test-Driven Development,https://qntm.org/emissions
+774,Lobsters,testing,Software Testing,On the importance of manually maintained isolation for unit tests written in impure languages,http://blog.cgiffard.com/on-the-importance-of-manually-maintained-isolation-for-unit-tests-written-in-impure-languages/
+775,Lobsters,testing,Software Testing,Practical testing in Haskell,https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
+776,Lobsters,testing,Software Testing,Only One of Six Air Force F-35s Could Actually Take Off During Mock Deployment,http://fortune.com/2016/04/28/f-35-fails-testing-air-force/
+777,Lobsters,testing,Software Testing,Introductory articles on property based testing (using Hypothesis),http://hypothesis.works/articles/intro/
+778,Lobsters,testing,Software Testing,QuickCheck in every language,http://hypothesis.works/articles/quickcheck-in-every-language/
+779,Lobsters,testing,Software Testing,Newton’s 3 Laws of Software Craftsmanship,http://chrismm.com/blog/newtons-3-laws-software-craftsmanship/
+780,Lobsters,testing,Software Testing,Monorail (Chromium's issue tracker) now open-source,https://groups.google.com/a/chromium.org/d/msg/infra-dev/OotYpVzgnBw/fAfheRp9BQAJ
+781,Lobsters,testing,Software Testing,systemtap 3.0 released,https://lwn.net/Articles/681527/
+782,Lobsters,testing,Software Testing,Switching from nose to py.test at Mozilla,https://vimeo.com/134952909
+783,Lobsters,testing,Software Testing,"A comparison between Misultin, Mochiweb, Cowboy, NodeJS and Tornadoweb (2011)",http://www.ostinelli.net/a-comparison-between-misultin-mochiweb-cowboy-nodejs-and-tornadoweb/
+784,Lobsters,testing,Software Testing,Experimental Hypothesis port for Java,https://github.com/DRMacIver/hypothesis4j
+785,Lobsters,testing,Software Testing,Fuzz test distributed systems with QuickCheck,https://blog.pusher.com/fuzz-testing-distributed-systems-with-quickcheck/
+786,Lobsters,testing,Software Testing,Hypothesis: an advanced Quickcheck style testing library for Python,https://github.com/DRMacIver/hypothesis
+787,Lobsters,testing,Software Testing,USENIX Enigma 2016 - Timeless Debugging,https://www.youtube.com/watch?v=eGl6kpSajag
+788,Lobsters,testing,Software Testing,The next (BIG) step in Automated Test Discipline?,/s/mulntw/next_big_step_automated_test_discipline
+789,Lobsters,testing,Software Testing,Giving Up on TDD,http://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html
+790,Lobsters,testing,Software Testing,Jenkins 2.0 Overview,https://jenkins.io/2.0/
+791,Lobsters,testing,Software Testing,Integrating Your Development Workflow Into Sublime With Build Systems - Part 4: Project-Specific Builds,http://ow.ly/ZruZw
+792,Lobsters,testing,Software Testing,CLsmith,http://multicore.doc.ic.ac.uk/projects/clsmith/
+793,Lobsters,testing,Software Testing,Csmith,https://embed.cs.utah.edu/csmith/
+794,Lobsters,testing,Software Testing,Testing GCC in the wild,http://developers.redhat.com/blog/2016/03/10/testing-gcc-in-the-wild/
+795,Lobsters,testing,Software Testing,Segfaulting Python with afl-fuzz,http://tomforb.es/segfaulting-python-with-afl-fuzz
+796,Lobsters,testing,Software Testing,Classic Bug Reports,http://blog.regehr.org/archives/1270
+797,Lobsters,testing,Software Testing,The easy way to get started with property based testing,http://www.drmaciver.com/2016/03/the-easy-way-to-get-started-with-property-based-testing/
+798,Lobsters,testing,Software Testing,Scope linter for coffeescope,https://github.com/za-creature/coffeescope
+799,Lobsters,testing,Software Testing,A mystery with memory leaks and a magic number,http://rachelbythebay.com/w/2016/02/21/malloc/
+800,Lobsters,testing,Software Testing,Testing an Erlang Backend,http://www.slideshare.net/enriquepazperez/testing-an-erlang-backend
+801,Lobsters,testing,Software Testing,Tolkien Ipsum,http://tolkienipsum.cloudapp.net/
+802,Lobsters,testing,Software Testing,Lorem Gibson,http://loremgibson.com/
+803,Lobsters,testing,Software Testing,Humbug - a Mutation Testing framework for PHP,https://github.com/padraic/humbug
+804,Lobsters,testing,Software Testing,Troubleshooting I/O Load in a Solaris OpenStack Cloud (Fore!),https://blogs.oracle.com/dminer/entry/troubleshooting_i_o_load_in
+805,Lobsters,testing,Software Testing,"Scientist: Measure Twice, Cut Over Once",http://githubengineering.com/scientist/
+806,Lobsters,testing,Software Testing,"""Testing Python-Requests with Betamax"" Tutorial on Semaphore CI",https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
+807,Lobsters,testing,Software Testing,Cram: It's test time,https://bitbucket.org/brodie/cram
+808,Lobsters,testing,Software Testing,"TDD and the ""6 Do's and 8 Skills"" of Software Development: Pt. 1",http://www.sustainabletdd.com/2016/01/tdd-and-6-dos-and-8-skills-of-software.html
+809,Lobsters,testing,Software Testing,Unikernel Profiling: Flame Graphs from dom0,http://www.brendangregg.com/blog/2016-01-27/unikernel-profiling-from-dom0.html
+810,Lobsters,testing,Software Testing,qira,http://qira.me/
+811,Lobsters,testing,Software Testing,Progress bar noticeably slows down npm install · Issue #11283 · npm/npm,https://github.com/npm/npm/issues/11283#issuecomment-175246823
+812,Lobsters,testing,Software Testing,How to analyze a BEAM (Erlang VM) core dump,https://www.erlang-solutions.com/blog/how-to-analyse-a-beam-core-dump.html
+813,Lobsters,testing,Software Testing,Troubleshooting with an Interactive Drill-down in a Spectrogram using csysdig,https://sysdig.com/troubleshooting-with-a-spectrogram-using-csysdig/
+814,Lobsters,testing,Software Testing,Selenium for Cross Browser Testing on Mobile Devices,http://testdroid.com/tech/how-to-use-selenium-for-cross-browser-testing-on-mobile-devices
+815,Lobsters,testing,Software Testing,dbbench: Bringing Active Benchmarking to Databases,http://blog.memsql.com/dbbench-active-benchmarking/
+816,Lobsters,testing,Software Testing,µnit - a small unit testing framework for C,https://github.com/nemequ/munit/
+817,Lobsters,testing,Software Testing,Linux eBPF Off-CPU Flame Graph,http://www.brendangregg.com/blog/2016-01-20/ebpf-offcpu-flame-graph.html
+818,Lobsters,testing,Software Testing,Example of a FreeBSD bug hunting session by a simple user,http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html
+819,Lobsters,testing,Software Testing,Linux eBPF Stack Trace Hack,http://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html
+820,Lobsters,testing,Software Testing,Using off-cpu flame graphs on Linux,http://codearcana.com/posts/2015/12/20/using-off-cpu-flame-graphs-on-linux.html
+821,Lobsters,testing,Software Testing,How to know which Jasmine specs are slow?,http://jipiboily.com/how-to-know-jasmine-specs-are-slow
+822,Lobsters,testing,Software Testing,Using OpenCV and AKAZE for Mobile App and Game Testing,http://testdroid.com/tech/using-opencv-and-akaze-for-mobile-app-and-game-testing
+823,Lobsters,testing,Software Testing,Bugs From Hell: Injected Third-party Code + Detours = a Bad Time,http://dblohm7.ca/blog/2016/01/11/bugs-from-hell-injected-third-party-code-plus-detours-equals-a-bad-time
+824,Lobsters,testing,Software Testing,Frama-C platform for source-code analysis of C software,http://frama-c.com/index.html
+825,Lobsters,testing,Software Testing,Getting to Zero Exceptions,http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html
+826,Lobsters,testing,Software Testing,(In)Security of Embedded Devices' Firmware - Fast and Furious at Large Scale,https://media.ccc.de/v/32c3-7252-in_security_of_embedded_devices_firmware_-_fast_and_furious_at_large_scale#video
+827,Lobsters,testing,Software Testing,Debugging Microservices in Production,http://www.infoq.com/presentations/debugging-microservices-production
+828,Lobsters,testing,Software Testing,A (mostly) useful debugger on z/OS,http://www.bigendiansmalls.com/a-mostly-useful-debugger-on-zos/
+829,Lobsters,testing,Software Testing,Let's Not (2012),https://robots.thoughtbot.com/lets-not
+830,Lobsters,testing,Software Testing,In-Memory Fake Adapters,http://blog.arkency.com/2015/12/in-memory-fake-adapters/
+831,Lobsters,testing,Software Testing,Move Fast and Fix Things,http://githubengineering.com/move-fast/
+832,Lobsters,testing,Software Testing,Everything You Know About Latency Is Wrong,http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/
+833,Lobsters,testing,Software Testing,Clearing Up the Integrated Tests Scam,http://blog.thecodewhisperer.com/2015/12/08/clearing-up-the-integrated-tests-scam/
+834,Lobsters,testing,Software Testing,Writing a 'trampoline' in assembly for profiling,http://tadeuzagallo.com/blog/writing-a-trampoline-in-assembly/
+835,Lobsters,testing,Software Testing,Writes large correct programs (2008),http://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/
+836,Lobsters,testing,Software Testing,On Mocks and Mockist Testing,http://jamesgolick.com/2010/3/10/on-mocks-and-mockist-testing.html
+837,Lobsters,testing,Software Testing,"Phantheck, the Type-Level QuickCheck",http://begriffs.com/posts/2015-12-06-quickcheck-for-types.html
+838,Lobsters,testing,Software Testing,Testing with expectations (bringing hg's unified tests to OCaml),https://blogs.janestreet.com/testing-with-expectations/
+839,Lobsters,testing,Software Testing,rr Replay Performance Improvements,http://robert.ocallahan.org/2015/11/rr-replay-performance-improvements.html
+840,Lobsters,testing,Software Testing,JUnit Lambda - The Prototype,http://blog.codefx.org/libraries/junit-lambda-prototype/
+841,Lobsters,testing,Software Testing,How to Stop Hating your Test Suite by Justin Searls,https://www.youtube.com/watch?v=VD51AkG8EZw&list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp&index=11
+842,Lobsters,testing,Software Testing,Hierarchical Delta Debugging,http://blog.acolyer.org/2015/11/17/hierarchical-delta-debugging/
+843,Lobsters,testing,Software Testing,Testcase Reduction for Non-Preprocessed C and C++,http://blog.regehr.org/archives/1278
+844,Lobsters,testing,Software Testing,The Black Team,http://www.t3.org/tangledwebs/07/tw0706.html
+845,Lobsters,testing,Software Testing,Introduction to Property-based Testing using ScalaCheck,https://blog.codecentric.de/en/2015/11/introduction-to-property-based-testing-using-scalacheck-2/
+846,Lobsters,testing,Software Testing,On Test-Driven Development,https://abailly.github.io/posts/tdd.html
+847,Lobsters,testing,Software Testing,"Injecting Dependencies, Partially Applying Functions, and It Really Doesn't Matter",http://blog.thecodewhisperer.com/2015/11/13/injecting-dependencies/
+848,Lobsters,testing,Software Testing,On Testing,https://www.sempf.net/post/On-Testing1.aspx
+849,Lobsters,testing,Software Testing,Implementing a BDD Workflow in Go,http://blog.codeship.com/implementing-a-bdd-workflow-in-go/
+850,Lobsters,testing,Software Testing,Mocks,http://cumulative-hypotheses.org/2015/11/03/mocks/
+851,Lobsters,testing,Software Testing,How to write better code using mutation testing,https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
+852,Lobsters,testing,Software Testing,Facebook goes slooow with '2G Tuesdays',http://www.cnet.com/news/facebook-goes-slooow-with-2g-tuesdays/
+853,Lobsters,testing,Software Testing,Tag suggestion: testing/debugging,/s/gcxt0n/tag_suggestion_testing_debugging

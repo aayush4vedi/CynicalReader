@@ -1,0 +1,640 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,dotnet,"C#, F#, .NET programming",Rolling your own crypto gone wrong: A look at a .NET Branca implementation,https://brycx.github.io/2020/08/22/a-look-at-a-branca-implementation.html
+2,Lobsters,dotnet,"C#, F#, .NET programming",Domain Modeling Made Functional (2017),https://www.youtube.com/watch?v=Up7LcbGZFuo
+3,Lobsters,dotnet,"C#, F#, .NET programming",Best way to create an empty collection (array and list) in C# (.NET),https://www.tabsoverspaces.com/233833-best-way-to-create-an-empty-collection-array-and-list-in-csharp-net
+4,Lobsters,dotnet,"C#, F#, .NET programming",Optimising LINQ,https://mattwarren.org/2016/09/29/Optimising-LINQ/
+5,Lobsters,dotnet,"C#, F#, .NET programming",Visitor and multiple dispatch via C# 'dynamic' (2011),https://www.shawnhargreaves.com/blog/visitor-and-multiple-dispatch-via-c-dynamic.html
+6,Lobsters,dotnet,"C#, F#, .NET programming",Extreme programming meets systematic testing using Coyote,https://cloudblogs.microsoft.com/opensource/2020/07/14/extreme-programming-meets-systematic-testing-using-coyote/
+7,Lobsters,dotnet,"C#, F#, .NET programming",Modernising .NET projects for .NET Core and beyond,https://dwmkerr.com/modernising-dotnet-projects/
+8,Lobsters,dotnet,"C#, F#, .NET programming",Nodexr: A node-based Regular Expression editor,https://github.com/jcparkyn/nodexr/
+9,Lobsters,dotnet,"C#, F#, .NET programming",V-Drum Explorer: Blazor and the Web MIDI API,https://codeblog.jonskeet.uk/2020/07/12/v-drum-explorer-blazor-and-the-web-midi-api/
+10,Lobsters,dotnet,"C#, F#, .NET programming",Performance Improvements in .NET 5,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/
+11,Lobsters,dotnet,"C#, F#, .NET programming",Comparing compiler construction in Clojure and F#,https://www.youtube.com/watch?v=t8usj1fN9rs
+12,Lobsters,dotnet,"C#, F#, .NET programming",Understanding Parser Combinators,https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/
+13,Lobsters,dotnet,"C#, F#, .NET programming",Announcing the Porting Assistant for .NET,https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/
+14,Lobsters,dotnet,"C#, F#, .NET programming","Goodbye NancyFX, Hello F#",https://blog.jonathanchannon.com/2020-06-16-goodbye-nancyfx-hello-fsharp/
+15,Lobsters,dotnet,"C#, F#, .NET programming",C# 9: Simplified Parameter Null Validation,https://www.infoq.com/news/2020/06/CSharp-9-Null/
+16,Lobsters,dotnet,"C#, F#, .NET programming",Exploring top-level statements in C# 9,https://www.tabsoverspaces.com/233831-exploring-top-level-statements-in-csharp-9
+17,Lobsters,dotnet,"C#, F#, .NET programming","The anatomy of async iterators (aka await, foreach, yield)",https://blog.marcgravell.com/2020/05/the-anatomy-of-async-iterators-aka.html
+18,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core Example with Custom Claims,https://fusionauth.io/blog/2020/05/27/sharing-custom-oauth-claims-with-a-asp-netcore-app
+19,Lobsters,dotnet,"C#, F#, .NET programming",.NET async/await in a single picture,https://tooslowexception.com/net-asyncawait-in-a-single-picture/
+20,Lobsters,dotnet,"C#, F#, .NET programming",Welcome to C# 9.0,https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/
+21,Lobsters,dotnet,"C#, F#, .NET programming",CoreRT - A .NET Runtime for AOT,http://www.mattwarren.org/2018/06/07/CoreRT-.NET-Runtime-for-AOT/
+22,Lobsters,dotnet,"C#, F#, .NET programming",Repository Madness,https://alexbilson.dev/posts/multi-repository-madness/
+23,Lobsters,dotnet,"C#, F#, .NET programming",Single static binaries are coming to .NET Core,https://github.com/dotnet/runtime/issues/36590
+24,Lobsters,dotnet,"C#, F#, .NET programming",Performance best practices in C#,https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a
+25,Lobsters,dotnet,"C#, F#, .NET programming",Pinned Object Heap in .NET 5,https://tooslowexception.com/pinned-object-heap-in-net-5/
+26,Lobsters,dotnet,"C#, F#, .NET programming",Rolling your own crypto gone wrong: A look at a .NET Branca implementation,https://brycx.github.io/2020/08/22/a-look-at-a-branca-implementation.html
+27,Lobsters,dotnet,"C#, F#, .NET programming",Domain Modeling Made Functional (2017),https://www.youtube.com/watch?v=Up7LcbGZFuo
+28,Lobsters,dotnet,"C#, F#, .NET programming",Best way to create an empty collection (array and list) in C# (.NET),https://www.tabsoverspaces.com/233833-best-way-to-create-an-empty-collection-array-and-list-in-csharp-net
+29,Lobsters,dotnet,"C#, F#, .NET programming",Optimising LINQ,https://mattwarren.org/2016/09/29/Optimising-LINQ/
+30,Lobsters,dotnet,"C#, F#, .NET programming",Visitor and multiple dispatch via C# 'dynamic' (2011),https://www.shawnhargreaves.com/blog/visitor-and-multiple-dispatch-via-c-dynamic.html
+31,Lobsters,dotnet,"C#, F#, .NET programming",Extreme programming meets systematic testing using Coyote,https://cloudblogs.microsoft.com/opensource/2020/07/14/extreme-programming-meets-systematic-testing-using-coyote/
+32,Lobsters,dotnet,"C#, F#, .NET programming",Modernising .NET projects for .NET Core and beyond,https://dwmkerr.com/modernising-dotnet-projects/
+33,Lobsters,dotnet,"C#, F#, .NET programming",Nodexr: A node-based Regular Expression editor,https://github.com/jcparkyn/nodexr/
+34,Lobsters,dotnet,"C#, F#, .NET programming",V-Drum Explorer: Blazor and the Web MIDI API,https://codeblog.jonskeet.uk/2020/07/12/v-drum-explorer-blazor-and-the-web-midi-api/
+35,Lobsters,dotnet,"C#, F#, .NET programming",Performance Improvements in .NET 5,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/
+36,Lobsters,dotnet,"C#, F#, .NET programming",Comparing compiler construction in Clojure and F#,https://www.youtube.com/watch?v=t8usj1fN9rs
+37,Lobsters,dotnet,"C#, F#, .NET programming",Understanding Parser Combinators,https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/
+38,Lobsters,dotnet,"C#, F#, .NET programming",Announcing the Porting Assistant for .NET,https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/
+39,Lobsters,dotnet,"C#, F#, .NET programming","Goodbye NancyFX, Hello F#",https://blog.jonathanchannon.com/2020-06-16-goodbye-nancyfx-hello-fsharp/
+40,Lobsters,dotnet,"C#, F#, .NET programming",C# 9: Simplified Parameter Null Validation,https://www.infoq.com/news/2020/06/CSharp-9-Null/
+41,Lobsters,dotnet,"C#, F#, .NET programming",Exploring top-level statements in C# 9,https://www.tabsoverspaces.com/233831-exploring-top-level-statements-in-csharp-9
+42,Lobsters,dotnet,"C#, F#, .NET programming","The anatomy of async iterators (aka await, foreach, yield)",https://blog.marcgravell.com/2020/05/the-anatomy-of-async-iterators-aka.html
+43,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core Example with Custom Claims,https://fusionauth.io/blog/2020/05/27/sharing-custom-oauth-claims-with-a-asp-netcore-app
+44,Lobsters,dotnet,"C#, F#, .NET programming",.NET async/await in a single picture,https://tooslowexception.com/net-asyncawait-in-a-single-picture/
+45,Lobsters,dotnet,"C#, F#, .NET programming",Welcome to C# 9.0,https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/
+46,Lobsters,dotnet,"C#, F#, .NET programming",CoreRT - A .NET Runtime for AOT,http://www.mattwarren.org/2018/06/07/CoreRT-.NET-Runtime-for-AOT/
+47,Lobsters,dotnet,"C#, F#, .NET programming",Repository Madness,https://alexbilson.dev/posts/multi-repository-madness/
+48,Lobsters,dotnet,"C#, F#, .NET programming",Single static binaries are coming to .NET Core,https://github.com/dotnet/runtime/issues/36590
+49,Lobsters,dotnet,"C#, F#, .NET programming",Performance best practices in C#,https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a
+50,Lobsters,dotnet,"C#, F#, .NET programming",Pinned Object Heap in .NET 5,https://tooslowexception.com/pinned-object-heap-in-net-5/
+51,Lobsters,dotnet,"C#, F#, .NET programming",AspNet Core Dependency Injection Best Practices & Tips (2019),"https://volosoft.com/blog/ASP.NET-Core-Dependency-Injection-Best-Practices,-Tips-Tricks"
+52,Lobsters,dotnet,"C#, F#, .NET programming",Securing an ASP.NET Core Razor Pages app with OAuth,https://fusionauth.io/blog/2020/05/06/securing-asp-netcore-razor-pages-app-with-oauth
+53,Lobsters,dotnet,"C#, F#, .NET programming",Enterprise C# to Self Employed React and Blazor - followup,https://www.towardssoftware.com/blog#blog30
+54,Lobsters,dotnet,"C#, F#, .NET programming",Introducing C# Source Generators,https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/
+55,Lobsters,dotnet,"C#, F#, .NET programming",Creating a user in FusionAuth with a .NET Core CLI client,https://fusionauth.io/blog/2020/04/28/dot-net-command-line-client
+56,Lobsters,dotnet,"C#, F#, .NET programming",Two months with Powershell on a UNIX,https://code.joejag.com/2020/a-month-with-powershell.html
+57,Lobsters,dotnet,"C#, F#, .NET programming",.NET JIT compiler is not type safe,https://tooslowexception.com/net-jit-compiler-is-not-type-safe/
+58,Lobsters,dotnet,"C#, F#, .NET programming",The story of how I created a way to port Windows Apps to Linux,https://www.blinkingcaret.com/2020/04/09/the-story-of-how-i-created-a-way-to-port-windows-apps-to-linux/
+59,Lobsters,dotnet,"C#, F#, .NET programming",Generate unit tests for your code with IntelliTest,https://docs.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest
+60,Lobsters,dotnet,"C#, F#, .NET programming",Implementing Single-User Administrator Authorization with Azure AD in ASP.Net Core 3.1,https://danschnau.com/blog/implementing_single_user_admin
+61,Lobsters,dotnet,"C#, F#, .NET programming",SafeGPU: Contract- and Library-based GPGPU for Object-Oriented Languages (2016),http://se.inf.ethz.ch/people/poskitt/publications/Kolesnichenko-Poskitt-Nanz.COMLAN.2016.pdf
+62,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 is Introducing Ranges,https://www.devsanon.com/c/c-8-is-introducing-ranges/
+63,Lobsters,dotnet,"C#, F#, .NET programming",The journey of packaging a .NET app on Nix,https://sgt.hootr.club/molten-matter/dotnet-on-nix/
+64,Lobsters,dotnet,"C#, F#, .NET programming",Balancing work on GC threads,https://devblogs.microsoft.com/dotnet/balancing-work-on-gc-threads/
+65,Lobsters,dotnet,"C#, F#, .NET programming",Lcc.NET: Targeting the .NET Common Intermediate Language from Standard C,https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2002-112.pdf
+66,Lobsters,dotnet,"C#, F#, .NET programming",ElectronCGI 1.0 - Cross-platform GUIs for .Net Core,https://www.blinkingcaret.com/2020/03/25/electroncgi-1-0-cross-platform-guis-for-net-core/
+67,Lobsters,dotnet,"C#, F#, .NET programming",Announcing F# 5 preview 1,https://devblogs.microsoft.com/dotnet/announcing-f-5-preview-1/
+68,Lobsters,dotnet,"C#, F#, .NET programming",Partial application is dependency injection,https://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/
+69,Lobsters,dotnet,"C#, F#, .NET programming",The Early History of F#,https://fsharp.org/history/hopl-final/hopl-fsharp.pdf
+70,Lobsters,dotnet,"C#, F#, .NET programming",Simulating Return Type Inference in C#,https://tyrrrz.me/blog/return-type-inference
+71,Lobsters,dotnet,"C#, F#, .NET programming",Understanding Parser Combinators,https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/
+72,Lobsters,dotnet,"C#, F#, .NET programming","Your C# is already functional, but only if you let it",http://hmemcpy.com/2020/03/your-csharp-is-already-functional/
+73,Lobsters,dotnet,"C#, F#, .NET programming",On currying in F#,https://github.com/dsyme/fsharp-presentations/blob/master/design-notes/on-currying.md
+74,Lobsters,dotnet,"C#, F#, .NET programming",GetHashCode() Pitfalls,https://vkontech.com/gethashcode-pitfalls/
+75,Lobsters,dotnet,"C#, F#, .NET programming",Building a Blazing Fast Object Mapper with C# .NET Core 3.1,https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core
+76,Lobsters,dotnet,"C#, F#, .NET programming",ZString — Zero Allocation StringBuilder for .NET Core and Unity,https://medium.com/@neuecc/zstring-zero-allocation-stringbuilder-for-net-core-and-unity-f3163c88c887
+77,Lobsters,dotnet,"C#, F#, .NET programming",Dos and Don'ts of stackalloc,https://vcsjones.dev/2020/02/24/stackalloc/
+78,Lobsters,dotnet,"C#, F#, .NET programming",Adventures in C# Optimization,https://snowflakepowe.red/blog/adventures-in-c-sharp-optimization-2020-02-15/
+79,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Blog | Blazor WebAssembly 3.2.0 Preview 1 release now available,https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-1-release-now-available/
+80,Lobsters,dotnet,"C#, F#, .NET programming",Collecting and analyzing memory dumps,https://devblogs.microsoft.com/dotnet/collecting-and-analyzing-memory-dumps/
+81,Lobsters,dotnet,"C#, F#, .NET programming",Declarative framework for building command line interfaces,https://github.com/Tyrrrz/CliFx
+82,Lobsters,dotnet,"C#, F#, .NET programming",This Goes to Eleven (Part 1/6),https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1
+83,Lobsters,dotnet,"C#, F#, .NET programming",Nemerle programming language official site,http://nemerle.org/About
+84,Lobsters,dotnet,"C#, F#, .NET programming",.NET everywhere apparently also means Windows 3.11 and DOS,https://www.hanselman.com/blog/NETEverywhereApparentlyAlsoMeansWindows311AndDOS.aspx
+85,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core on Red Hat platforms,https://developers.redhat.com/blog/2020/01/17/net-core-on-red-hat-platforms/
+86,Lobsters,dotnet,"C#, F#, .NET programming",Optimizing string.Count all the way from LINQ to hardware accelerated vectorized instructions,https://medium.com/@SergioPedri/optimizing-string-count-all-the-way-from-linq-to-hardware-accelerated-vectorized-instructions-186816010ad9
+87,Lobsters,dotnet,"C#, F#, .NET programming",Bulk ETW Trace Analysis in C#,https://randomascii.wordpress.com/2020/01/05/bulk-etw-trace-analysis-in-c/
+88,Lobsters,dotnet,"C#, F#, .NET programming",How Blazor Is Going to Change Web Development,https://hackernoon.com/how-blazor-is-going-to-change-web-development-y32i3zvw
+89,Lobsters,dotnet,"C#, F#, .NET programming","The argument against Entity Framework, and for micro-ORMs",https://pknopf.com/post/2019-09-22-the-argument-against-entity-framework-and-for-micro-orms/
+90,Lobsters,dotnet,"C#, F#, .NET programming",apt-tool: an alternative to debootstrap and multistrap for deterministic and predictable root filesystems. - Paul Knopf,https://pknopf.com/post/2019-11-26-announcing-apt-tool-an-alternative-to-debootstrap-and-multistrap-for-deterministic-and-predictable-root-filesystems/
+91,Lobsters,dotnet,"C#, F#, .NET programming",Controversial extension methods: CastTo<T> and As<T>,https://devblogs.microsoft.com/oldnewthing/20191227-00/?p=103271
+92,Lobsters,dotnet,"C#, F#, .NET programming","Make your .NET programs more responsive with async/await in .NET Core, C# and VS Code",https://softchris.github.io/pages/dotnet-tasks.html
+93,Lobsters,dotnet,"C#, F#, .NET programming",An Introduction to System.Threading.Channels,https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/
+94,Lobsters,dotnet,"C#, F#, .NET programming",Discriminated Unions in C# — An Unexceptional Love Story,https://gist.github.com/76c36f875efc51d3421f99d3d116ad2c
+95,Lobsters,dotnet,"C#, F#, .NET programming",Using WebAssembly from .NET with Wasmtime,https://hacks.mozilla.org/2019/12/using-webassembly-from-dotnet-with-wasmtime/
+96,Lobsters,dotnet,"C#, F#, .NET programming",Exploring borrowed annotations in C#,https://blog.paranoidcoding.com/2019/12/02/borrowing.html
+97,Lobsters,dotnet,"C#, F#, .NET programming",ElectronCGI - A solution to cross-platform GUIs for .Net Core,https://www.blinkingcaret.com/2019/11/27/electroncgi-a-solution-to-cross-platform-guis-for-net-core/
+98,Lobsters,dotnet,"C#, F#, .NET programming",BenchmarkDotNet is a powerful .NET library for benchmarking,https://benchmarkdotnet.org/
+99,Lobsters,dotnet,"C#, F#, .NET programming",A Practical Guide to State Machines,https://deniskyashif.com/a-practical-guide-to-state-machines/
+100,Lobsters,dotnet,"C#, F#, .NET programming",Monadic parser combinators in C#,https://tyrrrz.me/blog/monadic-parser-combinators
+101,Lobsters,dotnet,"C#, F#, .NET programming",A Simple Multi-Client WebSocket Server,https://mcguirev10.com/2019/01/15/simple-multi-client-websocket-server.html
+102,Lobsters,dotnet,"C#, F#, .NET programming",I made an actual Drum Machine in Excel,https://www.youtube.com/watch?v=To2JIXGoYzA
+103,Lobsters,dotnet,"C#, F#, .NET programming",The history of the GC configs,https://devblogs.microsoft.com/dotnet/the-history-of-the-gc-configs/
+104,Lobsters,dotnet,"C#, F#, .NET programming",The Auto-cancelling CancellationToken that Doesn’t,https://tortugatech.wordpress.com/2019/11/01/the-auto-cancelling-cancellationtoken-that-doesnt/
+105,Lobsters,dotnet,"C#, F#, .NET programming",Exploring lighter alternatives to Electron for hosting a Blazor desktop app,https://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/
+106,Lobsters,dotnet,"C#, F#, .NET programming",Untitled Goose Game - Insecure Deserialization,https://pulsesecurity.co.nz/advisories/untitled-goose-game-deserialization.html
+107,Lobsters,dotnet,"C#, F#, .NET programming",Research based on the .NET Runtime,http://www.mattwarren.org/2019/10/25/Research-based-on-the-.NET-Runtime/
+108,Lobsters,dotnet,"C#, F#, .NET programming",Release IS NOT Debug: 64bit Optimizations and C# Method Inlining in Release Build Call Stacks,https://www.hanselman.com/blog/ReleaseISNOTDebug64bitOptimizationsAndCMethodInliningInReleaseBuildCallStacks.aspx
+109,Lobsters,dotnet,"C#, F#, .NET programming",The Battle of C# to JSON Serializers in .NET Core 3,https://michaelscodingspot.com/the-battle-of-c-to-json-serializers-in-net-core-3/
+110,Lobsters,dotnet,"C#, F#, .NET programming",Ordering of static fields in C# matters,https://rimdev.io/static-property-ordering-is-important/
+111,Lobsters,dotnet,"C#, F#, .NET programming",6 lesser-known features of C# / .NET that you should be using,https://chrisstclair.co.uk/6-lesser-known-features-of-c-net-that-you-should-be-using/
+112,Lobsters,dotnet,"C#, F#, .NET programming",What’s the maximum number of generic parameters for a class in .NET/C#?,https://www.tabsoverspaces.com/233802-whats-the-maximum-number-of-generic-parameters-for-a-class-in-net-csharp
+113,Lobsters,dotnet,"C#, F#, .NET programming",How to Stress the C# Compiler,https://blog.hediet.de/post/how-to-stress-the-csharp-compiler
+114,Lobsters,dotnet,"C#, F#, .NET programming",C++ is Coming to .NET Core for Windows,https://www.infoq.com/news/2019/10/CPP-CLI-NetCore/
+115,Lobsters,dotnet,"C#, F#, .NET programming",#Script Lisp,https://sharpscript.net/lisp/
+116,Lobsters,dotnet,"C#, F#, .NET programming",“Stubs” in the .NET Runtime,http://www.mattwarren.org/2019/09/26/Stubs-in-the-.NET-Runtime/
+117,Lobsters,dotnet,"C#, F#, .NET programming",Announcing F# 4.7,https://devblogs.microsoft.com/dotnet/announcing-f-4-7/
+118,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Core 3.0,https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/
+119,Lobsters,dotnet,"C#, F#, .NET programming",How I learned to stop worrying and write my own ORM (2010),https://samsaffron.com/archive/2011/03/30/How+I+learned+to+stop+worrying+and+write+my+own+ORM
+120,Lobsters,dotnet,"C#, F#, .NET programming",A small overview of SIMD in .NET/C#,https://habr.com/en/post/467689/
+121,Lobsters,dotnet,"C#, F#, .NET programming",A PlayStation 1 emulator in C#,https://github.com/BluestormDNA/ProjectPSX
+122,Lobsters,dotnet,"C#, F#, .NET programming",Enums & APIs,https://dev.to/timothymcgrath/enums-apis-15n4
+123,Lobsters,dotnet,"C#, F#, .NET programming",Hardware Intrinsics in .NET Core,https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/
+124,Lobsters,dotnet,"C#, F#, .NET programming",Uploading web.config for Fun and Profit 2,https://soroush.secproject.com/blog/2019/08/uploading-web-config-for-fun-and-profit-2/
+125,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core and systemd,https://devblogs.microsoft.com/dotnet/net-core-and-systemd/
+126,Lobsters,dotnet,"C#, F#, .NET programming",Avoid multithreading traps with Roslyn: Lock object selection,https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1/
+127,Lobsters,dotnet,"C#, F#, .NET programming","Self-contained executable with .NET Core 3.0 on Windows, Linux and Raspberry Pi",https://gunnarpeipman.com/net/dotnet-core-self-contained-executable/
+128,Lobsters,dotnet,"C#, F#, .NET programming",Try out Nullable Reference Types,https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types/
+129,Lobsters,dotnet,"C#, F#, .NET programming",Using Span for high performance interop with unmanaged libraries,https://ericsink.com/entries/utf8z.html
+130,Lobsters,dotnet,"C#, F#, .NET programming",Creating Trimmed Self Contained Executables in .NET Core,https://dev.to/jeremycmorgan/creating-trimmed-self-contained-executables-in-net-core-4m08
+131,Lobsters,dotnet,"C#, F#, .NET programming",Nu: An F# Game Engine that Allows You to Program in the Elm Style,https://medium.com/@bryanedds/a-game-engine-that-allows-you-to-program-in-the-elm-style-31d806fbe27f
+132,Lobsters,dotnet,"C#, F#, .NET programming",Custom Binary Serialization in C#,https://jbp.dev/blog/custom-binary-serialization.html
+133,Lobsters,dotnet,"C#, F#, .NET programming","A piece of Windows 10 is now running on WebAssembly, natively on iOS and Android",https://platform.uno/a-piece-of-windows-10-is-now-running-on-webassembly-natively-on-ios-and-android/
+134,Lobsters,dotnet,"C#, F#, .NET programming",Peephole optimizations in C++ and C#,https://egorbo.com/peephole-optimizations.html
+135,Lobsters,dotnet,"C#, F#, .NET programming",Versioning limitations in .NET,https://codeblog.jonskeet.uk/2019/06/30/versioning-limitations-in-net/
+136,Lobsters,dotnet,"C#, F#, .NET programming","How we sped up random forest processing, lots of common performance patterns",http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/
+137,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 Nullable Reference Types Update,https://www.infoq.com/news/2019/06/CSharp-8-More-Nullable-Reference/
+138,Lobsters,dotnet,"C#, F#, .NET programming",Replacing a live system is really hard,https://aras-p.info/blog/2019/06/21/Replacing-a-live-system-is-really-hard/
+139,Lobsters,dotnet,"C#, F#, .NET programming",Math.Round opens the browser print dialog,https://github.com/dotnet/try/issues/290
+140,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 More Small Features,https://www.infoq.com/news/2019/06/CSharp-8-More-Small/
+141,Lobsters,dotnet,"C#, F#, .NET programming",Try the new System.Text.Json APIs,https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-apis/
+142,Lobsters,dotnet,"C#, F#, .NET programming","Faster lookups, insertions, and in-order traversal than a red-black or AVL tree",https://neosmart.net/blog/2019/sorted-list-vs-binary-search-tree/
+143,Lobsters,dotnet,"C#, F#, .NET programming","TPL Dataflow in .Net Core, in Depth (Part 2/2)",https://www.blinkingcaret.com/2019/06/05/tpl-dataflow-in-net-core-in-depth-part-2/
+144,Lobsters,dotnet,"C#, F#, .NET programming",Candidate Features For C# 9,https://www.c-sharpcorner.com/article/candidate-features-for-c-sharp-9/
+145,Lobsters,dotnet,"C#, F#, .NET programming",Hacking IOS Xamarin apps with Frida,https://orangewirelabs.wordpress.com/2019/05/30/hacking-ios-xamarin-apps-with-frida/
+146,Lobsters,dotnet,"C#, F#, .NET programming","5M bid request/s, 2ms Max Response Time - The Road to Damascus",https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md
+147,Lobsters,dotnet,"C#, F#, .NET programming",Running WebAssembly and WASI with .NET,https://ericsink.com/entries/wasm_wasi_dotnet.html
+148,Lobsters,dotnet,"C#, F#, .NET programming","Is it better to ""!= 0” or ”== mask” when working with enums (C#, RyuJIT)",https://www.tabsoverspaces.com/233785-is-it-better-to-not-equals-0-or-equals-mask-when-working-with-enums-csharp-ryujit
+149,Lobsters,dotnet,"C#, F#, .NET programming",Performance Improvements in .NET Core 3.0,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/
+150,Lobsters,dotnet,"C#, F#, .NET programming","TPL Dataflow in .Net Core, in Depth - Part 1",https://www.blinkingcaret.com/2019/05/15/tpl-dataflow-in-net-core-in-depth-part-1/
+151,Lobsters,dotnet,"C#, F#, .NET programming",.NET on Non-Windows Platforms: A Brief History,https://two-wrongs.com/dotnet-on-non-windows-platforms-brief-historic-summary
+152,Lobsters,dotnet,"C#, F#, .NET programming",Decrypting Eazfuscator.NET encrypted symbol names,https://blog.silentsignal.eu/2019/05/10/decrypting-eazfuscator-net-encrypted-symbol-names/
+153,Lobsters,dotnet,"C#, F#, .NET programming",Attempting to Decrease Compile Times in Unity,https://gamejolt.com/games/talesofkulplex/313193/devlog/tales-of-kulplex-devlog-6-attempting-to-decrease-compile-times-she9y7qf
+154,Lobsters,dotnet,"C#, F#, .NET programming",Introducing .NET 5,https://devblogs.microsoft.com/dotnet/introducing-net-5/
+155,Lobsters,dotnet,"C#, F#, .NET programming",Pattern Matching in C# 8.0,https://msdn.microsoft.com/en-us/magazine/mt833440.aspx
+156,Lobsters,dotnet,"C#, F#, .NET programming",Fight the global warming: compile your C# apps ahead of time,https://medium.com/@MStrehovsky/fight-the-global-warming-compile-your-c-apps-ahead-of-time-9997e953645b
+157,Lobsters,dotnet,"C#, F#, .NET programming",ASCII Art in .NET Code,https://mattwarren.org/2019/04/25/ASCII-Art-in-.NET-Code/
+158,Lobsters,dotnet,"C#, F#, .NET programming",AES-NI (.NET) - Outperforming C and OpenSSL,https://ndportmann.com/aes-ni-outperforming-c-and-openssl/
+159,Lobsters,dotnet,"C#, F#, .NET programming",Revisting the gui.cs framework,https://tirania.org/blog/archive/2019/Apr-22.html
+160,Lobsters,dotnet,"C#, F#, .NET programming",Why Blazor Grid Templates Will Make You Question Everything,https://www.telerik.com/blogs/why-blazor-grid-templates-will-make-you-question-everything
+161,Lobsters,dotnet,"C#, F#, .NET programming",Diabolical Interfaces,https://www.kylesletten.com/2019/04/18/diabolical-interfaces.html
+162,Lobsters,dotnet,"C#, F#, .NET programming",Blazor now in official preview,https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/
+163,Lobsters,dotnet,"C#, F#, .NET programming",When redundant type casts matter,https://fuglede.dk/en/blog/when-redundant-type-casts-matter/
+164,Lobsters,dotnet,"C#, F#, .NET programming",From dependency injection to dependency rejection,https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+165,Lobsters,dotnet,"C#, F#, .NET programming",string vs. String is not a style debate,http://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html
+166,Lobsters,dotnet,"C#, F#, .NET programming",Visual Studio 2019: Code faster. Work smarter. Create the future,https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/
+167,Lobsters,dotnet,"C#, F#, .NET programming",C#88: The Original C#,https://medium.com/@ricomariani/c-88-the-original-c-66a1b5de47d7
+168,Lobsters,dotnet,"C#, F#, .NET programming",Behind the burst compiler,https://xoofx.com/blog/2019/03/28/behind-the-burst-compiler/
+169,Lobsters,dotnet,"C#, F#, .NET programming",Storing UTC is not a silver bullet,https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
+170,Lobsters,dotnet,"C#, F#, .NET programming","Southern Fried F# Raleigh, NC; April 13th 2019",https://southernfriedfsharp.com
+171,Lobsters,dotnet,"C#, F#, .NET programming",AutoMapper's Design Philosophy,https://jimmybogard.com/automappers-design-philosophy/
+172,Lobsters,dotnet,"C#, F#, .NET programming",Deep dive into serverless AWS automation using VS Code,http://tiny-giant-books.com/Entry1.html?EntryId=recak5uVmYH6H7cLV&ref=lob
+173,Lobsters,dotnet,"C#, F#, .NET programming",Bolero: F# in WebAssembly,https://fsbolero.io
+174,Lobsters,dotnet,"C#, F#, .NET programming",C#: 6 Years Later,https://ruoyusun.com/2019/03/17/c-sharp-in-2019.html
+175,Lobsters,dotnet,"C#, F#, .NET programming",The directhex! In an Adventure with MIPS (2013),https://apebox.org/wordpress/linux/545
+176,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 – Introducing Target-typed new expressions,http://www.devsanon.com/c/c-8-introducing-target-typed-new-expressions/
+177,Lobsters,dotnet,"C#, F#, .NET programming",.NET Internals Cookbook Part 4 Type members,https://blog.adamfurmanek.pl/2019/03/09/net-internals-cookbook-part-4/
+178,Lobsters,dotnet,"C#, F#, .NET programming",Base64 decoding bug that is present in all version of .NET,https://detunized.net/posts/2019-03-06-base64-decoding-bug-that-is-present-in-all-version-of-.net/
+179,Lobsters,dotnet,"C#, F#, .NET programming",FSH: A shell with integrated F# scripting,https://github.com/ChrisPritchard/FSH
+180,Lobsters,dotnet,"C#, F#, .NET programming",Floating-Point Parsing and Formatting improvements in .NET Core 3.0,https://devblogs.microsoft.com/dotnet/floating-point-parsing-and-formatting-improvements-in-net-core-3-0/
+181,Lobsters,dotnet,"C#, F#, .NET programming",C# 8.x is introducing Records,http://www.devsanon.com/c/c-8-is-introducing-records/
+182,Lobsters,dotnet,"C#, F#, .NET programming",Is C# a low-level language?,http://www.mattwarren.org/2019/03/01/Is-CSharp-a-low-level-language/
+183,Lobsters,dotnet,"C#, F#, .NET programming",SharpKit: C# to JavaScript Compiler,https://github.com/SharpKit/SharpKit
+184,Lobsters,dotnet,"C#, F#, .NET programming",ElectronCGI - Cross Platform .Net Core GUIs with Electron,https://www.blinkingcaret.com/2019/02/27/electron-cgi/
+185,Lobsters,dotnet,"C#, F#, .NET programming",Fun with the Spiral of Death,https://blog.marcgravell.com/2019/02/fun-with-spiral-of-death.html
+186,Lobsters,dotnet,"C#, F#, .NET programming",Multidimensional Arrays in C#,https://glenmccallum.com/2019/02/19/multidimensional-arrays-in-csharp/
+187,Lobsters,dotnet,"C#, F#, .NET programming",Functional Programming in C#,https://blog.qfpl.io/posts/fp-in-csharp/
+188,Lobsters,dotnet,"C#, F#, .NET programming",PlasticSCM/FuseSharp: FUSE wrapper in .NET Standard for macOS,https://github.com/PlasticSCM/FuseSharp
+189,Lobsters,dotnet,"C#, F#, .NET programming",Can you help find a copy of the source code for a .NET library from almost a decade ago?,/s/rwwbpf/can_you_help_find_copy_source_code_for_net
+190,Lobsters,dotnet,"C#, F#, .NET programming","Fixing Random, part 1",https://ericlippert.com/2019/01/31/fixing-random-part-1/
+191,Lobsters,dotnet,"C#, F#, .NET programming",How many keywords I can fit into a single C# expression?,https://www.tabsoverspaces.com/233768-how-many-keywords-i-can-fit-into-a-single-csharp-expression
+192,Lobsters,dotnet,"C#, F#, .NET programming",C# Futures: Lambda Attributes,https://www.infoq.com/news/2019/02/CSharp-Lambda-Attributes
+193,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core: Saturating 10GbE at 7+ million request/s,https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
+194,Lobsters,dotnet,"C#, F#, .NET programming","Creating a Reusable, JavaScript-Free Blazor Modal",https://www.telerik.com/blogs/creating-a-reusable-javascript-free-blazor-modal
+195,Lobsters,dotnet,"C#, F#, .NET programming",Xamarin.Forms 3 For You and Me,https://www.telerik.com/blogs/xamarin-forms-3-for-you-and-me
+196,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core 3.0 Intrinsics in Real Life - 1/3,https://bits.houmus.org/2018-08-18/netcoreapp3.0-instrinsics-in-real-life-pt1
+197,Lobsters,dotnet,"C#, F#, .NET programming",Managed pointers in .NET,http://tooslowexception.com/managed-pointers-in-net/
+198,Lobsters,dotnet,"C#, F#, .NET programming",Stack Walking in the .NET Runtime,http://www.mattwarren.org/2019/01/21/Stackwalking-in-the-.NET-Runtime/
+199,Lobsters,dotnet,"C#, F#, .NET programming",Introducing the Telerik UI for Blazor Early Preview,https://www.telerik.com/blogs/introducing-the-telerik-ui-for-blazor-early-preview
+200,Lobsters,dotnet,"C#, F#, .NET programming",Make your next C# project non-nullable,http://blog.hovland.xyz/2019-01-15-make-your-next-csharp-project-non-nullable/
+201,Lobsters,dotnet,"C#, F#, .NET programming",C# 8: Type Inference for the New Keyword,https://www.infoq.com/news/2019/01/c-sharp-targeted-type-new
+202,Lobsters,dotnet,"C#, F#, .NET programming",MagicOnionUnified Realtime/API Engine for.NET Core and Unity,https://medium.com/@neuecc/magiconion-unified-realtime-api-engine-for-net-core-and-unity-21e02a57a3ff
+203,Lobsters,dotnet,"C#, F#, .NET programming",Kiwi: High-Level Synthesis for Accelerating Scientific Computation,https://www.cl.cam.ac.uk/research/srg/han/hprls/orangepath/kiwic.html
+204,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core Tag Helpers Video Tutorial,https://www.telerik.com/blogs/aspnet-core-tag-helpers-video-tutorial-getting-started-telerik-tag-helpers
+205,Lobsters,dotnet,"C#, F#, .NET programming","C++, C# and Unity",http://lucasmeijer.com/posts/cpp_unity/
+206,Lobsters,dotnet,"C#, F#, .NET programming",Announcing Try F# on WebAssembly,https://forums.websharper.com/blog/86246
+207,Lobsters,dotnet,"C#, F#, .NET programming",War Story – The Mystery Of The Very Long GC Pauses in .NET Windows Service,http://tooslowexception.com/scenario-mystery-of-the-very-long-gc-pauses-in-net-windows-service/
+208,Lobsters,dotnet,"C#, F#, .NET programming",Configure .NET Authentication in OWIN,https://developer.okta.com/blog/2018/12/05/configure-dotnet-auth-in-owin
+209,Lobsters,dotnet,"C#, F#, .NET programming",Why you should learn F# - Dusted Codes,https://dusted.codes/why-you-should-learn-fsharp
+210,Lobsters,dotnet,"C#, F#, .NET programming",Exploring the .NET Core Runtime,http://www.mattwarren.org/2018/12/13/Exploring-the-.NET-Core-Runtime/
+211,Lobsters,dotnet,"C#, F#, .NET programming",Razor Components for a JavaScript-Free FrontEnd in 2019,https://www.telerik.com/blogs/razor-components-for-a-javascript-free-frontend-in-2019
+212,Lobsters,dotnet,"C#, F#, .NET programming","Announcing Open Source of WPF, Windows Forms, and WinUI at Microsoft Connect(); 2018",https://blogs.windows.com/buildingapps/2018/12/04/announcing-open-source-of-wpf-windows-forms-and-winui-at-microsoft-connect-2018/
+213,Lobsters,dotnet,"C#, F#, .NET programming",Open Source .NET – 4 years later,http://www.mattwarren.org/2018/12/04/Open-Source-.Net-4-years-later
+214,Lobsters,dotnet,"C#, F#, .NET programming",Why does Clipboard.SetData put extra junk in the clipboard data? And how can I get it to stop?,https://blogs.msdn.microsoft.com/oldnewthing/20181130-00/?p=100365
+215,Lobsters,dotnet,"C#, F#, .NET programming",Safe Concurrency for Aggregate Objects with Invariants (2005),https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/SafeConcurrencySEFM2005.pdf
+216,Lobsters,dotnet,"C#, F#, .NET programming",Why your F# evangelism isn't working (2015),https://ericsink.com/entries/fsharp_chasm.html
+217,Lobsters,dotnet,"C#, F#, .NET programming","F# spoiled me, or why I don’t enjoy C# anymore",https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98
+218,Lobsters,dotnet,"C#, F#, .NET programming",Compiling C# to WASM with Mono and Blazor then Debugging .NET Source with Remote Debugging in Chrome,https://www.hanselman.com/blog/CompilingCToWASMWithMonoAndBlazorThenDebuggingNETSourceWithRemoteDebuggingInChromeDevTools.aspx
+219,Lobsters,dotnet,"C#, F#, .NET programming",Building C# 8.0,https://blogs.msdn.microsoft.com/dotnet/2018/11/12/building-c-8-0/
+220,Lobsters,dotnet,"C#, F#, .NET programming",Troubleshooting an ASP.NET Core App Running in Docker,https://www.telerik.com/blogs/troubleshooting-an-aspnet-core-app-running-in-docker
+221,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Standard 2.1,https://blogs.msdn.microsoft.com/dotnet/2018/11/05/announcing-net-standard-2-1/
+222,Lobsters,dotnet,"C#, F#, .NET programming",Add Login to Your ASP.NET Core MVC App,https://developer.okta.com/blog/2018/10/29/add-login-to-you-aspnetcore-app
+223,Lobsters,dotnet,"C#, F#, .NET programming",A Breakdown of Blazor Project Types,https://www.telerik.com/blogs/a-breakdown-of-blazor-project-types 
+224,Lobsters,dotnet,"C#, F#, .NET programming",Creating an Angular 7 App with ASP.NET Core: A Step-by-Step Guide,https://www.telerik.com/blogs/creating-an-angular-7-app-with-aspnet-core-step-by-step-guide
+225,Lobsters,dotnet,"C#, F#, .NET programming",F# 2018 Advent Calendar,https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/
+226,Lobsters,dotnet,"C#, F#, .NET programming",What is TDD? [Roadmap to Implement TDD in Your Organization],https://simform.com/what-is-tdd/
+227,Lobsters,dotnet,"C#, F#, .NET programming",Get Started with Blazor and WebAssembly,https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly
+228,Lobsters,dotnet,"C#, F#, .NET programming","Generating IDs in C#, 'safely' and efficiently",http://www.nimaara.com/2018/10/10/generating-ids-in-csharp/
+229,Lobsters,dotnet,"C#, F#, .NET programming",Sign in with an External Login Provider in an Angular Application Served by ASP.NET Core,https://www.blinkingcaret.com/2018/10/10/sign-in-with-an-external-login-provider-in-an-angular-application-served-by-asp-net-core/
+230,Lobsters,dotnet,"C#, F#, .NET programming",Update on .NET Core 3.0 and .NET Framework 4.8,https://blogs.msdn.microsoft.com/dotnet/2018/10/04/update-on-net-core-3-0-and-net-framework-4-8/
+231,Lobsters,dotnet,"C#, F#, .NET programming",A History of .NET Runtimes,http://www.mattwarren.org/2018/10/02/A-History-of-.NET-Runtimes/
+232,Lobsters,dotnet,"C#, F#, .NET programming",How Microsoft rewrote its C# compiler in C# and made it open source,https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98
+233,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 Concerns,http://benbowen.blog/post/csharp_8_concerns/
+234,Lobsters,dotnet,"C#, F#, .NET programming",Writing a JIT Compiler in C#,https://www.mono-project.com/news/2018/09/11/csharp-jit/
+235,Lobsters,dotnet,"C#, F#, .NET programming",Working with the Blazor JavaScript Interop,https://blog.logrocket.com/working-with-the-blazor-javascript-interop-3c2a8d0eb56c
+236,Lobsters,dotnet,"C#, F#, .NET programming","Top C# Libraries of 2018 - Based on 18,471 GitHub Repositories",https://blog.takipi.com/top-c-libraries-of-2018-based-on-18471-github-repositories/
+237,Lobsters,dotnet,"C#, F#, .NET programming",Fuzzing the .NET JIT Compiler,http://www.mattwarren.org/2018/08/28/Fuzzing-the-.NET-JIT-Compiler/
+238,Lobsters,dotnet,"C#, F#, .NET programming",It’s Doomed; We Can Prove It (2009),https://www.researchgate.net/profile/Martin_Schaef/publication/221268166_It%27s_Doomed_We_Can_Prove_It/links/53e2353e0cf2d79877aa1901/Its-Doomed-We-Can-Prove-It.pdf?origin=publication_detail
+239,Lobsters,dotnet,"C#, F#, .NET programming",Software Development as an Emergent System,https://www.blinkingcaret.com/2018/08/22/software-development-emergent-system-ndepend/
+240,Lobsters,dotnet,"C#, F#, .NET programming",Monitoring and Observability in the .NET Runtime,http://www.mattwarren.org/2018/08/21/Monitoring-and-Observability-in-the-.NET-Runtime/
+241,Lobsters,dotnet,"C#, F#, .NET programming",The State of .NET GUI Frameworks,https://sietch.net/ViewNewsItem.aspx?NewsItemID=271
+242,Lobsters,dotnet,"C#, F#, .NET programming",Parallel Checker,http://parallel-checker.com/
+243,Lobsters,dotnet,"C#, F#, .NET programming",Web Assembly and Blazor: Re-assembling the Web,https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web
+244,Lobsters,dotnet,"C#, F#, .NET programming",Where did the Microsoft tech stack disappear?,https://michaelscodingspot.com/2018/07/30/where-did-the-microsoft-tech-stack-disappear/
+245,Lobsters,dotnet,"C#, F#, .NET programming",Blazor 0.5.0 experimental release now available,https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/
+246,Lobsters,dotnet,"C#, F#, .NET programming",C# 8 Ranges and Recursive Patterns,https://www.infoq.com/articles/cs8-ranges-and-recursive-patterns
+247,Lobsters,dotnet,"C#, F#, .NET programming",Exploring .NET Core platform intrinsics: Part 4 - Alignment and pipelining,https://mijailovic.net/2018/07/20/alignment-and-pipelining/
+248,Lobsters,dotnet,"C#, F#, .NET programming",Secure an ASP.NET Core Web Api using Cookies,https://www.blinkingcaret.com/2018/07/18/secure-an-asp-net-core-web-api-using-cookies/
+249,Lobsters,dotnet,"C#, F#, .NET programming",Performance implications of default struct equality in C#,https://blogs.msdn.microsoft.com/seteplia/2018/07/17/performance-implications-of-default-struct-equality-in-c/
+250,Lobsters,dotnet,"C#, F#, .NET programming",Wordpress Compiled into a .NET assembly,https://github.com/iolevel/wpdotnet-sdk
+251,Lobsters,dotnet,"C#, F#, .NET programming",Presentations and Talks covering ‘.NET Internals’,http://www.mattwarren.org/2018/07/12/Presentations-and-Talks-covering-.NET-Internals/
+252,Lobsters,dotnet,"C#, F#, .NET programming",Default Interface Methods in C# 8,https://www.infoq.com/articles/default-interface-methods-cs8
+253,Lobsters,dotnet,"C#, F#, .NET programming",.NET JIT and CLR - Joined at the Hip,http://www.mattwarren.org/2018/07/05/.NET-JIT-and-CLR-Joined-at-the-Hip/
+254,Lobsters,dotnet,"C#, F#, .NET programming","Pipe Dreams, part 1",https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html
+255,Lobsters,dotnet,"C#, F#, .NET programming",Introducing fuget.org,http://praeclarum.org/post/174440517348/introducing-fugetorg
+256,Lobsters,dotnet,"C#, F#, .NET programming",F# Data Type Providers in .Net Core,https://lukemerrett.com/fsharp-data-type-providers/
+257,Lobsters,dotnet,"C#, F#, .NET programming",How Unit Testing Improves Code Quality in TDD,https://www.simform.com/unit-testing-tdd/
+258,Lobsters,dotnet,"C#, F#, .NET programming",Exploring .NET Core platform intrinsics: Part 1 - Accelerating SHA-256 on ARMv8,https://mijailovic.net/2018/06/06/sha256-armv8/
+259,Lobsters,dotnet,"C#, F#, .NET programming",Strings Are Evil,https://medium.com/@indy_singh/strings-are-evil-a803d05e5ce3
+260,Lobsters,dotnet,"C#, F#, .NET programming",Tools for Exploring .NET Internals,http://www.mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/
+261,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting new generics constraints in C# 7.3,https://blogs.msdn.microsoft.com/seteplia/2018/06/12/dissecting-new-generics-constraints-in-c-7-3/
+262,Lobsters,dotnet,"C#, F#, .NET programming",The Simplest Reverse Proxy for ASP.NET Core Using Docker,https://glenmccallum.com/2018/05/08/simplest-revserse-proxy-aspnetcore/
+263,Lobsters,dotnet,"C#, F#, .NET programming","Getting Started with the New Unity Entity Component, C# Job System, and Burst Compiler",https://software.intel.com/en-us/articles/getting-started-with-the-new-unity-entity-component-c-job-system-and-burst-compiler
+264,Lobsters,dotnet,"C#, F#, .NET programming",Refresh Tokens in ASP.NET Core Web Api,https://www.blinkingcaret.com/2018/05/30/refresh-tokens-in-asp-net-core-web-api/
+265,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Core 2.1,https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-net-core-2-1/
+266,Lobsters,dotnet,"C#, F#, .NET programming",Introducing Mono on AIX and IBM i,http://www.mono-project.com/news/2018/05/29/mono-on-aix-and-ibm-i/
+267,Lobsters,dotnet,"C#, F#, .NET programming",New Features in C# 7.3,https://www.infoq.com/news/2018/05/CSharp-7.3
+268,Lobsters,dotnet,"C#, F#, .NET programming",Const Strings – a very convenient way to shoot yourself in the foot,https://www.stum.de/2009/01/14/const-strings-a-very-convenient-way-to-shoot-yourself-in-the-foot/
+269,Lobsters,dotnet,"C#, F#, .NET programming",The future of C#,https://channel9.msdn.com/Events/Build/2018/BRK2155
+270,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core 3 and Support for Windows Desktop Applications,https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/
+271,Lobsters,dotnet,"C#, F#, .NET programming",Emacs as a C# development environment,https://joshwolfe.ca/post/emacs-for-csharp/
+272,Lobsters,dotnet,"C#, F#, .NET programming","The curious case of Freya, Suave and Giraffe: Reducing risks in picking a new tech",https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2018/03
+273,Lobsters,dotnet,"C#, F#, .NET programming",How to organize your projects,https://purple.pizza/how-to-organize-your-projects/
+274,Lobsters,dotnet,"C#, F#, .NET programming",Suave v2.4.0 released (F# Web framework),https://github.com/SuaveIO/suave/releases/tag/2.4.0
+275,Lobsters,dotnet,"C#, F#, .NET programming",New C# Ransomware Compiles itself at Runtime,https://www.bleepingcomputer.com/news/security/new-c-ransomware-compiles-itself-at-runtime/
+276,Lobsters,dotnet,"C#, F#, .NET programming",ORM-less Data Access in .Net Core,https://www.blinkingcaret.com/2018/04/25/orm-less-data-access-in-net-core/
+277,Lobsters,dotnet,"C#, F#, .NET programming",COSMOS: C# Open Source Managed Operating System,https://www.gocosmos.org/
+278,Lobsters,dotnet,"C#, F#, .NET programming",Backward compatibility and overloading,https://codeblog.jonskeet.uk/2018/04/13/backward-compatibility-and-overloading/
+279,Lobsters,dotnet,"C#, F#, .NET programming",Writing a Managed JIT in C# with CoreCLR,http://xoofx.com/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr/
+280,Lobsters,dotnet,"C#, F#, .NET programming",How we doubled Mono’s Float Speed,http://tirania.org/blog/archive/2018/Apr-11.html
+281,Lobsters,dotnet,"C#, F#, .NET programming",typeof(TSecret) - the secret magic behind .NET generics,http://yizhang82.github.io/dotnet-generics-typeof-t
+282,Lobsters,dotnet,"C#, F#, .NET programming",Porting the Unity Engine to .NET CoreCLR,http://xoofx.com/blog/2018/04/06/porting-unity-to-coreclr/
+283,Lobsters,dotnet,"C#, F#, .NET programming",Taking a look at the ECMA-335 Standard for .NET,http://www.mattwarren.org/2018/04/06/Taking-a-look-at-the-ECMA-335-Standard-for-.NET/
+284,Lobsters,dotnet,"C#, F#, .NET programming",F# .NET Standard RandomBits from ANU Quantum Random Numbers Server,https://jackfoxy.github.io/RandomBits/
+285,Lobsters,dotnet,"C#, F#, .NET programming",Xamarin – Does It Save You Anything?,https://trevorhartsblog.com/2018/03/06/xamarin-does-it-save-you-anything/
+286,Lobsters,dotnet,"C#, F#, .NET programming",Exploring the internals of the .NET Runtime,http://www.mattwarren.org/2018/03/23/Exploring-the-internals-of-the-.NET-Runtime/
+287,Lobsters,dotnet,"C#, F#, .NET programming",Get started building .NET web apps in the browser with Blazor,https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/
+288,Lobsters,dotnet,"C#, F#, .NET programming",Using OpenCL on F# via FSCL (2016),https://swlaschin.gitbooks.io/fsadvent-2016/content/2016-11-29-josesoyo/
+289,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core Development in Linux,https://www.blinkingcaret.com/2018/03/20/net-core-linux/
+290,Lobsters,dotnet,"C#, F#, .NET programming",Setting up automated testing with MSTest and Selenium,http://flyingfisch.github.io/testing/2018/03/20/automated-testing-with-mstest-and-selenium.html
+291,Lobsters,dotnet,"C#, F#, .NET programming",True and false operators in C#,https://www.tabsoverspaces.com/233707-true-and-false-operators-in-csharp/
+292,Lobsters,dotnet,"C#, F#, .NET programming","From .NET Framework to .NET Core and Linux, the story so far",https://nblumhardt.com/2018/03/from-netfx-to-core/
+293,Lobsters,dotnet,"C#, F#, .NET programming",The ‘in’-modifier and the readonly structs in C#,https://blogs.msdn.microsoft.com/seteplia/2018/03/07/the-in-modifier-and-the-readonly-structs-in-c/
+294,Lobsters,dotnet,"C#, F#, .NET programming",Type Inference by Solving Constraints,http://www.calebh.io/Type-Inference-by-Solving-Constraints/
+295,Lobsters,dotnet,"C#, F#, .NET programming",How generics were added to .NET,http://www.mattwarren.org/2018/03/02/How-generics-were-added-to-.NET/
+296,Lobsters,dotnet,"C#, F#, .NET programming",Building a Secure Containerized Microservice With .NET Core,https://dzone.com/articles/building-a-secure-containerized-microservice-with
+297,Lobsters,dotnet,"C#, F#, .NET programming",One user scenario to rule them all,https://blogs.msdn.microsoft.com/seteplia/2018/02/14/one-user-scenario-to-rule-them-all/
+298,Lobsters,dotnet,"C#, F#, .NET programming",WTF# is concurrency,https://wtfsharp.net/wtf-is-concurrency
+299,Lobsters,dotnet,"C#, F#, .NET programming",bamboo/idris-cil - A Common Intermediate Language backend for Idris,https://github.com/bamboo/idris-cil
+300,Lobsters,dotnet,"C#, F#, .NET programming",Making Poirot Fast,https://www.kylesletten.com/2018/02/02/making-poirot-fast.html
+301,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core 2.1 Roadmap,https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap/
+302,Lobsters,dotnet,"C#, F#, .NET programming",Stacktrace improvements in .NET Core 2.1,https://www.ageofascent.com/2018/01/26/stack-trace-for-exceptions-in-dotnet-core-2.1/
+303,Lobsters,dotnet,"C#, F#, .NET programming",The Performance Characteristics of Async Methods,https://blogs.msdn.microsoft.com/seteplia/2018/01/25/the-performance-characteristics-of-async-methods/
+304,Lobsters,dotnet,"C#, F#, .NET programming",Angular and ASP.NET Core,http://www.blinkingcaret.com/2018/01/24/angular-and-asp-net-core/
+305,Lobsters,dotnet,"C#, F#, .NET programming",Resources for Learning about .NET Internals,http://www.mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/
+306,Lobsters,dotnet,"C#, F#, .NET programming",Multi-tenant web apps with ASP.NET Core and Postgres,https://www.citusdata.com/blog/2018/01/22/multi-tenant-web-apps-with-dot-net-core-and-postgres/
+307,Lobsters,dotnet,"C#, F#, .NET programming",A Primer on Repeatable Random Numbers (2015),https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/
+308,Lobsters,dotnet,"C#, F#, .NET programming",ConcurrentDictionary Is Not Always Thread-Safe,http://blog.i3arnon.com/2018/01/16/concurrent-dictionary-tolist/
+309,Lobsters,dotnet,"C#, F#, .NET programming",LambdaConf 2018: Call for Proposals,https://lambdaconf2018.dryfta.com/en/abstract-submission
+310,Lobsters,dotnet,"C#, F#, .NET programming",One equality operator to rule them all,https://mzabani.wordpress.com/2018/01/02/one-equality-operator-to-rule-them-all/
+311,Lobsters,dotnet,"C#, F#, .NET programming",Why I got hooked on F#,http://devonburriss.me/why-i-got-hooked-on-fsharp/
+312,Lobsters,dotnet,"C#, F#, .NET programming",Duck Typing And Async/Await,http://blog.i3arnon.com/2018/01/02/task-enumerable-awaiter/
+313,Lobsters,dotnet,"C#, F#, .NET programming",.Net Core 2.0 Performance Notes Revisited,http://anthonylloyd.github.io/blog/2017/12/30/dotnetcore-performance-part2
+314,Lobsters,dotnet,"C#, F#, .NET programming",Reflecting on F# in 2017,https://medium.com/@_cartermp/reflecting-on-f-in-2017-5ac67fb138ff
+315,Lobsters,dotnet,"C#, F#, .NET programming",Open Source .NET – 3 years later,http://www.mattwarren.org/2017/12/19/Open-Source-.Net-3-years-later
+316,Lobsters,dotnet,"C#, F#, .NET programming",LiteDB - A .NET NoSQL Document Store in a single data file,http://www.litedb.org/
+317,Lobsters,dotnet,"C#, F#, .NET programming",C# - All About Span: Exploring a New .NET Mainstay,https://msdn.microsoft.com/en-us/magazine/mt814808.aspx
+318,Lobsters,dotnet,"C#, F#, .NET programming",How does .NET JIT a method? (also featuring ‘Tiered Compilation’),http://www.mattwarren.org/2017/12/15/How-does-.NET-JIT-a-method-and-Tiered-Compilation/
+319,Lobsters,dotnet,"C#, F#, .NET programming","C# 7 Series, Part 7: Ref Returns",https://blogs.msdn.microsoft.com/mazhou/2017/12/12/c-7-series-part-7-ref-returns/
+320,Lobsters,dotnet,"C#, F#, .NET programming",Migration from old format of cs/fsproj to the new one,https://mnie.github.io/2017-12-13-migrationFromOldToNewProjectFile/
+321,Lobsters,dotnet,"C#, F#, .NET programming",Announcing the SAFE stack,https://compositional-it.com/blog/2017/09-22-safe-release/index.html
+322,Lobsters,dotnet,"C#, F#, .NET programming",WTF#,http://wtfsharp.net/
+323,Lobsters,dotnet,"C#, F#, .NET programming",Dependent Types for F#,https://jackfoxy.github.io/DependentTypes/
+324,Lobsters,dotnet,"C#, F#, .NET programming",How Jet Built a GPU-Powered Fulfillment Engine with F# and CUDA,https://devblogs.nvidia.com/parallelforall/jet-gpu-powered-fulfillment/
+325,Lobsters,dotnet,"C#, F#, .NET programming",C# 8.0 Features: A Glimpse of the Future,https://blog.ndepend.com/c-8-0-features-glimpse-future/
+326,Lobsters,dotnet,"C#, F#, .NET programming",DDD Persistence: Recorded Event-Driven Persistence,https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/
+327,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting the async methods in C#,https://blogs.msdn.microsoft.com/seteplia/2017/11/30/dissecting-the-async-methods-in-c/
+328,Lobsters,dotnet,"C#, F#, .NET programming",Anatomy of an ASP.NET Identity PasswordHash,http://www.blinkingcaret.com/2017/11/29/asp-net-identity-passwordhash/
+329,Lobsters,dotnet,"C#, F#, .NET programming",You're using HttpClient wrong and it is destabilizing your software,https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
+330,Lobsters,dotnet,"C#, F#, .NET programming",FSharp Weekly #48 - Domain Modeling Made Functional,https://sergeytihon.com/2017/11/25/f-weekly-48-domain-modeling-made-functional/
+331,Lobsters,dotnet,"C#, F#, .NET programming",PHP on .NET Standard 2.0,https://www.peachpie.io/2017/11/php-netstandard-2-0.html
+332,Lobsters,dotnet,"C#, F#, .NET programming",Introducing Nullable Reference Types in C#,https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/
+333,Lobsters,dotnet,"C#, F#, .NET programming",Recursion Without Recursion,https://www.benjamin.pizza/posts/2017-11-13-recursion-without-recursion.html
+334,Lobsters,dotnet,"C#, F#, .NET programming",Mono's New .NET Interpreter,http://www.mono-project.com/news/2017/11/13/mono-interpreter/
+335,Lobsters,dotnet,"C#, F#, .NET programming",A DoS Attack against the C# Compiler,http://www.mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler/
+336,Lobsters,dotnet,"C#, F#, .NET programming",Function monoids,http://blog.ploeh.dk/2017/11/06/function-monoids/
+337,Lobsters,dotnet,"C#, F#, .NET programming",Automating The Arrange Phase With AutoFixture,http://jackhiston.com/2017/11/2/automating-the-arrange-phase-with-autofixture/
+338,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting the tuples in C# 7,https://blogs.msdn.microsoft.com/seteplia/2017/11/01/dissecting-the-tuples-in-c-7/
+339,Lobsters,dotnet,"C#, F#, .NET programming",fez an Fsharp to core Erlang compiler,https://github.com/kjnilsson/fez
+340,Lobsters,dotnet,"C#, F#, .NET programming",Extending The Razor View Engine With View Location Expanders,http://jackhiston.com/2017/10/24/extending-the-razor-view-engine-with-view-location-expanders/
+341,Lobsters,dotnet,"C#, F#, .NET programming",F# introduction for my coworkers,https://simendsjo.me/fsharp-intro/
+342,Lobsters,dotnet,"C#, F#, .NET programming",DotNetAnywhere: An Alternative .NET Runtime,http://www.mattwarren.org/2017/10/19/DotNetAnywhere-an-Alternative-.NET-Runtime/
+343,Lobsters,dotnet,"C#, F#, .NET programming",.NET/C# Generics History: Some Photos From Feb 1999,https://blogs.msdn.microsoft.com/dsyme/2011/03/15/netc-generics-history-some-photos-from-feb-1999/
+344,Lobsters,dotnet,"C#, F#, .NET programming",RyuJIT Just-in-Time Compiler Optimization Enhancements,https://blogs.msdn.microsoft.com/dotnet/2017/10/16/ryujit-just-in-time-compiler-optimization-enhancements/
+345,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting the pattern matching in C# 7,https://blogs.msdn.microsoft.com/seteplia/2017/10/16/dissecting-the-pattern-matching-in-c-7/
+346,Lobsters,dotnet,"C#, F#, .NET programming",Analysing C# code on GitHub with BigQuery,http://www.mattwarren.org/2017/10/12/Analysing-C-code-on-GitHub-with-BigQuery/
+347,Lobsters,dotnet,"C#, F#, .NET programming",MSBuild Maintenance Made Easy With Shared Properties,http://jackhiston.com/2017/10/12/msbuild-maintenance-made-easy-with-shared-properties/
+348,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core 2.0 - Repository Overview: Action Results,http://jackhiston.com/2017/10/8/aspnet-core-20-repository-overview-action-results/
+349,Lobsters,dotnet,"C#, F#, .NET programming",Diagnosing a Linux-only unit test failure,https://codeblog.jonskeet.uk/2017/10/08/diagnosing-a-linux-only-unit-test-failure/
+350,Lobsters,dotnet,"C#, F#, .NET programming","Concurrent Revisions: Programming Model for Concurrent, Parallel, and Distributed Apps",https://www.microsoft.com/en-us/research/project/concurrent-revisions/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Frevisions%2F
+351,Lobsters,dotnet,"C#, F#, .NET programming",2 Simple Ways To Improve Your Unit Tests,http://jackhiston.com/2017/10/3/2-simple-ways-to-improve-your-unit-tests/
+352,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting the local functions in C# 7,https://blogs.msdn.microsoft.com/seteplia/2017/10/03/dissecting-the-local-functions-in-c-7/
+353,Lobsters,dotnet,"C#, F#, .NET programming",How to Create Bogus Data in C#,http://jackhiston.com/2017/10/1/how-to-create-bogus-data-in-c/
+354,Lobsters,dotnet,"C#, F#, .NET programming","Open source in the F# community, part 1",https://haf.github.io/2017/10/01/open-source-in-the-fsharp-community-part-1.html
+355,Lobsters,dotnet,"C#, F#, .NET programming",The Book of the Runtime,https://github.com/dotnet/coreclr/blob/master/Documentation/botr/botr-faq.md
+356,Lobsters,dotnet,"C#, F#, .NET programming",Book of the Runtime,https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
+357,Lobsters,dotnet,"C#, F#, .NET programming",Learning F#: Case study with branch and bound,https://www.youtube.com/watch?v=UZIqQMDZTwc
+358,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core 2.0: Razor Pages,http://jackhiston.com/2017/9/24/aspnet-core-20-repository-overview-razor-pages/
+359,Lobsters,dotnet,"C#, F#, .NET programming",The Little ASP.NET Core Book,https://www.recaffeinate.co/post/introducing-little-aspnetcore-book/
+360,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core 2.0 - Repository Overview: Action Selection,http://jackhiston.com/2017/9/9/aspnet-core-20-repository-overview-action-selection/
+361,Lobsters,dotnet,"C#, F#, .NET programming",Secure a Web Api in ASP.NET Core,http://www.blinkingcaret.com/2017/09/06/secure-web-api-in-asp-net-core/
+362,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core 2.0: Action Discovery,http://jackhiston.com/2017/9/2/aspnet-core-20-repository-overview-action-discovery/
+363,Lobsters,dotnet,"C#, F#, .NET programming",Span,http://adamsitnik.com/Span/
+364,Lobsters,dotnet,"C#, F#, .NET programming",A type-safe REST,http://www.jackhiston.com/2017/8/28/a-type-safe-rest/
+365,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET MVC Core – Repository Overview: Value Providers,http://jackhiston.com/2017/8/25/aspnet-mvc-core-repository-overview-value-providers
+366,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET Core MVC – Repository Overview: Model Binding - Jack Histon's Blog,http://jackhiston.com/2017/8/21/aspnet-core-mvc-repository-overview-model-binding
+367,Lobsters,dotnet,"C#, F#, .NET programming",Picture combinators and recursive fish,https://einarwh.wordpress.com/2017/07/22/picture-combinators-and-recursive-fish/
+368,Lobsters,dotnet,"C#, F#, .NET programming",Rezoom.SQL: an F# ORM for statically typed SQL queries,https://github.com/rspeele/Rezoom.SQL
+369,Lobsters,dotnet,"C#, F#, .NET programming",Interfaces and typeclasses: Number APIs in C# and Haskell,https://mzabani.wordpress.com/2017/06/22/interfaces-and-typeclasses-number-apis-in-c-and-haskell/
+370,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Core 2.0,https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/
+371,Lobsters,dotnet,"C#, F#, .NET programming",.NET and WebAssembly - Is this the future of the front-end?,https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx
+372,Lobsters,dotnet,"C#, F#, .NET programming",Hello WebAssembly | Mono,http://www.mono-project.com/news/2017/08/09/hello-webassembly/
+373,Lobsters,dotnet,"C#, F#, .NET programming",.NET Standard 2.0 is final,https://github.com/dotnet/announcements/issues/24
+374,Lobsters,dotnet,"C#, F#, .NET programming",Some words on #nugate,https://cockneycoder.wordpress.com/2017/08/02/some-words-on-nugate/
+375,Lobsters,dotnet,"C#, F#, .NET programming",A look at the internals of ‘boxing’ in the CLR,http://www.mattwarren.org/2017/08/02/A-look-at-the-internals-of-boxing-in-the-CLR/
+376,Lobsters,dotnet,"C#, F#, .NET programming",An introduction to property-based testing,https://fsharpforfunandprofit.com/posts/property-based-testing/
+377,Lobsters,dotnet,"C#, F#, .NET programming",The ins and outs of C# enums,http://www.codeducky.org/ins-outs-c-enums/
+378,Lobsters,dotnet,"C#, F#, .NET programming",Tracking and Managing Processes on Windows,https://blog.rainway.io/tracking-and-managing-processes-on-windows-be9d95602b54
+379,Lobsters,dotnet,"C#, F#, .NET programming",Manual Memory Management for .NET,https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/snowflake-extended.pdf
+380,Lobsters,dotnet,"C#, F#, .NET programming",C# vs. Java: 5 Irreplaceable C# Features We’d Kill to Have in Java,http://blog.takipi.com/c-vs-java-5-irreplaceable-c-features-wed-kill-to-have-in-java/
+381,Lobsters,dotnet,"C#, F#, .NET programming",Getting started with F# and .NET Core,http://julienblanchard.com/2017/getting-started-with-fsharp-and-dotnet-core/
+382,Lobsters,dotnet,"C#, F#, .NET programming",What we’ve learned from .NET Core SDK Telemetry,https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/
+383,Lobsters,dotnet,"C#, F#, .NET programming",The perils of async void,https://blogs.msdn.microsoft.com/oldnewthing/20170721-00/?p=96665
+384,Lobsters,dotnet,"C#, F#, .NET programming",Crash course in async and await,https://blogs.msdn.microsoft.com/oldnewthing/20170720-00/?p=96655
+385,Lobsters,dotnet,"C#, F#, .NET programming",each_cons - the wise and tall of popular languages,http://realfiction.net/2017/05/22/each_cons-the-wise-and-tall-of-popular-languages/
+386,Lobsters,dotnet,"C#, F#, .NET programming",F# Interop with Javascript in Fable: The Complete Guide,https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f
+387,Lobsters,dotnet,"C#, F#, .NET programming","Hello, pure command-line interaction",http://blog.ploeh.dk/2017/07/11/hello-pure-command-line-interaction/
+388,Lobsters,dotnet,"C#, F#, .NET programming",Memory Usage Inside the CLR,http://www.mattwarren.org/2017/07/10/Memory-Usage-Inside-the-CLR/
+389,Lobsters,dotnet,"C#, F#, .NET programming",Fun With __makeref,http://benbowen.blog/post/fun_with_makeref/
+390,Lobsters,dotnet,"C#, F#, .NET programming",Doing a Double-Take with .NET Core,https://www.dailydrip.com/blog/doing-a-double-take-with-net-core.html
+391,Lobsters,dotnet,"C#, F#, .NET programming",Keeping secrets in ASP.NET Core,http://www.blinkingcaret.com/2017/06/21/keeping-secrets-in-asp-net-core/
+392,Lobsters,dotnet,"C#, F#, .NET programming",What the heck is a parser-combinator?,http://www.kimpel.com/2017/02/28/what-the-heck-is-a-parser-combinator/
+393,Lobsters,dotnet,"C#, F#, .NET programming",How the .NET Runtime loads a Type,http://www.mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/
+394,Lobsters,dotnet,"C#, F#, .NET programming",C# 7.x and 8.0: Uncertainty and Awesomeness,https://www.erikheemskerk.nl/c-sharp-7-2-and-8-0-uncertainty-awesomeness/
+395,Lobsters,dotnet,"C#, F#, .NET programming",Community builds of Visual Studio Code for Chromebooks and Raspberry Pi,https://github.com/headmelted/codebuilds
+396,Lobsters,dotnet,"C#, F#, .NET programming",Performance Improvements in .NET Core,https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+397,Lobsters,dotnet,"C#, F#, .NET programming",Don’t like dependency injection?,https://engineering.snagajob.com/dont-like-dependency-injection-898de93dc8d3
+398,Lobsters,dotnet,"C#, F#, .NET programming",Klip: A simple programming language intended as a language implementation tutorial,https://github.com/DatCodingGuy/Klip
+399,Lobsters,dotnet,"C#, F#, .NET programming",Why you should use F#,https://blogs.msdn.microsoft.com/dotnet/2017/05/31/why-you-should-use-f/
+400,Lobsters,dotnet,"C#, F#, .NET programming",Lowering in the C# Compiler (and what happens when you misuse it),http://www.mattwarren.org/2017/05/25/Lowering-in-the-C-Compiler/
+401,Lobsters,dotnet,"C#, F#, .NET programming",Facebook Login in ASP.NET Core,http://www.blinkingcaret.com/2017/05/24/facebook-login-asp-net-core/
+402,Lobsters,dotnet,"C#, F#, .NET programming",pgodwin/GopherServer: A Gopher Server implemented in C#,https://github.com/pgodwin/GopherServer
+403,Lobsters,dotnet,"C#, F#, .NET programming",Mono 5 adds new concurrent garbage collector,http://www.mono-project.com/news/2017/05/17/concurrent-gc-news/
+404,Lobsters,dotnet,"C#, F#, .NET programming",Fun with pure C# and monads,https://blogs.msdn.microsoft.com/alazarev/2017/05/20/fun-with-pure-c-and-monads/
+405,Lobsters,dotnet,"C#, F#, .NET programming",FsRegEx: composable regular expressions for F#,https://jackfoxy.github.io/FsRegEx/index.html
+406,Lobsters,dotnet,"C#, F#, .NET programming",Adding a new Bytecode Instruction to the CLR,http://www.mattwarren.org/2017/05/19/Adding-a-new-Bytecode-Instruction-to-the-CLR/
+407,Lobsters,dotnet,"C#, F#, .NET programming",Garbage collection in C#,https://chodounsky.net/2017/05/03/garbage-collection-in-c-sharp/
+408,Lobsters,dotnet,"C#, F#, .NET programming",How a Blind Developer uses Visual Studio,https://www.youtube.com/watch?v=iWXebEeGwn0
+409,Lobsters,dotnet,"C#, F#, .NET programming","System.Threading.Thread, Universal Windows Platform, and the fragmentation of .NET Standard",https://neosmart.net/blog/2017/system-threading-thread-universal-windows-platform-and-the-fragmentation-of-net-standard/
+410,Lobsters,dotnet,"C#, F#, .NET programming",Arrays and the CLR - a Very Special Relationship,http://www.mattwarren.org/2017/05/08/Arrays-and-the-CLR-a-Very-Special-Relationship/
+411,Lobsters,dotnet,"C#, F#, .NET programming",External Login Providers in ASP.NET Core,http://www.blinkingcaret.com/2017/05/03/external-login-providers-in-asp-net-core/
+412,Lobsters,dotnet,"C#, F#, .NET programming","Rider EAP 21: F# support, bundled TFS plugin and more",https://blog.jetbrains.com/dotnet/2017/04/27/rider-eap-21-f-support-bundled-tfs-plugin/
+413,Lobsters,dotnet,"C#, F#, .NET programming",The End of IKVM.NET,http://weblog.ikvm.net/2017/04/21/TheEndOfIKVMNET.aspx
+414,Lobsters,dotnet,"C#, F#, .NET programming",A C# Developer’s Guide to F#,http://connelhooley.uk/blog/2017/04/10/f-sharp-guide
+415,Lobsters,dotnet,"C#, F#, .NET programming",Announcing the .NET Framework 4.7,https://blogs.msdn.microsoft.com/dotnet/2017/04/05/announcing-the-net-framework-4-7/
+416,Lobsters,dotnet,"C#, F#, .NET programming","Building a realtime server backend using the Orleans Actor system, Dotnet Core and Server-side…",https://medium.com/@MaartenSikkema/using-dotnet-core-orleans-redux-and-websockets-to-build-a-scalable-realtime-back-end-cd0b65ec6b4d
+417,Lobsters,dotnet,"C#, F#, .NET programming",The .NET IL Interpreter,http://www.mattwarren.org/2017/03/30/The-.NET-IL-Interpreter/
+418,Lobsters,dotnet,"C#, F#, .NET programming",Visual Studio 2017 can automatically recommend NuGet packages for unknown types,https://www.hanselman.com/blog/VisualStudio2017CanAutomaticallyRecommendNuGetPackagesForUnknownTypes.aspx
+419,Lobsters,dotnet,"C#, F#, .NET programming",Learning Haskell with Mark Seemann (2016),http://dotnetrocks.com/?show=1304
+420,Lobsters,dotnet,"C#, F#, .NET programming",A Hitchhikers Guide to the CoreCLR Source Code,http://www.mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/
+421,Lobsters,dotnet,"C#, F#, .NET programming",Why OO Matters (in F#),https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/
+422,Lobsters,dotnet,"C#, F#, .NET programming",New Features in C# 7.0,https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/
+423,Lobsters,dotnet,"C#, F#, .NET programming",How to securely sign .NET assemblies,https://lowleveldesign.org/2017/03/07/how-to-securely-sign-dotnet-assemblies/
+424,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core Tools 1.0,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-net-core-tools-1-0/
+425,Lobsters,dotnet,"C#, F#, .NET programming",F# 4.1 and the Visual F# Tools for Visual Studio 2017,https://blogs.msdn.microsoft.com/dotnet/2017/03/07/announcing-f-4-1-and-the-visual-f-tools-for-visual-studio-2017-2/
+426,Lobsters,dotnet,"C#, F#, .NET programming",Visual Studio 2017 released,https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/announcing-visual-studio-2017-general-availability-and-more/
+427,Lobsters,dotnet,"C#, F#, .NET programming",AtomOS: a new hobby OS from scratch in C#,https://github.com/amaneureka/AtomOS
+428,Lobsters,dotnet,"C#, F#, .NET programming",WordPress on .NET,http://www.peachpie.io/2017/02/wordpress-announcement.html
+429,Lobsters,dotnet,"C#, F#, .NET programming",Tour of F#,https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour
+430,Lobsters,dotnet,"C#, F#, .NET programming",Making Code Intelligence “just work”,https://text.sourcegraph.com/part-2-how-sourcegraph-scales-with-the-language-server-protocol-73b86175f38b
+431,Lobsters,dotnet,"C#, F#, .NET programming",You’re better off using Exceptions,https://eiriktsarpalis.wordpress.com/2017/02/19/youre-better-off-using-exceptions/
+432,Lobsters,dotnet,"C#, F#, .NET programming",65535 interfaces ought to be enough for anybody,http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/
+433,Lobsters,dotnet,"C#, F#, .NET programming",My mono porting adventure [to Haiku],http://minisoc.xyz/HaikuMono/
+434,Lobsters,dotnet,"C#, F#, .NET programming",.NET Renaissance,https://medium.com/altdotnet/net-renaissance-32f12dd72a1
+435,Lobsters,dotnet,"C#, F#, .NET programming",Getting Started with Functional Programming in F#,http://codeopinion.com/getting-started-with-functional-programming-in-f/
+436,Lobsters,dotnet,"C#, F#, .NET programming",The 68 things the CLR does before executing a single line of your code (*),http://www.mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/
+437,Lobsters,dotnet,"C#, F#, .NET programming",Actors for Go and .NET,http://proto.actor/
+438,Lobsters,dotnet,"C#, F#, .NET programming",The .NET Language Strategy,https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/
+439,Lobsters,dotnet,"C#, F#, .NET programming",Dissecting the new() constraint in C#: a perfect example of a leaky abstraction,https://blogs.msdn.microsoft.com/seteplia/2017/02/01/dissecting-the-new-constraint-in-c-a-perfect-example-of-a-leaky-abstraction/
+440,Lobsters,dotnet,"C#, F#, .NET programming",How do .NET delegates work?,http://www.mattwarren.org/2017/01/25/How-do-.NET-delegates-work/
+441,Lobsters,dotnet,"C#, F#, .NET programming",Open sourcing the VS Test platform,https://blogs.msdn.microsoft.com/bharry/2017/01/20/open-sourcing-the-vs-test-platform/
+442,Lobsters,dotnet,"C#, F#, .NET programming",Is C#7 starting to look like a functional language?,https://medium.com/@enrico.buonanno/is-c-7-starting-to-look-like-a-functional-language-d4326b427aaa
+443,Lobsters,dotnet,"C#, F#, .NET programming","How I cheated at Wordament, and won",https://blog.martindoms.com/2017/01/17/wordament-cheat-bot
+444,Lobsters,dotnet,"C#, F#, .NET programming",Analysing Pause times in the .NET GC,http://www.mattwarren.org/2017/01/13/Analysing-Pause-times-in-the-.NET-GC/
+445,Lobsters,dotnet,"C#, F#, .NET programming",What lies beneath async/await in C# ?,http://foreverframe.pl/what-lies-beneath-asyncawait-in-c/
+446,Lobsters,dotnet,"C#, F#, .NET programming",Cross-Platform Graphics in .NET Core,https://medium.com/@cameronaavik/cross-platform-graphics-in-net-core-901be29dabd7
+447,Lobsters,dotnet,"C#, F#, .NET programming",Microsoft's Scorched Earth History and The Current Crossroads,http://buff.ly/2jm2YB7
+448,Lobsters,dotnet,"C#, F#, .NET programming",The Lazy Developer’s Guide to Command Line Building with C#,https://mianlabs.com/2017/01/02/the-lazy-developers-guide-to-command-line-building-with-c/
+449,Lobsters,dotnet,"C#, F#, .NET programming",A Very Markov Christmas,http://yoloprogramming.com/post/2016/12/23/A-Very-Markov-Christmas
+450,Lobsters,dotnet,"C#, F#, .NET programming","Verbatim identifiers (or, why yield return in C# is the way it is)",https://ericlippert.com/2013/09/09/verbatim-identifiers/
+451,Lobsters,dotnet,"C#, F#, .NET programming",Code Style Configuration in the VS2017 RC Update,https://blogs.msdn.microsoft.com/dotnet/2016/12/15/code-style-configuration-in-the-vs2017-rc-update/
+452,Lobsters,dotnet,"C#, F#, .NET programming",Functional approaches to dependency injection,http://fsharpforfunandprofit.com/posts/dependency-injection-1/
+453,Lobsters,dotnet,"C#, F#, .NET programming",Project Springfield: a Cloud Service Built Entirely in F#,https://blogs.msdn.microsoft.com/dotnet/2016/12/13/project-springfield-a-cloud-service-built-entirely-in-f/
+454,Lobsters,dotnet,"C#, F#, .NET programming",PolyConf 16: A brief history of F# / Rachel Reese,https://www.youtube.com/watch?v=cbDjpi727aY
+455,Lobsters,dotnet,"C#, F#, .NET programming",F# pain points,http://www.colinbellmore.work/post/fsharp-pain/
+456,Lobsters,dotnet,"C#, F#, .NET programming",15 Years of Concurrency,http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/
+457,Lobsters,dotnet,"C#, F#, .NET programming","Succinc<T> - Discriminated unions, pattern matching and partial applications for C#",https://github.com/DavidArno/SuccincT
+458,Lobsters,dotnet,"C#, F#, .NET programming",Why F# is the best language for web scraping,http://biarity.me/2016/11/23/Why-F-is-the-best-langauge-for-web-scraping/
+459,Lobsters,dotnet,"C#, F#, .NET programming",JetBrains Rider Early Access Program is now public,https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/
+460,Lobsters,dotnet,"C#, F#, .NET programming","Visual Studio Pre-Release Downloads (Visual Studio for Mac, Visual Studio 2017 RC)",https://www.visualstudio.com/visual-studio-pre-release-downloads/
+461,Lobsters,dotnet,"C#, F#, .NET programming",F# Units of Measure,https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/units-of-measure
+462,Lobsters,dotnet,"C#, F#, .NET programming",Thinktecture RelayServer – Open Source SignalR Based API-Relay,https://github.com/thinktecture/relayserver
+463,Lobsters,dotnet,"C#, F#, .NET programming",How does the ‘fixed’ keyword work?,http://www.mattwarren.org/2016/10/26/How-does-the-fixed-keyword-work/
+464,Lobsters,dotnet,"C#, F#, .NET programming",".NET on Linux – bye, Windows 10",http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/
+465,Lobsters,dotnet,"C#, F#, .NET programming",.Net's new Span<T> memory abstraction,https://github.com/dotnet/corefxlab/blob/master/docs/Span.md
+466,Lobsters,dotnet,"C#, F#, .NET programming",Parse A Monster [nice writeup of finding a bug in .NET's CLR c++ parser],http://www.empear.com/blog/parse-a-monster/
+467,Lobsters,dotnet,"C#, F#, .NET programming",Introducing .NET Standard,https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+468,Lobsters,dotnet,"C#, F#, .NET programming",Classes for the Masses,http://www.mlworkshop.org/2016-7.pdf
+469,Lobsters,dotnet,"C#, F#, .NET programming",.Net regular expression operations in composable functions,http://verbalexpressions.github.io/FSharpVerbalExpressions/reference/fsverbalexpressions-fsregex.html
+470,Lobsters,dotnet,"C#, F#, .NET programming","Managing Complexity - Or ""Why do you code in F#?""",https://anthonylloyd.github.io/blog/2016/09/09/managing-complexity
+471,Lobsters,dotnet,"C#, F#, .NET programming",“Are empty interfaces code smell?”,https://medium.com/@ssg/are-interfaces-code-smell-bd19abc266d3
+472,Lobsters,dotnet,"C#, F#, .NET programming",What's New in C# 7.0,https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/
+473,Lobsters,dotnet,"C#, F#, .NET programming",Safe Systems Programming in C# and .NET,https://www.infoq.com/presentations/csharp-systems-programming
+474,Lobsters,dotnet,"C#, F#, .NET programming",F# for Fun and Profit,https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details
+475,Lobsters,dotnet,"C#, F#, .NET programming",Adventures in F# Performance,https://jackmott.github.io//programming/2016/08/13/adventures-in-fsharp.html
+476,Lobsters,dotnet,"C#, F#, .NET programming","Fable, F# to Javascript ""The compiler that emits JavaScript you can be proud of!""",https://fsprojects.github.io/Fable/
+477,Lobsters,dotnet,"C#, F#, .NET programming","Ulterius, complete control of your desktop — from your browser.",https://ulterius.xyz/
+478,Lobsters,dotnet,"C#, F#, .NET programming",F#: Type Providers from the Ground Up,https://www.youtube.com/watch?v=pXT0li6zxKQ
+479,Lobsters,dotnet,"C#, F#, .NET programming",Comparing Scala to F#,http://mikhail.io/2016/08/comparing-scala-to-fsharp/
+480,Lobsters,dotnet,"C#, F#, .NET programming","F# decompiled into C# (Or, what C# code do you have to write to get the same functionality as F#?)",https://fsharpforfunandprofit.com/posts/fsharp-decompiled/
+481,Lobsters,dotnet,"C#, F#, .NET programming",Avalonia - A Multi-Platform .NET UI Framework,https://github.com/AvaloniaUI/Avalonia
+482,Lobsters,dotnet,"C#, F#, .NET programming",Simple C# (around 80 LoC) for posting a tweet using OAuth; no libraries,http://blog.dantup.com/2016/07/simplest-csharp-code-to-post-a-tweet-using-oauth/
+483,Lobsters,dotnet,"C#, F#, .NET programming",Continuous - C# and F# IDE for the iPad,http://praeclarum.org/post/147003028753/continuous-c-and-f-ide-for-the-ipad
+484,Lobsters,dotnet,"C#, F#, .NET programming",Building a BitTorrent client from scratch in C#,https://cheatdeath.github.io/research-bittorrent-doc/
+485,Lobsters,dotnet,"C#, F#, .NET programming","Creating a C# (""Roslyn"") Analyser from scratch - For beginners by a beginner",http://productiverage.com/creating-a-c-sharp-roslyn-analyser-for-beginners-by-a-beginner
+486,Lobsters,dotnet,"C#, F#, .NET programming",.NET Core 1.0 released,https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0//dotnet/2016/06/27/announcing-net-core-1-0/
+487,Lobsters,dotnet,"C#, F#, .NET programming",F# Implementation of The Elm Architecture,http://anthonylloyd.github.io/blog/2016/06/20/fsharp-elm-part1
+488,Lobsters,dotnet,"C#, F#, .NET programming",Visualising the .NET Garbage Collector,http://www.mattwarren.org/2016/06/20/Visualising-the-dotNET-Garbage-Collector/
+489,Lobsters,dotnet,"C#, F#, .NET programming",Modern Dependency Injection,http://deliberate-software.com/modern-di/
+490,Lobsters,dotnet,"C#, F#, .NET programming",DaChip8JS - My C# Chip-8 Interpreter running in the browser using Bridge.NET,http://blog.dantup.com/2016/06/dachip8js-my-csharp-chip8-interpreter-running-in-the-browser/
+491,Lobsters,dotnet,"C#, F#, .NET programming",Building a Chip-8 Interpreter in C#,http://blog.dantup.com/2016/06/building-a-chip-8-interpreter-in-csharp/
+492,Lobsters,dotnet,"C#, F#, .NET programming",Tracking down a performance hit,https://codeblog.jonskeet.uk/2016/06/09/tracking-down-a-performance-hit/
+493,Lobsters,dotnet,"C#, F#, .NET programming",dotnetConf 2016,https://channel9.msdn.com/
+494,Lobsters,dotnet,"C#, F#, .NET programming",OneOf - Discriminated unions for C#,http://10printhello.com/oneof-npotw-2-of-n/
+495,Lobsters,dotnet,"C#, F#, .NET programming",Ionide and the State of F# Open Source Environment,https://www.youtube.com/watch?v=XMvSR-oRjzQ
+496,Lobsters,dotnet,"C#, F#, .NET programming",KoduStore a Minimal ORM for UWP Using LevelDB and BSON,https://github.com/maxpert/KoduStore
+497,Lobsters,dotnet,"C#, F#, .NET programming","ASP.NET Core retires ""project.json,"" moves back to MSBuild",https://twitter.com/davidfowl/status/730219570783363073
+498,Lobsters,dotnet,"C#, F#, .NET programming",.NET framework ported to NetBSD,https://github.com/dotnet/coreclr/pull/4504/files
+499,Lobsters,dotnet,"C#, F#, .NET programming",An Optimization Exercise,https://kevinmontrose.com/2016/04/26/an-optimization-exercise/
+500,Lobsters,dotnet,"C#, F#, .NET programming",JavaZone Sells Open Source in TV Parodies,http://fossforce.com/2016/04/javazone-sells-open-source-tv-parodies/
+501,Lobsters,dotnet,"C#, F#, .NET programming",The future of .NET class libraries,https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md
+502,Lobsters,dotnet,"C#, F#, .NET programming",Dr Frankenfunctor and the Monadster,https://vimeo.com/162054542
+503,Lobsters,dotnet,"C#, F#, .NET programming",csharp rules for Google's Bazel.io. - Now with Nuget package support.,https://github.com/bazelbuild/rules_dotnet
+504,Lobsters,dotnet,"C#, F#, .NET programming",Why learning Haskell/Python makes you a worse programmer (2006),http://lukeplant.me.uk/blog/posts/why-learning-haskell-python-makes-you-a-worse-programmer/
+505,Lobsters,dotnet,"C#, F#, .NET programming",Launch of the F# Speakers Program,http://foundation.fsharp.org/speakers_program_launch
+506,Lobsters,dotnet,"C#, F#, .NET programming",C◦mp◦se :: Conference - Chaos Engineering at Jet,https://www.youtube.com/watch?v=Q1tgb3m0Fy4
+507,Lobsters,dotnet,"C#, F#, .NET programming","C# 7 new features: Tuples, Records and Pattern Matching",https://www.kenneth-truyers.net/2016/01/20/new-features-in-c-sharp-7/
+508,Lobsters,dotnet,"C#, F#, .NET programming",Mono Relicensed MIT,http://www.mono-project.com/news/2016/03/31/mono-relicensed-mit/
+509,Lobsters,dotnet,"C#, F#, .NET programming",Xamarin free in Visual Studio and open sourcing Xamarin SDKs,https://blog.xamarin.com/xamarin-for-all/
+510,Lobsters,dotnet,"C#, F#, .NET programming",JavaScript for C# Developers,https://www.blewis.io/javascript-for-csharp-developers
+511,Lobsters,dotnet,"C#, F#, .NET programming",A Xamarin + Microsoft Future,https://blog.xamarin.com/a-xamarin-microsoft-future/
+512,Lobsters,dotnet,"C#, F#, .NET programming",Language Safety Score Mark 2 - Deliberate Software,http://deliberate-software.com/safety-rank-part-2/
+513,Lobsters,dotnet,"C#, F#, .NET programming",C◦mp◦se :: Conference 2015 Videos,http://www.composeconference.org/2015/summary/
+514,Lobsters,dotnet,"C#, F#, .NET programming","RestBus - Call ASP.Net Core, Web API and ServiceStack endpoints over RabbitMQ",http://restbus.org
+515,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET 5 is dead - Introducing ASP.NET Core 1.0 and .NET Core 1.0,http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx
+516,Lobsters,dotnet,"C#, F#, .NET programming",Adventures in High Speed Networking on Azure,http://www.ageofascent.com/azure-cloud-high-speed-networking/
+517,Lobsters,dotnet,"C#, F#, .NET programming",Project Rider – A C# IDE,http://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/
+518,Lobsters,dotnet,"C#, F#, .NET programming",F# Compiler Technical Overview,http://fsharp.github.io/2015/09/29/fsharp-compiler-guide.html
+519,Lobsters,dotnet,"C#, F#, .NET programming",.NET Developers – Love Thy Command Line,http://developer.telerik.com/featured/net-developers-love-thy-command-line/
+520,Lobsters,dotnet,"C#, F#, .NET programming",About Cassandra on Docker with F#,https://lenadroid.github.io/posts/cassandra-docker-fsharp.html
+521,Lobsters,dotnet,"C#, F#, .NET programming",Microservices Weekly: Weekly Newsletter on microservices news and articles from around the community,http://www.microservicesweekly.com/
+522,Lobsters,dotnet,"C#, F#, .NET programming",Functional programming: A step backward,http://www.javaworld.com/article/2078610/java-concurrency/functional-programming--a-step-backward.html
+523,Lobsters,dotnet,"C#, F#, .NET programming",In the Age of Web: Typed Functional-First Programming Revisited,http://arxiv.org/pdf/1512.01896v1.pdf
+524,Lobsters,dotnet,"C#, F#, .NET programming",OmniSharp - .NET and IntelliSense on any platform with your editor of choice,http://www.omnisharp.net/
+525,Lobsters,dotnet,"C#, F#, .NET programming",Fparsec Tutorial,http://www.quanttec.com/fparsec/tutorial.html#
+526,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Core and ASP.NET 5 RC,http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx
+527,Lobsters,dotnet,"C#, F#, .NET programming",What is the C# equivalent of map function in Haskell?,http://stackoverflow.com/questions/2142935/what-is-the-c-sharp-equivalent-of-map-function-in-haskell
+528,Lobsters,dotnet,"C#, F#, .NET programming",Is SQL a good place for business logic?,http://enterprisecraftsmanship.com/2015/11/11/is-sql-a-good-place-for-business-logic/
+529,Lobsters,dotnet,"C#, F#, .NET programming",The Ultimate Guide to Using Visual Studio on a Mac,https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac
+530,Lobsters,dotnet,"C#, F#, .NET programming",Async from the Start,https://msdn.microsoft.com/en-us/magazine/mt620013.aspx
+531,Lobsters,dotnet,"C#, F#, .NET programming",MCG: Visual Functional Programming,http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming
+532,Lobsters,dotnet,"C#, F#, .NET programming",F# Unit Testing With SimpleMock,http://steveshogren.github.io/f-number-unit-testing/
+533,Lobsters,dotnet,"C#, F#, .NET programming",Why I Left the .NET Framework,http://blog.jonathanoliver.com/why-i-left-dot-net/
+534,Lobsters,dotnet,"C#, F#, .NET programming",Essential C# 6 Features You Need to Know!,http://developer.telerik.com/featured/essential-c-6-features-you-need-to-know/
+535,Lobsters,dotnet,"C#, F#, .NET programming",An introduction to property-based testing,http://fsharpforfunandprofit.com/posts/property-based-testing/
+536,Lobsters,dotnet,"C#, F#, .NET programming",Functional Programming Design Patterns,http://fsharpforfunandprofit.com/fppatterns/
+537,Lobsters,dotnet,"C#, F#, .NET programming","DDD, Event Sourcing, and CQRS Tutorial: design",http://cqrs.nu/tutorial/cs/01-design
+538,Lobsters,dotnet,"C#, F#, .NET programming",TypeScript with Visual Studio 2015,http://developer.telerik.com/featured/typescript-with-visual-studio-2015/
+539,Lobsters,dotnet,"C#, F#, .NET programming",It Only Multiplies Three Numbers,http://simontylercousins.net/it-only-multiplies-three-numbers/
+540,Lobsters,dotnet,"C#, F#, .NET programming",Developing ASP.NET 5 Web Apps with Visual Studio Code,http://developer.telerik.com/featured/developing-asp-net-5-web-apps-with-visual-studio-code/
+541,Lobsters,dotnet,"C#, F#, .NET programming",Microsoft CoreFoundation arc4random(),https://github.com/Microsoft/WinObjC/blob/59a63e42a9d10da8aadbf8d3b6c10fd02e6b40c6/Frameworks/CoreFoundation/CFMisc.mm#L28
+542,Lobsters,dotnet,"C#, F#, .NET programming","Automated reasoning in F#, Scala, Haskell, C++, and Julia",https://phdp.github.io/posts/2015-04-05-automated-reasoning.html
+543,Lobsters,dotnet,"C#, F#, .NET programming",Understanding map and apply,http://fsharpforfunandprofit.com/posts/elevated-world/
+544,Lobsters,dotnet,"C#, F#, .NET programming","a Lobsters to Gopher proxy, for people who can't give up port 70",https://github.com/NattyNarwhal/LobsterGopher
+545,Lobsters,dotnet,"C#, F#, .NET programming",Why you should wait on upgrading to .Net 4.6,http://nickcraver.com/blog/2015/07/27/why-you-should-wait-on-dotnet-46/
+546,Lobsters,dotnet,"C#, F#, .NET programming",Killing Off Wasabi – Part 2,http://blog.fogcreek.com/killing-off-wasabi-part-2/
+547,Lobsters,dotnet,"C#, F#, .NET programming",Killing Off Wasabi,http://blog.fogcreek.com/killing-off-wasabi-part-1/
+548,Lobsters,dotnet,"C#, F#, .NET programming",Dependency Injection in ASP.NET MVC6,http://developer.telerik.com/featured/dependency-injection-in-asp-net-mvc6/
+549,Lobsters,dotnet,"C#, F#, .NET programming",5 Steps to an Ideal Windows 10 App Development Environment,http://developer.telerik.com/featured/5-steps-to-an-ideal-windows-10-app-development-environment/
+550,Lobsters,dotnet,"C#, F#, .NET programming",Why to avoid fat controllers,http://gunnarpeipman.com/2015/05/why-to-avoid-fat-controllers/
+551,Lobsters,dotnet,"C#, F#, .NET programming",When everything you know about C# finalizers is wrong,http://ericlippert.com/2015/05/18/when-everything-you-know-is-wrong-part-one/
+552,Lobsters,dotnet,"C#, F#, .NET programming",Server-side Responsive Design with ASP.NET MVC and Interchange,http://developer.telerik.com/featured/server-side-responsive-design-with-asp-net-mvc-and-interchange/
+553,Lobsters,dotnet,"C#, F#, .NET programming",Does the Language You Use Make a Difference (revisited)?,http://simontylercousins.net/does-the-language-you-use-make-a-difference-revisited/
+554,Lobsters,dotnet,"C#, F#, .NET programming",Microsoft .NET Running on FreeBSD 10.1/amd64,https://github.com/dotnet/coreclr/issues/793
+555,Lobsters,dotnet,"C#, F#, .NET programming",Exploring C# 6 Null Propagation Operator (?.),http://www.volatileread.com/Wiki/Index?id=2104
+556,Lobsters,dotnet,"C#, F#, .NET programming",How to install ASP.Net 5 on Ubuntu Linux,https://www.jeremymorgan.com/blog/programming/how-to-asp-5-linux/
+557,Lobsters,dotnet,"C#, F#, .NET programming",Open Source .NET libraries that make your life easier,http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/
+558,Lobsters,dotnet,"C#, F#, .NET programming","Mono 4.0.0 draft release notes, adopts Microsoft’s open source code",http://www.mono-project.com/docs/about-mono/releases/4.0.0/
+559,Lobsters,dotnet,"C#, F#, .NET programming",Introduction to ASP.Net 5,https://dotnetkicks.com/articles/107527
+560,Lobsters,dotnet,"C#, F#, .NET programming",MSBuild Engine is now Open Source on GitHub,http://blogs.msdn.com/b/dotnet/archive/2015/03/18/msbuild-engine-is-now-open-source-on-github.aspx
+561,Lobsters,dotnet,"C#, F#, .NET programming",When should I use the Xamarin platform for mobile development?,http://www.telerik.com/campaigns/build-mobile-apps-with-dotnet
+562,Lobsters,dotnet,"C#, F#, .NET programming",What more could Microsoft be doing to support open source projects on its platforms?,https://dotnetkicks.com/articles/106654
+563,Lobsters,dotnet,"C#, F#, .NET programming",Top 10 Changes in ASP.NET 5 and MVC 6,http://stephenwalther.com/archive/2015/02/24/top-10-changes-in-asp-net-5-and-mvc-6
+564,Lobsters,dotnet,"C#, F#, .NET programming",New C# 6.0 Features and Experimenting with them Online,http://volatileread.com/Wiki/Index?id=1075
+565,Lobsters,dotnet,"C#, F#, .NET programming",How to run ASP.NET 5 Beta 3 or GoLang on a Raspberry Pi 2 - Scott Hanselman,http://www.hanselman.com/blog/HowToRunASPNET5Beta3OrGoLangOnARaspberryPi2.aspx
+566,Lobsters,dotnet,"C#, F#, .NET programming",ASP.NET 5 - A Deep Dive into the ASP.NET 5 Runtime,https://msdn.microsoft.com/en-us/magazine/dn913182.aspx
+567,Lobsters,dotnet,"C#, F#, .NET programming",C# 6 Exception Filters and How they are much more than Syntactic Sugar,http://volatileread.com/Wiki/Index?id=1087
+568,Lobsters,dotnet,"C#, F#, .NET programming",Getting Started with Android Wearables using Xamarin and Visual Studio,http://www.geekswithblogs.net/dotNETvinz/archive/2015/02/12/getting-started-with-android-wearable-using-xamarin-and-visual-studio.aspx
+569,Lobsters,dotnet,"C#, F#, .NET programming",Optimizing Responsive Design Using RESS with ASP.Net Web Forms,http://developer.telerik.com/featured/optimizing-responsive-design-using-ress-with-asp-net-web-forms/
+570,Lobsters,dotnet,"C#, F#, .NET programming","C# Quirks, Gotchas & Pitfalls - Predict the Output challlenge",http://volatileread.com/Wiki/Index?id=1073
+571,Lobsters,dotnet,"C#, F#, .NET programming",Understanding .NET 2015,http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx
+572,Lobsters,dotnet,"C#, F#, .NET programming",Have we forgotten what constructors are for?,http://mat-mcloughlin.net/2015/02/22/have-we-forgotten-what-constructors-are-for/
+573,Lobsters,dotnet,"C#, F#, .NET programming",Dandelion: a Compiler and Runtime for Heterogeneous Systems,http://research.microsoft.com/apps/pubs/default.aspx?id=201110
+574,Lobsters,dotnet,"C#, F#, .NET programming",Create a Modern UI with UI for WPF,http://developer.telerik.com/featured/create-a-modern-ui-with-ui-for-wpf/
+575,Lobsters,dotnet,"C#, F#, .NET programming","Running Ruby on Rails on IIS8 (or anything else, really) with the new HttpPlatformHandler",http://www.hanselman.com/blog/AnnouncingRunningRubyOnRailsOnIIS8OrAnythingElseReallyWithTheNewHttpPlatformHandler.aspx
+576,Lobsters,dotnet,"C#, F#, .NET programming",Is your programming language unreasonable?,http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/
+577,Lobsters,dotnet,"C#, F#, .NET programming",CoreCLR is now open source,http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx
+578,Lobsters,dotnet,"C#, F#, .NET programming",What to Expect When Expecting MVC 6,http://developer.telerik.com/featured/expect-expecting-mvc-6/
+579,Lobsters,dotnet,"C#, F#, .NET programming",First C# 7 Design Notes,https://github.com/dotnet/roslyn/issues/98
+580,Lobsters,dotnet,"C#, F#, .NET programming","Fun with ASP.NET 5, Linux & Docker",http://blog.markrendle.net/fun-with-asp-net-5-and-docker/
+581,Lobsters,dotnet,"C#, F#, .NET programming",Three Layer Architecture in C# .NET,http://www.codeproject.com/Articles/36847/Three-Layer-Architecture-in-C-NET
+582,Lobsters,dotnet,"C#, F#, .NET programming",ASP .NET Web Api: Understanding OWIN/Katana Authentication/Authorization,http://typecastexception.com/post/2015/01/19/ASPNET-Web-Api-Understanding-OWINKatana-AuthenticationAuthorization-Part-I-Concepts.aspx
+583,Lobsters,dotnet,"C#, F#, .NET programming",DuoCode is a C#-to-JavaScript compiler powered by Microsoft Roslyn,http://duoco.de/
+584,Lobsters,dotnet,"C#, F#, .NET programming",10 Free ebooks on Windows Phone and Windows Store app development,http://superdevresources.com/free-ebooks-windows-phone-windows-store-app-development/
+585,Lobsters,dotnet,"C#, F#, .NET programming",Write C# on a Mac like a Champ!,http://developer.telerik.com/featured/write-c-mac-like-champ/
+586,Lobsters,dotnet,"C#, F#, .NET programming",Roslyn in a Nutshell,http://developer.telerik.com/featured/roslyn-nutshell/
+587,Lobsters,dotnet,"C#, F#, .NET programming",Why F# became my goto language,https://mrange.wordpress.com/2014/12/20/why-fsharp-became-my-goto-language/
+588,Lobsters,dotnet,"C#, F#, .NET programming",What's New in C# 6.0 inside Visual Studio 2015 Preview,http://developer.telerik.com/featured/whats-new-c-6-0-inside-visual-studio-2015-preview/
+589,Lobsters,dotnet,"C#, F#, .NET programming",To .NET or not to .NET: That is the Question,http://fullstack.info/to-dotnet-or-not-to-dotnet-that-is-the-question
+590,Lobsters,dotnet,"C#, F#, .NET programming",Introducing .NET Core,http://blogs.msdn.com/b/dotnet/archive/2014/12/04/introducing-net-core.aspx
+591,Lobsters,dotnet,"C#, F#, .NET programming",5 Incredible Features in the Visual Studio 2015 Preview,http://developer.telerik.com/featured/5-incredible-features-visual-studio-2015-preview/
+592,Lobsters,dotnet,"C#, F#, .NET programming","OmniSharp - Making cross-platform .NET a reality, and a pleasure",http://www.hanselman.com/blog/OmniSharpMakingCrossplatformNETARealityAndAPleasure.aspx
+593,Lobsters,dotnet,"C#, F#, .NET programming",Building Dating Site at HappyPancake,http://abdullin.com/long/happypancake/
+594,Lobsters,dotnet,"C#, F#, .NET programming",C# and .NET's Sudden Ubiquity,http://www.drdobbs.com/windows/c-and-nets-sudden-ubiquity/240169282
+595,Lobsters,dotnet,"C#, F#, .NET programming",The Future of .NET,http://developer.telerik.com/featured/future-net/
+596,Lobsters,dotnet,"C#, F#, .NET programming",Building C#/ASP.NET apps on a Mac with vNext,https://www.jeremymorgan.com/tutorials/vnext/how-to-build-c-sharp-on-mac-osx/
+597,Lobsters,dotnet,"C#, F#, .NET programming",Microsoft Open Sources .NET and Mono,http://tirania.org/blog/archive/2014/Nov-12.html
+598,Lobsters,dotnet,"C#, F#, .NET programming",Windows 10 - What's In It for Developers?,http://developer.telerik.com/featured/windows-10-whats-developers/
+599,Lobsters,dotnet,"C#, F#, .NET programming",mBaaS Isn't Just for JavaScript,http://developer.telerik.com/featured/mbaas-isnt-just-javascript-visual-studio-telerik-data-storage/
+600,Lobsters,dotnet,"C#, F#, .NET programming",The Great Unicorn Hunt,https://www.jeremymorgan.com/blog/programming/the-great-unicorn-hunt/
+601,Lobsters,dotnet,"C#, F#, .NET programming",Grunt and Uglify Your WebForms with Task Runner Explorer,http://developer.telerik.com/featured/grunt-uglify-webforms-task-runner-explorer/
+602,Lobsters,dotnet,"C#, F#, .NET programming",Rethinking IEnumerable<T>,http://blog.paranoidcoding.com/2014/08/19/rethinking-enumerable.html
+603,Lobsters,dotnet,"C#, F#, .NET programming",5 Killer Productivity Features in Visual Studio 2013,http://developer.telerik.com/featured/5-features-dont-want-miss-visual-studio-2013/
+604,Lobsters,dotnet,"C#, F#, .NET programming","The scope of the C# checked/unchecked keyword is static, not dynamic",http://blogs.msdn.com/b/oldnewthing/archive/2014/08/15/10550205.aspx
+605,Lobsters,dotnet,"C#, F#, .NET programming",Race conditions in operator +=,http://blogs.msdn.com/b/oldnewthing/archive/2014/08/14/10549885.aspx
+606,Lobsters,dotnet,"C#, F#, .NET programming",Reverse engineering a compromised TOR browser bundle,http://dustri.org/b/torbundlebrowserorg.html
+607,Lobsters,dotnet,"C#, F#, .NET programming",The time I found a CLR bug and fixed it by hand-altering the DLL.,http://blog.nullspace.io/clr-bug.html
+608,Lobsters,dotnet,"C#, F#, .NET programming",Server Side Responsive Layouts in ASP.NET AJAX,http://developer.telerik.com/featured/server-side-responsive-layouts-asp-net-ajax/
+609,Lobsters,dotnet,"C#, F#, .NET programming",Integrating ASP.NET with a 3rd Party Security Service,http://developer.telerik.com/featured/making-security-work-integrating-asp-net-3rd-party-security-service/
+610,Lobsters,dotnet,"C#, F#, .NET programming",BDDfy your browser testing with FluentAutomation,http://blog.chatekar.com/bddfy-your-browser-automation-with-fluentautomation/
+611,Lobsters,dotnet,"C#, F#, .NET programming",Program with a Piano: A melody in the key of C# minor that's a valid C# program,http://elekslabs.com/2014/06/programming-on-a-keyboard-a-piano-keyboard.html
+612,Lobsters,dotnet,"C#, F#, .NET programming",Railway oriented programming,http://fsharpforfunandprofit.com/posts/recipe-part2/
+613,Lobsters,dotnet,"C#, F#, .NET programming",Biggy: Interface Semantics and The Interface Segregation Principle,http://typecastexception.com/post/2014/05/19/Biggy-Interface-Semantics-and-The-Interface-Segregation-Principle.aspx
+614,Lobsters,dotnet,"C#, F#, .NET programming",Inverted Polymorphism With Pattern Matching,http://deliberate-software.com/inversed-polymorphism/
+615,Lobsters,dotnet,"C#, F#, .NET programming",C# Algorithmic Trading Backtesting Platform,https://www.quantconnect.com/blog/new-html5-ide-and-community-discussion-feed/
+616,Lobsters,dotnet,"C#, F#, .NET programming",Type Safe Printf via Type Providers (F#),http://blog.mavnn.co.uk/type-safe-printf-via-type-providers/
+617,Lobsters,dotnet,"C#, F#, .NET programming",Pattern Matching - Make the Compiler Work for You,http://deliberate-software.com/function-pattern-matching/
+618,Lobsters,dotnet,"C#, F#, .NET programming",F* released with Apache2 license,https://github.com/nikswamy/FStar
+619,Lobsters,dotnet,"C#, F#, .NET programming",.NET Reference Source,http://referencesource.microsoft.com/
+620,Lobsters,dotnet,"C#, F#, .NET programming",Mono and Roslyn,http://tirania.org/blog/archive/2014/Apr-09.html
+621,Lobsters,dotnet,"C#, F#, .NET programming",Better dictionary types,http://bugsquash.blogspot.com/2014/03/better-dictionary-types.html
+622,Lobsters,dotnet,"C#, F#, .NET programming",Roslyn C# Compiler Is Open Source,http://roslyn.codeplex.com/
+623,Lobsters,dotnet,"C#, F#, .NET programming","Project ""Orleans"" Samples and CTP",https://orleans.codeplex.com/
+624,Lobsters,dotnet,"C#, F#, .NET programming",Announcing .NET Native Preview,http://blogs.msdn.com/b/dotnet/archive/2014/04/02/announcing-net-native-preview.aspx
+625,Lobsters,dotnet,"C#, F#, .NET programming",C# Brain Teasers (Interactive),http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2
+626,Lobsters,dotnet,"C#, F#, .NET programming",How to Learn Computer Programming,http://www.jeremymorgan.com/blog/programming/how-to-start-programming-for-free/
+627,Lobsters,dotnet,"C#, F#, .NET programming",Orleans: a Platform for Cloud Computing (used in Halo 4),http://research.microsoft.com/en-us/projects/orleans/
+628,Lobsters,dotnet,"C#, F#, .NET programming",Production Debugging: A story about “Exception code: 0xe053534f”,http://blog.fogcreek.com/production-debugging-a-story-about-exception-code-0xe053534f/
+629,Lobsters,dotnet,"C#, F#, .NET programming",FAKE - F# Make - A DSL for build tasks,http://fsharp.github.io/FAKE/
+630,Lobsters,dotnet,"C#, F#, .NET programming",RemObjects Software,http://www.remobjects.com/elements/hydrogene/frameworks.aspx
+631,Lobsters,dotnet,"C#, F#, .NET programming",C# Pad -- Interactive C# REPL,http://csharppad.com
+632,Lobsters,dotnet,"C#, F#, .NET programming",Running SDRSharp on Mac OS X,http://jasiek.me/2014/02/22/running-sdrsharp-on-mac-os-x.html
+633,Lobsters,dotnet,"C#, F#, .NET programming",Introducing Windows Azure WebJobs,http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx
+634,Lobsters,dotnet,"C#, F#, .NET programming",Go's 'defer' in C#,http://sparkle.quora.com/Gos-defer-in-C
+635,Lobsters,dotnet,"C#, F#, .NET programming",CudaSharp,https://github.com/khyperia/CudaSharp
+636,Lobsters,dotnet,"C#, F#, .NET programming",scriptcs - Write C# scripts in your favorite text editor,http://scriptcs.net/
+637,Lobsters,dotnet,"C#, F#, .NET programming",C# for Systems Programming,http://joeduffyblog.com/
+638,Lobsters,dotnet,"C#, F#, .NET programming",octokit.net,https://github.com/octokit/octokit.net
+639,Lobsters,dotnet,"C#, F#, .NET programming",Run .NET and Node.js code in-process with Edge.js,http://www.infoq.com/articles/the_edge_of_net_and_node

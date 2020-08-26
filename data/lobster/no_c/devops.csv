@@ -1,0 +1,1251 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,devops,DevOps,"Building a Modern Backend with TypeScript, PostgreSQL and Prisma: REST API, Validation, and Testing",https://www.prisma.io/blog/modern-backend-2-dcba1ps7kip3/
+2,Lobsters,devops,DevOps,dive: A tool for exploring container images to optimise image size,https://github.com/wagoodman/dive
+3,Lobsters,devops,DevOps,Zero-Downtime Kubernetes Deployments,https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
+4,Lobsters,devops,DevOps,Pilo: Raspberry Pi Powered Lights-Out Remote Server Management for $60 or less,https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html
+5,Lobsters,devops,DevOps,How to conduct a System Design Interview,https://robertovitillo.com/how-to-conduct-a-system-design-interview/
+6,Lobsters,devops,DevOps,Creative uses of ALIAS records in PowerDNS,https://www.datafaber.com/2020/08/creative-uses-of-alias-records-in-powerdns/
+7,Lobsters,devops,DevOps,A deep dive into the official Docker image for Python,https://pythonspeed.com/articles/official-python-docker-image/
+8,Lobsters,devops,DevOps,"Build Your Own PaaS with Crossplane: Kubernetes, OAM, and Core Workflows",https://www.infoq.com/articles/crossplane-paas-kubernetes/
+9,Lobsters,devops,DevOps,What is DevOps? Research and Solutions,https://cloud.google.com/devops
+10,Lobsters,devops,DevOps,There is always an existing system your code has to fit into,https://threadreaderapp.com/thread/1287277306441011201.html
+11,Lobsters,devops,DevOps,The easiest way to create your own Nix channel,https://lucperkins.dev/blog/nix-channel/
+12,Lobsters,devops,DevOps,A Nix overlay for Emacs 27 with the 'emacs-mac' patches,https://cmacr.ae/post/2020-08-12-a-nix-overlay-for-emacs-27-mac/
+13,Lobsters,devops,DevOps,Why SREs Should be Responsible for Development Environments,https://kelda.io/blog/sres-should-manage-development-environments/
+14,Lobsters,devops,DevOps,bash Environmental Variables Override,https://jjasghar.github.io/blog/2020/08/06/bash-environmental-variables-override/
+15,Lobsters,devops,DevOps,"""Cloud-like"" Infrastructure at Home - Part 1: LoadBalancers on the Metal",https://cmacr.ae/post/2020-08-10-cloud-like-infra-at-home-part-1/
+16,Lobsters,devops,DevOps,"Options for packaging your Python code: Wheels, Conda, Docker, and more",https://pythonspeed.com/articles/distributing-software/
+17,Lobsters,devops,DevOps,"Announcing Clutch, the Open-source Platform for Infrastructure Tooling",https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713
+18,Lobsters,devops,DevOps,WarsawJS Meetup #72 Online,https://www.meetup.com/WarsawJS/events/267830160/
+19,Lobsters,devops,DevOps,Unbundling Data Science Workflows with Metaflow and AWS Step Functions,https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280
+20,Lobsters,devops,DevOps,Building dashboards for operational visibility,https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/
+21,Lobsters,devops,DevOps,Container Security,https://tldrsec.com/blog/container-security/
+22,Lobsters,devops,DevOps,Introducing Open Service Mesh,https://openservicemesh.io/blog/introducing-open-service-mesh/
+23,Lobsters,devops,DevOps,Questionable Advice: “What’s the critical path?”,https://charity.wtf/2020/07/24/questionable-advice-whats-the-critical-path/
+24,Lobsters,devops,DevOps,Optimizing a dockerfile,https://blog.vcarl.com/optimizing-docker/
+25,Lobsters,devops,DevOps,9pfsPkg: Network Boot from Bell Labs,https://retrage.github.io/2020/08/01/9pfspkg-en.html
+26,Lobsters,devops,DevOps,"Building a Modern Backend with TypeScript, PostgreSQL and Prisma: REST API, Validation, and Testing",https://www.prisma.io/blog/modern-backend-2-dcba1ps7kip3/
+27,Lobsters,devops,DevOps,dive: A tool for exploring container images to optimise image size,https://github.com/wagoodman/dive
+28,Lobsters,devops,DevOps,Zero-Downtime Kubernetes Deployments,https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
+29,Lobsters,devops,DevOps,Pilo: Raspberry Pi Powered Lights-Out Remote Server Management for $60 or less,https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html
+30,Lobsters,devops,DevOps,How to conduct a System Design Interview,https://robertovitillo.com/how-to-conduct-a-system-design-interview/
+31,Lobsters,devops,DevOps,Creative uses of ALIAS records in PowerDNS,https://www.datafaber.com/2020/08/creative-uses-of-alias-records-in-powerdns/
+32,Lobsters,devops,DevOps,A deep dive into the official Docker image for Python,https://pythonspeed.com/articles/official-python-docker-image/
+33,Lobsters,devops,DevOps,"Build Your Own PaaS with Crossplane: Kubernetes, OAM, and Core Workflows",https://www.infoq.com/articles/crossplane-paas-kubernetes/
+34,Lobsters,devops,DevOps,What is DevOps? Research and Solutions,https://cloud.google.com/devops
+35,Lobsters,devops,DevOps,There is always an existing system your code has to fit into,https://threadreaderapp.com/thread/1287277306441011201.html
+36,Lobsters,devops,DevOps,The easiest way to create your own Nix channel,https://lucperkins.dev/blog/nix-channel/
+37,Lobsters,devops,DevOps,A Nix overlay for Emacs 27 with the 'emacs-mac' patches,https://cmacr.ae/post/2020-08-12-a-nix-overlay-for-emacs-27-mac/
+38,Lobsters,devops,DevOps,Why SREs Should be Responsible for Development Environments,https://kelda.io/blog/sres-should-manage-development-environments/
+39,Lobsters,devops,DevOps,bash Environmental Variables Override,https://jjasghar.github.io/blog/2020/08/06/bash-environmental-variables-override/
+40,Lobsters,devops,DevOps,"""Cloud-like"" Infrastructure at Home - Part 1: LoadBalancers on the Metal",https://cmacr.ae/post/2020-08-10-cloud-like-infra-at-home-part-1/
+41,Lobsters,devops,DevOps,"Options for packaging your Python code: Wheels, Conda, Docker, and more",https://pythonspeed.com/articles/distributing-software/
+42,Lobsters,devops,DevOps,"Announcing Clutch, the Open-source Platform for Infrastructure Tooling",https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713
+43,Lobsters,devops,DevOps,WarsawJS Meetup #72 Online,https://www.meetup.com/WarsawJS/events/267830160/
+44,Lobsters,devops,DevOps,Unbundling Data Science Workflows with Metaflow and AWS Step Functions,https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280
+45,Lobsters,devops,DevOps,Building dashboards for operational visibility,https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/
+46,Lobsters,devops,DevOps,Container Security,https://tldrsec.com/blog/container-security/
+47,Lobsters,devops,DevOps,Introducing Open Service Mesh,https://openservicemesh.io/blog/introducing-open-service-mesh/
+48,Lobsters,devops,DevOps,Questionable Advice: “What’s the critical path?”,https://charity.wtf/2020/07/24/questionable-advice-whats-the-critical-path/
+49,Lobsters,devops,DevOps,Optimizing a dockerfile,https://blog.vcarl.com/optimizing-docker/
+50,Lobsters,devops,DevOps,9pfsPkg: Network Boot from Bell Labs,https://retrage.github.io/2020/08/01/9pfspkg-en.html
+51,Lobsters,devops,DevOps,Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website,https://www.dropbox.com/s/g40kvbyxqhn4h72/fbr.pdf?dl=0
+52,Lobsters,devops,DevOps,A tableau of crimes and misfortunes: the ever-useful `docker history`,https://pythonspeed.com/articles/docker-history/
+53,Lobsters,devops,DevOps,"Securing Your Terraform Pipelines with Conftest, Regula, and OPA",https://dev.to/prince_of_pasta/securing-your-terraform-pipelines-with-conftest-regula-and-opa-4hkh
+54,Lobsters,devops,DevOps,How we migrated Dropbox from Nginx to Envoy,https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
+55,Lobsters,devops,DevOps,SLOs That Lie,https://blog.last9.io/slos-that-lie/
+56,Lobsters,devops,DevOps,SRE Tooling - the Clever Hans fallacy,https://blog.last9.io/sre-tooling-clever-hans-fallacy/
+57,Lobsters,devops,DevOps,The Mythical DevOps Engineer,https://dev.to/alediaferia/the-mythical-devops-engineer-n-611
+58,Lobsters,devops,DevOps,TravisCI: Deploying to server using SSH,https://blog.vnandag.me/2020/travisci-ssh-deploy/
+59,Lobsters,devops,DevOps,Remake - GNU Make with comprehensible tracing and a debugger,http://bashdb.sourceforge.net/remake/
+60,Lobsters,devops,DevOps,A single-node Kubernetes cluster without virtualization or a container registry,https://notes.eatonphil.com/a-single-node-kubernetes-cluster-without-virtualization-or-a-container-registry.html
+61,Lobsters,devops,DevOps,Ansible-defined Homelab,https://0xc45.com/blog/ansible-defined-homelab/
+62,Lobsters,devops,DevOps,Ground Control to Major TOML: Why Buildpacks Use a Most Peculiar Format,https://blog.heroku.com/why-buildpacks-use-toml
+63,Lobsters,devops,DevOps,SCP user's migration guide to rsync,https://fedoramagazine.org/scp-users-migration-guide-to-rsync/
+64,Lobsters,devops,DevOps,"Test-Driven Security with StackHawk, Travis-CI, and Docker Compose",https://www.stackhawk.com/blog/test-driven-security-with-travis-ci-and-docker-compose/
+65,Lobsters,devops,DevOps,"Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD",https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/
+66,Lobsters,devops,DevOps,Kubectl - configuration,https://knowledgepill.it/posts/kubernetes-kubectl-client-config/
+67,Lobsters,devops,DevOps,Making Time to Save You Time: How We Sped Up Time-Related Syscalls on Dynos,https://blog.heroku.com/clocksource-tuning
+68,Lobsters,devops,DevOps,Trace Context,https://www.w3.org/TR/trace-context/
+69,Lobsters,devops,DevOps,What has your experience with Kubernetes been like?,/s/kx1jj4/what_has_your_experience_with_kubernetes
+70,Lobsters,devops,DevOps,An introduction to Linux kernel initcalls,https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/
+71,Lobsters,devops,DevOps,"Etcd, or, why modern software makes me sad",https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/
+72,Lobsters,devops,DevOps,"A conversation with Luke Hoban, co-founder of TypeScript, CTO of Pulumi",https://about.sourcegraph.com/podcast/luke-hoban
+73,Lobsters,devops,DevOps,Automating Network Devices with Ansible,https://fedoramagazine.org/automating-network-devices-with-ansible/
+74,Lobsters,devops,DevOps,"Hey, Back Off",https://orbifold.xyz/back-off.html
+75,Lobsters,devops,DevOps,WireGuard on Kubernetes with Adblocking,https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/
+76,Lobsters,devops,DevOps,Learn how to set SLOs,https://cloud.google.com/blog/products/management-tools/practical-guide-to-setting-slos
+77,Lobsters,devops,DevOps,Continuous Deployment to Kubernetes with Gitea and Drone,https://christine.website/blog/drone-kubernetes-cd-2020-07-10
+78,Lobsters,devops,DevOps,Easy & Flexible Alerting With Elasticsearch,https://elastalert.readthedocs.io/
+79,Lobsters,devops,DevOps,DIY SSH Bastion Host,https://smallstep.com/blog/diy-ssh-bastion-host/
+80,Lobsters,devops,DevOps,CML - Continuous Integration for Machine Learning,https://cml.dev/
+81,Lobsters,devops,DevOps,"A Terrible, Horrible, No-Good, Very Bad Day at Slack",https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82
+82,Lobsters,devops,DevOps,Making self-hosting user friendly,/s/8qlpq3/making_self_hosting_user_friendly
+83,Lobsters,devops,DevOps,My Zola (static site generator) Workflow,https://0xc45.com/blog/my-zola-workflow/
+84,Lobsters,devops,DevOps,What My Bike Accident Taught Me About DevOps (2018),http://www.anniehedgie.com/bike-accident
+85,Lobsters,devops,DevOps,SRE error budgets and maintenance windows,https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows
+86,Lobsters,devops,DevOps,SSH emergency access using security keys,https://smallstep.com/blog/ssh-emergency-access/
+87,Lobsters,devops,DevOps,Riding the Tiger: Lessons Learned Implementing Istio,https://zwischenzugs.com/2020/05/05/riding-the-tiger-lessons-learned-implementing-istio/
+88,Lobsters,devops,DevOps,Where’s your code? Debugging ImportErrors in your Docker image,https://pythonspeed.com/articles/importerror-docker/
+89,Lobsters,devops,DevOps,Operating via development,https://www.theerlangelist.com/article/operating_via_development
+90,Lobsters,devops,DevOps,The Runbooks Project,https://zwischenzugs.com/2020/06/25/the-runbooks-project/
+91,Lobsters,devops,DevOps,Cross-Cluster Traffic Mirroring with Istio,https://tech.trivago.com/2020/06/10/cross-cluster-traffic-mirroring-with-istio/
+92,Lobsters,devops,DevOps,How many AWS services do you need to host a static webpage? (2/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-2-2-aa619fc99fc2
+93,Lobsters,devops,DevOps,"Spooky action at a distance, how an AWS outage ate our load balancer",https://www.hostedgraphite.com/blog/spooky-action-at-a-distance-how-an-aws-outage-ate-our-load-balancer
+94,Lobsters,devops,DevOps,"How to reclaim disk space used by docker (volumes), but keep a few important ones",https://domm.plix.at/perl/2020_06_docker_prune_volumes_by_label.html
+95,Lobsters,devops,DevOps,How many AWS services do you need to host a static webpage? (1/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-1-2-b811929a9436
+96,Lobsters,devops,DevOps,Will WebSocket survive HTTP/2?,https://www.infoq.com/articles/websocket-and-http2-coexist/
+97,Lobsters,devops,DevOps,What's New in Salt 3001 Sodium,https://salt.tips/whats-new-in-salt-sodium/
+98,Lobsters,devops,DevOps,Building a Distributed Column Store for Production Observability,https://www.youtube.com/watch?v=EMFKVimuyhQ
+99,Lobsters,devops,DevOps,MetricsDB: TimeSeries Database for storing metrics at Twitter,https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html
+100,Lobsters,devops,DevOps,Using kubectl via an SSH Tunnel,https://blog.scottlowe.org/2020/06/16/using-kubectl-via-an-ssh-tunnel/
+101,Lobsters,devops,DevOps,Keeping Track of Certificate Expiry with a JWKS to iCalendar Converter,https://www.jvt.me/posts/2020/06/14/track-certificate-expiry-jwks-ical/
+102,Lobsters,devops,DevOps,Urbit In The Cloud,https://zalberico.com/essay/2020/06/06/urbit-on-the-cloud.html
+103,Lobsters,devops,DevOps,Trying Ansible alternatives in python,http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html
+104,Lobsters,devops,DevOps,SRE principles in practice for business continuity,https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity
+105,Lobsters,devops,DevOps,Tool to provide basic curl-like functionality with AWS IAM authentication and SOCKS support,https://github.com/elpy1/swurl
+106,Lobsters,devops,DevOps,First new Docker release under Mirantis appears,https://www.zdnet.com/article/first-new-docker-release-under-mirantis-appears/
+107,Lobsters,devops,DevOps,Decentralized Web Developer Report 2020,https://medium.com/fluence-network/decentralized-web-developer-report-2020-5b41a8d86789
+108,Lobsters,devops,DevOps,Container technologies at Coinbase: Why Kubernetes is not part of our stack,https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c
+109,Lobsters,devops,DevOps,Deploying This Site with IPFS and Scheme,https://elais.codes/deploying-this-site-with-ipfs-and-scheme.html
+110,Lobsters,devops,DevOps,Why you should try pyinfra,https://pointlessramblings.com/posts/Why_You_Should_Try_pyinfra/
+111,Lobsters,devops,DevOps,Chaos Engineering and Continuous Verification in Production,https://launchdarkly.com/blog/chaos-engineering-and-continuous-verification-in-production/
+112,Lobsters,devops,DevOps,Tools to Help Automate Your Workflows,https://vsupalov.com/automation-tools/
+113,Lobsters,devops,DevOps,DevSecOps is the Krav Maga of Security (2016),https://www.devsecops.org/blog/2016/9/8/devsecops-is-the-krav-maga-of-security
+114,Lobsters,devops,DevOps,Using SRE to meet reliability challenges,https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles
+115,Lobsters,devops,DevOps,One Minute Presubmits,https://docs.google.com/presentation/d/14dxac2omYI5Feaoiw-u09qB1fQgJU7ASNJag7YMg3TI/edit#slide=id.g61b36395ff_1_0
+116,Lobsters,devops,DevOps,Adding Fun to the Configuration Burden,https://tech.fretlink.com/adding-fun-to-the-configuration-burden/
+117,Lobsters,devops,DevOps,Passing the CKAD,https://alta3.com/blog/passing-the-ckad
+118,Lobsters,devops,DevOps,AWS services explained in one line each,https://adayinthelifeof.nl/2020/05/20/aws.html
+119,Lobsters,devops,DevOps,Programming inside a container,https://lemire.me/blog/2020/05/22/programming-inside-a-container/
+120,Lobsters,devops,DevOps,logfmt — a structure log format,https://www.brandur.org/logfmt
+121,Lobsters,devops,DevOps,acme-redirect: easy to use acmev2 daemon in rust,https://github.com/kpcyrd/acme-redirect
+122,Lobsters,devops,DevOps,What Is Nix,https://engineering.shopify.com/blogs/engineering/what-is-nix
+123,Lobsters,devops,DevOps,Security scanners for Python and Docker: from code to dependencies,https://pythonspeed.com/articles/docker-python-security-scan/
+124,Lobsters,devops,DevOps,SSH Agent Explained,https://smallstep.com/blog/ssh-agent-explained/
+125,Lobsters,devops,DevOps,Allocatable memory and CPU in Kubernetes Nodes,https://learnk8s.io/allocatable-resources
+126,Lobsters,devops,DevOps,Assess the Security of Your Kubernetes Workloads,https://www.octarinesec.com/solution-item/kube-scan/
+127,Lobsters,devops,DevOps,How your org predicts your CI/CD pipeline,https://info.acloud.guru/resources/brazeal-how-your-org-predicts-your-ci/cd-pipeline
+128,Lobsters,devops,DevOps,Using Terraform to integrate Datadog and AWS,https://tech.scribd.com/blog/2020/managing-datadog-aws-with-terraform.html
+129,Lobsters,devops,DevOps,How I switched from classic hosting to Kubernetes,http://blog.cyborch.com/how-i-switched-to-kubernetes/
+130,Lobsters,devops,DevOps,Diagram as Code for prototyping cloud system architectures,https://github.com/mingrammer/diagrams
+131,Lobsters,devops,DevOps,Some Ops Lessons from Hosting a Static Website on Google Cloud Storage,https://www.johnbcoughlin.com/posts/gcs-ops-lessons/
+132,Lobsters,devops,DevOps,Putting Security into The IaC Pipeline,https://medium.com/swlh/putting-security-into-the-iac-pipeline-4de98f88ad24
+133,Lobsters,devops,DevOps,Managing Firefox on macOS with Nix,https://cmacr.ae/post/2020-05-09-managing-firefox-on-macos-with-nix/
+134,Lobsters,devops,DevOps,xxh: use your favorite shell through ssh,https://github.com/xxh/xxh
+135,Lobsters,devops,DevOps,OpenTelemetry is Officially in Beta,https://medium.com/opentelemetry/opentelemetry-is-officially-in-beta-352fa859db10
+136,Lobsters,devops,DevOps,"Migrating to Biff, a self-hosted Firebase alternative for Clojure",https://findka.com/blog/migrating-to-biff/
+137,Lobsters,devops,DevOps,Incremental testing: save time and money on CI for monorepo,https://ashishb.net/tech/incremental-testing-save-time-and-money-on-ci-for-monorepo/
+138,Lobsters,devops,DevOps,11 DevOps lessons from My Little Pony,https://opensource.com/article/20/5/devops-lessons
+139,Lobsters,devops,DevOps,Throttling Ansibles local_action module,https://alta3.com/blog/throttling-ansibles-localaction-module
+140,Lobsters,devops,DevOps,CVE: SaltStack authorization bypass,https://labs.f-secure.com/advisories/saltstack-authorization-bypass
+141,Lobsters,devops,DevOps,Creating a CircleCI orb to authenticate a user during a build,http://www.mooreds.com/wordpress/archives/3340
+142,Lobsters,devops,DevOps,Storage Systems for Cheap but Capable Bastards,https://securedata.fyi/2020-05-01-storage-choices/
+143,Lobsters,devops,DevOps,Recovering a Linux root password,https://medium.com/better-programming/save-your-linux-machine-from-certain-death-24ced335d969
+144,Lobsters,devops,DevOps,Infrastructure monitoring with Prometheus at Zerodha,https://zerodha.tech/blog/infra-monitoring-at-zerodha/
+145,Lobsters,devops,DevOps,"HashiCorp Vault is Overhyped, and Mozilla SOPS with KMS and Git is Massively Underrated",https://oteemo.com/2019/06/20/hashicorp-vault-is-overhyped-and-mozilla-sops-with-kms-and-git-is-massively-underrated/
+146,Lobsters,devops,DevOps,Backup Heroku Postgres Database to an Encrypted AWS S3 Bucket,https://pawelurbanek.com/heroku-postgresql-s3-backup
+147,Lobsters,devops,DevOps,"Rolling out the ""push train""",https://rachelbythebay.com/w/2020/04/29/rel/
+148,Lobsters,devops,DevOps,SSH hacks | a little sanity for remote workers,https://smallstep.com/blog/ssh-tricks-and-tips/
+149,Lobsters,devops,DevOps,Automatic build time metadata generator for ELB ping endpoints and other sanity,https://robacarp.io/2019/09/02/metadata_endpoint.html
+150,Lobsters,devops,DevOps,Any good tools to analyze results of Github Actions,/s/2vxnpg/any_good_tools_analyze_results_github
+151,Lobsters,devops,DevOps,A spreadsheet to control your Kubernetes cluster,https://github.com/learnk8s/xlskubectl
+152,Lobsters,devops,DevOps,What I learned working with a cheap Kubernetes cluster,https://port8080.sh/posts/what-i-learned-working-with-a-cheap-kubernetes-cluster/
+153,Lobsters,devops,DevOps,Releasing software to the fleet far too quickly broke stuff,http://rachelbythebay.com/w/2020/04/23/rel/
+154,Lobsters,devops,DevOps,Powering Up Your Unity Game Development with DevOps: Docker + GitLab + Discord,https://gamejolt.com/games/talesofkulplex/313193/devlog/tales-of-kulplex-devlog-9-powering-up-your-unity-game-developme-vbs2ft8u
+155,Lobsters,devops,DevOps,Upgrading PostgreSQL from version 11 to 12 on Ubuntu 20.04 (Focal Fossa),https://www.paulox.net/2020/04/24/upgrading-postgresql-from-version-11-to-12-on-ubuntu-20-04-focal-fossa/
+156,Lobsters,devops,DevOps,Writing Custom Terraform Providers,https://www.terraform.io/docs/extend/writing-custom-providers.html
+157,Lobsters,devops,DevOps,Secure EC2 SSH Access for Dynamic IP with Ephemeral Security Groups,https://pawelurbanek.com/ec2-ssh-dynamic-access
+158,Lobsters,devops,DevOps,Paketo Buildpacks,https://paketo.io/
+159,Lobsters,devops,DevOps,Building on solid ground: ensuring reproducible Docker builds for Python,https://pythonspeed.com/articles/reproducible-docker-builds-python/
+160,Lobsters,devops,DevOps,SLOs Are the API for Your Engineering Team,https://www.infoq.com/articles/slos-engineering-team-API/
+161,Lobsters,devops,DevOps,Simulating Clock Skew in K8s Without Affecting Other Containers on the Node,https://pingcap.com/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node/
+162,Lobsters,devops,DevOps,How to deploy side projects as web services for free,https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free/
+163,Lobsters,devops,DevOps,DIY Single Sign-On for SSH,https://smallstep.com/blog/diy-single-sign-on-for-ssh/
+164,Lobsters,devops,DevOps,New implementation of Dhall for Java and Scala,https://github.com/travisbrown/dhallj
+165,Lobsters,devops,DevOps,Serving Models with Seldon,https://ruivieira.dev/serving-models-with-seldon.html
+166,Lobsters,devops,DevOps,gkrizek/bash-lambda-layer -- Run Bash scripts in AWS Lambda via Layers,https://github.com/gkrizek/bash-lambda-layer
+167,Lobsters,devops,DevOps,Docker 101: A basic web-server displaying hello world,https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/
+168,Lobsters,devops,DevOps,"Adams – Ansible killer, written in Common Lisp was released today",https://github.com/cl-adams/adams
+169,Lobsters,devops,DevOps,Kernel debugging in seconds with Vagrant,https://secret.club/2020/04/10/kernel_debugging_in_seconds.html
+170,Lobsters,devops,DevOps,Nuster v5.0.0.21 released. A web cache server based on HAProxy,https://github.com/jiangwenyuan/nuster
+171,Lobsters,devops,DevOps,New Google SRE book: Building Secure and Reliable Systems,https://landing.google.com/sre/books/
+172,Lobsters,devops,DevOps,Can you suggest an open source video conferencing server solution?,/s/crmr3i/can_you_suggest_open_source_video
+173,Lobsters,devops,DevOps,Spliffs and submarines: the two cultures and the state of DevOps,https://bitfieldconsulting.com/blog/state-of-devops
+174,Lobsters,devops,DevOps,"At Uber, we're moving many of our microservices to ""macroservices""",https://twitter.com/gergelyorosz/status/1247132806041546754
+175,Lobsters,devops,DevOps,Best Practices in Automated Systems Administration and Infrastructure Architecture,http://www.infrastructures.org/
+176,Lobsters,devops,DevOps,Deploys at Slack,https://slack.engineering/deploys-at-slack-cd0d28c61701
+177,Lobsters,devops,DevOps,Sending my alerts directly to the keyboard,https://blog.cynthia.re/post/keyboard-alerts
+178,Lobsters,devops,DevOps,February service disruptions post-incident analysis,https://github.blog/2020-03-26-february-service-disruptions-post-incident-analysis/
+179,Lobsters,devops,DevOps,"Pull based, language agnostic exception aggregator for microservice environments",https://github.com/soundcloud/periskop
+180,Lobsters,devops,DevOps,"Build secrets in Docker Compose, the secure way",https://pythonspeed.com/articles/build-secrets-docker-compose/
+181,Lobsters,devops,DevOps,An SRE's guide to Memcached for building scalable applications,https://opensource.com/article/20/3/sre-memcached
+182,Lobsters,devops,DevOps,Observations on ARM64 & AWS’s Amazon EC2 M6g Instances,https://www.honeycomb.io/blog/observations-on-arm64-awss-amazon-ec2-m6g-instances/
+183,Lobsters,devops,DevOps,Discord Incident Report (March 16 Outage),https://status.discordapp.com/incidents/62gt9cgjwdgf
+184,Lobsters,devops,DevOps,VS Code’s Docker extension generates insecure and broken images,https://pythonspeed.com/articles/vscode-broken-docker/
+185,Lobsters,devops,DevOps,Template repository for starting a project on Go + Docker + Google cloud stack,https://github.com/ashishb/golang-template-repo
+186,Lobsters,devops,DevOps,Get unstuck on your infrastructure choices,http://madhadron.com/posts/choosing_your_base_stack.html
+187,Lobsters,devops,DevOps,An AWS Elasticsearch Post-Mortem,https://techblog.bozho.net/aws-elasticsearch-post-mortem/
+188,Lobsters,devops,DevOps,Docker vs. Singularity for data processing: UIDs and filesystem access,https://pythonspeed.com/articles/containers-filesystem-data-processing/
+189,Lobsters,devops,DevOps,Do not log,https://sobolevn.me/2020/03/do-not-log
+190,Lobsters,devops,DevOps,My infrastructure as of 2019,https://chown.me/blog/infrastructure-2019.html
+191,Lobsters,devops,DevOps,Upgrading Salt to Python 3,https://salt.tips/upgrading-salt-to-python-3/
+192,Lobsters,devops,DevOps,Depressing Storage Calculator (2016),https://jrs-s.net/2016/11/08/depressing-storage-calculator/
+193,Lobsters,devops,DevOps,CIDR range checker/generator,https://github.com/mhausenblas/cidrchk
+194,Lobsters,devops,DevOps,Bazel Performance in a CI Environment,https://filipnikolovski.com/posts/bazel-performance-in-a-ci-environment/
+195,Lobsters,devops,DevOps,Hacking Unikernels Through Process Injection [A Step by Step Guide],https://hackernoon.com/hacking-unikernels-through-process-injection-a-step-by-step-guide-oobk323f
+196,Lobsters,devops,DevOps,“Let’s use Kubernetes!” Now you have 8 problems,https://pythonspeed.com/articles/dont-need-kubernetes/
+197,Lobsters,devops,DevOps,How to deploy on remote Docker hosts with docker-compose,https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/
+198,Lobsters,devops,DevOps,Meaningful availability,https://blog.acolyer.org/2020/02/26/meaningful-availability/
+199,Lobsters,devops,DevOps,Meaningful Availability,https://www.usenix.org/system/files/nsdi20-paper-hauer.pdf
+200,Lobsters,devops,DevOps,Sinx for dumb data aggregation - Artemis,https://artemix.org/blog/sinx-for-dumb-data-aggregation.html
+201,Lobsters,devops,DevOps,A Generic Sidecar Injector for Kubernetes,https://engineering.salesforce.com/a-generic-sidecar-injector-for-kubernetes-c05eede1f6bb
+202,Lobsters,devops,DevOps,Where’s that log file? Debugging failed Docker builds,https://pythonspeed.com/articles/debugging-docker-build/
+203,Lobsters,devops,DevOps,How To Use A Single Virtual Machine As A Kubernetes Cluster Using Kubeadm,https://alta3.com/blog/00fg5lqocxkpikimilx872gnbtt2yc
+204,Lobsters,devops,DevOps,What's new in Salt 3000 Neon,https://salt.tips/whats-new-in-salt-neon/
+205,Lobsters,devops,DevOps,We decided to leave AWS,https://simplelogin.io/blog/we-left-aws/
+206,Lobsters,devops,DevOps,Setting up Prosody for XMPP,https://icyphox.sh/blog/prosody
+207,Lobsters,devops,DevOps,The DevSecOps Iceberg,https://wott.io/blog/thoughts/2019/11/29/the-devsecops-iceberg
+208,Lobsters,devops,DevOps,Regular Release Distributions Are Wrong,https://rootco.de/2020-02-10-regular-releases-are-wrong/
+209,Lobsters,devops,DevOps,Can You Mount a Volume While Building Your Docker Image to Cache Dependencies? (2017),https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/
+210,Lobsters,devops,DevOps,"Caching, Parallelism in Docker multi-stage builds",https://kgrz.io/caching-parallelism-in-docker-multi-stage-builds.html
+211,Lobsters,devops,DevOps,Trying to sneak in a sketchy .so over the weekend,https://rachelbythebay.com/w/2020/02/09/horizonta/
+212,Lobsters,devops,DevOps,"Setting up a custom CI/CD pipeline for a personal project (Node.js, Docker, Travis)",https://www.taniarascia.com/continuous-integration-pipeline-docker/
+213,Lobsters,devops,DevOps,Deploy your own faasd appliance with cloud-init,https://blog.alexellis.io/deploy-serverless-faasd-with-cloud-init/
+214,Lobsters,devops,DevOps,Doubling System Read Throughput with Only 26 Lines of Code,https://pingcap.com/blog/doubling-system-read-throughput-with-only-26-lines-of-code/
+215,Lobsters,devops,DevOps,End-of-life announcement for CoreOS Container Linux,https://coreos.com/os/eol/
+216,Lobsters,devops,DevOps,Fractals of Complexity,https://threadreaderapp.com/thread/1224816921268359168.html
+217,Lobsters,devops,DevOps,Zero downtime CNI changes in Kubernetes,https://medium.com/blend-engineering/migrating-the-kubernetes-network-overlay-with-zero-downtime-5ff45fed826a
+218,Lobsters,devops,DevOps,A decision makers guide to Kubernetes deployment,https://ubuntu.com/blog/kubernetes-deployment
+219,Lobsters,devops,DevOps,Writing Runbook Documentation When You’re An SRE,https://www.transposit.com/blog/2020.01.30-writing-runbook-documentation-when-youre-an-sre/
+220,Lobsters,devops,DevOps,Structural Templating for Painless YAML,http://www.swisspush.org/tools/2020/01/29/painless-yaml-templating
+221,Lobsters,devops,DevOps,Loan a cloud IP to your minikube cluster,https://blog.alexellis.io/loan-an-ip-to-your-minikube-cluster/
+222,Lobsters,devops,DevOps,A Crash Course in Kubernetes #2: Nodes,https://blog.tilt.dev/2020/01/31/crash-course-kubernetes-nodes.html
+223,Lobsters,devops,DevOps,The Dark Side of Microservices,https://link.kelda.io/2uV45P2
+224,Lobsters,devops,DevOps,"From 15,000 database connections to under 100: DigitalOcean's tale of tech debt",https://blog.digitalocean.com/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt/
+225,Lobsters,devops,DevOps,"Alpine makes Python Docker builds 50× slower, and images 2× larger",https://pythonspeed.com/articles/alpine-docker-python/
+226,Lobsters,devops,DevOps,How do Lobsters readers centralize logging?,/s/0uhvos/how_do_lobsters_readers_centralize
+227,Lobsters,devops,DevOps,Cloud Computing and Carbon Footprint,https://www.innoq.com/en/blog/cloud-computing-and-carbon-footprint/
+228,Lobsters,devops,DevOps,"Traefik v2 and Mastodon, a wonderful couple",https://www.innoq.com/en/blog/traefik-v2-and-mastodon/
+229,Lobsters,devops,DevOps,Gracefully restarting Clojure services at scale,https://medium.com/helpshift-engineering/achieving-graceful-restarts-of-clojure-services-b3a3b9c1d60d
+230,Lobsters,devops,DevOps,Open Source Licenses in 2020 - Trends and Predictions,https://resources.whitesourcesoftware.com/blog-whitesource/top-open-source-licenses-trends-and-predictions
+231,Lobsters,devops,DevOps,Building containers without Docker,https://blog.alexellis.io/building-containers-without-docker/
+232,Lobsters,devops,DevOps,How big our Prometheus setup is (as of January 2020),https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusOurSize-2020-01
+233,Lobsters,devops,DevOps,Kubernetes client tools overview - Developer.sh,https://developer.sh/posts/kubernetes-client-tools-overview
+234,Lobsters,devops,DevOps,Dhall for Kubernetes,https://christine.website/blog/dhall-kubernetes-2020-01-25
+235,Lobsters,devops,DevOps,(A few) Ops Lessons We All Learn The Hard Way,https://www.netmeister.org/blog/ops-lessons.html
+236,Lobsters,devops,DevOps,20 Years Since Y2K: The Evolution of IT Operations and DevOps,https://www.transposit.com/blog/2019.12.30-20-years-since-y2k-evolution-of-it-operations-and-devops/
+237,Lobsters,devops,DevOps,Flutter navigation - routing made easy,https://medium.com/@thomas.middel/flutter-navigation-routing-made-easy-816ddf9e2857
+238,Lobsters,devops,DevOps,Sharing SQLite databases across containers is surprisingly brilliant,https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054
+239,Lobsters,devops,DevOps,Are performance and stability/quality at odds in software engineering?,https://www.getclockwise.com/blog/are-performance-and-stability-quality-at-odds-in-software-engineering
+240,Lobsters,devops,DevOps,Kube Explained: Part 2 - Containers,https://link.kelda.io/l-kube-explained-part-2
+241,Lobsters,devops,DevOps,2019 review: OpenStack,https://marcin.juszkiewicz.com.pl/2020/01/21/2019-review-openstack/
+242,Lobsters,devops,DevOps,Setting up a private Matrix server,https://drwho.virtadpt.net/archive/2020-01-11/setting-up-a-private-matrix-server
+243,Lobsters,devops,DevOps,Developers Security Report,https://www.whitesourcesoftware.com/developers-security-report
+244,Lobsters,devops,DevOps,"20 Years Since Y2K: left-pad, Heartbleed, and DevOps",https://www.transposit.com/blog/2020.01.15-left-pad-heartbleed-and-devops/
+245,Lobsters,devops,DevOps,"Building a NAS, Part 1: Requirements",https://blog.dave.tf/post/building-nas-1/
+246,Lobsters,devops,DevOps,Unikernels Can Fulfill the DevOps Promise,https://dzone.com/articles/unikernels-are-the-holy-grail-for-devops
+247,Lobsters,devops,DevOps,AWS ARN services,https://github.com/mhausenblas/arn.services
+248,Lobsters,devops,DevOps,Chaos Mesh - Your Chaos Engineering Solution for System Resiliency on Kubernetes,https://pingcap.com/blog/chaos-mesh-your-chaos-engineering-solution-for-system-resiliency-on-kubernetes/
+249,Lobsters,devops,DevOps,Increment: On-Call,https://increment.com/on-call/
+250,Lobsters,devops,DevOps,Using rsnapshot for easy backups,https://dataswamp.org/~solene/2020-01-10-rsnapshot.html
+251,Lobsters,devops,DevOps,How Azure Application Insights cost our company 4k USD in a couple of weeks,https://www.gustavwengel.dk/application-insights-costs-lots-of-money
+252,Lobsters,devops,DevOps,Micro-services,http://funcall.blogspot.com/2020/01/micro-services.html
+253,Lobsters,devops,DevOps,Autonomous Rust Unikernels in Google Cloud,https://nanovms.com/dev/tutorials/autonomous-rust-unikernels-in-gcloud
+254,Lobsters,devops,DevOps,"How to build an OpenStack alternative: Step 1, the prototype",https://ungleich.ch/u/blog/how-to-build-an-openstack-alternative-step-1/
+255,Lobsters,devops,DevOps,Kube Explained: Part 1 - How CI/CD and Microservices Led to Kubernetes,https://link.kelda.io/l-kube-explained-part-1
+256,Lobsters,devops,DevOps,Templating YAML in Kubernetes with real code,https://learnk8s.io/templating-yaml-with-code
+257,Lobsters,devops,DevOps,3factor app,https://3factor.app/
+258,Lobsters,devops,DevOps,Why I prefer the script exporter for exposing script metrics to Prometheus,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusScriptExporterWhy
+259,Lobsters,devops,DevOps,Three ways to expose script-created metrics in Prometheus,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusScriptMetricsHow
+260,Lobsters,devops,DevOps,Deployment and release strategies,https://www.freelock.com/blog/john-locke/2019-09/deployment-and-release-strategies
+261,Lobsters,devops,DevOps,OpenStack vs VMware: Bringing costs down,https://ubuntu.com/blog/openstack-vs-vmware
+262,Lobsters,devops,DevOps,A job board exclusively for remote DevOps positions,https://devopsremote.work/
+263,Lobsters,devops,DevOps,"Continuous deployment with GitLab, Docker and Heroku",https://alediaferia.com/2019/12/07/continuous-deployment-gitlab-docker-heroku/
+264,Lobsters,devops,DevOps,faasd - lightweight Serverless for your Raspberry Pi,https://blog.alexellis.io/faasd-for-lightweight-serverless/
+265,Lobsters,devops,DevOps,Serverless Kafka on Kubernetes,https://developers.redhat.com/blog/2019/12/30/serverless-kafka-on-kubernetes/
+266,Lobsters,devops,DevOps,The history and background of us using Prometheus,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusWhyHistory
+267,Lobsters,devops,DevOps,Prometheus and Grafana after a year (more or less),https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusGrafanaOneYear
+268,Lobsters,devops,DevOps,Dockerfile for Ruby on Rails Deployments,https://ebababi.net/dockerfile-for-ruby-on-rails-deployments.html
+269,Lobsters,devops,DevOps,jsii — use Javascript from any language,https://github.com/aws/jsii
+270,Lobsters,devops,DevOps,Our setup of Prometheus and Grafana (as of the end of 2019),https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusGrafanaSetup-2019
+271,Lobsters,devops,DevOps,Barebones git,https://artemix.org/blog/barebones-git.html
+272,Lobsters,devops,DevOps,"""server"" is hard to define",https://jvns.ca/blog/2019/12/26/whats-a-server/
+273,Lobsters,devops,DevOps,Introducing the Ubuntu AWS Rolling Kernel,https://ubuntu.com/blog/introducing-the-ubuntu-aws-rolling-kernel
+274,Lobsters,devops,DevOps,My tmux setup,https://mh9.codes/posts/my-tmux-setup/
+275,Lobsters,devops,DevOps,Importing and manipulating your Terraform configuration,https://sysadvent.blogspot.com/2019/12/day-20-importing-and-manipulating-your.html
+276,Lobsters,devops,DevOps,"Teaching ""The Smell""",https://www.learningfromincidents.io/blog/teaching-the-smell
+277,Lobsters,devops,DevOps,The Kernel Change That May Be Slowing Down Your App,https://relistan.com/the-kernel-may-be-slowing-down-your-app
+278,Lobsters,devops,DevOps,"Incident response, programs and you(r startup)",https://lethain.com//incident-response-programs-and-your-startup/
+279,Lobsters,devops,DevOps,Use GitHub actions at your own risk,https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
+280,Lobsters,devops,DevOps,Frontend Monitoring with Prometheus,https://medium.com/@nedmcclain/frontend-monitoring-with-prometheus-38f798406125
+281,Lobsters,devops,DevOps,"The #1 bug predictor is not technical, it's organizational complexity",https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/
+282,Lobsters,devops,DevOps,Every IPv6 address now has a name,https://ungleich.ch/u/blog/has-a-name-for-every-ipv6-address/
+283,Lobsters,devops,DevOps,Evaluating Cloud Providers,https://blog.samwhited.com/2019/12/evaluating-cloud-providers/
+284,Lobsters,devops,DevOps,Building Ansible Training Environment on FreeBSD,https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/
+285,Lobsters,devops,DevOps,"The Architecture of a Large-Scale Web Search Engine, circa 2019",https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
+286,Lobsters,devops,DevOps,"Node.js boilerplate / Authentication from scratch - (express, graphql, mongodb)",https://github.com/watscho/express-graphql-mongodb-boilerplate
+287,Lobsters,devops,DevOps,DevOps Lessons from the Ski Industry,https://medium.com/@nedmcclain/devops-lessons-from-the-ski-industry-e90cd4ae3633
+288,Lobsters,devops,DevOps,"CI/CD pipelines: Monad, Arrow or Dart?",https://roscidus.com/blog/blog/2019/11/14/cicd-pipelines/
+289,Lobsters,devops,DevOps,Docker-slim: Minify and Secure Docker containers without changing anything,https://github.com/docker-slim/docker-slim
+290,Lobsters,devops,DevOps,Kubernetes as a Service with Rancer2 at Hetzner using Terraform and Helm,https://balaskas.gr/blog/2019/12/08/kubernetes-as-a-service-with-rancer2-at-hetzner-using-terraform-and-helm/
+291,Lobsters,devops,DevOps,Installing system packages in Docker with minimal bloat,https://pythonspeed.com/articles/system-packages-docker/
+292,Lobsters,devops,DevOps,How did that sidecar get there?,https://medium.com/dowjones/how-did-that-sidecar-get-there-4dcd73f1a0a4
+293,Lobsters,devops,DevOps,Choose Your Docker Base Image Wisely,https://www.innoq.com/en/blog/choose-your-docker-base-image-wisely/
+294,Lobsters,devops,DevOps,The Night Before Code Freeze,https://dev.to/baweaver/the-night-before-code-freeze-1146
+295,Lobsters,devops,DevOps,KeyDB and the Tao of the Unikernel,https://dzone.com/articles/keydb-and-the-tao-of-the-unikernel
+296,Lobsters,devops,DevOps,The real difference between CI and CD,https://fire.ci/blog/the-difference-between-ci-and-cd/
+297,Lobsters,devops,DevOps,Thoughts on dotfiles,https://cgamesplay.com/post/2019/12/01/dotfiles/
+298,Lobsters,devops,DevOps,The First Non-Bullshit Book About Culture I’ve Read,https://zwischenzugs.com/2019/11/27/the-first-non-bullshit-book-about-culture-ive-read/
+299,Lobsters,devops,DevOps,Guix and Elm,https://vllmrt.net/spam/guix-elm-1.html
+300,Lobsters,devops,DevOps,Everything I know about Kubernetes I learned from a cluster of Raspberry Pis,https://www.jeffgeerling.com/blog/2019/everything-i-know-about-kubernetes-i-learned-cluster-raspberry-pis
+301,Lobsters,devops,DevOps,In praise of blame,https://dev.firestuff.org/firestuff/2019-11-25-in-praise-of-blame.html
+302,Lobsters,devops,DevOps,Archiving cryptographic secrets on paper [2016],https://lab.whitequark.org/notes/2016-08-24/archiving-cryptographic-secrets-on-paper/
+303,Lobsters,devops,DevOps,How to use docker multi-stage build to create optimal images for dev and production,https://geshan.com.np/blog/2019/11/how-to-use-docker-multi-stage-build
+304,Lobsters,devops,DevOps,Rapidly Build & Test Ansible Roles with Molecule + Docker,https://www.toptechskills.com/ansible-tutorials-courses/rapidly-build-test-ansible-roles-molecule-docker/
+305,Lobsters,devops,DevOps,Don Libes' Expect: A Surprisingly Underappreciated Unix Automation Tool,https://blog.robertelder.org/don-libes-expect-unix-automation-tool/
+306,Lobsters,devops,DevOps,A Prometheus Exporter for National Weather Service Data,https://weather.gsc.io/
+307,Lobsters,devops,DevOps,How to run your browser in the cloud,https://ungleich.ch/u/blog/how-to-run-your-browser-in-the-cloud/
+308,Lobsters,devops,DevOps,Pathivu - log ingestion system written in rust,https://github.com/pathivu/pathivu
+309,Lobsters,devops,DevOps,Composition over inheritance applied to Docker,https://blog.frankel.ch/composition-over-inheritance-applied-docker/
+310,Lobsters,devops,DevOps,What makes a good runbook?,https://www.transposit.com/blog/2019.11.14-what-makes-a-good-runbook/
+311,Lobsters,devops,DevOps,The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology,https://servicemesh.io
+312,Lobsters,devops,DevOps,Use Run Book collaboration to increase operability and prevent operational issues,https://leanpub.com/SoftwareOperability/read_sample
+313,Lobsters,devops,DevOps,Behind the Scenes of a long EVE Online downtime (2015),https://www.eveonline.com/article/behind-the-scenes-of-a-long-eve-online-downtime
+314,Lobsters,devops,DevOps,"Haskell, Hakyll and Github Actions",https://vllmrt.net/spam/hakyll-github-actions-pages.html
+315,Lobsters,devops,DevOps,Kubernetes made my latency 10x higher,https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
+316,Lobsters,devops,DevOps,Why Everyone Working in DevOps Should Read The Toyota Way,https://zwischenzugs.com/2019/11/06/why-everyone-working-in-devops-should-read-the-toyota-way/
+317,Lobsters,devops,DevOps,Dead simple Haskell Travis settings for cabal and stack,https://kodimensional.dev/posts/2019-02-25-haskell-travis#reasoning-behind-such-a-ci-config
+318,Lobsters,devops,DevOps,SSL Cert Rotation with Runbook,https://patrick.ble.si/ssl-cert-rotation-with-runbook
+319,Lobsters,devops,DevOps,Michael DeHaan on creating Ansible and SourceOptics,https://sourcesort.com/interview/michael-dehaan-on-creating-ansible-and-sourceoptics
+320,Lobsters,devops,DevOps,Building a microcloud with a few Raspberry Pis and Kubernetes (Part 1),https://mirailabs.io/blog/building-a-microcloud/
+321,Lobsters,devops,DevOps,Managing Servers with GNU Guix: A Tutorial,https://guix.gnu.org/blog/2019/managing-servers-with-gnu-guix-a-tutorial/
+322,Lobsters,devops,DevOps,StatsAgg is a metric aggregation and alerting platform,https://github.com/PearsonEducation/StatsAgg
+323,Lobsters,devops,DevOps,Sorcerer's apprentice mode and busting ghosts,https://rachelbythebay.com/w/2019/11/01/gb/
+324,Lobsters,devops,DevOps,Java in a Container: Resource Allocation Guidelines,https://www.ccampo.me/java/docker/containers/kubernetes/2019/10/31/java-in-a-container.html
+325,Lobsters,devops,DevOps,Tales from running Kafka Streams in Production,https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production
+326,Lobsters,devops,DevOps,Forecasting Web Page Views: Methods and Observations [2008],https://ai.google/research/pubs/pub34912
+327,Lobsters,devops,DevOps,Kubernetes and the Erlang VM: orchestration on the large and the small,http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/
+328,Lobsters,devops,DevOps,DevOps: Tools Can Lead The Culture Change,https://redmonk.com/rstephens/2019/10/25/devops-tools-can-lead-the-culture-change/
+329,Lobsters,devops,DevOps,Operon: Extreme Performance For Ansible,https://sweetness.hmmz.org/2019-10-28-operon.html
+330,Lobsters,devops,DevOps,On building systems that still fail,https://www.alexrs.me/2019/on-building-systems-that-still-fail
+331,Lobsters,devops,DevOps,GCP Goodies Part 9 — Time series data handling and visualization,https://blog.softwaremill.com/gcp-goodies-part-9-time-series-data-handling-and-visualization-a7f504de9e88
+332,Lobsters,devops,DevOps,tracing builds in Concourse,https://ops.tips/notes/tracing-builds-concourse/
+333,Lobsters,devops,DevOps,Disambiguating Observability and Monitoring,https://bravenewgeek.com/microservice-observability-part-1-disambiguating-observability-and-monitoring/
+334,Lobsters,devops,DevOps,On building systems that will fail,http://delivery.acm.org/10.1145/120000/114686/a1990-corbato.pdf?ip=209.171.206.98&id=114686&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1571684131_a431b2214b848a9dfafa17c2719d8cc8
+335,Lobsters,devops,DevOps,Understand kubernetes step by step. A simple repo for beginners,https://github.com/knrt10/kubernetes-basicLearning/
+336,Lobsters,devops,DevOps,"Fresh pcaps, free for the asking",http://rachelbythebay.com/w/2019/10/20/sniff/
+337,Lobsters,devops,DevOps,Set up Laravel 6 on Google Cloud Run step by step with Continuous Integration,https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci
+338,Lobsters,devops,DevOps,Testing is hard: git submodules edition,https://www.alexrs.me/2019/testing-is-hard-git-submodules-edition
+339,Lobsters,devops,DevOps,SRE as a Lifestyle Choice,https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d
+340,Lobsters,devops,DevOps,How to use uWSGI Avahi plugin in Ubuntu,https://www.paulox.net/2017/07/21/how-to-use-uwsgi-avahi-plugin-in-ubuntu/
+341,Lobsters,devops,DevOps,AWS Elasticsearch: a fundamentally-flawed offering,https://spun.io/2019/10/10/aws-elasticsearch-a-fundamentally-flawed-offering/
+342,Lobsters,devops,DevOps,Don't Put Fat Jars in Docker Images,https://phauer.com/2019/no-fat-jar-in-docker-image/
+343,Lobsters,devops,DevOps,Free resources for developers,https://free-for.dev
+344,Lobsters,devops,DevOps,Using Nix in Elixir projects,https://ejpcmac.net/blog/using-nix-in-elixir-projects/
+345,Lobsters,devops,DevOps,Scribe: Transporting petabytes per hour,https://engineering.fb.com/data-infrastructure/scribe/
+346,Lobsters,devops,DevOps,environmentally-friendly cloud provider?,/s/gctfjc/environmentally_friendly_cloud
+347,Lobsters,devops,DevOps,Observations on Observability,https://blog.colinbreck.com/observations-on-observability/
+348,Lobsters,devops,DevOps,What’s running in production? Making your Docker images identifiable,https://pythonspeed.com/articles/identifying-images/
+349,Lobsters,devops,DevOps,Migrating From Cloudflare,https://ashfurrow.com/blog/migrating-from-cloudflare/
+350,Lobsters,devops,DevOps,A developer goes to a DevOps conference,https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/
+351,Lobsters,devops,DevOps,How Did Things Go Right? Learning More from Incidents at Netflix,https://www.infoq.com/news/2019/07/netflix-learn-from-incidents/
+352,Lobsters,devops,DevOps,So You Want To Build An Observability Tool,https://www.honeycomb.io/blog/so-you-want-to-build-an-observability-tool/
+353,Lobsters,devops,DevOps,Nanos 0.1.20 has Initial T2 (xen) Support,https://github.com/nanovms/nanos/releases/tag/0.1.20
+354,Lobsters,devops,DevOps,Love (and Alerting) in the Time of Cholera (and Observability),https://charity.wtf/2019/09/20/love-and-alerting-in-the-time-of-cholera-and-observability/
+355,Lobsters,devops,DevOps,Linux containers from scratch - diyC,https://wvi.cz/diyC/
+356,Lobsters,devops,DevOps,Serverless: 15% slower and 8x more expensive,http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/
+357,Lobsters,devops,DevOps,The Cloud and Open Source,https://www.tbray.org/ongoing/When/201x/2019/09/21/AWS-Open-Source-People
+358,Lobsters,devops,DevOps,Why are you not using containers?,/s/ey10sz/why_are_you_not_using_containers
+359,Lobsters,devops,DevOps,Software Security Field Guide for the Bewildered,https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/
+360,Lobsters,devops,DevOps,What’s your container-less deployment process?,/s/xov7nz/what_s_your_container_less_deployment
+361,Lobsters,devops,DevOps,Building Better Firmware with Continuous Integration,https://interrupt.memfault.com/blog/continuous-integration-for-firmware
+362,Lobsters,devops,DevOps,Chatting up CloudWatch--Using Dialogflow to interact with Cloudwatch Logs,https://www.transposit.com/blog/2019.08.29-dialogflow-cloudwatch/?c=lob
+363,Lobsters,devops,DevOps,Faster or slower: the basics of Docker build caching,https://pythonspeed.com/articles/docker-caching-model/
+364,Lobsters,devops,DevOps,Understanding Data Transfer in AWS,https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/
+365,Lobsters,devops,DevOps,Your Infrastructure Should be Boring (2016),https://people.freebsd.org/~dch/2016/your-infrastructure-should-be-boring/
+366,Lobsters,devops,DevOps,Terraform with multiple workspaces and environments,http://www.mooreds.com/wordpress/archives/3244
+367,Lobsters,devops,DevOps,An Abridged Cartoon Introduction To WebAssembly,https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/
+368,Lobsters,devops,DevOps,"Setting up a personal packagist, part 1",https://www.christopherjones.us/personal-packagist-pt-1/
+369,Lobsters,devops,DevOps,"Using Slack, AWS, and GitHub to find my commits",https://www.transposit.com/blog/2019.09.06-find-my-commits?c=lob
+370,Lobsters,devops,DevOps,Planning the technology stack for an Event Sourcing project,https://keith-mifsud.me/blog/planning-the-technology-stack-for-an-event-sourcing-project
+371,Lobsters,devops,DevOps,Dissatisfied With Docker,https://robert.ocallahan.org/2019/09/dissatisfied-with-docker.html
+372,Lobsters,devops,DevOps,Setting up buildbot in FreeBSD jails,https://andidog.de/blog/2018-04-22-buildbot-setup-freebsd-jails
+373,Lobsters,devops,DevOps,Your Docker build needs a smoke test,https://pythonspeed.com/articles/test-your-docker-build/
+374,Lobsters,devops,DevOps,The Cult of Kubernetes,https://christine.website/blog/the-cult-of-kubernetes-2019-09-07
+375,Lobsters,devops,DevOps,Kubernetes Pod Escape Using Log Mounts,https://blog.aquasec.com/kubernetes-security-pod-escape-log-mounts
+376,Lobsters,devops,DevOps,kxd: Key exchange daemon,https://blitiri.com.ar/p/kxd/
+377,Lobsters,devops,DevOps,A Hot Take on GitHub Actions,https://zwischenzugs.com/2019/08/30/a-hot-take-on-github-actions/
+378,Lobsters,devops,DevOps,This is a DevOps Dishwasher,https://www.conjur.org/blog/devops-dishwasher/
+379,Lobsters,devops,DevOps,How DevOps is like auto racing,https://developers.redhat.com/blog/2019/08/22/how-devops-is-like-auto-racing/
+380,Lobsters,devops,DevOps,Morph: a NixOS deployment tool,https://github.com/DBCDK/morph
+381,Lobsters,devops,DevOps,Industrial-strength Deployments in Three Commands,https://vaibhavsagar.com/blog/2019/08/22/industrial-strength-deployments/index.html
+382,Lobsters,devops,DevOps,Building Archlinux Packages in Gitlab,https://balaskas.gr/blog/2019/08/17/building-archlinux-packages-in-gitlab/
+383,Lobsters,devops,DevOps,"Incremental Development is what, exactly?",http://tiny-giant-books.com/Entry1.html?EntryId=recUeZ90mxmOHAl9S
+384,Lobsters,devops,DevOps,Setting up my personal mailserver,https://icyphox.sh/blog/mailserver
+385,Lobsters,devops,DevOps,Towards Progressive Delivery,https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/
+386,Lobsters,devops,DevOps,How do you monitor your home servers,/s/tf0q3x/how_do_you_monitor_your_home_servers
+387,Lobsters,devops,DevOps,Distributed tracing in the service mesh: four myths,https://linkerd.io/2019/08/09/service-mesh-distributed-tracing-myths/
+388,Lobsters,devops,DevOps,"Spack: a package manager for supercomputers, Linux, and macOS",https://spack.io/
+389,Lobsters,devops,DevOps,Fast and flexible observability with canonical log lines,https://stripe.com/gb/blog/canonical-log-lines
+390,Lobsters,devops,DevOps,"GitHub Actions now supports CI/CD, free for public repositories",https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/
+391,Lobsters,devops,DevOps,Guix System's transactional rollbacks require a reboot,https://issues.guix.gnu.org/issue/36855#6
+392,Lobsters,devops,DevOps,"A tool for shell commands execution, visualization and alerting",https://github.com/sqshq/sampler
+393,Lobsters,devops,DevOps,From 30 to 230 docker container per host,http://sven.stormbind.net/blog/posts/docker_from_30_to_230/
+394,Lobsters,devops,DevOps,The Technical Side of the Capital One AWS Security Breach,https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
+395,Lobsters,devops,DevOps,Guiding Principles for Developer Tools,http://philcalcado.com/2019/07/30/developer_tools_principles.html
+396,Lobsters,devops,DevOps,Runbook: A Ruby DSL for Gradual System Automation,https://medium.com/braintree-product-technology/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d
+397,Lobsters,devops,DevOps,"Cron Email is Dead, Long Live Cron Email",https://www.stackallocated.com/blog/2019/stop-using-smtp/
+398,Lobsters,devops,DevOps,Incremental app migration from VMs to Kubernetes,https://blog.getambassador.io/part-3-incremental-app-migration-from-vms-to-kubernetes-ambassador-and-consul-aacf87eea3e8
+399,Lobsters,devops,DevOps,"Nuster, a cache server based on HAProxy, now supports disk persistence",https://github.com/jiangwenyuan/nuster
+400,Lobsters,devops,DevOps,Happy #SysAdminDay,/s/cd1fvd/happy_sysadminday
+401,Lobsters,devops,DevOps,Pitfalls of using ENV for configuration (2018),https://blog.dnsimple.com/2018/05/using-environment-as-configuration/
+402,Lobsters,devops,DevOps,lndmon: Dockerized Lightning Network Monitoring,https://blog.lightning.engineering/posts/2019/07/24/lndmon-v0.1.html
+403,Lobsters,devops,DevOps,DIY NAS / Router,http://bburky.com/NAS/
+404,Lobsters,devops,DevOps,A Dead Simple VPN,https://github.com/jedisct1/dsvpn
+405,Lobsters,devops,DevOps,Do-nothing scripting: the key to gradual automation,https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
+406,Lobsters,devops,DevOps,Decoupling database migrations from server startup: why and how,https://pythonspeed.com/articles/schema-migrations-server-startup/
+407,Lobsters,devops,DevOps,Why incidents can’t be monocausal,https://lorinhochstein.wordpress.com/2019/07/04/why-incidents-cant-be-monocausal/
+408,Lobsters,devops,DevOps,How to Install and Configure Graylog2 for Log Management on Debian and Ubuntu,https://calendarific.com/blog/how-to-install-and-configure-graylog2-for-log-management-on-debian-and-ubun
+409,Lobsters,devops,DevOps,Your nines are not my nines,http://rachelbythebay.com/w/2019/07/15/giant/
+410,Lobsters,devops,DevOps,"Operating a large, distributed system in a reliable way",https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
+411,Lobsters,devops,DevOps,Towards Guix for DevOps,https://www.gnu.org/software/guix/blog/2019/towards-guix-for-devops/
+412,Lobsters,devops,DevOps,"Details of the Cloudflare outage on July 2, 2019",https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/
+413,Lobsters,devops,DevOps,How Dark deploys code in 50ms,https://medium.com/darklang/how-dark-deploys-code-in-50ms-771c6dd60671
+414,Lobsters,devops,DevOps,What would the Bezos equivalent of Moore's Law be?,/s/zovusg/what_would_bezos_equivalent_moore_s_law_be
+415,Lobsters,devops,DevOps,"A review of the official Dockerfile best practices: good, bad, and insecure",https://pythonspeed.com/articles/official-docker-best-practices/
+416,Lobsters,devops,DevOps,Distributed Tracing — we’ve been doing it wrong,https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df
+417,Lobsters,devops,DevOps,Docker protects a programming paradigm that we should get rid of,http://www.smashcompany.com/technology/docker-protects-a-programming-paradigm-that-we-should-get-rid-of
+418,Lobsters,devops,DevOps,"Nobody wants to be woken up at 4 AM, a monitoring journey",https://www.farfetchtechblog.com/en/blog/post/nobody-wants-to-be-woken-up-at-4-am/
+419,Lobsters,devops,DevOps,Nines are Not Enough: Meaningful Metrics for Clouds,https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf
+420,Lobsters,devops,DevOps,BIOS Simulator Center,https://download.lenovo.com/bsco/index.html
+421,Lobsters,devops,DevOps,Functional DevOps in a Dysfunctional World,https://vaibhavsagar.com/blog/2019/07/04/functional-devops/
+422,Lobsters,devops,DevOps,Gentle Introduction to the Envoy Proxy and Load-balancing,https://architecture-database.blogspot.com/2019/07/gentle-introduction-to-envoy-proxy-and.html
+423,Lobsters,devops,DevOps,Our Journey from Heroku to Kubernetes,https://www.salsify.com/blog/engineering/our-journey-from-heroku-to-kubernetes
+424,Lobsters,devops,DevOps,Introduction to envoy proxy load balancing concepts,https://devform.netlify.com/introduction-to-envoy-proxy-load-balancing/
+425,Lobsters,devops,DevOps,Cloudflare outage caused by bad software deploy,https://blog.cloudflare.com/cloudflare-outage/
+426,Lobsters,devops,DevOps,A thousand little details: developing software for ops,https://pythonspeed.com/articles/developing-tools-for-ops/
+427,Lobsters,devops,DevOps,lazydocker: a simple terminal UI for docker and docker-compose,https://github.com/jesseduffield/lazydocker
+428,Lobsters,devops,DevOps,Tee-Ball,https://blog.cjeller.site/tee-ball
+429,Lobsters,devops,DevOps,VulnerableContainers.org,https://vulnerablecontainers.org/
+430,Lobsters,devops,DevOps,Do Containers and Kubernetes apply to n-tier client/server?,http://www.lhotka.net/weblog/DoContainersAndKubernetesApplyToNtierClientserver.aspx
+431,Lobsters,devops,DevOps,Connection refused? Docker networking and how it impacts your image,https://pythonspeed.com/articles/docker-connection-refused/
+432,Lobsters,devops,DevOps,Pillaging The Jenkins Treasure Chest,https://dolosgroup.io/blog/2019/6/20/pillaging-the-jenkins-treasure-chest
+433,Lobsters,devops,DevOps,railcar: A rust implementation of the Open Containers Initiative runtime spec,https://github.com/oracle/railcar
+434,Lobsters,devops,DevOps,ActiveRecord Connection Errors on Heroku - How to Reproduce and Resolve,https://www.youtube.com/watch?v=XOfELjqm188
+435,Lobsters,devops,DevOps,"At Work, Expertise Is Falling Out of Favor",https://www.theatlantic.com/magazine/archive/2019/07/future-of-work-expertise-navy/590647/
+436,Lobsters,devops,DevOps,Homelab: Ansible,https://www.arrdem.com/2019/06/23/homelab-ansible/
+437,Lobsters,devops,DevOps,A curated list of resources for mobile devops,https://github.com/alexrs/mobile-devops
+438,Lobsters,devops,DevOps,Don't test in production? Test in production,https://opensource.com/article/19/5/dont-test-production
+439,Lobsters,devops,DevOps,"Faster Docker builds with pipenv, poetry, or pip-tools",https://pythonspeed.com/articles/pipenv-docker/
+440,Lobsters,devops,DevOps,Build and run tiny vms from Dockerfiles -- now supporting kvm and hyperkit,https://github.com/ottomatica/slim
+441,Lobsters,devops,DevOps,Kubernetes Failure Stories,https://k8s.af/
+442,Lobsters,devops,DevOps,"Less capabilities, more security: minimizing privilege escalation in Docker",https://pythonspeed.com/articles/root-capabilities-docker-security/
+443,Lobsters,devops,DevOps,New book around monitoring using the Prometheus ecosystem,https://www.prombook.info/
+444,Lobsters,devops,DevOps,Combining Similar Time Series,http://sigusr2.net/combining-time-series.html
+445,Lobsters,devops,DevOps,Observability Doesn’t Work in Dev,https://medium.com/windmill-engineering/observability-doesnt-work-in-dev-c214a9fb3e2d
+446,Lobsters,devops,DevOps,"Docker build secrets, the sneaky way",https://pythonspeed.com/articles/docker-build-secrets/
+447,Lobsters,devops,DevOps,Creating Automatic Chocolatey Packages for Windows,https://github.com/majkinetor/au
+448,Lobsters,devops,DevOps,Why Is Storage On Kubernetes So Hard?,https://softwareengineeringdaily.com/2019/01/11/why-is-storage-on-kubernetes-is-so-hard/
+449,Lobsters,devops,DevOps,How to use internal redirects in NGINX,https://clubhouse.io/developer-how-to/how-to-use-internal-redirects-in-nginx/
+450,Lobsters,devops,DevOps,Next Generation Shell,/s/fsnss2/next_generation_shell
+451,Lobsters,devops,DevOps,Podman: A more secure way to run containers,https://opensource.com/article/18/10/podman-more-secure-way-run-containers
+452,Lobsters,devops,DevOps,Broken by default: why you should avoid most Dockerfile examples,https://pythonspeed.com/articles/dockerizing-python-is-hard/
+453,Lobsters,devops,DevOps,Upgrading PostgreSQL from version 10 to 11 on Ubuntu 19.04 (Disco Dingo),https://www.paulox.net/2019/05/28/upgrading-postgresql-from-version-10-to-11-on-ubuntu-19-04-disco-dingo/
+454,Lobsters,devops,DevOps,Cortex – machine learning infrastructure for developers,https://cortex.dev/
+455,Lobsters,devops,DevOps,Announcing Terraform 0.12,https://www.hashicorp.com/blog/announcing-terraform-0-12
+456,Lobsters,devops,DevOps,Mobile Release Engineering at Scale with Shipit Mobile,https://engineering.shopify.com/blogs/engineering/mobile-release-engineering-scale-shipit-mobile
+457,Lobsters,devops,DevOps,Docker is different: configuring Gunicorn for containers,https://pythonspeed.com/articles/gunicorn-in-docker/
+458,Lobsters,devops,DevOps,Kubernetes Any% Speedrun,https://elliot.pro/blog/kubernetes-any-percent-speedrun.html
+459,Lobsters,devops,DevOps,"Pair CrateDB with Grafana 6.x, an Open Platform for Time Series Data Visualization",https://crate.io/a/pair-cratedb-with-grafana-6-x-an-open-platform-for-time-series-data-visualization/
+460,Lobsters,devops,DevOps,The clusterfuck hidden in the Kubernetes code base,https://fosdem.org/2019/schedule/event/kubernetesclusterfuck/
+461,Lobsters,devops,DevOps,Docker build caching can lead to insecure images,https://pythonspeed.com/articles/docker-cache-insecure-images/
+462,Lobsters,devops,DevOps,"How to setup continuous integration (CI) with React, CircleCI, and GitHub",https://medium.com/@wesharehoodies/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03
+463,Lobsters,devops,DevOps,Docker Image Vulnerability - CVE-2019-5021,https://www.alpinelinux.org/posts/Docker-image-vulnerability-CVE-2019-5021.html
+464,Lobsters,devops,DevOps,What is DevOps,https://devopsish.com/what-is-devops/
+465,Lobsters,devops,DevOps,Amazon S3 Path Deprecation Plan – The Rest of the Story,https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/
+466,Lobsters,devops,DevOps,The best Docker base image for your Python application,https://pythonspeed.com/articles/base-image-python-docker-images/
+467,Lobsters,devops,DevOps,I forgot how to manage a server,https://ma.ttias.be/i-forgot-how-to-manage-a-server/
+468,Lobsters,devops,DevOps,"AsyncIO-powered python DSL for running commands locally, on docker, or over ssh",https://pitcrew.io/
+469,Lobsters,devops,DevOps,"Docker Hub Hacked – 190k accounts, GitHub tokens revoked, Builds disabled",https://news.ycombinator.com/item?id=19763413
+470,Lobsters,devops,DevOps,docker-debug tool that attach to an already run container,https://github.com/zeromake/docker-debug
+471,Lobsters,devops,DevOps,Poste.io — complete self-hosted email server in a single container,https://poste.io
+472,Lobsters,devops,DevOps,Can you expose your microservices with an API gateway in Kubernetes?,https://learnk8s.io/kubernetes-ingress-api-gateway/
+473,Lobsters,devops,DevOps,Tracking the weather with Python and Prometheus,https://opensource.com/article/19/4/weather-python-prometheus
+474,Lobsters,devops,DevOps,Hardening SSH with 2fa,https://gist.github.com/lizthegrey/9c21673f33186a9cc775464afbdce820
+475,Lobsters,devops,DevOps,MySQL/MariaDB Query for Counting API Requests per Day,https://calendarific.com/blog/mysql-mariadb-query-for-counting-api-requests-per-day
+476,Lobsters,devops,DevOps,"App that helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendat",https://github.com/infracloudio/botkube
+477,Lobsters,devops,DevOps,"Load balancing strategies in Kubernetes: L4/L7, hash, etc",https://blog.getambassador.io/load-balancing-strategies-in-kubernetes-l4-round-robin-l7-round-robin-ring-hash-and-more-6a5b81595d6c
+478,Lobsters,devops,DevOps,Tinder’s move to Kubernetes,https://medium.com/@tinder.engineering/tinders-move-to-kubernetes-cda2a6372f44
+479,Lobsters,devops,DevOps,Keeping master green at scale,https://eng.uber.com/research/keeping-master-green-at-scale/
+480,Lobsters,devops,DevOps,"Apple’s HQ, Ruskin, Gothic Architecture, and Agile",https://zwischenzugs.com/2019/04/12/apples-hq-ruskin-gothic-architecture-and-agile/
+481,Lobsters,devops,DevOps,How is CUE different from jsonnet?,https://github.com/cuelang/cue/issues/33
+482,Lobsters,devops,DevOps,Running an IRC Network in 2019: Challenges and Opportunities,https://www.darenet.org/blog/running-an-irc-network-in-2019-challenges-and-opportunities
+483,Lobsters,devops,DevOps,Nurtch: Executable Runbook for Teams,https://www.nurtch.com
+484,Lobsters,devops,DevOps,"Announcing Cloud Run, the newest member of Google's serverless compute stack",https://cloud.google.com/blog/products/serverless/announcing-cloud-run-the-newest-member-of-our-serverless-compute-stack
+485,Lobsters,devops,DevOps,Cloud Management with Prolog (Cont.),https://cloudbootup.com/post/cloudy-with-a-chance-of-prolog.html
+486,Lobsters,devops,DevOps,Deploying A Self-Hosted Portable Notification Service,https://chargen.one/steve/self-hosting-portable-notifications
+487,Lobsters,devops,DevOps,How to disrupt Enterprise iPaaS market,https://www.titanoboa.io/repl.html
+488,Lobsters,devops,DevOps,"Canary Release Patterns for APIs, Applications, and Services with Ambassador",https://blog.getambassador.io/canary-release-patterns-for-apis-applications-and-services-with-ambassador-51174b3fab4e
+489,Lobsters,devops,DevOps,Securely storing secrets in Terraform with terraform-provider-secret,https://www.tweag.io/posts/2019-04-03-terraform-provider-secret.html
+490,Lobsters,devops,DevOps,Building a cloud security training platform – Pt 2: Infrastructure As Code,https://44con.com/2019/04/02/building-a-cloud-security-training-platform-pt-2-infrastructure-as-code/
+491,Lobsters,devops,DevOps,Is ChatOps already dead?,/s/zcy7wo/is_chatops_already_dead
+492,Lobsters,devops,DevOps,Why your Docker multi-stage build is surprisingly slow,https://pythonspeed.com/articles/faster-multi-stage-builds/
+493,Lobsters,devops,DevOps,Chaos Engineering with the GraphQL API,https://blog.newrelic.com/engineering/graphql-chaos-engineering/
+494,Lobsters,devops,DevOps,Using Ephemeral Docker Containers as CLI Applications,https://preslav.me/2019/03/18/using-ephemeral-docker-containers-as-cli-applications/
+495,Lobsters,devops,DevOps,How did I build a serverless offline button with AWS and Elixir?,https://pattern-match.com/blog/2019/03/13/how-did-i-build-a-serverless-offline-button-with-aws/
+496,Lobsters,devops,DevOps,The 737 Max and Why Software Engineers Might Want to Pay Attention,https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd
+497,Lobsters,devops,DevOps,Building IoT Firmware with Azure Pipelines and Particle,https://dev.to/bsatrom/building-iot-firmware-with-azure-pipelines-and-particle-2m30
+498,Lobsters,devops,DevOps,Experimenting with RootlessDocker,https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6
+499,Lobsters,devops,DevOps,How to deploy your first Rust web application,https://medium.com/@gruberbastian/rust-for-the-web-02-x-deploy-your-first-app-51d1ed69cbe3
+500,Lobsters,devops,DevOps,Pranking the Bash Binary,https://zwischenzugs.com/2019/03/16/pranking-the-bash-binary/
+501,Lobsters,devops,DevOps,Cloud Management with Prolog,https://dev.to/davidk01/cloud-management-with-prolog-29d8
+502,Lobsters,devops,DevOps,How to use uWSGI with Python 3.7 in Ubuntu 18.x,https://www.paulox.net/2019/03/13/how-to-use-uwsgi-with-python-3-7-in-ubuntu-18-x/
+503,Lobsters,devops,DevOps,Lamby - Simple Rails & AWS Lambda Integration using Rack,https://technology.customink.com/blog/2019/03/13/rails-on-aws-lambda-with-sam/
+504,Lobsters,devops,DevOps,Building a devOps/CI/CD Pipeline,https://github.com/joeyrosztoczy/golden-path
+505,Lobsters,devops,DevOps,Announcing docker-image-size-limit: prevent image size from growing too big,https://sobolevn.me/2019/03/announcing-docker-image-size-limit
+506,Lobsters,devops,DevOps,Running a Modern Gopher Server,http://prgmr.com/blog/gopher/2018/11/09/setting-up-gopherserver.html
+507,Lobsters,devops,DevOps,What happened to OpenStack?,https://aeva.online/2019/03/what-happened-to-openstack/
+508,Lobsters,devops,DevOps,You Dont Need All That Complex/Expensive/Distracting Infrastructure,https://medium.com/@dmfutcher/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb
+509,Lobsters,devops,DevOps,Rebuilding My Personal Infrastructure With Alpine Linux and Docker,https://www.wezm.net/technical/2019/02/alpine-linux-docker-infrastructure/
+510,Lobsters,devops,DevOps,k3s - Lightweight Kubernetes,https://k3s.io/
+511,Lobsters,devops,DevOps,Chaos Toolkit 1.0.0 Released,https://medium.com/chaos-toolkit/chaos-toolkit-1-0-0-and-a-lot-of-joy-71bcb39f11a7
+512,Lobsters,devops,DevOps,Step: valid HTTPS certificates for dev & pre-prod (and more),https://smallstep.com/blog/step-v0-8-6-valid-HTTPS-certificates-for-dev-pre-prod.html
+513,Lobsters,devops,DevOps,The coolest features in Salt 2019.2 Fluorine,https://salt.tips/the-coolest-features-in-salt-fluorine/
+514,Lobsters,devops,DevOps,DevOps at Amazon: A Look at Our Tools and Processes (2015),https://www.youtube.com/watch?v=esEFaY0FDKc
+515,Lobsters,devops,DevOps,The Cloud Is Just Someone Else's Computer,https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
+516,Lobsters,devops,DevOps,How to find which Salt release will contain a fix you need?,https://salt.tips/how-to-find-which-salt-release-will-contain-a-fix-you-need/
+517,Lobsters,devops,DevOps,a standalone PG migration tool compiled using Graal,https://github.com/leafclick/pgmig
+518,Lobsters,devops,DevOps,Threadless mode in Mitogen 0.3,https://sweetness.hmmz.org/2019-02-16-mitogen-threadless.html
+519,Lobsters,devops,DevOps,The Design and Implementation of the NetBSD rc.d system (2001),https://www.usenix.org/legacy/events/usenix01/freenix01/full_papers/mewburn/mewburn_html/index.html
+520,Lobsters,devops,DevOps,What's your monorepo setup?,/s/ykbtld/what_s_your_monorepo_setup
+521,Lobsters,devops,DevOps,Managing xid wraparound without looking like a (mail) chimp,http://evol-monkey.blogspot.com/2019/02/managing-xid-wraparound-without-looking.html
+522,Lobsters,devops,DevOps,Duplicacy: A lock-free deduplication cloud backup tool,https://github.com/gilbertchen/duplicacy
+523,Lobsters,devops,DevOps,Ansible's creator on the state of contemporary devops and open source,https://threadreaderapp.com/thread/1091710068234641408.html?refreshed=yes
+524,Lobsters,devops,DevOps,"When your CI is taking forever on AWS EC2, it might be EBS",https://pythonspeed.com/articles/slow-ci-aws-ec2/
+525,Lobsters,devops,DevOps,How I lost my data trying to back it up,https://hamy.io/post/0010/how-i-lost-my-data-trying-to-back-it-up/
+526,Lobsters,devops,DevOps,Learn Kubernetes in under 3 hours,https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+527,Lobsters,devops,DevOps,"Web Deploys Made Pretty Easy: S3, Webpack, and Legacy Systems",https://tech.okcupid.com/web-deploys-with-s3-webpack/
+528,Lobsters,devops,DevOps,ClonOS to be Rolled Out,https://hype.codes/clonos-be-rolled-out
+529,Lobsters,devops,DevOps,Netplan: /etc/network/interfaces is now YAML,https://netplan.io
+530,Lobsters,devops,DevOps,Microsoft's Azure DevOps: An Unsatisfying Adventure,https://toxicbakery.github.io/vsts-devops/microsoft-devops-ci/
+531,Lobsters,devops,DevOps,"Windows, Kubernetes & Azure",https://drive.google.com/file/d/13fXWIt5Yl7VZTkplc0fL2VcAtYnFvGka/view
+532,Lobsters,devops,DevOps,"Infrastructure as Code, Part Three: Configuration With Salt",https://crate.io/a/infrastructure-as-code-configuration-with-salt/
+533,Lobsters,devops,DevOps,Selecting a container runtime for use with Kubernetes,https://joejulian.name/post/kubernetes-container-engine-comparison/
+534,Lobsters,devops,DevOps,Running Luminus on Dokku,https://yogthos.net/posts/2019-01-19-LuminusOnDokku.html
+535,Lobsters,devops,DevOps,How Quasa.rs utilizes Blue/Green Deployments,https://medium.com/kinetic-dial/how-quasa-rs-utilizes-blue-green-deployments-d5557a0a12b8
+536,Lobsters,devops,DevOps,Operable Software,https://ferd.ca/operable-software.html
+537,Lobsters,devops,DevOps,Knightmare: A DevOps Cautionary Tale,https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+538,Lobsters,devops,DevOps,The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study,https://engineering.shopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study
+539,Lobsters,devops,DevOps,Effective Security Pipeline,https://alex.kaskaso.li/post/effective-security-pipeline
+540,Lobsters,devops,DevOps,Should Developers Know About Kubernetes?,https://medium.com/windmill-engineering/should-developers-know-about-kubernetes-1df432ce057d
+541,Lobsters,devops,DevOps,GlusterFS Cluster on FreeBSD with Ansible and GNU Parallel,https://vermaden.wordpress.com/2019/01/07/glusterfs-cluster-on-freebsd-with-ansible-and-gnu-parallel/
+542,Lobsters,devops,DevOps,SQL is No Excuse to Avoid DevOps,https://queue.acm.org/detail.cfm?id=3300018
+543,Lobsters,devops,DevOps,"Lessons learned from launching my first screencast series / training course, Kubernetes on Rails",https://blog.abevoelker.com/2019-01-04/lessons-learned-from-launching-my-first-screencast-kubernetes-on-rails/
+544,Lobsters,devops,DevOps,"Alternative to rsync ""batch mode"" for storing incremental backups?",/s/y4myxv/alternative_rsync_batch_mode_for_storing
+545,Lobsters,devops,DevOps,Why Use Docker? 3 Reasons From a Development Perspective,https://geshan.com.np/blog/2018/10/why-use-docker-3-reasons-from-a-development-perspective
+546,Lobsters,devops,DevOps,Fully static containers as executable binaries,https://github.com/genuinetools/binctr
+547,Lobsters,devops,DevOps,Kubernetes on Rails - A premium training course on deploying Rails applications using Kubernetes,https://kubernetesonrails.com
+548,Lobsters,devops,DevOps,Slack is banning some users with links to Iran even if they’ve left the country,https://www.theverge.com/2018/12/20/18150129/slack-iran-deactivated-sanctions-license-cuba-crimea
+549,Lobsters,devops,DevOps,"Serverless Computing: One Step Forward, Two Steps Back",https://arxiv.org/pdf/1812.03651.pdf
+550,Lobsters,devops,DevOps,"Deployment Is Not Release, Let's Use Feature Flags",https://geshan.com.np/blog/2018/10/deployment-is-not-release
+551,Lobsters,devops,DevOps,Scaling Christmas — An Illustrated Adventure,https://medium.com/square-corner-blog/scaling-christmas-an-illustrated-adventure-a2ea739f5451
+552,Lobsters,devops,DevOps,Tilt is the `start.sh` Script of my Dreams,https://medium.com/windmill-engineering/tilt-is-the-start-sh-script-of-my-dreams-e48478f599fd
+553,Lobsters,devops,DevOps,Mitogen comes to Opsmop,https://sweetness.hmmz.org/2018-12-18-mitogen-opsmop.html
+554,Lobsters,devops,DevOps,4 Ways Docker Changed the Way Software Engineers Work in Past Half Decade,https://geshan.com.np/blog/2018/12/4-ways-docker-changed-the-way-software-engineers-work-in-past-half-decade
+555,Lobsters,devops,DevOps,High Reliability Infrastructure Migrations,https://jvns.ca/blog/2018/12/15/new-talk--high-reliability-infrastructure-migrations/
+556,Lobsters,devops,DevOps,Monitoring CrateDB on Kubernetes with Prometheus and Grafana,https://crate.io/a/monitoring-cratedb-on-kubernetes-with-prometheus-and-grafana/
+557,Lobsters,devops,DevOps,FireHOL - Linux firewalling and traffic shaping for humans,https://firehol.org
+558,Lobsters,devops,DevOps,"Events, the DNA of Kubernetes",https://www.mgasch.com/post/k8sevents/
+559,Lobsters,devops,DevOps,CNAB: Cloud Native Application Bundles,https://cnab.io
+560,Lobsters,devops,DevOps,Cloud infrastructure for the Internet of Things: Kubernetes on solar plants,https://learnk8s.io/blog/kubernetes-on-solar-plants
+561,Lobsters,devops,DevOps,"Amazon AWS announces managed Kafka, Amazon MSK",https://aws.amazon.com/msk/
+562,Lobsters,devops,DevOps,Stack Overflow: How We Do Monitoring - 2018 Edition,https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/
+563,Lobsters,devops,DevOps,"5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code",https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+564,Lobsters,devops,DevOps,Advanced Docker networking - Custom outgoing IP,https://medium.com/@havloujian.joachim/advanced-docker-networking-outgoing-ip-921fc3090b09
+565,Lobsters,devops,DevOps,Story of a little bug that went six weeks without monitoring setting off an alert,https://dev.to/ohffs/story-of-a-little-bug-4ppb
+566,Lobsters,devops,DevOps,"Pair CrateDB with Grafana, an Open Platform for Time Series Data Visualization",https://crate.io/a/pair-cratedb-with-grafana-an-open-platform-for-time-series-data-visualization/
+567,Lobsters,devops,DevOps,You might not need Kubernetes,https://blog.jessfraz.com/post/you-might-not-need-k8s/
+568,Lobsters,devops,DevOps,Run SQL directly on CSV files with q,https://harelba.github.io/q/
+569,Lobsters,devops,DevOps,The last thing that I missed in AWS CloudFormation,https://pattern-match.com/blog/2018/10/04/the-last-thing-i-missed-in-cloudformation/
+570,Lobsters,devops,DevOps,Some notes on running new software in production,https://jvns.ca/blog/2018/11/11/understand-the-software-you-use-in-production/
+571,Lobsters,devops,DevOps,Running a Gopher Server in 2018,http://prgmr.com/blog/gopher/2018/11/09/setting-up-gopherserver.html
+572,Lobsters,devops,DevOps,Everything You Need To Know About Networking On AWS,https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws
+573,Lobsters,devops,DevOps,Erosion-resistance & Explicit Contracts (2011),https://blog.heroku.com/the_new_heroku_4_erosion_resistance_explicit_contracts
+574,Lobsters,devops,DevOps,join(1) - relational database operator,https://man.openbsd.org/join.1
+575,Lobsters,devops,DevOps,"cullum/dank-selfhosted -- ansible playbook for self-hosting your own email, web hosting, XMPP chat",https://github.com/cullum/dank-selfhosted
+576,Lobsters,devops,DevOps,DevOps for a Commodore 64?,https://operation8bit.wordpress.com/2018/10/29/devops-for-a-commodore-64/
+577,Lobsters,devops,DevOps,Command line scripting with ClojureScript,https://itnext.io/command-line-scripting-with-clojurescript-5e5567367713
+578,Lobsters,devops,DevOps,Embracing failures and cutting infrastructure costs: Spot instances in Kubernetes,https://learnk8s.io/blog/kubernetes-spot-instances
+579,Lobsters,devops,DevOps,Disabling Intel Hyper-Threading Technology on Amazon Linux (2017),https://aws.amazon.com/blogs/compute/disabling-intel-hyper-threading-technology-on-amazon-linux/
+580,Lobsters,devops,DevOps,"Infrastructure as Code, Part Two: A Closer Look at Terraform",https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/
+581,Lobsters,devops,DevOps,Vespene - A Build & Self-Service Automation Platform From The Creator of Ansible,https://vespene.io/
+582,Lobsters,devops,DevOps,Lambda Shell - open invitation to hack an aws lambda,http://www.lambdashell.com
+583,Lobsters,devops,DevOps,Reading /proc/pid/cmdline can hang forever,https://rachelbythebay.com/w/2014/10/27/ps/
+584,Lobsters,devops,DevOps,The differing definitions of “serverless”,https://winterwindsoftware.com/serverless-definitions/
+585,Lobsters,devops,DevOps,use nginx auth_request module and Lasso to protect all of your private applications with Google Auth,https://medium.com/lasso/use-nginx-and-lasso-to-add-google-authentication-to-any-application-d3a8a7f073dd
+586,Lobsters,devops,DevOps,"opunit! sanity checks for vms, containers, and servers",https://dev.to/chrisparnin/opunit-30j0
+587,Lobsters,devops,DevOps,The Neomonolith,https://inconshreveable.com/10-07-2015/the-neomonolith/
+588,Lobsters,devops,DevOps,Upgrading OpenBSD with Ansible,https://chown.me/blog/upgrading-openbsd-with-ansible.html
+589,Lobsters,devops,DevOps,Well Architected Monoliths are Okay,https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/
+590,Lobsters,devops,DevOps,Scalable Anomaly Detection (with Zero Machine Learning),https://www.youtube.com/watch?v=6UwcqiNsZ8U
+591,Lobsters,devops,DevOps,cespare/reflex (tool to run a command when files change),https://github.com/cespare/reflex
+592,Lobsters,devops,DevOps,Kitten: a tiny multi-server automation tool,https://github.com/hoffa/kitten
+593,Lobsters,devops,DevOps,Spinning up a Wallaroo cluster is easy,https://blog.wallaroolabs.com/2018/10/spinning-up-a-wallaroo-cluster-is-easy/
+594,Lobsters,devops,DevOps,"Roll all instances within a kubernetes cluster, using a zero-downtime strategy",https://github.com/dmathieu/dice
+595,Lobsters,devops,DevOps,"Interview with Betsy Beyer, Stephen Thorne of Google",https://driftboatdave.com/2018/10/09/interview-with-betsy-beyer-stephen-thorne-of-google/
+596,Lobsters,devops,DevOps,Your First Hydra,http://qfpl.io/posts/nix/starting-simple-hydra/
+597,Lobsters,devops,DevOps,Why No Dry Run?,https://orbifold.xyz/no-dry-run.html
+598,Lobsters,devops,DevOps,Systems Monitoring: top vs Htop vs Glances,http://tech.marksblogg.com/top-htop-glances.html
+599,Lobsters,devops,DevOps,Kubernetes for personal projects? No thanks,http://carlosrdrz.es/kubernetes-for-small-projects/
+600,Lobsters,devops,DevOps,"Infrastructure as Code, Part One",https://crate.io/a/infrastructure-as-code-part-one/
+601,Lobsters,devops,DevOps,Eight day Cisco chat service outage caused by automated deletion of cloud VMs,https://www.theregister.co.uk/2018/10/03/cisco_webex_outage_script/
+602,Lobsters,devops,DevOps,Why Are Enterprises So Slow?,https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/
+603,Lobsters,devops,DevOps,Black Friday Infrastructure Readiness Checklist,https://fuzzy-logic.org/file/FuzzyLogic-ReadinessChecklist.pdf
+604,Lobsters,devops,DevOps,Kubernetes: The Surprisingly Affordable Platform for Personal Projects,https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+605,Lobsters,devops,DevOps,Optimising Docker Layers for Better Caching with Nix,https://grahamc.com/blog/nix-and-layered-docker-images
+606,Lobsters,devops,DevOps,Test Your GitHub Repositories with Docker in 5 Minutes,https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes
+607,Lobsters,devops,DevOps,Moving Past Shallow Incident Data,http://www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/
+608,Lobsters,devops,DevOps,A Zero-Fricton Terraform Primer,https://grahamlyons.com/article/a-zero-fricton-terraform-primer
+609,Lobsters,devops,DevOps,Introduction to HAProxy Stick Tables,https://www.haproxy.com/blog/introduction-to-haproxy-stick-tables/
+610,Lobsters,devops,DevOps,An Analysis of the Atlassian Acquisition of OpsGenie,https://www.moogsoft.com/blog/aiops/analysis-atlassian-opsgenie-acquisition/
+611,Lobsters,devops,DevOps,API Gateways (ingress) vs service meshes,https://blog.getambassador.io/api-gateway-vs-service-mesh-104c01fa4784
+612,Lobsters,devops,DevOps,Finding a Continous Integration solution,https://asylum.madhouse-project.org/blog/2018/09/17/finding-a-ci-solution/
+613,Lobsters,devops,DevOps,What Is GitOps Really?,https://www.weave.works/blog/what-is-gitops-really
+614,Lobsters,devops,DevOps,Visual Studio Team Services is now Azure DevOps Services,https://docs.microsoft.com/en-us/azure/devops/user-guide/what-happened-vsts
+615,Lobsters,devops,DevOps,Summary & Review of 'Site Reliability Engineering' Book,https://tomasalabes.me/blog/blog/development/book-review/2018/09/04/google-sre-review.html
+616,Lobsters,devops,DevOps,Container Runtimes Part 2: Anatomy of a Low-Level Container Runtime,https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai
+617,Lobsters,devops,DevOps,My Love Hate Relationship with Docker and Container Orchestration Systems,https://penguindreams.org/blog/my-love-hate-relationship-with-docker-and-container-orchestration-systems
+618,Lobsters,devops,DevOps,What is Kubernetes? And how you can save 50% on your cloud bill,https://learnk8s.io/blog/what-is-kubernetes
+619,Lobsters,devops,DevOps,ICANN Root KSK Rollover,https://www.icann.org/news/announcement-2018-08-22-en
+620,Lobsters,devops,DevOps,Jenkins: Shifting Gears,https://jenkins.io/blog/2018/08/31/shifting-gears/
+621,Lobsters,devops,DevOps,Bitrise launches free mobile CI plan for open source projects,https://blog.bitrise.io/free-developer-plan-features-for-open-source-projects-on-bitrise
+622,Lobsters,devops,DevOps,"Baker, a simple tool for provisioning virtual machines and containers",https://medium.com/@ottomatica/baker-a-simple-tool-for-provisioning-virtual-machines-and-containers-36f2d019fce9
+623,Lobsters,devops,DevOps,Transmit optimisations in Mitogen 0.3,https://sweetness.hmmz.org/2018-08-30-mitogen-03-xmit.html
+624,Lobsters,devops,DevOps,User-Agents — Generating random user agents using Google Analytics and CircleCI,https://intoli.com/blog/user-agents/
+625,Lobsters,devops,DevOps,Machine Learning for CI,https://github.com/mtreinish/ciml
+626,Lobsters,devops,DevOps,Test your sysadmin skills,https://github.com/trimstray/test-your-sysadmin-skills
+627,Lobsters,devops,DevOps,Crash! Bang! Wallop! Practice makes perfect,https://ols.wtf/firedrills-in-core/
+628,Lobsters,devops,DevOps,Docker cannot be downloaded without logging into Docker Store,https://github.com/docker/docker.github.io/issues/6910
+629,Lobsters,devops,DevOps,How many ways can you skin infrastructure as code?,https://blog.james-mullen.me.uk/2018-08-04-how-many-ways-can-you-skin-infrastructure-as-code/
+630,Lobsters,devops,DevOps,You need a task scheduler and runner. What do you use and why?,/s/zrxzpn/you_need_task_scheduler_runner_what_do_you
+631,Lobsters,devops,DevOps,A Brief History of DevOps,https://circleci.com/blog/a-brief-history-of-devops-part-i-waterfall/
+632,Lobsters,devops,DevOps,Through a Dashboard Darkly,https://buildchimp.me/Through-a-Dashboard-Darkly/
+633,Lobsters,devops,DevOps,Health Checks and Graceful Degradation in Distributed Systems,https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672
+634,Lobsters,devops,DevOps,Remote laptop power management using Intel AMT and Dropbear (initramfs) SSH,https://medium.com/@milanaleksic/remote-laptop-power-management-using-intel-amt-and-dropbear-initramfs-ssh-9b727fa6d58e
+635,Lobsters,devops,DevOps,Cheap and easy deployment: CaptainDuckDuck (Part 1),https://blog.florimondmanca.com/cheap-and-easy-deployment-captainduckduck-1
+636,Lobsters,devops,DevOps,"OpenBSD, SpamPD and the Startup Bug",https://penguindreams.org/blog/openbsd-spampd-and-the-startup-bug
+637,Lobsters,devops,DevOps,Two years with CloudFormation: lessons learned,https://sanderknape.com/2018/08/two-years-with-cloudformation-lessons-learned/
+638,Lobsters,devops,DevOps,Thoughts on GoAccess (2017),https://www.photogabble.co.uk/blog/tools-and-resources/thoughts-on-go-access/
+639,Lobsters,devops,DevOps,Flowium: Executable documentation of complex processes,https://flowium.com/help.html
+640,Lobsters,devops,DevOps,"Gitlab may not be accessible any longer from Crimea, Cuba, Iran, North Korea, Sudan, and Syria",https://about.gitlab.com/2018/07/19/gcp-move-update/
+641,Lobsters,devops,DevOps,Advantages and Disadvantages of a Monolithic Repository,https://storage.googleapis.com/pub-tools-public-publication-data/pdf/e10cb92dab5f0624a78a37a20f1fdaf12fab91db.pdf
+642,Lobsters,devops,DevOps,The Site Reliability Workbook: Practical Ways to Implement SRE,https://services.google.com/fh/files/misc/the-site-reliability-workbook-next18.pdf
+643,Lobsters,devops,DevOps,New Book: The Site Reliability Workbook (free until August 23rd),https://landing.google.com/sre/book.html
+644,Lobsters,devops,DevOps,How Docker Images Work: Union File Systems for Dummies,https://terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/
+645,Lobsters,devops,DevOps,Six Tips for Mastering your Procfile,https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779
+646,Lobsters,devops,DevOps,Logging: change your mind,https://juxt.pro/blog/posts/logging.html
+647,Lobsters,devops,DevOps,"SLOs, SLIs, SLAs, oh my - CRE life lessons",https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html
+648,Lobsters,devops,DevOps,Deploying Rust with Docker and Kubernetes,https://www.fpcomplete.com/blog/2018/07/deploying-rust-with-docker-and-kubernetes
+649,Lobsters,devops,DevOps,Optimizing our deployment pipeline: Minimizing feedback loops and bottlenecks,https://tech.highsnobiety.com/optimizing-our-deployment-pipeline-part-1-3fb04e727013
+650,Lobsters,devops,DevOps,Bare Metal K8s Clustering at Chick-fil-A Scale,https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541
+651,Lobsters,devops,DevOps,"Google Cloud Platform - The Good, Bad, and Ugly (It's Mostly Good)",https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/
+652,Lobsters,devops,DevOps,On the AWS Application Load Balancer HTTP/2 Support (or lack thereof),https://medium.com/@ptforsberg/on-the-aws-application-load-balancer-http-2-support-fad4bc67b21a
+653,Lobsters,devops,DevOps,First stable release of Mitogen and Mitogen for Ansible,https://sweetness.hmmz.org/2018-07-10-mitogen-released.html
+654,Lobsters,devops,DevOps,Amazon's ALB's do not validate TLS certificates from internal services,https://kev.inburke.com/kevin/amazons-albs-insecure-internal-traffic/?lobsters
+655,Lobsters,devops,DevOps,Convergence to Kubernetes,https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc
+656,Lobsters,devops,DevOps,Currents: A quarterly report on developer trends in the cloud,https://www.digitalocean.com/currents/june-2018/
+657,Lobsters,devops,DevOps,Walkthrough for Portable Services,http://0pointer.net/blog/walkthrough-for-portable-services.html
+658,Lobsters,devops,DevOps,Supercharging Kafka — Enable Realtime Web Streaming by Adding Pushpin,https://hackernoon.com/supercharging-kafka-enable-realtime-web-streaming-by-adding-pushpin-fd62a9809d94
+659,Lobsters,devops,DevOps,Automatically deploy every GitHub pull request with Zeit’s Now,https://zeit.co/blog/now-for-github
+660,Lobsters,devops,DevOps,Laminar - Lightweight Continuous Integration,https://laminar.ohwg.net/
+661,Lobsters,devops,DevOps,Envoy vs NGINX vs HAProxy: Why the open source Ambassador API Gateway chose Envoy,https://blog.getambassador.io/envoy-vs-nginx-vs-haproxy-why-the-open-source-ambassador-api-gateway-chose-envoy-23826aed79ef
+662,Lobsters,devops,DevOps,Docker Considered Harmful,http://catern.com/posts/docker.html
+663,Lobsters,devops,DevOps,Self-Hosted Developer Bliss,https://blog.nootch.net/2018/06/24/self-hosted-developer-bliss/
+664,Lobsters,devops,DevOps,Writing shell scripts in Clojure using Planck,https://www.youtube.com/watch?v=huGafSndEtQ
+665,Lobsters,devops,DevOps,Kubernetes the Habitat Way.,https://github.com/kinvolk/kubernetes-the-hab-way
+666,Lobsters,devops,DevOps,Pulumi – A new open source cloud development platform,http://joeduffyblog.com/2018/06/18/hello-pulumi/
+667,Lobsters,devops,DevOps,The Simplest Reverse Proxy for ASP.NET Core Using Docker,https://glenmccallum.com/2018/05/08/simplest-revserse-proxy-aspnetcore/
+668,Lobsters,devops,DevOps,Configure Helm TLS communication with multiple Kubernetes clusters,https://medium.com/@maorfr/configure-helm-tls-communication-with-multiple-kubernetes-clusters-5e58674352e2
+669,Lobsters,devops,DevOps,Evolution of the AppDirect Kubernetes network infrastructure,https://www.appdirect.com/blog/evolution-of-the-appdirect-kubernetes-network-infrastructure
+670,Lobsters,devops,DevOps,Speeding up Zsh and Oh-My-Zsh,https://blog.jonlu.ca/posts/speeding-up-zsh
+671,Lobsters,devops,DevOps,A Kubernetes extension to deploy and run Tor onion services,https://github.com/kragniz/tor-controller
+672,Lobsters,devops,DevOps,Your own VPN with OpenIKED & OpenBSD,https://medium.com/@cmacrae/your-own-vpn-with-openiked-openbsd-13d7abd3d1d4
+673,Lobsters,devops,DevOps,Getting started with Docker and Kubernetes on Windows 10,https://learnk8s.io/blog/installing-docker-and-kubernetes-on-windows
+674,Lobsters,devops,DevOps,Logs and Metrics (2017),https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38
+675,Lobsters,devops,DevOps,Katran - A High Performance Layer 4 Load Balancer,https://github.com/facebookincubator/katran
+676,Lobsters,devops,DevOps,Announcing Cachix - Binary Cache as a Service,https://domenkozar.com/2018/06/01/announcing-cachix-binary-cache-as-a-service/
+677,Lobsters,devops,DevOps,The Original Serverless Architecture is Still Here,http://engineering.khanacademy.org/posts/original-serverless.htm
+678,Lobsters,devops,DevOps,Zero Downtime AWS ALB Deployments,https://blog.appoptics.com/zero-downtime-aws-alb-deployments/
+679,Lobsters,devops,DevOps,Reverse Engineering AWS Lambda,https://www.denialof.services/lambda/
+680,Lobsters,devops,DevOps,"Containers, Security, and Echo Chambers",https://blog.jessfraz.com/post/containers-security-and-echo-chambers/
+681,Lobsters,devops,DevOps,My system managed with salt,https://github.com/steveno/dotfiles
+682,Lobsters,devops,DevOps,Ten Things I Wish I’d Known Before Using Jenkins Pipelines,https://zwischenzugs.com/2017/04/23/things-i-wish-i-knew-before-using-jenkins-pipelines/
+683,Lobsters,devops,DevOps,Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection,https://eng.uber.com/observability-anomaly-detection/
+684,Lobsters,devops,DevOps,How i choose software,https://nero.github.io/2018/05/22/how-i-choose-software.html
+685,Lobsters,devops,DevOps,"Building a YouTube MP3 Downloader with Exodus, FFmpeg, and AWS Lambda",https://intoli.com/blog/youtube-mp3-downloader/
+686,Lobsters,devops,DevOps,Ephemeral port exhaustion and how to avoid it,https://making.pusher.com/ephemeral-port-exhaustion-and-how-to-avoid-it/
+687,Lobsters,devops,DevOps,A Docker Image in Less Than 1000 Bytes,https://zwischenzugs.com/2018/05/22/a-docker-image-in-less-than-1000-bytes/
+688,Lobsters,devops,DevOps,Upgrading PostgreSQL from 9.6 to 10.0 on Ubuntu 18.04,http://www.paulox.net/2018/05/19/upgrading-postgresql-from-9-6-to-10-0-on-ubuntu-18-04/
+689,Lobsters,devops,DevOps,"Announcing Thanos, an open source expansion for Prometheus.",https://improbable.io/games/blog/thanos-prometheus-at-scale
+690,Lobsters,devops,DevOps,Full Cycle Developers at Netflix,https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
+691,Lobsters,devops,DevOps,The sad state of sysadmin in the age of containers,https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html
+692,Lobsters,devops,DevOps,"Tarballs, the ultimate container image format",https://www.gnu.org/software/guix/blog/2018/tarballs-the-ultimate-container-image-format/
+693,Lobsters,devops,DevOps,Mgmt Configuration Language,https://purpleidea.com/blog/2018/02/05/mgmt-configuration-language/
+694,Lobsters,devops,DevOps,Docker is the dangerous gamble which we will regret,http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret
+695,Lobsters,devops,DevOps,Configuring JMX exporter for Kafka and Zookeeper,https://alex.dzyoba.com/blog/jmx-exporter/
+696,Lobsters,devops,DevOps,Tips for High Availability,https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c
+697,Lobsters,devops,DevOps,Is K8s Too Complicated?,http://jmoiron.net/blog/is-k8s-too-complicated/
+698,Lobsters,devops,DevOps,Scaling your on-duty team – Teads Engineering,https://medium.com/teads-engineering/scaling-your-on-duty-team-bc467c480747
+699,Lobsters,devops,DevOps,"Using Racket, PostgreSQL, AWS (but no ads or JS)",http://www.greghendershott.com/2018/05/extramaze-llc-using-racket-postgresql-aws-but-no-ads-or-js.html
+700,Lobsters,devops,DevOps,How to choose the right container orchestration and how to deploy it,https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241
+701,Lobsters,devops,DevOps,Running FFmpeg on AWS Lambda for 1.9% the cost of AWS Elastic Transcoder,https://intoli.com/blog/transcoding-on-aws-lambda/
+702,Lobsters,devops,DevOps,Kubernetes: The State of Stateful Apps,https://www.cockroachlabs.com/blog/kubernetes-state-of-stateful-apps/
+703,Lobsters,devops,DevOps,Tor Hidden (Onion) Services Best Practices,https://riseup.net/en/security/network-security/tor/onionservices-best-practices
+704,Lobsters,devops,DevOps,The Evolution of Container Usage at Netflix,https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b
+705,Lobsters,devops,DevOps,How to deploy Laravel to Kubernetes,https://learnk8s.io/blog/deploying-laravel-to-kubernetes
+706,Lobsters,devops,DevOps,A Guide to Deploy Elasticsearch Cluster on Google Kubernetes Engine,https://medium.com/@pyk/a-guide-to-deploy-elasticsearch-cluster-on-google-kubernetes-engine-52f67743ee98
+707,Lobsters,devops,DevOps,nuster 1.7.10.1 released – A caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.10.1
+708,Lobsters,devops,DevOps,Zero-downtime Clojure Deployment,https://functional.works-hub.com/learn/zero-downtime-clojure-deployment-c6c82
+709,Lobsters,devops,DevOps,Job Descriptions for System Administrators: Core Job Descriptions,https://web.archive.org/web/20110807054238/http://sageweb.sage.org/field/jobs-descriptions.html
+710,Lobsters,devops,DevOps,Interns with toasters: how I taught people about load balancers,https://rachelbythebay.com/w/2018/04/21/lb/
+711,Lobsters,devops,DevOps,Lessons I’ve learned deploying SaaS software on-prem,https://blog.kloudless.com/2018/04/18/lessons-ive-learned-deploying-saas-software-on-prem/
+712,Lobsters,devops,DevOps,"Titus, the Netflix container management platform, is now open source",https://medium.com/@NetflixTechBlog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436
+713,Lobsters,devops,DevOps,How Netflix does failovers in 7 minutes,https://opensource.com/article/18/4/how-netflix-does-failovers-7-minutes-flat
+714,Lobsters,devops,DevOps,Kubernetes Application Operator Basics,https://blog.openshift.com/kubernetes-application-operator-basics/
+715,Lobsters,devops,DevOps,Angle Grinder: CLI App to Slice and Dice Your Logs,https://github.com/rcoh/angle-grinder
+716,Lobsters,devops,DevOps,How did we end up with containers?,http://www.tedinski.com/2018/04/03/why-containers.html
+717,Lobsters,devops,DevOps,"OpenSSH 7.7 released April 3, 2018",http://www.openssh.com/txt/release-7.7
+718,Lobsters,devops,DevOps,GitOps Part 3 - Observability,https://www.weave.works/blog/gitops-part-3-observability
+719,Lobsters,devops,DevOps,An Open Source Tool to analyze wasted EBS capacity in your AWS environment,https://www.fittedcloud.com/blog/open-source-tool-analyze-wasted-ebs-capacity-aws-environment/
+720,Lobsters,devops,DevOps,nuster - A caching proxy server based on HAProxy released v1.7.9.9,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.9
+721,Lobsters,devops,DevOps,RFC 1178 - Choosing a name for your computer (1990),https://tools.ietf.org/html/rfc1178
+722,Lobsters,devops,DevOps,Crafting sustainable on-call rotations,https://increment.com/on-call/crafting-sustainable-on-call-rotations/
+723,Lobsters,devops,DevOps,Extremely Fast MySQL Backup and Restore Using Mydumper/Myloader,https://pagewoo.com/extremely-fast-mysql-backup-restore-using-mydumpermyloader/
+724,Lobsters,devops,DevOps,"DevOps conference recordings from Q4 2017: AWS re:Invent, LISA, PuppetConf and DevOpsDays",https://blog.meetupfeed.com/devops-conference-recordings-from-q4-2017-aws-reinvent-lisa-puppetconf-and-devopsdays/
+725,Lobsters,devops,DevOps,Crowdfunding Mitogen: day 23,http://pythonsweetness.tumblr.com/post/172336616242/crowfunding-mitogen-day-23
+726,Lobsters,devops,DevOps,Why I usually run 'w' first when troubleshooting unknown machines,https://rachelbythebay.com/w/2018/03/26/w/
+727,Lobsters,devops,DevOps,Migrating to Kubernetes with zero downtime: the why and how,https://blog.manifold.co/migrating-to-kubernetes-with-zero-downtime-the-why-and-how-d64ba9a92619
+728,Lobsters,devops,DevOps,Alerting or notifying on SSH logins,https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
+729,Lobsters,devops,DevOps,Reviewing gRPC on Kubernetes,https://medium.com/@mhausenblas/reviewing-grpc-on-kubernetes-8a705b928abd
+730,Lobsters,devops,DevOps,What happens when the pager goes off?,https://increment.com/on-call/when-the-pager-goes-off/
+731,Lobsters,devops,DevOps,Into the Void – Void Linux description and review from maintainer's POV,https://michaelwashere.net/void/linux/culture/2017/09/18/into-the-void.html
+732,Lobsters,devops,DevOps,Overview of Redis high availability,https://alex.dzyoba.com/blog/redis-ha/
+733,Lobsters,devops,DevOps,Tips for building a Kubernetes proof of concept,https://opensource.com/article/18/3/building-kubernetes-proof-concept
+734,Lobsters,devops,DevOps,GitLab 10.6 released with CI/CD for GitHub and deeper Kubernetes integration,https://about.gitlab.com/2018/03/22/gitlab-10-6-released/
+735,Lobsters,devops,DevOps,The Kickstarter for the Mitogen extension for Ansible was successfully funded,https://www.kickstarter.com/projects/548438714/mitogen-extension-for-ansible
+736,Lobsters,devops,DevOps,nuster- v1.7.9.8 is released (A web caching proxy server),https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.8
+737,Lobsters,devops,DevOps,The security footgun in etcd,https://elweb.co/the-security-footgun-in-etcd/
+738,Lobsters,devops,DevOps,Containers Patterns | There are thousands of ways to use containers,https://l0rd.github.io/containerspatterns/#
+739,Lobsters,devops,DevOps,Time-series histograms with Rothko — Observability for IoT,https://innovation.vivint.com/time-series-histograms-with-rothko-observability-for-iot-ce39a09c35fc
+740,Lobsters,devops,DevOps,Kickstarting free software: one week later,http://pythonsweetness.tumblr.com/post/171830663802/kickstarting-free-software-one-week-later
+741,Lobsters,devops,DevOps,nuster- v1.7.9.7 is released (A web caching proxy server),https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.7
+742,Lobsters,devops,DevOps,"Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go",https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581
+743,Lobsters,devops,DevOps,Prove the badness of coworkers at your own risk,https://rachelbythebay.com/w/2012/01/09/rigor/
+744,Lobsters,devops,DevOps,Fixers need good air cover,https://rachelbythebay.com/w/2018/03/07/cover/
+745,Lobsters,devops,DevOps,"Inside Docker's ""FROM scratch"" ·",https://embano1.github.io/post/scratch/
+746,Lobsters,devops,DevOps,Bazel Fawlty,http://danmux.com/posts/bazel_fawlty/
+747,Lobsters,devops,DevOps,Quadrupling Ansible performance with Mitogen,http://pythonsweetness.tumblr.com/post/171589071872/quadrupling-ansible-performance-with-mitogen
+748,Lobsters,devops,DevOps,Resilience In Complex Adaptive Systems (Velocity NY 2013),https://www.youtube.com/watch?v=PGLYEDpNu60
+749,Lobsters,devops,DevOps,How we built Hamiltix.net for less than $1 a month on AWS,https://blog.badsectorlabs.com/how-we-built-hamiltixnet-for-less-than-1-a-month-on-aws.html
+750,Lobsters,devops,DevOps,nuster 1.7.9.6 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.6
+751,Lobsters,devops,DevOps,"Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers",https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
+752,Lobsters,devops,DevOps,Postgres Backups with Continuous Archiving,http://malisper.me/postgres-backups-with-continuous-archiving/
+753,Lobsters,devops,DevOps,Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites,https://zwischenzugs.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
+754,Lobsters,devops,DevOps,Five Things I Did to Change a Team's Culture,https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/
+755,Lobsters,devops,DevOps,Dissecting Kubernetes Deployments,https://blog.heroku.com/dissecting-kubernetes-deployments
+756,Lobsters,devops,DevOps,Attacks against GPG signed APT repositories,https://blog.packagecloud.io/eng/2018/02/21/attacks-against-secure-apt-repositories/
+757,Lobsters,devops,DevOps,How to Deploy Django apps on AWS Lambda,http://blog.apcelent.com/deploy-django-app-aws-lambda.html
+758,Lobsters,devops,DevOps,"32b/docker-get - ""pull"" docker images from git repositories",https://github.com/32b/docker-get
+759,Lobsters,devops,DevOps,Kubernetes and PaaS: The Force of Developer Experience and Workflow,https://thenewstack.io/kubernetes-paas-force-developer-experience-workflow/
+760,Lobsters,devops,DevOps,nuster 1.7.9.5 released – A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.5
+761,Lobsters,devops,DevOps,A practical look at basic AWS Networking with Terraform,https://ops.tips/blog/a-pratical-look-at-basic-aws-networking/
+762,Lobsters,devops,DevOps,Serverless: who’s on call now?,https://hackernoon.com/serverless-whos-on-call-now-81193fbfe9d7
+763,Lobsters,devops,DevOps,Raise the bar for Cryptocurrency Exchanges,https://medium.com/@brian.cain/raise-the-bar-for-cryptocurrency-exchanges-eae7aaa05912
+764,Lobsters,devops,DevOps,3 simple tricks for smaller Docker images,https://learnk8s.io/blog/smaller-docker-images
+765,Lobsters,devops,DevOps,Fidelius – Access private GitHub repos in docker build,https://medium.com/verloop-engineering/fidelius-e4b2d8b6b1df
+766,Lobsters,devops,DevOps,Building an open source API Gateway on Kubernetes with Envoy,https://blog.getambassador.io/building-ambassador-an-open-source-api-gateway-on-kubernetes-and-envoy-ed01ed520844
+767,Lobsters,devops,DevOps,Rainbow Deploys with Kubernetes,http://brandon.dimcheff.com/2018/02/rainbow-deploys-with-kubernetes/
+768,Lobsters,devops,DevOps,Much ado about latency: Mitogen and the BFG9000 of import hooks,http://pythonsweetness.tumblr.com/post/170846280192/much-ado-about-latency-mitogen-and-the-bfg9000-of
+769,Lobsters,devops,DevOps,PostgreSQL with Let's Encrypt,https://blog.ls42.de/post/postgres-ssl-with-caddy/
+770,Lobsters,devops,DevOps,Containers Will Not Fix Your Broken Culture (and Other Hard Truths),https://queue.acm.org/detail.cfm?id=3185224
+771,Lobsters,devops,DevOps,Anatomy of a Ceph meltdown,http://chneukirchen.org/blog/archive/2018/01/anatomy-of-a-ceph-meltdown.html
+772,Lobsters,devops,DevOps,Web cache server performance benchmark: nuster vs squid,https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-squid
+773,Lobsters,devops,DevOps,nuster- v1.7.9.4 is released (A web caching proxy server),https://github.com/jiangwenyuan/nuster/releases/tag/v1.7.9.4
+774,Lobsters,devops,DevOps,Instrumenting Go service for Prometheus,https://alex.dzyoba.com/blog/go-prometheus-service/
+775,Lobsters,devops,DevOps,The full-time job of keeping up with Kubernetes,https://gravitational.com/blog/kubernetes-release-cycle/#
+776,Lobsters,devops,DevOps,"A system to collect, analyze, and label all Internet mass scanner data",https://greynoise.io/blog/2018/2/1/what-is-greynoise
+777,Lobsters,devops,DevOps,nuster - A web caching proxy server based on HAProxy,https://github.com/jiangwenyuan/nuster
+778,Lobsters,devops,DevOps,"Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership",https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership
+779,Lobsters,devops,DevOps,DevConf CZ 2018 - Videos,https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg
+780,Lobsters,devops,DevOps,Who uses OpenStack?,/s/sz4zva/who_uses_openstack
+781,Lobsters,devops,DevOps,A minimalist guide to tmux,https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa
+782,Lobsters,devops,DevOps,6 practices for super smooth Ansible experience,http://hakunin.com/six-ansible-practices
+783,Lobsters,devops,DevOps,Running osquery on CoreOS,https://jpadilla.com/2018/01/25/running-osquery-on-coreos/
+784,Lobsters,devops,DevOps,Rediscovering make: automatic variables,https://monades.roperzh.com/rediscovering-make-automatic-variables/
+785,Lobsters,devops,DevOps,"Bash aliases are great, so is dired.",/s/vyfhpm/bash_aliases_are_great_so_is_dired
+786,Lobsters,devops,DevOps,How To Establish a High Severity Incident Management Program,https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/
+787,Lobsters,devops,DevOps,Serverless on Kubernetes,https://soundcloud.com/serverlesspodcast/episode-5-serverless-on-kubernetes
+788,Lobsters,devops,DevOps,The hidden costs of serverless,https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b
+789,Lobsters,devops,DevOps,Test Driven Development,https://hwengineer.github.io/TDD/
+790,Lobsters,devops,DevOps,My Raspberry Pi Kubernetes Cluster,https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/
+791,Lobsters,devops,DevOps,"Fast incremental Java builds w Docker (i.e., using build caches inside Docker)",https://www.datawire.io/fast-builds-java-spring-boot-applications-docker/
+792,Lobsters,devops,DevOps,Containers versus Operating Systems,https://dave.cheney.net/2018/01/16/containers-versus-operating-systems
+793,Lobsters,devops,DevOps,"Real-Time Applications Metrics Available on Clever Cloud, a European PaaS",https://www.clever-cloud.com/blog/features/2018/01/16/realtime-metrics/
+794,Lobsters,devops,DevOps,The Death of Microservice Madness in 2018,http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+795,Lobsters,devops,DevOps,Locally developing Kubernetes services (without waiting for a deploy),https://hackernoon.com/locally-developing-kubernetes-services-without-waiting-for-a-deploy-f63995de7b99
+796,Lobsters,devops,DevOps,"""Towards ""annex"", a Fact Based Dependency System"" by Mark Hibberd (2014)",https://www.youtube.com/watch?v=JjYAnBhF2JU
+797,Lobsters,devops,DevOps,verssion.one: Wikipedia as the new Freshmeat,https://verssion.one
+798,Lobsters,devops,DevOps,"Ninja, a small build system with a focus on speed",https://ninja-build.org/
+799,Lobsters,devops,DevOps,Scaling your monorepo for an efficient CI,http://alexrs.me/2018/shopify-monorepo/
+800,Lobsters,devops,DevOps,"Spectre-on-Kubernetes, a proof of concept",https://medium.com/@mhausenblas/spectre-on-kubernetes-a-proof-of-concept-baade68284f8
+801,Lobsters,devops,DevOps,Selecting a Cloud Provider,https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/
+802,Lobsters,devops,DevOps,Deploy Keras Image Recognition ML Models to the Web,https://www.helmspoint.com/?s=lob
+803,Lobsters,devops,DevOps,Deconstructing containers and examples to understand them better,https://blog.kintoandar.com/2018/01/Building-healthier-containers.html
+804,Lobsters,devops,DevOps,3 years on Google App Engine. An Epic Review.,http://blog.stephanbehnke.com/3-years-on-google-app-engine-an-epic-review/
+805,Lobsters,devops,DevOps,"Docker, Inc is Dead",https://chrisshort.net/docker-is-dead/
+806,Lobsters,devops,DevOps,On Operational Environments,https://medium.com/@eugenkiss/on-operational-environments-9fd53d19cb00
+807,Lobsters,devops,DevOps,packagecloud.io now supports Node.js packages!,https://blog.packagecloud.io/eng/2017/12/27/npm-registry-support/
+808,Lobsters,devops,DevOps,Testing Ansible Playbooks With Vagrant,https://carlchenet.com/testing-ansible-playbooks-with-vagrant/
+809,Lobsters,devops,DevOps,"MTA, SPF, DKIM, PTR, WTF: a quick checklist on how to send e-mail from your domain",https://kimonote.com/@mildbyte/mta-spf-dkim-ptr-wtf-a-quick-checklist-on-how-to-send-e-mail-from-your-domain-3020/
+810,Lobsters,devops,DevOps,The Evolution of Reddit.com's Architecture,https://www.infoq.com/presentations/reddit-architecture-evolution
+811,Lobsters,devops,DevOps,"Learning to operate Kubernetes reliably (by Julia Evans, Stripe Engineering)",https://stripe.com/blog/operating-kubernetes
+812,Lobsters,devops,DevOps,Project Management as Code with Graphviz,https://zwischenzugs.com/2017/12/18/project-management-as-code-with-graphviz/
+813,Lobsters,devops,DevOps,How to use Kubernetes with Github,https://github.com/kelseyhightower/pipeline
+814,Lobsters,devops,DevOps,Dubsmash's road to 200 million users with 3 engineers,https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers
+815,Lobsters,devops,DevOps,Continuous integration services for open-source projects not requiring config in root of repository?,/s/v6vmqs/continuous_integration_services_for
+816,Lobsters,devops,DevOps,Kubeflow – Machine Learning Toolkit for Kubernetes,https://github.com/google/kubeflow
+817,Lobsters,devops,DevOps,Pivotal Cloud Foundry vs Kubernetes: Choosing The Right Cloud-Native Application Deployment Platform,https://blog.takipi.com/pivotal-cloud-foundry-vs-kubernetes-choosing-the-right-cloud-native-application-deployment-platform/
+818,Lobsters,devops,DevOps,Conference Report: LISA 2017,http://noidea.dog/lisa17
+819,Lobsters,devops,DevOps,The Rise of Rust in Dev/Ops,https://mesosphere.com/blog/rust-devops/
+820,Lobsters,devops,DevOps,Announcing cni-ipvlan-vpc-k8s: IPvlan overlay-free Kubernetes Networking in AWS,https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e
+821,Lobsters,devops,DevOps,How is a Class like a Microservice?,https://www.hillelwayne.com/post/box-diagrams/
+822,Lobsters,devops,DevOps,How Your Systems Keep Running Day After Day,https://www.youtube.com/watch?v=xA5U85LSk0M
+823,Lobsters,devops,DevOps,Automating HAProxy and LetsEncrypt with Docker,http://penguindreams.org/blog/bee2-automating-haproxy-and-letsencrypt-with-docker
+824,Lobsters,devops,DevOps,A DIY Dashboard with Grafana,https://appliedgo.net/diydashboard/
+825,Lobsters,devops,DevOps,vedetta-com/vedetta: OpenBSD Router Boilerplate,https://github.com/vedetta-com/vedetta
+826,Lobsters,devops,DevOps,Building slim Docker images for Haskell applications,https://futtetennismo.me/posts/docker/2017-11-24-docker-haskell-executables.html
+827,Lobsters,devops,DevOps,Vector: Netflix performance monitoring framework,http://vectoross.io/
+828,Lobsters,devops,DevOps,Kubernetes: Getting Started,https://chrisshort.net/kubernetes-getting-started/
+829,Lobsters,devops,DevOps,Chaos Engineering Building Confidence in System Behavior through Experiments,http://www.oreilly.com/webops-perf/free/chaos-engineering.csp
+830,Lobsters,devops,DevOps,Microservice architecture best practices from tech leaders,http://codingsans.com/blog/microservice-architecture-best-practices
+831,Lobsters,devops,DevOps,How do you parameterize configuration files?,/s/ewiny0/how_do_you_parameterize_configuration
+832,Lobsters,devops,DevOps,Amazon finally supports Kubernetes,https://aws.amazon.com/eks/
+833,Lobsters,devops,DevOps,Graceful Switching of Worker Processes,https://robots.thoughtbot.com/graceful-switching-of-worker-processes
+834,Lobsters,devops,DevOps,Example of how learning to operate kubernetes well in production is really hard,https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
+835,Lobsters,devops,DevOps,Unix commands sorted by votes,http://www.commandlinefu.com/commands/browse/sort-by-votes
+836,Lobsters,devops,DevOps,Node config best practices,http://codingsans.com/blog/node-config-best-practices
+837,Lobsters,devops,DevOps,Less unit tests more logs,https://www.voucherify.io/blog/less-unit-tests-more-logs
+838,Lobsters,devops,DevOps,Hosting a self made Kubernetes infrastructure on Scaleway,https://chmod666.org/2017/11/Hosting-a-self-made-Kubernetes-infrastructure-on-Scaleway
+839,Lobsters,devops,DevOps,Getting Started With CrateDB as an MQTT Endpoint,https://crate.io/a/getting-started-cratedb-mqtt-endpoint/
+840,Lobsters,devops,DevOps,In the Shadow of Murphy’s Law: Designing for Failure,https://blog.domaintools.com/2017/11/in-the-shadow-of-murphys-law-designing-for-failure/
+841,Lobsters,devops,DevOps,A better solution to ECS AutoScaling,http://garbe.io/blog/2017/04/12/a-better-solution-to-ecs-autoscaling/
+842,Lobsters,devops,DevOps,"Alexa, Is My Infrastructure on Fire?",http://gregshackles.com/alexa-is-my-infrastructure-on-fire/
+843,Lobsters,devops,DevOps,Google’s approach to observability,https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058
+844,Lobsters,devops,DevOps,Be careful about using IO domain names for production traffic,https://getstream.io/blog/stop-using-io-domain-names-for-production-traffic/
+845,Lobsters,devops,DevOps,The cloud native application,https://reader.paperc.com/books/Cloud-Native-Java/857864/part-idm140126760070672
+846,Lobsters,devops,DevOps,Announcing Prometheus 2.0,https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/
+847,Lobsters,devops,DevOps,Cloud Foundry adds native Kubernetes support for running containers,https://techcrunch.com/2017/10/11/cloud-foundry-launches-its-online-marketplace-and-adds-native-kubernetes-support/
+848,Lobsters,devops,DevOps,7 Reasons Why Your Staging Environment Sucks,https://blog.loadmill.com/7-reasons-why-your-staging-environment-sucks-953f8504fba3
+849,Lobsters,devops,DevOps,Deep dive into postgres stats: pg_stat_database,http://blog.postgresql-consulting.com/2017/02/deep-dive-into-postgres-stats_28.html
+850,Lobsters,devops,DevOps,App Container Spec,https://github.com/appc/spec
+851,Lobsters,devops,DevOps,Announcing PCI Compliance for Heroku Shield,https://blog.heroku.com/pci-compliance-for-heroku-shield
+852,Lobsters,devops,DevOps,"Sir, you're doing 60 in a 30mph container zone. What are you, some kind of devops cop?",https://www.theregister.co.uk/2017/11/01/containerised_traffic_cops_detect_rogue_containers/
+853,Lobsters,devops,DevOps,"awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos",https://github.com/alebcay/awesome-shell
+854,Lobsters,devops,DevOps,Docker's first aid for software developers,https://fillmem.com/post/docker-tips-software-developers/
+855,Lobsters,devops,DevOps,"Docker ARG, ENV and .env - a Complete Guide",https://vsupalov.com/docker-arg-env-variable-guide/
+856,Lobsters,devops,DevOps,Stop Using Git Pull To Deploy (2014),https://grimoire.ca/git/stop-using-git-pull-to-deploy
+857,Lobsters,devops,DevOps,filter-other-days: Artificial Ignorance-compatible logfile date filtering,https://strugee.net/blog/2017/10/announcing-filter-other-days
+858,Lobsters,devops,DevOps,ACME Support in Apache HTTP Server Project,https://letsencrypt.org//2017/10/17/acme-support-in-apache-httpd.html
+859,Lobsters,devops,DevOps,Analyzing Docker Container Performance With Native Tools,https://crate.io/a/analyzing-docker-container-performance-native-tools/
+860,Lobsters,devops,DevOps,Docker Announces Enhancements to the Docker Platform to Simplify and Advance the Management of Kubernetes for Enterprise IT,https://www.docker.com/docker-news-and-press/docker-announces-enhancements-docker-platform-simplify-and-advance-management
+861,Lobsters,devops,DevOps,"DevOps’ish 045: Sick Days, Kubernetes, Kaspersky, Go, AWS, etc.",https://devopsish.com/devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313
+862,Lobsters,devops,DevOps,Docker as Build Environment,https://www.rainerhahnekamp.com/en/docker-build-environment/
+863,Lobsters,devops,DevOps,Mastering Elixir Releases with Distillery — A (Pretty) Complete Guide,https://hackernoon.com/mastering-elixir-releases-with-distillery-a-pretty-complete-guide-497546f298bc
+864,Lobsters,devops,DevOps,Meaningful Alerts: 7 Must-Have Ingredients to Prevent a Production Crisis,http://blog.takipi.com/meaningful-alerts-7-must-have-ingredients-to-prevent-a-production-crisis/
+865,Lobsters,devops,DevOps,"What are ""pause"" containers in K8S?",https://www.ianlewis.org/en/almighty-pause-container
+866,Lobsters,devops,DevOps,Operating a Kubernetes network,https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/
+867,Lobsters,devops,DevOps,Monitoring in the time of Cloud Native,https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e
+868,Lobsters,devops,DevOps,Reasons Kubernetes is cool,https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/
+869,Lobsters,devops,DevOps,"OpenSSH 7.6 released October 3, 2017 (delete SSH protocol version 1)",http://www.openssh.com/txt/release-7.6
+870,Lobsters,devops,DevOps,The DevOps Trap,https://medium.com/initialcommit/the-devops-trap-97cadba60620
+871,Lobsters,devops,DevOps,Serverless: AWS Lambda in production,https://medium.com/peaksware-product-development/serverless-aws-lambda-31482f8e83f4
+872,Lobsters,devops,DevOps,Getting Started With Prometheus and CrateDB for Long-Term Storage,https://crate.io/a/getting-started-prometheus-cratedb-long-term-storage/
+873,Lobsters,devops,DevOps,How to Docker Compose a developer environment: an open source example,http://danlebrero.com/2017/09/25/how-do-docker-compose-development-environement/
+874,Lobsters,devops,DevOps,EuroBSDcon 2017 System Performance Analysis Methodologies,https://www.slideshare.net/brendangregg/eurobsdcon-2017-system-performance-analysis-methodologies
+875,Lobsters,devops,DevOps,free-for-dev,https://github.com/ripienaar/free-for-dev/blob/master/README.md
+876,Lobsters,devops,DevOps,The JVM on Fire - Using Flame Graphs to Analyse Performance,https://blog.codecentric.de/en/2017/09/jvm-fire-using-flame-graphs-analyse-performance/
+877,Lobsters,devops,DevOps,"An immutable, reproducible and inheritable Linux operating system.",http://www.pknopf.com/post/2017-03-20-an_immutable_reproducible_and_inheritable_linux_operating_system/
+878,Lobsters,devops,DevOps,Is Your Postgres Query Starved for Memory?,https://dzone.com/articles/is-your-postgres-query-starved-for-memory
+879,Lobsters,devops,DevOps,"Mitogen, an infrastructure code baseline that sucks less",http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that
+880,Lobsters,devops,DevOps,Take These Steps to Secure Your Raspberry Pi Against Attackers,https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/
+881,Lobsters,devops,DevOps,Reducing Human Error in Software Based Services,http://biven.org/human-error/
+882,Lobsters,devops,DevOps,Managing Datadog with Terraform,https://hackernoon.com/managing-datadog-with-terraform-89abe0eb62f5
+883,Lobsters,devops,DevOps,Ansible Tower upstream project AWX now open source,https://github.com/ansible/awx
+884,Lobsters,devops,DevOps,Conference Report: SRECon EMEA 2017,http://noidea.dog/srecon17emea
+885,Lobsters,devops,DevOps,solidsnack/pglite -- tiny script to manage ephemeral Postgres databases.,https://github.com/solidsnack/pglite
+886,Lobsters,devops,DevOps,Rewriting live data with confidence,https://medium.com/lifesum-healthy-living-simplified/rewriting-live-data-with-confidence-953876b62137
+887,Lobsters,devops,DevOps,My Philosophy on Alerting,https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#
+888,Lobsters,devops,DevOps,Upload weights to deploy Keras models,https://www.helmspoint.com
+889,Lobsters,devops,DevOps,Instant +100% command line productivity boost,https://dev.to/sobolevn/instant-100-command-line-productivity-boost
+890,Lobsters,devops,DevOps,Partitioning existing tables in PostgreSQL,http://blog.nordeus.com/dev-ops/partitioning-existing-tables-in-postgresql.htm
+891,Lobsters,devops,DevOps,The Right Way to Manage Secrets with AWS,https://segment.com/blog/the-right-way-to-manage-secrets/
+892,Lobsters,devops,DevOps,drone: continuous delivery platform built on docker very similar to travis,https://github.com/drone/drone
+893,Lobsters,devops,DevOps,Ansible OpenBSD Cookbooks,https://github.com/ligurio/openbsd-cookbooks
+894,Lobsters,devops,DevOps,"Docker, Rancher, EFS, Glusterfs, Minikube, SNS, SQS, Microservices, Traefik & Containerd ..",https://medium.com/@eon01/docker-rancher-efs-glusterfs-minikube-sns-sqs-microservices-and-containerd-b4c5c9c7cc0c
+895,Lobsters,devops,DevOps,The Essential Java 9 Feature You Probably Never Heard Of,http://blog.takipi.com/the-essential-java-9-feature-you-probably-never-heard-of/
+896,Lobsters,devops,DevOps,Secrets and LIE-abilities: The State of Modern Secret Management (2017),https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d
+897,Lobsters,devops,DevOps,Ops: It's everyone's job now,https://opensource.com/article/17/7/state-systems-administration
+898,Lobsters,devops,DevOps,Kubernetes at GitHub,https://githubengineering.com/kubernetes-at-github/
+899,Lobsters,devops,DevOps,Migrating 1200 db from Mysql to Postgres,http://psyenix.blogspot.com/2017/08/migrating-1200-db-from-mysql-to-postgres.html
+900,Lobsters,devops,DevOps,Testing Huge PostgreSQL Backups for 37 Cents a Day,https://feedbin.com/blog/2017/05/05/testing-huge-postgresql-backups-for-37-cents-a-day/
+901,Lobsters,devops,DevOps,Streamlining deployments with flightplan.js,https://www.voucherify.io/blog/2017/5/31/streamlining-deployments-with-flightplan
+902,Lobsters,devops,DevOps,Dev v Ops [traditional vs. new-school packaging systems],https://www.bassi.io/articles/2017/08/10/dev-v-ops/
+903,Lobsters,devops,DevOps,Kompose Helps Developers Move Docker Compose Files to Kubernetes,http://blog.kubernetes.io/2017/08/kompose-helps-developers-move-docker.html
+904,Lobsters,devops,DevOps,The Purely Functional Software Deployment Model,https://nixos.org/~eelco/pubs/phd-thesis.pdf
+905,Lobsters,devops,DevOps,Kubernetes Secrets Encryption,https://www.twistlock.com/2017/08/02/kubernetes-secrets-encryption/
+906,Lobsters,devops,DevOps,832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1,http://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/
+907,Lobsters,devops,DevOps,How Kubernetes certificate authorities work,https://jvns.ca/blog/2017/08/05/how-kubernetes-certificates-work/
+908,Lobsters,devops,DevOps,Continuous deployment of a webpack app to multiple environments using Travic CI,https://medium.com/@bartwijnants/continuous-deployment-of-a-webpack-app-to-multiple-environments-using-travic-ci-d2c6f22eac50
+909,Lobsters,devops,DevOps,Kubernetes 1.7 with Tim Hockin - google cloud platform,https://www.gcppodcast.com/post/episode-88-kubernetes-1-7-with-tim-hockin/
+910,Lobsters,devops,DevOps,Useful Nix Hacks,http://chriswarbo.net/projects/nixos/useful_hacks.html
+911,Lobsters,devops,DevOps,Bootleg: Simple deployment and server automation for Elixir,https://hexdocs.pm/bootleg/readme.html
+912,Lobsters,devops,DevOps,5 Reasons to Create a Continuous Delivery Database,https://dzone.com/articles/5-reasons-to-create-the-continuous-delivery-databa
+913,Lobsters,devops,DevOps,Literate DevOps with Emacs,https://www.youtube.com/watch?v=dljNabciEGg
+914,Lobsters,devops,DevOps,Docker vs. Kubernetes vs. Apache Mesos: Why What You Think You Know is Probably Wrong,https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
+915,Lobsters,devops,DevOps,Continuous Delivery and When Not to Do It,https://circleci.com/blog/why-we-broke-our-philosophical-vows-to-bring-you-circleci-2-0/
+916,Lobsters,devops,DevOps,opentracing.io,http://opentracing.io/
+917,Lobsters,devops,DevOps,How far can you go with MySQL or MariaDB?,http://jfg-mysql.blogspot.com/2017/07/how-far-with-mysql-mariadb.html
+918,Lobsters,devops,DevOps,PostgreSQL Index bloat under a microscope,http://pgeoghegan.blogspot.com/2017/07/postgresql-index-bloat-microscope.html
+919,Lobsters,devops,DevOps,The SRE model,https://medium.com/@rakyll/the-sre-model-6e19376ef986
+920,Lobsters,devops,DevOps,Cherry picking commits & shell scripting in golang,https://jvns.ca/blog/2017/07/30/a-couple-useful-ideas-from-google/
+921,Lobsters,devops,DevOps,Fast and Easy Containers: Azure Container Instances,https://azure.microsoft.com/en-us/blog/announcing-azure-container-instances/
+922,Lobsters,devops,DevOps,Docker operations slowing down on AWS (this time it’s not DNS),https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/
+923,Lobsters,devops,DevOps,Computing Statistics on Terabytes of Data on Multiple Machines,https://blog.algolia.com/computing-statistics-terabytes-data-multiple-machines/
+924,Lobsters,devops,DevOps,Failure Fridays: Four Years On,https://www.pagerduty.com/blog/failure-fridays-four-years/
+925,Lobsters,devops,DevOps,Blue Green Deployment on Amazon AWS,https://medium.com/practo-engineering/blue-green-deployment-on-amazon-aws-38b820518411
+926,Lobsters,devops,DevOps,Testing Certificate Chains in Go,https://chrisshort.net/testing-certificate-chains-in-go/
+927,Lobsters,devops,DevOps,"Go at the DARPA Cyber Grand Challenge, Will Hawkins @ GopherCon 2017",https://about.sourcegraph.com/go/go-at-the-darpa-cyber-grand-challenge-will-hawkins
+928,Lobsters,devops,DevOps,"Define a Docker Compose file, transpose to a Cloudformation template, and deploy the cluster to Amazon EC2 Container Service using AWS CLI",http://ericlondon.com/2017/07/21/define-docker-compose-file-transpose-to-cloudformation-template-and-deploy-cluster-to-amazon-ec2-container-service-using-aws-cli.html
+929,Lobsters,devops,DevOps,Kubernetes Deep Dive: API Server – Part 2,https://blog.openshift.com/kubernetes-deep-dive-api-server-part-2/
+930,Lobsters,devops,DevOps,Increment issue 2: Cloud,https://increment.com/cloud
+931,Lobsters,devops,DevOps,"""Don't run this on any system you expect to be up"" they said, but we did it anyway",https://www.byte.nl/blog/dont-run-this-on-any-system-you-expect-to-be-up-they-said-but-we-did-it-anyway
+932,Lobsters,devops,DevOps,"Valuable Lessons in Over-Engineering Kubernetes kops, Kris Nova at GopherCon 2017",https://about.sourcegraph.com/go/valuable-lessons-in-over-engineering-the-core-of-kubernetes-kops
+933,Lobsters,devops,DevOps,What Level of Feature Management Is Right for Your Team?,https://thenewstack.io/level-feature-management-right-team/
+934,Lobsters,devops,DevOps,Behind the scenes of a major infrastructure company,http://blog.online.net/2017/07/18/behind-the-scene-of-a-major-infrastructure-company/
+935,Lobsters,devops,DevOps,Running 4558 tests in 1m 55sec (or saving 50 hours/week),https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/
+936,Lobsters,devops,DevOps,Cluster Schedulers,https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896
+937,Lobsters,devops,DevOps,EC2 has new GPU instances (Tesla M60s),https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/
+938,Lobsters,devops,DevOps,What’s New in Buckaroo 1.2? - C++ package manager,https://medium.com/@buckaroo.pm/whats-new-in-buckaroo-1-2-8844eb6bbf5d
+939,Lobsters,devops,DevOps,Running 10 Million PostgreSQL Indexes In Production (And Counting),https://heap.engineering/running-10-million-postgresql-indexes-in-production/
+940,Lobsters,devops,DevOps,How a registrar bug stole our domain name and took down our site,https://medium.com/thisiscala/the-duct-tape-holding-the-internet-together-12118be60ff1
+941,Lobsters,devops,DevOps,"Pterodactyl/Panel -- free, open-source, game agnostic, self-hosted control panel for game servers",https://github.com/Pterodactyl/Panel
+942,Lobsters,devops,DevOps,Docker Compose: Wait for Dependencies,https://8thlight.com/blog/dariusz-pasciak/2016/10/17/docker-compose-wait-for-dependencies.html
+943,Lobsters,devops,DevOps,From monolith to microservices,https://medium.com/poki/from-monolith-to-microservices-b16bae1d6c9d
+944,Lobsters,devops,DevOps,The Minimum Viable Context,http://exple.tive.org/blarg/2017/07/05/the-minimum-viable-context/
+945,Lobsters,devops,DevOps,Load Testing Your IIS Web Server,https://dzone.com/articles/load-testing-your-iis-web-server
+946,Lobsters,devops,DevOps,Creating alerts for system shutdown and boot,https://evaryont.me/blog/2017/07/creating-alerts-for-system-shutdown-and-boot.html
+947,Lobsters,devops,DevOps,Scaling a Web Service: Load Balancing,http://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
+948,Lobsters,devops,DevOps,Notes on moving from etcd2 to etcd3,https://medium.com/@mhausenblas/notes-on-moving-from-etcd2-to-etcd3-dedb26057b90
+949,Lobsters,devops,DevOps,Naming Schemes,https://namingschemes.com
+950,Lobsters,devops,DevOps,Experiences using Terraform,https://sgoel.org/posts/experiences-using-terraform/
+951,Lobsters,devops,DevOps,Will ZFS and non-ECC RAM kill your data? (2015),http://jrs-s.net/2015/02/03/will-zfs-and-non-ecc-ram-kill-your-data/
+952,Lobsters,devops,DevOps,5 Caveats Before Diving into Reactive Microservices Architecture,https://runnable.com/blog/5-caveats-before-diving-into-reactive-microservices-architecture
+953,Lobsters,devops,DevOps,Using Let's Encrypt within FreeBSD.org - lessons learned and advice (2016),https://blog.crashed.org/letsencrypt-in-freebsd-org/
+954,Lobsters,devops,DevOps,Playbooks Aren’t Written For “You”,http://sigusr2.net/playbooks-arent-written-for-you.html
+955,Lobsters,devops,DevOps,Get Your Apps to the Poll (Phase)!,http://bit.ly/2tn9jhm
+956,Lobsters,devops,DevOps,Use Certbot to automate the creation of SSL certificates for OpenVPN,http://loige.co/using-lets-encrypt-and-certbot-to-automate-the-creation-of-certificates-for-openvpn/
+957,Lobsters,devops,DevOps,What can developers learn from being on call?,https://jvns.ca/blog/2017/06/18/operate-your-software/
+958,Lobsters,devops,DevOps,Anonymization of System Logs for Privacy and Storage Benefits,https://arxiv.org/abs/1706.04337
+959,Lobsters,devops,DevOps,Baking delicious cloud instances,https://blog.kintoandar.com/2017/06/Baking-delicious-cloud-instances.html
+960,Lobsters,devops,DevOps,"Test environments, the right way.",http://blog.stack.foundation/2017/06/08/1204/
+961,Lobsters,devops,DevOps,How To Achieve Practical End-to-End Testing With Docker Compose,https://runnable.com/blog/how-to-achieve-practical-end-to-end-testing
+962,Lobsters,devops,DevOps,Terraform Gotchas And How We Work Around Them,http://heap.engineering/terraform-gotchas/
+963,Lobsters,devops,DevOps,Molecule v2 Released,https://github.com/metacloud/molecule/pull/863
+964,Lobsters,devops,DevOps,Calçado's Microservices Prerequisites,http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html
+965,Lobsters,devops,DevOps,Cloud Native Landscape Project,https://github.com/cncf/landscape
+966,Lobsters,devops,DevOps,Kubernetes Production Patterns and Anti-Patterns,https://github.com/gravitational/workshop/blob/master/k8sprod.md
+967,Lobsters,devops,DevOps,Linux Performance (updated),http://www.brendangregg.com/linuxperf.html
+968,Lobsters,devops,DevOps,The Evolution of Code Deploys at Reddit,http://redditblog.com/2017/06/02/the-evolution-of-code-deploys-at-reddit/
+969,Lobsters,devops,DevOps,Using Promises to Escape Callback Hell,http://bit.ly/2rBjYaJ
+970,Lobsters,devops,DevOps,Modeling Zero-Downtime Deployments with TLA+,https://www.hillelwayne.com/post/modeling-deployments/
+971,Lobsters,devops,DevOps,"Snapcraft - from Canonical, automated builds & releases from Github repos",https://build.snapcraft.io/
+972,Lobsters,devops,DevOps,Update Kubernetes Deployment after pushing image to Docker Hub,http://jpadilla.com/post/161144157937/update-kubernetes-deployment-after-pushing-image
+973,Lobsters,devops,DevOps,Five reasons why Heroku is great after all,http://blog.ikura.co/posts/five-reasons-why-heroku-is-great-after-all.html
+974,Lobsters,devops,DevOps,rgxg - ReGular eXpression Generator,https://rgxg.github.io/
+975,Lobsters,devops,DevOps,The Calculus of Service Availability,https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i
+976,Lobsters,devops,DevOps,How to improve ZFS performance,https://icesquare.com/wordpress/how-to-improve-zfs-performance/
+977,Lobsters,devops,DevOps,Introducing Kontainer: The Easy Way to Switch to Kubernetes,https://runnable.com/blog/introducing-kontainer-the-easy-way-to-switch-to-kubernetes
+978,Lobsters,devops,DevOps,HTTPS on Stack Overflow: The End of a Long Road,https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/
+979,Lobsters,devops,DevOps,The Calculus of Service Availability,http://queue.acm.org/detail.cfm?id=3096459
+980,Lobsters,devops,DevOps,"What do you normally install on your servers to monitor, debug and secure them",/s/t4obld/what_do_you_normally_install_on_your
+981,Lobsters,devops,DevOps,Amazon's exabyte-scale data transfer service: a truck,https://aws.amazon.com/snowmobile/
+982,Lobsters,devops,DevOps,Spotting a million dollars in your AWS account,https://segment.com/blog/spotting-a-million-dollars-in-your-aws-account/
+983,Lobsters,devops,DevOps,3 Tools I Use On Every Server,https://bsima.me/clog/server-tools.html
+984,Lobsters,devops,DevOps,Skyliner is shutting down and our team is joining MailChimp,https://blog.skyliner.io/skyliner-is-shutting-down-and-our-team-is-joining-mailchimp-80ef97848e43
+985,Lobsters,devops,DevOps,The Central Challenge in Monitoring Serverless Applications,https://www.instana.com/blog/central-challenge-monitoring-serverless-applications/
+986,Lobsters,devops,DevOps,Debugging Under Fire: Keep your Head when Systems have Lost their Mind,https://www.youtube.com/watch?v=30jNsCVLpAE
+987,Lobsters,devops,DevOps,Vault: Thinking Differently About Secrets,https://runnable.com/blog/vault-thinking-differently-about-secrets
+988,Lobsters,devops,DevOps,Infrastructure As Pseudocode,https://thelyfsoshort.io/infrastructure-as-pseudocode-f3d946704a09
+989,Lobsters,devops,DevOps,Keeping Provisioning and Deployment Simple,https://www.protoapi.net/blog/1/
+990,Lobsters,devops,DevOps,Scaling Dedicated Game Servers with Kubernetes: Part 1: Containerising and Deploying,http://www.gamasutra.com/blogs/MarkMandel/20170502/297222/Scaling_Dedicated_Game_Servers_with_Kubernetes_Part_1__Containerising_and_Deploying.php
+991,Lobsters,devops,DevOps,The Future of Ops,http://bravenewgeek.com/the-future-of-ops/
+992,Lobsters,devops,DevOps,What is DevOps?,https://medium.com/@cindysridharan/what-is-devops-5b0181fdb953
+993,Lobsters,devops,DevOps,"Instead of containerization, give me strong config & deployment primitives",https://abe-winter.github.io/blues/2017/04/27/config-vs-containers.html
+994,Lobsters,devops,DevOps,Typing nix: Gradual types and annotations,https://typing-nix.regnat.ovh/posts/gradual_and_annotations.html
+995,Lobsters,devops,DevOps,How to hide sensitive POST data in NGINX log,https://www.rstcloud.net/blog/30-how-to-hide-sensitive-post-data-in-nginx-log
+996,Lobsters,devops,DevOps,Microservices Series #2: The state of enterprise software (analytical evidence),https://modernweb.com/microservices-enterprise-software/
+997,Lobsters,devops,DevOps,Cartesian - generator for complex configurations,https://github.com/sustrik/cartesian
+998,Lobsters,devops,DevOps,Understanding Enterprise Tech,https://pivotal.io/platform
+999,Lobsters,devops,DevOps,The Evolution of Container Usage at Netflix,http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html
+1000,Lobsters,devops,DevOps,GCE vs AWS in 2016: Why you shouldn’t use Amazon,https://thehftguy.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/
+1001,Lobsters,devops,DevOps,Docker project renamed to Moby,https://github.com/moby/moby
+1002,Lobsters,devops,DevOps,Introducing AWS CodeStar,https://aws.amazon.com/blogs/aws/new-aws-codestar/
+1003,Lobsters,devops,DevOps,A Gentle Introduction to the Nix Family,http://ebzzry.io/en/nix/
+1004,Lobsters,devops,DevOps,On-call at any size – Increment: On-Call,https://increment.com/on-call/on-call-at-any-size/
+1005,Lobsters,devops,DevOps,Lessons learned from moving my side project to Kubernetes,https://medium.com/@14domino/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69
+1006,Lobsters,devops,DevOps,Microservices Series #1: Microservices are software components that work,https://modernweb.com/microservices-software-components-work/
+1007,Lobsters,devops,DevOps,Introducing DnsControl – “DNS as Code” has Arrived,http://blog.serverfault.com/2017/04/11/introducing-dnscontrol-dns-as-code-has-arrived/
+1008,Lobsters,devops,DevOps,On Verification for System Configurations Languages,https://www.youtube.com/watch?v=sjJxirqwXSE
+1009,Lobsters,devops,DevOps,Nginx reaches 33.3% web server market share while Apache falls below 50%,https://w3techs.com/blog/entry/nginx_reaches_33_3_percent_web_server_market_share_while_apache_falls_below_50_percent
+1010,Lobsters,devops,DevOps,Writing a Time Series Database from Scratch,https://fabxc.org/blog/2017-04-10-writing-a-tsdb/
+1011,Lobsters,devops,DevOps,Ansible: A Simple Rollback Strategy for Roles and Playbooks (2014),https://www.servermanaged.it/ansible/ansible-simple-rollback-strategy/
+1012,Lobsters,devops,DevOps,Golang to the rescue: Saving DevOps from TLS turmoil,https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program
+1013,Lobsters,devops,DevOps,How Feature Flags Tame the Four-Heads of Complexity,https://thetechladder.com/story/feature-flags-slay-four-heads-complexity/
+1014,Lobsters,devops,DevOps,"Evolution of Business Logic from Monoliths through Microservices, to Functions",https://read.acloud.guru/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d
+1015,Lobsters,devops,DevOps,AWS VPC Core Concepts in an Analogy and Guide,http://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/
+1016,Lobsters,devops,DevOps,Why you shouldn't use ENV variables for secret data,http://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/
+1017,Lobsters,devops,DevOps,Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites,https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
+1018,Lobsters,devops,DevOps,A Better Dev Workflow with Docker Compose,https://runnable.com/blog/a-better-dev-workflow-with-docker-compose
+1019,Lobsters,devops,DevOps,Chalice: Python serverless microframework for AWS Lambda,https://github.com/awslabs/chalice
+1020,Lobsters,devops,DevOps,Failure Friday: How We Ensure PagerDuty is Always Reliable,https://www.pagerduty.com/blog/failure-friday-at-pagerduty/
+1021,Lobsters,devops,DevOps,How to Install the ELK Stack on Google Cloud Platform,https://logz.io/blog/elk-stack-google-cloud/?http://logz.io/blog/real-time-analytics/
+1022,Lobsters,devops,DevOps,Do I need swap space if I have more than enough amount of RAM?,http://unix.stackexchange.com/questions/190398/do-i-need-swap-space-if-i-have-more-than-enough-amount-of-ram
+1023,Lobsters,devops,DevOps,env-diff: Compare expected environment variables to those set in production,https://github.com/jacebrowning/env-diff
+1024,Lobsters,devops,DevOps,Linux VirtualSetSize Vs. ResidentSetSize,https://utcc.utoronto.ca/~cks/space/blog/linux/VirtualSizeVersusRSS
+1025,Lobsters,devops,DevOps,netboot.xyz,https://netboot.xyz/
+1026,Lobsters,devops,DevOps,A *nix cross-platform (OS agnostic) supervisor,https://immortal.run/
+1027,Lobsters,devops,DevOps,Europa: A Self Hosted Multi-Cloud Container Registry,https://www.distelli.com/europa/
+1028,Lobsters,devops,DevOps,"Hapistrano, a deployment tool for Haskell Projects (improved).",https://stackbuilders.com/news/hapistrano-s-new-features
+1029,Lobsters,devops,DevOps,Learning Redis the hard way (in production),http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/
+1030,Lobsters,devops,DevOps,"Meet Algo, the VPN that works",https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/
+1031,Lobsters,devops,DevOps,7 questions to ask before choosing your technology stack,https://modernweb.com/choosing-technology-stack/
+1032,Lobsters,devops,DevOps,The Puppet design philosophy (2015),http://radar.oreilly.com/2015/04/the-puppet-design-philosophy.html
+1033,Lobsters,devops,DevOps,Deprecated Linux networking commands and their replacements (2011),https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
+1034,Lobsters,devops,DevOps,Automating Django Deployments with Fabric and Ansible,https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible
+1035,Lobsters,devops,DevOps,New Preparing for Continuous Delivery Refcard - Dzone,https://dzone.com/refcardz/preparing-continuous-delivery
+1036,Lobsters,devops,DevOps,Pack:er and Terra:deploy a JRuby Application [Part 1],https://dcsg.me/articles/pack-er-and-terra-deploy-a-jruby-application-part-1/
+1037,Lobsters,devops,DevOps,So you want to be an SRE?,https://medium.com/@khardsonhurley/so-you-want-to-be-an-sre-34e832357a8c
+1038,Lobsters,devops,DevOps,All fun and games until you start with GameDays,https://gocardless.com/blog/game-days-at-gc/
+1039,Lobsters,devops,DevOps,FaaS – Serverless functions framework for Docker,https://github.com/alexellis/faas
+1040,Lobsters,devops,DevOps,Heroku Automated Certificate Management,https://blog.heroku.com/announcing-automated-certificate-management
+1041,Lobsters,devops,DevOps,propellor: deploying properties to hosts with haskell,https://propellor.branchable.com/
+1042,Lobsters,devops,DevOps,On the impact of full-page writes,https://blog.2ndquadrant.com/on-the-impact-of-full-page-writes/
+1043,Lobsters,devops,DevOps,Monitoring MongoDB performance metrics (WiredTiger),https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/
+1044,Lobsters,devops,DevOps,Serving Erlang,http://blog.ikura.co/posts/serving-erlang.html
+1045,Lobsters,devops,DevOps,"Measure Anything, Measure Everything",https://codeascraft.com/2011/02/15/measure-anything-measure-everything/
+1046,Lobsters,devops,DevOps,24% of latest Docker images have significant vulnerabilities,https://www.federacy.com/docker_image_vulnerabilities
+1047,Lobsters,devops,DevOps,The Dark Side of DevOps,https://dzone.com/articles/the-dark-side-of-devops
+1048,Lobsters,devops,DevOps,Why is Docker Swarm Consuming All Available RAM?,https://runnable.com/blog/why-is-docker-swarm-consuming-all-available-ram
+1049,Lobsters,devops,DevOps,What hardware are you using to host a website?,/s/e5utuo/what_hardware_are_you_using_host_website
+1050,Lobsters,devops,DevOps,Stop spending engineering effort solving problems you don’t have,https://medium.com/@doctor_julz/stop-spending-engineering-effort-solving-problems-you-dont-have-8d18584f4d2a
+1051,Lobsters,devops,DevOps,From Vagrant to Nixops,https://blog.mayflower.de/5976-From-Vagrant-to-Nixops.html
+1052,Lobsters,devops,DevOps,"Orchestration, You Keep Using That Word",https://www.ansible.com/blog/orchestration-you-keep-using-that-word
+1053,Lobsters,devops,DevOps,Google Cloud SQL for Postgres,https://cloud.google.com/sql/docs/postgres/
+1054,Lobsters,devops,DevOps,Announcing the AWS Health Tools Repository,https://aws.amazon.com/blogs/aws/announcing-the-aws-health-tools-repository/
+1055,Lobsters,devops,DevOps,differ - make it easy to check whether commands generated a git diff,https://github.com/kevinburke/differ
+1056,Lobsters,devops,DevOps,Linux cheat sheet: 16 Linux server monitoring commands,https://insights.hpe.com/articles/16-linux-server-monitoring-commands-you-really-need-to-know-1703.html
+1057,Lobsters,devops,DevOps,You Can't Have a Rollback Button,https://blog.skyliner.io/you-cant-have-a-rollback-button-83e914f420d9#.4mrpfezc9
+1058,Lobsters,devops,DevOps,Dodging S3 Downtime With Nginx and HAProxy,https://blog.sentry.io/2017/03/01/dodging-s3-downtime-with-nginx-and-haproxy.html
+1059,Lobsters,devops,DevOps,"Amazon's AWS S3 cloud storage evaporates: Top websites, Docker stung",https://www.theregister.co.uk/2017/02/28/aws_is_awol_as_s3_goes_haywire/
+1060,Lobsters,devops,DevOps,Docker in Production: An Update,https://thehftguy.com/2017/02/23/docker-in-production-an-update/
+1061,Lobsters,devops,DevOps,Understanding Nginx Server and Location Block Selection Algorithms,https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+1062,Lobsters,devops,DevOps,How to Configure NGINX for a Flask Web Application,http://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/
+1063,Lobsters,devops,DevOps,Debugging Event-Driven Microservices,https://runnable.com/blog/debugging-event-driven-microservices
+1064,Lobsters,devops,DevOps,Translating between monitoring languages,https://www.robustperception.io/translating-between-monitoring-languages/
+1065,Lobsters,devops,DevOps,Decoupled Puppet Monitoring Module With Automated Discovery,https://jonskarpeteig.blogspot.com/2017/02/decoupled-puppet-monitoring-module-with.html
+1066,Lobsters,devops,DevOps,awless - The Mighty CLI for AWS,https://github.com/wallix/awless
+1067,Lobsters,devops,DevOps,"Introducing Houston, by Turbine Labs – Turbine Labs",https://medium.com/turbine-labs/https-medium-com-turbine-labs-introducing-houston-by-turbine-labs-aad00c20613f
+1068,Lobsters,devops,DevOps,Pipelines vs. MapReduce to Speed Up Data Aggregation in MongoDB,https://runnable.com/blog/pipelines-vs-map-reduce-to-speed-up-data-aggregation-in-mongodb
+1069,Lobsters,devops,DevOps,Amazon EBS Update – New Elastic Volumes Change Everything | AWS Blog,https://aws.amazon.com/blogs/aws/amazon-ebs-update-new-elastic-volumes-change-everything/
+1070,Lobsters,devops,DevOps,Multiple HTTPS Domains on the Same Server with Let's Encrypt and Nginx,http://blog.benroux.me/running-multiple-https-domains-from-the-same-server/
+1071,Lobsters,devops,DevOps,Blueprint - Reverse-engineer servers,http://devstructure.com/blueprint
+1072,Lobsters,devops,DevOps,How Twitch uses PostgreSQL,https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58
+1073,Lobsters,devops,DevOps,Cron-like job scheduler for Elixir,https://github.com/c-rack/quantum-elixir
+1074,Lobsters,devops,DevOps,Honest status reporting and the AWS status site post-truth,https://blog.ably.io/honest-status-reporting-and-aws-service-status-truth-in-a-post-truth-world-8b9a31c8cc90
+1075,Lobsters,devops,DevOps,Public vs. Private Cloud Deployment & Cost Analysis,https://www.youtube.com/watch?v=Qx_vGdnBqeE
+1076,Lobsters,devops,DevOps,ikura & nginx (howto),http://blog.ikura.co/posts/ikura-and-nginx.html
+1077,Lobsters,devops,DevOps,BSDploy – FreeBSD jail provisioning,http://bsdploy.readthedocs.io/en/latest/
+1078,Lobsters,devops,DevOps,AWS ECS Docker Secrets CLI,https://www.promptworks.com/blog/cli-for-managing-secrets-for-amazon-ec2-container-service-based-applications-with-amazon-kms-and-docker
+1079,Lobsters,devops,DevOps,Container orchestration: Moving from fleet to Kubernetes,https://coreos.com/blog/migrating-from-fleet-to-kubernetes.html
+1080,Lobsters,devops,DevOps,Why databases are not for containers,https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/
+1081,Lobsters,devops,DevOps,Sandstorm is shutting down and leaving the work to OSS contributors,https://sandstorm.io/news/2017-02-06-sandstorm-returning-to-community-roots
+1082,Lobsters,devops,DevOps,Online migrations at scale,https://stripe.com/blog/online-migrations
+1083,Lobsters,devops,DevOps,"How to build, test and deploy React Applications in 2017",https://blog.sqreen.io/how-to-build-test-and-deploy-react-applications/
+1084,Lobsters,devops,DevOps,Should you containerize your Go code?,https://www.oreilly.com/ideas/should-you-containerize-your-go-code
+1085,Lobsters,devops,DevOps,Is upgrading RDS like a shit-storm that will not end?,http://www.iheavy.com/2015/02/12/is-upgrading-rds-like-a-shit-storm-that-will-not-end/
+1086,Lobsters,devops,DevOps,2016 Hard Drive Reliabilty Benchmark Stats,https://www.backblaze.com/blog/hard-drive-benchmark-stats-2016/
+1087,Lobsters,devops,DevOps,StreamAlert: Real-time Data Analysis and Alerting,https://medium.com/airbnb-engineering/streamalert-real-time-data-analysis-and-alerting-e8619e3e5043
+1088,Lobsters,devops,DevOps,htop Explained Visually,https://codeahoy.com/2017/01/20/hhtop-explained-visually/
+1089,Lobsters,devops,DevOps,Temporary allow a friend to ssh to your Linux box using Github public keys,https://github.com/felipe-lavratti/ssh-allow-friend
+1090,Lobsters,devops,DevOps,Notes from Production Engineering,https://www.youtube.com/watch?v=ugkkza3vKbc
+1091,Lobsters,devops,DevOps,Skyliner Post-mortem: Outages on 1/19/17 and 1/23/17,https://blog.skyliner.io/post-mortem-outages-on-1-19-17-and-1-23-17-3f65cc6f693e
+1092,Lobsters,devops,DevOps,Plumbing and other utlities,https://pdfs.semanticscholar.org/e227/a848f605342960beedf9e2e731c9449923ae.pdf
+1093,Lobsters,devops,DevOps,Popper: Practical Falsifiable Research,http://falsifiable.us/
+1094,Lobsters,devops,DevOps,"Delivering Continuous Delivery, continuously",https://www.theguardian.com/info/developer-blog/2015/jan/05/delivering-continuous-delivery-continuously
+1095,Lobsters,devops,DevOps,NASA@SC16: Building Cost-Effective 100-Gbps Firewalls for HPC,https://www.nas.nasa.gov/SC16/demos/demo9.html
+1096,Lobsters,devops,DevOps,Container Management Trends: Kubernetes moves out of testing and into production,https://www.cncf.io/blog/2017/01/17/container-management-trends-kubernetes-moves-testing-production
+1097,Lobsters,devops,DevOps,The Infrastructure Behind Twitter: Scale | Twitter Blogs,https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale
+1098,Lobsters,devops,DevOps,Distributing NixOS With IPFS - Part 1,http://sourcediver.org/blog/2017/01/18/distributing-nixos-with-ipfs-part-1
+1099,Lobsters,devops,DevOps,Caching at Reddit,http://redditblog.com/2017/01/17/caching-at-reddit/
+1100,Lobsters,devops,DevOps,OK Log: a distributed and coördination-free log management system,https://peter.bourgon.org/ok-log
+1101,Lobsters,devops,DevOps,Continuous Delivery of Python Applications using Travis CI and packagecloud,https://blog.packagecloud.io/eng/2017/01/17/continuous-delivery-python-applications-using-travis-ci-packagecloud/
+1102,Lobsters,devops,DevOps,Ops School Curriculum,http://www.opsschool.org/en/latest/
+1103,Lobsters,devops,DevOps,appops reloaded #8,http://tinyletter.com/mhausenblas/letters/appops-reloaded-8
+1104,Lobsters,devops,DevOps,Where have I been these past few years?,http://rachelbythebay.com/w/2017/01/07/status/
+1105,Lobsters,devops,DevOps,"Open Sourcing Screwdriver, Yahoo’s Continuous Delivery Build System for Dynamic Infrastructure",https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous
+1106,Lobsters,devops,DevOps,Fission: Serverless functions for Kubernetes,http://fission.io/
+1107,Lobsters,devops,DevOps,Install Debian packages without starting daemons,https://major.io/2014/06/26/install-debian-packages-without-starting-daemons/
+1108,Lobsters,devops,DevOps,Ansible: New RCs for Security Bug CVE-2016-9587,https://groups.google.com/forum/#!topic/ansible-project/zVeVYtivD2Q
+1109,Lobsters,devops,DevOps,s/ – Chad Austin,https://chadaustin.me/2017/01/s/
+1110,Lobsters,devops,DevOps,Passing the Console: Fostering the Next Generation of Ops Professionals,https://www.usenix.org/conference/lisa16/conference-program/presentation/goldfuss
+1111,Lobsters,devops,DevOps,PagerDuty Incident Response Documentation,https://response.pagerduty.com/
+1112,Lobsters,devops,DevOps,High Interaction Honeypots with Sysdig and Falco,https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco
+1113,Lobsters,devops,DevOps,Nix and Haskell in production,https://github.com/Gabriel439/haskell-nix
+1114,Lobsters,devops,DevOps,Gone in 60 Milliseconds,https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds
+1115,Lobsters,devops,DevOps,burry: BackUp & RecoveRY tool for cloud native infrastructure services,http://burry.sh
+1116,Lobsters,devops,DevOps,Easily Calling Windows APIs from PowerShell,https://blog.dantup.com/2013/10/easily-calling-windows-apis-from-powershell/
+1117,Lobsters,devops,DevOps,How to transfer large amounts of data via network.,http://moo.nac.uci.edu/~hjm/HOWTO_move_data.html
+1118,Lobsters,devops,DevOps,Improve your DevOps security game with Ansible Vault,https://opensource.com/article/16/12/devops-security-ansible-vault
+1119,Lobsters,devops,DevOps,"Overhauling Loco2's hosting infrastructure with AWS, Docker and Terraform",http://www.jonathanleighton.com/articles/2016/loco2-infrastructure-overhaul/
+1120,Lobsters,devops,DevOps,"Unix Admin. Horror Story Summary, version 1.0",http://www-uxsup.csx.cam.ac.uk/misc/horror.txt
+1121,Lobsters,devops,DevOps,Blue Ocean,https://jenkins.io/projects/blueocean/
+1122,Lobsters,devops,DevOps,How we develop in and with distributed systems,https://medium.com/@mhausenblas/how-we-develop-in-and-with-distributed-systems-66c71e918735
+1123,Lobsters,devops,DevOps,GoAccess - Visual Web Log Analyzer,https://goaccess.io
+1124,Lobsters,devops,DevOps,appops reloaded #4,http://tinyletter.com/mhausenblas/letters/appops-reloaded-4
+1125,Lobsters,devops,DevOps,Introducing rkt’s ability to automatically detect privilege escalation attacks on containers,https://coreos.com/blog/rkt-detect-privilege-escalation.html
+1126,Lobsters,devops,DevOps,HOWTO: Build debian packages for simple shell scripts,https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/
+1127,Lobsters,devops,DevOps,Provisioning and Deploying Cloud Native Systems in AWS with Terraform and Shell Scripts,https://github.com/18F/cloud-native-aws-terraform-workshop
+1128,Lobsters,devops,DevOps,Spinnaker - Land of a 1000 Builds,https://www.infoq.com/presentations/spinnaker
+1129,Lobsters,devops,DevOps,What Kubernetes users should know about the rkt container engine,https://coreos.com/blog/rkt-and-kubernetes.html
+1130,Lobsters,devops,DevOps,Docker open sources critical infrastructure component,https://techcrunch.com/2016/12/14/docker-open-sources-critical-infrastructure-component/
+1131,Lobsters,devops,DevOps,beautiful distributed real-time performance and health monitoring,https://github.com/firehol/netdata
+1132,Lobsters,devops,DevOps,AWS London Region (eu-west-2) now available,https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+1133,Lobsters,devops,DevOps,Operations For Developers,http://some.ops4devs.info/welcome/
+1134,Lobsters,devops,DevOps,Distributed Named Pipes,https://github.com/mhausenblas/dnpipes
+1135,Lobsters,devops,DevOps,Experiment using Scala code for configuration - didn't quite work,http://robey.lag.net/2012/03/26/why-config.html
+1136,Lobsters,devops,DevOps,Logs and Metrics and Graphs,https://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/
+1137,Lobsters,devops,DevOps,Don’t Build Private Clouds,https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b
+1138,Lobsters,devops,DevOps,search slack data locally via grep,https://github.com/andrewarrow/localsdata
+1139,Lobsters,devops,DevOps,oklog/ulid: Universally Unique Lexicographically Sortable Identifier in Go,https://github.com/oklog/ulid
+1140,Lobsters,devops,DevOps,Empathy: The Emerging Art in DevOps,https://dzone.com/articles/empathy-the-emerging-art-in-devops-1
+1141,Lobsters,devops,DevOps,No More On-Call Martyrs,http://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html
+1142,Lobsters,devops,DevOps,"Specials [some distressing utils, but all in good fun]",http://www.brendangregg.com/specials.html
+1143,Lobsters,devops,DevOps,"konfd - Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",https://github.com/kelseyhightower/konfd
+1144,Lobsters,devops,DevOps,IPv6 Support for AWS EC2 Instances in Virtual Private Clouds,https://aws.amazon.com/blogs/aws/new-ipv6-support-for-ec2-instances-in-virtual-private-clouds/
+1145,Lobsters,devops,DevOps,Jenkins Job DSL - How to automate Jenkins!,http://www.appliscale.io/blog/jenkins-job-dsl-automate-jenkins/
+1146,Lobsters,devops,DevOps,Grafana 4.0 Offers Alerting,http://docs.grafana.org/guides/whats-new-in-v4/
+1147,Lobsters,devops,DevOps,[ANNOUNCE] haproxy-1.7.0,https://www.mail-archive.com/haproxy@formilux.org/msg24244.html
+1148,Lobsters,devops,DevOps,Tradeoffs in Software Provisioning Tools,https://kev.inburke.com/kevin/provisioning-tradeoffs/
+1149,Lobsters,devops,DevOps,The Emergence Of Distributed POSIX,https://medium.com/@mhausenblas/the-emergence-of-distributed-posix-7226f0fdf3a1
+1150,Lobsters,devops,DevOps,Introduction to the Autopilot Pattern for self-operating applications,https://www.joyent.com/blog/video-autopilot-pattern
+1151,Lobsters,devops,DevOps,The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them),https://blog.ably.io/the-18-ghosts-in-your-infrastructure-stack-that-can-cause-failure-and-how-to-avoid-them-1373daebfe1a
+1152,Lobsters,devops,DevOps,$15 Production Kubernetes Cluster on DigitalOcean,http://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/
+1153,Lobsters,devops,DevOps,Why Web Application Firewalls fail to protect web applications,https://blog.sqreen.io/why-web-application-firewalls-fail-to-protect-web-applications/
+1154,Lobsters,devops,DevOps,How We Saved 98% on Infrastructure Monitoring Costs,http://blog.runnable.com/post/153498635761/how-we-saved-98-on-infrastructure-monitoring
+1155,Lobsters,devops,DevOps,HTTP/2 Primer,https://chrisshort.net/http2-primer/
+1156,Lobsters,devops,DevOps,How We Knew It Was Time to Leave the Cloud,https://about.gitlab.com/2016/11/10/why-choose-bare-metal/
+1157,Lobsters,devops,DevOps,Benefits of using tmux - lessons from streamlining a development environment,http://blog.bugsnag.com/benefits-of-using-tmux/
+1158,Lobsters,devops,DevOps,System Settings - Inaka’s approach at removing literals from code,https://medium.com/@elbrujohalcon/system-settings-9ed72d5ef629
+1159,Lobsters,devops,DevOps,Starting a newsletter,https://www.devco.net/archives/2016/11/08/starting-a-newsletter.php
+1160,Lobsters,devops,DevOps,A Comprehensive Guide to Terraform,https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
+1161,Lobsters,devops,DevOps,Graceful Shutdown using AWS AutoScaling Groups and Terraform,https://circleci.com/blog/graceful-shutdown-using-aws/
+1162,Lobsters,devops,DevOps,Julia Evans: Service discovery at Stripe,https://stripe.com/blog/service-discovery-at-stripe
+1163,Lobsters,devops,DevOps,How We Deploy Python Code,https://nylas.com/blog/packaging-deploying-python
+1164,Lobsters,devops,DevOps,Inadvertent private repository exposure,https://github.com/blog/2273-incident-report-inadvertent-private-repository-disclosure
+1165,Lobsters,devops,DevOps,What Am Container,https://glyph.twistedmatrix.com/2016/10/what-am-container.html
+1166,Lobsters,devops,DevOps,Deploying a Haskell application to AWS Elastic Beanstalk,https://medium.com/@folsen/deploying-a-haskell-application-to-aws-elastic-beanstalk-24c7c29d3a8f
+1167,Lobsters,devops,DevOps,Kontena 0.16.0 Release,http://blog.kontena.io/kontena-0-16-0-release/
+1168,Lobsters,devops,DevOps,Getting Started Authoring Helm Charts,https://deis.com/blog/2016/getting-started-authoring-helm-charts/
+1169,Lobsters,devops,DevOps,Routing around today's single point of failure DNS issues,https://blog.ably.io/routing-around-single-point-of-failure-dns-issues-7c20a8757903
+1170,Lobsters,devops,DevOps,Is SPF Simply Too Hard For Application Developers?,http://bsdly.blogspot.com/2016/10/is-spf-simply-too-hard-for-application.html
+1171,Lobsters,devops,DevOps,Google Cloud incident: 2016-10-13 Load Balancer outage,https://status.cloud.google.com/incident/compute/16020
+1172,Lobsters,devops,DevOps,Announcing the Infinit Docker volume plugin,http://blog.infinit.sh/announcing-the-infinit-docker-volume-plugin/
+1173,Lobsters,devops,DevOps,Introducing Veneur: high performance and global aggregation for Datadog,https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+1174,Lobsters,devops,DevOps,Misusing Træfɪk for accessing internal services on Kubernetes,https://www.justwatch.com/blog/post/misusing-traefik-for-accessing-internal-services-on-kubernetes/
+1175,Lobsters,devops,DevOps,The Ops Identity Crisis,http://www.susanjfowler.com/blog/2016/10/13/the-ops-identity-crisis
+1176,Lobsters,devops,DevOps,Operations for software developers for beginners,https://jvns.ca/blog/2016/10/15/operations-for-software-developers-for-beginners/
+1177,Lobsters,devops,DevOps,Run Kubernetes on a Mac with Kube Solo,https://deis.com/blog/2016/run-kubernetes-on-a-mac-with-kube-solo/
+1178,Lobsters,devops,DevOps,Erlang tips: remote module loading,https://newoldstuff.wordpress.com/2009/05/26/erlang-tips-remote-module-loading/
+1179,Lobsters,devops,DevOps,A Comparison of Time Series Databases and Netsil’s Use of Druid,https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206
+1180,Lobsters,devops,DevOps,A story about FTP ports and how firewalls open them just in the nick of time,http://bothsidesofthecommandline.tumblr.com/post/151330471488/law-order-file-transfer-protocol-divsion-dum
+1181,Lobsters,devops,DevOps,Paying back technical debt,https://nylas.com/blog/technical-debt/
+1182,Lobsters,devops,DevOps,"""I just want to run a container!""",http://jvns.ca/blog/2016/10/02/i-just-want-to-run-a-container/
+1183,Lobsters,devops,DevOps,What's New With Kubernetes 1.4,https://deis.com/blog/2016/kubernetes-1.4/
+1184,Lobsters,devops,DevOps,Trainline Environment Manager – Now Open Source!,https://engineering.thetrainline.com/2016/09/28/trainline-environment-manager-now-open-source/
+1185,Lobsters,devops,DevOps,envjson: Config Checking for 12 Factor Apps,http://sigusr2.net/envjson.html
+1186,Lobsters,devops,DevOps,Running Socket.IO Applications on Kubernetes,https://deis.com/blog/2016/socket.io-applications-kubernetes/
+1187,Lobsters,devops,DevOps,Introducing Docker for Windows Server 2016,https://blog.docker.com/2016/09/dockerforws2016/
+1188,Lobsters,devops,DevOps,Kubernetes the Hard Way,https://deis.com/blog/2016/kubernetes-the-hard-way/
+1189,Lobsters,devops,DevOps,Safe and unsafe operations for high volume PostgreSQL,http://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql
+1190,Lobsters,devops,DevOps,What is the best free Docker hosting? - Quora,https://www.quora.com/What-is-the-best-free-Docker-hosting
+1191,Lobsters,devops,DevOps,How to Set up a Distributed Elixir Cluster on Amazon EC2,http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/?
+1192,Lobsters,devops,DevOps,Why Shopify Moved to The Production Engineering Model,http://engineering.shopify.com/why-shopify-moved-to-the-production-engineering-model
+1193,Lobsters,devops,DevOps,HashiConf 2016,https://www.youtube.com/watch?v=Ww4aZFeqGAQ&list=PL81sUbsFNc5bDS1lH0HPJFyBnAP8Iv4t0
+1194,Lobsters,devops,DevOps,Thoughts on Envoy's Design,http://lethain.com//envoy-design/
+1195,Lobsters,devops,DevOps,"Introducing dumb-init, an init system for Docker containers",http://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html
+1196,Lobsters,devops,DevOps,Some questions about Docker and rkt,http://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
+1197,Lobsters,devops,DevOps,Envoy: C++ L7 proxy and communication bus,https://lyft.github.io/envoy/
+1198,Lobsters,devops,DevOps,nginx.conf 2016 Keynote – From Failure to Flawless: Application Delivery Today,https://www.nginx.com/blog/gus-robertson-keynote-with-igor-sysoev-nginx-conf-2016/
+1199,Lobsters,devops,DevOps,Using docker in Github repo names is forbidden.,https://twitter.com/macyet/status/775535642793086976
+1200,Lobsters,devops,DevOps,Push a Docker DAB to a Kubernetes Cluster in Two Commands!,https://deis.com/blog/2016/push-docker-dab-kubernetes-cluster/
+1201,Lobsters,devops,DevOps,Off-Cluster Kubernetes Logging With Sumo Logic and Logentries,https://deis.com/blog/2016/off-cluster-kubernetes-logging-sumo-logic-and-logentries/
+1202,Lobsters,devops,DevOps,Amazon CloudFront now supports HTTP/2,https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/
+1203,Lobsters,devops,DevOps,Trusting Who’s at the Helm,https://deis.com/blog/2016/trusting-whos-at-the-helm/
+1204,Lobsters,devops,DevOps,Why We Chose Kubernetes Over ECS,https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/
+1205,Lobsters,devops,DevOps,Kubernetes Logging With Elasticsearch and Kibana,https://deis.com/blog/2016/kubernetes-logging-with-elasticsearch-and-kibana/
+1206,Lobsters,devops,DevOps,A Docker Fork: Talk of a Split Is Now on the Table,http://thenewstack.io/docker-fork-talk-split-now-table/
+1207,Lobsters,devops,DevOps,Terraform for a NodeJS app,https://www.digitalocean.com/community/tutorials/how-to-deploy-a-node-js-app-using-terraform-on-ubuntu-14-04
+1208,Lobsters,devops,DevOps,Private Applications on Deis Workflow,https://deis.com/blog/2016/private-applications-on-deis-workflow/
+1209,Lobsters,devops,DevOps,"Build pipelines, deployment, and immutable artifacts",http://www.brunton-spall.co.uk/post/2016/08/24/build-pipelines/
+1210,Lobsters,devops,DevOps,Google Intrusion Detection Problems,http://www.fredtrotter.com/2016/08/22/google-intrusion-detection-problems/
+1211,Lobsters,devops,DevOps,Reflections On NixOS,https://zenhack.net/2016/01/24/reflections-on-nixos.html
+1212,Lobsters,devops,DevOps,From Zero to Application Delivery with NixOS,https://www.infoq.com/presentations/nixos
+1213,Lobsters,devops,DevOps,Environment Variable Templates,http://steveadams.io/2016/08/18/Environment-Variable-Templates.html
+1214,Lobsters,devops,DevOps,Why Reddit was down on Aug 11,https://www.reddit.com/r/announcements/comments/4y0m56/why_reddit_was_down_on_aug_11/
+1215,Lobsters,devops,DevOps,"Introducing `stack`, a CLI and SDK for multi-language streaming microservices",https://github.com/Stackvana/stack
+1216,Lobsters,devops,DevOps,Monitoring Kubernetes with Heapster,https://deis.com/blog/2016/monitoring-kubernetes-with-heapster/
+1217,Lobsters,devops,DevOps,Pull doesn't scale - or does it?,https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/
+1218,Lobsters,devops,DevOps,Don't laugh at other's downtime,https://writing.natwelch.com/post/598
+1219,Lobsters,devops,DevOps,Secure Shared Credentials,http://brendanhay.nz/credentials
+1220,Lobsters,devops,DevOps,Purely Functional Linux with NixOS,https://begriffs.com/posts/2016-08-08-intro-to-nixos.html?hn=1
+1221,Lobsters,devops,DevOps,Sharing Servers for International Friendship Day,https://coreos.com/blog/international-friendship-day.html
+1222,Lobsters,devops,DevOps,"Checkup: simple, self-hosted health checks and uptime status pages",https://sourcegraph.github.io/checkup
+1223,Lobsters,devops,DevOps,Docker as a replacement for virtualenv,https://www.youtube.com/watch?v=ETL-_W1W8gY
+1224,Lobsters,devops,DevOps,Handling Environment Secrets in Docker on the AWS Container Service,https://www.promptworks.com/blog/handling-environment-secrets-in-docker-on-the-aws-container-service
+1225,Lobsters,devops,DevOps,Continuous Deployment for Feature Branches,http://www.mayerdan.com/programming/2016/07/31/feature-branch-staging-servers
+1226,Lobsters,devops,DevOps,Terraform 0.7,https://www.hashicorp.com/blog/terraform-0-7.html
+1227,Lobsters,devops,DevOps,"A Little Story about Amazon ECS, systemd, and Chaos Monkey",https://medium.com/production-ready/a-little-story-about-amazon-ecs-systemd-and-chaos-monkey-8bc7d1b5778
+1228,Lobsters,devops,DevOps,vim-tmux-clipboard - Seemless integration for vim and tmux's clipboard,https://github.com/roxma/vim-tmux-clipboard
+1229,Lobsters,devops,DevOps,First Touch Down with Docker for Mac,http://blog.hypriot.com/post/first-touch-down-with-docker-for-mac/
+1230,Lobsters,devops,DevOps,bsdtalk: bsdtalk127 - Why I like the CLI [2007],http://bsdtalk.blogspot.com/2007/08/bsdtalk127-why-i-like-cli.html
+1231,Lobsters,devops,DevOps,#chatops,https://medium.com/git-out-the-vote/chatops-198f0b62c601#.o77eaybbt
+1232,Lobsters,devops,DevOps,[Oldie but Goodie] Collector Highlight Series: Collector Patterns,http://blog.librato.com/posts/collector-patterns
+1233,Lobsters,devops,DevOps,Autoscalers the Hard Way,https://blog.engineyard.com/2016/autoscalers-the-hard-way
+1234,Lobsters,devops,DevOps,The End of Gmane?,https://lars.ingebrigtsen.no/2016/07/28/the-end-of-gmane/
+1235,Lobsters,devops,DevOps,Dedibox is now Available in Amsterdam,http://blog.online.net/2016/07/28/dedibox-is-now-available-in-amsterdam/
+1236,Lobsters,devops,DevOps,Scheduling Your Kubernetes Pods With Elixir,https://deis.com/blog/2016/scheduling-your-kubernetes-pods-with-elixir/
+1237,Lobsters,devops,DevOps,Why Uber Engineering Switched from Postgres to MySQL,https://eng.uber.com/mysql-migration/
+1238,Lobsters,devops,DevOps,Why do we automate?,https://ma.ttias.be/why-do-we-automate/
+1239,Lobsters,devops,DevOps,Cost-efficient container scheduling with Docker Swarm,http://blog.runnable.com/post/147970274996/cost-efficient-container-scheduling-with-docker
+1240,Lobsters,devops,DevOps,Twitter's Vine Source code dump,https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/
+1241,Lobsters,devops,DevOps,Docker Storage: An introduction,https://deis.com/blog/2016/docker-storage-introduction/
+1242,Lobsters,devops,DevOps,Command Everything with a Serverless Slack Bot,http://blog.librato.com/posts/nestor-chatbot
+1243,Lobsters,devops,DevOps,tcpdump is amazing,http://jvns.ca/blog/2016/03/17/tcpdump-is-amazing/
+1244,Lobsters,devops,DevOps,Managing Elasticsearch time-based indices efficiently,http://www.elastic.co/blog/managing-time-based-indices-efficiently
+1245,Lobsters,devops,DevOps,Prometheus reaches 1.0,https://prometheus.io/blog/2016/07/18/prometheus-1-0-released/
+1246,Lobsters,devops,DevOps,"If there is no server, where does my application run?",https://devup.co/serverless-computing-if-there-is-no-server-where-does-my-application-run-a369c3699730
+1247,Lobsters,devops,DevOps,Analyzing PostgreSQL logs using pgBadger,http://blog.garage-coding.com/2016/07/16/analyzing-postgres-logs-with-pgbadger.html
+1248,Lobsters,devops,DevOps,Securing Docker with TLS certificates,http://tech.paulcz.net/2016/01/secure-docker-with-tls/
+1249,Lobsters,devops,DevOps,From idea to reality: containers in production at GoCardless,https://gocardless.com/blog/from-idea-to-reality-containers-in-production-at-gocardless/
+1250,Lobsters,devops,DevOps,Store your Node.js application logs to Minio,https://blog.minio.io/store-your-node-js-application-logs-to-minio-2d76a0a63aaa

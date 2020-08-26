@@ -1,0 +1,621 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,android,Android,In search of the perfect pocket device,https://isene.org/2020/08/Nerding.html
+2,Lobsters,android,Android,Clean Surveys in Android,https://chelseatroy.com/2020/07/27/clean-surveys-in-android/
+3,Lobsters,android,Android,Exploiting Android Messengers with WebRTC: Part 1,https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-1.html
+4,Lobsters,android,Android,Android System information command line tool,https://github.com/sbz/android-sysinfo
+5,Lobsters,android,Android,WebView - Android's most convenient footgun,https://byte.how/posts/webview-androids-most-convenient-footgun/
+6,Lobsters,android,Android,Complete Android Fragment & Activity Lifecycle,https://github.com/xxv/android-lifecycle
+7,Lobsters,android,Android,Dealing with phone numbers in contact book,https://ashishb.net/tech/dealing-with-phone-numbers-in-contact-book/
+8,Lobsters,android,Android,I replaced Google Analytics with a web server running on my phone,https://lbrito1.github.io/blog/2020/07/replacing_google_analytics_android.html
+9,Lobsters,android,Android,"Germany’s coronavirus contract tracing app is out today, and is open source",https://github.com/corona-warn-app
+10,Lobsters,android,Android,A lightweight dex file parsing library,https://github.com/tboox/dexbox
+11,Lobsters,android,Android,What's up with K-9 Mail?,https://k9mail.app/2020/06/01/Whats-Up-With-K-9-Mail.html
+12,Lobsters,android,Android,It’s 2020 and Android’s IPv6 Is Still Broken,http://lostintransit.se/2020/05/22/its-2020-and-androids-ipv6-is-still-broken/?doing_wp_cron=1590483464.2139940261840820312500
+13,Lobsters,android,Android,Android 10 to render Termux unusable,https://github.com/termux/termux-packages/wiki/Termux-and-Android-10
+14,Lobsters,android,Android,A (Mostly) Google-Free Android,https://secluded.site/a-mostly-google-free-android/
+15,Lobsters,android,Android,GeckoView for Android,https://mozilla.github.io/geckoview/
+16,Lobsters,android,Android,Refactoring Android Themes with Style: Restructuring Themes,https://ataulm.com/2020/04/30/refactoring-themes-with-style.html
+17,Lobsters,android,Android,A static injector of dynamic library for application,https://github.com/lanoox/luject
+18,Lobsters,android,Android,Inventor Haartsen considers Bluetooth not suitable for Corona apps,https://www.computable.nl/artikel/nieuws/security/6919575/250449/uitvinder-vindt-bluetooth-ongeschikt-voor-corona-app.html
+19,Lobsters,android,Android,"All ProtonMail apps are now open source, as Android joins the list",https://protonmail.com/blog/android-open-source/
+20,Lobsters,android,Android,Which is better on Android: divide by 2 or shift by 1?,https://jakewharton.com/which-is-better-on-android-divide-by-two-or-shift-by-one/
+21,Lobsters,android,Android,A gradle plugin that integrates xmake seamlessly,https://github.com/xmake-io/xmake-gradle
+22,Lobsters,android,Android,Privacy-Preserving Contact Tracing - Apple and Google,https://www.apple.com/covid19/contacttracing
+23,Lobsters,android,Android,"Dark Sky Acquired by Apple, announced plans to shut down outside of iOS",https://blog.darksky.net/dark-sky-has-a-new-home/
+24,Lobsters,android,Android,Researching Digitime Android Backdoors,https://wuffs.org/blog/digitime-tech-fota-backdoors
+25,Lobsters,android,Android,HTTPS Obsolescence,https://www.camg.me/https-obsolescence/
+26,Lobsters,android,Android,In search of the perfect pocket device,https://isene.org/2020/08/Nerding.html
+27,Lobsters,android,Android,Clean Surveys in Android,https://chelseatroy.com/2020/07/27/clean-surveys-in-android/
+28,Lobsters,android,Android,Exploiting Android Messengers with WebRTC: Part 1,https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-1.html
+29,Lobsters,android,Android,Android System information command line tool,https://github.com/sbz/android-sysinfo
+30,Lobsters,android,Android,WebView - Android's most convenient footgun,https://byte.how/posts/webview-androids-most-convenient-footgun/
+31,Lobsters,android,Android,Complete Android Fragment & Activity Lifecycle,https://github.com/xxv/android-lifecycle
+32,Lobsters,android,Android,Dealing with phone numbers in contact book,https://ashishb.net/tech/dealing-with-phone-numbers-in-contact-book/
+33,Lobsters,android,Android,I replaced Google Analytics with a web server running on my phone,https://lbrito1.github.io/blog/2020/07/replacing_google_analytics_android.html
+34,Lobsters,android,Android,"Germany’s coronavirus contract tracing app is out today, and is open source",https://github.com/corona-warn-app
+35,Lobsters,android,Android,A lightweight dex file parsing library,https://github.com/tboox/dexbox
+36,Lobsters,android,Android,What's up with K-9 Mail?,https://k9mail.app/2020/06/01/Whats-Up-With-K-9-Mail.html
+37,Lobsters,android,Android,It’s 2020 and Android’s IPv6 Is Still Broken,http://lostintransit.se/2020/05/22/its-2020-and-androids-ipv6-is-still-broken/?doing_wp_cron=1590483464.2139940261840820312500
+38,Lobsters,android,Android,Android 10 to render Termux unusable,https://github.com/termux/termux-packages/wiki/Termux-and-Android-10
+39,Lobsters,android,Android,A (Mostly) Google-Free Android,https://secluded.site/a-mostly-google-free-android/
+40,Lobsters,android,Android,GeckoView for Android,https://mozilla.github.io/geckoview/
+41,Lobsters,android,Android,Refactoring Android Themes with Style: Restructuring Themes,https://ataulm.com/2020/04/30/refactoring-themes-with-style.html
+42,Lobsters,android,Android,A static injector of dynamic library for application,https://github.com/lanoox/luject
+43,Lobsters,android,Android,Inventor Haartsen considers Bluetooth not suitable for Corona apps,https://www.computable.nl/artikel/nieuws/security/6919575/250449/uitvinder-vindt-bluetooth-ongeschikt-voor-corona-app.html
+44,Lobsters,android,Android,"All ProtonMail apps are now open source, as Android joins the list",https://protonmail.com/blog/android-open-source/
+45,Lobsters,android,Android,Which is better on Android: divide by 2 or shift by 1?,https://jakewharton.com/which-is-better-on-android-divide-by-two-or-shift-by-one/
+46,Lobsters,android,Android,A gradle plugin that integrates xmake seamlessly,https://github.com/xmake-io/xmake-gradle
+47,Lobsters,android,Android,Privacy-Preserving Contact Tracing - Apple and Google,https://www.apple.com/covid19/contacttracing
+48,Lobsters,android,Android,"Dark Sky Acquired by Apple, announced plans to shut down outside of iOS",https://blog.darksky.net/dark-sky-has-a-new-home/
+49,Lobsters,android,Android,Researching Digitime Android Backdoors,https://wuffs.org/blog/digitime-tech-fota-backdoors
+50,Lobsters,android,Android,HTTPS Obsolescence,https://www.camg.me/https-obsolescence/
+51,Lobsters,android,Android,Project Sandcastle: Android for the iPhone,https://projectsandcastle.org/
+52,Lobsters,android,Android,adb-enhanced: A Swiss-army knife for Android development and testing,https://github.com/ashishb/adb-enhanced
+53,Lobsters,android,Android,A mysterious bug in the firmware of Google's Titan M chip (CVE-2019-9465),https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html
+54,Lobsters,android,Android,Turning it up to 11: the first Developer Preview of Android 11,https://android-developers.googleblog.com/2020/02/Android-11-developer-preview.html
+55,Lobsters,android,Android,Detecting Memory Corruption Bugs With HWASan,https://android-developers.googleblog.com/2020/02/detecting-memory-corruption-bugs-with-hwasan.html
+56,Lobsters,android,Android,Instant-appifying a large mature app,https://engineering.q42.nl/instant-app/
+57,Lobsters,android,Android,"OpenPush - A Free, Decentralized Push Messaging Framework for Android",https://f-droid.org/en/2020/02/03/openpush-talk.html
+58,Lobsters,android,Android,"Discovering Exodus Privacy, a nice analysis tools and report DB for android app",https://exodus-privacy.eu.org/en/page/what/
+59,Lobsters,android,Android,Repurposing an old Android phone as a Ruby web server,https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+60,Lobsters,android,Android,Critical Bluetooth Vulnerability in Android (CVE-2020-0022),https://insinuator.net/2020/02/critical-bluetooth-vulnerability-in-android-cve-2020-0022/
+61,Lobsters,android,Android,uBlock Origin available soon in new Firefox for Android Nightly,https://blog.mozilla.org/addons/2020/02/06/ublock-origin-for-firefox-android-nightly/
+62,Lobsters,android,Android,What mobile phone do you use?,/s/ji8hec/what_mobile_phone_do_you_use
+63,Lobsters,android,Android,A framework for building native apps with React,https://github.com/facebook/react-native
+64,Lobsters,android,Android,A brand new browsing experience arrives in Firefox for Android Nightly,https://blog.mozilla.org/futurereleases/2020/01/17/a-brand-new-browsing-experience-arrives-in-firefox-for-android-nightly/
+65,Lobsters,android,Android,Reverse Engineering the BMW Connected Apps Protocol,https://hufman.github.io/stories/bmwconnectedapps
+66,Lobsters,android,Android,Saying Goodbye to my Favorite 5 Minute P1,https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
+67,Lobsters,android,Android,"Run CLion native on Android, ditch your desktop",https://raymii.org/s/blog/Run_CLion_on_Android.html
+68,Lobsters,android,Android,Building Mobile Apps (iOS and Android) with Clojurescript,https://medium.com/mindorks/building-mobile-apps-ios-and-android-with-clojurescript-4600235f826c
+69,Lobsters,android,Android,Twitter for Android Security Issue,https://privacy.twitter.com/en/blog
+70,Lobsters,android,Android,Manage Contacts the UNIX Way,https://vermaden.wordpress.com/2019/12/13/manage-contacts-the-unix-way/
+71,Lobsters,android,Android,Xmake Getting Started Tutorial 5: Introduction to Android platform compilation,https://tboox.org/2019/11/15/quickstart-5-build-android/
+72,Lobsters,android,Android,Fake Android apps uploaded to Play store by notorious Sandworm hackers,https://nakedsecurity.sophos.com/2019/12/02/fake-android-apps-uploaded-to-play-store-by-notorious-sandworm-hackers/
+73,Lobsters,android,Android,How to Debug a Third Party Android App,https://camg.me/debug-third-party-android-apps/
+74,Lobsters,android,Android,Bad Binder: Android In-The-Wild Exploit,https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html
+75,Lobsters,android,Android,Analyzing Android's CVE-2019-2215 (/dev/binder UAF),https://dayzerosec.com/posts/analyzing-androids-cve-2019-2215-dev-binder-uaf/
+76,Lobsters,android,Android,Prepare your Android emulator for reverse engineering,http://dev.libreneitor.com/prepare-your-android-emulator-for-reverse-engineering/
+77,Lobsters,android,Android,Android: Use-After-Free in Binder driver,https://bugs.chromium.org/p/project-zero/issues/detail?id=1942
+78,Lobsters,android,Android,V8 adds support for top-level await,https://chromium.googlesource.com/v8/v8.git/+/0ceee9ad28c21bc4971fb237cf87eb742fc787b8%5E%21/
+79,Lobsters,android,Android,Tribe Commerce - Open Source On-Demand Services & E-Commerce Platform,https://github.com/tribehq/platform
+80,Lobsters,android,Android,Huawei Mate 30 phones launch without Google apps,https://www.bbc.co.uk/news/technology-49754376
+81,Lobsters,android,Android,iFixit disassembles the Fairphone 3,https://www.ifixit.com/Teardown/Fairphone+3+Teardown/125573
+82,Lobsters,android,Android,Welcoming Android 10,https://android-developers.googleblog.com/2019/09/welcoming-android-10.html
+83,Lobsters,android,Android,The (not so) hidden cost of sharing code between iOS and Android,http://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/
+84,Lobsters,android,Android,Never Work In Theory: Research into software is made,http://neverworkintheory.org/
+85,Lobsters,android,Android,Freeing my phone from Google,https://www.hexaquo.at/posts/2019/06/29/Freeing+my+phone+from+Google
+86,Lobsters,android,Android,Tracing the Supply Chain Attack on Android,https://krebsonsecurity.com/2019/06/tracing-the-supply-chain-attack-on-android-2/
+87,Lobsters,android,Android,Android Bootcamp: Gecko development [slides],https://docs.google.com/presentation/d/1MzU9q2wCwojC0kb1eVfma8hrQ-KayCRFFd_mV5Gx1F4/edit#slide=id.g37695b23f5_0_10
+88,Lobsters,android,Android,How to de-Google your Android phone,https://nolanlawson.com/2019/06/13/how-to-de-google-your-android-phone/
+89,Lobsters,android,Android,GrapheneOS: privacy and security-focused mobile OS with Android compatibility,https://grapheneos.org/
+90,Lobsters,android,Android,Google confirms that advanced backdoor came preinstalled on Android devices,https://arstechnica.com/information-technology/2019/06/google-confirms-2017-supply-chain-attack-that-sneaked-backdoor-on-android-devices/
+91,Lobsters,android,Android,Why 'Shattered Pixel Dungeon' is dropping support for Android 2.2 Froyo,https://shatteredpixel.com/blog/saying-goodbye-to-android-2.2-froyo.html
+92,Lobsters,android,Android,hello android,https://flak.tedunangst.com/post/hello-android
+93,Lobsters,android,Android,Hacking the Subway Android app (2018),http://ls-la.fyi/subway-xposed/
+94,Lobsters,android,Android,Mozilla's new Fenix browser comes to the Play Store as a limited beta,https://www.androidpolice.com/2019/05/17/mozillas-new-fenix-browser-comes-to-the-play-store-as-a-limited-beta-apk-download/
+95,Lobsters,android,Android,Mobile Release Engineering at Scale with Shipit Mobile,https://engineering.shopify.com/blogs/engineering/mobile-release-engineering-scale-shipit-mobile
+96,Lobsters,android,Android,Google just blocked all Huawei phones from receiving Android updates,https://www.independent.co.uk/life-style/gadgets-and-tech/news/huawei-android-google-updates-phone-trump-us-china-a8921421.html
+97,Lobsters,android,Android,who killed videogames? (a ghost story),https://web.archive.org/web/20110926012139/http://insertcredit.com/2011/09/22/who-killed-videogames-a-ghost-story/
+98,Lobsters,android,Android,Android's Java 8 Support,https://jakewharton.com/androids-java-8-support/
+99,Lobsters,android,Android,"/e/ – privacy-enabled Android ROM, or Evil Corp? ·",https://infosec-handbook.eu/blog/e-foundation-first-look/
+100,Lobsters,android,Android,dali — a pure-Nim indie assembler for Android .dex & .apk files,https://forum.nim-lang.org/t/4840
+101,Lobsters,android,Android,Queue the Hardening Enhancements,https://security.googleblog.com/2019/05/queue-hardening-enhancements.html
+102,Lobsters,android,Android,Kotlin is now Google’s preferred language for Android app development,https://android-developers.googleblog.com/2019/05/google-io-2019-empowering-developers-to-build-experiences-on-Android-Play.html
+103,Lobsters,android,Android,Bringing Flutter to the Web,https://medium.com/flutter-io/bringing-flutter-to-the-web-904de05f0df0
+104,Lobsters,android,Android,"flow9: a cross-platform modern UI for Web, iOS, Android, Windows, Mac, Linux",https://flow9.org/
+105,Lobsters,android,Android,A Robust Native-Crash-Reporting Library for Android App,https://github.com/iqiyi/xCrash
+106,Lobsters,android,Android,The Android Platform Security Model,https://arxiv.org/pdf/1904.05572.pdf
+107,Lobsters,android,Android,NewPipe represents the best of FOSS,https://drewdevault.com/2019/04/02/NewPipe-represents-the-best-of-FOSS.html
+108,Lobsters,android,Android,Crossing the Rust FFI frontier with Protocol Buffers,https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/
+109,Lobsters,android,Android,Investigating a recent ebook DRM system (c. 2018),https://yingtongli.me/blog/2019/03/28/drm2.html
+110,Lobsters,android,Android,Exodus: New Android Spyware Made in Italy,https://securitywithoutborders.org/blog/2019/03/29/exodus.html
+111,Lobsters,android,Android,AndroidHardening project renamed to GrapheneOS,https://www.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/
+112,Lobsters,android,Android,Self-Hosted Phone Location Logger,https://gkbrk.com/2019/03/phone-location-logger/
+113,Lobsters,android,Android,Do Not Disturb: Tackling Smartphone Addiction,https://chargen.one/steve/do-not-disturb-how-i-tackled-my-own-smartphone-addiction
+114,Lobsters,android,Android,Boxify: Full-fledged App Sandboxing for Stock Android (2015),https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-backes.pdf
+115,Lobsters,android,Android,A Google-free Android setup,https://niftylettuce.com/posts/google-free-android-setup/
+116,Lobsters,android,Android,Hello LineageOS 16.0,https://lineageos.org/Changelog-22/
+117,Lobsters,android,Android,Google wants you to know Android's as hard to hack as Apple's iOS,https://www.cnet.com/news/google-android-is-just-as-secure-as-ios-iphone-david-kleidermacher/
+118,Lobsters,android,Android,My phone serves me 400+ ads and trackers per hour,https://raymii.org/s/blog/My_phone_serves_me_400_ads_per_hour_blokada_blocks_beats_them_all.html
+119,Lobsters,android,Android,Fixing an airline app bug for fun and profit,https://pmatias.me/2019-02/fixing-airline-app-fun-profit/
+120,Lobsters,android,Android,"Reverse engineering of a mobile game, part 2: they updated, we dumped memory",https://medium.com/@xplodwild/reverse-engineering-of-a-mobile-game-part-2-they-updated-we-dumped-memory-27046efdfb85
+121,Lobsters,android,Android,F-Droid for advanced users and developers,https://android.izzysoft.de/articles/named/fdroid-intro-2?lang=en
+122,Lobsters,android,Android,Exploiting Android devices running insecure remote ADB service,https://medium.com/@madrobot/exploiting-android-devices-running-insecure-remote-adb-service-4490cc6a2282
+123,Lobsters,android,Android,Collaborative Web Scraping on Android,https://github.com/Scraper-Club/Android-Scraper-Club
+124,Lobsters,android,Android,APEX in Android Q: The Biggest Thing Since Project Treble,https://www.xda-developers.com/android-q-apex-biggest-thing-since-project-treble/
+125,Lobsters,android,Android,Dont kill my app,https://dontkillmyapp.com/
+126,Lobsters,android,Android,"Introducing Square In-App Payments SDK for iOS, Android & Flutter",https://medium.com/square-corner-blog/introducing-square-in-app-payments-sdk-1fc93b32814c
+127,Lobsters,android,Android,The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study,https://engineering.shopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study
+128,Lobsters,android,Android,NetGuard non-root Android firewall to block internet access per app or host,https://github.com/M66B/NetGuard
+129,Lobsters,android,Android,System-wide adblocking on Android using DNS-over-TLS,https://github.com/eldridgea/erised
+130,Lobsters,android,Android,Design and Develop an Android App with React Native and Publish to Google Play Store,https://developer.okta.com/blog/2018/12/26/react-native-android-play-store
+131,Lobsters,android,Android,What happened to the ArtStation Android App?,https://magazine.artstation.com/2018/12/happened-artstation-android-app/
+132,Lobsters,android,Android,Ditching Android - 6 Weeks On,https://kevq.uk/ditching-android-6-weeks-on/
+133,Lobsters,android,Android,We Broke Into A Bunch Of Android Phones With A 3D-Printed Head,https://www.forbes.com/sites/thomasbrewster/2018/12/13/we-broke-into-a-bunch-of-android-phones-with-a-3d-printed-head/#46b703c11330
+134,Lobsters,android,Android,Open Camera,http://opencamera.org.uk/
+135,Lobsters,android,Android,Debugging a Non Reproducible Crash,https://blog.bam.tech/developper-news/debugging-a-non-reproducible-crash
+136,Lobsters,android,Android,"Square + Flutter: Beautiful, fast mobile payment apps",https://medium.com/square-corner-blog/square-flutter-beautiful-fast-mobile-payment-apps-539995d2e23a
+137,Lobsters,android,Android,AndroidProjectCreator – The ‘how’ and ‘why’,https://maxkersten.nl/2018/11/21/androidprojectcreator-the-how-and-why/
+138,Lobsters,android,Android,Publishing Applications through F-Droid,http://www.boddie.org.uk/david/www-repo/Personal/Updates/2018/2018-11-11.html
+139,Lobsters,android,Android,Detecting Privacy Leakages w/ Fewer Alerts via Enhanced Data-flow Analysis and Peer Voting,https://wenke.gtisc.gatech.edu/papers/aapl.pdf
+140,Lobsters,android,Android,This Week In F-Droid 29: New Matrix Server and Mirror Testers Wanted,https://f-droid.org/en/2018/11/10/twif-29-new-matrix-server-and-mirror-testers-wanted.html
+141,Lobsters,android,Android,Android Security Auditing (Investigating Unauthorized Screenshots),https://tech.michaelaltfield.net/2018/11/09/android-security-auditing-investigating-unauthorized-screenshots/
+142,Lobsters,android,Android,My Google-free Android life,https://lushka.al/my-android-setup/
+143,Lobsters,android,Android,A Little Scheme Setup and Development on the Galaxy S9 Plus,http://www.blogbyben.com/2018/04/a-little-scheme-setup-and-development.html
+144,Lobsters,android,Android,Why I'm Ditching Android,https://kevq.uk/why-im-ditching-android/
+145,Lobsters,android,Android,CVE-2018-9411: New critical vulnerability in multiple high-privileged Android services,https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/
+146,Lobsters,android,Android,Building a Titan: Better security through a tiny chip,https://security.googleblog.com/2018/10/building-titan-better-security-through.html
+147,Lobsters,android,Android,Google and Android have your back by protecting your backups,https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html
+148,Lobsters,android,Android,Introducing Oboe: A C++ library for low latency audio,https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html
+149,Lobsters,android,Android,Control Flow Integrity in the Android kernel,https://android-developers.googleblog.com/2018/10/control-flow-integrity-in-android-kernel.html
+150,Lobsters,android,Android,What's the best private budgeting app?,/s/53qmtn/what_s_best_private_budgeting_app
+151,Lobsters,android,Android,Manyverse mobile scuttlebutt client,https://www.manyver.se/
+152,Lobsters,android,Android,Google developer acidentally remotely turns on power saving mode for Pixel users,https://www.reddit.com/r/GooglePixel/comments/9fkrvw/is_anyone_elses_power_saving_mode_turning_itself/e5xl907/
+153,Lobsters,android,Android,How Tutanota replaced Google’s FCM with their own notification system,https://f-droid.org/en/2018/09/03/replacing-gcm-in-tutanota.html
+154,Lobsters,android,Android,Why and when install a custom Android distribution?,https://blog.mirabellette.eu/index.php?article31/why-and-when-install-a-custom-android-distribution
+155,Lobsters,android,Android,Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem,https://atcommands.org/
+156,Lobsters,android,Android,Stolen Android Anti-Piracy Software Dumped on Github,https://torrentfreak.com/stolen-android-anti-piracy-software-dumped-on-github-180818/
+157,Lobsters,android,Android,Introducing Android 9: Pie,https://android-developers.googleblog.com/2018/08/introducing-android-9-pie.html
+158,Lobsters,android,Android,Introducing Square Reader SDK,https://medium.com/@gjinich/introducing-square-reader-sdk-939a9ec2d197
+159,Lobsters,android,Android,"Full-Stack Haskell, from Prototype to Production",https://www.youtube.com/watch?v=riJuXDIUMA0
+160,Lobsters,android,Android,“P is for Power”—Android engineers talk battery life improvements in Android P,https://arstechnica.com/gadgets/2018/08/p-is-for-power-how-google-tests-tracks-and-improves-android-battery-life/
+161,Lobsters,android,Android,Fuchsia: Google Is Quietly Working on a Successor to Android,https://www.bloomberg.com/news/articles/2018-07-19/google-team-is-said-to-plot-android-successor-draw-skepticism
+162,Lobsters,android,Android,EU fines Google €4.3B for using Android to strengthen dominance of Google search engine,http://europa.eu/rapid/press-release_IP-18-4581_en.htm
+163,Lobsters,android,Android,Google may have to make major changes to Android in response to a forthcoming fine in Europe,https://www.washingtonpost.com/technology/2018/07/09/google-may-have-make-major-changes-android-response-forthcoming-fine-europe/
+164,Lobsters,android,Android,Every Android Device Since 2012 Impacted by RAMpage Vulnerability,https://www.bleepingcomputer.com/news/security/every-android-device-since-2012-impacted-by-rampage-vulnerability/
+165,Lobsters,android,Android,Lineage OS - Supported Phones Comparison Chart,https://www.productchart.com/smartphones/sets/6
+166,Lobsters,android,Android,Morse Code Phone Notifications (Android Only),https://yaxelperez.github.io/hacks/
+167,Lobsters,android,Android,Android free software recommendations?,/s/5l7wsq/android_free_software_recommendations
+168,Lobsters,android,Android,CopperheadOS Has Imploded,https://twitter.com/DanielMicay/status/1006299769214562305
+169,Lobsters,android,Android,Insider Attack Resistance,https://android-developers.googleblog.com/2018/05/insider-attack-resistance.html
+170,Lobsters,android,Android,How to Android without Google [easy way],https://bytemybits.gitlab.io/post/2018-05-23-how-to-android-without-google-easy-way/
+171,Lobsters,android,Android,Androzoo APK Search: a search service of meta-data related to Android malware,https://androzoo.uni.lu/apksearch
+172,Lobsters,android,Android,"This Week in F-Droid, Week 21",https://f-droid.org/en/2018/05/25/this-week-in-fdroid-w21.html
+173,Lobsters,android,Android,Setup Android When Its Not Your Phone,https://vermaden.wordpress.com/2018/05/21/setup-android-when-its-not-your-phone/
+174,Lobsters,android,Android,Liberating Amusing Use Cases with the F60 Action Camera Introduction,http://code.paulk.fr/article26/liberating-amusing-use-cases-with-the-f60-action-camera-introduction-motivations-for-going-down-the-road
+175,Lobsters,android,Android,Alpha Snapshots of WireGuard for Android and macOS,https://lists.zx2c4.com/pipermail/wireguard/2018-May/002854.html
+176,Lobsters,android,Android,Google’s Plan To Make Tech Less Addictive,https://www.fastcodesign.com/90171307/googles-plan-to-make-tech-less-addictive
+177,Lobsters,android,Android,"The ecosystem of React Native can be improved, beyond technically",http://cs.mcgill.ca/~mxia3/2018/05/09/the-ecosystem-of-react-native-can-be-improved-beyond-technically/
+178,Lobsters,android,Android,F-Droid app recommendation thread?,/s/8xtyxo/f_droid_app_recommendation_thread
+179,Lobsters,android,Android,Android Applications Reversing 101 (2017),https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/
+180,Lobsters,android,Android,Two Weeks on Matrix/Riot Short Review,/s/sxqf0p/two_weeks_on_matrix_riot_short_review
+181,Lobsters,android,Android,De-Googling my phone,https://piware.de/post/2018-05-01-android-degoogle/
+182,Lobsters,android,Android,"Exploring React Native Ecosystem - backend, database and best libraries",https://www.simform.com/react-native-ecosystem-backend-database-best-libraries/
+183,Lobsters,android,Android,Pix.artemix is up ! About Pix.watch and the android app Pix,https://blog.artemix.org/article/show/pix-artemix-is-up
+184,Lobsters,android,Android,Wireguard got included in F-Droid,https://f-droid.org/packages/com.wireguard.android/
+185,Lobsters,android,Android,Guix on Android!,https://www.gnu.org/software/guix/blog/2018/guix-on-android/
+186,Lobsters,android,Android,U.S. ban on sales to China's ZTE,https://uk.reuters.com/article/us-china-zte/exclusive-u-s-bans-american-companies-from-selling-to-chinas-zte-idUKKBN1HN1P1
+187,Lobsters,android,Android,Ask crustaceans: Did your Android device just mysteriously auto-update apps?,/s/uodagi/ask_crustaceans_did_your_android_device
+188,Lobsters,android,Android,A PLT (Procedure Linkage Table) Hook Library for Android Native ELF,https://github.com/iqiyi/xHook
+189,Lobsters,android,Android,Use your favorite password manager with Android Oreo,https://www.blog.google/products/android/use-your-favorite-password-manager-android-oreo/
+190,Lobsters,android,Android,25% of Open Source Firebase Projects Are Vulnerable to Cascading Rules Mismatch,https://medium.com/noless/common-mistakes-in-firebase-security-rules-part-1-fd8cdd8bc8a6
+191,Lobsters,android,Android,Who will steal Android from Google?,https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e
+192,Lobsters,android,Android,Oracle Wins Revival of Billion-Dollar Case Against Google,https://www.bloomberg.com/news/articles/2018-03-27/oracle-wins-revival-of-billion-dollar-case-against-google
+193,Lobsters,android,Android,Google starts blocking “uncertified” Android devices from logging in,https://arstechnica.com/gadgets/2018/03/google-starts-blocking-uncertified-android-devices-from-logging-in/
+194,Lobsters,android,Android,Exploring New Attack Vectors for Exploitation of Smartphones (2017),https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-909.pdf
+195,Lobsters,android,Android,Package Wisely,https://medium.com/@mattcarroll/package-wisely-4899f9580d3
+196,Lobsters,android,Android,Android Security: 2017 Year in Review,https://source.android.com/security/reports/Google_Android_Security_2017_Report_Final.pdf
+197,Lobsters,android,Android,Architectural Guidelines to follow for MVP pattern in Android,https://android.jlelse.eu/architectural-guidelines-to-follow-for-mvp-pattern-in-android-2374848a0157
+198,Lobsters,android,Android,Modelgen: Mining Explicit Information Flow Specifications from Concrete Executions (2015),http://theory.stanford.edu/~aiken/publications/papers/issta15.pdf
+199,Lobsters,android,Android,LineageOS 15.1 (based on Android Oreo 8.1) released,https://www.lineageos.org/Changelog-16/
+200,Lobsters,android,Android,bhgv/Inferno-OS_Android - an Android port of Inferno OS,https://github.com/bhgv/Inferno-OS_Android
+201,Lobsters,android,Android,"Java project Hydra, a network framework",https://github.com/DataSecs/Hydra
+202,Lobsters,android,Android,MVC vs MVP vs MVVM for mobile app development: Let's end the debate!,https://www.simform.com/mvc-mvp-mvvm-mobile-app-development/
+203,Lobsters,android,Android,The Dex File Format,https://blog.bugsnag.com/dex-and-d8/
+204,Lobsters,android,Android,Third Replicant 6.0 release,https://blog.replicant.us/2017/12/third-replicant-6-0-release/
+205,Lobsters,android,Android,New Collaborations on Exposing Tracking,https://f-droid.org/en/2017/12/14/new-collaborations-on-exposing-tracking.html
+206,Lobsters,android,Android,"Introducing Haven, the open source security system in your pocket",https://freedom.press/news/introducing-haven-open-source-security-system-your-pocket/
+207,Lobsters,android,Android,Google fights fragmentation: New Android features to be forced on apps in 2018,https://arstechnica.com/gadgets/2017/12/google-fights-fragmentation-new-android-features-to-be-forced-on-apps-in-2018/
+208,Lobsters,android,Android,F-Droid and the Janus Vulnerability,https://f-droid.org/en/2017/12/13/fdroid-and-janus.html
+209,Lobsters,android,Android,Android exploit allows app modification without affecting signatures,https://www.guardsquare.com/en/blog/new-android-vulnerability-allows-attackers-modify-apps-without-affecting-their-signatures
+210,Lobsters,android,Android,Lessons learned from 4 years of using Cordova in production,http://korban.net/posts/2017-11-29-lessons-4-years-of-cordova/
+211,Lobsters,android,Android,Living with an open-source phone,https://nolanlawson.com/2017/11/27/living-with-an-open-source-phone/
+212,Lobsters,android,Android,Researchers craft Android app that reveals menagerie of hidden spyware; legally barred from doing the same with iOS,https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html
+213,Lobsters,android,Android,Google collects Android users' locations even when location services are disabled,https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/
+214,Lobsters,android,Android,More than 1 billion Android devices run outdated software,http://www.osnews.com/story/30085/More_than_1_billion_Android_devices_run_outdated_software
+215,Lobsters,android,Android,How out of date are android devices?,https://danluu.com/android-updates/
+216,Lobsters,android,Android,OnePlus left a backdoor in its devices capable of root access,http://www.androidpolice.com/2017/11/13/oneplus-left-backdoor-devices-capable-root-access/
+217,Lobsters,android,Android,Please Stop Naming Vulnerabilities: Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones,https://pleasestopnamingvulnerabilities.com/
+218,Lobsters,android,Android,Forensic Analysis of Telegram Messenger on Android Smartphones,http://people.unipmn.it/sguazt/pubs/Anglano-2017-Telegram.pdf
+219,Lobsters,android,Android,Neural Networks API in Android 8.1,https://developer.android.com/ndk/guides/neuralnetworks/index.html
+220,Lobsters,android,Android,Android Studio 3.0,https://android-developers.googleblog.com/2017/10/android-studio-30.html
+221,Lobsters,android,Android,How the judge on Oracle v. Google taught himself to code,https://www.theverge.com/2017/10/19/16503076/oracle-vs-google-judge-william-alsup-interview-waymo-uber
+222,Lobsters,android,Android,F-Droid 1.0 released (with screenshots and feature graphics),https://f-droid.org/packages/org.fdroid.fdroid/
+223,Lobsters,android,Android,Convert Sketch files into React Native components,https://github.com/nanohop/sketch-to-react-native
+224,Lobsters,android,Android,Microsoft Using Chromium On Android Is Bad For The Web,http://robert.ocallahan.org/2017/10/microsoft-using-chromium-on-android-is.html
+225,Lobsters,android,Android,APK Golf: Reducing an Android APK's Size by 99.99%,https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/
+226,Lobsters,android,Android,OnePlus OxygenOS built-in analytics,https://www.chrisdcmoore.co.uk/post/oneplus-analytics/
+227,Lobsters,android,Android,Announcing android-job library 1.2.0,https://blog.evernote.com/tech/2017/10/06/announcing-android-job-library-1-2-0/
+228,Lobsters,android,Android,October 4th 9 AM PDT - Google Event,https://www.youtube.com/watch?v=0YGoxbeSzLc
+229,Lobsters,android,Android,Google sued by Gab over Play Store booting,https://www.theregister.co.uk/2017/09/15/google_sued_by_gab_over_play_store_booting/
+230,Lobsters,android,Android,Android Dev 101: Things every beginner should know,https://www.whatsthatlambda.com/android/android-dev-101-things-every-beginner-must-know
+231,Lobsters,android,Android,Stress-free SQLite with Anko,http://www.kotlindevelopment.com/anko-sqlite-database/
+232,Lobsters,android,Android,PilBox - Building Android Apps in PicoLisp,https://www.mail-archive.com/picolisp@software-lab.de/msg07658.html
+233,Lobsters,android,Android,A new Replicant 6.0 release,https://blog.replicant.us/2017/09/a-new-replicant-6-0-release/
+234,Lobsters,android,Android,Hardening the Kernel in Android Oreo,https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html
+235,Lobsters,android,Android,Does disabling Wi-Fi prevent my Android phone from sending Wi-Fi frames?,https://hal.inria.fr/hal-01575519/document
+236,Lobsters,android,Android,"Android 8.0 ""Oreo"" released",https://www.blog.google/products/android/android-oreo-superpowers-coming-device-near-you/
+237,Lobsters,android,Android,"SonicSpy: Over a thousand spyware apps discovered, some in Google Play",https://blog.lookout.com/sonicspy-spyware-threat-technical-research
+238,Lobsters,android,Android,Google’s native ad blocker for Chrome shows up in Android developer build,https://techcrunch.com/2017/07/31/googles-native-ad-blocker-for-chrome-shows-up-in-android-developer-build/
+239,Lobsters,android,Android,Verifying Security Invariants in ExpressOS (2013),https://haohuim.appspot.com/static/pubs/expressos-asplos13-slides.pdf
+240,Lobsters,android,Android,I am the reason for Hungarian notation in Android,http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/
+241,Lobsters,android,Android,"Android Backdoor GhostCtrl can Silently Record Your Audio, Video, and More",https://blog.trendmicro.com/trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/
+242,Lobsters,android,Android,How F-Droid is Bringing Apps to Cuba,https://blog.grobox.de/2017/how-f-droid-is-bringing-apps-to-cuba/
+243,Lobsters,android,Android,SpyDealer: Android Trojan Spying on More Than 40 Apps,https://researchcenter.paloaltonetworks.com/2017/07/unit42-spydealer-android-trojan-spying-40-apps/
+244,Lobsters,android,Android,Broadpwn Bug Affects Millions of Android and iOS Devices,https://www.bleepingcomputer.com/news/security/broadpwn-bug-affects-millions-of-android-and-ios-devices/
+245,Lobsters,android,Android,Firefox own linker on Android,https://dustri.org/b/firefox-own-linker-on-android.html
+246,Lobsters,android,Android,"Firefox Focus New to Android, blocks annoying ads and protects your privacy",https://blog.mozilla.org/blog/2017/06/20/firefox-focus-new-to-android-blocks-annoying-ads-and-protects-your-privacy/
+247,Lobsters,android,Android,"Long time contributor and app packager, krt, leaves F-Droid",https://forum.f-droid.org/t/so-long-farewell-and-goodbye/600
+248,Lobsters,android,Android,Our dirty little secret: Cross-platform email client with nothing but HTML,https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+249,Lobsters,android,Android,"Nexus 9 vs. Malicious Headphones, Take Two",https://alephsecurity.com/2017/06/13/nexus9-ephemeral-fiq/
+250,Lobsters,android,Android,From Rails to Hanami: Views,https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404
+251,Lobsters,android,Android,WebGL Map with Mapbox and React,https://pusher.com/sessions/meetup/the-js-roundabout/webgl-map-with-mapbox-and-react
+252,Lobsters,android,Android,Google Hires key Chip Designer Manu Gulati from Apple,http://variety.com/2017/digital/news/google-manu-gulati-pixel-chips-1202464014/
+253,Lobsters,android,Android,It's Now Possible to Boot Android on i.MX6 Platforms Without Proprietary Blobs,http://news.softpedia.com/news/it-s-now-possible-to-boot-android-on-i-mx6-platforms-without-proprietary-blobs-516364.shtml
+254,Lobsters,android,Android,"Little Finger, a library to add a kill switch to your mobile apps",http://avi.im/little-finger/
+255,Lobsters,android,Android,A Haskell Cross Compiler for Android,https://medium.com/@zw3rk/a-haskell-cross-compiler-for-android-8e297cb74e8a
+256,Lobsters,android,Android,Exploring Flutter for Cross-platform Mobile Development,https://sethlopez.me/article/exploring-flutter-for-cross-platform-mobile-development/
+257,Lobsters,android,Android,Cloak and Dagger: From Two Permissions to Complete Control of the UI Feedback Loop,http://cloak-and-dagger.org/
+258,Lobsters,android,Android,Haskell on Android using Eta,https://brianmckenna.org/blog/eta_android
+259,Lobsters,android,Android,New Netflix DRM Blocks Rooted Phone Owners From Downloading The Netflix App,https://www.techdirt.com/articles/20170516/06083537378/new-netflix-drm-blocks-rooted-phone-owners-downloading-netflix-app.shtml
+260,Lobsters,android,Android,"Android developers can now block rooted devices, Netflix bites",http://www.osnews.com/story/29821/Android_developers_can_now_block_rooted_devices_Netflix_bites
+261,Lobsters,android,Android,Why Kotlin Is Better Than Whatever Dumb Language You're Using,http://steve-yegge.blogspot.com/2017/05/why-kotlin-is-better-than-whatever-dumb.html
+262,Lobsters,android,Android,Kotlin on Android. Now official,https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/
+263,Lobsters,android,Android,Android Dialers are Stealing Your Data,https://gkbrk.com/2017/05/android-dialer-packets/
+264,Lobsters,android,Android,Replicant 6.0 released,https://blog.replicant.us/2017/05/replicant-6-0-released/
+265,Lobsters,android,Android,Treble: A modular base for Android,https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html
+266,Lobsters,android,Android,Nitrite: An Embedded NoSQL Database for Java and Android,https://medium.com/@anidotnet/nitrite-an-embedded-nosql-database-for-java-and-android-318bf48c7758
+267,Lobsters,android,Android,"Android O-mg. Google won't kill screen hijack nasties on Android 6, 7 until the summer",https://www.theregister.co.uk/2017/05/10/android_marshmallow_overlay/
+268,Lobsters,android,Android,Stack Overflow Considered Harmful? The Impact of Copy&Paste on Android Application Security,https://www.aisec.fraunhofer.de/content/dam/aisec/Dokumente/Publikationen/Studien_TechReports/englisch/stackoverflow.pdf
+269,Lobsters,android,Android,OnePlus One ADB Access over Network on Windows 10,https://www.londonappdeveloper.com/oneplus-one-adb-access-over-network-on-windows-10/
+270,Lobsters,android,Android,"Google’s “Fuchsia” smartphone OS dumps Linux, has a wild new UI",https://arstechnica.com/gadgets/2017/05/googles-fuchsia-smartphone-os-dumps-linux-has-a-wild-new-ui/
+271,Lobsters,android,Android,Privacy Threats through Ultrasonic Side Channels on Mobile Devices,http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf
+272,Lobsters,android,Android,Nexus phones starved of security fixes after just three years,https://www.theregister.co.uk/2017/05/01/google_eol_for_nexus_phones/
+273,Lobsters,android,Android,Something is wrong when the ‘telephone app’ on your phone becomes 3rd party,https://martinruenz.de/article/data-privacy/2017/05/03/something-is-wrong.html
+274,Lobsters,android,Android,Functional Programming for Android Developers — Part 1,https://medium.freecodecamp.com/functional-programming-for-android-developers-part-1-a58d40d6e742
+275,Lobsters,android,Android,OO Tricks: The Art of Command Query Separation,https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0
+276,Lobsters,android,Android,How we made Basecamp 3’s Android app 100% Kotlin,https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12
+277,Lobsters,android,Android,myPhone Hammer Iron 2 - budget phone review,http://blog.tintagel.pl/2017/04/25/myPhone-hammer-iron-2-budget-phone-review.html
+278,Lobsters,android,Android,FAS Russia Reaches Settlement with Google (app developers will get equal rights),http://en.fas.gov.ru/press-center/news/detail.html?id=49774
+279,Lobsters,android,Android,Celebration of Choice,https://yandex.com/company/blog/celebration-of-choice-a-letter-from-arkady-volozh-yandex-ceo/
+280,Lobsters,android,Android,One process to reap them all - Garbage Collection as a Service (2017),https://hexhive.github.io/publications/files/17VEE.pdf
+281,Lobsters,android,Android,Samsung's Android Replacement Is a Hacker's Dream,https://motherboard.vice.com/en_us/article/samsung-tizen-operating-system-bugs-vulnerabilities
+282,Lobsters,android,Android,EteSync: End-to-end encrypted and journaled contacts and calendar synchronization for Android,https://www.etesync.com
+283,Lobsters,android,Android,Python for Android,https://github.com/kivy/python-for-android
+284,Lobsters,android,Android,Future of Java 8 Language Feature Support on Android,https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html
+285,Lobsters,android,Android,"Offline support: “Try again, later”, no more.",https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc
+286,Lobsters,android,Android,Wikileaks reveals CIA Hacking Tools,https://wikileaks.org/ciav7p1/index.html
+287,Lobsters,android,Android,In pursuit of better JVM Futures — Kotlin coroutines,https://medium.com/@zohaibhassan/in-pursuit-of-better-jvm-futures-kotlin-coroutines-281a79211b09
+288,Lobsters,android,Android,"xmake v2.1.1 released, support golang, dlang and rust languages",http://www.tboox.org/2017/03/04/update-v2.1.1/
+289,Lobsters,android,Android,Using Kotlin coroutines in Android code,https://medium.com/@macastiblancot/android-coroutines-getting-rid-of-runonuithread-and-callbacks-cleaner-thread-handling-and-more-234c0a9bd8eb
+290,Lobsters,android,Android,"Kotlin 1.1 released with JavaScript support, coroutines and more",https://blog.jetbrains.com/kotlin/2017/03/kotlin-1-1/
+291,Lobsters,android,Android,Password-Manager Apps,https://team-sik.org/trent_portfolio/password-manager-apps/
+292,Lobsters,android,Android,Modern Software Development or Slow as Molasses,http://www.richardspindler.com/2017/02/25/modern-software-development-or-slow-as-molasses/
+293,Lobsters,android,Android,Signal can now be used without Google Play Services,https://github.com/WhisperSystems/Signal-Android/commit/1669731329bcc32c84e33035a67a2fc22444c24b
+294,Lobsters,android,Android,Rendering an SVG elliptical arc as bezier curves,https://mortoray.com/2017/02/16/rendering-an-svg-elliptical-arc-as-bezier-curves/
+295,Lobsters,android,Android,"Toward Engineering a Secure, Android Ecosystem - Survey",https://taesoo.gtisc.gatech.edu/pubs/2016/xu:android-survey.pdf
+296,Lobsters,android,Android,How to build cross-platform mobile apps using nothing more than a JSON markup,https://medium.freecodecamp.com/how-to-build-cross-platform-mobile-apps-using-nothing-more-than-a-json-markup-f493abec1873
+297,Lobsters,android,Android,Effectively using Android without Google Play Services with gplayweb in Docker,https://fxaguessy.fr/en/articles/2017/02/11/effectively-using-android-without-google-play-services-gplayweb-in-docker/
+298,Lobsters,android,Android,Cracking Android Pattern Lock in Five Attempts,https://phys.org/news/2017-01-android-device-pattern.html
+299,Lobsters,android,Android,Espresso Test Addiction: An Anti-pattern,https://www.philosophicalhacker.com/post/espresso-test-addiction/
+300,Lobsters,android,Android,President Trump's Insecure Android,https://www.lawfareblog.com/president-trumps-insecure-android
+301,Lobsters,android,Android,An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps,https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf
+302,Lobsters,android,Android,Kotlin 1.1: What’s coming in the standard library,https://blog.jetbrains.com/kotlin/2017/01/kotlin-1-1-whats-coming-in-the-standard-library/
+303,Lobsters,android,Android,"Android apps, IMEIs and privacy",https://mjg59.dreamwidth.org/46266.html
+304,Lobsters,android,Android,"Compile c++, objc and swift program across platforms fastly",http://tboox.org/2017/01/18/usage-demo/
+305,Lobsters,android,Android,CVE-2016-3873: Arbitrary Kernel Write in Nexus 9,https://sagi.io/2016/09/cve-2016-3873-arbitrary-kernel-write-in-nexus-9/
+306,Lobsters,android,Android,Scan source codes and build project without makefile,http://tboox.org/2017/01/07/build-without-makefile/
+307,Lobsters,android,Android,microG - re-implementation of Google’s proprietary Android apps and libraries,https://microg.org/
+308,Lobsters,android,Android,Conversations: the very last word in instant messaging,https://conversations.im/
+309,Lobsters,android,Android,"Noise, a fork of Signal without the hard dependency on Google Cloud Messaging",https://copperhead.co/android/docs/usage_guide#messaging
+310,Lobsters,android,Android,Continuous Integration with Android,https://medium.com/appaloosa-store-engineering/continuous-integration-with-android-14047096f3de#.4ekvemrdw
+311,Lobsters,android,Android,The Death of CyanogenMod and What it Means for Development,https://www.xda-developers.com/the-death-of-cyangenmod-and-whats-in-store-for-the-future/
+312,Lobsters,android,Android,Signal messager circumvenes censorship (in Egypt and UAE),https://whispersystems.org/blog/doodles-stickers-censorship/
+313,Lobsters,android,Android,Froid: A library for using Frege in Android development,https://github.com/mchav/froid
+314,Lobsters,android,Android,Open sourcing our Android and iOS apps! - Kickstarter,https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd
+315,Lobsters,android,Android,Why Google Pixel lags 10x more than Moto Z,http://taras.glek.net/post/Moto-Z-has-10x-less-lag-than-pixel/
+316,Lobsters,android,Android,F-Droid applications statistics,https://fossdroid.com/blog/foss-applications-statistics.html
+317,Lobsters,android,Android,Pebble's over.,https://blog.getpebble.com/2016/12/07/fitbit/
+318,Lobsters,android,Android,BitUnmap: Attacking Android Ashmem,https://googleprojectzero.blogspot.com/2016/12/bitunmap-attacking-android-ashmem.html
+319,Lobsters,android,Android,More Than 1 Million Google Accounts Breached by Gooligan,http://blog.checkpoint.com/2016/11/30/1-million-google-accounts-breached-gooligan/
+320,Lobsters,android,Android,CopperheadOS Review,https://blog.yourultimatesecurity.guide/2016/11/copperheados-review/
+321,Lobsters,android,Android,Android security in 2016 is a mess.,https://cpbotha.net/2016/11/27/android-security-in-2016-is-a-mess/
+322,Lobsters,android,Android,Android N Encryption,https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/
+323,Lobsters,android,Android,What is mobile security? What is the mobile security ecosystem?,http://developers.redhat.com/blog/2016/11/21/what-is-mobile-security-what-is-the-mobile-security-ecosystem/
+324,Lobsters,android,Android,Was the Google Pixel built in a mere 9 months?,http://arstechnica.com/gadgets/2016/10/the-google-pixel-a-nine-month-dash-to-mold-an-htc-phone-into-a-google-product/
+325,Lobsters,android,Android,Two Syntax Styles of xmake.lua,http://tboox.org/2016/11/15/syntax-style/
+326,Lobsters,android,Android,Mission Improbable: Hardening Android for Security And Privacy,https://blog.torproject.org/blog/mission-improbable-hardening-android-security-and-privacy
+327,Lobsters,android,Android,Signal Downloads Spiked After Election Results,http://motherboard.vice.com/read/signal-downloads-spiked-after-election-results
+328,Lobsters,android,Android,400% faster android layouts with Anko,https://medium.com/@vergauwen.simon/400-faster-layouts-with-anko-da17f32c45dd
+329,Lobsters,android,Android,Google won't spike Linux Dirty Cow exploit until December Android patch,http://www.zdnet.com/article/google-wont-spike-linux-dirty-cow-exploit-until-december-android-patch/
+330,Lobsters,android,Android,MLFE v0.2.4 Released,http://noisycode.com/blog/2016/11/09/mlfe-v0-dot-2-4-released
+331,Lobsters,android,Android,xmake v2.0.5 released!,http://tboox.org/2016/10/30/update-v2.0.5/
+332,Lobsters,android,Android,Just Play my Sound,http://inaka.net/blog/2016/10/25/just-play/
+333,Lobsters,android,Android,Android phones rooted by “most serious” Linux escalation bug ever,http://arstechnica.com/security/2016/10/android-phones-rooted-by-most-serious-linux-escalation-bug-ever/
+334,Lobsters,android,Android,When Your Screen Breaks (In The Himalayas),http://tombh.co.uk/when-your-screen-breaks-in-the-himalayas
+335,Lobsters,android,Android,Quiet for Android - TCP over sound,https://github.com/quiet/org.quietmodem.Quiet
+336,Lobsters,android,Android,Back Up an SD Card from Android,http://jb.rainsberger.ca/permalink/back-up-an-sd-card-from-android
+337,Lobsters,android,Android,What is a backdoor?,https://duo.com/blog/unicorn-wrangling-101-what-is-a-backdoor
+338,Lobsters,android,Android,a single byte write opened a root execution exploit,https://daniel.haxx.se/blog/2016/10/14/a-single-byte-write-opened-a-root-execution-exploit/
+339,Lobsters,android,Android,Pork Explosion Unleashed,http://bbqand0days.com/Pork-Explosion-Unleashed/
+340,Lobsters,android,Android,Spying on Android events without modifying source code,http://kamalmarhubi.com/blog/2016/10/03/android-events/
+341,Lobsters,android,Android,Google Pixel launch event (12 PM EST),https://www.youtube.com/watch?v=q4y0KOeXViI
+342,Lobsters,android,Android,p≡p - pretty Easy privacy,https://prettyeasyprivacy.com
+343,Lobsters,android,Android,Ceylon 1.3.0 is now available,https://ceylon-lang.org/blog/2016/09/19/ceylon-1-3-0/
+344,Lobsters,android,Android,Signal for Android Attachment Bug,https://www.whispersystems.org/blog/signal-android-attachment-bug/
+345,Lobsters,android,Android,Memory disclosure mitigations in CopperheadOS,https://copperhead.co/blog/2016/09/20/memory-disclosure-mitigations
+346,Lobsters,android,Android,Announcing the Project Zero Prize,https://googleprojectzero.blogspot.com/2016/09/announcing-project-zero-prize.html
+347,Lobsters,android,Android,Return to libstagefright: exploiting libutils on Android,https://googleprojectzero.blogspot.com/2016/09/return-to-libstagefright-exploiting.html
+348,Lobsters,android,Android,Android Security: A Broad Overview & A Dive into the World of Advertising,http://comp427.blogs.rice.edu/files/2015/01/android-base-1t6hnxx.pdf
+349,Lobsters,android,Android,Android: protecting the kernel,https://events.linuxfoundation.org/sites/events/files/slides/Android-%20protecting%20the%20kernel.pdf
+350,Lobsters,android,Android,Advocating Against Android Fragments,https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97
+351,Lobsters,android,Android,"Building a Really, Really Small Android App",http://engineering.khanacademy.org/posts/a-really-small-app.htm
+352,Lobsters,android,Android,Android 7.0 Nougat is now rolling out to Nexus devices,http://androidandme.com/2016/08/news/android-7-0-nougat-is-now-rolling-out-to-nexus-devices/
+353,Lobsters,android,Android,How should I design my Android application?,https://plus.google.com/+DianneHackborn/posts/FXCCYxepsDU
+354,Lobsters,android,Android,Introducing OpenStreetView,https://www.openstreetmap.org/user/mvexel/diary/39274
+355,Lobsters,android,Android,How I Hacked an Android App to Get Free Beer,http://breakdev.org/how-i-hacked-an-android-app-to-get-free-beer/
+356,Lobsters,android,Android,Copperhead OS: The startup that wants to solve Android’s woeful security,http://arstechnica.com/security/2016/08/copperhead-os-fix-android-security/
+357,Lobsters,android,Android,Gadget + Lewis = Android Lint CI,http://inaka.net/blog/2016/08/04/gadget-lewis-android-lint-ci/
+358,Lobsters,android,Android,Protecting Android with more Linux kernel defenses,https://security.googleblog.com/2016/07/protecting-android-with-more-linux.html
+359,Lobsters,android,Android,Salesforce will only support Nexus and Samsung Galaxy phones to avoid Android fragmentation,http://www.recode.net/2016/7/18/12217580/salesforce-support-nexus-samsung-galaxy-android-fragmentation
+360,Lobsters,android,Android,Does anyone run Copperhead OS?,/s/ijhjqu/does_anyone_run_copperhead_os
+361,Lobsters,android,Android,Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption,http://bits-please.blogspot.com/2016/06/extracting-qualcomms-keymaster-keys.html
+362,Lobsters,android,Android,We built the mobile app that health workers deserve,http://medicmobile.org/blog/we-built-the-mobile-app-health-workers-deserve
+363,Lobsters,android,Android,Android Photo Filters by Zomato,https://github.com/Zomato/AndroidPhotoFilters
+364,Lobsters,android,Android,"A look back at Sooner, Google's first Android phone (2015)",http://www.androidcentral.com/look-back-google-sooner-first-android-phone
+365,Lobsters,android,Android,"Ways to think about Android Instant Apps, and what it means for developers",http://williamgill.de/2016/05/21/ways-to-think-about-android-instant-apps-and-what-it-means-for-developers/
+366,Lobsters,android,Android,Node.js module for App Store Optimization on Google Play,https://github.com/facundoolano/google-play-keywords
+367,Lobsters,android,Android,SOLID Principles for Android #1: Single Responsibility Principle,https://realm.io/news/donn-felker-solid-part-1/
+368,Lobsters,android,Android,The verdict is in: Android is “fair use” as Google beats Oracle,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
+369,Lobsters,android,Android,Google aims to kill passwords by the end of this year,https://www.theguardian.com/technology/2016/may/24/google-passwords-android
+370,Lobsters,android,Android,Google I/O 2016,https://live.theverge.com/google-io-2016-live-blog-android-n-vr-keynote/
+371,Lobsters,android,Android,Hardening the media stack,http://android-developers.blogspot.com/2016/05/hardening-media-stack.html
+372,Lobsters,android,Android,Google Translate Works Offline (guess the size of the translate-English-to-Hindi file),https://googleblog.blogspot.com/2016/05/translate-where-you-need-it-in-any-app.html
+373,Lobsters,android,Android,Sarah Jeong live tweeting from the Oracle v. Google trial,https://twitter.com/sarahjeong
+374,Lobsters,android,Android,Embedded Linux Conference 2013 - Toybox: Writing a New Command Line From Scratch,https://www.youtube.com/watch?v=SGmtP5Lg_t0
+375,Lobsters,android,Android,This is what a root debug backdoor in a Linux kernel looks like,http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/
+376,Lobsters,android,Android,Jury is picked for $9 billion Oracle v. Google showdown,http://arstechnica.com/tech-policy/2016/05/jury-is-picked-for-9-billion-oracle-v-google-showdown/
+377,Lobsters,android,Android,Exploiting CVE-2016-2060 on Qualcomm Devices,https://www.fireeye.com/blog/threat-research/2016/05/exploiting_cve-2016-.html
+378,Lobsters,android,Android,"Wire — modern, private comms for iOS, Android, OS X, Windows and web.",https://wire.com/
+379,Lobsters,android,Android,Termux: terminal emulator and Linux environment for Android,https://termux.com/
+380,Lobsters,android,Android,Android Security 2015 Annual Report,https://security.googleblog.com/2016/04/android-security-2015-annual-report.html
+381,Lobsters,android,Android,Running Emacs on Android,http://endlessparentheses.com/running-emacs-on-android.html
+382,Lobsters,android,Android,How to debug HTTP(s) traffic on Android (2015),https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34
+383,Lobsters,android,Android,Tribe - Experiential Messaging,http://tribe.pm/
+384,Lobsters,android,Android,Eraser Map – privacy-focused mapping application that tracks nothing about you and has no accounts,https://mapzen.com/blog/erasermap-beta
+385,Lobsters,android,Android,An Examination Of Ineffective Certificate Pinning Implementations,https://www.cigital.com/blog/ineffective-certificate-pinning-implementations/
+386,Lobsters,android,Android,Microsoft's Experimental Keyboard Aims To Solve Mobile Multitasking Problems,http://www.fastcodesign.com/3057267/microsofts-experimental-keyboard-aims-to-solve-a-big-mobile-ux-problem
+387,Lobsters,android,Android,We finally did something about Android Performance (in Ember),https://eviltrout.com/2016/02/25/fixing-android-performance.html
+388,Lobsters,android,Android,WHY WON’T THIS WORK?! Coding Angry for Fun and Profit,https://medium.com/google-developers/why-won-t-this-work-coding-angry-for-fun-and-profit-1ef38a2b7196
+389,Lobsters,android,Android,Swift pull request: Port to Android,https://github.com/apple/swift/pull/1442
+390,Lobsters,android,Android,Kotlin + Android: Easily Storing a List in SharedPreferences with Custom Accessors,http://blog.dennislysenko.com/2016/01/22/kotlin-easily-storing-a-list-in-sharedpreferences-with-custom-accessors/
+391,Lobsters,android,Android,Why I don't like smartphones,https://www.devever.net/~hl/smartphones
+392,Lobsters,android,Android,Reflecting on Recent iOS and Android Security Updates,https://blog.zimperium.com/reflecting-on-recent-ios-and-android-security-updates/
+393,Lobsters,android,Android,Smartphones with removable batteries are hard to find. Here is a comparison chart with 200 of them.,http://www.productchart.com/smartphones/sets/3
+394,Lobsters,android,Android,Google removes Samsung's first Android ad blocker from the Play Store,http://www.theverge.com/2016/2/3/10905672/google-samsung-adblock-fast-android-ad-blocker-removal
+395,Lobsters,android,Android,The fight for a third-best smartphone OS has been lost. By everyone.,http://arstechnica.com/gadgets/2016/02/the-fight-for-a-third-best-smartphone-os-has-been-lost-by-everyone/
+396,Lobsters,android,Android,Android privilege escalation to mediaserver from zero permissions (CVE-2014-7920 + CVE-2014-7921),http://bits-please.blogspot.com/2016/01/android-privilege-escalation-to.html
+397,Lobsters,android,Android,A Web Developer Builds a Kivy App,http://mattscodecave.com/posts/a-web-developer-builds-a-kivy-app.html
+398,Lobsters,android,Android,IQtags - Hashtag suggestions for Instagram,http://IQta.gs
+399,Lobsters,android,Android,Adding Tor support [to Facebook] on Android,https://www.facebook.com/notes/facebook-over-tor/adding-tor-support-on-android/814612545312134/
+400,Lobsters,android,Android,Oracle sinks its claws into Android,http://andreasgal.com/2016/01/05/oracle-sinks-its-claws-into-android/
+401,Lobsters,android,Android,PowerSpy: Location Tracking Using Mobile Device Power Analysis,https://crypto.stanford.edu/powerspy/
+402,Lobsters,android,Android,Using OpenCV and AKAZE for Mobile App and Game Testing,http://testdroid.com/tech/using-opencv-and-akaze-for-mobile-app-and-game-testing
+403,Lobsters,android,Android,Remix OS,http://www.jide.com/en/remixos
+404,Lobsters,android,Android,Vulnerability in Blackphone Puts Devices at Risk for Takeover,https://www.sentinelone.com/blog/vulnerability-in-blackphone-puts-devices-at-risk-for-takeover/
+405,Lobsters,android,Android,Compiling Rust to an Android Target,http://ghotiphud.github.io//rust/android/cross-compiling/2016/01/06/compiling-rust-to-android.html
+406,Lobsters,android,Android,Android++ (native development and debugging for Visual Studio) is now open-source,https://github.com/webbju/android-plus-plus
+407,Lobsters,android,Android,"Sun, Oracle, Android, Google and JDK Copyleft FUD",http://ebb.org/bkuhn/blog/2016/01/05/jdk-in-android.html
+408,Lobsters,android,Android,Google confirms next Android version won’t use Oracle’s proprietary Java APIs,http://venturebeat.com/2015/12/29/google-confirms-next-android-version-wont-use-oracles-proprietary-java-apis/
+409,Lobsters,android,Android,Introducing Fresco: A new image library for Android,https://code.facebook.com/posts/366199913563917/introducing-fresco-a-new-image-library-for-android/
+410,Lobsters,android,Android,Rumble: An internetless microblog,http://disruptedsystems.org/
+411,Lobsters,android,Android,The Pixel C was probably never supposed to run Android,http://arstechnica.com/gadgets/2015/12/the-pixel-cs-bumpy-road-from-chrome-os-concept-to-android-adoptee/
+412,Lobsters,android,Android,Signal Desktop,https://whispersystems.org/blog/signal-desktop/
+413,Lobsters,android,Android,Android Studio 2.0 Preview,http://android-developers.blogspot.com/2015/11/android-studio-20-preview.html
+414,Lobsters,android,Android,An HTTP+SPDY client for Android and Java applications.,https://github.com/square/okhttp
+415,Lobsters,android,Android,Is the Native Mobile App Ecosystem Worth Saving?,http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/
+416,Lobsters,android,Android,"Android, Project Fi, and Updates",https://bitquabit.com/post/android-project-fi-and-updates/
+417,Lobsters,android,Android,Google's (Anti)Trust Issues,http://commonsware.com/blog/2015/11/11/google-anti-trust-issues.html
+418,Lobsters,android,Android,Facebook uses FlatBuffers on one billion Android devices,https://rwinslow.com/posts/facebook-uses-flatbuffers-on-one-billion-android-devices/
+419,Lobsters,android,Android,User data plundering by Android and iOS apps is as rampant as you suspected,http://arstechnica.com/security/2015/11/user-data-plundering-by-android-and-ios-apps-is-as-rampant-as-you-suspected/
+420,Lobsters,android,Android,Just Signal,https://whispersystems.org/blog/just-signal/
+421,Lobsters,android,Android,Threema - Seriously secure messaging,https://threema.ch
+422,Lobsters,android,Android,Google to Fold Chrome Operating System Into Android,http://www.wsj.com/article_email/alphabets-google-to-fold-chrome-operating-system-into-android-1446151134-lMyQjAxMTA1NzIxOTAyMzk4Wj
+423,Lobsters,android,Android,"Android Defect Reboots Phone Every Time You Type ""Reboot"" (2008)",http://gizmodo.com/5080688/android-bug-reboots-phone-every-time-you-type-reboot
+424,Lobsters,android,Android,Karma: How Open Source changed my life.,http://www.evilsocket.net/2015/10/27/karma-how-open-source-changed-my-life/
+425,Lobsters,android,Android,The viability of JS frameworks on mobile,https://joreteg.com/blog/viability-of-js-frameworks-on-mobile
+426,Lobsters,android,Android,Proportion of devices running vulnerable versions of Android,http://androidvulnerabilities.org/
+427,Lobsters,android,Android,Hackers Can Silently Control Siri (and Google Now) From 16 Feet Away,http://www.wired.com/2015/10/this-radio-trick-silently-hacks-siri-from-16-feet-away/
+428,Lobsters,android,Android,"Amazon stops selling Chromecast and Apple TV over Amazon Prime ""incompatability""",http://www.bloomberg.com/news/articles/2015-10-01/amazon-will-ban-sale-of-apple-google-video-streaming-devices
+429,Lobsters,android,Android,Google Press Event 9/29/15,http://www.youtube.com/watch?v=Jc-LEG0T_4c
+430,Lobsters,android,Android,Copperhead OS - A hardened version of Android,https://copperhead.co/android
+431,Lobsters,android,Android,React Native for Android: How we built the first cross-platform React Native app,https://code.facebook.com/posts/1189117404435352/
+432,Lobsters,android,Android,Exploiting Android Users for Fun and Profit,http://www.codeword.xyz/2015/08/09/exploiting-android-users-for-fun-and-profit/
+433,Lobsters,android,Android,"Stagefright: Vulnerability Details, Stagefright Detector tool",https://blog.zimperium.com/stagefright-vulnerability-details-stagefright-detector-tool-released/
+434,Lobsters,android,Android,The War for Control of the Mobile Web is About to Heat Up,https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe
+435,Lobsters,android,Android,Shrimper - Material Design Android client for Lobste.rs,https://play.google.com/store/apps/details?id=com.thomasezan.shrimper
+436,Lobsters,android,Android,"Material Design is Different, Not Better",https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1
+437,Lobsters,android,Android,Stagefright: It Only Takes One Text To Hack 950 Million Android Phones,http://www.forbes.com/sites/thomasbrewster/2015/07/27/android-text-attacks/
+438,Lobsters,android,Android,"Dude, Where's My char[]? - VM Optimizations in Android M",https://corner.squareup.com/2015/07/dude-wheres-my-char.html
+439,Lobsters,android,Android,Play Half Life on Android Wear,http://www.davebennett.tv/play-half-life-on-android-wear/
+440,Lobsters,android,Android,Again helps you create habits of groups of recurring tasks,http://www.againlist.com
+441,Lobsters,android,Android,Shrimper - Lobste.rs reader for Android,http://goo.gl/forms/ymGpIRYwrB
+442,Lobsters,android,Android,An update on Eclipse Android Developer Tools,http://android-developers.blogspot.com/2015/06/an-update-on-eclipse-android-developer.html
+443,Lobsters,android,Android,Supreme Court Denies Google Appeal on Oracle Suit,http://thenextweb.com/insider/2015/06/29/google-denied-appeal-by-us-supreme-court-in-oracle-copyright-case/
+444,Lobsters,android,Android,Remote Code Execution as System User on Samsung Phones,https://www.nowsecure.com/blog/2015/06/16/remote-code-execution-as-system-user-on-samsung-phones/
+445,Lobsters,android,Android,Mobile App Design that Scales: Building for Existing and Fututre Devices,http://www.telerik.com/campaigns/mobile-app-design-that-scales
+446,Lobsters,android,Android,Announcing Security Rewards for Android,http://googleonlinesecurity.blogspot.com/2015/06/announcing-security-rewards-for-android.html
+447,Lobsters,android,Android,Random Musings on the M Developer Preview: the Ugly (Part Two),http://commonsware.com/blog/2015/06/04/random-musings-m-developer-preview-bad-part-two.html
+448,Lobsters,android,Android,The Next Nexus,http://jonginn.com/2015/05/30/the-next-nexus/
+449,Lobsters,android,Android,Google I/O live stream,https://events.google.com/io2015/
+450,Lobsters,android,Android,Security Analysis of Android Factory Resets,http://www.cl.cam.ac.uk/~rja14/Papers/fr_most15.pdf
+451,Lobsters,android,Android,Alcatel One Touch Idol 3,http://www.alcatelonetouch.us/ALCATEL-ONETOUCH-IDOL-SMARTPHONE-Unlocked/dp/B00V3U6FFK
+452,Lobsters,android,Android,"ASUS ZenFone 2 (2GB 16GB @ 199 USD, 4GB 64GB @ 299 USD)",http://www.asus.com/Phones/ZenFone_2_ZE551ML/
+453,Lobsters,android,Android,Image Recognition for Mobile Game Testing,http://testdroid.com/news/how-to-use-image-recognition-for-mobile-app-and-game-testing
+454,Lobsters,android,Android,Inside a $34 smartphone,http://projectgus.com/2015/05/inside-a-34-dollar-smartphone/
+455,Lobsters,android,Android,Anko – Pleasant Android development in Kotlin,https://github.com/JetBrains/anko
+456,Lobsters,android,Android,Hardware-accelerated disk encryption in Android 5.1,http://nelenkov.blogspot.com/2015/05/hardware-accelerated-disk-encryption-in.html
+457,Lobsters,android,Android,The Similar Phone Finder,http://www.productchart.com/smartphones/similar
+458,Lobsters,android,Android,Chrome continues to fall apart at brisk pace,http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html
+459,Lobsters,android,Android,Caddy - The HTTP/2 Web Server Made for Humans,https://caddyserver.com/
+460,Lobsters,android,Android,Android for Maven Eclipse version 1.3.0 release with Andmore support,https://github.com/rgladwell/m2e-android/releases/tag/1.3.0
+461,Lobsters,android,Android,Top Open Source Android Test Automation Frameworks (with Code Examples),http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples
+462,Lobsters,android,Android,Build Your First Google Wear App,http://developer.telerik.com/featured/build-your-first-google-wear-app/
+463,Lobsters,android,Android,Build the Prime Minister's Office App,http://www.google.co.in/intl/en_in/landing/pmoapp/index.html
+464,Lobsters,android,Android,When should I use the Xamarin platform for mobile development?,http://www.telerik.com/campaigns/build-mobile-apps-with-dotnet
+465,Lobsters,android,Android,Shitphone: A Love Story,https://medium.com/matter/shitphone-a-love-story-a44e66434807?source=reading-list
+466,Lobsters,android,Android,An interactive Comparison Chart of the 300 most popular Tablets,http://www.productchart.com/tablets/
+467,Lobsters,android,Android,Getting Started with Android Wearables using Xamarin and Visual Studio,http://www.geekswithblogs.net/dotNETvinz/archive/2015/02/12/getting-started-with-android-wearable-using-xamarin-and-visual-studio.aspx
+468,Lobsters,android,Android,Android Permissions Explained,http://developer.telerik.com/featured/android-permissions-explained/
+469,Lobsters,android,Android,Sync App Settings in Dropbox with Mackup,http://blog.wadegarrett.com/2015/02/17/sync-app-settings-in-dropbox-with-mackup/
+470,Lobsters,android,Android,Develop a Simple Application Using PhoneGap API with jQuery Mobile,http://webdesignpool.com/developing-cross-platform-mobile-apps-with-phonegap-and-jquery
+471,Lobsters,android,Android,Learn How to Code With Online Resources – Free and Paid,http://webdesignpool.com/learn-programming-online
+472,Lobsters,android,Android,"BlackBerry CEO prods regulators for 'app neutrality,' wants cross-platform iMessage",http://appleinsider.com/articles/15/01/22/blackberry-ceo-prods-regulators-for-app-neutrality-wants-cross-platform-imessage
+473,Lobsters,android,Android,Dissecting Lollipop's Smart Lock,http://nelenkov.blogspot.com/2014/12/dissecting-lollipops-smart-lock.html
+474,Lobsters,android,Android,"The Unified API for Mobile App, Game and Web Testing",http://testdroid.com/testdroid/8718/the-powerful-api-for-your-mobile-app-game-and-web-testing
+475,Lobsters,android,Android,The Haskell Cast: Conal Elliott on FRP and Denotational Design,http://www.haskellcast.com/episode/009-conal-elliott-on-frp-and-denotational-design/
+476,Lobsters,android,Android,Why Android Lollipop takes the cake,http://www.business-standard.com/article/technology/why-android-lollipop-takes-the-cake-114113000607_1.html
+477,Lobsters,android,Android,NVIDIA starts rolling out Android 5.0 Lollipop for the Shield Tablet LTE,http://beforeitsnews.com/science-and-technology/2014/11/nvidia-starts-rolling-out-android-5-0-lollipop-for-the-shield-tablet-lte-2734076.html
+478,Lobsters,android,Android,OnePlus One Review,"http://www.tomshardware.com/reviews/oneplus-one-smartphone,3992.html"
+479,Lobsters,android,Android,Become Part of the Web of Apps: Developers tricks to increase mobile app usage,http://blogs.telerik.com/blogs/14-11-18/become-part-of-the-web-of-apps-developers-tricks-to-drive-app-engagement-up
+480,Lobsters,android,Android,libphonenumber: Google's phone number handling library,https://code.google.com/p/libphonenumber/
+481,Lobsters,android,Android,Fragment view state retention: A dirty solution,http://vinsol.com/blog/2014/10/22/fragment-view-state-retention-a-dirty-solution/
+482,Lobsters,android,Android,Mobile design that scales: building for existing and future devices,http://developer.telerik.com/featured/mobile-design-scales-building-existing-future-devices/
+483,Lobsters,android,Android,What are Myths in Mobile App Testing?,http://testdroid.com/testdroid/8237/top-5-myths-in-mobile-app-testing
+484,Lobsters,android,Android,Android vs. iOS App Robustness on Different Chipsets,http://testdroid.com/testdroid/8216/android-vs-ios-app-robustness-on-different-chipsets
+485,Lobsters,android,Android,Thoughts after a Month with Blackphone,http://www.droidsec.org/news/2014/09/30/thoughts-after-a-month-with-blackphone.html
+486,Lobsters,android,Android,App Robustness/Stability - Android vs. iOS - before iOS8,http://testdroid.com/testdroid/7621/app-stability-android-vs-ios-before-ios8
+487,Lobsters,android,Android,Snowplow 0.9.8 released for mobile analytics,http://snowplowanalytics.com/blog/2014/09/18/snowplow-0.9.8-released-for-mobile-analytics/
+488,Lobsters,android,Android,Types Don't Know # (C++ proposal for better hashing),http://htmlpreview.github.io/?https://github.com/HowardHinnant/papers/blob/master/hashing.html
+489,Lobsters,android,Android,Graphics Performance makes UX,http://testdroid.com/testdroid/7982/mobile-game-testing-part-3-graphics-performance-and-ux-with-automation
+490,Lobsters,android,Android,Image Recognition in Mobile Game Testing,http://testdroid.com/testdroid/7896/mobile-game-testing-part-2-ui-and-functionality-image-recognition
+491,Lobsters,android,Android,The Semantics of Software,http://olivierlacan.com/posts/the-semantics-of-software/
+492,Lobsters,android,Android,Imagination takes on Raspberry Pi with Android educational computer,http://www.electronicsweekly.com/news/design/embedded-systems/imagination-takes-raspberry-pi-android-educational-computer-2014-08/
+493,Lobsters,android,Android,Putting Your APKs on Diet,http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
+494,Lobsters,android,Android,Recognizing Speech From Gyroscope Signals,http://crypto.stanford.edu/gyrophone/files/gyromic.pdf
+495,Lobsters,android,Android,Remote code execution on android devices,http://labs.bromium.com/2014/07/31/remote-code-execution-on-android-devices/
+496,Lobsters,android,Android,Device Mirroring Options for Mobile Developers,http://developer.telerik.com/featured/mirroring-options-mobile-developers/
+497,Lobsters,android,Android,Flock: Private Contact and Calendar Cloud Sync for Android,https://whispersystems.org/blog/flock/
+498,Lobsters,android,Android,Is Your Android Device Telling the World Where You've Been?,https://www.eff.org/deeplinks/2014/07/your-android-device-telling-world-where-youve-been
+499,Lobsters,android,Android,Social Media Integration on Android,http://developer.telerik.com/featured/social-media-integration-android/
+500,Lobsters,android,Android,The Smart Problem-Solving Behind Android’s Awesome New Design Language,http://www.wired.com/2014/06/the-big-ideas-behind-androids-awesome-new-design-language
+501,Lobsters,android,Android,"And Now, Your 'L' API Change WTFs",http://commonsware.com/blog/2014/06/28/and-now-your-l-api-change-wtfs.html
+502,Lobsters,android,Android,Citizen Lab Report: Police Story -- Hacking Team’s Tradecraft and Android Implant,http://citizenlab.org/2014/06/backdoor-hacking-teams-tradecraft-android-implant/
+503,Lobsters,android,Android,Google New Material Design concept - intuitive metaphors allowing the mind to work less,http://blogs.telerik.com/blogs/14-06-26/google-new-material-design-concept-intuitive-metaphors-allowing-the-mind-to-work-less
+504,Lobsters,android,Android,"Introducing the all-new 7"" tablet from Google",http://www.google.com/nexus/7/
+505,Lobsters,android,Android,Go support for Android,https://docs.google.com/document/d/1N3XyVkAP8nmWjASz8L_OjjnjVKxgeVBjIsTr5qIUcA4/mobilebasic?pli=1&viewopt=127
+506,Lobsters,android,Android,NES Emulator for Android written in Go,https://github.com/scottferg/Fergulator-Android
+507,Lobsters,android,Android,Why mobile developers should care about deep linking,http://developer.telerik.com/products/why-developers-should-care-about-deep-linking/
+508,Lobsters,android,Android,Easy Android Custom View Reuse in Eclipse,http://developer.telerik.com/products/easy-android-custom-view-reuse-in-eclipse/
+509,Lobsters,android,Android,Courier: Secure News reader,https://guardianproject.info/apps/courier/
+510,Lobsters,android,Android,Pinchy: A Lobste.rs android app,https://play.google.com/store/apps/details?id=com.pinchy.android
+511,Lobsters,android,Android,Create 3D parallax images from photos created with Google Camera's Lens Blur feature,http://depthy.stamina.pl/
+512,Lobsters,android,Android,Is cards UI the future of mobile?,http://blogs.telerik.com/blogs/14-04-15/is-cards-ui-the-future-of-mobile
+513,Lobsters,android,Android,Mission Impossible: Hardening Android for Security and Privacy,https://blog.torproject.org/blog/mission-impossible-hardening-android-security-and-privacy
+514,Lobsters,android,Android,How to build an Android app that displays live accelerometer data using a line chart control,http://blogs.telerik.com/blogs/14-04-01/how-to-build-an-android-app-that-displays-live-accelerometer-data-using-a-line-chart-control
+515,Lobsters,android,Android,Tileswap: a puzzle game for Android,https://psuter.net/tileswap/
+516,Lobsters,android,Android,Samsung Galaxy Back-door,http://redmine.replicant.us/projects/replicant/wiki/SamsungGalaxyBackdoor
+517,Lobsters,android,Android,Replicant developers find and close Samsung Galaxy back-door,https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor
+518,Lobsters,android,Android,On the WebView addJavascriptInterface Saga,http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html
+519,Lobsters,android,Android,WhatsApp Plans To Add Voice Calls In Q2 This Year.,http://gazerlog.com/whatsapp-plans-add-voice-calls-q2-year/
+520,Lobsters,android,Android,The New TextSecure: Privacy Beyond SMS,https://whispersystems.org/blog/the-new-textsecure/
+521,Lobsters,android,Android,Android++,http://android-plus-plus.com/download/
+522,Lobsters,android,Android,How to Show Animated GIFs in Android,http://weavora.com/blog/2012/02/07/android-and-how-to-use-animated-gifs/
+523,Lobsters,android,Android,Developing a mobile cross-platform library - Part 1. Exploring,http://www.skyscanner.net/blogs/developing-mobile-cross-platform-library-part-1-exploring
+524,Lobsters,android,Android,Android OEMs exposing touchscreen input,http://tsyrklevich.net/2014/02/09/android-oems-exposing-touchscreen-input/
+525,Lobsters,android,Android,That NBC (Sochi Hacking) story 100% fraudulent,http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html
+526,Lobsters,android,Android,Making the Mobile Web Safer with HTTPS Everywhere,https://www.eff.org/deeplinks/2014/01/making-the-mobile-web-safer-with-https-everywhere
+527,Lobsters,android,Android,Ready to cast: Chromecast now open to developers with the Google Cast SDK,http://googledevelopers.blogspot.com/2014/02/ready-to-cast-chromecast-now-open-to.html
+528,Lobsters,android,Android,Swordfish: The Exploit Video Series,https://lists.immunityinc.com/pipermail/dailydave/2014-January/000566.html
+529,Lobsters,android,Android,Suterusu Rootkit: Inline Kernel Function Hooking on x86 and ARM,http://poppopret.org/2013/01/07/suterusu-rootkit-inline-kernel-function-hooking-on-x86-and-arm/
+530,Lobsters,android,Android,Why It’s Time To Support Only Android 4.0 and Above,http://dannyroa.com/2013/10/17/why-its-time-to-support-only-android-4-0-and-above/
+531,Lobsters,android,Android,Oldboot: the first bootkit on Android,http://blogs.360.cn/360mobile/2014/01/17/oldboot-the-first-bootkit-on-android/
+532,Lobsters,android,Android,Introducing Jelly (social-network-powered search),http://blog.jelly.co/post/72563498393/introducing-jelly
+533,Lobsters,android,Android,"Some of what we did at Danger (makers of the Sidekick, predecessor to Android)",https://medium.com/tech-talk/d823af31f7c
+534,Lobsters,android,Android,The Need for an Open Barcode Database,http://kyleconroy.com/open-barcode-database
+535,Lobsters,android,Android,Reverse engineering my bank's security token,http://valverde.me/2014/01/03/reverse-engineering-my-bank%27s-security-token/
+536,Lobsters,android,Android,AnthraX Linux Kernels Remain Closed Source,http://www.phoronix.com/scan.php?page=news_item&px=MTU1ODA
+537,Lobsters,android,Android,Telegram Messenger For iPhone And Android (oss),http://telegram.org/
+538,Lobsters,android,Android,Infographic: Global Cell Phone Statistics,http://www.longren.org/infographic-global-cell-phone-statistics/
+539,Lobsters,android,Android,A New Vulnerability in the Android Framework: Fragment Injection,http://securityintelligence.com/new-vulnerability-android-framework-fragment-injection/#
+540,Lobsters,android,Android,"TextSecure, Now With 10 Million More Users",https://whispersystems.org/blog/cyanogen-integration/?lobsters
+541,Lobsters,android,Android,Google’s $179 Moto G puts every single cheap Android phone to shame,http://arstechnica.com/gadgets/2013/12/review-googles-179-moto-g-puts-every-single-cheap-android-phone-to-shame/?lobsters
+542,Lobsters,android,Android,Cutting the Telecom Cord,https://blog.bolt.co/2013/12/05/cutting-the-telecom-cord.html
+543,Lobsters,android,Android,AIDE: Develop for android -- on the android,http://www.android-ide.com
+544,Lobsters,android,Android,Motorola no longer voiding warranties for unlocking Developer Edition Moto X,http://motorola-blog.blogspot.com/2013/11/you-asked-we-listened-announcing.html
+545,Lobsters,android,Android,"Motorola Makes The Moto G Official, A ""Premium"" Phone Starting At $179 Unlocked",http://techcrunch.com/2013/11/13/motorola-makes-the-moto-g-official-a-premium-phone-at-a-price-more-can-afford/
+546,Lobsters,android,Android,Google Takes Its Tracking Into The Real World,http://digiday.com/platforms/google-tracking/
+547,Lobsters,android,Android,T-Mobile Goes IPv6-only on Android 4.4 Devices,https://secure.dslreports.com/shownews/TMobile-Goes-IPv6-Only-on-Android-44-Devices-126506
+548,Lobsters,android,Android,The Quest to Build a Truly Free Version of Android,http://www.wired.com/wiredenterprise/2013/10/replicant/
+549,Lobsters,android,Android,Yet Another Android Master Key Bug,http://www.saurik.com/id/19
+550,Lobsters,android,Android,Quick Musings on Android 4.4,http://commonsware.com/blog/2013/10/31/quick-musings-android-4p4.html
+551,Lobsters,android,Android,Nexus 5,https://play.google.com/store/devices/details?id=nexus_5_black_32gb
+552,Lobsters,android,Android,Signing email with an NFC smart card on Android,http://nelenkov.blogspot.com/2013/10/signing-email-with-nfc-smart-card.html
+553,Lobsters,android,Android,Google’s iron grip on Android: Controlling open source by any means necessary,http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/
+554,Lobsters,android,Android,Why Android SSL was downgraded from AES256-SHA to RC4-MD5 in late 2010,http://op-co.de/blog/posts/android_ssl_downgrade/
+555,Lobsters,android,Android,Nexus 5 almost totally revealed by leaked service manual,http://venturebeat.com/2013/10/06/nexus-5-almost-totally-revealed-by-leaked-service-manual/
+556,Lobsters,android,Android,Using the SIM card as a secure element in Android,http://nelenkov.blogspot.com/2013/09/using-sim-card-as-secure-element.html
+557,Lobsters,android,Android,WebView addJavascriptInterface Remote Code Execution,https://labs.mwrinfosecurity.com/blog/2013/09/24/webview-addjavascriptinterface-remote-code-execution/
+558,Lobsters,android,Android,CyanogenMod: A New Chapter,http://www.cyanogenmod.org/blog/a_new_chapter
+559,Lobsters,android,Android,PSA: Think About Stronger App Signing Keys,http://commonsware.com/blog/2013/09/09/psa-think-about-stronger-app-signing-keys.html
+560,Lobsters,android,Android,Android KitKat unveiled in Google surprise move,http://www.bbc.co.uk/news/technology-23926938
+561,Lobsters,android,Android,Google is defragging Android,http://arstechnica.com/gadgets/2013/09/balky-carriers-and-slow-oems-step-aside-google-is-defragging-android/
+562,Lobsters,android,Android,Intel ships high-powered C++ compiler for native Android apps,http://www.theregister.co.uk/2013/08/28/intel_cpp_compiler_for_android/
+563,Lobsters,android,Android,Credential storage enhancements in Android 4.3,http://nelenkov.blogspot.com/2013/08/credential-storage-enhancements-android-43.html
+564,Lobsters,android,Android,Some SecureRandom Thoughts,http://android-developers.blogspot.com/2013/08/some-securerandom-thoughts.html
+565,Lobsters,android,Android,Android RNG Weakness Renders Bitcoin Wallets Insecure,http://bitcoin.org/en/alert/2013-08-11-android
+566,Lobsters,android,Android,Android AOSP Leader Quits Over Binary GPU Drivers,https://plus.google.com/112218872649456413744/posts/9HHRURorE7g
+567,Lobsters,android,Android,Android Bug Superior to Master Key,http://www.saurik.com/id/18
+568,Lobsters,android,Android,"Exploit (& Fix) Android ""Master Key""",http://www.saurik.com/id/17
+569,Lobsters,android,Android,Your Cellphone is Covered in Spiders; Pragmatic Android Security,http://vimeo.com/46044290
+570,Lobsters,android,Android,Uncovering Android Master Key That Makes 99% of Devices Vulnerable,http://bluebox.com/corporate-blog/bluebox-uncovers-android-master-key/
+571,Lobsters,android,Android,"Creating iOS and Android Apps in Lisp, with mocl",http://wukix.com/dist/mocl_eclm2013.pdf
+572,Lobsters,android,Android,The most sophisticated Android Trojan,https://www.securelist.com/en/blog/8106/The_most_sophisticated_Android_Trojan
+573,Lobsters,android,Android,The Linkify Problem: The Patent and the Behavior,http://commonsware.com/blog/2012/07/23/linkify-problem-patent-behavior.html
+574,Lobsters,android,Android,Android code signing,http://nelenkov.blogspot.com/2013/04/android-code-signing.html
+575,Lobsters,android,Android,PatchDroid is an application that fixes security vulnerabilities in EOL'd Android devices,http://patchdroid.com/
+576,Lobsters,android,Android,Android Application (Dalvik) Memory Analysis & The Chuli Malware,http://www.504ensics.com/android-application-dalvik-memory-analysis-the-chuli-malware/
+577,Lobsters,android,Android,The Resurrection of Testing for Android,http://corner.squareup.com/2013/04/the-resurrection-of-testing-for-android.html
+578,Lobsters,android,Android,An Android application with no permissions can access the lock screen owner info string,https://gist.github.com/jcs/6b7b9a9b4a81bc521d68
+579,Lobsters,android,Android,Randomly Failed! The State of Randomness in Current Java Implementations,http://www.scribd.com/doc/131955288/Randomly-Failed-The-State-of-Randomness-in-Current-Java-Implementations
+580,Lobsters,android,Android,Ask Lobsters - Would this be a good idea for a mobile app?,/s/ybvgm9/ask_lobsters_would_this_be_good_idea_for
+581,Lobsters,android,Android,Secure USB debugging in Android 4.2.2,http://nelenkov.blogspot.co.uk/2013/02/secure-usb-debugging-in-android-422.html
+582,Lobsters,android,Android,Using Cryptography to Store Credentials Safely,http://android-developers.blogspot.com/2013/02/using-cryptography-to-store-credentials.html
+583,Lobsters,android,Android,Wine for Android Coming Soon,http://thenextweb.com/apps/2013/02/03/wine-for-linux-is-going-mobile-you-will-soon-be-able-to-run-windows-apps-on-android/
+584,Lobsters,android,Android,Exploiting 64-bit Linux like a boss,http://scarybeastsecurity.blogspot.se/2013/02/exploiting-64-bit-linux-like-boss.html
+585,Lobsters,android,Android,Dexter is a static Android application analysis tool,http://dexter.dexlabs.org/
+586,Lobsters,android,Android,apk2gold CLI tool for decompiling Android apps to Java,https://github.com/lxdvs/apk2gold
+587,Lobsters,android,Android,Android Observatory - Malware Database,http://www.androidobservatory.org/
+588,Lobsters,android,Android,Mosh for (irssi)ConnectBot,http://dan.drown.org/android/mosh/
+589,Lobsters,android,Android,"Security flaw found in Samsung handsets, tablets",http://www.zdnet.com/security-flaw-found-in-samsung-handsets-tablets-7000008880/
+590,Lobsters,android,Android,Root exploit on Exynos,http://forum.xda-developers.com/showthread.php?p=35469999
+591,Lobsters,android,Android,Google Play Reviews Now Require A Google+ Account,http://thenextweb.com/google/2012/11/27/google-connects-its-play-store-with-google-public-reviews-will-now-feature-your-name-and-picture/
+592,Lobsters,android,Android,Solution to Hashdays 2012 Android Challenge,http://blog.fortiguard.com/wp-content/uploads/2012/11/hashdayschallenge.pdf
+593,Lobsters,android,Android,ActiveAndroid - Active record style SQLite persistence for Android,http://www.activeandroid.com/
+594,Lobsters,android,Android,Android UI Patterns: Android Apps Redesigned,http://www.androiduipatterns.com/2012/11/android-apps-redesigned.html
+595,Lobsters,android,Android,"Sidekiq vs Resque, with MRI and JRuby - Josh Rendek",http://joshrendek.com/2012/11/sidekiq-vs-resque/
+596,Lobsters,android,Android,Building Inferno OS for Android Phones,http://www.bluishcoder.co.nz/2012/06/11/building-inferno-os-for-android-phones.html
+597,Lobsters,android,Android,Inside Android 4.2's powerful new security system,http://blogs.computerworld.com/android/21259/android-42-security
+598,Lobsters,android,Android,Python on Android? First impressions of Kivy,http://archlinux.me/dusty/2012/10/16/python-on-android-first-impressions-of-kivy/
+599,Lobsters,android,Android,"RAZR i, believe: does Intel's first real smartphone measure up?",http://www.theverge.com/2012/10/4/3447984/motorola-razr-i-review-intel-smartphone
+600,Lobsters,android,Android,Click to Wipe - Factory reset ulnerability in some Samsung Androids,http://www.isk.kth.se/~rbbo/ussdvul.html
+601,Lobsters,android,Android,New From Parse - Cloud Code,http://blog.parse.com/2012/09/11/welcoming-cloud-code-to-the-parse-family/
+602,Lobsters,android,Android,BitTorrent Inc. released µTorrent Beta for Android,https://play.google.com/store/apps/details?id=com.utorrent.client
+603,Lobsters,android,Android,Chinese clone maker wants to sue Apple over iPhone 5 design,http://www.neowin.net/news/chinese-clone-maker-wants-to-sue-apple-over-iphone-5-design
+604,Lobsters,android,Android,Sony release binaries to support JBQ’s Vanilla Android Xperia S project,http://developer.sonymobile.com/2012/09/03/sony-release-binaries-to-support-jbqs-vanilla-android-xperia-s-project-download/
+605,Lobsters,android,Android,Android analysis framework,http://www.dexlabs.org/blog/btdetect
+606,Lobsters,android,Android,New Burp Proxy cracks Android SSL,http://www.h-online.com/security/news/item/New-Burp-Proxy-cracks-Android-SSL-1663112.html
+607,Lobsters,android,Android,Into the Droid – Gaining Access to Android User Data,https://viaforensics.com/mobile-security/droid-gaining-access-android-user-data.html
+608,Lobsters,android,Android,"iOS Developer Appigo Is Threatening To Sue Android Apps For Using The Word ""ToDo"" In Their Names",http://www.androidpolice.com/2012/08/02/ios-developer-appigo-is-threatening-to-sue-android-apps-for-using-the-word-todo-in-their-names-generally-being-ridiculous/
+609,Lobsters,android,Android,Android 4.0 (ICS) is coming to Raspberry Pi,http://www.raspberrypi.org/archives/1700
+610,Lobsters,android,Android,Multiple User Accounts Are Coming To Android,http://www.androidpolice.com/2012/07/30/multiple-user-accounts-are-coming-miles-of-code-is-already-in-aosp-and-some-of-it-is-quietly-working-on-devices-right-now/
+611,Lobsters,android,Android,Android DNS Poisoning: Randomness gone bad (CVE-2012-2808),http://blog.watchfire.com/wfblog/2012/07/android-dns-poisoning-randomness-gone-bad-cve-2012-2808.html
+612,Lobsters,android,Android,X-Ray for Android,http://www.xray.io/
+613,Lobsters,android,Android,Whisper Systems' RedPhone is now Open Source,http://www.whispersys.com/redphone-now-open-source.html
+614,Lobsters,android,Android,Android Security Overview,http://source.android.com/tech/security/
+615,Lobsters,android,Android,Exploit Mitigations in Android Jelly Bean 4.1,https://blog.duosecurity.com/2012/07/exploit-mitigations-in-android-jelly-bean-4-1/
+616,Lobsters,android,Android,All of the new features in Android 4.1 Jelly Bean,http://www.android.com/about/jelly-bean/
+617,Lobsters,android,Android,Android spam bots? What we know for sure,http://nakedsecurity.sophos.com/2012/07/06/android-spam-bots-what-we-know-for-sure/
+618,Lobsters,android,Android,Google I/O 12 - The Android Sessions - YouTube,https://www.youtube.com/playlist?list=PL4C6BCDE45E05F49E
+619,Lobsters,android,Android,Android 4.1 source code released,https://groups.google.com/forum/#!msg/android-building/XBYeD-bhk1o/ry-0jTGimEQJ
+620,Lobsters,android,Android,"Android Botnet? No, a Much Simpler Flaw in Yahoo! Mail's App",http://securitywatch.pcmag.com/none/300005-android-botnet-no-a-much-simpler-flaw-in-yahoo-mail-s-app

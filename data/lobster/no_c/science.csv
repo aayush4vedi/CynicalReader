@@ -1,0 +1,874 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,science,Science,scite Reference Check: an easy way to check the reliability of your references,https://medium.com/scite/reference-check-an-easy-way-to-check-the-reliability-of-your-references-b2afcd64abc6
+2,Lobsters,science,Science,SciML: How Language is Changing Scientific Research,https://www.youtube.com/watch?v=3hM7wn7iJ70
+3,Lobsters,science,Science,Why Are We Using Black Box Models in AI When We Don’t Need To?,https://hdsr.mitpress.mit.edu/pub/f9kuryi8/release/5
+4,Lobsters,science,Science,Visualizing Citation Cartels,https://scholarlykitchen.sspnet.org/2016/09/26/visualizing-citation-cartels/
+5,Lobsters,science,Science,You Want to See My Data? I Thought We Were Friends,http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends
+6,Lobsters,science,Science,First Ever Image of a Multi-Planet System around a Sun-like Star Captured by ESO Telescope,https://www.eso.org/public/news/eso2011/?lang
+7,Lobsters,science,Science,Exploring Faster Screening with Fewer Tests via Bayesian Group Testing,http://ai.googleblog.com/2020/07/exploring-faster-screening-with-fewer.html
+8,Lobsters,science,Science,"The Frink is Good, the Unit is Evil",https://www.hillelwayne.com/post/frink/
+9,Lobsters,science,Science,Credit Lost: Two Decades of Software Citation in Astronomy,https://iopscience.iop.org/article/10.3847/1538-4365/ab7be6
+10,Lobsters,science,Science,Getting to the Bottom of Noether’s Theorem,https://johncarlosbaez.wordpress.com/2020/06/29/noethers-theorem-2/
+11,Lobsters,science,Science,Understanding Digital Audio Measurements,https://audiosciencereview.com/forum/index.php?threads/article-understanding-digital-audio-measurements.10523/
+12,Lobsters,science,Science,"Deep learning - the ""why"" question",https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/
+13,Lobsters,science,Science,Do machines actually beat doctors? (2016),https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
+14,Lobsters,science,Science,"CERN approves plans for a $23 billion, 62-mile long super-collider",https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html
+15,Lobsters,science,Science,Neurological Divide: An fMRI Study of Prose and Code Writing,https://dijkstra.eecs.umich.edu/fmri/icse20-data/icse2020-fmri-preprint.pdf
+16,Lobsters,science,Science,Can your AI differentiate cats from CoViD-19?,https://www.researchgate.net/publication/342183520_Can_Your_AI_Differentiate_Cats_from_Covid-19_Sample_Efficient_Uncertainty_Estimation_for_Deep_Learning_Safety
+17,Lobsters,science,Science,AI - the no bullshit approach,https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/
+18,Lobsters,science,Science,Studying Programming in the Neuroage: Just a Crazy Idea?,https://cacm.acm.org/magazines/2020/6/245156-studying-programming-in-the-neuroage/fulltext
+19,Lobsters,science,Science,Science without Validation in a World without Meaning,https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/
+20,Lobsters,science,Science,The Falcon 9's iconic UIs powered by chromium and JS,https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9
+21,Lobsters,science,Science,Orbital Speed,https://what-if.xkcd.com/58/
+22,Lobsters,science,Science,Perl scripts for phylogenomic analysis,https://github.com/daisieh/phylogenomics
+23,Lobsters,science,Science,Optical Atomic Clocks Are Ready to Redefine Time,https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/optical-atomic-clock-advantage-expands-electronics
+24,Lobsters,science,Science,An open letter to software engineers criticizing Neil Ferguson's epidemics simulation code,http://blog.khinsen.net/posts/2020/05/18/an-open-letter-to-software-engineers-criticizing-neil-ferguson-s-epidemics-simulation-code/
+25,Lobsters,science,Science,CERN posted build instructions for low-cost DIY particle detector,https://twitter.com/cern/status/1260600298206302210
+26,Lobsters,science,Science,scite Reference Check: an easy way to check the reliability of your references,https://medium.com/scite/reference-check-an-easy-way-to-check-the-reliability-of-your-references-b2afcd64abc6
+27,Lobsters,science,Science,SciML: How Language is Changing Scientific Research,https://www.youtube.com/watch?v=3hM7wn7iJ70
+28,Lobsters,science,Science,Why Are We Using Black Box Models in AI When We Don’t Need To?,https://hdsr.mitpress.mit.edu/pub/f9kuryi8/release/5
+29,Lobsters,science,Science,Visualizing Citation Cartels,https://scholarlykitchen.sspnet.org/2016/09/26/visualizing-citation-cartels/
+30,Lobsters,science,Science,You Want to See My Data? I Thought We Were Friends,http://nautil.us/blog/you-want-to-see-my-data-i-thought-we-were-friends
+31,Lobsters,science,Science,First Ever Image of a Multi-Planet System around a Sun-like Star Captured by ESO Telescope,https://www.eso.org/public/news/eso2011/?lang
+32,Lobsters,science,Science,Exploring Faster Screening with Fewer Tests via Bayesian Group Testing,http://ai.googleblog.com/2020/07/exploring-faster-screening-with-fewer.html
+33,Lobsters,science,Science,"The Frink is Good, the Unit is Evil",https://www.hillelwayne.com/post/frink/
+34,Lobsters,science,Science,Credit Lost: Two Decades of Software Citation in Astronomy,https://iopscience.iop.org/article/10.3847/1538-4365/ab7be6
+35,Lobsters,science,Science,Getting to the Bottom of Noether’s Theorem,https://johncarlosbaez.wordpress.com/2020/06/29/noethers-theorem-2/
+36,Lobsters,science,Science,Understanding Digital Audio Measurements,https://audiosciencereview.com/forum/index.php?threads/article-understanding-digital-audio-measurements.10523/
+37,Lobsters,science,Science,"Deep learning - the ""why"" question",https://blog.piekniewski.info/2018/10/13/deep-learning-the-why-question/
+38,Lobsters,science,Science,Do machines actually beat doctors? (2016),https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
+39,Lobsters,science,Science,"CERN approves plans for a $23 billion, 62-mile long super-collider",https://www.engadget.com/cern-super-collider-higgs-boson-particle-092412017.html
+40,Lobsters,science,Science,Neurological Divide: An fMRI Study of Prose and Code Writing,https://dijkstra.eecs.umich.edu/fmri/icse20-data/icse2020-fmri-preprint.pdf
+41,Lobsters,science,Science,Can your AI differentiate cats from CoViD-19?,https://www.researchgate.net/publication/342183520_Can_Your_AI_Differentiate_Cats_from_Covid-19_Sample_Efficient_Uncertainty_Estimation_for_Deep_Learning_Safety
+42,Lobsters,science,Science,AI - the no bullshit approach,https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/
+43,Lobsters,science,Science,Studying Programming in the Neuroage: Just a Crazy Idea?,https://cacm.acm.org/magazines/2020/6/245156-studying-programming-in-the-neuroage/fulltext
+44,Lobsters,science,Science,Science without Validation in a World without Meaning,https://americanaffairsjournal.org/2020/05/science-without-validation-in-a-world-without-meaning/
+45,Lobsters,science,Science,The Falcon 9's iconic UIs powered by chromium and JS,https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9
+46,Lobsters,science,Science,Orbital Speed,https://what-if.xkcd.com/58/
+47,Lobsters,science,Science,Perl scripts for phylogenomic analysis,https://github.com/daisieh/phylogenomics
+48,Lobsters,science,Science,Optical Atomic Clocks Are Ready to Redefine Time,https://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/optical-atomic-clock-advantage-expands-electronics
+49,Lobsters,science,Science,An open letter to software engineers criticizing Neil Ferguson's epidemics simulation code,http://blog.khinsen.net/posts/2020/05/18/an-open-letter-to-software-engineers-criticizing-neil-ferguson-s-epidemics-simulation-code/
+50,Lobsters,science,Science,CERN posted build instructions for low-cost DIY particle detector,https://twitter.com/cern/status/1260600298206302210
+51,Lobsters,science,Science,Quantum JavaScript (Q.js),https://quantumjavascript.app/
+52,Lobsters,science,Science,Open Source Raman Spectrometer,http://www.open-raman.org/
+53,Lobsters,science,Science,saurvs/astro-rust,https://github.com/saurvs/astro-rust
+54,Lobsters,science,Science,Algorithmic Botany: Publications,http://algorithmicbotany.org/papers/
+55,Lobsters,science,Science,Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful,https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
+56,Lobsters,science,Science,When scaling your workload is a matter of saving lives - Modeling the spread of COVID-19,https://www.allthingsdistributed.com/2020/04/scaling-covid19-model.html
+57,Lobsters,science,Science,SetReplace - modeling the Universe,https://github.com/maxitg/SetReplace
+58,Lobsters,science,Science,Scientists use the Tokyo Skytree to test Einstein’s theory of general relativity,https://www.riken.jp/en/news_pubs/research_news/pr/2020/20200407_2/index.html
+59,Lobsters,science,Science,"open-source satellite ground-stations network reaches 2,000,000th satellite pass milestone",https://satnogs.org/2020/04/reaching-a-new-milestone-celebrating-the-2000000th-satnogs-observation/
+60,Lobsters,science,Science,Quantum Country: A free introduction to quantum computing,https://quantum.country/
+61,Lobsters,science,Science,Radio-Astronomical Imaging: FPGAs vs GPUs,https://www.astron.nl/~romein/papers/EuroPar-19/EuroPar-19.pdf
+62,Lobsters,science,Science,Landmark Computer Science Proof Cascades Through Physics and Math,https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
+63,Lobsters,science,Science,COVID-19 OSS HELP,https://covid-oss-help.org/
+64,Lobsters,science,Science,This is How Science Happens,https://www.hillelwayne.com/post/this-is-how-science-happens/
+65,Lobsters,science,Science,SETI@home Search for Alien Life Project Shuts Down After 21 Years,https://www.bleepingcomputer.com/news/software/seti-home-search-for-alien-life-project-shuts-down-after-21-years/
+66,Lobsters,science,Science,The core memory inside a Saturn V rocket's computer,http://www.righto.com/2020/03/the-core-memory-inside-saturn-v-rockets.html
+67,Lobsters,science,Science,Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages,https://www.nature.com/articles/s41598-020-60661-8
+68,Lobsters,science,Science,Radical hydrogen-boron reactor could leapfrog current nuclear fusion tech,https://newatlas.com/energy/hb11-hydrogen-boron-fusion-clean-energy/
+69,Lobsters,science,Science,Building an Automated Bioreactor,https://blog.krastanov.org/2016/11/15/bioreactor/
+70,Lobsters,science,Science,Open access journals get a boost from librarians—much to Elsevier’s dismay,https://arstechnica.com/science/2020/02/how-librarians-keep-for-profit-scientific-journals-from-squeezing-their-budgets/
+71,Lobsters,science,Science,Research should not stop with the research paper,https://lemire.me/blog/2020/02/07/research-should-not-stop-with-the-research-paper/
+72,Lobsters,science,Science,"A deep dive into the Apollo Guidance Computer, and the hack that saved Apollo 14",https://arstechnica.com/science/2020/01/a-deep-dive-into-the-apollo-guidance-computer-and-the-hack-that-saved-apollo-14/
+73,Lobsters,science,Science,Historicizing the Self-Evident: An Interview with Lorraine Daston,https://lareviewofbooks.org/article/historicizing-the-self-evident-an-interview-with-lorraine-daston/
+74,Lobsters,science,Science,If Van der Waals was a neural network,https://blog.cerebralab.com/If_Van_der_Waals_was_a_neural_network
+75,Lobsters,science,Science,"Getting started with GSL - GNU Scientific Library on Windows, macOS and Linux",https://solarianprogrammer.com/2020/01/26/getting-started-gsl-gnu-scientific-library-windows-macos-linux/
+76,Lobsters,science,Science,On the performance and design of BioSequences compared to the Seq language,https://BioJulia.github.io/post/seq-lang/
+77,Lobsters,science,Science,On the perils of large-scale analysis of Github data,https://www.youtube.com/watch?v=ePCpq0AMyVk
+78,Lobsters,science,Science,"VisiData, command line data manipulation",https://visidata.org/
+79,Lobsters,science,Science,Hidden Computational Power Found in the Arms of Neurons,https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/
+80,Lobsters,science,Science,A scalable pipeline for designing reconfigurable organisms,https://www.pnas.org/content/early/2020/01/07/1910837117
+81,Lobsters,science,Science,Composition is the root of all evil,http://blog.khinsen.net/posts/2016/03/04/composition-is-the-root-of-all-evil/
+82,Lobsters,science,Science,Is Your Research Software Correct?,https://mikecroucher.github.io/MLPM_talk/
+83,Lobsters,science,Science,Mathematical diseases in climate models and how to cure them,https://www.youtube.com/watch?v=WGe-gYRSM7c
+84,Lobsters,science,Science,"Monte Πthon - Monte Carlo, Π, and 8 lines of Python",https://www.towardssoftware.com/blog#blog28
+85,Lobsters,science,Science,A brief history of liquid computers,https://royalsocietypublishing.org/doi/full/10.1098/rstb.2018.0372
+86,Lobsters,science,Science,HackEEG: Arduino Shield for Reading Brainwaves,https://www.crowdsupply.com/starcat/hackeeg
+87,Lobsters,science,Science,Publish and Perish,https://m-cacm.acm.org/magazines/2020/1/241717-publish-and-perish/fulltext
+88,Lobsters,science,Science,Blogs worth following,/s/l9nzus/blogs_worth_following
+89,Lobsters,science,Science,Scant Evidence of Power Laws Found in Real-World Networks (2018),https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/
+90,Lobsters,science,Science,Orbital Elements Calculator,http://protean.io:3002
+91,Lobsters,science,Science,Iran’s nation-wide Internet blackout: Measurement data and technical observations,https://ooni.org/post/2019-iran-internet-blackout/
+92,Lobsters,science,Science,CamemBERT: a state-of-the-art language model for French,https://camembert-model.fr/
+93,Lobsters,science,Science,Lua(Jit) for computing accelerator beam physics,http://cds.cern.ch/record/2157242
+94,Lobsters,science,Science,The Teletext Archaeologist - A visual and interactive teletext history,https://teletextarchaeologist.org/
+95,Lobsters,science,Science,TDD Doesn't Work (2016),https://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html
+96,Lobsters,science,Science,The July Galileo Outage: What happened and why,http://berthub.eu/articles/posts/galileo-accident/
+97,Lobsters,science,Science,Project Silica proof of concept stores Warner Bros. ‘Superman’ movie on quartz glass,https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/
+98,Lobsters,science,Science,OPEM (Open Source PEM Fuel Cell Simulation Tool),https://github.com/ECSIM/opem
+99,Lobsters,science,Science,Could a Neuroscientist Understand a Microprocessor?,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
+100,Lobsters,science,Science,Researchers find bug in Python script may have affected hundreds of studies,https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform/
+101,Lobsters,science,Science,"GPS, Galileo & More: How do they work & what happened during the big outage?",http://ds9a.nl/articles/posts/gps-gnss-how-do-they-work/
+102,Lobsters,science,Science,Producing Wrong Data Without Doing Anything Obviously Wrong,https://john.cs.olemiss.edu/~hcc/researchMethods/notes/localcopy/mytkowicz-wrong-data.pdf
+103,Lobsters,science,Science,"Google Claims 'Quantum Supremacy,' Marking a Major Milestone in Computing",https://fortune.com/2019/09/20/google-claims-quantum-supremacy/
+104,Lobsters,science,Science,The monster footprint of digital technology (2009),https://www.lowtechmagazine.com/2009/06/embodied-energy-of-digital-technology.html
+105,Lobsters,science,Science,"""Emergences"" - Eminent scientists on our era",https://www.edge.org/conversation/w_daniel_hillis-emergences
+106,Lobsters,science,Science,"Three principles of data science: predictability, computability, and stability (PCS)",https://arxiv.org/pdf/1901.08152.pdf
+107,Lobsters,science,Science,How a data detective exposed suspicious medical trials,https://www.nature.com/articles/d41586-019-02241-z
+108,Lobsters,science,Science,Programming shape using kirigami tessellations,https://arxiv.org/pdf/1812.08644.pdf
+109,Lobsters,science,Science,What We Know We Don't Know: Empirical Software Engineering,https://www.hillelwayne.com/talks/what-we-know-we-dont-know/
+110,Lobsters,science,Science,TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time,https://www.usenix.org/system/files/sec19fall_pendlebury_prepub.pdf
+111,Lobsters,science,Science,The Feynman Lectures on Physics Vol. I Ch. 22: Algebra,http://www.feynmanlectures.caltech.edu/I_22.html
+112,Lobsters,science,Science,Jeff Hawkins on neuromorphic AGI within 20 years,https://www.lesswrong.com/posts/FoJSa8mgLPT83g9e8/jeff-hawkins-on-neuromorphic-agi-within-20-years
+113,Lobsters,science,Science,Principles of an Open Artificial Pancreas System (OpenAPS),https://openaps.org/reference-design/
+114,Lobsters,science,Science,Fireflies,https://ncase.me/fireflies/
+115,Lobsters,science,Science,Meaning and Somethingness,http://tiny-giant-books.com/Entry1.html?EntryId=recLg6diOYbzb1zNY
+116,Lobsters,science,Science,"How to make compressed file quines, step by step",https://blog.matthewbarber.io//2019/07/22/how-to-make-compressed-file-quines.html
+117,Lobsters,science,Science,Migrating to open-source technologies,https://home.cern/news/news/computing/migrating-open-source-technologies
+118,Lobsters,science,Science,How the Transformers broke NLP leaderboards,https://hackingsemantics.xyz/2019/leaderboards/
+119,Lobsters,science,Science,ISRO successfully launches Chandrayaan2 Spacecraft,https://twitter.com/isro/status/1153236245734019072
+120,Lobsters,science,Science,How fileformats are holding back DNA research: The Pan-Genome,http://ds9a.nl/articles/posts/on-the-pan-genome/
+121,Lobsters,science,Science,AI made from a sheet of glass can recognise numbers just by looking,https://www.newscientist.com/article/2208975-ai-made-from-a-sheet-of-glass-can-recognise-numbers-just-by-looking/
+122,Lobsters,science,Science,"New form of logic. Not theory, have working models. Need help",https://app.box.com/s/4plplfbrhwr9qflosp8tir00r0pf1467
+123,Lobsters,science,Science,Richard Feynman on Cargo Cult Science (1974),http://calteches.library.caltech.edu/51/2/CargoCult.htm
+124,Lobsters,science,Science,Why Brilliant Girls Tend to Favor Non-STEM Careers,https://www.psychologytoday.com/us/blog/rabble-rouser/201707/why-brilliant-girls-tend-favor-non-stem-careers
+125,Lobsters,science,Science,The secret social lives of viruses,https://www.nature.com/articles/d41586-019-01880-6
+126,Lobsters,science,Science,How to Turn a Quantum Computer Into the Ultimate Randomness Generator,https://www.quantamagazine.org/how-to-turn-a-quantum-computer-into-the-ultimate-randomness-generator-20190619/
+127,Lobsters,science,Science,Wind-Powered Car Travels Downwind Faster Than the Wind (2010),https://www.wired.com/2010/06/downwind-faster-than-the-wind/
+128,Lobsters,science,Science,DeepLabCut: markerless pose estimation of user-defined body parts with deep learning,http://www.mousemotorlab.org/deeplabcut
+129,Lobsters,science,Science,Gravitational Wave Open Data Workshop 2018,https://www.gw-openscience.org/static/workshop1/course.html
+130,Lobsters,science,Science,ICFP 2019 Research Papers,https://icfp19.sigplan.org/track/icfp-2019-papers
+131,Lobsters,science,Science,"Wolfgang Paul Was A Great Physicist, Not A Typo Of 'Wolfgang Pauli'",https://www.forbes.com/sites/startswithabang/2019/06/13/wolfgang-paul-was-a-great-physicist-not-a-typo-of-wolfgang-pauli/
+132,Lobsters,science,Science,Using AWK and R to parse 25tb,https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
+133,Lobsters,science,Science,Make Invisible Radiation Become Visible - Peltier Cloud Chamber,https://www.youtube.com/watch?v=-Cu3wW8rNAs
+134,Lobsters,science,Science,"Democracy, party matching and machine learning",https://blog.esciencecenter.nl/democracy-59ae33367f22
+135,Lobsters,science,Science,"For The First Time, Engineers Measure Accuracy of 2 Qubits in Silicon - And It Works",https://www.sciencealert.com/quantum-breakthrough-accurate-2-qubit-operations-in-silicon-measured-for-first-time
+136,Lobsters,science,Science,Semantic parsing using Lojban – On the middle ground between semantic ontology and language (2014),http://image.jbotcan.org/jmusadi/odgoku.pdf
+137,Lobsters,science,Science,Pint: makes units easy — pint 0.9 documentation,https://pint.readthedocs.io/en/latest/
+138,Lobsters,science,Science,"Logging for scientific computing: debugging, performance, trust",https://pythonspeed.com/articles/logging-for-scientific-computing/
+139,Lobsters,science,Science,"I found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles",https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/
+140,Lobsters,science,Science,Research as a Stochastic Decision Process,https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html
+141,Lobsters,science,Science,Modeling and simulation of cardiac tissue using hybrid I/O automata (2009),https://www3.cs.stonybrook.edu/~grosu/tcs09.pdf
+142,Lobsters,science,Science,Electrical Engineering,http://boblucky.com/reflect/may98.htm
+143,Lobsters,science,Science,Electrical jolts to brain restored memory of elderly to that of 20-year-old,https://arstechnica.com/science/2019/04/brain-jolts-revive-memory-in-elderly-turning-clock-back-four-decades/
+144,Lobsters,science,Science,Experimental approaches to selecting a programmer’s tools,https://medium.com/@george3d6/experimental-approaches-to-selecting-a-programmers-tools-84d73f0a0ff6?source=friends_link
+145,Lobsters,science,Science,Common statistical tests are linear models (or: how to teach stats),https://lindeloev.github.io/tests-as-linear/
+146,Lobsters,science,Science,"Microsoft, UW demonstrate first fully automated DNA data storage",https://news.microsoft.com/innovation-stories/hello-data-dna-storage/
+147,Lobsters,science,Science,Quantum Scarring Appears to Defy Universe’s Push for Disorder,https://www.quantamagazine.org/quantum-scarring-appears-to-defy-universes-push-for-disorder-20190320/
+148,Lobsters,science,Science,Scientists rise up against statistical significance,https://www.nature.com/articles/d41586-019-00857-9
+149,Lobsters,science,Science,Venus is not Earth's closest neighbor,https://physicstoday.scitation.org/do/10.1063/PT.6.3.20190312a/full/
+150,Lobsters,science,Science,Experimental rejection of observer-independence in the quantum world,https://arxiv.org/abs/1902.05080
+151,Lobsters,science,Science,Owning Computing's Environmental Impact,https://cacm.acm.org/magazines/2019/3/234911-owning-computings-environmental-impact/fulltext
+152,Lobsters,science,Science,Lobste.rs-like math research discussion for PhDs,https://hessix.com
+153,Lobsters,science,Science,Entendrepreneur: Generating Humorous Portmanteaus using Word-Embeddings,https://nips2018creativity.github.io/doc/entendrepreneur.pdf
+154,Lobsters,science,Science,Paper production is a major cause of global greenhouse gas emissions,https://twosidesna.org/much-of-the-energy-used-to-make-paper-is-renewable-and-carbon-footprint-is-surprisingly-low/
+155,Lobsters,science,Science,De novo origins of multicellularity in response to predation,https://www.nature.com/articles/s41598-019-39558-8
+156,Lobsters,science,Science,"How Google, Microsoft, and Big Tech Are Automating the Climate Crisis",https://gizmodo.com/how-google-microsoft-and-big-tech-are-automating-the-1832790799
+157,Lobsters,science,Science,WordTeX - A WYSIPCTWOTCG Typesetting Tool,https://www.youtube.com/watch?v=jlX_pThh7z8
+158,Lobsters,science,Science,The New Youngest Fusioneer,http://www.fusor.net/board/viewtopic.php?t=12120
+159,Lobsters,science,Science,A conversation around the analysis of the SiP effort estimation dataset,http://arxiv.org/abs/1901.01621
+160,Lobsters,science,Science,Dreaming Is the Inverse of Anxious Mind-Wandering,https://psyarxiv.com/k6trz
+161,Lobsters,science,Science,Human Mind Control of Rat Cyborg’s Continuous Locomotion with Wireless Brain-to-Brain Interface,https://www.nature.com/articles/s41598-018-36885-0
+162,Lobsters,science,Science,Creating Your Own Gravity and Space Simulator,https://css-tricks.com/creating-your-own-gravity-and-space-simulator/
+163,Lobsters,science,Science,Visit CERN/LHC,https://visits.web.cern.ch/
+164,Lobsters,science,Science,Computational Periscopy: see around corners with a camera,https://www.nature.com/articles/s41586-018-0868-6
+165,Lobsters,science,Science,Medical AI Safety: Doing it wrong,https://lukeoakdenrayner.wordpress.com/2019/01/21/medical-ai-safety-doing-it-wrong/
+166,Lobsters,science,Science,A maskless photolithographic prototyping system using a low-cost consumer projector and a microscope,http://web.archive.org/web/20150104005610if_/http://www.physics.rutgers.edu/ugrad/387/388s06/film_deposition/Musgraves05.pdf
+167,Lobsters,science,Science,Interplanetary Internet,https://ahsan.io/2019-01-16-interplanetary-internet/
+168,Lobsters,science,Science,Earth’s Shifting Magnetic Pole May be Confusing Your Cell Phone,https://spaceweatherarchive.com/2019/01/16/earths-shifting-magnetic-pole-affects-your-cell-phone/
+169,Lobsters,science,Science,Tesla's Big Mistake?,http://amasci.com/tesla/tmistk.html
+170,Lobsters,science,Science,"Predictions Scorecard, 2019 January 01",https://rodneybrooks.com/predictions-scorecard-2019-january-01/
+171,Lobsters,science,Science,Cancer Isn't a Logic Problem,http://cancer.nautil.us/article/186/cancer-isnt-a-logic-problem
+172,Lobsters,science,Science,Using ablation on artificial neural networks,https://techxplore.com/news/2018-12-ablation-artificial-neural-networks.html
+173,Lobsters,science,Science,Experiment: Recoil vs Muzzle Velocity,https://blog.ammolytics.com/2018-12-12/experiment-recoil-vs-muzzle-velocity.html
+174,Lobsters,science,Science,Amoeba finds approximate solutions to NP-hard problem in linear time,https://phys.org/news/2018-12-amoeba-approximate-solutions-np-hard-problem.html
+175,Lobsters,science,Science,AlphaFold @ CASP13: “What just happened?”,https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
+176,Lobsters,science,Science,AlphaFold: Using AI for scientific discovery,https://deepmind.com/blog/alphafold/
+177,Lobsters,science,Science,AWS Ground Station – Ingest and Process Data from Orbiting Satellites,https://aws.amazon.com/blogs/aws/aws-ground-station-ingest-and-process-data-from-orbiting-satellites/
+178,Lobsters,science,Science,First Revolutionary Phenotype Spawns in China,https://www.youtube.com/watch?v=o2ND3_clSPM
+179,Lobsters,science,Science,Why 536 was ‘the worst year to be alive’,https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive
+180,Lobsters,science,Science,Building a Fly Brain in a Computer,https://www.cifar.ca/cifarnews/2018/10/25/building-a-fly-brain-in-a-computer
+181,Lobsters,science,Science,A Grad Student Solved a Fundamental Quantum Computing Problem,https://www.wired.com/story/a-grad-student-solved-a-fundamental-quantum-computing-problem/
+182,Lobsters,science,Science,Scientific Research Into Pair Programming,https://tuple.app/pair-programming-guide/scientific-research-into-pair-programming
+183,Lobsters,science,Science,prim9: a software system from the 70s for visualizing and masking high-dimensional data,https://www.youtube.com/watch?v=B7XoW2qiFUA
+184,Lobsters,science,Science,Paywall: The Business of Scholarship,https://paywallthemovie.com/paywall
+185,Lobsters,science,Science,Beyond Earth: A Chronicle of Deep Space Exploration,https://www.nasa.gov/connect/ebooks/beyond_earth_detail.html
+186,Lobsters,science,Science,How France created the metric system,http://www.bbc.com/travel/story/20180923-how-france-created-the-metric-system
+187,Lobsters,science,Science,"Engineering tour de force births programmable, optical, quantum computer",https://arstechnica.com/science/2018/09/engineering-tour-de-force-births-programmable-optical-quantum-computer/
+188,Lobsters,science,Science,The Evolutionary Origins of Hierarchy (2016),http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004829
+189,Lobsters,science,Science,The war over supercooled water,https://physicstoday.scitation.org/do/10.1063/PT.6.1.20180822a/full/
+190,Lobsters,science,Science,Viewpoint: No Synchronization for Qubits,https://physics.aps.org/articles/v11/75
+191,Lobsters,science,Science,A Model Of The Solar Cycle,https://www.science20.com/tommaso_dorigo/guest_post_eleni_petrakou_a_model_of_the_solar_cycle-233408
+192,Lobsters,science,Science,"Gravitational Lensing by Spinning Black Holes in Astrophysics, and in the Movie Interstellar (2015)",https://arxiv.org/pdf/1502.03808.pdf
+193,Lobsters,science,Science,Why and How Java Developers Break APIs,https://arxiv.org/pdf/1801.05198.pdf
+194,Lobsters,science,Science,Thermanator : Thermal Residue-Based Post Factum Attacks On Keyboard Password Entry,https://arxiv.org/pdf/1806.10189.pdf
+195,Lobsters,science,Science,Lunar surface disturbed by astronauts led to local lunar warming,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JE005579
+196,Lobsters,science,Science,Limits of Reductionism,http://backreaction.blogspot.com/2018/07/limits-of-reductionism.html
+197,Lobsters,science,Science,Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty,https://www.youtube.com/watch?v=OWJCfOvochA
+198,Lobsters,science,Science,McMoon: How the Earliest Images of the Moon Were so Much Better than we Realised,http://www.worldofindie.co.uk/?p=682
+199,Lobsters,science,Science,How An Advanced Civilization Could Resist the Accelerating Expansion of the Universe,https://arxiv.org/abs/1806.05203
+200,Lobsters,science,Science,"unyt: Handle, manipulate, and convert data with units in Python",https://github.com/yt-project/unyt
+201,Lobsters,science,Science,Kernighan on the elements of programming style,https://video.ias.edu/PiTP2009-Kernighan
+202,Lobsters,science,Science,"Tacit Knowledge, Trust, and the Q of Sapphire (2000)",https://orca.cf.ac.uk/71069/1/wrkgpaper1.pdf
+203,Lobsters,science,Science,Diagnostic performance of neural net versus 58 dermatologists for skin cancer recognition,https://academic.oup.com/annonc/advance-article/doi/10.1093/annonc/mdy166/5004443
+204,Lobsters,science,Science,Comparing codes of conduct to copyleft licenses (2016),https://archive.fosdem.org/2016/schedule/event/conduct_and_copyleft/
+205,Lobsters,science,Science,My Personal Source Code: Books to Learn Analysis,http://www.satisfice.com/blog/archives/1918
+206,Lobsters,science,Science,"Viruses, ET and the octopus from space: the return of panspermia",https://cosmosmagazine.com/biology/viruses-et-and-the-octopus-from-space-the-return-of-panspermia
+207,Lobsters,science,Science,Smartphones Are Killing The Planet Faster Than Anyone Expected,https://www.fastcodesign.com/90165365/smartphones-are-wrecking-the-planet-faster-than-anyone-expected
+208,Lobsters,science,Science,Simulation of Biology,https://www.cc.gatech.edu/~turk/bio_sim/
+209,Lobsters,science,Science,Why I've lost faith in p values,https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values
+210,Lobsters,science,Science,Speeding up numpy-based pitch detection with numba,http://sevag.xyz/post/snac2/
+211,Lobsters,science,Science,Electronic nose: Introduction to machine olfaction,http://www.maskau.dk/projects/electronic-nose
+212,Lobsters,science,Science,Helvetica Is Now An Encryption Device,https://www.fastcodesign.com/90167210/helvetica-is-now-an-encryption-device
+213,Lobsters,science,Science,Soft 2D nanoarchitectonics,https://www.nature.com/articles/s41427-018-0022-9
+214,Lobsters,science,Science,GDPR has a huge impact on empirical software engineering research,http://shape-of-code.coding-guidelines.com/2018/04/05/gdpr-has-a-huge-impact-on-empirical-software-engineering-research/
+215,Lobsters,science,Science,Scientific Communication As Sequential Art,http://worrydream.com/ScientificCommunicationAsSequentialArt/
+216,Lobsters,science,Science,"What Is Spacetime, Really?",http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/
+217,Lobsters,science,Science,The differences between tinkering and research (2016),http://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html
+218,Lobsters,science,Science,Prosthetic memory system successful in humans,https://www.sciencedaily.com/releases/2018/03/180327194350.htm
+219,Lobsters,science,Science,"WebPlotDigitizer - Extract data from plots, images, and maps",https://automeris.io/WebPlotDigitizer/
+220,Lobsters,science,Science,The Shallows: What the Internet is Doing to Our Brain (Book Review),https://addictedto.tech/2018/03/book-review-the-shallows-by-nicholas-carr/
+221,Lobsters,science,Science,The Tribe effect in the tech industry,https://dev.to/skwi/the-tribe-effect-in-the-tech-industry-3jb6
+222,Lobsters,science,Science,"Stephen Hawking, modern cosmology's brightest star, dies aged 76",https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76
+223,Lobsters,science,Science,Analog vs Digital: Extrapolating from Electronics to Neurobiology (1998),http://csbi.mit.edu/people/pdf/analog_vs_digital.pdf
+224,Lobsters,science,Science,A rare and toxic age,https://increment.com/energy-environment/a-rare-and-toxic-age/
+225,Lobsters,science,Science,"A Preview of Bristlecone, Google’s New Quantum Processor",https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html
+226,Lobsters,science,Science,Synthetic electromagnetic knot in a three-dimensional skyrmion,http://advances.sciencemag.org/content/4/3/eaao3820
+227,Lobsters,science,Science,Knife Sharpening Experiments,https://www.scribd.com/document/10050000/Knife-Sharpening-Experiments
+228,Lobsters,science,Science,Scientists Aim To Pull Peer Review Out Of The 17th Century,https://www.npr.org/sections/health-shots/2018/02/24/586184355/scientists-aim-to-pull-peer-review-out-of-the-17th-century
+229,Lobsters,science,Science,ColorMod: Recoloring 3D Printed Objects using Photochromic Inks,http://hcie.csail.mit.edu/research/colormod/colormod.html
+230,Lobsters,science,Science,Your Cortex Contains 17 Billion Computers,https://medium.com/the-spike/your-cortex-contains-17-billion-computers-9034e42d34f2
+231,Lobsters,science,Science,Quantum Control: Scientists Develop Metamaterial from Complex Twin Qubits,http://en.misis.ru/university/news/science/2018-01/5146/
+232,Lobsters,science,Science,Photo of a Single Atom,https://www.epsrc.ac.uk/newsevents/news/single-trapped-atom-captures-science-photography-competitions-top-prize/
+233,Lobsters,science,Science,Gil Kalai's Argument Against Quantum Computers,https://www.quantamagazine.org/gil-kalais-argument-against-quantum-computers-20180207/
+234,Lobsters,science,Science,Let’s Not Forget the ‘science’ in ‘computer Science’,https://cacm.acm.org/blogs/blog-cacm/225148-lets-not-forget-the-science-in-computer-science/fulltext
+235,Lobsters,science,Science,"ODINI : Escaping Sensitive Data from Faraday-Caged, Air-Gapped Computers via Magnetic Fields",https://cyber.bgu.ac.il/advanced-cyber/system/files/ODINI_1.pdf
+236,Lobsters,science,Science,Worm Uploaded to a Computer and Trained to Balance a Pole,https://www.tuwien.ac.at/en/news/news_detail/article/125597/
+237,Lobsters,science,Science,A photophoretic-trap volumetric display,https://www.nature.com/articles/nature25176
+238,Lobsters,science,Science,Keeping the world below 2°C of warming needs tech we don’t have,https://arstechnica.com/science/2018/02/carbon-dioxide-removal-tech-is-behind-schedule/
+239,Lobsters,science,Science,Falcon Heavy Test Flight,https://www.youtube.com/watch?v=wbSwFU6tY1c
+240,Lobsters,science,Science,"By unpopular demand, let's talk greenhouse gas accounting",https://mathstodon.xyz/@JordiGH/99394158355323470
+241,Lobsters,science,Science,Letting molecular robots swarm like birds,https://www.global.hokudai.ac.jp/blog/letting-molecular-robots-swarm-like-birds/
+242,Lobsters,science,Science,Full braking at Alpha Centauri,http://www.mps.mpg.de/4819285/news_publication_11019256?c=2169
+243,Lobsters,science,Science,The universe out of the supercomputer,http://www.mpia.de/4476040/news_publication_11899219?c=2285
+244,Lobsters,science,Science,From DNA to bitcoin: How I won the Davos DNA-storage Bitcoin Challenge,https://swuyts.wordpress.com/2018/01/16/from-dna-to-bitcoin-how-i-won-the-davos-bitcoin-challenge/
+245,Lobsters,science,Science,Poincaré Embeddings for Learning Hierarchical Representations,https://github.com/facebookresearch/poincare-embeddings
+246,Lobsters,science,Science,Nintendo Labo: Switch with the fun of DIY creations,https://labo.nintendo.com/
+247,Lobsters,science,Science,"‘Quantum Radio’ May Aid Communications and Mapping Indoors, Underground and Underwater",https://www.nist.gov/news-events/news/2018/01/quantum-radio-may-aid-communications-and-mapping-indoors-underground-and
+248,Lobsters,science,Science,The Earth is Flat,https://bartoszmilewski.com/2018/01/11/the-earth-is-flat/
+249,Lobsters,science,Science,Behind the scenes of a bug collision,https://cyber.wtf/2018/01/05/behind-the-scene-of-a-bug-collision/
+250,Lobsters,science,Science,Roombas will soon be able to build a WiFi coverage map of your house,https://techcrunch.com/2018/01/03/roombas-will-soon-be-able-to-build-a-wifi-coverage-map-of-your-house/
+251,Lobsters,science,Science,Single metalens focuses all colors of the rainbow in one point,https://www.seas.harvard.edu/news/2018/01/single-metalens-focuses-all-colors-of-rainbow-in-one-point
+252,Lobsters,science,Science,Computers in the Space Shuttle Avionics System,https://history.nasa.gov/computers/Ch4-5.html
+253,Lobsters,science,Science,How Raganwald Lost His Crown,http://braythwayt.com/2017/12/29/crown.html
+254,Lobsters,science,Science,Quantum Computing in the NISQ Era and Beyond,http://www.theory.caltech.edu/~preskill/talks/Q2B_2017_Keynote_Preskill.pdf
+255,Lobsters,science,Science,Matilda's Lab - blog which helps you explain science to your kids,https://matildaslab.wordpress.com/
+256,Lobsters,science,Science,Neuronal Dynamics - a neuroscience textbook with python exercises,http://neuronaldynamics.epfl.ch/index.html
+257,Lobsters,science,Science,Psychology vs the graphics pipeline,http://scattered-thoughts.net/blog/2017/12/11/psychology-vs-the-graphics-pipeline/
+258,Lobsters,science,Science,Mapping Reddit Communities [img],https://i.redd.it/5e7ebb4ivo201.png
+259,Lobsters,science,Science,Why a lot of important research is not being done,https://theincidentaleconomist.com/wordpress/why-a-lot-of-important-research-is-not-being-done/
+260,Lobsters,science,Science,The role of software in spacecraft accidents,https://blog.acolyer.org/2017/11/30/the-role-of-software-in-spacecraft-accidents/
+261,Lobsters,science,Science,Things I Have Learned (So Far),https://pdfs.semanticscholar.org/fa77/0a7fb7c45a59abbc4c2bc7d174fa51e5d946.pdf
+262,Lobsters,science,Science,"Quick thoughts on ChestXray14, performance claims, and clinical tasks",https://lukeoakdenrayner.wordpress.com/2017/11/18/quick-thoughts-on-chestxray14-performance-claims-and-clinical-tasks/
+263,Lobsters,science,Science,"Artificial Life, Open-Ended Evolution, and the Origins of Biological Complexity",https://www.youtube.com/watch?v=qkHVIkOhABo
+264,Lobsters,science,Science,Quantopian commits to fund pandas,https://www.numfocus.org/blog/quantopian-commits-to-fund-pandas-as-a-new-numfocus-corporate-partner/
+265,Lobsters,science,Science,Some Natural Solutions to the p-value Communication Problem— And Why They Won’t Work,http://www.stat.columbia.edu/~gelman/research/published/jasa_signif_2.pdf
+266,Lobsters,science,Science,D is for Data Science,http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html
+267,Lobsters,science,Science,A/2017 U1 - Interstellar asteroid,https://en.wikipedia.org/wiki/A/2017_U1
+268,Lobsters,science,Science,"Going to Space, the Live way: a talk on Libre Space's open space technology projects",https://youtu.be/JGv-S1F-hQo
+269,Lobsters,science,Science,Are Planetary Systems Filled to Capacity?,https://www.astrobio.net/retrospections/are-planetary-systems-filled-to-capacity/
+270,Lobsters,science,Science,Drive Mirroring solution for OpenBSD (2000),https://marc.info/?l=openbsd-misc&m=96398385425151&w=2
+271,Lobsters,science,Science,Entropy explained using sheep,https://aatishb.com/entropy/
+272,Lobsters,science,Science,"Response to some comments on ""Abandon Statistical Significance""",http://andrewgelman.com/2017/10/02/response-comments-abandon-statistical-significance/
+273,Lobsters,science,Science,Abandon Statistical Significance,http://andrewgelman.com/2017/04/19/abandon-statistical-significance/
+274,Lobsters,science,Science,Shtetl-Optimized: Big Numbers,https://www.scottaaronson.com/blog/?p=3445
+275,Lobsters,science,Science,How Optionsbleed wasn't found in 2014,https://blog.fuzzing-project.org/61-How-Optionsbleed-wasnt-found-in-2014.html
+276,Lobsters,science,Science,Star Stacker: Astrophotography with C++11,https://benedikt-bitterli.me/astro/
+277,Lobsters,science,Science,You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech,http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf
+278,Lobsters,science,Science,Non-expert interpretations of hurricane forecast uncertainty visualizations,http://regehr.org/sarah/Ruginskietal2016_NonExpertHurricaneForecastInterpretations.pdf
+279,Lobsters,science,Science,When Exactly Will the Eclipse Happen? A Multimillenium Tale of Computation,http://blog.stephenwolfram.com/2017/08/when-exactly-will-the-eclipse-happen-a-multimillenium-tale-of-computation/
+280,Lobsters,science,Science,"Pweave, a literate programming environment for generating scientific reports",http://mpastell.com/pweave/
+281,Lobsters,science,Science,KiCad and FreeCAD in Space!,https://forum.kicad.info/t/kicad-and-freecad-in-space/7646
+282,Lobsters,science,Science,Betteridge's Law Of Headlines,https://en.m.wikipedia.org/wiki/Betteridge%27s_law_of_headlines
+283,Lobsters,science,Science,How Much Water Is Falling On Southeast Texas Right Now?,https://medium.com/@johnknox_uab88/how-much-water-is-falling-on-southeast-texas-right-now-a1b21f1d028
+284,Lobsters,science,Science,Rumours swell over new kind of gravitational-wave sighting,http://www.nature.com/news/rumours-swell-over-new-kind-of-gravitational-wave-sighting-1.22482
+285,Lobsters,science,Science,Symposium on Operating Systems Principles 2017: Program,https://www.sigops.org/sosp/sosp17/program.html
+286,Lobsters,science,Science,Wind Map [ed: remove the mask-holder div to see the hurricane],http://hint.fm/wind/
+287,Lobsters,science,Science,Reliable Perching Makes Fixed-Wing UAVs Much More Useful,http://spectrum.ieee.org/automaton/robotics/drones/reliable-perching-makes-fixedwing-uavs-much-more-useful
+288,Lobsters,science,Science,What do flat Earthers think about Monday's solar eclipse?,http://www.phillyvoice.com/ask-hickey-what-are-flat-earthers-saying-about-mondays-eclipse/
+289,Lobsters,science,Science,How Do We Trust Our Science Code?,https://www.hillelwayne.com/post/how-do-we-trust-science-code/
+290,Lobsters,science,Science,The Pernicious Science of James Damore’s Google Memo,https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/
+291,Lobsters,science,Science,The sun's core rotates four times faster than its surface,https://www.aanda.org/articles/aa/abs/2017/08/aa30460-17/aa30460-17.html
+292,Lobsters,science,Science,Planetary Protection Officer (US National Aeronautics and Space Administration),https://www.usajobs.gov/GetJob/ViewDetails/474414000
+293,Lobsters,science,Science,Mea Culpa: Asteroid vs. Satellite,http://www.syfy.com/syfywire/mea-culpa-asteroid-vs-satellite
+294,Lobsters,science,Science,Cosmology at a Crossroads: Tension With the Hubble Constant,https://arxiv.org/abs/1706.02739
+295,Lobsters,science,Science,Preprint Déjà Vu: an FAQ,https://arxiv.org/abs/1706.04188
+296,Lobsters,science,Science,Asteroid Flyby Will Benefit NASA Detection and Tracking Network,https://www.nasa.gov/feature/jpl/asteroid-flyby-will-benefit-nasa-detection-and-tracking-network
+297,Lobsters,science,Science,"Syntax, Predicates, Idioms — What Really Affects Code Complexity?",http://www.cs.huji.ac.il/~feit/papers/Complexity17ICPC.pdf
+298,Lobsters,science,Science,Kumu Preps Full Duplex Chip,http://www.eetimes.com/document.asp?doc_id=1332045
+299,Lobsters,science,Science,Photography Study,https://warwickpsych.qualtrics.com/jfe/form/SV_a34DwCbDSlcGgiF
+300,Lobsters,science,Science,First Object Teleported from Earth to Orbit,https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/
+301,Lobsters,science,Science,Locking Science Open with Decentralized Scientific Archives,http://blog.datproject.org/2017/06/21/locking-science-open/
+302,Lobsters,science,Science,On Chomsky and the Two Cultures of Statistical Learning (2011),http://norvig.com/chomsky.html
+303,Lobsters,science,Science,Dissolving the Fermi Paradox,http://www.jodrellbank.manchester.ac.uk/media/eps/jodrell-bank-centre-for-astrophysics/news-and-events/2017/uksrn-slides/Anders-Sandberg---Dissolving-Fermi-Paradox-UKSRN.pdf
+304,Lobsters,science,Science,Cryptography for genetic material,http://www.biorxiv.org/content/early/2017/06/30/157685
+305,Lobsters,science,Science,"Graphene membrane for dialysis, desalination produced",https://phys.org/news/2017-06-material-filter-nanometer-sized-molecules-commercial.html
+306,Lobsters,science,Science,Learning Gotcha: How We Misunderstood Schrödinger’s Cat,https://betterexplained.com/articles/gotcha-shrodingers-cat/
+307,Lobsters,science,Science,Integrating All of Biology into a Public Neo4j Database,https://neo4j.com/blog/integrating-biology-public-neo4j-database/
+308,Lobsters,science,Science,How Chaos Cures Metaphysics,http://nautil.us/issue/49/the-absurd/chaos-makes-the-multiverse-unnecessary
+309,Lobsters,science,Science,Good enough practices in scientific computing,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+310,Lobsters,science,Science,Introducing Forest 1.0,https://medium.com/rigetti/introducing-forest-f2c806537c6d
+311,Lobsters,science,Science,"Voc: a physical model of the vocal tract, written in ANSI C",http://pbat.ch/proj/voc/
+312,Lobsters,science,Science,The Benefits of Talking to Yourself,https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html
+313,Lobsters,science,Science,[1705.08807] When Will AI Exceed Human Performance? Evidence from AI Experts,https://arxiv.org/abs/1705.08807
+314,Lobsters,science,Science,Evidence for a Distant Giant Planet in the Solar System,http://iopscience.iop.org/article/10.3847/0004-6256/151/2/22/pdf
+315,Lobsters,science,Science,NASA: Scale in the Sky,https://www.youtube.com/watch?v=ecBgUrGlKps
+316,Lobsters,science,Science,‘Halos’ discovered on Mars widen time frame for potential life,http://www.lanl.gov/discover/news-release-archive/2017/May/0530-halos-discovered-on-mars.php
+317,Lobsters,science,Science,"Gas Mileage, with a Side of British Units",http://rodneybrooks.com/gas-mileage-with-a-side-of-british-units/
+318,Lobsters,science,Science,An intelligent robot could be scrapped after escaping from a lab a second time,http://www.mirror.co.uk/news/weird-news/intelligent-robot-remembers-learns-could-8248559
+319,Lobsters,science,Science,Jupiter Mission Results Show NASA Was Wrong About the Planet,http://observer.com/2017/05/jupiter-nasa-juno-probe-mission-results/
+320,Lobsters,science,Science,Multiplicitous P-Values,https://putanumonit.com/2016/12/18/multiplicitous/
+321,Lobsters,science,Science,Should I use Chapel or Julia for my next project?,https://www.dursi.ca/post/julia-vs-chapel.html
+322,Lobsters,science,Science,What's new in gnuplot 5.2,https://lwn.net/SubscriberLink/723818/76976cc1c1229d70/
+323,Lobsters,science,Science,"For Modern Astronomers, It’s Learn to Code or Get Left Behind",https://www.wired.com/2017/05/modern-astronomers-teaching-code/
+324,Lobsters,science,Science,Homodyne measurement of Earth's rotation with a PlayStation Move controller and a record player,http://www.pabr.org/copernitron/copernitron.en.html
+325,Lobsters,science,Science,Electrick: Low-Cost Touch Sensing Using Electric Field Tomography,http://yang-zhang.me/research/Electrick/Electrick.html
+326,Lobsters,science,Science,New Model Predicts Which Mentally Ill Patients Are Unlikely to Be Violent,http://www.acsh.org/news/2017/05/05/new-model-predicts-which-mentally-ill-patients-are-unlikely-be-violent-11238
+327,Lobsters,science,Science,NASA Spins Up High Performance Computing Challenge,http://insidehpc.com/2017/05/nasa-spins-high-performance-computing-challenge/
+328,Lobsters,science,Science,The Science of Debugging (and Neutrinos),https://medium.com/@SteveHerrin/the-science-of-debugging-and-neutrinos-db8d116680aa
+329,Lobsters,science,Science,Flying The First Open Source Satellite,http://hackaday.com/2017/04/19/flying-the-first-open-source-satellite/
+330,Lobsters,science,Science,Temple Grandin on the kinds of minds science desperately needs,https://www.elsevier.com/connect/temple-grandin-on-the-kinds-of-minds-science-desperately-needs
+331,Lobsters,science,Science,The Myth of a Superhuman AI,https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62
+332,Lobsters,science,Science,Oregon is very finicky about people calling themselves engineers,http://reason.com/blog/2017/04/26/after-challenging-red-light-cameras-oreg
+333,Lobsters,science,Science,Bayesian Statistics without Frequentist Language,https://www.youtube.com/watch?v=yakg94HyWdE
+334,Lobsters,science,Science,Near Peer Mentorship,https://medium.com/@sara.beroff/near-peer-mentorship-9154f2379430
+335,Lobsters,science,Science,Neuralink and the Brain's Magical Future - Wait But Why,http://waitbutwhy.com/2017/04/neuralink.html
+336,Lobsters,science,Science,Live specimen of long shipworm found in Philippines,http://www.bbc.com/news/world-asia-39626131
+337,Lobsters,science,Science,A living mesoscopic cellular automaton made of skin scales,http://www.nature.com/nature/journal/v544/n7649/full/nature22031.html
+338,Lobsters,science,Science,Optimized Conductive Glass,https://simplifier.neocities.org/optglass.html
+339,Lobsters,science,Science,Lights Out in Québec: The 1989 Geomagnetic Storm,http://hackaday.com/2017/04/10/lights-out-in-quebec-the-1989-geomagnetic-storm/
+340,Lobsters,science,Science,Research Debt,http://distill.pub/2017/research-debt
+341,Lobsters,science,Science,Sex differences in the adult human brain,http://biorxiv.org/content/biorxiv/early/2017/04/04/123729.full.pdf
+342,Lobsters,science,Science,Why Momentum Really Works,http://distill.pub/2017/momentum
+343,Lobsters,science,Science,"Meet Ray, the Real-Time Machine-Learning Replacement for Spark",https://www.datanami.com/2017/03/28/meet-ray-real-time-machine-learning-replacement-spark/
+344,Lobsters,science,Science,How Uber Uses Behavioral Science Tricks to Push Its Drivers’ Buttons,https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html
+345,Lobsters,science,Science,Learning From Data - Online Course (MOOC),http://work.caltech.edu/telecourse.html
+346,Lobsters,science,Science,NASA's MAVEN Reveals Most of Mars' Atmosphere Was Lost to Space,https://www.nasa.gov/press-release/nasas-maven-reveals-most-of-mars-atmosphere-was-lost-to-space
+347,Lobsters,science,Science,The Algorithm Will See You Now,http://www.newyorker.com/magazine/2017/04/03/ai-versus-md
+348,Lobsters,science,Science,Fast Radio Bursts from Extragalactic Light Sails,https://arxiv.org/abs/1701.01109
+349,Lobsters,science,Science,"Distill: a visual, interactive journal for machine learning research emphasizing human understanding",http://colah.github.io/posts/2017-03-Distill/
+350,Lobsters,science,Science,The Fight to Legalize a Machine That Melts Flesh From Bone,https://www.wired.com/2017/03/bath-turns-dead-bodies-coffee-colored-water/
+351,Lobsters,science,Science,Rendering Proteins in Go,https://github.com/fogleman/ribbon
+352,Lobsters,science,Science,Homemade GPS Receiver,http://www.aholme.co.uk/GPS/Main.htm
+353,Lobsters,science,Science,Who will own Mars?,http://www.autodidacts.io/who-will-own-mars/
+354,Lobsters,science,Science,Hyperloop Reponse (2013),http://dmitry.gr/index.php?r=06.%20Thoughts&proj=01.%20Hyperloop
+355,Lobsters,science,Science,Science Isn’t Broken,https://fivethirtyeight.com/features/science-isnt-broken/
+356,Lobsters,science,Science,Saved by the Bel — Understanding Decibels,http://hackaday.com/2017/03/07/saved-by-the-bel-understanding-decibels/
+357,Lobsters,science,Science,Chaotic Planets,http://labs.minutelabs.io/Chaotic-Planets/
+358,Lobsters,science,Science,Wimshurst Machines: High Voltage from the Gods,http://hackaday.com/2017/03/03/how-wimshurst-machines-work-high-voltage-from-the-gods/
+359,Lobsters,science,Science,DNA could be the future of data storage,https://www.researchgate.net/blog/post/dna-could-be-the-future-of-data-storage
+360,Lobsters,science,Science,Why We Need Friendly AI annotated/explained version (2014),http://fermatslibrary.com/s/why-we-need-friendly-ai#email-newsletter
+361,Lobsters,science,Science,Marsarium 9,https://reprage.com/post/marsarium-9
+362,Lobsters,science,Science,Even good bots fight: The case of Wikipedia,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171774
+363,Lobsters,science,Science,Seven earth-sized planets discovered circling a star 39 light years from Earth,http://www.nature.com/news/these-seven-alien-worlds-could-help-explain-how-planets-form-1.21512?WT.mc_id=TWT_NatureNews
+364,Lobsters,science,Science,European Space Agency announces new Open Access Policy for Images and Data,https://creativecommons.org/2017/02/21/esa-oa/
+365,Lobsters,science,Science,Community Building Through Software Design,https://jedbrown.org/files/20170221-SI2Community.pdf
+366,Lobsters,science,Science,"""SMASH"" --An Amazing New Theory of the History of the Universe (From Big Bang to the Present Day)",http://www.dailygalaxy.com/my_weblog/2017/02/smash-an-amazing-new-theory-of-the-history-of-the-universe-from-big-bang-to-the-present-day.html
+367,Lobsters,science,Science,Can you Fake a TV Remote with a Lighter and some Paper?,http://hackaday.com/2017/02/20/hackbusting-can-you-fake-a-tv-remote-with-a-lighter-and-some-paper/
+368,Lobsters,science,Science,"Cheap, DIY Microscope Sees Individual Atoms",https://hackaday.com/2015/01/13/cheap-diy-microscope-sees-individual-atoms/
+369,Lobsters,science,Science,RFID Stethoscope Wheezes and Murmurs for Medical Training,http://hackaday.com/2017/02/16/rfid-stethoscope-wheezes-and-murmurs-for-medical-training/
+370,Lobsters,science,Science,ASIGN Observatory II - Observatory Construction,https://web.archive.org/web/20150528025049/http://www.asignobservatoryii.com/observatoryconstruction.htm
+371,Lobsters,science,Science,Farnsworth Fusor (“Carl’s Jr.”),https://carlwillis.wordpress.com/2008/02/17/farnsworth-fusor-carls-jr/
+372,Lobsters,science,Science,Analysis of Soviet smoke detector plutonium,https://carlwillis.wordpress.com/2017/02/07/analysis-of-soviet-smoke-detector-plutonium/
+373,Lobsters,science,Science,"In the Blink of Bird’s Eye, a Model for Quantum Navigation",https://www.wired.com/2011/01/quantum-birds/
+374,Lobsters,science,Science,"Can a Biologist Fix a Radio? - or, What I Learned while Studying Apoptosis (2002)",https://bml.bioe.uic.edu/BML/Stuff/Stuff_files/biologist%20fix%20radio.pdf
+375,Lobsters,science,Science,Overlearning hyperstabilizes a skill by rapidly making neurochemical processing inhibitory-dominant,http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4490.html
+376,Lobsters,science,Science,Graphene? Soybean!,http://hackaday.com/2017/02/03/graphene-soybean/
+377,Lobsters,science,Science,Physicists patent detonation technique to mass-produce graphene,https://m.phys.org/news/2017-01-physicists-patent-detonation-technique-mass-produce.html
+378,Lobsters,science,Science,Brain–Computer Interface–Based Communication in the Completely Locked-In State,http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002593
+379,Lobsters,science,Science,Electromagnetic Levitation Quadcopter,https://www.youtube.com/watch?v=pCON4zfMzjU
+380,Lobsters,science,Science,Perching and takeoff of a robotic insect on overhangs using switchable electrostatic adhesion,http://science.sciencemag.org/content/352/6288/978
+381,Lobsters,science,Science,"For this metal, electricity flows, but not the heat",https://www.sciencedaily.com/releases/2017/01/170126142816.htm
+382,Lobsters,science,Science,Scientists unveil new form of matter: time crystals,http://news.berkeley.edu/2017/01/26/scientists-unveil-new-form-of-matter-time-crystals/
+383,Lobsters,science,Science,"How to brew beer in a coffee maker, using only materials commonly found on a modestly sized oceanographic research vessel.",http://www.southernfriedscience.com/how-to-brew-beer-in-a-coffee-maker-using-only-materials-commonly-found-on-a-modestly-sized-oceanographic-research-vessel/
+384,Lobsters,science,Science,Popper: Practical Falsifiable Research,http://falsifiable.us/
+385,Lobsters,science,Science,"Falsifiability: why you rule things out, not in",https://blog.danslimmon.com/2016/09/07/falsifiability-why-you-rule-things-out-not-in/
+386,Lobsters,science,Science,PCB Design Guidelines to Minimize RF Transmissions,http://hackaday.com/2017/01/26/pcb-design-guidelines-to-minimize-rf-transmissions/
+387,Lobsters,science,Science,Duolingo: How we learn how you learn,http://making.duolingo.com/how-we-learn-how-you-learn
+388,Lobsters,science,Science,Blue light has a dark side,http://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
+389,Lobsters,science,Science,Hand-powered ultralow-cost paper centrifuge,http://www.nature.com/articles/s41551-016-0009
+390,Lobsters,science,Science,Crowdfunding of a new open and skeptic peer review journal,https://www.indiegogo.com/projects/skeptical-inquiry-of-science-helping-sciences-education-website
+391,Lobsters,science,Science,To Engineer is Human: The Role of Failure in Successful Design,http://ef.engr.utk.edu/ef153-2005-08/pdf/To_Engineer_Is_Human.pdf
+392,Lobsters,science,Science,Ultrafast nonthermal photo-magnetic recording in a transparent medium,http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20807.html
+393,Lobsters,science,Science,How statistics lost their power – and why we should fear what comes next,https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy
+394,Lobsters,science,Science,You Can't Unring a Bell,https://www.youtube.com/watch?v=faAPLf7yPkI
+395,Lobsters,science,Science,When differences in significance aren’t significant differences,https://www.statisticsdonewrong.com/significant-differences.html
+396,Lobsters,science,Science,[Binary] star predicted to explode in 2022,http://earthsky.org/space/star-predicted-to-explode-in-2022
+397,Lobsters,science,Science,Update: High-Risk Satellite Conjunction passes without Incident,http://spaceflight101.com/close-orbital-encounter-january-7-2017/
+398,Lobsters,science,Science,Spacepod: A space podcast,https://www.listentospacepod.com/
+399,Lobsters,science,Science,SpaceX rocket explosion postmortem,http://www.spacex.com/news/2016/09/01/anomaly-updates
+400,Lobsters,science,Science,What would a very simple quantum program look like? (2011),http://cstheory.stackexchange.com/questions/9381/what-would-a-very-simple-quantum-program-look-like
+401,Lobsters,science,Science,SMBC - The Talk,http://smbc-comics.com/comic/the-talk-4
+402,Lobsters,science,Science,The Feynman Lectures on Physics,http://www.feynmanlectures.caltech.edu/
+403,Lobsters,science,Science,Learn Physics by Programming in Haskell,https://arxiv.org/pdf/1412.4880.pdf
+404,Lobsters,science,Science,Estimating an Average Without AVG(),https://making.dia.co/estimating-an-average-without-avg-95d326c3d531
+405,Lobsters,science,Science,Breakthrough in Nuclear Fusion? - Prof. Dennis Whyte,https://www.youtube.com/watch?v=KkpqA8yG9T4
+406,Lobsters,science,Science,Pilot Wave Theory and Quantum Realism,https://www.youtube.com/watch?v=RlXdsyctD50
+407,Lobsters,science,Science,I Had One Night to Invent Interstellar Travel,https://backchannel.com/i-had-one-night-to-invent-interstellar-travel-b2466882ef5c
+408,Lobsters,science,Science,Why is Time a One-Way Street?,https://www.youtube.com/watch?v=jhnKBKZvb_U
+409,Lobsters,science,Science,Margaret Hamilton Awarded Presidential Medal of Freedom,https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom
+410,Lobsters,science,Science,NASA's Peer-Reviewed EM Drive Paper Has Been Published,http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published
+411,Lobsters,science,Science,The state of the climate in 2016,http://www.economist.com/blogs/graphicdetail/2016/11/global-warming
+412,Lobsters,science,Science,Ability to remember code improves with experience,http://shape-of-code.coding-guidelines.com/2016/11/17/ability-to-remember-code-improves-with-experience/
+413,Lobsters,science,Science,Statistical Literacy and You: An Intro for Programmers · Schneems,http://schneems.com/2016/10/14/statistical-lit.html
+414,Lobsters,science,Science,"Quick, How Might the Alien Spacecraft Work?",http://blog.stephenwolfram.com/2016/11/quick-how-might-the-alien-spacecraft-work/
+415,Lobsters,science,Science,How to Land the Space Shuttle... from Space,https://www.youtube.com/watch?v=Jb4prVsXkZU
+416,Lobsters,science,Science,Lab explosions and accidents from decapping ICs,http://uvicrec.blogspot.com/2015/12/lab-explosions-and-accidents.html
+417,Lobsters,science,Science,Depths of imagination,http://www.economist.com/news/science-and-technology/21709527-pumped-storage-gets-makeover-depths-imagination
+418,Lobsters,science,Science,Turning diamonds’ defects into a long-term 3D data storage medium,http://theconversation.com/turning-diamonds-defects-into-long-term-3-d-data-storage-67685
+419,Lobsters,science,Science,Discovery of peculiar periodic spectral modulations in a small fraction of solar type stars,https://arxiv.org/pdf/1610.03031v1.pdf
+420,Lobsters,science,Science,"SRI Demonstrates Abacus, a New Rotary Transmission",http://spectrum.ieee.org/automaton/robotics/robotics-hardware/sri-demonstrates-abacus-rotary-transmission
+421,Lobsters,science,Science,Richard Feynman on education in Brazil,http://v.cx/2010/04/feynman-brazil-education
+422,Lobsters,science,Science,An External Replication on the Effects of Test-driven Development Using a Multi-site Blind Analysis Approach,http://dl.acm.org/citation.cfm?doid=2961111.2962592
+423,Lobsters,science,Science,"Physics, Topology, Logic and Computation: A Rosetta Stone",http://math.ucr.edu/home/baez/rosetta/rose3.pdf
+424,Lobsters,science,Science,When It Rains It Pours: The Long-run Economic Impacts of Salt Iodization in the United States,http://static1.1.sqspcdn.com/static/f/884336/27221040/1472677302137/MortonSalt_aug2016.pdf
+425,Lobsters,science,Science,A case for static linking in scientific computing,https://ro-che.info/articles/2016-09-09-static-binaries-scientific-computing
+426,Lobsters,science,Science,Torrenting the galaxy,https://medium.com/@flimshaw/torrenting-the-galaxy-extracting-2-million-3d-stars-from-180gb-of-csvs-457ff70c0f93
+427,Lobsters,science,Science,What really happened on Mars? (1997),http://research.microsoft.com/en-us/um/people/mbj/Mars_Pathfinder/Mars_Pathfinder.html
+428,Lobsters,science,Science,The Gravitational Waves Discovery Data,https://www.kaggle.com/elenacuoco/the-gravitational-waves-discovery-data
+429,Lobsters,science,Science,"The Evolution of Bacteria on a ""Mega-Plate"" Petri Dish",https://vimeo.com/180908160
+430,Lobsters,science,Science,Everything is fucked: The syllabus,https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/
+431,Lobsters,science,Science,Terahertz time-gated spectral imaging for content extraction through layered structures,http://cameraculture.media.mit.edu/can-computers-read-through-closed-books/
+432,Lobsters,science,Science,Stunning Videos of Evolution in Action,http://www.theatlantic.com/science/archive/2016/09/stunning-videos-of-evolution-in-action/499136/
+433,Lobsters,science,Science,What will the iPhone 8 be made of?,https://www.quora.com/What-will-the-iPhone-8-be-made-of/answer/Brian-Roemmele?srid=Pi3
+434,Lobsters,science,Science,"Freeman Dyson talks about math, nuclear rockets, and astounding things about the universe",http://www.businessinsider.com/freeman-dyson-interview-2016-9
+435,Lobsters,science,Science,Resumption Strategies for Interrupted Programming Tasks (2010),http://chrisparnin.me/pdf/parnin-sqj11.pdf
+436,Lobsters,science,Science,Philae found!,http://www.esa.int/Our_Activities/Space_Science/Rosetta/Philae_found
+437,Lobsters,science,Science,A Hacker From South Africa Just Rescued the First NASA Computer in Space,http://www.atlasobscura.com/articles/a-hacker-from-south-africa-just-rescued-the-first-nasa-computer-in-space
+438,Lobsters,science,Science,Juno's instruments return riches from first perijove,http://www.planetary.org/blogs/emily-lakdawalla/2016/09021222-junos-instruments-return.html
+439,Lobsters,science,Science,"Word or LaTeX typesetting: which one is more productive? Finally, scientifically assessed",http://mappingignorance.org/2015/04/06/word-or-latex-typesetting-which-one-is-more-productive-finally-scientifically-assessed/
+440,Lobsters,science,Science,Not a Drill: SETI Is Investigating a Possible Extraterrestrial Signal From Deep Space,http://observer.com/2016/08/not-a-drill-seti-is-investigating-a-possible-extraterrestrial-signal-from-deep-space/
+441,Lobsters,science,Science,Planet Found in Habitable Zone Around Nearest Star,https://www.eso.org/public/news/eso1629/
+442,Lobsters,science,Science,Bacteria with magnetic nanoparticles could be used to treat cancer,http://physicsworld.com/cws/article/news/2016/aug/23/magnetic-bacteria-target-hard-to-treat-tumours
+443,Lobsters,science,Science,Lagrange Points,http://datagenetics.com/blog/august32016/index.html
+444,Lobsters,science,Science,A gallery of interesting IPython Notebooks,https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+445,Lobsters,science,Science,"Academic clickbait: articles with positively-framed titles, interesting phrasing, and no wordplay get more attention online.",https://thewinnower.com/papers/4892-academic-clickbait-articles-with-positively-framed-titles-interesting-phrasing-and-no-wordplay-get-more-attention-online
+446,Lobsters,science,Science,Knuckle-cracking is actually good for you,http://www.cnn.com/2016/08/18/health/knuckle-cracking-good-not-bad/index.html
+447,Lobsters,science,Science,They're JUST Capacitors,https://www.youtube.com/watch?v=ZAbOHFYRFGg
+448,Lobsters,science,Science,"OpenStax: free, peer-reviewed textbooks",https://openstax.org/
+449,Lobsters,science,Science,"Walking is 3 times more expensive than driving, from a fuel perspective",http://www.datadriventhoughts.com/2016/08/08/walking-is-3-times-more-expensive-than-driving-from-an-energy-perspective/
+450,Lobsters,science,Science,One Thing I Learned...,http://www.rob-warren.com/one-thing-i-learned
+451,Lobsters,science,Science,Genetically Engineering an Icon: Can Biotech Bring the Chestnut Back to America's Forests?,http://www.theatlantic.com/technology/archive/2013/05/genetically-engineering-an-icon-can-biotech-bring-the-chestnut-back-to-americas-forests/276356/
+452,Lobsters,science,Science,"Bay Area Rust Meetup - ""Machine Learning, Bioinformatics, and Embedded OSes""",https://air.mozilla.org/bay-area-rust-meetup-july-2016/
+453,Lobsters,science,Science,LexVec: State-of-the-art natural language processing,https://github.com/alexandres/lexvec
+454,Lobsters,science,Science,DeepHeart: Neural net for predicting cardiac health,https://github.com/jisaacso/DeepHeart
+455,Lobsters,science,Science,The Royal “We” in Scientific Software Development,https://medium.com/@matthewturk/the-royal-we-in-scientific-software-development-9deea495b3b6
+456,Lobsters,science,Science,REcon 2015 - Reversing the Nintendo 64 CIC,https://www.youtube.com/watch?v=IKjtTjmXCOI
+457,Lobsters,science,Science,How to Use Python to Teach High School Physics,http://www.wired.com/2016/07/use-python-teach-high-school-physics/
+458,Lobsters,science,Science,Soldering on: The DIY kit for people with type 1 diabetes,http://www.bbc.com/news/technology-36711994
+459,Lobsters,science,Science,Harmony Explained: Progress Towards A Scientific Theory of Music,https://arxiv.org/html/1202.4212v1
+460,Lobsters,science,Science,Can a Biologist Fix a Radio? [2002],https://www.cmu.edu/biolphys/deserno/pdf/can_a_biologist_fix_a_radio.pdf
+461,Lobsters,science,Science,Python 3 support in scientific Python projects,http://python3statement.github.io/
+462,Lobsters,science,Science,"The Fusioneers: Forget cars, these guys build nuclear reactors in their back yards.",https://www.washingtonpost.com/news/style/wp/2016/05/26/fusioneers/
+463,Lobsters,science,Science,A bug in fMRI software could invalidate 15 years of brain research,http://www.sciencealert.com/a-bug-in-fmri-software-could-invalidate-decades-of-brain-research-scientists-discover
+464,Lobsters,science,Science,NASA's Juno Spacecraft in Orbit Around Mighty Jupiter,https://www.nasa.gov/press-release/nasas-juno-spacecraft-in-orbit-around-mighty-jupiter
+465,Lobsters,science,Science,Theory on Retr0bright,https://www.reddit.com/r/gamecollecting/comments/4pdwhw/my_theory_on_retr0bright/
+466,Lobsters,science,Science,The Greek Clock,http://blog.plover.com/2016/06/22#Greek-clock
+467,Lobsters,science,Science,Relativistic-microwave theory of ball lightning,http://www.nature.com/articles/srep28263
+468,Lobsters,science,Science,The “C is Efficient” Language Fallacy (2006),http://scienceblogs.com/goodmath/2006/11/02/the-c-is-efficient-language-fa/
+469,Lobsters,science,Science,Scott And Scurvy (2010),http://idlewords.com/2010/03/scott_and_scurvy.htm
+470,Lobsters,science,Science,Effective Reproducible Research with Org-Mode and Git,https://www.researchgate.net/publication/281886434_Effective_Reproducible_Research_with_Org-Mode_and_Git
+471,Lobsters,science,Science,"Implementation of RFC 1149, aka IP over Avian Carriers (2001)",http://www.blug.linux.no/rfc1149/
+472,Lobsters,science,Science,"Tornado Town, USA",http://fivethirtyeight.com/features/tornadoes/
+473,Lobsters,science,Science,astronometry.net - automatic recognition of astronomical images,https://github.com/dstndstn/astrometry.net
+474,Lobsters,science,Science,Could a neuroscientist understand a microprocessor?,http://biorxiv.org/content/biorxiv/early/2016/05/26/055624.full.pdf
+475,Lobsters,science,Science,Can a biologist fix a radio? (2002),https://www.researchgate.net/profile/Yuri_Lazebnik/publication/11149043_Can_a_biologist_fix_a_radioOr_what_I_learned_while_studying_apoptosis/links/545441390cf26d5090a55992.pdf
+476,Lobsters,science,Science,Scratch Monkey Story,http://edp.org/monkey.htm
+477,Lobsters,science,Science,On the Effectiveness of Aluminium Foil Helmets: An Empirical Study,https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/
+478,Lobsters,science,Science,Your mind will not be uploaded (2014),http://www.softmachines.org/wordpress/?p=1558
+479,Lobsters,science,Science,Could a neuroscientist understand a microprocessor?,http://biorxiv.org/content/early/2016/05/26/055624
+480,Lobsters,science,Science,Increasing postdoc pay,http://ivory.idyll.org/blog/2016-raising-the-postdocs.html
+481,Lobsters,science,Science,Astronomers do not Date Sappho’s ‘Midnight’ Poem,http://dhayton.haverford.edu/blog/2016/05/20/astronomers-do-not-date-sapphos-midnight-poem/
+482,Lobsters,science,Science,Reproducible and replicable CFD: it’s harder than you think,http://arxiv.org/abs/1605.04339v1
+483,Lobsters,science,Science,IBM scientists achieve phase-change memory breakthrough,http://phys.org/news/2016-05-ibm-scientists-storage-memory-breakthrough.html
+484,Lobsters,science,Science,Microsoft + DNA: How the Tech Giant Plans to Revolutionize Data Storage,http://www.fool.com/investing/general/2016/05/05/microsoft-dna-how-the-tech-giant-plans-to-revoluti.aspx
+485,Lobsters,science,Science,Software error doomed Japanese Hitomi spacecraft,http://www.nature.com/news/software-error-doomed-japanese-hitomi-spacecraft-1.19835
+486,Lobsters,science,Science,Movile Cave: an ecosystem isolated for 5.5 million years,http://www.bbc.com/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave
+487,Lobsters,science,Science,An Explanation for the Pattern of Warming,http://daviddfriedman.blogspot.com/2015/09/an-explanation-for-pattern-of-warming.html
+488,Lobsters,science,Science,Coding messages within the emission spectra of a unimolecular fluorescent sensor,http://www.nature.com/ncomms/2016/160503/ncomms11374/full/ncomms11374.html
+489,Lobsters,science,Science,Marketing Grit: When Science Lags Behind Populism,http://quillette.com/2016/05/07/marketing-grit-when-science-lags-behind-populism/
+490,Lobsters,science,Science,Elsevier Complaint Shuts Down Sci-Hub Domain Name,https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/
+491,Lobsters,science,Science,Nine years of censorship,http://www.nature.com/news/nine-years-of-censorship-1.19842
+492,Lobsters,science,Science,Why Topological Data Analysis Works,http://www.datasciencecentral.com/profiles/blogs/why-topological-data-analysis-works-by-gunnar-carlsson-president
+493,Lobsters,science,Science,Big stem cell news: we can convert adult cells to stem cells with only chemicals,http://www.ipscell.com/2016/04/groundbreaking-dynamic-duo-of-all-chemical-direct-reprogramming-reports/
+494,Lobsters,science,Science,On the (Small) Number of Atoms in the Universe,http://norvig.com/atoms.html
+495,Lobsters,science,Science,"My Top 100 Programming, Computer and Science Books",http://www.catonmat.net/series/my-top-100-science-programming-computer-books
+496,Lobsters,science,Science,Why I gave your paper a Strong Reject,http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html
+497,Lobsters,science,Science,The Curious Link Between the Fly-By Anomaly and the “Impossible” EmDrive Thruster,https://www.technologyreview.com/s/601299/the-curious-link-between-the-fly-by-anomaly-and-the-impossible-emdrive-thruster/
+498,Lobsters,science,Science,When Confounding Variables Are Out of Control,http://blogs.discovermagazine.com/neuroskeptic/2016/04/02/confounding-variables/
+499,Lobsters,science,Science,Apple's amusingly round reuse figures,http://blog.jgc.org/2016/04/apples-amusingly-round-reuse-figures.html
+500,Lobsters,science,Science,Using a Dyson hand dryer is like setting off a viral bomb in a bathroom,http://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/
+501,Lobsters,science,Science,Alien ‘Wow!’ signal could be explained after almost 40 years,https://www.theguardian.com/science/across-the-universe/2016/apr/14/alien-wow-signal-could-be-explained-after-almost-40-years
+502,Lobsters,science,Science,The Killer Hiding in the CDC Map,http://www.slate.com/articles/news_and_politics/foreigners/2016/04/what_caused_haiti_s_cholera_epidemic_the_cdc_s_museum_knows_but_won_t_say.html
+503,Lobsters,science,Science,Cosmological natural selection (fecund universes),http://evodevouniverse.com/wiki/index.php/Cosmological_natural_selection_%28fecund_universes%29
+504,Lobsters,science,Science,Determining galactic distances via machine learning,http://www.skytree.net/2016/04/12/sloan-digital-sky-survey-and-galaxies/
+505,Lobsters,science,Science,A spiritual successor to Aaron Swartz is angering publishers all over again,http://arstechnica.com/tech-policy/2016/04/a-spiritual-successor-to-aaron-swartz-is-angering-publishers-all-over-again/
+506,Lobsters,science,Science,A programming language for living cells,http://phys.org/news/2016-03-language-cells.html
+507,Lobsters,science,Science,Everything You Should Know About Sound,http://waitbutwhy.com/2016/03/sound.html
+508,Lobsters,science,Science,Transistor Aging,http://spectrum.ieee.org/semiconductors/processors/transistor-aging
+509,Lobsters,science,Science,Fibonacci Flim-Flam,https://www.lhup.edu/~dsimanek/pseudo/fibonacc.htm
+510,Lobsters,science,Science,Want to know why we sometimes see a set of stripy clouds in the sky?,https://www.youtube.com/watch?v=rOdRbUQzajo
+511,Lobsters,science,Science,PLoS financials are surprising,https://storify.com/jtth/andrew-kern-on-plos
+512,Lobsters,science,Science,Youngest Kids In Class At Higher Risk Of ADHD Diagnosis,http://www.npr.org/sections/health-shots/2016/03/10/469929700/a-late-birth-date-could-boost-the-risk-of-an-adhd-diagnosis
+513,Lobsters,science,Science,"ADHD is vastly overdiagnosed and many children are just immature, say scientists",http://www.telegraph.co.uk/news/science/science-news/12189369/ADHD-is-vastly-overdiagnosed-and-many-children-are-just-immature-say-scientists.html
+514,Lobsters,science,Science,Psychological Science backs away from null hypothesis significance testing,http://andrewgelman.com/2016/03/02/no-this-post-is-not-30-days-early-psychological-science-backs-away-from-null-hypothesis-significance-testing/
+515,Lobsters,science,Science,The Prospects and Risks of Neurostimulation,http://www.nature.com/nature/journal/v531/n7592_supp/full/531S6a.html
+516,Lobsters,science,Science,Random couscous snaps into beautiful patterns,https://www.youtube.com/watch?v=CR_XL192wXw
+517,Lobsters,science,Science,Tantalum - 2D Light Transport by Benedikt Bitterli,https://benedikt-bitterli.me/tantalum/tantalum.html
+518,Lobsters,science,Science,Overclocking Arduino with liquid nitrogen cooling,http://3.14.by/en/read/arduino-liquid-nitrogen-overclocking
+519,Lobsters,science,Science,Neurotech Hardware Roundup 2016,http://www.autodidacts.io/neurotech-hardware-roundup-eeg-bci-tdcs-neurofeedback/
+520,Lobsters,science,Science,Half the world to be short-sighted by 2050,https://www.sciencedaily.com/releases/2016/02/160217113308.htm
+521,Lobsters,science,Science,Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective,https://www.youtube.com/watch?v=dXQPL9GooyI
+522,Lobsters,science,Science,Signal Processing with LIGO GW150914 data,https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html
+523,Lobsters,science,Science,10 Years of Thinking About Pair Programming,https://salfreudenberg.wordpress.com/2013/11/16/10-years-of-thinking-about-pair-programming/
+524,Lobsters,science,Science,LIGO detects gravitational waves from the merger of two black holes,http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102
+525,Lobsters,science,Science,Meet the Robin Hood of Science,http://bigthink.com/neurobonkers/a-pirate-bay-for-science
+526,Lobsters,science,Science,Digital Sundial (french),http://www.mojoptix.com/fr/2015/10/12/ep-001-cadran-solaire-numerique/
+527,Lobsters,science,Science,Not-so-secret atomic tests: Why the photographic film industry knew what the American public didn’t,http://www.imaging-resource.com/news/2013/02/26/not-so-secret-atomic-bomb-tests-why-the-photographic-film-industry-knew
+528,Lobsters,science,Science,Destroying worn-out cells makes mice live longer,http://www.nature.com/news/destroying-worn-out-cells-makes-mice-live-longer-1.19287
+529,Lobsters,science,Science,Apollo 11 source code,http://www.ibiblio.org/apollo/listings/Luminary099/MAIN.agc.html
+530,Lobsters,science,Science,The Feynman Lectures on Physics is Now Completely Online,http://www.openculture.com/2014/08/the-feynman-lectures-on-physics-the-most-popular-physics-book-ever-written-now-completely-online.html
+531,Lobsters,science,Science,Data Sharing,http://www.nejm.org/doi/full/10.1056/NEJMe1516564
+532,Lobsters,science,Science,Reviving forgotten science to build the world's most accurate clock,http://www.theatlantic.com/technology/archive/2016/01/pendulum-clock-john-harrison/424614/
+533,Lobsters,science,Science,"Astronomers Find Hints Of A Giant, Hidden Planet In Our Solar System",http://www.npr.org/sections/thetwo-way/2016/01/20/463087037/hints-of-a-hidden-distant-planet-in-our-solar-system
+534,Lobsters,science,Science,Does Science Advance One Funeral at a Time?,http://www.econ.upf.edu/docs/papers/downloads/1498.pdf
+535,Lobsters,science,Science,Coal and Gas are Far More Harmful than Nuclear Power (2013),http://www.giss.nasa.gov/research/briefs/kharecha_02/
+536,Lobsters,science,Science,Free will does not exist,http://backreaction.blogspot.co.uk/2016/01/free-will-is-dead-lets-bury-it.html
+537,Lobsters,science,Science,Bug eyes: Tiny glasses confirm 3D vision in insects,http://www.ncl.ac.uk/press/news/2016/01/3dglassesformantises/
+538,Lobsters,science,Science,Mexico City Proposes Futuristic Floating Gondolas to Combat Traffic,http://fusion.net/story/251066/mexico-city-proposes-futuristic-floating-gondolas-to-combat-traffic/
+539,Lobsters,science,Science,Moving away from HDF5,http://cyrille.rossant.net/moving-away-hdf5/
+540,Lobsters,science,Science,The Detection of Emerging Trends Using Wikipedia Traffic Data and Context Networks,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141892
+541,Lobsters,science,Science,"Maternal kisses are not effective in alleviating minor childhood injuries (boo-boos): a randomized, controlled and blinded study",http://onlinelibrary.wiley.com/doi/10.1111/jep.12508/abstract;jsessionid=3C5498272671ECA6A2ACE7B9695D3197.f01t01
+542,Lobsters,science,Science,Periodic table's seventh row filled as four new elements added.,http://www.theguardian.com/science/2016/jan/04/periodic-tables-seventh-row-finally-filled-as-four-new-elements-are-added
+543,Lobsters,science,Science,Safety Lessons From the Morgue,http://www.nytimes.com/2012/10/28/magazine/safety-lessons-from-the-morgue.html
+544,Lobsters,science,Science,American Astronomical Society's Policy Statement on Software,http://journals.aas.org/policy/software.html
+545,Lobsters,science,Science,Everything Is Computation,http://edge.org/response-detail/26733
+546,Lobsters,science,Science,The Ancient Egyptian Discovery of Algol’s Period Confirmed,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144140
+547,Lobsters,science,Science,The Moon is Now a Wi-Fi Hotspot,http://blogs.discovermagazine.com/d-brief/2014/05/28/the-moon-is-now-a-wi-fi-hotspot/
+548,Lobsters,science,Science,Atomic John,http://www.newyorker.com/magazine/2008/12/15/atomic-john
+549,Lobsters,science,Science,Hierarchy is Detrimental for Human Cooperation,http://www.nature.com/articles/srep18634
+550,Lobsters,science,Science,"Bunking, debunking, and discovery",https://medium.com/@ValidScience/bunking-debunking-and-discovery-b1d6ece5e0cb
+551,Lobsters,science,Science,SpaceX Webcast - Successful Rocket Landing,http://www.spacex.com/webcast/
+552,Lobsters,science,Science,An Interview with George Fox,http://hypocritereader.com/59/interview-george-fox
+553,Lobsters,science,Science,Letter to SCOTUS from professional physicists,https://docs.google.com/forms/d/1t-ufGIGT0t6HZPvn5HjNtdWDfmjCsEj61Sm9SJaMbFQ/viewform?c=0&w=1
+554,Lobsters,science,Science,The Doomsday Invention,http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
+555,Lobsters,science,Science,"Chomsky Was Right, NYU Researchers Find: We Do Have a “Grammar” in Our Head",http://www.nyu.edu/about/news-publications/news/2015/12/07/chomsky-was-right-nyu-researchers-find-we-do-have-a-grammar-in-our-head.html
+556,Lobsters,science,Science,Gödel’s incompleteness theorems are connected to unsolvable calculations in quantum physics.,http://www.nature.com/news/paradox-at-the-heart-of-mathematics-makes-physics-problem-unanswerable-1.18983
+557,Lobsters,science,Science,Python for high performance scientific computing,http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Python%20vs%20Java.ipynb
+558,Lobsters,science,Science,Yarn-Based Cloth Simulation,http://www.cs.cornell.edu/projects/YarnCloth/
+559,Lobsters,science,Science,PhD student solves physics problems with C++ on daily stream,http://leios.github.io
+560,Lobsters,science,Science,What can a technologist do about climate change? A personal view.,http://worrydream.com/ClimateChange/
+561,Lobsters,science,Science,Quantum entanglement achieved at room temperature in semiconductor wafers.,http://phys.org/news/2015-11-quantum-entanglement-room-temperature-semiconductor.html
+562,Lobsters,science,Science,Ages and names predict the valence of social interactions in a massive online game,http://www.sciencedirect.com/science/article/pii/S0747563215301655
+563,Lobsters,science,Science,Journal of Results,https://experiment.com/journal
+564,Lobsters,science,Science,Julia developers receive funding to develop a stable Julia 1.0,https://www.moore.org/newsroom/in-the-news/2015/11/10/bringing-julia-from-beta-to-1.0-to-support-data-intensive-scientific-computing
+565,Lobsters,science,Science,How computers broke science – and what we can do to fix it,http://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938
+566,Lobsters,science,Science,The Controversy over Homo Naledi Is A Good Thing,http://gizmodo.com/the-controversy-over-homo-naledi-is-actually-a-good-thi-1738572110
+567,Lobsters,science,Science,The surprising truth about which personality traits do and don't correlate with computer programming skills,http://digest.bps.org.uk/2015/10/the-surprising-truth-about-which.html
+568,Lobsters,science,Science,NASA Mission Reveals Speed of Solar Wind Stripping Martian Atmosphere,https://www.nasa.gov/press-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere
+569,Lobsters,science,Science,"Entire editorial staff of Elsevier journal Lingua resigns over high price, lack of open access",http://arstechnica.co.uk/science/2015/11/entire-editorial-staff-of-elsevier-journal-lingua-resigns-over-high-price-lack-of-open-access/
+570,Lobsters,science,Science,"""Evidence-Oriented Programming"" by Andreas Stefik",https://www.youtube.com/watch?v=uEFrE6cgVNY
+571,Lobsters,science,Science,The Programming Language Wars: Questions and Responsibilities for the Programming Language Community,http://dl.acm.org/authorize?N84615
+572,Lobsters,science,Science,Thermonuclear Art – The Sun In 4K,http://www.youtube.com/watch?v=6tmbeLTHC_0
+573,Lobsters,science,Science,The Dubious Quick Kill: Sword wounds and the circulatory system,http://www.classicalfencing.com/articles/bloody.php
+574,Lobsters,science,Science,Crush Point,http://www.newyorker.com/magazine/2011/02/07/crush-point
+575,Lobsters,science,Science,Blabr - Scientific computing for the web,http://blabr.io/
+576,Lobsters,science,Science,How do hard drives work? - Kanawat Senanan,http://ed.ted.com/lessons/how-do-hard-drives-work-kanawat-senanan
+577,Lobsters,science,Science,Tiny 'ThumbSats' Aim to Bring Space to All,http://news.discovery.com/space/private-spaceflight/tiny-thumbsats-aim-to-bring-space-to-all-151026.htm
+578,Lobsters,science,Science,NASA's last original Voyager engineer is retiring,http://money.cnn.com/2015/10/27/technology/voyager-nasa/index.html
+579,Lobsters,science,Science,Will Everyone Please Eat Gluten? Please? (2013),http://jezebel.com/5991724/will-everyone-please-eat-gluten--please-because-you-are-literally-killing-me-kind-of
+580,Lobsters,science,Science,How to de-identify your data,http://queue.acm.org/detail.cfm?id=2838930
+581,Lobsters,science,Science,When the Earth Had Two Moons,http://nautil.us/issue/13/symmetry/when-the-earth-had-two-moons
+582,Lobsters,science,Science,Project Flux,http://services.google.com/fh/files/blogs/project_flux.pdf
+583,Lobsters,science,Science,IEEE withdrawing more than 120 nonsense papers,http://retractionwatch.com/2014/02/24/springer-ieee-withdrawing-more-than-120-nonsense-papers/
+584,Lobsters,science,Science,The Unofficial Google Data Science Blog: Data scientist as scientist,http://www.unofficialgoogledatascience.com/2015/10/data-scientist-as-scientist.html
+585,Lobsters,science,Science,A Hypothesis for Music in Human Evolution,http://www.meltingasphalt.com/music-in-human-evolution/
+586,Lobsters,science,Science,Life on Earth may have begun 300m years earlier than previously thought,http://www.theguardian.com/science/2015/oct/19/life-on-earth-began-300m-years-earlier-than-previously-thought
+587,Lobsters,science,Science,Metamorphosis and Millimeters (2012),http://themetricmaven.com/?p=85
+588,Lobsters,science,Science,Cops are asking Ancestry.com and 23andMe for their customers' DNA,http://fusion.net/story/215204/law-enforcement-agencies-are-asking-ancestry-com-and-23andme-for-their-customers-dna/
+589,Lobsters,science,Science,Oskarshamn - Nuclear Waste Facility,http://photodujour.net/nuclear_waste_facility/post.html
+590,Lobsters,science,Science,Astronomers may have found giant alien 'megastructures' orbiting star near the Milky Way,http://www.independent.co.uk/news/world/forget-water-on-mars-astronomers-may-have-just-found-giant-alien-megastructures-orbiting-a-star-near-a6693886.html
+591,Lobsters,science,Science,Kilogram conflict resolved at last,http://www.nature.com/news/kilogram-conflict-resolved-at-last-1.18550
+592,Lobsters,science,Science,The Most Mysterious Star in Our Galaxy,http://www.theatlantic.com/science/archive/2015/10/the-most-interesting-star-in-our-galaxy/410023/
+593,Lobsters,science,Science,GitXiv — Collaborative Open Computer Science (arXiv + Github),http://gitxiv.com/
+594,Lobsters,science,Science,'Great Pause' Among Prosecutors As DNA Proves Fallible,http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible
+595,Lobsters,science,Science,The Relativity of Wrong by Isaac Asimov,http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm
+596,Lobsters,science,Science,Protecting Mars from Earth Contamination,http://www.nytimes.com/2015/10/06/science/mars-catharine-conley-nasa-planetary-protection-officer.html
+597,Lobsters,science,Science,New Horizons Finds Blue Skies and Water Ice on Pluto,http://www.nasa.gov/nh/nh-finds-blue-skies-and-water-ice-on-pluto
+598,Lobsters,science,Science,What the European model ‘win’ over the American model in Joaquin means for weather forecasting,https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/10/06/what-the-european-model-win-over-the-american-model-means-for-weather-forecasting/
+599,Lobsters,science,Science,Global eradication of wild poliovirus type 2 declared,http://www.polioeradication.org/mediaroom/newsstories/Global-eradication-of-wild-poliovirus-type-2-declared/tabid/526/news/1289/Default.aspx
+600,Lobsters,science,Science,How Will We Get Off Mars?,http://news.nationalgeographic.com/2015/10/151002-mars-mission-nasa-return-space
+601,Lobsters,science,Science,Silicon based quantum gate made,http://phys.org/news/2015-10-crucial-hurdle-quantum.html
+602,Lobsters,science,Science,Spectral Evidence for Hydrated Salts in Seasonal Brine Flows on Mars,http://meetingorganizer.copernicus.org/EPSC2015/EPSC2015-838-1.pdf
+603,Lobsters,science,Science,Why bitwise reproducibility matters,https://thewinnower.com/papers/954-why-bitwise-reproducibility-matters
+604,Lobsters,science,Science,The Universe is Not a Black Hole,http://www.preposterousuniverse.com/blog/2010/04/28/the-universe-is-not-a-black-hole/
+605,Lobsters,science,Science,Astrometry.net,http://nova.astrometry.net/
+606,Lobsters,science,Science,Tindallgrams: The snarky memos of Apollo’s unsung genius,http://tindallgrams.net/
+607,Lobsters,science,Science,Understanding Philae’s wake-up: behind the scenes with the Philae team,http://blogs.esa.int/rosetta/2015/09/11/understanding-philaes-wake-up-behind-the-scenes-with-the-philae-team/
+608,Lobsters,science,Science,Spreading Slow Ideas,http://www.newyorker.com/magazine/2013/07/29/slow-ideas
+609,Lobsters,science,Science,Smart Machines Will Take Us With Them,http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them
+610,Lobsters,science,Science,What if I were 1% charged?,https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/
+611,Lobsters,science,Science,Fuck Nuance,http://kieranhealy.org/files/papers/fuck-nuance.pdf
+612,Lobsters,science,Science,How Methods Videos Are Making Science Smarter,http://www.newyorker.com/tech/elements/how-methods-videos-are-making-science-smarter
+613,Lobsters,science,Science,Freedom2Measure,http://www.freedom2measure.org/
+614,Lobsters,science,Science,A Scientific Look at Bad Science,http://www.theatlantic.com/magazine/archive/2015/09/a-scientific-look-at-bad-science/399371/
+615,Lobsters,science,Science,Allen Newell : Desires and Diversions : 1991 : Carnegie Mellon University,http://www.youtube.com/watch?v=_sD42h9d1pk
+616,Lobsters,science,Science,Psychological and psychiatric terms to avoid,http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01100/full
+617,Lobsters,science,Science,My Favorite Numbers: 24,http://math.ucr.edu/home/baez/numbers/24.pdf
+618,Lobsters,science,Science,Creating a Pluto flyby using unaligned New Horizons images,https://matthewearl.github.io/2015/08/11/pluto-flyby/
+619,Lobsters,science,Science,Nuclear explosion impact shown on Google maps,http://nuclearsecrecy.com/nukemap/
+620,Lobsters,science,Science,Two Dynamical Core Formulation Flaws Exposed by a Baroclinic Instability Test Case,http://journals.ametsoc.org/doi/full/10.1175/2008MWR2587.1
+621,Lobsters,science,Science,An Empirical Study of Implicit Type Conversions in JavaScript,http://blog.acolyer.org/2015/08/04/the-good-the-bad-and-the-ugly-an-empirical-study-of-implicit-type-conversions-in-javascript/
+622,Lobsters,science,Science,Easy as Py: EEG data analysis with EEGrunt,http://www.autodidacts.io/eegrunt-open-source-python-eeg-analysis-utilities/
+623,Lobsters,science,Science,Dat goes beta (Versioned dataset collaboration tool),https://usopendata.org/2015/07/29/dat-beta/
+624,Lobsters,science,Science,Unusual Red Arcs Spotted on Icy Saturn Moon,http://www.jpl.nasa.gov/news/news.php?feature=4671
+625,Lobsters,science,Science,A Field Study of Technical Debt,http://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208
+626,Lobsters,science,Science,Decoding the Remarkable Algorithms of Ants,https://www.quantamagazine.org/20150625-decoding-the-remarkable-algorithms-of-ants/
+627,Lobsters,science,Science,How Shazam works,http://coding-geek.com/how-shazam-works/
+628,Lobsters,science,Science,"NeuroBB: The EEG, BCI, and Neurofeedback Forum",http://neurobb.com
+629,Lobsters,science,Science,What Problems to Solve - By Richard Feynman,http://genius.cat-v.org/richard-feynman/writtings/letters/problems
+630,Lobsters,science,Science,Do Binaural Beats Really Affect Brainwaves?,http://www.autodidacts.io/binaural-beat-openbci-eeg-experiment/
+631,Lobsters,science,Science,"Real Physics: Physical Intuition, Not Mathematics",http://realphysics.blogspot.com/2011/06/physical-intuition-not-mathematics.html
+632,Lobsters,science,Science,The physics of floating screwdrivers,http://www.youtube.com/watch?v=jAYP6pWrdkc
+633,Lobsters,science,Science,Snowsuit Zine // issue 07 - Enter The Microlith,http://snowsuit.io/issue07.html
+634,Lobsters,science,Science,Could dark matter not exist?,https://medium.com/starts-with-a-bang/ask-ethan-94-could-dark-matter-not-exist-de5cd810e446
+635,Lobsters,science,Science,The AI Revolution: Road to Superintelligence,http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+636,Lobsters,science,Science,Programmer Interrupted (2013),http://blog.ninlabs.com/2013/01/programmer-interrupted/
+637,Lobsters,science,Science,GNU Octave 4.0 released with a new GUI,http://www.gnu.org/software/octave/NEWS-4.0.html
+638,Lobsters,science,Science,New Loki Microbe is Closest Relative to All Complex Life,http://phenomena.nationalgeographic.com/2015/05/06/new-loki-microbe-is-closest-relative-to-all-complex-life/
+639,Lobsters,science,Science,Emojineering Part 1: Machine Learning for Emoji Trends,http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji
+640,Lobsters,science,Science,The facts as we currently know them about the EmDrive and Cannae Drive,https://www.reddit.com/r/Futurology/comments/34cq1b/the_facts_as_we_currently_know_them_about_the/
+641,Lobsters,science,Science,NASA API Catalog,https://data.nasa.gov/developer
+642,Lobsters,science,Science,A Unified Theory of Superman's Powers,http://www.qwantz.com/fanart/superman.pdf
+643,Lobsters,science,Science,The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking,http://www.hepl.ch/files/live/sites/systemsite/files/filiere-bp/programme-formation/the_pen_is_mightier_than_the_keyboard.pdf
+644,Lobsters,science,Science,"From Parametricity to Conservation Laws, via Noether’s Theorem",http://bentnib.org/conservation-laws.pdf
+645,Lobsters,science,Science,Antisocial Behavior in Online Discussion Communities,http://arxiv.org/pdf/1504.00680v1.pdf
+646,Lobsters,science,Science,The Solar System (A Superbook),https://bubbl.in/cover/the-solar-system-by-marvin-danig
+647,Lobsters,science,Science,Realtime Visualization of Wind and Ocean Currents,http://earth.nullschool.net
+648,Lobsters,science,Science,"Internet searches create illusion of personal knowledge, research finds",http://www.eurekalert.org/pub_releases/2015-03/apa-isc033115.php
+649,Lobsters,science,Science,Don't enforce R as a standard,http://timotheepoisot.fr/2015/04/02/do-not-enforce-R/
+650,Lobsters,science,Science,Interactive 3D Printer Comparison Chart,http://www.productchart.com/3d_printers/
+651,Lobsters,science,Science,The Big Shift: Infields spin in response to data explosion,http://hosted.ap.org/dynamic/stories/B/BBO_THE_BIG_SHIFT?SITE=AP
+652,Lobsters,science,Science,Americans' Privacy Strategies Post-Snowden,http://www.pewinternet.org/files/2015/03/PI_AmericansPrivacyStrategies_0316151.pdf
+653,Lobsters,science,Science,Camels and humps: a retraction (2011/2014),http://www.eis.mdx.ac.uk/staffpages/r_bornat/papers/camel_hump_retraction.pdf
+654,Lobsters,science,Science,The Fat-Fueled Brain,http://blogs.scientificamerican.com/mind-guest-blog/2013/10/01/the-fat-fueled-brain-unnatural-or-advantageous/
+655,Lobsters,science,Science,DNA seen through the eyes of a coder,http://ds9a.nl/amazing-dna/?imm_mid=0ce075&cmp=em-prog-na-na-newsltr_20150307
+656,Lobsters,science,Science,Raytracing a Black Hole,http://rantonels.github.io/starless/
+657,Lobsters,science,Science,How Do Centralized and Distributed Version Control Systems Impact Software Changes?,http://cope.eecs.oregonstate.edu/VCStudy/
+658,Lobsters,science,Science,Microwave Oven Diagnostics with Indian Snack Food,http://www.evilmadscientist.com/2011/microwave-oven-diagnostics-with-indian-snack-food/
+659,Lobsters,science,Science,Sex redefined,http://www.nature.com/news/sex-redefined-1.16943
+660,Lobsters,science,Science,"FDA inspections: Fraud, fabrication, and scientific misconduct are hidden from the public, doctors",http://www.slate.com/articles/health_and_science/science/2015/02/fda_inspections_fraud_fabrication_and_scientific_misconduct_are_hidden_from.single.html
+661,Lobsters,science,Science,No Big Bang? Quantum equation predicts universe has no beginning,http://phys.org/news/2015-02-big-quantum-equation-universe.html
+662,Lobsters,science,Science,Garden path sentence,http://en.wikipedia.org/wiki/Garden_path_sentence
+663,Lobsters,science,Science,Octave 4.0 is approaching...,http://octave.1599824.n4.nabble.com/Octave-4-0-is-approaching-td4668420.html
+664,Lobsters,science,Science,A Common Workflow Language for bioinformatics,https://github.com/common-workflow-language/common-workflow-language
+665,Lobsters,science,Science,The universe in motion: Apian’s Cosmographia,http://www.bpl.org/distinction/2015/01/30/the-universe-in-motion-apians-cosmographia-2/
+666,Lobsters,science,Science,How to Publish a Scientific Comment in 1 2 3 Easy Steps,http://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf
+667,Lobsters,science,Science,Factbrowser - The Research Discovery Engine,http://www.factbrowser.com/
+668,Lobsters,science,Science,NP Complete Problems and Physical Reality,http://arxiv.org/pdf/quant-ph/0502072v2.pdf
+669,Lobsters,science,Science,"Access to broadband may increase inequality between skilled, unskilled labor",http://marginalrevolution.com/marginalrevolution/2015/01/broadband-norwegian-average-is-over.html
+670,Lobsters,science,Science,Be My Eyes – Lend your eyes to the blind,http://www.bemyeyes.org/
+671,Lobsters,science,Science,"BPA alternative disrupts normal brain-cell growth, is tied to hyperactivity, study says",http://www.washingtonpost.com/national/health-science/bpa-alternative-disrupts-normal-brain-cell-growth-is-tied-to-hyperactivity-study-says/2015/01/12/a9ecc37e-9a7e-11e4-a7ee-526210d665b4_story.html
+672,Lobsters,science,Science,Have game theorists and computers cracked the game of poker?,http://marginalrevolution.com/marginalrevolution/2015/01/have-game-theorists-plus-computers-cracked-the-game-of-poker.html
+673,Lobsters,science,Science,Can't You Just Turn Up the Volume?,https://medium.com/@Amp/cant-you-just-turn-up-the-volume-4ecb7fc422a
+674,Lobsters,science,Science,How Software in Half of NYC Cabs Generates $5.2 Million a Year in Extra Tips,http://iquantny.tumblr.com/post/107245431809/how-software-in-half-of-nyc-cabs-generates-5-2
+675,Lobsters,science,Science,Why Our Analemma Looks like a Figure 8,http://scienceblogs.com/startswithabang/2009/08/26/why-our-analemma-looks-like-a/
+676,Lobsters,science,Science,Origins of 10X – How Valid is the Underlying Research?,http://www.construx.com/10x_Software_Development/Origins_of_10X_%E2%80%93_How_Valid_is_the_Underlying_Research_/
+677,Lobsters,science,Science,"Why movies look weird at 48fps, and games are better at 60fp",http://accidentalscientist.com/2014/12/why-movies-look-weird-at-48fps-and-games-are-better-at-60fps-and-the-uncanny-valley.html?
+678,Lobsters,science,Science,CogNet,http://cognet.mit.edu/
+679,Lobsters,science,Science,The NIPS Experiment,http://mrtz.org/blog/the-nips-experiment/
+680,Lobsters,science,Science,Phinch: framework for visualizing biological data,https://github.com/PitchInteractiveInc/Phinch
+681,Lobsters,science,Science,The Darwin Awards: sex differences in idiotic behaviour,http://www.bmj.com/content/349/bmj.g7094
+682,Lobsters,science,Science,Is it time to try geoengineering?,http://recode.net/2014/12/11/harvards-david-keith-knows-how-to-dial-down-the-earths-thermostat-is-it-time-to-try/
+683,Lobsters,science,Science,Trolls Just Want to Have Fun,http://scottbarrykaufman.com/wp-content/uploads/2014/02/trolls-just-want-to-have-fun.pdf
+684,Lobsters,science,Science,Automated detection of malignant features in confocal microscopy on superficial spreading melanoma,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3036174/pdf/JBOPFO-000015-061713_1.pdf
+685,Lobsters,science,Science,24/192 Music Downloads are Very Silly Indeed (2012),http://xiph.org/~xiphmont/demo/neil-young.html
+686,Lobsters,science,Science,"Mushroom clouds strange, familiar, and fake",http://blog.nuclearsecrecy.com/2014/12/01/mushroom-clouds-strange-familiar-fake/
+687,Lobsters,science,Science,Zélus : A Synchronous Language with ODEs,http://lambda-the-ultimate.org/node/5087
+688,Lobsters,science,Science,"Twitter ""Exhaust"" Reveals Patterns of Unemployment",http://www.technologyreview.com/view/532746/twitter-exhaust-reveals-patterns-of-unemployment/
+689,Lobsters,science,Science,Using Three-dimensional Models to Catalog Tiger Stripes (2009),http://rsbl.royalsocietypublishing.org/content/early/2009/03/10/rsbl.2009.0028.full
+690,Lobsters,science,Science,Gravitricity,http://www.gravitricity.com
+691,Lobsters,science,Science,"How Curiosity, Luck, and the Flip of a Switch May Have Saved Apollo 12",http://motherboard.vice.com/read/john-aaron-apollo-12-curiosity-luck-and-sce-to-aux
+692,Lobsters,science,Science,Aurel A Lazar - Neurokernal: Emulating the drosophila brain on multiple GPUs (2014),https://www.youtube.com/watch?v=fwQx1OUltx4&index=85&list=WL
+693,Lobsters,science,Science,LHC observes two new baryon particles,http://home.web.cern.ch/about/updates/2014/11/lhcb-observes-two-new-baryon-particles
+694,Lobsters,science,Science,Rosetta lander finds hard ice and organic molecules,http://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10081/151_read-12176/#/gallery/17219
+695,Lobsters,science,Science,A Worm's Mind In A Lego Body,http://www.i-programmer.info/news/105-artificial-intelligence/7985-a-worms-mind-in-a-lego-body.html
+696,Lobsters,science,Science,The empirical evidence that types affect productivity and correctness,http://danluu.com/empirical-pl/#wat_summary
+697,Lobsters,science,Science,Running the South Pole Data Center,http://arstechnica.com/business/2012/04/coolest-jobs-in-tech-literally-running-a-south-pole-data-center/
+698,Lobsters,science,Science,engineering pornography (big-time power line repair) (2002),http://www.jwz.org/blog/2002/11/engineering-pornography/
+699,Lobsters,science,Science,Neural Turing Machines,http://arxiv.org/pdf/1410.5401.pdf
+700,Lobsters,science,Science,New Clock May End Time As We Know It,http://www.npr.org/2014/11/03/361069820/new-clock-may-end-time-as-we-know-it
+701,Lobsters,science,Science,Cloning Whistle-Blower: Little Change In S. Korea,http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_WHISTLE_BLOWER_?SITE=AP
+702,Lobsters,science,Science,"Calories in, calories out",http://possiblywrong.wordpress.com/2014/10/21/calories-in-calories-out/
+703,Lobsters,science,Science,Obese crash test dummies the key to preventing road deaths?,http://www.cnn.com/2014/10/23/tech/innovation/obese-crash-test-dummies-mci/index.html
+704,Lobsters,science,Science,Beyond Maximum Likelihood: from Theory to Practice,http://arxiv.org/abs/1409.7458
+705,Lobsters,science,Science,The man with the golden blood,http://mosaicscience.com/story/man-golden-blood
+706,Lobsters,science,Science,Scientists attach sensors to bees to study behavior and population decline,http://mobile.abc.net.au/news/2014-01-15/scientists-fit-tiny-sensors-to-bees-to-study-population-decline/5199862
+707,Lobsters,science,Science,"Les Roberts – “Day 7: Brutal Triage” | Freetown, Sierre Leone",http://pfmhcolumbia.wordpress.com/2014/10/12/les-roberts-the-prediction-landscape-is-looking-bad/
+708,Lobsters,science,Science,Visualizing MNIST: An Exploration of Dimensionality Reduction,http://colah.github.io/posts/2014-10-Visualizing-MNIST/
+709,Lobsters,science,Science,Fermi's Piano Tuner,http://www.grc.nasa.gov/WWW/k-12/Numbers/Math/Mathematical_Thinking/fermis_piano_tuner.htm
+710,Lobsters,science,Science,An Australian researcher has worked out how to store 1000TB on a CD,http://www.sciencealert.com.au/news/20140309-26116.html
+711,Lobsters,science,Science,Control theory,http://en.wikipedia.org/wiki/Control_theory
+712,Lobsters,science,Science,Rat Traders,http://www.artmarcovici.com/rat-traders
+713,Lobsters,science,Science,Pythran: Enabling Static Optimization of Scientific Python Programs,http://conference.scipy.org/proceedings/scipy2013/pdfs/guelton.pdf
+714,Lobsters,science,Science,ISRO: Mars Orbiter Mission,http://isro.gov.in/mars/updates.aspx
+715,Lobsters,science,Science,"Estimating the Future Number of Cases in the Ebola Epidemic — Liberia and Sierra Leone, 2014–2015",http://www.cdc.gov/mmwr/preview/mmwrhtml/su63e0923a1.htm
+716,Lobsters,science,Science,What Hawking really meant,http://www.symmetrymagazine.org/article/september-2014/what-hawking-really-meant
+717,Lobsters,science,Science,24-year-old woman found to have no cerebellum in her brain,http://www.newscientist.com/article/mg22329861.900-woman-of-24-found-to-have-no-cerebellum-in-her-brain.html
+718,Lobsters,science,Science,"SciRate - Papers from the arXiv, with voting and comments",https://scirate.com/
+719,Lobsters,science,Science,Google acquires UCSB quantum computing group,http://googleresearch.blogspot.com.au/2014/09/ucsb-partners-with-google-on-hardware.html
+720,Lobsters,science,Science,Plants in offices increase happiness and productivity,http://www.theguardian.com/money/2014/aug/31/plants-offices-workers-productive-minimalist-employees
+721,Lobsters,science,Science,How to become a Good Theoretical Physicist,http://www.staff.science.uu.nl/~Gadda001/goodtheorist/
+722,Lobsters,science,Science,Ant Speciation and Evolution,http://www.smithsonianmag.com/smithsonian-institution/newly-discovered-ant-species-supports-controversial-theory-evolution-180952423/
+723,Lobsters,science,Science,"The Chairless Chair, an invisible chair that you can wear",http://www.cnn.com/2014/08/20/tech/innovation/the-chairless-chair/index.html
+724,Lobsters,science,Science,Invisible Water Floating Foil Boat- Actually a Dense Gas... Called SULFUR HEXAFLUORIDE,https://www.youtube.com/watch?v=DzLX96VWTkc
+725,Lobsters,science,Science,jqubits - Quantum computation simulation JavaScript library,https://github.com/davidbkemp/jsqubits
+726,Lobsters,science,Science,The Future T.B.D.,http://bldgblog.blogspot.com/2014/08/the-future-tbd.html
+727,Lobsters,science,Science,A Study of Women Heterozygous for Colour Deficiencies,http://vision.psychol.cam.ac.uk/jdmollon/papers/JordanMollon_Carriers.pdf
+728,Lobsters,science,Science,"Aspirin a day could dramatically cut cancer risk, says biggest study yet",http://www.theguardian.com/science/2014/aug/06/aspirin-could-dramtically-cut-cancer-risk-say-scientists-biggest-study-yet
+729,Lobsters,science,Science,Astronomer Seth Shostak: We'll find ET by 2037!,https://www.youtube.com/watch?v=hkxEbIxoNQI
+730,Lobsters,science,Science,Nigeria death shows Ebola can spread by air travel,http://hosted.ap.org/dynamic/stories/A/AF_NIGERIA_EBOLA?SITE=AP
+731,Lobsters,science,Science,Why We Need Evidence,http://neverworkintheory.org/2012/12/30/why-we-need-evidence.html
+732,Lobsters,science,Science,Our World in Data: Visualising the Empirical Evidence on how the World is Changing,http://www.ourworldindata.org/
+733,Lobsters,science,Science,"How to Talk to a 36-year-old Space Probe with GNU Radio, a USRP, and a Big Dish",http://www.jmalsbury.com/how-to-talk-to-a-36-year-old-space-probe-isee-3-with-gnu-radio-a-usrp-and-a-big-dish/
+734,Lobsters,science,Science,Interactive scientific computing: goldilocks languages,http://graydon2.dreamwidth.org/189377.html
+735,Lobsters,science,Science,Retirement of Prof. Andy Tanenbaum,http://www.cs.vu.nl/~ast/afscheid/
+736,Lobsters,science,Science,Consciousness on-off switch discovered deep in brain,http://www.newscientist.com/article/mg22329762.700-consciousness-onoff-switch-discovered-deep-in-brain.html?full=true
+737,Lobsters,science,Science,Video Offers Glimpse of Biosafety Level 4 Lab,http://www.bu.edu/today/2013/video-offers-glimpse-of-biosafety-level-4-lab/
+738,Lobsters,science,Science,"It Took Studying 25,782,500 Kids To Begin To Undo The Damage Caused By 1 Doctor",http://www.upworthy.com/it-took-studying-25782500-kids-to-begin-to-undo-the-damage-caused-by-1-doctor
+739,Lobsters,science,Science,Ohio Startup Receives FDA Clearance for Operating Room Augmented Reality,http://www.additiveanalytics.com/blog/ohio-startup-receives-fda-clearance-operating-room-augmented-reality/
+740,Lobsters,science,Science,Sleep as a Competitive Advantage,http://dealbook.nytimes.com/2014/06/27/sleep-as-a-competitive-advantage/
+741,Lobsters,science,Science,"We, the lab rats",http://tante.cc/2014/06/29/lab-rats/
+742,Lobsters,science,Science,The Nature of Code,http://natureofcode.com/
+743,Lobsters,science,Science,LOUD: Large acOUstic Data Array Project,http://groups.csail.mit.edu/cag/mic-array/
+744,Lobsters,science,Science,What Happened When We Tried To Publish a Real Paper Investigating Time Travel,https://thewinnower.com/discussions/what-happened-when-we-tried-to-publish-a-real-paper-investigating-time-travel
+745,Lobsters,science,Science,Nature Methods Journal makes transition to open science,https://opensource.com/life/14/6/respected-journal-makes-transition-open-science
+746,Lobsters,science,Science,Fly motion vision,http://www.neuro.mpg.de/24322/borst_p1
+747,Lobsters,science,Science,MIT and Harvard Researchers Develop Groundbreaking New Algorithm to Automatically Classify Lymphoma,http://www.additiveanalytics.com/blog/mit-researchers-develop-groundbreaking-new-algorithm-automatically-classify-lymphoma/
+748,Lobsters,science,Science,Colors of chemistry,http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html
+749,Lobsters,science,Science,N.I.H. Seeks $4.5 Billion to Try to Crack the Code of How Brains Function,http://www.nytimes.com/2014/06/06/science/nih-seeks-4-5-billion-to-try-to-crack-the-code-of-how-brains-function.html?action=click&contentCollection=Health&region=Footer&module=MoreInSection&pgtype=Blogs
+750,Lobsters,science,Science,Richard Dawkins’ Biomorphs Implemented in JavaScript,http://www.emergentmind.com/biomorphs
+751,Lobsters,science,Science,FDA Approves Computer-Vision Blood-Loss-Monitoring System,http://www.additiveanalytics.com/blog/fda-approves-computer-vision-blood-loss-monitoring-system/
+752,Lobsters,science,Science,Moore's Law vs. a power law based on cumulative production: learning by doing wins,http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0052669
+753,Lobsters,science,Science,Improving GitHub for science,https://github.com/blog/1840-improving-github-for-science
+754,Lobsters,science,Science,The Low Quality of Scientific Code,http://techblog.bozho.net/?p=1423
+755,Lobsters,science,Science,Scientific computing’s future: Can any coding language top a 1950s behemoth?,http://arstechnica.com/science/2014/05/scientific-computings-future-can-any-coding-language-top-a-1950s-behemoth/1/
+756,Lobsters,science,Science,How To Generate Quantum Random Numbers With A Smartphone Camera,https://medium.com/the-physics-arxiv-blog/602f88552b64
+757,Lobsters,science,Science,Middle Initials Make You Seem Smarter; Simple Names More Trustworthy,http://www.newrepublic.com/article/117603/middle-initials-make-you-seem-smarter-simple-names-more-trustworthy
+758,Lobsters,science,Science,Stanford study finds walking improves creativity,http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html
+759,Lobsters,science,Science,Singe: Leveraging Warp Specialization for High Performance on GPUs,http://theory.stanford.edu/~aiken/publications/papers/ppopp14.pdf
+760,Lobsters,science,Science,Employee performance evaluations are often politically driven,http://www.overcomingbias.com/2014/04/more-broken-evals.html
+761,Lobsters,science,Science,Forensic Ballistics: How Apollo 12 Helped Solve the Skydiver Meteorite Mystery,http://www.planetary.org/blogs/guest-blogs/2014/0419-forensic-ballistics.html
+762,Lobsters,science,Science,"Noise, Dynamic Range, and Bit Depth in Digital SLRs",http://theory.uchicago.edu/~ejm/pix/20d/tests/noise/
+763,Lobsters,science,Science,NASA Cassini Images May Reveal Birth of a Saturn Moon,http://www.jpl.nasa.gov/news/news.php?release=2014-112
+764,Lobsters,science,Science,Cherry trees blossom six years early after a trip to space,http://www.engadget.com/2014/04/13/cherry-trees-blossom-six-years-early/
+765,Lobsters,science,Science,The distortion of fuel consumption measurement,http://datagenetics.com/blog/april12014/index.html
+766,Lobsters,science,Science,"Hugh Herr: The new bionics that let us run, climb and dance",http://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance
+767,Lobsters,science,Science,Gunshot victims to be put in suspended animation in new experiment,http://www.newscientist.com/article/mg22129623.000-gunshot-victims-to-be-suspended-between-life-and-death.html?full=true#.UzMok_ldXD4
+768,Lobsters,science,Science,First Ring System Discovered Around Asteroid,http://www.eso.org/public/news/eso1410/
+769,Lobsters,science,Science,Large Flywheel Ready to Store Power at 1MW Solar Plant,http://techon.nikkeibp.co.jp/english/NEWS_EN/20140312/339620/
+770,Lobsters,science,Science,Gravity Waves from Big Bang Detected,http://www.scientificamerican.com/article/gravity-waves-cmb-b-mode-polarization/
+771,Lobsters,science,Science,Be an Asteroid Hunter in NASA's First Asteroid Grand Challenge Contest Series,http://www.nasa.gov/press/2014/march/be-an-asteroid-hunter-in-nasas-first-asteroid-grand-challenge-contest-series/#.Ux59OvldWrM
+772,Lobsters,science,Science,Machine Gun Jetpack,https://what-if.xkcd.com/21/
+773,Lobsters,science,Science,Resolution of the Human Eye,http://www.clarkvision.com/imagedetail/eye-resolution.html
+774,Lobsters,science,Science,Autonomous Helicopter Aerobatics through Apprenticeship Learning,http://cs.stanford.edu/people/ang/?portfolio=autonomous-helicopter-aerobatics-through-apprenticeship-learning
+775,Lobsters,science,Science,"Physicists start thinking beyond the LHC, consider reviving the SSC",http://arstechnica.com/science/2014/02/physicists-start-thinking-beyond-the-lhc-consider-reviving-the-ssc/
+776,Lobsters,science,Science,Water Filtration Using Plant Xylem,http://www.plos.org/wp-content/uploads/2013/05/pone-9-2-boutilier.pdf
+777,Lobsters,science,Science,The audacious rescue plan that might have saved space shuttle Columbia,http://arstechnica.com/science/2014/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/
+778,Lobsters,science,Science,Stephen Wolfram's Introduction to the Wolfram Language - YouTube,https://www.youtube.com/watch?v=_P9HqHVPeik
+779,Lobsters,science,Science,The Near Impossibility of Measuring Returns to Advertising,http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2367103
+780,Lobsters,science,Science,"IEEE, Springer withdraw more than 120 gibberish papers",http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763
+781,Lobsters,science,Science,The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+782,Lobsters,science,Science,How High The Moon,http://www.solipsys.co.uk/cgi-bin/sews.py?HowHighTheMoon
+783,Lobsters,science,Science,Big Breakthroughs Come in Your Late 30s,http://www.theatlantic.com/health/archive/2014/02/big-breakthroughs-come-in-your-late-30s/283858/
+784,Lobsters,science,Science,Materials From Carl Sagan's College Courses Now Available Online,http://www.popsci.com/article/science/materials-carl-sagans-college-courses-now-available-online
+785,Lobsters,science,Science,"Bayer CEO Marijn Dekkers: Nexavar cancer drug is for ""western patients who can afford it.""",http://keionline.org/node/1910
+786,Lobsters,science,Science,Code review for science: What we learned | Mozilla Science Lab,http://mozillascience.org/code-review-for-science-what-we-learned/
+787,Lobsters,science,Science,America's Real Criminal Element: Lead,http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline
+788,Lobsters,science,Science,How to shelter from fallout after a nuclear attack on your city,http://io9.com/how-to-shelter-from-fallout-after-a-nuclear-attack-on-y-1502362584/@whitsongordon
+789,Lobsters,science,Science,An argument for code review of software attached to scientific publications,http://ivory.idyll.org/blog//kelleher-on-code-review.html
+790,Lobsters,science,Science,Using deep learning to listen for whales,http://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales/
+791,Lobsters,science,Science,Childhood amnesia kicks in around age 7,http://bps-research-digest.blogspot.cz/2014/01/childhood-amnesia-kicks-in-around-age-7.html
+792,Lobsters,science,Science,PLOS Biology: Best Practices for Scientific Computing,http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745
+793,Lobsters,science,Science,Growing up unvaccinated: This is what happens when your parents refuse,http://www.mamamia.com.au/social/vaccination-growing-up-unvaccinated/
+794,Lobsters,science,Science,OpenWorm,http://www.openworm.org/
+795,Lobsters,science,Science,To the Moon! (talk from Clojure/conj),http://www.youtube.com/watch?v=4Sso4HtvJsw
+796,Lobsters,science,Science,Henry Wang and Chris Curro invent The Rapid Packing Container,http://gazerlog.com/true-ingenuity-henry-wang-and-chris-curro-create-the-rapid-packing-container-video_1804e27c2.html
+797,Lobsters,science,Science,Former BP geologist: peak oil is here and it will 'break economies',http://www.theguardian.com/environment/earth-insight/2013/dec/23/british-petroleum-geologist-peak-oil-break-economy-recession
+798,Lobsters,science,Science,Enigma codebreaker Alan Turing receives royal pardon,http://www.theguardian.com/science/2013/dec/24/enigma-codebreaker-alan-turing-royal-pardon
+799,Lobsters,science,Science,"A Solar Boom So Successful, It's Been Halted",http://www.scientificamerican.com/article.cfm?id=a-solar-boom-so-successfull-its-been-halted
+800,Lobsters,science,Science,"Lunar crater: Aftermath of the March 17, 2013, impact event.",http://www.slate.com/blogs/bad_astronomy/2013/12/19/lunar_crater_aftermath_of_the_march_17_2013_impact_event.html
+801,Lobsters,science,Science,The Selling of Attention Deficit Disorder,http://www.nytimes.com/2013/12/15/health/the-selling-of-attention-deficit-disorder.html
+802,Lobsters,science,Science,DNA seen through the eyes of a coder,http://ds9a.nl/amazing-dna/
+803,Lobsters,science,Science,Chinese spacecraft lands on moon,http://www.theguardian.com/science/2013/dec/14/chinese-spacecraft-lands-moon-china
+804,Lobsters,science,Science,Study: There's no such thing as healthy obesity,http://thechart.blogs.cnn.com/2013/12/03/study-theres-no-such-thing-as-healthy-obesity/
+805,Lobsters,science,Science,Killing cancer like the common cold,http://www.cnn.com/2013/12/07/health/cohen-cancer-study/index.html?lobsters
+806,Lobsters,science,Science,Peter Higgs: I wouldn't be productive enough for today's academic system,http://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system?lobsters
+807,Lobsters,science,Science,The Next Ten Billion Years,http://thearchdruidreport.blogspot.co.uk/2013/09/the-next-ten-billion-years.html
+808,Lobsters,science,Science,Goiânia accident - Wikipedia,http://en.wikipedia.org/wiki/Goi%C3%A2nia_accident
+809,Lobsters,science,Science,"When We Lose Antibiotics, Here's Everything Else We'll Lose Too",http://www.wired.com/wiredscience/2013/11/end-abx/
+810,Lobsters,science,Science,Engineer's Disease,http://www.dansdata.com/gz145.htm
+811,Lobsters,science,Science,My deadly disease was just a 23andme bug,http://mntmn.com/pages/23andme.html
+812,Lobsters,science,Science,Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/
+813,Lobsters,science,Science,Putting the Wolfram Language (and Mathematica) on Every Raspberry Pi,http://blog.stephenwolfram.com/2013/11/putting-the-wolfram-language-and-mathematica-on-every-raspberry-pi/
+814,Lobsters,science,Science,Quantum ‘sealed envelope’ system enables “perfectly secure” information storage,http://www.cam.ac.uk/research/news/quantum-sealed-envelope-system-enables-perfectly-secure-information-storage
+815,Lobsters,science,Science,Time to Move On? The Case Against Daylight Saving Time,http://news.nationalgeographic.com/news/2013/11/131101-when-does-daylight-savings-time-end-november-3-science
+816,Lobsters,science,Science,Physics Database: Free Science Books,http://physicsdatabase.com/2013/10/27/even-more-free-science-books/
+817,Lobsters,science,Science,"The kilo is losing weight, changing all of science, but unfortunately we don’t know why",http://www.extremetech.com/extreme/169448-good-news-dieters-the-kilo-is-losing-weight-changing-all-of-science-but-unfortunately-we-dont-know-why
+818,Lobsters,science,Science,Gold growing on trees offers a new prospecting tool,http://www.zmescience.com/research/gold-growing-on-trees-offers-a-new-prospecting-tool/
+819,Lobsters,science,Science,How to Read a Scientific Paper (About That Researcher With a Nematode in His Mouth),http://www.wired.com/wiredscience/2013/10/how-to-read-a-research-paper-about-that-scientist-with-a-nematode-in-his-mouth/
+820,Lobsters,science,Science,California whooping cough outbreak in 2010 tied to vaccine refusal,http://blog.sfgate.com/chronrx/2013/10/01/whooping-cough-outbreak-in-2010-tied-to-vaccine-refusal/
+821,Lobsters,science,Science,Jewel at the Heart of Quantum Physics,https://www.simonsfoundation.org/quanta/20130917-a-jewel-at-the-heart-of-quantum-physics/
+822,Lobsters,science,Science,Found: The First Mechanical Gear in a Living Creature,http://www.popularmechanics.com/science/environment/the-first-gear-discovered-in-nature-15916433
+823,Lobsters,science,Science,Animated GIFs of deep space objects in 3D,http://earthsky.org/space/animated-gifs-of-deep-space-objects-in-3d
+824,Lobsters,science,Science,"Space Farming - NASA looks to grow fresh veggies, 230 miles above the Earth",http://modernfarmer.com/2013/09/starship-salad-bar/
+825,Lobsters,science,Science,The Psychiatric Drug Crisis,http://www.newyorker.com/online/blogs/elements/2013/09/psychiatry-prozac-ssri-mental-health-theory-discredited.html
+826,Lobsters,science,Science,Infectious disease doesn't care why you're unvaccinated,http://www.sciencebasedmedicine.org/i-refute-it-thus/
+827,Lobsters,science,Science,Video game boosts mental abilities in elderly,http://america.aljazeera.com/articles/2013/9/6/video-game-boostsmentalabilitiesinelderly.html
+828,Lobsters,science,Science,Scientists achieve first human-to-human 'mind meld',http://america.aljazeera.com/articles/2013/8/28/scientists-achievefirsteverhumantohumanmindmeld.html
+829,Lobsters,science,Science,Twisted Light Sends Data Through Optical Fiber for First Time (1.6 terrabits per second),http://spectrum.ieee.org/tech-talk/semiconductors/design/twisted-light-sends-data-through-optical-fiber-for-first-time
+830,Lobsters,science,Science,Levitating Superconductor on a Möbius strip,http://www.youtube.com/watch?v=zPqEEZa2Gis
+831,Lobsters,science,Science,Novel sub-diffraction method could mean DVD sized discs with 1PB capacity,http://theconversation.com/more-data-storage-heres-how-to-fit-1-000-terabytes-on-a-dvd-15306
+832,Lobsters,science,Science,Time Lapse Shows 9 Months of Curiosity's Mars Mission in 1 Minute,http://mashable.com/2013/05/27/mars-curiosity-time-lapse/
+833,Lobsters,science,Science,What Makes Code Hard to Understand?,http://arxiv.org/abs/1304.5257
+834,Lobsters,science,Science,How NASA brought the monstrous F-1 “moon rocket” engine back to life,http://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/
+835,Lobsters,science,Science,Caltech engineers build self-healing electronic chips that repair themselves,http://phys.org/news/2013-03-caltech-self-healing-electronic-chips.html
+836,Lobsters,science,Science,Storage glitch sends Curiosity into safe mode,http://www.theregister.co.uk/2013/03/03/curiosity_safe_mode/
+837,Lobsters,science,Science,America's Real Criminal Element: Lead,http://www.motherjones.com/print/208586
+838,Lobsters,science,Science,The folly of “The folly of scientism”,http://whyevolutionistrue.wordpress.com/2012/12/08/the-folly-of-the-folly-of-scientism/
+839,Lobsters,science,Science,The Folly of Scientism,http://www.thenewatlantis.com/publications/the-folly-of-scientism
+840,Lobsters,science,Science,A Talk by NASA Astronaut Donald Pettit on Doing Photography in Space,http://www.petapixel.com/2012/11/06/a-talk-by-nasa-astronaut-donald-pettit-on-doing-photography-in-space/
+841,Lobsters,science,Science,Parents race with time as sons age prematurely,http://articles.philly.com/2012-10-07/news/34306915_1_progeria-scott-berns-genetic-disease
+842,Lobsters,science,Science,"Why the future doesn't need us (Bill Joy, 2000)",http://www.wired.com/wired/archive/8.04/joy_pr.html
+843,Lobsters,science,Science,Stanford Bioengineers Introduce ‘Bi-Fi’ — The Biological Internet,http://engineering.stanford.edu/news/stanford-bioengineers-introduce-biological-internet
+844,Lobsters,science,Science,The Rockwell International Integrated Space Plan,http://blog.makezine.com/2012/09/13/the-rockwell-international-integrated-space-plan/
+845,Lobsters,science,Science,Needle beam - light beam that propagates over long distance without scattering,http://www.seas.harvard.edu/news-events/press-releases/needle-beam
+846,Lobsters,science,Science,Study Changes Understanding of How DNA Causes Disease,http://www.nytimes.com/2012/09/06/science/far-from-junk-dna-dark-matter-proves-crucial-to-health.html?_r=1&hp
+847,Lobsters,science,Science,The Hidden Truths about Calories,http://blogs.scientificamerican.com/guest-blog/2012/08/27/the-hidden-truths-about-calories/
+848,Lobsters,science,Science,Two Solitudes - CS theory vs practice,http://www.slideshare.net/gvwilson/two-solitudes
+849,Lobsters,science,Science,Stanford biologist and computer scientist discover the 'anternet',http://engineering.stanford.edu/news/stanford-biologist-computer-scientist-discover-anternet
+850,Lobsters,science,Science,Researchers return blood cells to stem cell state,http://medicalxpress.com/news/2012-08-blood-cells-stem-cell-state.html
+851,Lobsters,science,Science,"Nanocellulose: A cheap, conductive, stronger-than-Kevlar wonder material made from wood pulp",http://www.extremetech.com/extreme/134910-nanocellulose-a-cheap-conductive-stronger-than-kevlar-wonder-material-made-from-wood-pulp
+852,Lobsters,science,Science,Asteroid Mining: Interview with Planetary Resources founders,http://www.slate.com/articles/health_and_science/new_scientist/2012/08/asteroid_mining_by_planetary_resources_google_billionaires_are_backing_an_outlandish_venture_.single.html
+853,Lobsters,science,Science,"1,000,000,000,000 Frames/Second Photography - Ramesh Raskar - TED Talk",https://www.youtube.com/watch?v=SoHeWgLvlXI&feature=youtu.be
+854,Lobsters,science,Science,Anybody know how to white-balance the Mars Panorama?,/s/qvtsdo/anybody_know_how_white_balance_mars
+855,Lobsters,science,Science,Progress Isn't A Linear Development,http://theeuropean-magazine.com/263-heuer-rolf-dieter/788-science-and-the-public-sphere
+856,Lobsters,science,Science,Brain in a Dish Flies Plane,http://news.discovery.com/tech/brain-dish-flies-plane-041022.html
+857,Lobsters,science,Science,Scene of a Martian Landing,http://www.nasa.gov/mission_pages/msl/multimedia/PIA16001.html
+858,Lobsters,science,Science,First Color Image of the Martian Landscape Returned from Curiosity,http://mars.jpl.nasa.gov/msl/multimedia/images/?ImageID=4282
+859,Lobsters,science,Science,First image from Curiosity,https://p.twimg.com/Azl5SzUCEAAyouJ.jpg:large
+860,Lobsters,science,Science,Mars Science Laboratory: Raw Images,http://mars.jpl.nasa.gov/msl/multimedia/raw/
+861,Lobsters,science,Science,Mars Science Laboratory Curiosity Landing Timeline: What to Expect Tonight,http://spectrum.ieee.org/automaton/robotics/robotics-hardware/msl-what-to-expect-on-sunday-night#.UB8TWv-gwU8.hackernews
+862,Lobsters,science,Science,First Demonstration of A Quantum Router,http://www.technologyreview.com/view/428706/first-demonstration-of-a-quantum-router/
+863,Lobsters,science,Science,Whatever happened to kids' chemistry sets?,http://www.bbc.co.uk/news/magazine-19050342
+864,Lobsters,science,Science,Curiosity: NASA's Next Mars Rover,http://www.nasa.gov/mission_pages/msl/index.html
+865,Lobsters,science,Science,Bionic nose comming to a face near you!,http://www.youtube.com/watch?v=IehKFdJN7Hw
+866,Lobsters,science,Science,How much Force power can Yoda output?,http://what-if.xkcd.com/3/
+867,Lobsters,science,Science,Hubble Discovers a Fifth Moon Orbiting Pluto,http://hubblesite.org/newscenter/archive/releases/2012/32/
+868,Lobsters,science,Science,Relativistic Baseball,http://what-if.xkcd.com/1/
+869,Lobsters,science,Science,"Apocalypse, Not So Fast",http://www.sciencenews.org/view/generic/id/341976/title/Apocalypse%2C_not_so_fast
+870,Lobsters,science,Science,The Fantastic Machine That Found the Higgs Boson,http://www.theatlantic.com/infocus/2012/07/the-fantastic-machine-that-found-the-higgs-boson/100333/
+871,Lobsters,science,Science,"Cycles, Cells and Platters: An Empirical Analysis of Hardware Failures on a Million Consumer PCs",http://research.microsoft.com/pubs/144888/eurosys84-nightingale.pdf
+872,Lobsters,science,Science,CERN observes new particle consistent with Higgs boson,http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html
+873,Lobsters,science,Science,The One-second War (What Time Will You Die?),http://queue.acm.org/detail.cfm?id=1967009

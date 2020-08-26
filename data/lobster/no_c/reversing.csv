@@ -1,0 +1,904 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,reversing,Reverse engineering,Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos,http://www.righto.com/2020/08/reverse-engineering-8086s.html
+2,Lobsters,reversing,Reverse engineering,Inside a counterfeit 8086 processor,http://www.righto.com/2020/08/inside-counterfeit-8086-processor.html
+3,Lobsters,reversing,Reverse engineering,Reverse engineering an AI spaceship game at DEF CON CTF,https://thume.ca/2020/08/15/ropshipai/
+4,Lobsters,reversing,Reverse engineering,Moving From Common-Sense Knowledge About UEFI To Actually Dumping UEFI Firmware,https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/
+5,Lobsters,reversing,Reverse engineering,r2con2020,https://www.radare.org/con/2020/
+6,Lobsters,reversing,Reverse engineering,Latches inside: Reverse-engineering the Intel 8086's instruction register,http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
+7,Lobsters,reversing,Reverse engineering,Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities,https://github.com/sslab-gatech/pwn2own2020
+8,Lobsters,reversing,Reverse engineering,Reversing Lyft’s ride history API to analyze 6 years worth of rides,https://blog.jonlu.ca/posts/reversing-lyft
+9,Lobsters,reversing,Reverse engineering,Reverse-engineering the adder inside the Intel 8086,http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html
+10,Lobsters,reversing,Reverse engineering,Reverse Engineering Starling Bank (Part I): Obfuscation Techniques,https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html
+11,Lobsters,reversing,Reverse engineering,A reverse engineering challenge: an intricate visual pattern in 39 bytes,https://yurichev.com/news/20200731_visual_RE_challenge/
+12,Lobsters,reversing,Reverse engineering,Using Bullet for physics in UE4,https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/
+13,Lobsters,reversing,Reverse engineering,A playable archive of DEF CON CTF challenge,https://archive.ooo/
+14,Lobsters,reversing,Reverse engineering,BattlEye client emulation,https://secret.club/2020/07/06/bottleye.html
+15,Lobsters,reversing,Reverse engineering,OSX.EvilQuest Uncovered,https://objective-see.com/blog/blog_0x59.html
+16,Lobsters,reversing,Reverse engineering,Live from Adélie: Streaming Spotify on musl,https://catfox.life/2020/07/06/live-from-adelie-streaming-spotify-on-musl/
+17,Lobsters,reversing,Reverse engineering,Hardware breakpoints and exceptions on Windows,https://ling.re/hardware-breakpoints/
+18,Lobsters,reversing,Reverse engineering,Cutter - Free and Open Source RE Platform powered by radare2,https://cutter.re/
+19,Lobsters,reversing,Reverse engineering,Introduction to Reverse Engineering with Ghidra,https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
+20,Lobsters,reversing,Reverse engineering,"Guy Who Reverse-Engineered TikTok Reveals The Scary Things He Learned, Advises People To Stay Away From It",https://www.boredpanda.com/tik-tok-reverse-engineered-data-information-collecting/
+21,Lobsters,reversing,Reverse engineering,FreeDVDBoot - Hacking the PlayStation 2 through its DVD player,https://cturt.github.io/freedvdboot.html
+22,Lobsters,reversing,Reverse engineering,Analyzing item distribution in Super Metroid randomizer,https://xen.garden/2020/04/29/smrat-data.html
+23,Lobsters,reversing,Reverse engineering,Reverse Engineering Snapchat (Part II): Deobfuscating the Undeobfuscatable,https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html
+24,Lobsters,reversing,Reverse engineering,Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board,https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html
+25,Lobsters,reversing,Reverse engineering,Reverse-engineering and comparing two Game Boy audio amplifier chips,http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html
+26,Lobsters,reversing,Reverse engineering,Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos,http://www.righto.com/2020/08/reverse-engineering-8086s.html
+27,Lobsters,reversing,Reverse engineering,Inside a counterfeit 8086 processor,http://www.righto.com/2020/08/inside-counterfeit-8086-processor.html
+28,Lobsters,reversing,Reverse engineering,Reverse engineering an AI spaceship game at DEF CON CTF,https://thume.ca/2020/08/15/ropshipai/
+29,Lobsters,reversing,Reverse engineering,Moving From Common-Sense Knowledge About UEFI To Actually Dumping UEFI Firmware,https://labs.sentinelone.com/moving-from-common-sense-knowledge-about-uefi-to-actually-dumping-uefi-firmware/
+30,Lobsters,reversing,Reverse engineering,r2con2020,https://www.radare.org/con/2020/
+31,Lobsters,reversing,Reverse engineering,Latches inside: Reverse-engineering the Intel 8086's instruction register,http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
+32,Lobsters,reversing,Reverse engineering,Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities,https://github.com/sslab-gatech/pwn2own2020
+33,Lobsters,reversing,Reverse engineering,Reversing Lyft’s ride history API to analyze 6 years worth of rides,https://blog.jonlu.ca/posts/reversing-lyft
+34,Lobsters,reversing,Reverse engineering,Reverse-engineering the adder inside the Intel 8086,http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html
+35,Lobsters,reversing,Reverse engineering,Reverse Engineering Starling Bank (Part I): Obfuscation Techniques,https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html
+36,Lobsters,reversing,Reverse engineering,A reverse engineering challenge: an intricate visual pattern in 39 bytes,https://yurichev.com/news/20200731_visual_RE_challenge/
+37,Lobsters,reversing,Reverse engineering,Using Bullet for physics in UE4,https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/
+38,Lobsters,reversing,Reverse engineering,A playable archive of DEF CON CTF challenge,https://archive.ooo/
+39,Lobsters,reversing,Reverse engineering,BattlEye client emulation,https://secret.club/2020/07/06/bottleye.html
+40,Lobsters,reversing,Reverse engineering,OSX.EvilQuest Uncovered,https://objective-see.com/blog/blog_0x59.html
+41,Lobsters,reversing,Reverse engineering,Live from Adélie: Streaming Spotify on musl,https://catfox.life/2020/07/06/live-from-adelie-streaming-spotify-on-musl/
+42,Lobsters,reversing,Reverse engineering,Hardware breakpoints and exceptions on Windows,https://ling.re/hardware-breakpoints/
+43,Lobsters,reversing,Reverse engineering,Cutter - Free and Open Source RE Platform powered by radare2,https://cutter.re/
+44,Lobsters,reversing,Reverse engineering,Introduction to Reverse Engineering with Ghidra,https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
+45,Lobsters,reversing,Reverse engineering,"Guy Who Reverse-Engineered TikTok Reveals The Scary Things He Learned, Advises People To Stay Away From It",https://www.boredpanda.com/tik-tok-reverse-engineered-data-information-collecting/
+46,Lobsters,reversing,Reverse engineering,FreeDVDBoot - Hacking the PlayStation 2 through its DVD player,https://cturt.github.io/freedvdboot.html
+47,Lobsters,reversing,Reverse engineering,Analyzing item distribution in Super Metroid randomizer,https://xen.garden/2020/04/29/smrat-data.html
+48,Lobsters,reversing,Reverse engineering,Reverse Engineering Snapchat (Part II): Deobfuscating the Undeobfuscatable,https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html
+49,Lobsters,reversing,Reverse engineering,Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board,https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html
+50,Lobsters,reversing,Reverse engineering,Reverse-engineering and comparing two Game Boy audio amplifier chips,http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html
+51,Lobsters,reversing,Reverse engineering,A look at the die of the 8086 processor,http://www.righto.com/2020/06/a-look-at-die-of-8086-processor.html
+52,Lobsters,reversing,Reverse engineering,Using Frida For Windows Reverse Engineering,https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html
+53,Lobsters,reversing,Reverse engineering,Reverse Engineering Snapchat (Part I): Obfuscation Techniques,https://hot3eed.github.io/snap_part1_obfuscations.html
+54,Lobsters,reversing,Reverse engineering,From directory deletion to SYSTEM shell,https://secret.club/2020/04/23/directory-deletion-shell.html
+55,Lobsters,reversing,Reverse engineering,GE Filtergate,https://gefiltergate.com/
+56,Lobsters,reversing,Reverse engineering,Die analysis of the 8087 math coprocessor's fast bit shifter,http://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html
+57,Lobsters,reversing,Reverse engineering,Reverse engineering oracle protocol,http://noss.github.io/2009/04/28/reverse-engineering-oracle-protocol.html
+58,Lobsters,reversing,Reverse engineering,"Verifying Windows binaries, without Windows",https://blog.trailofbits.com/2020/05/27/verifying-windows-binaries-without-windows/
+59,Lobsters,reversing,Reverse engineering,Hacking Reolink cameras for fun and profit,https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/
+60,Lobsters,reversing,Reverse engineering,Decompilation vs. Disassembly,https://www.hex-rays.com/products/decompiler/compare_vs_disassembly/
+61,Lobsters,reversing,Reverse engineering,Finding secrets by decompiling Python bytecode in public repositories,https://blog.jse.li/posts/pyc/
+62,Lobsters,reversing,Reverse engineering,Decomposing Professional Composer,https://blitter.net/blog/2020/05/10/decomposing-professional-composer/
+63,Lobsters,reversing,Reverse engineering,Exploration of svchost.exe /P flag,https://pusha.be/index.php/2020/05/07/exploration-of-svchost-exe-p-flag/
+64,Lobsters,reversing,Reverse engineering,Remapping Python Opcodes,https://medium.com/tenable-techblog/remapping-python-opcodes-67d79586bfd5
+65,Lobsters,reversing,Reverse engineering,Remote code execution on Nintendo 64 through Morita Shogi 64,https://cturt.github.io/shogihax.html
+66,Lobsters,reversing,Reverse engineering,Beyond emulation: The massive effort to reverse-engineer N64 source code,https://arstechnica.com/gaming/2020/05/beyond-emulation-the-massive-effort-to-reverse-engineer-n64-source-code/
+67,Lobsters,reversing,Reverse engineering,Reverse-engineering the audio chip in the Nintendo Game Boy Color,http://www.righto.com/2020/05/reverse-engineering-audio-chip-in.html
+68,Lobsters,reversing,Reverse engineering,Cracking Age of Empires III over shader quality settings,https://medium.com/@lancelot.deferriere/cracking-age-of-empires-iii-over-shader-quality-settings-7f729528cf1d
+69,Lobsters,reversing,Reverse engineering,Bringing a decade old vector editor back to life,https://github.com/ChrisMiuchiz/Plasma-Writeup
+70,Lobsters,reversing,Reverse engineering,A static injector of dynamic library for application,https://github.com/lanoox/luject
+71,Lobsters,reversing,Reverse engineering,Patchguard: Detection of Hypervisor Based Instrospection [P1],https://revers.engineering/patchguard-detection-of-hypervisor-based-instrospection-p1/
+72,Lobsters,reversing,Reverse engineering,Restoring the gold filter in Deus Ex: Human Revolution - Director’s Cut,https://cookieplmonster.github.io/2020/04/26/dxhr-dc-gold-filter/
+73,Lobsters,reversing,Reverse engineering,Mount & Blade: Warband Reverse Engineering,https://reversing.games/jekyll/update/2020/04/23/mount-blade-warband-infodump.html
+74,Lobsters,reversing,Reverse engineering,A Month of Reconstructing ZZT,https://museumofzzt.com/article/468/a-month-of-reconstructing-zzt
+75,Lobsters,reversing,Reverse engineering,How Escape from Tarkov ensures game integrity,https://secret.club/2020/04/16/mono-integrity.html
+76,Lobsters,reversing,Reverse engineering,Reverse-engineering the TL431: the most common chip you've never heard of,http://www.righto.com/2014/05/reverse-engineering-tl431-most-common.html
+77,Lobsters,reversing,Reverse engineering,How I Reverse Engineered the LastPass CLI Tool,http://adventures.michaelfbryan.com/posts/lastpass/
+78,Lobsters,reversing,Reverse engineering,How anti-cheats detect system emulation,https://secret.club/2020/04/13/how-anti-cheats-detect-system-emulation.html
+79,Lobsters,reversing,Reverse engineering,CVEAC-2020: Bypassing EasyAntiCheat integrity checks,https://secret.club/2020/04/08/eac_integrity_check_bypass.html
+80,Lobsters,reversing,Reverse engineering,Exploit Development - The Magic in Hacking,https://0x00sec.org/t/exploit-development-the-magic-in-hacking/20349
+81,Lobsters,reversing,Reverse engineering,The missing Samsung EVO 840 - 250 GB SSD Repair Manual,http://www2.futureware.at/~philipp/ssd/TheMissingManual.pdf
+82,Lobsters,reversing,Reverse engineering,In Depth: The Game Boy Printer,https://shonumi.github.io/articles/art2.html
+83,Lobsters,reversing,Reverse engineering,"With IoT, Common Devices Pose New Threats",https://www.coalfire.com/The-Coalfire-Blog/April-2020/With-IoT-Common-Devices-Pose-New-Threats
+84,Lobsters,reversing,Reverse engineering,How we recovered over $300K of Bitcoin,https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/
+85,Lobsters,reversing,Reverse engineering,BattlEye reverse engineer tracking,https://secret.club/2020/03/31/battleye-developer-tracking.html
+86,Lobsters,reversing,Reverse engineering,How an anti ad-blocker works: Reverse-engineering BlockAdBlock,https://xy2.dev/article/re-bab/
+87,Lobsters,reversing,Reverse engineering,SilentPatch for Scarface: The World is Yours & launching a Patreon campaign,https://cookieplmonster.github.io/2020/03/29/silentpatch-scarface/
+88,Lobsters,reversing,Reverse engineering,Undocumented CPU behavior: analyzing undocumented opcodes on Intel x86-64,https://www.cattius.com/images/undocumented-cpu-behavior.pdf
+89,Lobsters,reversing,Reverse engineering,Windows Kernel Ps Callbacks Experiments,http://deniable.org/windows/windows-callbacks
+90,Lobsters,reversing,Reverse engineering,The polygons of DOOM: PSX,http://fabiensanglard.net/doom_psx/index.html
+91,Lobsters,reversing,Reverse engineering,Pentesting a banking FTP service,https://blog.lexfo.fr/pentesting-pesit-ftp.html
+92,Lobsters,reversing,Reverse engineering,Reverse engineering Blind’s API and client side encryption,https://blog.jldc.me/posts/decrypting-blind
+93,Lobsters,reversing,Reverse engineering,Reversing Firmware With Radare,https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html
+94,Lobsters,reversing,Reverse engineering,Analyzing SUID Binaries,https://blog.grimm-co.com/post/analyzing-suid-binaries/
+95,Lobsters,reversing,Reverse engineering,DOOM95: Making an aimbot,https://0x00sec.org/t/doom95-making-an-aimbot/19862
+96,Lobsters,reversing,Reverse engineering,The case of the missing WAV audio files on the FAT32 SD Card,https://www.hanselman.com/blog/CSITheCaseOfTheMissingWAVAudioFilesOnTheFAT32SDCard.aspx
+97,Lobsters,reversing,Reverse engineering,Reconstruction of ZZT,https://github.com/asiekierka/reconstruction-of-zzt/
+98,Lobsters,reversing,Reverse engineering,MMD-0066-2020 - Linux/Mirai-Fbot - A re-emerged IoT threat,https://blog.malwaremustdie.org/2020/02/mmd-0065-2021-linuxmirai-fbot-re.html
+99,Lobsters,reversing,Reverse engineering,Vicious Panda: The COVID Campaign,https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/
+100,Lobsters,reversing,Reverse engineering,Project Sandcastle: Android for the iPhone,https://projectsandcastle.org/
+101,Lobsters,reversing,Reverse engineering,Reverse engineering checkra1n stage2(pongoOS) and stage3(kpf) binary,http://misty.moe/2020/03/01/reverse-engineering-checkra1n-stage2pongoos-and-stage3kpf-binary/
+102,Lobsters,reversing,Reverse engineering,Defeating a Laptop's BIOS Password,https://github.com/skysafe/reblog/blob/master/0000-defeating-a-laptops-bios-password/README.md
+103,Lobsters,reversing,Reverse engineering,Analysis of a VBS Malware Dropper,https://medium.com/maverislabs/analysis-of-a-vbs-malware-dropper-2e1705da9510
+104,Lobsters,reversing,Reverse engineering,Writing a GHIDRA Loader: STM32 Edition,http://wrongbaud.github.io/writing-a-ghidra-loader/
+105,Lobsters,reversing,Reverse engineering,Dollar Store LED Bulb,http://electronupdate.blogspot.com/2019/12/dollar-store-led-bulb.html
+106,Lobsters,reversing,Reverse engineering,Make Your Own ColecoVision At Home (Part 1 - Design),https://www.leadedsolder.com/2020/02/16/colecovision-diy-part-1.html
+107,Lobsters,reversing,Reverse engineering,An In-Depth Technical Analysis of CurveBall (CVE-2020-0601),https://blog.trendmicro.com/trendlabs-security-intelligence/an-in-depth-technical-analysis-of-curveball-cve-2020-0601/
+108,Lobsters,reversing,Reverse engineering,Dissecting the Windows Defender Driver - WdFilter (Part 1),https://n4r1b.netlify.com/posts/2020/01/dissecting-the-windows-defender-driver-wdfilter-part-1/
+109,Lobsters,reversing,Reverse engineering,"Working on hard, ambitious graphics software for the dream of FOSS",https://www.sourcesort.com/interview/alyssa-rosenzweig-panfrost
+110,Lobsters,reversing,Reverse engineering,Teardown: Windows 10 on ARM - x86 Emulation,https://threatvector.cylance.com/en_us/home/teardown-windows-10-on-arm-x86-emulation.html
+111,Lobsters,reversing,Reverse engineering,Reverse engineering my router's firmware with binwalk,https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/
+112,Lobsters,reversing,Reverse engineering,Analyzing WhatsApp Calls,https://medium.com/@schirrmacher/analyzing-whatsapp-calls-176a9e776213
+113,Lobsters,reversing,Reverse engineering,Manticore: Symbolic execution for humans,https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/
+114,Lobsters,reversing,Reverse engineering,Research In Motion’s BlackBerry Wireless E-Mail Devices: Decoding the Mobitex protocol (2002),http://grandideastudio.com/wp-content/uploads/blackberry_decoding_paper.pdf
+115,Lobsters,reversing,Reverse engineering,gaul/awesome-ld-preload,https://github.com/gaul/awesome-ld-preload/blob/master/README.md
+116,Lobsters,reversing,Reverse engineering,The Infinite Loop That Wasn't: A Holy Grail Bug Story,https://mgba.io/2020/01/25/infinite-loop-holy-grail/
+117,Lobsters,reversing,Reverse engineering,BattlEye communication hook,https://vmcall.blog/battleye-communication-hook/
+118,Lobsters,reversing,Reverse engineering,FE Hackerakademi CTF 2019 Writeup,https://astr.cc/blog/fe-ctf-2019-writeup/
+119,Lobsters,reversing,Reverse engineering,The Edge of Emulation,https://byuu.org/articles/edge-of-emulation
+120,Lobsters,reversing,Reverse engineering,Professor Hawking's Voice,http://www.chiark.greenend.org.uk/~peterb/hawking/
+121,Lobsters,reversing,Reverse engineering,Reversed Engineered SDK for Aorus RGB Keyboard,https://github.com/Nesh108/MyAorusKeyboardSDK
+122,Lobsters,reversing,Reverse engineering,Reverse Engineering the BMW Connected Apps Protocol,https://hufman.github.io/stories/bmwconnectedapps
+123,Lobsters,reversing,Reverse engineering,Analyzing Magecart Malware – From Zero to Hero,https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero/
+124,Lobsters,reversing,Reverse engineering,BattlEye hypervisor detection,https://vmcall.blog/battleye-hypervisor-detection/
+125,Lobsters,reversing,Reverse engineering,Cracking the Agrippa Code (1992),https://www.robertxiao.ca/hacking/agrippa/
+126,Lobsters,reversing,Reverse engineering,Team Builds the First Living Robots,https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots
+127,Lobsters,reversing,Reverse engineering,BattlEye single stepping,https://vmcall.blog/battleye-kernel-single-step/
+128,Lobsters,reversing,Reverse engineering,Let’s Reverse Engineer Discord,https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626
+129,Lobsters,reversing,Reverse engineering,Browser Games Aren't an Easy Target,http://jakob.space/blog/browser-games-aren-t-an-easy-target.html
+130,Lobsters,reversing,Reverse engineering,BattlEye stack walking,https://vmcall.blog/battleye-stack-walking/
+131,Lobsters,reversing,Reverse engineering,"""16 Shades of Grey"" - Building a Psion/EPOC32 Emulator",https://wuffs.org/blog/building-a-psion-emulator
+132,Lobsters,reversing,Reverse engineering,Reversing Web Assembly (WASM),https://anee.me/reversing-web-assembly-wasm-dd59eb2a52d4
+133,Lobsters,reversing,Reverse engineering,Exploiting Spiderman 2000: Buffer overflow in file loading routine,https://krystalgamer.github.io/spidey-buffer-overflow/
+134,Lobsters,reversing,Reverse engineering,CPU Introspection: Intel Load Port Snooping,https://gamozolabs.github.io/metrology/2019/12/30/load-port-monitor.html
+135,Lobsters,reversing,Reverse engineering,Reverse Engineering Carrot Crazy - Part 1 - Passwords,https://www.huderlem.com/blog/posts/carrot-crazy-1/
+136,Lobsters,reversing,Reverse engineering,Intel Processor Trace for System Management Mode (ring-2) code tracing,https://sysenter-eip.github.io/intel_pt_smm.html
+137,Lobsters,reversing,Reverse engineering,Reverse Engineering a TCP protocol,https://medium.com/@foghina/reverse-engineering-a-tcp-protocol-455d248d68fa
+138,Lobsters,reversing,Reverse engineering,"Mass Surveillance, is an (un)Complicated Business",https://objective-see.com/blog/blog_0x52.html
+139,Lobsters,reversing,Reverse engineering,What I Learned from Reverse Engineering Windows Containers,https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/
+140,Lobsters,reversing,Reverse engineering,Glitching For n00bs,http://media.ccc.de/browse/congress/2014/31c3_-_6499_-_en_-_saal_2_-_201412271715_-_glitching_for_n00bs_-_exide.html
+141,Lobsters,reversing,Reverse engineering,reMarkable: the perfect tablet for academics,https://artagnon.com/articles/rM
+142,Lobsters,reversing,Reverse engineering,New macOS Bundlore Loader analysis,https://blog.confiant.com/new-macos-bundlore-loader-analysis-ca16d19c058c
+143,Lobsters,reversing,Reverse engineering,Lazarus Group Goes 'Fileless': an implant w/ remote download & in-memory execution,https://objective-see.com/blog/blog_0x51.html
+144,Lobsters,reversing,Reverse engineering,Rock the Cash Box,https://medium.com/@spiceywasabi/7724332663d2
+145,Lobsters,reversing,Reverse engineering,"Hacking doom for fun, health and ammo",https://sensepost.com/blog/2019/hacking-doom-for-fun-health-and-ammo/
+146,Lobsters,reversing,Reverse engineering,Obfuscation via Encryption: Real-World Reverse Engineering of APIs,https://lucasbaizer.dev/blog/0
+147,Lobsters,reversing,Reverse engineering,How to Debug a Third Party Android App,https://camg.me/debug-third-party-android-apps/
+148,Lobsters,reversing,Reverse engineering,Analysis of the 2015 ESET Crackme challenge,https://lyxica.github.io/ESET.pdf
+149,Lobsters,reversing,Reverse engineering,Extending proprietary PC embedded controller firmware,https://mjg59.dreamwidth.org/53703.html
+150,Lobsters,reversing,Reverse engineering,CVE-2019-1347: When a mouse over a file is enough to crash your system,https://blog.tetrane.com/2019/11/12/pe-parser-crash.html
+151,Lobsters,reversing,Reverse engineering,Intro to Hardware Reversing: Finding a UART and getting a shell,https://www.youtube.com/watch?v=ZmZuKA-Rst0
+152,Lobsters,reversing,Reverse engineering,Build your own React,https://pomb.us/build-your-own-react/
+153,Lobsters,reversing,Reverse engineering,Hacking in to an Archer MR200 router for fun and profit,https://www.härdin.se/blog/2019/11/11/hacking-in-to-an-archer-mr200-router-for-fun-and-profit/
+154,Lobsters,reversing,Reverse engineering,Bypassing kernel function pointer integrity checks,https://vmcall.blog/nt/2019/11/06/kernel-code-alignment.html
+155,Lobsters,reversing,Reverse engineering,Modding Games and Freezing Fish,https://blog.witchoflight.com/2019/modding-games-and-freezing-fish/
+156,Lobsters,reversing,Reverse engineering,Isolating the logic of an encrypted protocol with LIEF and kaitai,https://x-c3ll.github.io/posts/blackbox-lief-kaitai/
+157,Lobsters,reversing,Reverse engineering,Retro shellcoding for current threats: rebinding sockets in Windows,https://www.shelliscoming.com/2019/11/retro-shellcoding-for-current-threats.html
+158,Lobsters,reversing,Reverse engineering,Destroying x86_64 instruction decoders with differential fuzzing,https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/
+159,Lobsters,reversing,Reverse engineering,Technical Deep Dive: How does Retroactive work?,https://medium.com/@cormiertyshawn895/deep-dive-how-does-retroactive-work-95fe0e5ea49e
+160,Lobsters,reversing,Reverse engineering,Could a Neuroscientist Understand a Microprocessor?,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
+161,Lobsters,reversing,Reverse engineering,Technical analysis of the checkm8 exploit,https://habr.com/en/company/dsec/blog/472762/
+162,Lobsters,reversing,Reverse engineering,Fixing a corrupt sqlite3 database with vbindiff,https://www.härdin.se/blog/2019/10/20/fixing-a-corrupt-sqlite3-database-with-vbindiff/
+163,Lobsters,reversing,Reverse engineering,Prepare your Android emulator for reverse engineering,http://dev.libreneitor.com/prepare-your-android-emulator-for-reverse-engineering/
+164,Lobsters,reversing,Reverse engineering,Letting Birds scooters fly free,https://mjg59.dreamwidth.org/53258.html
+165,Lobsters,reversing,Reverse engineering,Hooking the graphics kernel subsystem,https://vmcall.blog/nt/2019/10/18/kernel_gdi_hook.html
+166,Lobsters,reversing,Reverse engineering,Boeing 737 real cockpit simulator conversion,https://www.youtube.com/watch?v=YaGVz9wZBis
+167,Lobsters,reversing,Reverse engineering,Pass the AppleJeus,https://objective-see.com/blog/blog_0x49.html
+168,Lobsters,reversing,Reverse engineering,A Ghidra loader for the Linear eXecutable format,https://oshogbo.vexillium.org/blog/70/
+169,Lobsters,reversing,Reverse engineering,Google: polling like it's the 90s,https://www.ably.io/blog/google-polling-like-its-the-90s/
+170,Lobsters,reversing,Reverse engineering,Glance Clock BLE protocol reverse-engineered,https://github.com/Hypfer/glance-clock
+171,Lobsters,reversing,Reverse engineering,Entombed: An archaeological examination of an Atari 2600 game (2018),https://arxiv.org/abs/1811.02035
+172,Lobsters,reversing,Reverse engineering,MMD-0064-2019 - Linux/AirDropBot,https://blog.malwaremustdie.org/2019/09/mmd-0064-2019-linuxairdropbot.html
+173,Lobsters,reversing,Reverse engineering,Solving a Danish Defense Intelligence Puzzle,http://irkenkitties.com/blog/2017/08/19/solving-danish-defense-intelligence-puzzle
+174,Lobsters,reversing,Reverse engineering,OSX/Shlayer new Shurprise.. unveiling OSX/Tarmac,https://blog.confiant.com/osx-shlayer-new-shurprise-unveiling-osx-tarmac-f965a32de887
+175,Lobsters,reversing,Reverse engineering,CPU Adventure – Unknown CPU Reversing,https://www.robertxiao.ca/hacking/dsctf-2019-cpu-adventure-unknown-cpu-reversing/
+176,Lobsters,reversing,Reverse engineering,The secret life of GPS trackers,https://decoded.avast.io/martinhron/the-secret-life-of-gps-trackers/
+177,Lobsters,reversing,Reverse engineering,Bypassing LinkedIn Search Limit by Playing With API,https://habr.com/en/post/466801/
+178,Lobsters,reversing,Reverse engineering,The weird and wonderful CIC,https://hackmii.com/2010/01/the-weird-and-wonderful-cic/
+179,Lobsters,reversing,Reverse engineering,DECAF: Dynamic Executable Code Analysis Framework,https://github.com/decaf-project/DECAF
+180,Lobsters,reversing,Reverse engineering,Rooting RouterOS with a USB Drive,https://medium.com/tenable-techblog/rooting-routeros-with-a-usb-drive-16d7b8665f90
+181,Lobsters,reversing,Reverse engineering,Reverse emulating the NES to give it SUPER POWERS,https://www.youtube.com/watch?v=ar9WRwCiSr0
+182,Lobsters,reversing,Reverse engineering,OpenDrop: an Open Source AirDrop Implementation,https://github.com/seemoo-lab/opendrop
+183,Lobsters,reversing,Reverse engineering,Glitching a $20k Piece of History,https://yifan.lu/2019/08/16/glitching-a-20k-piece-of-history/
+184,Lobsters,reversing,Reverse engineering,The state of advanced code injections,https://adalogics.com/blog/the-state-of-advanced-code-injections
+185,Lobsters,reversing,Reverse engineering,Say Cheese: Ransomware-ing a DSLR Camera,https://research.checkpoint.com/say-cheese-ransomware-ing-a-dslr-camera/
+186,Lobsters,reversing,Reverse engineering,Xbox 360 -> Windows Recompiler,https://github.com/rexdex/recompiler
+187,Lobsters,reversing,Reverse engineering,Apple Confirms $1 Million Reward For Anyone Who Can Hack An iPhone,https://www.forbes.com/sites/thomasbrewster/2019/08/08/apple-confirms-1-million-reward-for-hackers-who-find-serious-iphone-vulnerabilities/
+188,Lobsters,reversing,Reverse engineering,APRR - of Apple hardware secrets,https://siguza.github.io/APRR/
+189,Lobsters,reversing,Reverse engineering,I found an easter egg from 1977,https://selectbutton.net/t/i-found-an-easter-egg-from-1977/8828
+190,Lobsters,reversing,Reverse engineering,Taking a Long Look at QUIC (2017),https://conferences.sigcomm.org/imc/2017/papers/imc17-final39.pdf
+191,Lobsters,reversing,Reverse engineering,"How to make compressed file quines, step by step",https://blog.matthewbarber.io//2019/07/22/how-to-make-compressed-file-quines.html
+192,Lobsters,reversing,Reverse engineering,Reverse engineering copy protection of Gumball for Apple II,https://ia800402.us.archive.org/34/items/Gumball4amCrack/Gumball%20%284am%20%26%20san%20inc%20crack%29.txt
+193,Lobsters,reversing,Reverse engineering,Apple bleee. Everyone knows What Happens on Your iPhone,https://hexway.io/blog/apple-bleee/
+194,Lobsters,reversing,Reverse engineering,Dungeon Generation in Diablo 1,https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/
+195,Lobsters,reversing,Reverse engineering,"MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link",https://www.usenix.org/system/files/sec19fall_stute_prepub.pdf
+196,Lobsters,reversing,Reverse engineering,Reversing Without Reversing,https://www.youtube.com/watch?v=2D9ExVc0G10
+197,Lobsters,reversing,Reverse engineering,"PHDays ""Best Reverser"" contest (SEGA Genesis/MD ROM) write-up",http://romhack.github.io/doc/segaBestReverserWriteup/
+198,Lobsters,reversing,Reverse engineering,Burned by Fire(fox),https://objective-see.com/blog/blog_0x43.html
+199,Lobsters,reversing,Reverse engineering,The hard way to recover the IBM 5100 Non-executable ROS,https://github.com/stepleton/5100NonExecutableROSDecode/blob/master/WRITEUP.md
+200,Lobsters,reversing,Reverse engineering,Time For Some Function Recovery,https://lekstu.ga/posts/pclntab-function-recovery/
+201,Lobsters,reversing,Reverse engineering,Two years of postmarketOS,https://postmarketos.org/blog/2019/06/23/two-years/
+202,Lobsters,reversing,Reverse engineering,Operation Crack: Hacking IDA Pro Installer PRNG from an Unusual Way,https://devco.re/blog/2019/06/21/operation-crack-hacking-IDA-Pro-installer-PRNG-from-an-unusual-way-en/
+203,Lobsters,reversing,Reverse engineering,Trinity: PSP Emulator Escape,https://theofficialflow.github.io/2019/06/18/trinity.html
+204,Lobsters,reversing,Reverse engineering,Fuzzing Games with Dolphin Emulator,https://jamchamb.github.io/portfolio/fuzzydolphin
+205,Lobsters,reversing,Reverse engineering,The i.MX8 cannot be deblobbed,https://www.devever.net/~hl/imx8
+206,Lobsters,reversing,Reverse engineering,Python for Reverse Engineering #1: ELF Binaries,https://icyphox.sh/blog/python-for-re-1/
+207,Lobsters,reversing,Reverse engineering,Complete removal of Intel ME firmware possible on certain Intel HEDT/Server platforms,https://github.com/corna/me_cleaner/issues/278
+208,Lobsters,reversing,Reverse engineering,Today's random discovery: The PS1 game Spongebob Squarepants: Supersponge violates the GPL,https://twitter.com/foone/status/1137120829005750272
+209,Lobsters,reversing,Reverse engineering,Skiptracing: Reversing Spotify.app,https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d
+210,Lobsters,reversing,Reverse engineering,MindShaRE: Hardware Reversing with the Belkin Surf N300 Router,https://www.thezdi.com/blog/2019/6/6/mindshare-hardware-reversing-with-the-belkin-surf-n300-router
+211,Lobsters,reversing,Reverse engineering,Return Oriented Programming on ARM (32-bit),https://icyphox.sh/blog/rop-on-arm
+212,Lobsters,reversing,Reverse engineering,Reverse Engineering of a Not-so-Secure IoT Device,https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/
+213,Lobsters,reversing,Reverse engineering,Hacking IOS Xamarin apps with Frida,https://orangewirelabs.wordpress.com/2019/05/30/hacking-ios-xamarin-apps-with-frida/
+214,Lobsters,reversing,Reverse engineering,Implementing a New CPU Architecture for Ghidra,https://docs.google.com/presentation/d/1b955DV2ii-Dgv6YR4kUrJtjGugEqXD3FffTHRfvVSYo/edit?usp=sharing
+215,Lobsters,reversing,Reverse engineering,Kaypro II Rom Dissection,https://www.scd31.com/blog/kaypro.html
+216,Lobsters,reversing,Reverse engineering,A Documenting of the Russian Roulette CHIP-8 Game,http://verisimilitudes.net/2018-08-28
+217,Lobsters,reversing,Reverse engineering,RTG Specification,https://github.com/hlandau/ortega/blob/master/rtg-spec.md
+218,Lobsters,reversing,Reverse engineering,Turbo Pascal 3.0 compiler and code generation internals,https://pcengines.ch/tp3.htm
+219,Lobsters,reversing,Reverse engineering,Hacking the Subway Android app (2018),http://ls-la.fyi/subway-xposed/
+220,Lobsters,reversing,Reverse engineering,A Journey Into the Ether: Debugging Star Microcode,https://engblg.livingcomputers.org/index.php/2019/03/29/833/
+221,Lobsters,reversing,Reverse engineering,How to Create a Malware Detection System With Machine Learning,https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/#.XOXPbZSbnyM.twitter
+222,Lobsters,reversing,Reverse engineering,Brute-forcing the fastest run of NES Arkanoid,http://tasvideos.org/6347S.html
+223,Lobsters,reversing,Reverse engineering,"Sony, Rootkits and Digital Rights Management Gone Too Far (2005)",https://blogs.technet.microsoft.com/markrussinovich/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far/
+224,Lobsters,reversing,Reverse engineering,Decrypting Eazfuscator.NET encrypted symbol names,https://blog.silentsignal.eu/2019/05/10/decrypting-eazfuscator-net-encrypted-symbol-names/
+225,Lobsters,reversing,Reverse engineering,Looking inside the box,https://anvilventures.com/blog/looking-inside-the-box.html
+226,Lobsters,reversing,Reverse engineering,"Pippin disc authentication algorithm reversed, signing keys recovered",https://blitter.net/blog/2019/05/04/exploring-the-pippin-roms-part-7-a-lot-to-digest
+227,Lobsters,reversing,Reverse engineering,Darling Progress Report Q1 2019,http://blog.darlinghq.org/2019/05/darling-progress-report-q1-2019.html
+228,Lobsters,reversing,Reverse engineering,"Hardware Reverse Engineering: Access, Analyze, and Defeat (2011)",https://media.blackhat.com/bh-dc-11/Grand/BlackHat_DC_2011_Grand-Workshop.pdf
+229,Lobsters,reversing,Reverse engineering,"Insulin Pumps, Decapped Chips and Software Defined Radios",https://blog.usejournal.com/insulin-pumps-decapped-chips-and-software-defined-radios-1be50f121d05
+230,Lobsters,reversing,Reverse engineering,Reverse Engineering a North Korean Sim City Game,https://digitalnk.com/blog/2019/04/21/reverse-engineering-a-north-korean-sim-city-game/
+231,Lobsters,reversing,Reverse engineering,Mastering Motion,https://dolphin-emu.org/blog/2019/04/26/mastering-motion/
+232,Lobsters,reversing,Reverse engineering,rePalm - PalmOS on new hardware,http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
+233,Lobsters,reversing,Reverse engineering,Behavioral Analysis of Obfuscated Code,https://pdfs.semanticscholar.org/7e88/2053c31831399b730e9b9cc5e9bec00f8e7c.pdf
+234,Lobsters,reversing,Reverse engineering,"Mac Adware, à la Python",https://objective-see.com/blog/blog_0x3F.html
+235,Lobsters,reversing,Reverse engineering,Get the RSS feed url from an Apple Podcasts url using curl and jq,https://write.as/informative-jottings/get-the-rss-feed-url-from-an-apple-podcasts-url-using-curl-and-jq
+236,Lobsters,reversing,Reverse engineering,Reverse-engineering Broadcom wireless chipsets,https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html
+237,Lobsters,reversing,Reverse engineering,Adventures in reverse engineering Broadcom NIC firmware,https://www.devever.net/~hl/ortega
+238,Lobsters,reversing,Reverse engineering,Jailbreaking Subaru StarLink,https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md
+239,Lobsters,reversing,Reverse engineering,Using NSA Ghidra to hack a gaming keyboard,https://www.youtube.com/watch?v=kSSxJTpoLGo
+240,Lobsters,reversing,Reverse engineering,"Elixir protocols, how do they work? the erlang perspective",http://marianoguerra.org/posts/elixir-protocols-how-do-they-work-the-erlang-perspective.html
+241,Lobsters,reversing,Reverse engineering,How I discovered an easter egg in Android's security and didn't land a job at Google,https://habr.com/en/post/446790/
+242,Lobsters,reversing,Reverse engineering,CTCSS fingerprinting: a method for transmitter identification,http://www.windytan.com/2016/10/ctcss-fingerprinting-method-for.html
+243,Lobsters,reversing,Reverse engineering,Accurate Recovery of Functions in COTS Binaries (2017),http://seclab.cs.sunysb.edu/seclab/pubs/ruith.pdf
+244,Lobsters,reversing,Reverse engineering,NSA's Ghidra source code released,https://github.com/NationalSecurityAgency/ghidra
+245,Lobsters,reversing,Reverse engineering,Investigating a recent ebook DRM system (c. 2018),https://yingtongli.me/blog/2019/03/28/drm2.html
+246,Lobsters,reversing,Reverse engineering,Exodus: New Android Spyware Made in Italy,https://securitywithoutborders.org/blog/2019/03/29/exodus.html
+247,Lobsters,reversing,Reverse engineering,Intel VISA: Through the Rabbit Hole,https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Goryachy-Ermolov-Intel-Visa-Through-the-Rabbit-Hole.pdf
+248,Lobsters,reversing,Reverse engineering,Remote code execution as root from the local network on TP-Link SR20 routers,https://mjg59.dreamwidth.org/51672.html
+249,Lobsters,reversing,Reverse engineering,PoC||GTFO Volume 0x19,https://www.alchemistowl.org/pocorgtfo/pocorgtfo19.pdf
+250,Lobsters,reversing,Reverse engineering,Static Analysis of Binary Executables Using Structural SVM's (2011),https://papers.nips.cc/paper/3925-static-analysis-of-binary-executables-using-structural-svms.pdf
+251,Lobsters,reversing,Reverse engineering,Reconstructing Twitter's Firehose,https://docs.google.com/document/d/1xVrPoNutyqTdQ04DXBEZW4ZW4A5RAQW2he7qIpTmG-M/edit
+252,Lobsters,reversing,Reverse engineering,Static Analysis of Binary Executables,http://stevehanov.ca/cs842_project.pdf
+253,Lobsters,reversing,Reverse engineering,Death by vmmap,https://objective-see.com/blog/blog_0x3E.html
+254,Lobsters,reversing,Reverse engineering,Python for Reverse Engineering #1: ELF Binaries,https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732
+255,Lobsters,reversing,Reverse engineering,The nadir of surveillance (Den Digitale Prvevagt),https://vmcall.github.io/reversal/2019/03/07/exam-surveillance.html
+256,Lobsters,reversing,Reverse engineering,Ghidra - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate,https://ghidra-sre.org/
+257,Lobsters,reversing,Reverse engineering,Bare Metal STM32 Programming and a Quadcopters Awakening,https://timakro.de/blog/bare-metal-stm32-programming/
+258,Lobsters,reversing,Reverse engineering,Reverse Engineering Lecture Alexander Sotirov,https://www.youtube.com/watch?v=nf7yj51WkUA
+259,Lobsters,reversing,Reverse engineering,Reverse Engineering Architecture and Pinout of Custom ASICs,https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/
+260,Lobsters,reversing,Reverse engineering,"Experiments, growth engineering, and the perils of not disguising your API routes: Part 1",https://blog.jonlu.ca/posts/experiments-and-growth-hacking
+261,Lobsters,reversing,Reverse engineering,Linux Reverse Engineering CTFs for Beginners,https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/
+262,Lobsters,reversing,Reverse engineering,BattlEye anticheat: analysis and mitigation,https://vmcall.github.io/reversal/2019/02/10/battleye-anticheat.html
+263,Lobsters,reversing,Reverse engineering,Understanding the Network Interface (NI) Card,https://loomcom.com/blog/0118_understanding_the_ni_card.html
+264,Lobsters,reversing,Reverse engineering,"Reverse engineering of a mobile game, part 2: they updated, we dumped memory",https://medium.com/@xplodwild/reverse-engineering-of-a-mobile-game-part-2-they-updated-we-dumped-memory-27046efdfb85
+265,Lobsters,reversing,Reverse engineering,Down the Rabbit Hole - Part I: A Journey into the UEFI Land,https://erfur.github.io/down_the_rabbit_hole_pt1/
+266,Lobsters,reversing,Reverse engineering,CS 1.6 internal hack,https://nsarka.com/2019/01/21/CS-1-6-internal-hack/
+267,Lobsters,reversing,Reverse engineering,How to Hack an Expensive Camera and Not Get Killed by Your Wife,https://alexhude.github.io/2019/01/24/hacking-leica-m240.html
+268,Lobsters,reversing,Reverse engineering,A Quick Solution to an Ugly Reverse Engineering Problem,https://www.msreverseengineering.com/blog/2019/1/14/a-quick-solution-to-an-ugly-reverse-engineering-problem
+269,Lobsters,reversing,Reverse engineering,Reverse-Engineering and Implementation of the RDP 5 Protocol (2004),http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.339&rep=rep1&type=pdf
+270,Lobsters,reversing,Reverse engineering,The Rendering of Rise of the Tomb Raider (2018),http://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/
+271,Lobsters,reversing,Reverse engineering,Fingerprinting Models when hooking DirectX (Vermintide 2),https://niemand.com.ar/2019/01/08/fingerprinting-models-when-hooking-directx-vermintide-2/
+272,Lobsters,reversing,Reverse engineering,"Nethack beaten in 7 minutes, 15 seconds realtime",https://pellsson.github.io/
+273,Lobsters,reversing,Reverse engineering,Reverse Engineering the Godot File Format,https://gkbrk.com/2019/01/reverse-engineering-the-godot-file-format/
+274,Lobsters,reversing,Reverse engineering,Binary pattern matching in Elixir with PNG parsing example,https://zohaib.me/binary-pattern-matching-in-elixir/
+275,Lobsters,reversing,Reverse engineering,Researching Marvell Avastar Wi-Fi: From Zero Knowledge to Over-the-Air Zero-Touch RCE,https://2018.zeronights.ru/wp-content/uploads/materials/19-Researching-Marvell-Avastar-Wi-Fi.pdf
+276,Lobsters,reversing,Reverse engineering,Hacking Quest For Glory III,http://thestone.zone/hacking/2019/01/01/hacking-quest-for-glory.html
+277,Lobsters,reversing,Reverse engineering,VB P-code Information,https://web.archive.org/web/20151222171103/http://www.woodmann.com/crackz/Tutorials/Vbpcode.htm
+278,Lobsters,reversing,Reverse engineering,Guardzilla IoT VideoCamera Hard-Coded Credentials (CVE-2018-5560),http://www.0dayallday.org/guardzilla-video-camera-hard-coded-aws-credentials/
+279,Lobsters,reversing,Reverse engineering,a discussion of how to fool the accelerometer in a pacemaker to make your heart beat faster,https://www.pacemakerclub.com/message/17867/fool-your-pacemakers-accelerometer
+280,Lobsters,reversing,Reverse engineering,Reversing Retefe,https://www.govcert.admin.ch/blog/35/reversing-retefe
+281,Lobsters,reversing,Reverse engineering,corkami/pocs,https://github.com/corkami/pocs/blob/master/collisions/README.md
+282,Lobsters,reversing,Reverse engineering,50 CVEs in 50 Days: Fuzzing Adobe Reader,https://research.checkpoint.com/50-adobe-cves-in-50-days/
+283,Lobsters,reversing,Reverse engineering,Investigating an early-2010s gaming DRM system: Part 1,https://yingtongli.me/blog/2018/11/16/drm1-1.html
+284,Lobsters,reversing,Reverse engineering,Hacking Amiibo with Software-Defined Radio,https://jamchamb.github.io/assets/pdf/amiibo-presentation-HOPE.pdf
+285,Lobsters,reversing,Reverse engineering,Remotely Exploiting Zoom Meetings,https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d
+286,Lobsters,reversing,Reverse engineering,Making a GameCube memory card editor with Raspberry Pi,https://jamchamb.github.io/2018/12/03/gamecube-memory-card-raspi.html
+287,Lobsters,reversing,Reverse engineering,"Reverse engineering a 4 layer PCB, the slow and destructive way",http://research.801labs.org/reverse-engineering-4-layer-pcb/
+288,Lobsters,reversing,Reverse engineering,AndroidProjectCreator – The ‘how’ and ‘why’,https://maxkersten.nl/2018/11/21/androidprojectcreator-the-how-and-why/
+289,Lobsters,reversing,Reverse engineering,Secure Boot in The Era of The T2,https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2
+290,Lobsters,reversing,Reverse engineering,Noise-based Testing and Analysis of Multi-threaded C/C++ Programs on the Binary Level,http://www.fit.vutbr.cz/~vojnar/Publications/padtad-12.pdf
+291,Lobsters,reversing,Reverse engineering,OpenBSD in Stereo with Linux VFIO,https://jcs.org/2018/11/12/vfio
+292,Lobsters,reversing,Reverse engineering,WoW64 internals,https://wbenny.github.io/2018/11/04/wow64-internals.html
+293,Lobsters,reversing,Reverse engineering,Reverse engineering the ChefSteps Joule (and making a chrome extension),https://medium.com/@_dennisli/reverse-engineering-the-chefsteps-joule-and-making-a-chrome-extension-fa09c78bd87f
+294,Lobsters,reversing,Reverse engineering,Playing with the Windows Notification Facility (WNF),https://blog.quarkslab.com/playing-with-the-windows-notification-facility-wnf.html
+295,Lobsters,reversing,Reverse engineering,Reverse Engineering x86 Processor Microcode,http://syssec.rub.de/media/emma/veroeffentlichungen/2017/08/16/usenix17-microcode.pdf
+296,Lobsters,reversing,Reverse engineering,SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits,https://www.informatics.indiana.edu/xw7/papers/p2139-you.pdf
+297,Lobsters,reversing,Reverse engineering,Reverse engineering Windows or Linux PCI drivers with Intel VT-d and QEMU,https://hakzsam.wordpress.com/2015/02/21/471/
+298,Lobsters,reversing,Reverse engineering,Hack The Box – Fighter Walkthrough,https://veteransec.com/2018/10/06/hack-the-box-fighter-walkthrough/
+299,Lobsters,reversing,Reverse engineering,Fixing a bug in an 18 year old Shockwave game,https://mattbruv.github.io/ccsr-bugfix/
+300,Lobsters,reversing,Reverse engineering,Automated PCB Reverse Engineering,https://www.usenix.org/system/files/conference/woot17/woot17-paper-kleber.pdf
+301,Lobsters,reversing,Reverse engineering,A Survey on Chip to System Reverse Engineering (2015),http://www.engr.uconn.edu/~forte/Domenic_files/v2-acmsmall-combined_draft15_final_manuscript_4.pdf
+302,Lobsters,reversing,Reverse engineering,Kaitai Web IDE,https://ide.kaitai.io/
+303,Lobsters,reversing,Reverse engineering,"Illegal streams, decrypting m3u8's, and building a better stream experience",https://blog.jonlu.ca/posts/illegal-streams
+304,Lobsters,reversing,Reverse engineering,Reversing Bus Telemetry (2015),https://www.bastibl.net/reversing-bus-telemetry/
+305,Lobsters,reversing,Reverse engineering,Hex-Rays Microcode API vs. Obfuscating Compiler,http://www.hexblog.com/?p=1248
+306,Lobsters,reversing,Reverse engineering,Dropbike: Data Breaches and Free Bike Rides,https://fn.lc/post/dropbike/
+307,Lobsters,reversing,Reverse engineering,How Samba was written (2003),https://www.samba.org/ftp/tridge/misc/french_cafe.txt
+308,Lobsters,reversing,Reverse engineering,Hacking an assault tank… A Nerf one,https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/
+309,Lobsters,reversing,Reverse engineering,x86 finds its way into your iPhone,https://lcq2.github.io/x86_iphone/
+310,Lobsters,reversing,Reverse engineering,wideNES - Peeking Past the Edge of NES Games,http://prilik.com/blog/wideNES.html
+311,Lobsters,reversing,Reverse engineering,Dumping SNES Zelda ROM,https://medium.com/@bdettmer/dumping-snes-zelda-rom-45b91b92e1c9
+312,Lobsters,reversing,Reverse engineering,Cracking Litter Box DRM,http://www.davidhampgonsalves.com/reverse-engineering-cat-genie-120-drm/
+313,Lobsters,reversing,Reverse engineering,Reverse engineering Mortal Kombat GRA file format,http://blog.rewolf.pl/blog/?p=1837
+314,Lobsters,reversing,Reverse engineering,"Inside the die of Intel's 8087 coprocessor chip, root of modern floating point",http://www.righto.com/2018/08/inside-die-of-intels-8087-coprocessor.html
+315,Lobsters,reversing,Reverse engineering,Faxploit: Sending Fax Back to the Dark Ages,https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/
+316,Lobsters,reversing,Reverse engineering,CS:GO RCE 0-day - Real World CTF Qualifiers 2018,http://writeups.perfect.blue//P90_Rush_B
+317,Lobsters,reversing,Reverse engineering,Did Bill Gates Steal the Heart of DOS?,https://spectrum.ieee.org/computing/software/did-bill-gates-steal-the-heart-of-dos
+318,Lobsters,reversing,Reverse engineering,xmmswap/luaelftoolchain - Lua bindings for elftoolchain library,https://github.com/xmmswap/luaelftoolchain
+319,Lobsters,reversing,Reverse engineering,Myth Debugging: Is the Wii More Demanding to Emulate than the GameCube?,https://dolphin-emu.org/blog/2018/07/21/myth-debugging-wii-more-demanding-emulate-gamecube/
+320,Lobsters,reversing,Reverse engineering,Reversing JS Malware From marveloptics.com,https://blog.jse.li/posts/marveloptics-malware/
+321,Lobsters,reversing,Reverse engineering,Yuzu Progress Report 2018 Part 1 ·,https://yuzu-emu.org/entry/yuzu-progress-report-2018-p1-1/
+322,Lobsters,reversing,Reverse engineering,Finding and exploiting hidden features of Animal Crossing’s NES emulator,https://jamchamb.github.io/2018/07/11/animal-crossing-nes-emulator-hacks.html
+323,Lobsters,reversing,Reverse engineering,pkgsrcCon 2018 in Berlin - Videos,https://pkgsrc.org/pkgsrcCon/2018/talks.html
+324,Lobsters,reversing,Reverse engineering,Reverse Engineering WebAssembly,https://www.pnfsoftware.com/reversing-wasm.pdf
+325,Lobsters,reversing,Reverse engineering,Apple wrote code to appease the Chinese government... it was buggy,https://objective-see.com/blog/blog_0x34.html
+326,Lobsters,reversing,Reverse engineering,BloogBot,https://drewkestell.us/
+327,Lobsters,reversing,Reverse engineering,Reading hotel key cards with a credit card magstripe reader,https://labs.portcullis.co.uk/blog/reading-hotel-key-cards-with-a-credit-card-magstripe-reader/
+328,Lobsters,reversing,Reverse engineering,Adversarial Reprogramming of Neural Networks,https://arxiv.org/pdf/1806.11146.pdf
+329,Lobsters,reversing,Reverse engineering,Taking apart a double zero-day sample discovered in joint hunt with ESET,https://cloudblogs.microsoft.com/microsoftsecure/2018/07/02/taking-apart-a-double-zero-day-sample-discovered-in-joint-hunt-with-eset/
+330,Lobsters,reversing,Reverse engineering,A Small Look into the GameCube’s Copy Filter,https://ppltoast.wordpress.com/2018/05/11/a-small-look-into-the-gamecubes-copy-filter/
+331,Lobsters,reversing,Reverse engineering,PoC || GTFO 18,https://www.alchemistowl.org/pocorgtfo/pocorgtfo18.pdf
+332,Lobsters,reversing,Reverse engineering,Beginner Malware Reversing Challenges,https://www.malwaretech.com/beginner-malware-reversing-challenges
+333,Lobsters,reversing,Reverse engineering,Inside Nintendo’s “perfect” method for detecting online Switch piracy,https://arstechnica.com/gaming/2018/06/inside-nintendos-perfect-method-for-detecting-online-switch-piracy/
+334,Lobsters,reversing,Reverse engineering,Diablo devolved - magic behind the 1996 computer game,https://github.com/galaxyhaxz/devilution
+335,Lobsters,reversing,Reverse engineering,Confessions of a Disk Cracker: the secrets of 4am.,https://paleotronic.com/2018/06/15/confessions-of-a-disk-cracker-the-secrets-of-4am/
+336,Lobsters,reversing,Reverse engineering,Cracking Slot Machines,http://www.tempel.org/CrackingSlotMachines
+337,Lobsters,reversing,Reverse engineering,How to Wiretap Phone Lines with a DIY Circuit,https://www.electroboom.com/?p=1034
+338,Lobsters,reversing,Reverse engineering,2ine: 16-bit .exe support!,https://www.patreon.com/posts/2ine-16-bit-exe-19337541
+339,Lobsters,reversing,Reverse engineering,The Google H1 Fritz Chip,http://www.loper-os.org/?p=2433
+340,Lobsters,reversing,Reverse engineering,Synacor - Down the Rabbit Hole,https://remusao.github.io/posts/synacor-down-the-rabbit-hole.html
+341,Lobsters,reversing,Reverse engineering,Reverse engineering Animal Crossing’s developer mode,https://jamchamb.github.io/2018/06/09/animal-crossing-developer-mode.html
+342,Lobsters,reversing,Reverse engineering,Learning Hardware/Hacking,http://www.blackroomsec.com/private-dm-on-learning-hardware-hacking/
+343,Lobsters,reversing,Reverse engineering,cutter: cross-platform GUI for radare2 reverse engineering framework,https://github.com/radareorg/cutter
+344,Lobsters,reversing,Reverse engineering,Reverse Engineering & Exploitation of a “Connected Alarm Clock”,https://courk.cc/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/
+345,Lobsters,reversing,Reverse engineering,Reverse Engineering AWS Lambda,https://www.denialof.services/lambda/
+346,Lobsters,reversing,Reverse engineering,Androzoo APK Search: a search service of meta-data related to Android malware,https://androzoo.uni.lu/apksearch
+347,Lobsters,reversing,Reverse engineering,Tcpdump Examples,https://hackertarget.com/tcpdump-examples/
+348,Lobsters,reversing,Reverse engineering,Hacking the PS4: From zero to ring zero in two easy steps,http://crack.bargains/02r0.pdf
+349,Lobsters,reversing,Reverse engineering,Analog Devices AD9361 - when microchips are more profitable than drugs,https://zeptobars.com/en/read/AD9361-SDR-Analog-Devices-DAC-ADC-65nm
+350,Lobsters,reversing,Reverse engineering,USB Reverse Engineering: Down the rabbit hole,http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+351,Lobsters,reversing,Reverse engineering,tryLock vs lock,https://yurylapitsky.com/trylock_vs_lock
+352,Lobsters,reversing,Reverse engineering,Zerodrop: Stealth URL toolkit for bypassing censorship filters,https://dangerous.link/about
+353,Lobsters,reversing,Reverse engineering,Walking the Windows Kernel with IDA Python,https://www.thezdi.com/blog/2018/5/21/mindshare-walking-the-windows-kernel-with-ida-python
+354,Lobsters,reversing,Reverse engineering,Tearing apart printf(),http://www.maizure.org/projects/printf/index.html
+355,Lobsters,reversing,Reverse engineering,"These 299 macOS apps are so buggy, Apple had to fix them in AppKit",https://worthdoingbadly.com/appkitcompat/
+356,Lobsters,reversing,Reverse engineering,Liberating Amusing Use Cases with the F60 Action Camera Introduction,http://code.paulk.fr/article26/liberating-amusing-use-cases-with-the-f60-action-camera-introduction-motivations-for-going-down-the-road
+357,Lobsters,reversing,Reverse engineering,Inside the 76477 Space Invaders sound effect chip: digital logic implemented with I2L,http://www.righto.com/2018/05/inside-76477-space-invaders-sound.html
+358,Lobsters,reversing,Reverse engineering,Malwarebytes CrackMe 2,https://secrary.com/CrackMe/hasherezadeCrackme2/
+359,Lobsters,reversing,Reverse engineering,Automated Reverse Engineering: Mistfall Engine (2001),http://z0mbie.daemonlab.org/autorev.txt
+360,Lobsters,reversing,Reverse engineering,AS/400 Machine-Level Programming (2001),https://cmpct.info/~calvin/Voxlator/AS400%20Machine-Level%20Programming.pdf
+361,Lobsters,reversing,Reverse engineering,DEF CON 26 Hack for Satan Badge Art Challenge Writeup,https://medium.com/@0x4a454646/def-con-26-hack-for-satan-badge-art-challenge-writeup-de66804c6abf
+362,Lobsters,reversing,Reverse engineering,Purism's FSP Reverse Engineering Effort Might Be Stalled,https://www.phoronix.com/scan.php?page=news_item&px=Purism-FSP-RE-Disappear
+363,Lobsters,reversing,Reverse engineering,"Triton: Dynamic, Binary, Analysis Framework for x86",https://triton.quarkslab.com
+364,Lobsters,reversing,Reverse engineering,Thermal Paper Polaroid,https://mitxela.com/projects/thermal_paper_polaroid
+365,Lobsters,reversing,Reverse engineering,Android Applications Reversing 101 (2017),https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/
+366,Lobsters,reversing,Reverse engineering,Rooting a Logitech Harmony Hub: Improving Security in Today's IoT World,https://www.fireeye.com/blog/threat-research/2018/05/rooting-logitech-harmony-hub-improving-iot-security.html
+367,Lobsters,reversing,Reverse engineering,Mach-O exploration. Tools - nm,https://yurylapitsky.com/exploring_mac-o_binaries_nm
+368,Lobsters,reversing,Reverse engineering,SiliVaccine: Inside North Korea’s Anti-Virus,https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/
+369,Lobsters,reversing,Reverse engineering,How does dynamic dispatch work in WebAssembly?,http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html
+370,Lobsters,reversing,Reverse engineering,Cryptomining Campaign Returns Coal and Not Diamond,https://blog.talosintelligence.com/2018/04/cryptomining-campaign-returns-coal-not-diamond.html
+371,Lobsters,reversing,Reverse engineering,The “unpatchable” exploit that makes every current Nintendo Switch hackable,https://arstechnica.com/gaming/2018/04/the-unpatchable-exploit-that-makes-every-current-nintendo-switch-hackable/
+372,Lobsters,reversing,Reverse engineering,What efficient pattern matching looks like at the bytecode level,https://dockyard.com/blog/2018/02/27/what-efficient-pattern-matching-looks-like-at-the-bytecode-level
+373,Lobsters,reversing,Reverse engineering,Cracking QCRACK - my efforts reverse engineering the Quake cracking program,http://faehnri.ch/finished-with-qcrack/
+374,Lobsters,reversing,Reverse engineering,Haxing Minesweeper,https://osandamalith.com/2018/04/07/haxing-minesweeper/
+375,Lobsters,reversing,Reverse engineering,"Abstraction Recovery for Scalable, Static, Binary Analysis (2014)",https://edmcman.github.io/papers/arthesis14.pdf
+376,Lobsters,reversing,Reverse engineering,Reverse engineering the Notability file format,https://jvns.ca/blog/2018/03/31/reverse-engineering-notability-format/
+377,Lobsters,reversing,Reverse engineering,Reverse Engineering for Beginners,https://beginners.re/RE4B-EN.pdf
+378,Lobsters,reversing,Reverse engineering,"WebPlotDigitizer - Extract data from plots, images, and maps",https://automeris.io/WebPlotDigitizer/
+379,Lobsters,reversing,Reverse engineering,When coding style survives compilation: de-anonymizing programmers from executable binaries,https://blog.acolyer.org/2018/03/16/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/
+380,Lobsters,reversing,Reverse engineering,Low-level debugging on modern laptops,http://wordpress.panaceas.org/wp/index.php/2017/06/13/low-level-debugging-on-modern-laptops/
+381,Lobsters,reversing,Reverse engineering,Reclaim your abandonware,https://alva.link/post/reclaim-your-abandonware/
+382,Lobsters,reversing,Reverse engineering,An Intro to 64-bit Intel Reverse Engineering,https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/
+383,Lobsters,reversing,Reverse engineering,"FinFisher exposed: A researcher’s tale of defeating traps, tricks, and complex virtual machines",https://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/
+384,Lobsters,reversing,Reverse engineering,Pascal Out Of Memory,http://www.os2museum.com/wp/pascal-out-of-memory/
+385,Lobsters,reversing,Reverse engineering,Let’s add a photo mode to Wolfenstein II: The New Colossus (PC),https://weblogs.asp.net/fbouma/let-s-add-a-photo-mode-to-wolfenstein-ii-the-new-colossus-pc
+386,Lobsters,reversing,Reverse engineering,Dumping Ensoniq Soundscape ROMs,http://www.os2museum.com/wp/dumping-ensoniq-soundscape-roms/
+387,Lobsters,reversing,Reverse engineering,Tutorial: Cracking Denuvo V4,https://www.youtube.com/watch?v=Ka_PudOvWpI
+388,Lobsters,reversing,Reverse engineering,StarCraft: Remastered – Emulating a buffer overflow for fun and profit,http://0xeb.net/wp-content/uploads/2018/02/StarCraft_EUD_Emulator.pdf
+389,Lobsters,reversing,Reverse engineering,Switch to Windows 95,https://blog.krnl386.com/index.php?post/2018/02/03/Switch-to-Windows-95
+390,Lobsters,reversing,Reverse engineering,Identifying Loops While Reverse Engineering,https://jmcph4.github.io/2018/02/02/identifying-loops-while-reverse-engineering/
+391,Lobsters,reversing,Reverse engineering,Reverse engineering Dungeon Siege,http://glampert.com/2015/09-16/reverse-engineering-dungeon-siege/
+392,Lobsters,reversing,Reverse engineering,Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly,https://www.youtube.com/watch?v=F8JCh0owT4w
+393,Lobsters,reversing,Reverse engineering,Windows Privilege Escalation Guide,http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+394,Lobsters,reversing,Reverse engineering,From DNA to bitcoin: How I won the Davos DNA-storage Bitcoin Challenge,https://swuyts.wordpress.com/2018/01/16/from-dna-to-bitcoin-how-i-won-the-davos-bitcoin-challenge/
+395,Lobsters,reversing,Reverse engineering,Remote Code Execution on the Smiths Medical Medfusion 4000,https://github.com/sgayou/medfusion-4000-research/blob/master/doc/README.md
+396,Lobsters,reversing,Reverse engineering,Against the Law: Countering Lawful Abuses of Digital Surveillance,https://www.tjoe.org/pub/direct-radio-introspection
+397,Lobsters,reversing,Reverse engineering,Reverse Engineering A Mysterious UDP Stream in My Hotel (2016),https://gkbrk.com/2016/05/hotel-music/
+398,Lobsters,reversing,Reverse engineering,Injecting JS into electron apps (And adding RTL support for ‘Microsoft Teams’),https://medium.com/@dany74q/injecting-js-into-electron-apps-and-adding-rtl-support-for-microsoft-teams-d315dfb212a6
+399,Lobsters,reversing,Reverse engineering,jamais vu - a 1.0.0 TrustZone code execution exploit on the Nintendo Switch,https://www.reddit.com/r/SwitchHacks/comments/7rq0cu/jamais_vu_a_100_trustzone_code_execution_exploit/
+400,Lobsters,reversing,Reverse engineering,Linux heap exploitation intro series – (bonus) printf might be leaking!,https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/
+401,Lobsters,reversing,Reverse engineering,All Your Docs Are Belong To Us,https://objective-see.com/blog/blog_0x22.html
+402,Lobsters,reversing,Reverse engineering,The Inside Story Behind MS08-067,https://blogs.technet.microsoft.com/johnla/2015/09/26/the-inside-story-behind-ms08-067/
+403,Lobsters,reversing,Reverse engineering,Xerox Alto zero-day: cracking disk password protection on a 45 year old system,http://www.righto.com/2018/01/xerox-alto-zero-day-cracking-disk.html
+404,Lobsters,reversing,Reverse engineering,A Journey Into Capcom's CPS2 Silicon - Part 2,http://arcadehacker.blogspot.com/2018/01/a-journey-into-capcoms-cps2-silicon.html
+405,Lobsters,reversing,Reverse engineering,ropchain,http://www.kvakil.me/posts/ropchain/
+406,Lobsters,reversing,Reverse engineering,An introduction into reverse-engineering x86 microcode and writing it yourself,https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask
+407,Lobsters,reversing,Reverse engineering,iPhone X home button,http://blog.zats.io/2017/12/27/iPhone-X-home-button/
+408,Lobsters,reversing,Reverse engineering,Building a Thermal Camera,https://damow.net/building-a-thermal-camera/
+409,Lobsters,reversing,Reverse engineering,Identifying Open-Source License Violation and 1-day Security Risk at Large Scale,https://www.cc.gatech.edu/~rduan9/publications/osspolice.pdf
+410,Lobsters,reversing,Reverse engineering,"Dumping a PS4 Kernel in ""Only"" 6 Days",https://fail0verflow.com/blog/2017/ps4-crashdump-dump/
+411,Lobsters,reversing,Reverse engineering,Running native programs on the Amstrad NC200 (Z80 portable computer),http://cowlark.com/2017-12-04-nc200-reverse-engineering/
+412,Lobsters,reversing,Reverse engineering,BlueSteal: Popping GATT Safes,https://www.twosixlabs.com/bluesteal-popping-gatt-safes/
+413,Lobsters,reversing,Reverse engineering,HP keylogger,https://zwclose.github.io/HP-keylogger/
+414,Lobsters,reversing,Reverse engineering,Decoding an air conditioner control's checksum with differential cryptanalysis,http://www.righto.com/2017/12/decoding-air-conditioner-controls.html
+415,Lobsters,reversing,Reverse engineering,RECON 2017,http://www.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x
+416,Lobsters,reversing,Reverse engineering,Review & Teardown of a cheap GPS Jammer,https://phasenoise.livejournal.com/3185.html
+417,Lobsters,reversing,Reverse engineering,Why <blank> Gets You Root,https://objective-see.com/blog/blog_0x24.html
+418,Lobsters,reversing,Reverse engineering,Apple’s Secure Enclave Processor (SEP) Firmware Decrypted,http://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/
+419,Lobsters,reversing,Reverse engineering,x64 Egg hunting in Linux systems,https://pentesterslife.blog/2017/11/24/x64-egg-hunting-in-linux-systems/
+420,Lobsters,reversing,Reverse engineering,PoC || GTFO 16,https://www.alchemistowl.org/pocorgtfo/pocorgtfo16.pdf
+421,Lobsters,reversing,Reverse engineering,Under the Bridge: A quick tour of the BridgeOS 2.0 image,http://newosxbook.com/articles/BridgeOS.html
+422,Lobsters,reversing,Reverse engineering,"Did Microsoft Just Manually Patch Their Equation Editor Executable? Why Yes, Yes They Did. (CVE-2017-11882)",https://0patch.blogspot.com/2017/11/did-microsoft-just-manually-patch-their.html
+423,Lobsters,reversing,Reverse engineering,Dangers of the Decompiler,https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/
+424,Lobsters,reversing,Reverse engineering,Practical Reverse Engineering Tutorials Part 1: Introduction & Protostar Stack 0,https://shantanugoel.com/2017/11/16/practical-reverse-engineering-tutorial-1/
+425,Lobsters,reversing,Reverse engineering,Hacking Google reCaptcha,http://rickyhan.com/jekyll/update/2017/11/10/bypassing-recaptcha.html
+426,Lobsters,reversing,Reverse engineering,afl-unicorn: Fuzzing Arbitrary Binary Code – Nathan Voss,https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf
+427,Lobsters,reversing,Reverse engineering,Annotated NES Metroid Source Code,http://www.metroid-database.com/source-code/
+428,Lobsters,reversing,Reverse engineering,Simple Hash Collisions,https://kate.io/blog/simple-hash-collisions-in-lua/
+429,Lobsters,reversing,Reverse engineering,Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing,https://arxiv.org/pdf/1611.06952.pdf
+430,Lobsters,reversing,Reverse engineering,"Let’s Enhance! How we found @rogerkver’s $1,000 wallet obfuscated private key",https://medium.freecodecamp.org/lets-enhance-how-we-found-rogerkver-s-1000-wallet-obfuscated-private-key-8514e74a5433
+431,Lobsters,reversing,Reverse engineering,Cracking PaintTool Sai documents,https://github.com/Wunkolo/libsai/blob/master/README.md
+432,Lobsters,reversing,Reverse engineering,Hack.lu 2017 Writeups,http://wiki.yobi.be/wiki/Hack.lu_2017_Writeups
+433,Lobsters,reversing,Reverse engineering,A look at inner workings of Joycon and Nintendo Switch,https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering
+434,Lobsters,reversing,Reverse engineering,Dangerous Pickles — Malicious Python Serialization,https://intoli.com/blog/dangerous-pickles/
+435,Lobsters,reversing,Reverse engineering,A Comprehensive Super Mario Bros. Disassembly,https://gist.github.com/1wErt3r/4048722
+436,Lobsters,reversing,Reverse engineering,Reverse Engineering macOS High Sierra Supplemental Update,https://cocoaengineering.com/2017/10/08/reverse-engineering-macos-high-sierra-supplemental-update/
+437,Lobsters,reversing,Reverse engineering,"Inside the vintage Xerox Alto's display, a tiny lightbulb keeps it working",http://www.righto.com/2017/10/inside-vintage-xerox-altos-display-tiny.html
+438,Lobsters,reversing,Reverse engineering,Epic Sues 'Fortnite' Cheaters For Copyright Infringement,https://torrentfreak.com/epic-sues-fortnite-cheaters-for-copyright-infringement-171012/
+439,Lobsters,reversing,Reverse engineering,Intel ME: The Way of Static Analysis (ME 11 is based on MINIX 3),http://blog.ptsecurity.com/2017/04/intel-me-way-of-static-analysis.html
+440,Lobsters,reversing,Reverse engineering,Open Source Release of Rift DK2,https://developer.oculus.com/blog/open-source-release-of-rift-dk2/
+441,Lobsters,reversing,Reverse engineering,Hiding Your Process from Sysinternals,https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/
+442,Lobsters,reversing,Reverse engineering,Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs,https://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html
+443,Lobsters,reversing,Reverse engineering,The Security of Classic Game Consoles,https://www.youtube.com/watch?v=s0XmiXs8iRw
+444,Lobsters,reversing,Reverse engineering,"Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices",https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+445,Lobsters,reversing,Reverse engineering,FAQ: How to learn reverse-engineering?,http://gynvael.coldwind.pl/?lang=en&id=664
+446,Lobsters,reversing,Reverse engineering,How I Fixed a 10 Year Old Guitar Hero Bug Without the Source Code,https://www.youtube.com/watch?v=A9U5wK_boYM
+447,Lobsters,reversing,Reverse engineering,"Encrypted Keystroke Injection For Logitech, Dell, Lenovo, and AmazonBasics",https://github.com/BastilleResearch/keyjack
+448,Lobsters,reversing,Reverse engineering,CCleaner Command and Control Causes Concern,http://blog.talosintelligence.com/2017/09/ccleaner-c2-concern.html
+449,Lobsters,reversing,Reverse engineering,Gas Pump Skimmers,https://learn.sparkfun.com/tutorials/gas-pump-skimmers
+450,Lobsters,reversing,Reverse engineering,CCleanup: A Vast Number of Machines at Risk,http://blog.talosintelligence.com/2017/09/avast-distributes-malware.html
+451,Lobsters,reversing,Reverse engineering,Wandering through the Shady Corners of VMware Workstation/Fusion,https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/
+452,Lobsters,reversing,Reverse engineering,Malloc in <200 lines (from V7 Unix),http://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/libc/gen/malloc.c
+453,Lobsters,reversing,Reverse engineering,IDA: What's new in 7.00,https://www.hex-rays.com/products/ida/7.0/index.shtml
+454,Lobsters,reversing,Reverse engineering,Enlarge your botnet with: top D-Link routers (DIR8xx D-Link routers cruisin' for a bruisin'),https://embedi.com/blog/enlarge-your-botnet-top-d-link-routers-dir8xx-d-link-routers-cruisin-bruisin
+455,Lobsters,reversing,Reverse engineering,Investigating Erlang by reading its system calls,https://jvns.ca/blog/2016/05/13/erlang-seems-really-complicated/
+456,Lobsters,reversing,Reverse engineering,"Fixing up a vintage, Soviet-era Алиса (Alisa) 1387 analog synthesizer!",https://imgur.com/a/8plOW
+457,Lobsters,reversing,Reverse engineering,"how to hack the uk tax system, i guess",https://medium.com/@Zemnmez/how-to-hack-the-uk-tax-system-i-guess-3e84b70f8b
+458,Lobsters,reversing,Reverse engineering,"Hey Synaptics, Can You Please Stop Polling",https://randomascii.wordpress.com/2017/09/05/hey-synaptics-can-you-please-stop-polling/
+459,Lobsters,reversing,Reverse engineering,SharknAT&To,https://www.nomotion.net/blog/sharknatto/
+460,Lobsters,reversing,Reverse engineering,Learn ROP through a short series of practical challenges,https://ropemporium.com/
+461,Lobsters,reversing,Reverse engineering,"Coreboot and Skylake, part 2: A Beautiful Game",https://puri.sm/posts/coreboot-on-the-skylake-librems-part-2/
+462,Lobsters,reversing,Reverse engineering,"Examining vintage RAM chip, I find a counterfeit with entirely different die",http://www.righto.com/2017/08/inside-fake-ram-chip-i-found-something.html
+463,Lobsters,reversing,Reverse engineering,Reverse Engineering My Home Security System: Decompiling Firmware Updates,https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html
+464,Lobsters,reversing,Reverse engineering,sandsifter: the x86 processor fuzzer,https://github.com/xoreaxeaxeax/sandsifter
+465,Lobsters,reversing,Reverse engineering,INLIN(E)ing: A case study,https://mpickering.github.io/posts/2017-05-17-inlining-case-study.html
+466,Lobsters,reversing,Reverse engineering,Reverse Engineering a Malicious Scam Script,https://benedikt-bitterli.me/reverse/
+467,Lobsters,reversing,Reverse engineering,Secret Life Of Machines: The Washing Machine,https://www.youtube.com/watch?v=baFaEvBywGc
+468,Lobsters,reversing,Reverse engineering,Reverse Engineering IoT Devices,https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/
+469,Lobsters,reversing,Reverse engineering,Reverse Engineering Malware 102,https://securedorg.github.io/RE102/
+470,Lobsters,reversing,Reverse engineering,Plasma: an interactive disassembler,https://github.com/plasma-disassembler/plasma
+471,Lobsters,reversing,Reverse engineering,"Computer Security, Privacy, and DNA Sequencing: Compromising Computers with Synthesized DNA, Privacy",http://dnasec.cs.washington.edu/dnasec.pdf
+472,Lobsters,reversing,Reverse engineering,The IBM PC BIOS and Intel ISIS-II,http://www.os2museum.com/wp/the-ibm-pc-bios-and-intel-isis-ii/
+473,Lobsters,reversing,Reverse engineering,A Systematic Analysis of the Juniper Dual EC Incident,https://www.cs.uic.edu/~s/papers/juniper2016/juniper2016.pdf
+474,Lobsters,reversing,Reverse engineering,How I reverse-engineered Hacker News,https://swizec.com/blog/reverse-engineered-hacker-news/swizec/7741
+475,Lobsters,reversing,Reverse engineering,"rMBP requires secret EFI magic to enable integrated GPU!, or why you probably don't want a Mac",https://www.youtube.com/watch?v=OLIVqCFLv5Y
+476,Lobsters,reversing,Reverse engineering,To Depart From Clemency: a DEF CON 2017 Retrospective,http://dttw.tech/posts/rJHDh3RLb
+477,Lobsters,reversing,Reverse engineering,Datamining Pokémon,https://eev.ee/blog/2017/08/02/datamining-pokemon/
+478,Lobsters,reversing,Reverse engineering,"Alexa, are you listening?",https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening
+479,Lobsters,reversing,Reverse engineering,"""Holy Grail"" Bugs in Emulation, Part 2",https://mgba.io/2017/07/31/holy-grail-bugs-2/
+480,Lobsters,reversing,Reverse engineering,Illegal and undocumented instructions,http://blog.koehntopp.info/index.php/2282-illegal-and-undocumented-instructions/
+481,Lobsters,reversing,Reverse engineering,Snowman is a native code to C/C++ decompiler,https://derevenets.com/
+482,Lobsters,reversing,Reverse engineering,Reverse Engineering a 433MHz Motorised Blind RF Protocol,https://nickwhyte.com/post/2017/reversing-433mhz-raex-motorised-rf-blinds/
+483,Lobsters,reversing,Reverse engineering,Reverse-engineering the Starbucks ordering API,https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
+484,Lobsters,reversing,Reverse engineering,Reverse Engineering One Line of JavaScript,https://www.alexkras.com/reverse-engineering-one-line-of-javascript/
+485,Lobsters,reversing,Reverse engineering,Analyzing Torrent Repack Malware,http://mrexodia.cf/reversing/2017/07/12/Analyzing-torrent-repack-malware
+486,Lobsters,reversing,Reverse engineering,Cracking the GBA BIOS,https://mgba.io/2017/06/30/cracking-gba-bios/
+487,Lobsters,reversing,Reverse engineering,Tales from the MSRC: from pixels to POC,https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/
+488,Lobsters,reversing,Reverse engineering,A determined 'hacker' decrypts RDS-TMC,http://www.windytan.com/2013/05/a-determined-hacker-decrypts-rds-tmc.html
+489,Lobsters,reversing,Reverse engineering,Dolphin Developer Resurrects Incomplete Wii IOS Feature,https://emucross.com/dolphin-developer-resurrects-incomplete-wii-ios-feature/
+490,Lobsters,reversing,Reverse engineering,Kernel driver unpacking x64dbg,http://x64dbg.com/blog/2017/06/08/kernel-driver-unpacking.html
+491,Lobsters,reversing,Reverse engineering,Decyphering the Business Card Raytracer,http://fabiensanglard.net/rayTracing_back_of_business_card/index.php
+492,Lobsters,reversing,Reverse engineering,Rooting a Printer: From Security Bulletin to Remote Code Execution,https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution
+493,Lobsters,reversing,Reverse engineering,PoC‖GTFO Issue 0x15,https://www.alchemistowl.org/pocorgtfo/pocorgtfo15.pdf
+494,Lobsters,reversing,Reverse engineering,Indexing Faces on Instagram,https://kndrck.co/indexing-faces-on-instagram.html
+495,Lobsters,reversing,Reverse engineering,MacRansom: Offered as Ransomware as a Service,https://blog.fortinet.com/2017/06/09/macransom-offered-as-ransomware-as-a-service
+496,Lobsters,reversing,Reverse engineering,Modifying Microsoft Flight Simulator 4 to run on three immersive monitors,http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm
+497,Lobsters,reversing,Reverse engineering,Receiving NRSC-5,http://www.theori.io/research/nrsc-5-c
+498,Lobsters,reversing,Reverse engineering,RE guide for beginners: Methodology and tools,http://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242
+499,Lobsters,reversing,Reverse engineering,Decoding the yellow dots on a color print,https://w2.eff.org/Privacy/printers/docucolor
+500,Lobsters,reversing,Reverse engineering,"The Undocumented Microsoft ""Rich"" Header",http://bytepointer.com/articles/the_microsoft_rich_header.htm
+501,Lobsters,reversing,Reverse engineering,Heap Exploitation - internals of heap memory and glibc's memory functions,https://heap-exploitation.dhavalkapil.com/
+502,Lobsters,reversing,Reverse engineering,"""Holy Grail"" Bugs in Emulation, Part 1",https://mgba.io/2017/05/29/holy-grail-bugs/
+503,Lobsters,reversing,Reverse engineering,Reverse-Engineering CryptoAPI's Certificate Registry Blobs,https://namecoin.org//2017/05/27/reverse-engineering-cryptoapi-cert-blobs.html
+504,Lobsters,reversing,Reverse engineering,Dirty COW and why lying is bad even if you are the Linux kernel,https://chao-tic.github.io/blog/2017/05/24/dirty-cow
+505,Lobsters,reversing,Reverse engineering,taviso/loadlibrary - Porting Windows Dynamic Link Libraries to Linux,https://github.com/taviso/loadlibrary
+506,Lobsters,reversing,Reverse engineering,How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles,https://www.ieee-security.org/TC/SP2017/papers/101.pdf
+507,Lobsters,reversing,Reverse engineering,me_cleaner: Tool for partial deblobbing of Intel ME/TXE firmware images,https://github.com/corna/me_cleaner
+508,Lobsters,reversing,Reverse engineering,Wannacry in-memory key recovery for WinXP,https://github.com/aguinet/wannakey
+509,Lobsters,reversing,Reverse engineering,Security Analysis of the Diebold AccuVote-TS Voting Machine (2007),https://www.usenix.org/legacy/events/evt07/tech/full_papers/feldman/feldman_html/
+510,Lobsters,reversing,Reverse engineering,Android Dialers are Stealing Your Data,https://gkbrk.com/2017/05/android-dialer-packets/
+511,Lobsters,reversing,Reverse engineering,Reverse-engineering the Intel Management Engine’s ROMP module,https://puri.sm/posts/reverse-engineering-the-intel-management-engine-romp-module/
+512,Lobsters,reversing,Reverse engineering,Exploiting the Linux kernel via packet sockets,https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html
+513,Lobsters,reversing,Reverse engineering,Reverse Engineering Apple Location Services Protocol,https://appelsiini.net/2017/reverse-engineering-location-services/
+514,Lobsters,reversing,Reverse engineering,Internet Archive Mirror Attacked Over Tor,http://www.hackerfactor.com/blog/index.php?/archives/762-Attacked-Over-Tor.html
+515,Lobsters,reversing,Reverse engineering,"Reverse engineering the 76477 ""Space Invaders"" sound effect chip from die photos",http://www.righto.com/2017/04/reverse-engineering-76477-space.html
+516,Lobsters,reversing,Reverse engineering,Manticore: a prototyping tool for dynamic binary analysis,https://github.com/trailofbits/manticore/
+517,Lobsters,reversing,Reverse engineering,"Windows is Bloated, Thanks to Adobe's Extensible Metadata Platform",https://www.thurrott.com/windows/109962/windows-bloated-thanks-adobes-extensible-metadata-platform
+518,Lobsters,reversing,Reverse engineering,APFS filesystem format,https://blog.cugu.eu/post/apfs/
+519,Lobsters,reversing,Reverse engineering,DoublePulsar Initial SMB Backdoor Ring 0 Shellcode Analysis,https://zerosum0x0.blogspot.com/2017/04/doublepulsar-initial-smb-backdoor-ring.html
+520,Lobsters,reversing,Reverse engineering,I reverse engineered a motherboard,https://kazlauskas.me/entries/i-reverse-engineered-a-motherboard.html
+521,Lobsters,reversing,Reverse engineering,Analysis of the Facebook.app for iOS [v. 87.0],http://blog.timac.org/?p=1707
+522,Lobsters,reversing,Reverse engineering,Debugging macOS Kernel using VirtualBox,https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/
+523,Lobsters,reversing,Reverse engineering,"iodine (IP-over-DNS, IPv4 over DNS tunnel)",http://code.kryo.se/iodine/
+524,Lobsters,reversing,Reverse engineering,Erlang's Internal Data Representation,https://edfine.io/blog/2016/06/28/erlang-data-representation/
+525,Lobsters,reversing,Reverse engineering,Understanding Git Filter-branch and the Git Storage Model,http://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/
+526,Lobsters,reversing,Reverse engineering,Recompiling the Lost Vikings,https://ryiron.wordpress.com/2017/03/26/recompiling-the-lost-vikings/
+527,Lobsters,reversing,Reverse engineering,iaito: a GUI for radare2 reverse engineering framework,https://github.com/hteso/iaito
+528,Lobsters,reversing,Reverse engineering,Trace objc method call for ios and mac,https://github.com/tboox/itrace
+529,Lobsters,reversing,Reverse engineering,A Second Life for (very old) C programs,https://tailordev.fr/blog/2017/03/24/second-life-for-c-programs/
+530,Lobsters,reversing,Reverse engineering,The x86 Script Instruction Virtual Machine,https://github.com/tboox/vm86
+531,Lobsters,reversing,Reverse engineering,Chasing the First Arcade Easter Egg,https://edfries.wordpress.com/2017/03/22/chasing-the-first-arcade-easter-egg/
+532,Lobsters,reversing,Reverse engineering,Efficient File Copying On Linux,https://eklitzke.org/efficient-file-copying-on-linux
+533,Lobsters,reversing,Reverse engineering,PoC||GTFO Issue 0x14,https://www.alchemistowl.org/pocorgtfo/pocorgtfo14.pdf
+534,Lobsters,reversing,Reverse engineering,Hacking Final Fantasy 1 on the NES,http://www.walknsqualk.com/post/hacking-final-fantasy-1-on-nes/
+535,Lobsters,reversing,Reverse engineering,Inside the vintage 74181 ALU chip: how it works and why it's so strange,http://www.righto.com/2017/03/inside-vintage-74181-alu-chip-how-it.html
+536,Lobsters,reversing,Reverse engineering,Proof of Purchase: Dolphin Emulator has Wii Shop support,https://dolphin-emu.org/blog/2017/03/16/proof-of-purchase/
+537,Lobsters,reversing,Reverse engineering,"Overclocking tools for Nvidia GPUs suck, I made my own.",https://1vwjbxf1wko0yhnr.wordpress.com/2015/08/10/overclocking-tools-for-nvidia-gpus-suck-i-made-my-own/
+538,Lobsters,reversing,Reverse engineering,Walking the interface list,https://aixxe.net/2017/03/walking-interface-list
+539,Lobsters,reversing,Reverse engineering,Analyzing the vintage 8008 processor from die photos: its unusual counters,http://www.righto.com/2017/03/analyzing-vintage-8008-processor-from.html
+540,Lobsters,reversing,Reverse engineering,How to recover lost Python source code if it's still resident in-memory,https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12
+541,Lobsters,reversing,Reverse engineering,Video Game History: Reverse-Engineering the Industry,http://tedium.co/2017/03/09/video-games-reverse-engineering-tengen-accolade/
+542,Lobsters,reversing,Reverse engineering,Exploiting PSoC4 for fun and profit,http://dmitry.gr/index.php?r=05.Projects&proj=23.%20PSoC4
+543,Lobsters,reversing,Reverse engineering,Reverse engineering the popular 555 timer chip (CMOS version),http://www.righto.com/2016/04/teardown-of-cmos-555-timer-chip-how.html
+544,Lobsters,reversing,Reverse engineering,"We’ve broken Go’s automated memory management, here’s what happened",https://www.cossacklabs.com/blog/investigating-go-memory-leaks.html
+545,Lobsters,reversing,Reverse engineering,About the Newton MessagePad 2xxx ROM card,http://www.matthiasm.com/romCard.html
+546,Lobsters,reversing,Reverse engineering,Universal Radio Hacker: investigate wireless protocols like a boss,https://github.com/jopohl/urh
+547,Lobsters,reversing,Reverse engineering,Finding The Lost Vikings – Reversing a Virtual Machine,https://ryiron.wordpress.com/2017/02/01/finding-the-lost-vikings-reversing-a-virtual-machine/
+548,Lobsters,reversing,Reverse engineering,Attacking the Windows NVIDIA Driver,https://googleprojectzero.blogspot.com/2017/02/attacking-windows-nvidia-driver.html
+549,Lobsters,reversing,Reverse engineering,"Creating a ""virus"" for Pokemon Red and Blue (self replicating save file!!)",https://www.youtube.com/watch?v=h5Igc18hc2Q
+550,Lobsters,reversing,Reverse engineering,Reverse-engineering the surprisingly advanced ALU of the 8008 microprocessor,http://www.righto.com/2017/02/reverse-engineering-surprisingly.html
+551,Lobsters,reversing,Reverse engineering,Attack of the DaliBug,http://pozorvlak.livejournal.com/150891.html
+552,Lobsters,reversing,Reverse engineering,Legacy systems are everywhere,https://trackchanges.postlight.com/legacy-systems-are-everywhere-dddccf08bf6e
+553,Lobsters,reversing,Reverse engineering,Reverse Engineering a book cover,https://vulnsec.com/2017/reverse-engineering-a-book-cover/
+554,Lobsters,reversing,Reverse engineering,Life Is Strange Server Investigation,https://blog.b303.me/2017/02/07/life-is-strange-server-investigation/
+555,Lobsters,reversing,Reverse engineering,Russians Engineer a Brilliant Slot Machine Cheat—And Casinos Have No Fix,https://www.wired.com/2017/02/russians-engineer-brilliant-slot-machine-cheat-casinos-no-fix/
+556,Lobsters,reversing,Reverse engineering,Librem 13 coreboot report: It’s Alive!,https://puri.sm/posts/librem-13-coreboot-report-february-3rd-2017/
+557,Lobsters,reversing,Reverse engineering,TM-D710 Internal GPS (de NF3H),http://mythopoeic.org/tm-d710-internal-gps-de-nf3h/
+558,Lobsters,reversing,Reverse engineering,Shining some light on the Amazon Dash button,https://media.ccc.de/v/33c3-8398-shining_some_light_on_the_amazon_dash_button
+559,Lobsters,reversing,Reverse engineering,On why my tbreak tracing trick did not work,http://gynvael.coldwind.pl/?id=638
+560,Lobsters,reversing,Reverse engineering,Emulating the Nintendo DS: Part 1,https://shonumi.github.io/articles/art3.html
+561,Lobsters,reversing,Reverse engineering,My personal fight against the modern laptop [keyboard and firmware lockouts],https://www.youtube.com/watch?v=Fzmm87oVQ6c
+562,Lobsters,reversing,Reverse engineering,How To Pwn An AXIS 206 IP Cam,https://what.pwned.me/index.php/2017/01/23/axis-206-pwned/
+563,Lobsters,reversing,Reverse engineering,How a robot got Super Mario 64 and Portal “running” on an SNES,http://arstechnica.com/gaming/2017/01/how-a-robot-got-super-mario-64-and-portal-running-on-an-snes/
+564,Lobsters,reversing,Reverse engineering,Librem 13 coreboot report,https://puri.sm/posts/librem-13-coreboot-report-january-12-2017/
+565,Lobsters,reversing,Reverse engineering,"We reverse engineered 16k apps, here’s what we found",https://medium.com/@mkagenius/afdccb592b81
+566,Lobsters,reversing,Reverse engineering,Disassembling Jak & Daxter,http://www.codersnotes.com/notes/disassembling-jak/
+567,Lobsters,reversing,Reverse engineering,Exploiting ms16-098 rgnobj integer overflow on windows 8.1 x64 bit by abusing gdi objects,https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/
+568,Lobsters,reversing,Reverse engineering,Cracking Sublime Text 3,http://blog.fernandodominguez.me/cracking-sublime-text-3/
+569,Lobsters,reversing,Reverse engineering,Diving back into coreboot development,https://puri.sm/posts/diving-back-into-coreboot-development/
+570,Lobsters,reversing,Reverse engineering,fail0verflow/radeon-tools - Radeon microcode reverse engineering tools,https://github.com/fail0verflow/radeon-tools
+571,Lobsters,reversing,Reverse engineering,Console Hacking 2016: Postscript,https://fail0verflow.com/blog/2016/console-hacking-2016-postscript/
+572,Lobsters,reversing,Reverse engineering,java pastebin and live disassembler,https://javap.yawk.at/
+573,Lobsters,reversing,Reverse engineering,Veles - Binary Analysis Tool - CodiSec,https://codisec.com/veles/
+574,Lobsters,reversing,Reverse engineering,Reverse Engineering the Amazon Dash Button’s Wireless Audio Configuration,http://www.blog.jay-greco.com/wp/?p=116
+575,Lobsters,reversing,Reverse engineering,Wolfenstein custom cartridge for Gameboy Color,http://www.happydaze.se/wolf/
+576,Lobsters,reversing,Reverse engineering,Pokémon R/B/Y: Bringing arbitrary code execution to other games,https://www.youtube.com/watch?v=SL_Zuc0tlvo
+577,Lobsters,reversing,Reverse engineering,Starcraft on Open Pandora: How the Port Came to Be,http://pandoralive.info/?p=3089
+578,Lobsters,reversing,Reverse engineering,Reversing GO binaries like a pro,https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
+579,Lobsters,reversing,Reverse engineering,Practical Reverse Engineering Part 5 - Digging Through the Firmware,http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/
+580,Lobsters,reversing,Reverse engineering,McAfee Virus Scan for Linux: Vulnerability Writeup,https://nation.state.actor/mcafee.html
+581,Lobsters,reversing,Reverse engineering,Compiler Explorer,http://godbolt.org/
+582,Lobsters,reversing,Reverse engineering,1213486160 has a friend: 1195725856,https://rachelbythebay.com/w/2016/10/07/magic/
+583,Lobsters,reversing,Reverse engineering,F**kAdblock! How Publishers are defeating ad blockers & how ad blockers are fighting back.,http://blog.bugreplay.com/post/153861574674/fkadblock-how-publishers-are-defeating-ad
+584,Lobsters,reversing,Reverse engineering,Latacora Riddle and Browser Fingerprinting,http://swisshttp.blogspot.com/2016/10/latacora-riddle.html
+585,Lobsters,reversing,Reverse engineering,Secure Rom extraction on iPhone 6s,http://ramtin-amin.fr/#nvmedma
+586,Lobsters,reversing,Reverse engineering,Disassembling Sublime Text,http://thume.ca/2016/12/03/disassembling-sublime-text/
+587,Lobsters,reversing,Reverse engineering,Connecting Communities,https://speakerdeck.com/ange/connecting-communities
+588,Lobsters,reversing,Reverse engineering,How Supervisors Work,https://jbodah.github.io/blog/2016/11/18/supervisors-work/
+589,Lobsters,reversing,Reverse engineering,Super Mario World Powerup Incrementation Explained,https://www.youtube.com/watch?v=TqK-2jUQBUY
+590,Lobsters,reversing,Reverse engineering,Super Mario Bros. 3 - Wrong Warp,https://www.youtube.com/watch?v=fxZuzos7Auk
+591,Lobsters,reversing,Reverse engineering,The (Open) Homebrew Channel,https://hackmii.com/2016/11/the-open-homebrew-channel/
+592,Lobsters,reversing,Reverse engineering,Anatomy of a Program in Memory,http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory
+593,Lobsters,reversing,Reverse engineering,radare2 meets com101,https://zxvf.org/post/r2com101/
+594,Lobsters,reversing,Reverse engineering,Demystifying the i-Device NVMe NAND,http://ramtin-amin.fr/#nvmepcie
+595,Lobsters,reversing,Reverse engineering,A New Way of Playing Japanese and English Games Side-By-Side,http://legendsoflocalization.com/a-new-way-of-playing-japanese-and-english-games-side-by-side/
+596,Lobsters,reversing,Reverse engineering,TERM=aaa60 Mk.2,https://www.jwz.org/blog/2016/11/termaaa60-mk-2/
+597,Lobsters,reversing,Reverse engineering,Lighthouse tracking examined,http://doc-ok.org/?p=1478
+598,Lobsters,reversing,Reverse engineering,Examining How the Great Firewall Discovers Hidden Circumvention Servers,http://conferences.sigcomm.org/imc/2015/papers/p445.pdf
+599,Lobsters,reversing,Reverse engineering,Lab explosions and accidents from decapping ICs,http://uvicrec.blogspot.com/2015/12/lab-explosions-and-accidents.html
+600,Lobsters,reversing,Reverse engineering,"Elixir and IO Lists, Part 2: IO Lists in Phoenix",https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/
+601,Lobsters,reversing,Reverse engineering,Killing Mirai: Active defense against an IoT botnet (Part 1),https://www.invincealabs.com/blog/2016/10/killing-mirai/
+602,Lobsters,reversing,Reverse engineering,Issue 0x13 of PoC||GTFO,https://www.alchemistowl.org/pocorgtfo/pocorgtfo13.pdf
+603,Lobsters,reversing,Reverse engineering,JTAGulator Samsung 850 EVO SSD,https://www.youtube.com/watch?v=lOYe2z7n3Rw
+604,Lobsters,reversing,Reverse engineering,NMOS IC Reverse Engineering,https://www.wdj-consulting.com/blog/nmos-sample.html
+605,Lobsters,reversing,Reverse engineering,"How to read web specs Part I – Or: WebVR, how do you work?",https://surma.link/things/reading-specs/
+606,Lobsters,reversing,Reverse engineering,The 101 of ELF Binaries on Linux: Understanding and Analysis,https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+607,Lobsters,reversing,Reverse engineering,Nifty Tricks for ARM Firmware Reverse Engineering,https://www.youtube.com/watch?v=GX8-K4TssjY
+608,Lobsters,reversing,Reverse engineering,Reverse engineering a ceiling fan (2014),http://www.irrational.net/2014/03/22/reverse-engineering-a-ceiling-fan/
+609,Lobsters,reversing,Reverse engineering,Fixing E.T. for the Atari 2600,http://www.neocomputer.org/projects/et/?1
+610,Lobsters,reversing,Reverse engineering,The Voodoo of Elevation Gain and Strava (and How I Get Around It) (2015),http://regex.info/blog/2015-05-09/2568
+611,Lobsters,reversing,Reverse engineering,H1N1 malware: Technical analysis reveals new capabilities,https://blogs.cisco.com/security/h1n1-technical-analysis-reveals-new-capabilities
+612,Lobsters,reversing,Reverse engineering,Escaping the Lua 5.2 Sandbox With Untrusted Bytecode,https://apocrypha.numin.it/talks/lua_bytecode_exploitation.pdf
+613,Lobsters,reversing,Reverse engineering,Hacking Street Fighter: CPS2 Encryption in r2,https://www.youtube.com/watch?v=MnA11govEcI
+614,Lobsters,reversing,Reverse engineering,Xerox Alto restoration day 5: Smoke and parity errors,http://www.righto.com/2016/09/xerox-alto-restoration-day-5-smoke-and.html
+615,Lobsters,reversing,Reverse engineering,Dolphin Emulator - Booting the Final GameCube Game,https://dolphin-emu.org/blog/2016/09/06/booting-the-final-gc-game/
+616,Lobsters,reversing,Reverse engineering,AVLeak: Fingerprinting Antivirus Emulators Through Black-Box Testing,https://www.usenix.org/system/files/conference/woot16/woot16-paper-blackthorne_update.pdf
+617,Lobsters,reversing,Reverse engineering,Recovering Atari ST ASIC designs,http://www.chzsoft.de/asic-web/
+618,Lobsters,reversing,Reverse engineering,Audible DRM scheme,https://recon.cx/2016/resources/slides/RECON-0xA-Audible-DRM-scheme.pdf
+619,Lobsters,reversing,Reverse engineering,Reverse-Engineered GEOS 2.0 for C64 Source Code,http://www.pagetable.com/?p=869
+620,Lobsters,reversing,Reverse engineering,Multiple Vulnerabilities in BHU WiFi “uRouter”,http://blog.ioactive.com/2016/08/multiple-vulnerabilities-in-bhu-wifi.html
+621,Lobsters,reversing,Reverse engineering,endrazine/wcc - The Witchcraft Compiler Collection,https://github.com/endrazine/wcc
+622,Lobsters,reversing,Reverse engineering,EU expands copyright to furniture and extends term by a century,https://www.privateinternetaccess.com/blog/2016/08/3d-printers-break-eu-expands-copyright-furniture/
+623,Lobsters,reversing,Reverse engineering,System N2 Exposed,https://medium.com/@dropkickshell/system-n2-exposed-5395436c824d
+624,Lobsters,reversing,Reverse engineering,Hard disk hacking (2013),https://spritesmods.com/?art=hddhack
+625,Lobsters,reversing,Reverse engineering,Reverse Engineering the TP-Link HS110,https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/
+626,Lobsters,reversing,Reverse engineering,The Eerie Enigma of Cicada 3301 (2015),http://mysteriousuniverse.org/2015/03/the-eerie-enigma-of-cicada-3301/
+627,Lobsters,reversing,Reverse engineering,WhatsApp Forensic Artifacts: Chats Aren’t Being Deleted,http://www.zdziarski.com/blog/?p=6143
+628,Lobsters,reversing,Reverse engineering,Controlling KDE screen locking from a shell script,http://blog.plover.com/Unix/qdbus.html
+629,Lobsters,reversing,Reverse engineering,Shut up snitch! - reverse engineering and exploiting a critical Little Snitch vulnerability,https://reverse.put.as/2016/07/22/shut-up-snitch-reverse-engineering-and-exploiting-a-critical-little-snitch-vulnerability/
+630,Lobsters,reversing,Reverse engineering,The x86 Script Instruction Virtual Machine,http://www.tboox.org/2016/07/26/x86-script-instruction-virtual-machine/
+631,Lobsters,reversing,Reverse engineering,PoC||GTFO 0x12,https://www.alchemistowl.org/pocorgtfo/pocorgtfo12.pdf
+632,Lobsters,reversing,Reverse engineering,IBM Capsense USB keyboard controllers,http://downloads.cornall.co/ibm-capsense-usb-web/ibm-capsense-usb.html
+633,Lobsters,reversing,Reverse engineering,REcon 2015 - Reversing the Nintendo 64 CIC,https://www.youtube.com/watch?v=IKjtTjmXCOI
+634,Lobsters,reversing,Reverse engineering,Classic NES Series Anti-Emulation Measures (2014),https://mgba.io/2014/12/28/classic-nes/
+635,Lobsters,reversing,Reverse engineering,"UPC UBEE EVW3226 WPA2 Password Reverse Engineering, rev 3",https://deadcode.me/blog/2016/07/01/UPC-UBEE-EVW3226-WPA2-Reversing.html
+636,Lobsters,reversing,Reverse engineering,Deconstructing The Xbox Security System (2006),https://www.youtube.com/watch?v=6fOjGLCctEY
+637,Lobsters,reversing,Reverse engineering,The future of console homebrew (2013),https://fail0verflow.com/blog/2013/espresso.html
+638,Lobsters,reversing,Reverse engineering,SFG: Furtim's Parent,https://sentinelone.com/blogs/sfg-furtims-parent/
+639,Lobsters,reversing,Reverse engineering,How I Cracked a Keylogger and Ended Up in Someone's Inbox,https://www.trustwave.com/Resources/SpiderLabs-Blog/How-I-Cracked-a-Keylogger-and-Ended-Up-in-Someone-s-Inbox/
+640,Lobsters,reversing,Reverse engineering,Researching protection and recovering Namco System ES1 arcades,https://medium.com/@ValdikSS/researching-protection-and-recovering-namco-system-es1-arcades-1f8423fdeb3b
+641,Lobsters,reversing,Reverse engineering,"Reverse Engineering a Quadcopter RC, or: How to not miss the needle while throwing the haystack in the air (Part 1)",https://mmelchior.wordpress.com/2016/06/06/qc-360-a1-p1/
+642,Lobsters,reversing,Reverse engineering,Exploring and exploiting Lenovo firmware secrets,http://blog.cr4.sh/2016/06/exploring-and-exploiting-lenovo.html
+643,Lobsters,reversing,Reverse engineering,Apple EFI firmware passwords and the SCBO myth,https://reverse.put.as/2016/06/25/apple-efi-firmware-passwords-and-the-scbo-myth/
+644,Lobsters,reversing,Reverse engineering,International Journal of PoC || GTFO 0x12,http://openwall.info/wiki/people/solar/pocorgtfo
+645,Lobsters,reversing,Reverse engineering,Hacking the Winkhub [2015],https://mattcarrier.com/post/hacking-the-winkhub-part-1/
+646,Lobsters,reversing,Reverse engineering,Intel x86s hide another CPU that can take over your machine (you can't audit it),http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
+647,Lobsters,reversing,Reverse engineering,Practical Reverse Engineering Part 4 - Dumping the Flash,http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
+648,Lobsters,reversing,Reverse engineering,ROPMEMU - A Framework for the Analysis of Complex Code-Reuse Attacks,http://blog.talosintel.com/2016/06/ropmemu.html
+649,Lobsters,reversing,Reverse engineering,Practical Reverse Engineering Part 1 - Hunting for Debug Ports,http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+650,Lobsters,reversing,Reverse engineering,Dead RATs: Exploiting malware C2 servers,http://samvartaka.github.io/exploitation/2016/06/03/dead-rats-exploiting-malware
+651,Lobsters,reversing,Reverse engineering,A Facebook Sixth Sense,http://kirszenberg.com/facebook-sixth-sense
+652,Lobsters,reversing,Reverse engineering,Monitoring Necurs - The tip of the iceberg,http://blog.anubisnetworks.com/blog/monitoring-necurs-the-tip-of-the-iceberg
+653,Lobsters,reversing,Reverse engineering,"I wrote a Lua programmable display-server, a desktop environment and a nifty debugging/reversing tool",https://arcan-fe.com/2016/05/27/i-wrote-a-lua-programmable-display-server-arcan-a-desktop-environment-durden-and-a-nifty-debuggingreversing-tool-senseye/
+654,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 7,http://blog.carlosgaldino.com/2016/05/24/defusing-a-binary-bomb-with-gdb-part-7.html
+655,Lobsters,reversing,Reverse engineering,PolyHook -- Library for Hooking Functions,https://github.com/stevemk14ebr/PolyHook
+656,Lobsters,reversing,Reverse engineering,GSM/GPRS Traffic Interception for Penetration Testing Engagements,https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
+657,Lobsters,reversing,Reverse engineering,Hotel_Music,http://wiki.gkbrk.com/Hotel_Music.html
+658,Lobsters,reversing,Reverse engineering,Analysis of a Heap Overflow in Foxit Reader,https://scoding.de/analysis-of-a-heap-overflow-in-foxit-reader
+659,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 6,http://blog.carlosgaldino.com/2016/05/19/defusing-a-binary-bomb-with-gdb-part-6.html
+660,Lobsters,reversing,Reverse engineering,JayStation2 Dev Blog,http://maisonikkoku.com/jaystation2/blog_main.html
+661,Lobsters,reversing,Reverse engineering,Panopticon,https://panopticon.re/
+662,Lobsters,reversing,Reverse engineering,Can't Hack a Hacker: Reverse Engineering a Discovered ATM Skimmer,https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
+663,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 5,http://blog.carlosgaldino.com/2016/04/28/defusing-a-binary-bomb-with-gdb-part-5.html
+664,Lobsters,reversing,Reverse engineering,Humble Book Bundle: Hacking presented by No Starch Press,https://www.humblebundle.com/books/no-starch-hacking-books
+665,Lobsters,reversing,Reverse engineering,Exploring Qualcomm's Secure Execution Environment,http://bits-please.blogspot.com/2016/04/exploring-qualcomms-secure-execution.html
+666,Lobsters,reversing,Reverse engineering,Elixir RAM and the Template of Doom,http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html
+667,Lobsters,reversing,Reverse engineering,The tale of Syndicate Wars Port,http://gynvael.coldwind.pl/?id=279
+668,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 4,http://blog.carlosgaldino.com/2016/04/25/defusing-a-binary-bomb-with-gdb-part-4.html
+669,Lobsters,reversing,Reverse engineering,Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide,https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide
+670,Lobsters,reversing,Reverse engineering,Teaching an old RAT new tricks,https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/
+671,Lobsters,reversing,Reverse engineering,Dissecting a spammer's spam script,https://jelleraaijmakers.nl/2016/04/dissecting-spammers-spam-script
+672,Lobsters,reversing,Reverse engineering,Reversing the petya ransomware with constraint solvers,http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html
+673,Lobsters,reversing,Reverse engineering,Swift Reversing,http://infiltratecon.com/archives/swift_Ryan_Stortz.pdf
+674,Lobsters,reversing,Reverse engineering,Syndicate Wars Port,http://swars.vexillium.org/
+675,Lobsters,reversing,Reverse engineering,Piecing Together the JIGSAW Puzzle,https://blogs.forcepoint.com/security-labs/piecing-together-jigsaw-puzzle
+676,Lobsters,reversing,Reverse engineering,larsbrinkhoff/awesome-cpus -- CPU and MCU documentation in one place,https://github.com/larsbrinkhoff/awesome-cpus
+677,Lobsters,reversing,Reverse engineering,Rokku Ransomware shows possible link with Chimera,https://blog.malwarebytes.org/threat-analysis/2016/04/rokku-ransomware/
+678,Lobsters,reversing,Reverse engineering,a complete guide to hacking your vehicle bus on the cheap & easy – part 1 (hardware interface),https://theksmith.com/software/hack-vehicle-bus-cheap-easy-part-1/
+679,Lobsters,reversing,Reverse engineering,Deceiving Blizzard Warden,https://hackmag.com/uncategorized/deceiving-blizzard-warden/
+680,Lobsters,reversing,Reverse engineering,Mumblehard takedown ends army of Linux servers from spamming,http://www.welivesecurity.com/2016/04/07/mumblehard-takedown-ends-army-of-linux-servers-from-spamming/
+681,Lobsters,reversing,Reverse engineering,The 3DS Cryptosystem,http://yifan.lu/2016/04/06/the-3ds-cryptosystem/
+682,Lobsters,reversing,Reverse engineering,I’m not a human: Breaking the Google reCAPTCHA,https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf
+683,Lobsters,reversing,Reverse engineering,"The state of SNES emulation, part 4",http://byuu.org/articles/emulation-4/
+684,Lobsters,reversing,Reverse engineering,E7 E7 E7 EE: the story of the greatest copy protection ever invented,https://archive.org/details/2015_Kfest_Pilgrim_Copy_Protection
+685,Lobsters,reversing,Reverse engineering,SNES Code Injection -- Flappy Bird in Super Mario World,https://www.youtube.com/watch?v=hB6eY73sLV0
+686,Lobsters,reversing,Reverse engineering,Postgres on the wire: A look at the PostgreSQL wire protocol,http://www.pgcon.org/2014/schedule/attachments/330_postgres-for-the-wire.pdf
+687,Lobsters,reversing,Reverse engineering,Abusing bugs in the Locky ransomware to create a vaccine,https://www.lexsi.com/securityhub/abusing-bugs-in-the-locky-ransomware-to-create-a-vaccine/?lang=en
+688,Lobsters,reversing,Reverse engineering,BinDiff now available for free,https://security.googleblog.com/2016/03/bindiff-now-available-for-free.html
+689,Lobsters,reversing,Reverse engineering,PoC‖GTFO Issue 0x11,https://www.alchemistowl.org/pocorgtfo/pocorgtfo11.pdf
+690,Lobsters,reversing,Reverse engineering,"Reverse engineering Kirby's Dreamland 2, for Game Boy",http://ecc-comp.blogspot.com/2016/03/reverse-engineering-kirbys-dreamland-2.html
+691,Lobsters,reversing,Reverse engineering,Analysis of VM escape by using LUA script,http://en.wooyun.io/2016/02/29/44.html
+692,Lobsters,reversing,Reverse engineering,Deconstructing the Xbox Boot ROM,https://mborgerson.com/deconstructing-the-xbox-boot-rom
+693,Lobsters,reversing,Reverse engineering,Please Scan My Towel,http://jerrygamblin.com/2016/03/01/please-scan-my-towel/
+694,Lobsters,reversing,Reverse engineering,Pirated iOS App Store’s Client Successfully Evaded Apple iOS Code Review,http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/
+695,Lobsters,reversing,Reverse engineering,Access violation on nonsense instruction,https://blogs.msdn.microsoft.com/oldnewthing/20141226-00/?p=43293
+696,Lobsters,reversing,Reverse engineering,Exploiting SMM callout vulnerabilities in Lenovo firmware,http://blog.cr4.sh/2016/02/exploiting-smm-callout-vulnerabilities.html
+697,Lobsters,reversing,Reverse engineering,Using EMET to Disable EMET,https://www.fireeye.com/blog/threat-research/2016/02/using_emet_to_disabl.html
+698,Lobsters,reversing,Reverse engineering,Cracking a Program with GDB,http://erenyagdiran.github.io/I-was-just-asked-to-crack-a-program-Part-1/
+699,Lobsters,reversing,Reverse engineering,Reverse engineering the ARM1 processor's microinstructions,http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html
+700,Lobsters,reversing,Reverse engineering,"Another story of Unix Trojan: Tsunami (IRC/Bot) w/ Flooder, Backdoor at a hacked xBSD (2013)",http://blog.malwaremustdie.org/2013/05/story-of-unix-trojan-tsunami-ircbot-w.html
+701,Lobsters,reversing,Reverse engineering,Cheap BlueTooth Buttons and Linux,https://shkspr.mobi/blog/2016/02/cheap-bluetooth-buttons-and-linux/
+702,Lobsters,reversing,Reverse engineering,Reverse engineering the Firewatch.camera API (and pranking r/Firewatch),https://spindas.dreamwidth.org/2244.html
+703,Lobsters,reversing,Reverse engineering,Graphing when your Facebook friends are awake,https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake
+704,Lobsters,reversing,Reverse engineering,How Gmail lets spammers grab your attention with emoji,https://shkspr.mobi/blog/2015/05/how-gmail-lets-spammers-grab-your-attention-with-emoji/
+705,Lobsters,reversing,Reverse engineering,lcamtuf's blog: Automatically inferring file syntax with afl-analyze,http://lcamtuf.blogspot.com/2016/02/say-hello-to-afl-analyze.html
+706,Lobsters,reversing,Reverse engineering,What Happened: Adobe Creative Cloud Update Bug,https://www.backblaze.com/blog/adobe-creative-cloud-update-bug/
+707,Lobsters,reversing,Reverse engineering,Extracting My Data from the Microsoft Band,http://jeffhuang.com/extracting_my_data_from_the_microsoft_band.html
+708,Lobsters,reversing,Reverse engineering,"Unlocking my Lenovo laptop, part 3",http://www.zmatt.net/unlocking-my-lenovo-laptop-part-3/
+709,Lobsters,reversing,Reverse engineering,PoC||GTFO,https://unpack.debug.su/pocorgtfo/
+710,Lobsters,reversing,Reverse engineering,"Why do Windows functions all begin with a pointless MOV EDI, EDI instruction?",https://blogs.msdn.microsoft.com/oldnewthing/20110921-00/?p=9583
+711,Lobsters,reversing,Reverse engineering,Execute My Packet,https://blog.exodusintel.com/2016/02/10/firewall-hacking/
+712,Lobsters,reversing,Reverse engineering,mediatek mt6261 rom dumping via the vibration motor,http://www.sodnpoo.com/posts.xml/mediatek_mt6261_rom_dumping_via_the_vibration_motor.xml
+713,Lobsters,reversing,Reverse engineering,Logging a program's syscalls without allowing (some of) them with maybe,https://github.com/p-e-w/maybe
+714,Lobsters,reversing,Reverse engineering,Unlocking my Lenovo laptop battery,http://www.zmatt.net/unlocking-my-lenovo-laptop-part-1/
+715,Lobsters,reversing,Reverse engineering,Hacking GCN via OpenGL,https://onedrive.live.com/view.aspx?resid=EBE7DEDA70D06DA0!107&app=PowerPoint&authkey=!AD-O3oq3Ung7pzk
+716,Lobsters,reversing,Reverse engineering,Reversing Apple's syslogd bug,https://reverse.put.as/2016/01/22/reversing-apples-syslogd-bug/
+717,Lobsters,reversing,Reverse engineering,Super Mail Forward : an email that evolves as you forward it,https://medium.com/@hteumeuleu/super-mail-forward-an-email-that-evolves-as-you-forward-it-84466596f30d#.ip1kbuxbu
+718,Lobsters,reversing,Reverse engineering,Deliberately hidden backdoor account in several AMX (HARMAN Professional) devices,http://blog.sec-consult.com/2016/01/deliberately-hidden-backdoor-account-in.html
+719,Lobsters,reversing,Reverse engineering,"Abusing Floating Point Casts To Beat A SM64 Level In Half An ""A"" Press",https://www.youtube.com/watch?v=kpk2tdsPh0A
+720,Lobsters,reversing,Reverse engineering,PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD,http://n0k.r4n0k.com/pocorgtfo/pocorgtfo10.pdf
+721,Lobsters,reversing,Reverse engineering,How to radare2 a fake openssh exploit,https://dustri.org/b/how-to-radare2-a-fake-openssh-exploit.html
+722,Lobsters,reversing,Reverse engineering,Curiosity wheel damage: The problem and solutions,http://www.planetary.org/blogs/emily-lakdawalla/2014/08190630-curiosity-wheel-damage.html
+723,Lobsters,reversing,Reverse engineering,Disassembling NWScript Bytecode,https://xoreos.org/blog/2016/01/12/disassembling-nwscript-bytecode/
+724,Lobsters,reversing,Reverse engineering,Why accuracy matters,https://web.archive.org/web/20110718182607/http://byuu.org/bsnes/accuracy
+725,Lobsters,reversing,Reverse engineering,How a game-playing robot coded “Super Mario Maker” onto an SNES—live on stage,http://arstechnica.com/gaming/2016/01/how-a-game-playing-robot-coded-super-mario-maker-onto-an-snes-live-on-stage/
+726,Lobsters,reversing,Reverse engineering,Inside the Volkswagen emissions cheating firmware,https://lwn.net/SubscriberLink/670488/4350e3873e2fa15c/
+727,Lobsters,reversing,Reverse engineering,Viper - binary analysis and management framework,http://viper.li/
+728,Lobsters,reversing,Reverse engineering,"""Reverse engineering"" a real candle",https://cpldcpu.wordpress.com/2016/01/05/reverse-engineering-a-real-candle/
+729,Lobsters,reversing,Reverse engineering,My Favorite Debug Ever,http://ryan.hypnoticocelot.com/post/136617949294/my-favorite-debug-ever
+730,Lobsters,reversing,Reverse engineering,Portable Executable 101 - a windows executable walkthrough,https://code.google.com/p/corkami/wiki/PE101?show=content
+731,Lobsters,reversing,Reverse engineering,(In)Security of Embedded Devices' Firmware - Fast and Furious at Large Scale,https://media.ccc.de/v/32c3-7252-in_security_of_embedded_devices_firmware_-_fast_and_furious_at_large_scale#video
+732,Lobsters,reversing,Reverse engineering,BurgerTime (1982) Finally Cracked,https://ia801505.us.archive.org/33/items/BurgerTime4amCrack/BurgerTime%20(4am%20crack).txt
+733,Lobsters,reversing,Reverse engineering,Reverse Engineering the GoPro Cineform codec,https://medium.com/@kierank_/reverse-engineering-the-gopro-cineform-codec-7411312bfe1c
+734,Lobsters,reversing,Reverse engineering,The Missing 11th of the Month,http://drhagen.com/blog/the-missing-11th-of-the-month/
+735,Lobsters,reversing,Reverse engineering,When coding style survives compilation: De-anonymizing programmers from executable binaries,https://freedom-to-tinker.com/blog/aylin/when-coding-style-survives-compilation-de-anonymizing-programmers-from-executable-binaries/
+736,Lobsters,reversing,Reverse engineering,How the Great Firewall discovers hidden circumvention servers,https://media.ccc.de/v/32c3-7196-how_the_great_firewall_discovers_hidden_circumvention_servers#video
+737,Lobsters,reversing,Reverse engineering,Reverse Engineering for Beginners,http://beginners.re/
+738,Lobsters,reversing,Reverse engineering,A (mostly) useful debugger on z/OS,http://www.bigendiansmalls.com/a-mostly-useful-debugger-on-zos/
+739,Lobsters,reversing,Reverse engineering,Extracting the Private Key from a TREZOR,https://jochen-hoenicke.de/trezor-power-analysis/
+740,Lobsters,reversing,Reverse engineering,"Hacking the PS4, part 3 - Kernel exploitation",https://cturt.github.io/ps4-3.html
+741,Lobsters,reversing,Reverse engineering,Apple II Library: The 4am Collection,https://archive.org/details/apple_ii_library_4am?&sort=-downloads&page=2
+742,Lobsters,reversing,Reverse engineering,Fixing Final Fantasy VI's Active Time Battle,http://www.twitlonger.com/show/n_1so1n7f
+743,Lobsters,reversing,Reverse engineering,Extracting Audio Messages from WeChat,http://kronopath.net/blog/extracting-audio-messages-from-wechat/
+744,Lobsters,reversing,Reverse engineering,Hacking a Linux-Powered Rifle,https://www.youtube.com/watch?v=PEpuEprQ5VU
+745,Lobsters,reversing,Reverse engineering,Ask DTrace: Why are my tests so slow?,https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-slow.html
+746,Lobsters,reversing,Reverse engineering,Stick a pin in it!,https://posts.postlight.com/stick-a-pin-in-it-acf3a9051337
+747,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 3,http://blog.carlosgaldino.com/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html
+748,Lobsters,reversing,Reverse engineering,Fallout 4 Service Discovery and Relay,https://getcarina.com/blog/fallout-4-service-discovery-and-relay/
+749,Lobsters,reversing,Reverse engineering,Master of Puppets: Analyzing And Attacking A Botnet For Fun And Profit,http://arxiv.org/pdf/1511.06090.pdf
+750,Lobsters,reversing,Reverse engineering,Directly writing AMD GPU assembler by hacking the OpenGL shader interface,https://onedrive.live.com/view.aspx?resid=EBE7DEDA70D06DA0!107&authkey=!AD-O3oq3Ung7pzk
+751,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 2,http://blog.carlosgaldino.com/2015/11/19/defusing-a-binary-bomb-with-gdb-part-2.html
+752,Lobsters,reversing,Reverse engineering,Defusing a binary bomb with gdb - Part 1,http://blog.carlosgaldino.com/2015/11/12/defusing-a-binary-bomb-with-gdb-part-1.html
+753,Lobsters,reversing,Reverse engineering,Linux Ransomware Debut Fails on Predictable Encryption Key,http://labs.bitdefender.com/2015/11/linux-ransomware-debut-fails-on-predictable-encryption-key/
+754,Lobsters,reversing,Reverse engineering,Generating Parking Receipt Barcodes,http://www.ronreiter.com/free-parking-for-life
+755,Lobsters,reversing,Reverse engineering,Experience with the Linotron 202 (1980),http://www.cs.princeton.edu/~bwk/202/summer.reconstructed.pdf
+756,Lobsters,reversing,Reverse engineering,When Organized Crime Applies Academic Results: A Forensic Analysis of an In-Card Listening Device,https://eprint.iacr.org/2015/963.pdf
+757,Lobsters,reversing,Reverse engineering,Python in a hacker's toolbox,http://www.youtube.com/watch?v=aEj8W_K1IFE
+758,Lobsters,reversing,Reverse engineering,Getting a full PDF from a DRM-encumbered online textbook,http://vgel.me/posts/cracking-online-textbook/
+759,Lobsters,reversing,Reverse engineering,Statically Linking a Windows Kernel Driver as an ELF,http://gaasedelen.blogspot.com/2015/10/statically-linking-windows-kernel.html
+760,Lobsters,reversing,Reverse engineering,Deobfuscating Shifu,http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html
+761,Lobsters,reversing,Reverse engineering,Demo: A fully open source flow for iCE40 FPGAs (using Project IceStorm),http://www.youtube.com/watch?v=yUiNlmvVOq8
+762,Lobsters,reversing,Reverse engineering,Notes on Linux/Xor.DDoS,http://bartblaze.blogspot.com/2015/09/notes-on-linuxxorddos.html
+763,Lobsters,reversing,Reverse engineering,Modern Binary Exploitation,http://security.cs.rpi.edu/courses/binexp-spring2015/
+764,Lobsters,reversing,Reverse engineering,How I hacked my IP camera and found this backdoor account,http://jumpespjump.blogspot.com/2015/09/how-i-hacked-my-ip-camera-and-found.html
+765,Lobsters,reversing,Reverse engineering,The Inside Story Behind MS08-067,http://blogs.technet.com/b/johnla/archive/2015/09/26/the-inside-story-behind-ms08-067.aspx
+766,Lobsters,reversing,Reverse engineering,Translating Pokemon Red and Blue into Old English,https://github.com/averykatko/poccathyrsas
+767,Lobsters,reversing,Reverse engineering,Learning more about the GFW's active probing system,https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system
+768,Lobsters,reversing,Reverse engineering,Reverse-Engineering iOS Apps: Hacking on Lyft,https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
+769,Lobsters,reversing,Reverse engineering,A Look at Hacking Team’s Crypter: core-packer.,http://ethanheilman.tumblr.com/post/128708937890/a-brief-examination-of-hacking-teams-crypter
+770,Lobsters,reversing,Reverse engineering,Encrypted database case #1,http://yurichev.com/blog/encrypted_DB_case_1/
+771,Lobsters,reversing,Reverse engineering,AFL quick start guide,http://lcamtuf.coredump.cx/afl/QuickStartGuide.txt
+772,Lobsters,reversing,Reverse engineering,DEFCON 23 Badge Challenge,http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge
+773,Lobsters,reversing,Reverse engineering,Blackbox Reversing an Electric Skateboard Wireless Protocol,https://blog.lacklustre.net/posts/Blackbox_Reversing_an_Electric_Skateboard_Wireless_Protocol/
+774,Lobsters,reversing,Reverse engineering,Absolute Backdoor Revisited (2014),https://www.blackhat.com/docs/us-14/materials/us-14-Kamluk-Computrace-Backdoor-Revisited-WP.pdf
+775,Lobsters,reversing,Reverse engineering,Crack the Code - San José Semaphore,http://www.adobe.com/aboutadobe/philanthropy/sjsemaphore/transmission.html
+776,Lobsters,reversing,Reverse engineering,Analyzing Uncommon Firmware,http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html
+777,Lobsters,reversing,Reverse engineering,Reprogramming Super Mario World from Inside The Game,http://hackaday.com/2015/01/22/reprogramming-super-mario-world-from-inside-the-game/
+778,Lobsters,reversing,Reverse engineering,RedStar OS Watermarking,http://www.insinuator.net/2015/07/redstar-os-watermarking/
+779,Lobsters,reversing,Reverse engineering,How Laziness Works,http://two-wrongs.com/how-laziness-works
+780,Lobsters,reversing,Reverse engineering,A Tale of Two File Names,https://usn.pw/blog/gen/2015/06/09/filenames/
+781,Lobsters,reversing,Reverse engineering,"The Texas Instruments TMX 1795: the first, forgotten microprocessor",http://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html
+782,Lobsters,reversing,Reverse engineering,Feds Say That Banned Researcher Commandeered a Plane,http://www.wired.com/2015/05/feds-say-banned-researcher-commandeered-plane/
+783,Lobsters,reversing,Reverse engineering,A back-to-front TrueCrypt recovery story: The plaintext is the ciphertext,https://www.nccgroup.trust/en/blog/2015/04/a-back-to-front-truecrypt-recovery-story-the-plaintext-is-the-ciphertext/
+784,Lobsters,reversing,Reverse engineering,D-Link patch doesn’t address all bugs listed in their own security advisory,http://www.devttys0.com/2015/04/what-the-ridiculous-fuck-d-link/
+785,Lobsters,reversing,Reverse engineering,More 8088 MPH how it's done,http://www.reenigne.org/blog/more-8088-mph-how-its-done/
+786,Lobsters,reversing,Reverse engineering,1K colours on CGA: How it's done,http://www.reenigne.org/blog/1k-colours-on-cga-how-its-done/
+787,Lobsters,reversing,Reverse engineering,USB Car: How Device Drivers Are Reverse Engineered,http://www.linuxvoice.com/drive-it-yourself-usb-car-6/
+788,Lobsters,reversing,Reverse engineering,Taming the wild copy: Parallel Thread Corruption,http://googleprojectzero.blogspot.com/2015/03/taming-wild-copy-parallel-thread.html
+789,Lobsters,reversing,Reverse engineering,Netflix finally comes to ... the Nintendo Entertainment System,http://venturebeat.com/2015/03/10/netflix-finally-comes-to-the-nintendo-entertainment-system/
+790,Lobsters,reversing,Reverse engineering,One-Bit To Rule Them All: Bypassing Windows’ 10 Protections using a Single Bit,http://breakingmalware.com/vulnerabilities/one-bit-rule-bypassing-windows-10-protections-using-single-bit/
+791,Lobsters,reversing,Reverse engineering,Building a cheat-bot to solve the GBA game Kuru Kuru Kururin,http://medium.com/@mattshepcar/f848f199e76b
+792,Lobsters,reversing,Reverse engineering,A Gentle Primer on Reverse Engineering,https://emily.st/2015/01/27/reverse-engineering/
+793,Lobsters,reversing,Reverse engineering,Bypassing OpenSSL Certificate Pinning in iOS Apps,http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html
+794,Lobsters,reversing,Reverse engineering,Close Encounters with Symbolic Execution (Part 2),http://blog.trailofbits.com/2014/12/04/close-encounters-with-symbolic-execution-part-2/
+795,Lobsters,reversing,Reverse engineering,afl-fuzz: nobody expects CDATA sections in XML,http://lcamtuf.blogspot.com/2014/11/afl-fuzz-nobody-expects-cdata-sections.html
+796,Lobsters,reversing,Reverse engineering,Triggering MS14-066,http://blog.beyondtrust.com/triggering-ms14-066
+797,Lobsters,reversing,Reverse engineering,Microsoft Money crashes during import of account transactions or when changing a payee of a downloaded transaction,http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx?Redirected=true
+798,Lobsters,reversing,Reverse engineering,Anatomy of a code tracer,https://medium.com/@oleavr/anatomy-of-a-code-tracer-b081aadb0df8
+799,Lobsters,reversing,Reverse engineering,How App Store Apps are Hacked on Non-Jailbroken Phones,http://www.zdziarski.com/blog/?p=4002
+800,Lobsters,reversing,Reverse engineering,Reverse Engineering Star Wars: Yoda Stories,http://www.zachtronics.com/yoda-stories/
+801,Lobsters,reversing,Reverse engineering,AES-256 Is Not Enough: Breaking a Bootloader,http://hackaday.io/project/956/log/10108-aes256-is-not-enough-breaking-a-bootloader
+802,Lobsters,reversing,Reverse engineering,Reverse Engineering Wireless Pro Studio Lighting,http://zoetrope.io/tech-blog/reverse-engineering-wireless-pro-studio-lighting
+803,Lobsters,reversing,Reverse engineering,Breaking the Silk Road's Captcha,https://github.com/mieko/sr-captcha/blob/gh-pages/index.md
+804,Lobsters,reversing,Reverse engineering,Pirates of the Internetz: The curse of the waterhole,http://labs.bromium.com/2014/09/16/pirates-of-the-internetz-the-curse-of-the-waterhole/
+805,Lobsters,reversing,Reverse engineering,Solving crackmes with LDPRELOAD,http://radare.today/solving-crackmes-with-ldpreload/
+806,Lobsters,reversing,Reverse engineering,"The poisoned NUL byte, 2014 edition",http://googleprojectzero.blogspot.com/2014/08/the-poisoned-nul-byte-2014-edition.html
+807,Lobsters,reversing,Reverse engineering,CryptoShark: Interactive code tracer for reverse-engineering proprietary software,https://youtube.com/watch?v=hzDsxtcRavY
+808,Lobsters,reversing,Reverse engineering,Reverse engineering a compromised TOR browser bundle,http://dustri.org/b/torbundlebrowserorg.html
+809,Lobsters,reversing,Reverse engineering,A bit more about american fuzzy lop,http://lcamtuf.blogspot.com/2014/08/a-bit-more-about-american-fuzzy-lop.html
+810,Lobsters,reversing,Reverse engineering,Hacking Roller Coaster Tycoon with Genetic Algorithms,https://kev.inburke.com/kevin/roller-coaster-tycoon-genetic-algorithms/
+811,Lobsters,reversing,Reverse engineering,Remote code execution on android devices,http://labs.bromium.com/2014/07/31/remote-code-execution-on-android-devices/
+812,Lobsters,reversing,Reverse engineering,pwn4fun Spring 2014 - Safari - Part I,http://googleprojectzero.blogspot.com/2014/07/pwn4fun-spring-2014-safari-part-i_24.html
+813,Lobsters,reversing,Reverse engineering,Why blurring sensitive information is a bad idea,http://dheera.net/projects/blur
+814,Lobsters,reversing,Reverse engineering,Breaking Spotify DRM with PANDA,http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html
+815,Lobsters,reversing,Reverse engineering,PoC||GTFO 0x04,http://openwall.info/wiki/_media/people/solar/pocorgtfo04.pdf
+816,Lobsters,reversing,Reverse engineering,Recovering deleted files using only grep,http://blog.nullspace.io/recovering-deleted-files-using-only-grep.html
+817,Lobsters,reversing,Reverse engineering,Dare - Dalvik Retargeting to .class,http://siis.cse.psu.edu/dare/index.html
+818,Lobsters,reversing,Reverse engineering,Vermeer's paintings might be 350 year-old color photographs,http://boingboing.net/2014/06/10/vermeers-paintings-might-be.html
+819,Lobsters,reversing,Reverse engineering,Defcon Quals writeup for Shitsco (use-after-free vuln),https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln
+820,Lobsters,reversing,Reverse engineering,DEFCON Capture the Flag Qualification Challenge #1,http://www.endgame.com/blog/defcon-capture-the-flag-qualification-challenge-1.html
+821,Lobsters,reversing,Reverse engineering,Enhancing the AVIC-5000NEX,https://fail0verflow.com/blog/2014/enhancing-the-avic-5000nex.html
+822,Lobsters,reversing,Reverse engineering,The bug that hides from breakpoints,http://drewdevault.com/2014/02/02/The-worst-bugs.html
+823,Lobsters,reversing,Reverse engineering,Video Steganography Lecture by James Ridgway,http://youtu.be/g5U3nsCcJk0
+824,Lobsters,reversing,Reverse engineering,Fracture: Another Open-Source Decompiler Project,http://www.phoronix.com/scan.php?page=news_item&px=MTY2Mjk
+825,Lobsters,reversing,Reverse engineering,You Got Your Web Browser in my Compiler!,http://randomascii.wordpress.com/2014/03/31/you-got-your-web-browser-in-my-compiler/
+826,Lobsters,reversing,Reverse engineering,Introducing the iOS Reverse Engineering Toolkit,https://blog.veracode.com/2014/03/introducing-the-ios-reverse-engineering-toolkit/
+827,Lobsters,reversing,Reverse engineering,Deep Analysis of CVE-2014-0502 – A Double Free Story,http://blog.spiderlabs.com/2014/03/deep-analysis-of-cve-2014-0502-a-double-free-story.html
+828,Lobsters,reversing,Reverse engineering,Reversing Kony JavaScript iOS Applications,http://blog.veracode.com/2014/02/reversing-kony-javascript-ios-applications/
+829,Lobsters,reversing,Reverse engineering,"Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration",http://opensecuritytraining.info/IntroX86.html
+830,Lobsters,reversing,Reverse engineering,Bitcrypt broken,http://blog.cassidiancybersecurity.com/post/2014/02/Bitcrypt-broken
+831,Lobsters,reversing,Reverse engineering,WRT120N fprintf Stack Overflow,http://www.devttys0.com/2014/02/wrt120n-fprintf-stack-overflow/
+832,Lobsters,reversing,Reverse engineering,Cryptic Crossword: Amateur Crypto and Reverse Engineering,http://www.muppetlabs.com/~breadbox/txt/acre.html
+833,Lobsters,reversing,Reverse engineering,Reversing the WRT120N's Firmware Obfuscation,http://www.devttys0.com/2014/02/reversing-the-wrt120n-firmware-obfuscation/
+834,Lobsters,reversing,Reverse engineering,Mystery signal from a helicopter,http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html
+835,Lobsters,reversing,Reverse engineering,Forensic Analysis of Anti-Forensic Activities,http://blog.handlerdiaries.com/?p=363
+836,Lobsters,reversing,Reverse engineering,Using video bugs to determine YouTube's FFmpeg version (2011),http://multimedia.cx/eggs/googles-youtube-uses-ffmpeg/
+837,Lobsters,reversing,Reverse engineering,Swordfish: The Exploit Video Series,https://lists.immunityinc.com/pipermail/dailydave/2014-January/000566.html
+838,Lobsters,reversing,Reverse engineering,Oldboot: the first bootkit on Android,http://blogs.360.cn/360mobile/2014/01/17/oldboot-the-first-bootkit-on-android/
+839,Lobsters,reversing,Reverse engineering,Cuckoo Sandbox Automated Malware Analysis 1.0 Released,http://cuckoosandbox.org/2014-01-09-cuckoo-sandbox-10.html
+840,Lobsters,reversing,Reverse engineering,Frida,http://www.frida.re/
+841,Lobsters,reversing,Reverse engineering,In-depth malware: Unpacking the ‘lcmw’ Trojan,https://blog.skullsecurity.org/2014/in-depth-malware-unpacking-the-lcmw-trojan
+842,Lobsters,reversing,Reverse engineering,Reverse engineering my bank's security token,http://valverde.me/2014/01/03/reverse-engineering-my-bank%27s-security-token/
+843,Lobsters,reversing,Reverse engineering,On Hacking MicroSD Cards,http://www.bunniestudios.com/blog/?p=3554
+844,Lobsters,reversing,Reverse engineering,SnapchatFS: turn snapchat into general purpose file store,https://github.com/hausdorff/snapchat-fs
+845,Lobsters,reversing,Reverse engineering,Snapchat: not for state secrets,https://kivikakk.ee/2013/05/10/snapchat.html
+846,Lobsters,reversing,Reverse engineering,A browser is only as strong as its weakest byte,http://blog.exodusintel.com/2013/11/26/browser-weakest-byte/
+847,Lobsters,reversing,Reverse engineering,Reverse Engineering LPC’s Device Firmware Upgrade Protocol,http://blog.technical.io/post/66686276686/reverse-engineering-lpcs-device-firmware-upgrade
+848,Lobsters,reversing,Reverse engineering,Reverse Engineering a D-Link Backdoor,http://www.devttys0.com/2013/10/reverse-engineering-a-d-link-backdoor/
+849,Lobsters,reversing,Reverse engineering,Piercing through WhatsApp’s encryption,https://blog.thijsalkema.de/blog/2013/10/08/piercing-through-whatsapp-s-encryption/
+850,Lobsters,reversing,Reverse engineering,"Anatomy of a killer bug: How just 5 characters can murder iPhone, Mac apps",http://www.theregister.co.uk/2013/09/04/unicode_of_death_crash/
+851,Lobsters,reversing,Reverse engineering,Reversing Sinclair's amazing 1974 calculator hack - half the ROM of the HP-35,http://files.righto.com/calculator/sinclair_scientific_simulator.html
+852,Lobsters,reversing,Reverse engineering,Looking inside the (Drop) box,https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf
+853,Lobsters,reversing,Reverse engineering,Hard disk hacking (backdooring HD controller firmware),http://spritesmods.com/?art=hddhack
+854,Lobsters,reversing,Reverse engineering,Advanced Exploitation of Windows Kernel Privilege Escalation (CVE-2013-3660 / MS13-053),http://www.vupen.com/blog/20130723.Advanced_Exploitation_Windows_Kernel_Win32k_EoP_MS13-053.php
+855,Lobsters,reversing,Reverse engineering,"Exploit (& Fix) Android ""Master Key""",http://www.saurik.com/id/17
+856,Lobsters,reversing,Reverse engineering,Breaking a Toy Hash Function,http://twistedoakstudios.com/blog/Post4706_breaking-a-toy-hash-function
+857,Lobsters,reversing,Reverse engineering,Attacking Crypto Phones: Weaknesses in ZRTPCPP,http://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html
+858,Lobsters,reversing,Reverse engineering,Kernel double-fetch race condition exploitation on x86 – further thoughts,http://j00ru.vexillium.org/?p=1880
+859,Lobsters,reversing,Reverse engineering,The most sophisticated Android Trojan,https://www.securelist.com/en/blog/8106/The_most_sophisticated_Android_Trojan
+860,Lobsters,reversing,Reverse engineering,A closer look at a recent privilege escalation bug in Linux (CVE-2013-2094),http://timetobleed.com/a-closer-look-at-a-recent-privilege-escalation-bug-in-linux-cve-2013-2094/
+861,Lobsters,reversing,Reverse engineering,"Ninjas and Harry Potter - ""Spell”unking in Apple SMC Land",http://www.nosuchcon.org/talks/D1_02_Alex_Ninjas_and_Harry_Potter.pdf
+862,Lobsters,reversing,Reverse engineering,Snapchat: not for state secrets,http://kivikakk.ee/2013/05/10/snapchat.html
+863,Lobsters,reversing,Reverse engineering,Executable Archaeology: The Case Of The Stupid Thing Eating All My RAM,http://www.veracode.com/blog/2013/05/executable-archaeology-the-case-of-the-stupid-thing-eating-all-my-ram/
+864,Lobsters,reversing,Reverse engineering,MWR Labs Pwn2Own 2013 Write-up - Webkit Exploit,http://labs.mwrinfosecurity.com/blog/2013/04/19/mwr-labs-pwn2own-2013-write-up---webkit-exploit/
+865,Lobsters,reversing,Reverse engineering,Android Application (Dalvik) Memory Analysis & The Chuli Malware,http://www.504ensics.com/android-application-dalvik-memory-analysis-the-chuli-malware/
+866,Lobsters,reversing,Reverse engineering,Forensic Analysis of Tor on Linux,https://blog.torproject.org/blog/forensic-analysis-tor-linux
+867,Lobsters,reversing,Reverse engineering,Dissecting PostgreSQL CVE-2013-1899,http://blog.blackwinghq.com/2013/04/08/2/
+868,Lobsters,reversing,Reverse engineering,Homeworld 2's Backgrounds,http://simonschreibt.blogspot.de/2013/03/homeworld-backgrounds.html
+869,Lobsters,reversing,Reverse engineering,AOSUZI - How the NES Game Genie works,http://www.jfbillingsley.com/blog/?p=221
+870,Lobsters,reversing,Reverse engineering,You can ring my bell! Adventures in sub-GHz RF land...,http://adamsblog.aperturelabs.com/2013/03/you-can-ring-my-bell-adventures-in-sub.html
+871,Lobsters,reversing,Reverse engineering,Deobfuscating Java 7u11 Exploit from Cool Exploit Kit (CVE-2013-0431),http://security-obscurity.blogspot.com/2013/02/deobfuscating-java-7u11-exploit-from.html
+872,Lobsters,reversing,Reverse engineering,HDCP is dead. Long live HDCP. A peek into the curious world of HDMI copy protection...,http://adamsblog.aperturelabs.com/2013/02/hdcp-is-dead-long-live-hdcp-peek-into.html
+873,Lobsters,reversing,Reverse engineering,From USR to SVC: Dissecting the 'evasi0n' Kernel Exploit,http://blog.azimuthsecurity.com/2013/02/from-usr-to-svc-dissecting-evasi0n.html
+874,Lobsters,reversing,Reverse engineering,Evasi0n Jailbreak's Userland Component,http://blog.accuvantlabs.com/blog/bthomas/evasi0n-jailbreaks-userland-component
+875,Lobsters,reversing,Reverse engineering,Dexter is a static Android application analysis tool,http://dexter.dexlabs.org/
+876,Lobsters,reversing,Reverse engineering,apk2gold CLI tool for decompiling Android apps to Java,https://github.com/lxdvs/apk2gold
+877,Lobsters,reversing,Reverse engineering,Visual 6502 in JavaScript,http://www.visual6502.org/JSSim/index.html
+878,Lobsters,reversing,Reverse engineering,Java MBeanInstantiator.findClass 0Day Analysis,https://partners.immunityinc.com/idocs/Java%20MBeanInstantiator.findClass%200day%20Analysis.pdf
+879,Lobsters,reversing,Reverse engineering,Hacking Cisco Phones [29C3],https://www.youtube.com/watch?v=f3zUOZcewtA
+880,Lobsters,reversing,Reverse engineering,A Tale of Two Firefox Bugs,https://www.youtube.com/watch?v=EE1lxNuXjFQ
+881,Lobsters,reversing,Reverse engineering,Solution to Hashdays 2012 Android Challenge,http://blog.fortiguard.com/wp-content/uploads/2012/11/hashdayschallenge.pdf
+882,Lobsters,reversing,Reverse engineering,AnonymousClassLoader Java Exploitation Technique,http://immunityproducts.blogspot.com/2012/11/anonymousclassloader-java-exploitation.html
+883,Lobsters,reversing,Reverse engineering,Cisco Blog » Injecting the Python Interpreter Via GDB,http://blogs.cisco.com/security/injecting-the-python-interpreter-via-gdb/
+884,Lobsters,reversing,Reverse engineering,Backdoors are Forever: Hacking Team and the Targeting of Dissent?,https://citizenlab.org/2012/10/backdoors-are-forever-hacking-team-and-the-targeting-of-dissent/
+885,Lobsters,reversing,Reverse engineering,Exploiting a MIPS Stack Overflow,http://www.devttys0.com/2012/10/exploiting-a-mips-stack-overflow/
+886,Lobsters,reversing,Reverse engineering,Fun with Constrained Programming,http://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html
+887,Lobsters,reversing,Reverse engineering,Malware Uses Google Go Language,http://www.symantec.com/connect/fr/blogs/malware-uses-google-go-language
+888,Lobsters,reversing,Reverse engineering,Detecting valgrind,http://repzret.org/p/detecting-valgrind/
+889,Lobsters,reversing,Reverse engineering,Breaking CAPTCHA with automated humans for $0.001,http://www.troyhunt.com/2012/01/breaking-captcha-with-automated-humans.html
+890,Lobsters,reversing,Reverse engineering,Binary instrumentation library for QEMU,https://projects.gso.ac.upc.edu/projects/qemu-dbi/wiki
+891,Lobsters,reversing,Reverse engineering,The story of repz ret « repz ret,http://repzret.org/p/repzret/
+892,Lobsters,reversing,Reverse engineering,Automated Static Malware Analysis with Pythonect,http://blog.ikotler.org/2012/08/automated-static-malware-analysis-with.html
+893,Lobsters,reversing,Reverse engineering,Ripping OAuth tokens (or other secrets) out of Twitter clients,http://timetobleed.com/ripping-oauth-tokens-or-other-secrets-out-of-tweetdeck-twitter-app-and-other-apps/
+894,Lobsters,reversing,Reverse engineering,"Tales from Crisis, Chapter 2: Backdoor's first steps",http://reverse.put.as/2012/08/20/tales-from-crisis-chapter-2-backdoors-first-steps/
+895,Lobsters,reversing,Reverse engineering,"Interconnection of Gauss Malware with Stuxnet, Duqu & Flame",http://blog.eset.com/2012/08/15/interconnection-of-gauss-with-stuxnet-duqu-flame
+896,Lobsters,reversing,Reverse engineering,The Mystery of the Encrypted Gauss Payload,http://www.securelist.com/en/blog/208193781/The_Mystery_of_the_Encrypted_Gauss_Payload
+897,Lobsters,reversing,Reverse engineering,More human than human – Flame’s code injection techniques,http://www.cert.pl/news/5874/langswitch_lang/en
+898,Lobsters,reversing,Reverse engineering,Decrypting and analyzing proprietary protocols,http://blog.praty.net/?p=235
+899,Lobsters,reversing,Reverse engineering,Analysis of the FinFisher Lawful Interception Malware,https://community.rapid7.com/community/infosec/blog/2012/08/08/finfisher
+900,Lobsters,reversing,Reverse engineering,DEFCON 20 Badge Contest,http://elegin.com/
+901,Lobsters,reversing,Reverse engineering,"Tales from Crisis, Chapter 1: The dropper's box of tricks | Reverse Engineering Mac OS X",http://reverse.put.as/2012/08/06/tales-from-crisis-chapter-1-the-droppers-box-of-tricks/
+902,Lobsters,reversing,Reverse engineering,The rise of a new Java vulnerability - CVE-2012-1723,https://blogs.technet.com/b/mmpc/archive/2012/08/01/the-rise-of-a-new-java-vulnerability-cve-2012-1723.aspx?Redirected=true
+903,Lobsters,reversing,Reverse engineering,"Flame, Duqu and Stuxnet: in-depth code analysis of mssecmgr.ocx",http://blog.eset.com/2012/07/20/flame-in-depth-code-analysis-of-mssecmgr-ocx

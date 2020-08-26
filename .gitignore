@@ -3,6 +3,6 @@
 .env.*
 *.DS_Store*
 
-*.csv
+# *.csv
 *.xml
 .ipynb_checkpoints

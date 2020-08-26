@@ -1,0 +1,615 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,ios,Apple iOS,"The XCSSET Malware: Inserts Malicious Code Into Xcode Projects, Performs UXSS Backdoor Planting in Safari, and Leverages Two Zero-day Exploits",https://documents.trendmicro.com/assets/pdf/XCSSET_Technical_Brief.pdf
+2,Lobsters,ios,Apple iOS,"Porting Redux Architecture to Swift (Well, for a Toy macOS App Anyway)",https://medium.com/insertgif/porting-redux-architecture-to-swift-well-for-a-toy-macos-app-anyway-ed61bad0395c
+3,Lobsters,ios,Apple iOS,A Best in Class iOS App,https://swiftjectivec.com/A-Best-in-Class-App/
+4,Lobsters,ios,Apple iOS,The Promise vs Reality of SwiftUI Multiplatform,https://write.as/angelo/the-promise-vs-reality-of-swiftui-multiplatform
+5,Lobsters,ios,Apple iOS,PEBKAC: How I Spent 2 Days Fixing a Bug that Didn't Exist,https://figbert.com/posts/pebkac-txtodo/
+6,Lobsters,ios,Apple iOS,"Apple, ARM, and What It Means",https://www.ifixit.com/News/42949/apple-arm-and-what-it-means
+7,Lobsters,ios,Apple iOS,Reverse Engineering Starling Bank (Part I): Obfuscation Techniques,https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html
+8,Lobsters,ios,Apple iOS,Replicating Safari's Link Preview Animation,https://shadowfacts.net/2020/uipreviewparameters-textlinerects/
+9,Lobsters,ios,Apple iOS,Streamoji is a custom emoji rendering library for iOS,https://github.com/getstream/streamoji
+10,Lobsters,ios,Apple iOS,Apple Security Research Device Program,https://developer.apple.com/programs/security-research-device/
+11,Lobsters,ios,Apple iOS,Writing an iOS Kernel Exploit from Scratch,https://secfault-security.com/blog/chain3.html
+12,Lobsters,ios,Apple iOS,Getting Started with Core Bluetooth,https://ditto.live/blog/posts/getting-started-with-core-bluetooth
+13,Lobsters,ios,Apple iOS,Dealing with phone numbers in contact book,https://ashishb.net/tech/dealing-with-phone-numbers-in-contact-book/
+14,Lobsters,ios,Apple iOS,How to unc0ver a 0-day in 4 hours or less,https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html
+15,Lobsters,ios,Apple iOS,Why AnyList Won’t Be Supporting Sign In with Apple,https://blog.anylist.com/2020/06/sign-in-with-apple
+16,Lobsters,ios,Apple iOS,"An iOS, iPadOS, and macOS application reference manual for ARM assembly instructions",https://github.com/evilpenguin/ARMRef
+17,Lobsters,ios,Apple iOS,Apple Lightning,https://nyansatan.github.io/lightning/
+18,Lobsters,ios,Apple iOS,No - Safari 14 Does Not Block Google Analytics,https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/
+19,Lobsters,ios,Apple iOS,Local area network push notifications,https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html
+20,Lobsters,ios,Apple iOS,"Dflat, Structured Data Store for Mobile",https://github.com/liuliu/dflat
+21,Lobsters,ios,Apple iOS,Create a Tube Status home-screen Widget for iOS 14,https://medium.com/@oliverbinns/create-a-tube-status-home-screen-widget-for-ios-14-7f25f7a0a7e1
+22,Lobsters,ios,Apple iOS,WWDC 2020,https://www.apple.com/apple-events/event-stream/
+23,Lobsters,ios,Apple iOS,"Beyond Faster JSON Support for iOS/macOS, Part 9: CSV and SQLite",https://blog.metaobject.com/2020/06/beyond-faster-json-support-for-iosmacos.html
+24,Lobsters,ios,Apple iOS,Translating an ARM iOS App to Intel macOS Using Bitcode,https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode
+25,Lobsters,ios,Apple iOS,"Germany’s coronavirus contract tracing app is out today, and is open source",https://github.com/corona-warn-app
+26,Lobsters,ios,Apple iOS,"The XCSSET Malware: Inserts Malicious Code Into Xcode Projects, Performs UXSS Backdoor Planting in Safari, and Leverages Two Zero-day Exploits",https://documents.trendmicro.com/assets/pdf/XCSSET_Technical_Brief.pdf
+27,Lobsters,ios,Apple iOS,"Porting Redux Architecture to Swift (Well, for a Toy macOS App Anyway)",https://medium.com/insertgif/porting-redux-architecture-to-swift-well-for-a-toy-macos-app-anyway-ed61bad0395c
+28,Lobsters,ios,Apple iOS,A Best in Class iOS App,https://swiftjectivec.com/A-Best-in-Class-App/
+29,Lobsters,ios,Apple iOS,The Promise vs Reality of SwiftUI Multiplatform,https://write.as/angelo/the-promise-vs-reality-of-swiftui-multiplatform
+30,Lobsters,ios,Apple iOS,PEBKAC: How I Spent 2 Days Fixing a Bug that Didn't Exist,https://figbert.com/posts/pebkac-txtodo/
+31,Lobsters,ios,Apple iOS,"Apple, ARM, and What It Means",https://www.ifixit.com/News/42949/apple-arm-and-what-it-means
+32,Lobsters,ios,Apple iOS,Reverse Engineering Starling Bank (Part I): Obfuscation Techniques,https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html
+33,Lobsters,ios,Apple iOS,Replicating Safari's Link Preview Animation,https://shadowfacts.net/2020/uipreviewparameters-textlinerects/
+34,Lobsters,ios,Apple iOS,Streamoji is a custom emoji rendering library for iOS,https://github.com/getstream/streamoji
+35,Lobsters,ios,Apple iOS,Apple Security Research Device Program,https://developer.apple.com/programs/security-research-device/
+36,Lobsters,ios,Apple iOS,Writing an iOS Kernel Exploit from Scratch,https://secfault-security.com/blog/chain3.html
+37,Lobsters,ios,Apple iOS,Getting Started with Core Bluetooth,https://ditto.live/blog/posts/getting-started-with-core-bluetooth
+38,Lobsters,ios,Apple iOS,Dealing with phone numbers in contact book,https://ashishb.net/tech/dealing-with-phone-numbers-in-contact-book/
+39,Lobsters,ios,Apple iOS,How to unc0ver a 0-day in 4 hours or less,https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html
+40,Lobsters,ios,Apple iOS,Why AnyList Won’t Be Supporting Sign In with Apple,https://blog.anylist.com/2020/06/sign-in-with-apple
+41,Lobsters,ios,Apple iOS,"An iOS, iPadOS, and macOS application reference manual for ARM assembly instructions",https://github.com/evilpenguin/ARMRef
+42,Lobsters,ios,Apple iOS,Apple Lightning,https://nyansatan.github.io/lightning/
+43,Lobsters,ios,Apple iOS,No - Safari 14 Does Not Block Google Analytics,https://www.simoahava.com/analytics/no-safari-does-not-block-google-analytics/
+44,Lobsters,ios,Apple iOS,Local area network push notifications,https://thomask.sdf.org/blog/2020/07/01/local-area-network-push-notifications.html
+45,Lobsters,ios,Apple iOS,"Dflat, Structured Data Store for Mobile",https://github.com/liuliu/dflat
+46,Lobsters,ios,Apple iOS,Create a Tube Status home-screen Widget for iOS 14,https://medium.com/@oliverbinns/create-a-tube-status-home-screen-widget-for-ios-14-7f25f7a0a7e1
+47,Lobsters,ios,Apple iOS,WWDC 2020,https://www.apple.com/apple-events/event-stream/
+48,Lobsters,ios,Apple iOS,"Beyond Faster JSON Support for iOS/macOS, Part 9: CSV and SQLite",https://blog.metaobject.com/2020/06/beyond-faster-json-support-for-iosmacos.html
+49,Lobsters,ios,Apple iOS,Translating an ARM iOS App to Intel macOS Using Bitcode,https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode
+50,Lobsters,ios,Apple iOS,"Germany’s coronavirus contract tracing app is out today, and is open source",https://github.com/corona-warn-app
+51,Lobsters,ios,Apple iOS,Zero-day in Sign in with Apple,https://bhavukjain1.github.io/blog/2020/05/30/zeroday-signin-with-apple/
+52,Lobsters,ios,Apple iOS,Return of the iOS sandbox escape: lightspeed's back in the race,https://www.synacktiv.com/posts/exploit/return-of-the-ios-sandbox-escape-lightspeeds-back-in-the-race.html
+53,Lobsters,ios,Apple iOS,I had to jailbreak my iPhone to change the default browser,https://raymii.org/s/blog/I_had_to_jailbreak_my_iPhone_to_change_the_default_browser.html
+54,Lobsters,ios,Apple iOS,Using SQL to find my best photo of a pelican according to Apple Photos,https://simonwillison.net/2020/May/21/dogsheep-photos/
+55,Lobsters,ios,Apple iOS,Apple to host virtual Worldwide Developers Conference beginning June 22,https://www.apple.com/newsroom/2020/05/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22/
+56,Lobsters,ios,Apple iOS,psychicpaper,https://siguza.github.io/psychicpaper/
+57,Lobsters,ios,Apple iOS,A static injector of dynamic library for application,https://github.com/lanoox/luject
+58,Lobsters,ios,Apple iOS,"Faster JSON Support for iOS/macOS, Part 8: Dematerialize All the Things",https://blog.metaobject.com/2020/04/faster-json-support-for-iosmacos-part-8.html
+59,Lobsters,ios,Apple iOS,iPhone SE and the Commodification of the Pocket Computer,https://nadim.computer/posts/2020-04-25-iphonese.html
+60,Lobsters,ios,Apple iOS,"Faster JSON Support for iOS/macOS, Part 7: Polishing the Parser",https://blog.metaobject.com/2020/04/faster-json-support-for-iosmacos-part-7.html
+61,Lobsters,ios,Apple iOS,Linux with Wayland is now running on iPhone 7,https://blog.project-insanity.org/2020/04/22/linux-with-wayland-is-now-running-on-iphone-7/
+62,Lobsters,ios,Apple iOS,"Flaw in iPhone, iPads may have allowed hackers to steal data for years",https://www.reuters.com/article/us-usa-apple-cyber-idUSKCN2242IK
+63,Lobsters,ios,Apple iOS,"Somewhat Faster JSON Support for iOS/macOS, Part 6: Cutting KVC out of the Loop",https://blog.metaobject.com/2020/04/somewhat-faster-json-support-for.html
+64,Lobsters,ios,Apple iOS,"iPhone 7 boots postmarketOS, becomes the first Apple Linux smartphone",https://tuxphones.com/iphone-7-now-boots-postmarketos-linux/
+65,Lobsters,ios,Apple iOS,"Less Lethargic JSON Support for iOS/macOS, Part 5: Cutting out the Middleman",https://blog.metaobject.com/2020/04/less-lethargic-json-support-for.html
+66,Lobsters,ios,Apple iOS,Privacy-Preserving Contact Tracing - Apple and Google,https://www.apple.com/covid19/contacttracing
+67,Lobsters,ios,Apple iOS,"Somewhat Less Lethargic JSON Support for iOS/macOS, Part 1: The Status Quo",https://blog.metaobject.com/2020/04/somewhat-less-lethargic-json-support.html
+68,Lobsters,ios,Apple iOS,Secret iPad,https://thinkfractional.blog/secret-ipad/
+69,Lobsters,ios,Apple iOS,A walkthrough of getting unauthorized camera access in Safari,https://www.ryanpickren.com/webcam-hacking
+70,Lobsters,ios,Apple iOS,What dev machine have you been using to develop software,/s/mlv0v0/what_dev_machine_have_you_been_using
+71,Lobsters,ios,Apple iOS,Swift Package Registry,https://swiftpackageregistry.com/
+72,Lobsters,ios,Apple iOS,"Dark Sky Acquired by Apple, announced plans to shut down outside of iOS",https://blog.darksky.net/dark-sky-has-a-new-home/
+73,Lobsters,ios,Apple iOS,Zoom iOS app sending data to Facebook even w/o FB account,https://9to5mac.com/2020/03/27/zoom-ios-app/
+74,Lobsters,ios,Apple iOS,Unpatched iOS Bug Blocks VPNs From Encrypting All Traffic,https://www.bleepingcomputer.com/news/security/unpatched-ios-bug-blocks-vpns-from-encrypting-all-traffic/
+75,Lobsters,ios,Apple iOS,Popular iPhone and iPad Apps Snooping on the Pasteboard,https://www.mysk.blog/2020/03/10/popular-iphone-and-ipad-apps-snooping-on-the-pasteboard/
+76,Lobsters,ios,Apple iOS,Project Sandcastle: Android for the iPhone,https://projectsandcastle.org/
+77,Lobsters,ios,Apple iOS,Reverse engineering checkra1n stage2(pongoOS) and stage3(kpf) binary,http://misty.moe/2020/03/01/reverse-engineering-checkra1n-stage2pongoos-and-stage3kpf-binary/
+78,Lobsters,ios,Apple iOS,Jailed Just-In-Time Compilation on iOS,https://saagarjha.com/blog/2020/02/23/jailed-just-in-time-compilation-on-ios/
+79,Lobsters,ios,Apple iOS,"Run Windows, Android, and more in a virtual machine on your iPhone and iPad",https://github.com/utmapp/UTM
+80,Lobsters,ios,Apple iOS,The iOS Developer Community Survey [2019],https://iosdevsurvey.com/2019/
+81,Lobsters,ios,Apple iOS,Build a simple ARKit app in Swift,https://cybernetist.com/2020/02/17/swift-arkit-sun-app-for-londoners/
+82,Lobsters,ios,Apple iOS,"iOS 13 Design Guidelines, Templates, and Downloads",https://learnui.design/blog/ios-design-guidelines-templates.html
+83,Lobsters,ios,Apple iOS,One very bad Apple,https://vicki.substack.com/p/one-very-bad-apple
+84,Lobsters,ios,Apple iOS,The iPad Awkwardly Turns 10,https://daringfireball.net/2020/01/the_ipad_awkwardly_turns_10
+85,Lobsters,ios,Apple iOS,What mobile phone do you use?,/s/ji8hec/what_mobile_phone_do_you_use
+86,Lobsters,ios,Apple iOS,A framework for building native apps with React,https://github.com/facebook/react-native
+87,Lobsters,ios,Apple iOS,Remote iPhone Exploitation Part 1: Poking Memory via iMessage and CVE-2019-8641,https://googleprojectzero.blogspot.com/2020/01/remote-iphone-exploitation-part-1.html
+88,Lobsters,ios,Apple iOS,Remote iPhone Exploitation Part 2: Bringing Light into the Darkness -- a Remote ASLR Bypass,https://googleprojectzero.blogspot.com/2020/01/remote-iphone-exploitation-part-2.html
+89,Lobsters,ios,Apple iOS,Saying Goodbye to my Favorite 5 Minute P1,https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
+90,Lobsters,ios,Apple iOS,Running Racket on iOS,https://defn.io/2020/01/05/racket-on-ios/
+91,Lobsters,ios,Apple iOS,The One Weird Trick SecureROM Hates,http://iokit.racing/oneweirdtrick.pdf
+92,Lobsters,ios,Apple iOS,"Mass Surveillance, is an (un)Complicated Business",https://objective-see.com/blog/blog_0x52.html
+93,Lobsters,ios,Apple iOS,Building Mobile Apps (iOS and Android) with Clojurescript,https://medium.com/mindorks/building-mobile-apps-ios-and-android-with-clojurescript-4600235f826c
+94,Lobsters,ios,Apple iOS,Catalyst and Cohesion,https://wormsandviruses.com/2019/12/catalyst-and-cohesion/
+95,Lobsters,ios,Apple iOS,From iPhone to NT AUTHORITY\SYSTEM,https://decoder.cloud/2019/12/12/from-iphone-to-nt-authoritysystem/
+96,Lobsters,ios,Apple iOS,Germany forces Apple to let other mobile wallet services use iPhone’s NFC chip,https://9to5mac.com/2019/11/15/use-nfc-chip/
+97,Lobsters,ios,Apple iOS,KTRW: The journey to build a debuggable iPhone,https://googleprojectzero.blogspot.com/2019/10/ktrw-journey-to-build-debuggable-iphone.html
+98,Lobsters,ios,Apple iOS,"Apple, Your Developer Documentation is… Missing",https://v4.chriskrycho.com/2019/apple-your-developer-documentation-is-garbage.html
+99,Lobsters,ios,Apple iOS,Perfectly Cropped,https://tyler.io/perfectly-cropped/
+100,Lobsters,ios,Apple iOS,Technical analysis of the checkm8 exploit,https://habr.com/en/company/dsec/blog/472762/
+101,Lobsters,ios,Apple iOS,Six Reasons Why iOS 13 and Catalina Are So Buggy,https://tidbits.com/2019/10/21/six-reasons-why-ios-13-and-catalina-are-so-buggy/
+102,Lobsters,ios,Apple iOS,iPhone 11 Pro Has Broken Exif Orientation Data,https://blog.feld.me/posts/2019/10/iphone-11-pro-has-broken-exif-orientation-data/
+103,Lobsters,ios,Apple iOS,Explaining iOS' SecureROM boot chain,http://newosxbook.com/bonus/iBoot.pdf
+104,Lobsters,ios,Apple iOS,Debug registers in production A11 iPhones allow full-featured kernel debugging,https://bugs.chromium.org/p/project-zero/issues/detail?id=1900
+105,Lobsters,ios,Apple iOS,Open-source jailbreaking tool for many iOS devices (all iPhones up to the iPhone 8 and X),https://github.com/axi0mX/ipwndfu
+106,Lobsters,ios,Apple iOS,Apple’s use of Swift in iOS 13,https://blog.timac.org/2019/0926-state-of-swift-ios13/
+107,Lobsters,ios,Apple iOS,iPadOS,https://www.apple.com/ipados/
+108,Lobsters,ios,Apple iOS,Tribe Commerce - Open Source On-Demand Services & E-Commerce Platform,https://github.com/tribehq/platform
+109,Lobsters,ios,Apple iOS,Xmpp+signal+Bluetooth+p2p WiFi = serverless chat,https://monal.im/blog/xmppsignalbluetoothp2p-wifi-serverless-chat/
+110,Lobsters,ios,Apple iOS,"Apple Special Event for September 10th, 2019",https://www.apple.com/apple-events/livestream/
+111,Lobsters,ios,Apple iOS,Apple SIMD/DSP extensions,https://www.realworldtech.com/forum/?threadid=187087&curpostid=187087
+112,Lobsters,ios,Apple iOS,A message about iOS security,https://www.apple.com/newsroom/2019/09/a-message-about-ios-security/
+113,Lobsters,ios,Apple iOS,Less… Is More? Apple’s Inconsistent Ellipsis Icons Inspire User Confusion,https://tidbits.com/2019/08/30/less-is-more-apples-inconsistent-ellipses-icons-inspire-user-confusion/
+114,Lobsters,ios,Apple iOS,Sources say China used iPhone hacks to target Uyghur Muslims,https://techcrunch.com/2019/08/31/china-google-iphone-uyghur/
+115,Lobsters,ios,Apple iOS,A very deep dive into iOS Exploit chains found in the wild,https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
+116,Lobsters,ios,Apple iOS,Programming on an iPad,https://programmingzen.com/programming-on-an-ipad/
+117,Lobsters,ios,Apple iOS,Collaborative List of Open-Source iOS Apps,https://github.com/dkhamsing/open-source-ios-apps
+118,Lobsters,ios,Apple iOS,"Siri, Privacy, and Trust",https://daringfireball.net/2019/08/siri_privacy_trust
+119,Lobsters,ios,Apple iOS,The (not so) hidden cost of sharing code between iOS and Android,http://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/
+120,Lobsters,ios,Apple iOS,Apple Confirms $1 Million Reward For Anyone Who Can Hack An iPhone,https://www.forbes.com/sites/thomasbrewster/2019/08/08/apple-confirms-1-million-reward-for-hackers-who-find-serious-iphone-vulnerabilities/
+121,Lobsters,ios,Apple iOS,APRR - of Apple hardware secrets,https://siguza.github.io/APRR/
+122,Lobsters,ios,Apple iOS,The Fully Remote Attack Surface of the iPhone,https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html
+123,Lobsters,ios,Apple iOS,Disable server-side logging of Siri requests,https://github.com/jankais3r/Siri-NoLoggingPLS
+124,Lobsters,ios,Apple iOS,Apple bleee. Everyone knows What Happens on Your iPhone,https://hexway.io/blog/apple-bleee/
+125,Lobsters,ios,Apple iOS,Memory Unsafety in Apple's Operating Systems,https://langui.sh/2019/07/23/apple-memory-safety/
+126,Lobsters,ios,Apple iOS,"MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link",https://www.usenix.org/system/files/sec19fall_stute_prepub.pdf
+127,Lobsters,ios,Apple iOS,The Clever Cryptography Behind Apple's 'Find My' Feature,https://www.wired.com/story/apple-find-my-cryptography-bluetooth/
+128,Lobsters,ios,Apple iOS,SidecarPatcher: Enable macOS 10.15 Sidecar on old Mac (2015 or older),https://github.com/pookjw/SidecarPatcher
+129,Lobsters,ios,Apple iOS,The community gave us low-latency live streaming. Then Apple took it away,http://mux.com/blog/the-community-gave-us-low-latency-live-streaming-then-apple-took-it-away/
+130,Lobsters,ios,Apple iOS,LaTeX Workflow on iPad,https://supertachyon.wordpress.com/2019/06/13/37/
+131,Lobsters,ios,Apple iOS,Apple's implementation of Low Latency HLS Explained,https://www.linkedin.com/pulse/apples-implementation-low-latency-hls-explained-phil-harrison
+132,Lobsters,ios,Apple iOS,WWDC 2019,https://www.apple.com/apple-events/livestream/
+133,Lobsters,ios,Apple iOS,Hacking IOS Xamarin apps with Frida,https://orangewirelabs.wordpress.com/2019/05/30/hacking-ios-xamarin-apps-with-frida/
+134,Lobsters,ios,Apple iOS,Exploring GPGPU on iOS,https://ciechanow.ski/exploring-gpgpu-on-ios/
+135,Lobsters,ios,Apple iOS,Metacode - autogenerated snippets for Swift and iOS,https://metacode.app
+136,Lobsters,ios,Apple iOS,Mobile Release Engineering at Scale with Shipit Mobile,https://engineering.shopify.com/blogs/engineering/mobile-release-engineering-scale-shipit-mobile
+137,Lobsters,ios,Apple iOS,Translating an ARM iOS app to Intel macOS using Bitcode,https://www.osnews.com/story/130038/translating-an-arm-ios-app-to-intel-macos-using-bitcode/
+138,Lobsters,ios,Apple iOS,who killed videogames? (a ghost story),https://web.archive.org/web/20110926012139/http://insertcredit.com/2011/09/22/who-killed-videogames-a-ghost-story/
+139,Lobsters,ios,Apple iOS,Spotify vs Apple: The Podcast War (Ep.2),https://growth.design/case-studies/spotify-vs-apple-podcast-ep2/
+140,Lobsters,ios,Apple iOS,Bringing Flutter to the Web,https://medium.com/flutter-io/bringing-flutter-to-the-web-904de05f0df0
+141,Lobsters,ios,Apple iOS,Don’t Pay the Early Adopter Tax,https://justinmayer.com/posts/early-adopter-tax/
+142,Lobsters,ios,Apple iOS,"flow9: a cross-platform modern UI for Web, iOS, Android, Windows, Mac, Linux",https://flow9.org/
+143,Lobsters,ios,Apple iOS,Get the RSS feed url from an Apple Podcasts url using curl and jq,https://write.as/informative-jottings/get-the-rss-feed-url-from-an-apple-podcasts-url-using-curl-and-jq
+144,Lobsters,ios,Apple iOS,"square/Blueprint - declarative UI construction for iOS, written in Swift",https://github.com/square/Blueprint
+145,Lobsters,ios,Apple iOS,There’s more to it,https://www.sicpers.info/2019/03/theres-more-to-it/
+146,Lobsters,ios,Apple iOS,I got node working on an iPhone thanks to the new JITless feature,https://twitter.com/theshawwn/status/1110691089009254400
+147,Lobsters,ios,Apple iOS,Swift/Cocoapod: Forget NSAttributedString and Use Prestyler,https://github.com/kruil/Prestyler/
+148,Lobsters,ios,Apple iOS,iOS Development Pro Tip for Private CA Usage,https://christine.website/blog/ios-development-pro-tip-for-private-ca-2019-03-22
+149,Lobsters,ios,Apple iOS,Using the iPad Pro as my development machine,https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/
+150,Lobsters,ios,Apple iOS,The Sad State of Logging Bugs for Apple,https://www.corbinstreehouse.com/blog/2019/03/the-sad-state-of-logging-bugs-for-apple/
+151,Lobsters,ios,Apple iOS,Do Not Disturb: Tackling Smartphone Addiction,https://chargen.one/steve/do-not-disturb-how-i-tackled-my-own-smartphone-addiction
+152,Lobsters,ios,Apple iOS,Bringing iOS Apps to macOS Using Marzipanify,https://www.highcaffeinecontent.com/blog/20190301-Bringing-iOS-Apps-to-macOS-Using-Marzipanify
+153,Lobsters,ios,Apple iOS,Digital archive of mobile apps,http://www.uxscreenshots.com
+154,Lobsters,ios,Apple iOS,Examining Pointer Authentication on the iPhone XS,https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html
+155,Lobsters,ios,Apple iOS,iPhone FaceTime bug lets you hear the audio of the person you are calling before they pick up,https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/
+156,Lobsters,ios,Apple iOS,Progressive Web App Progress in iOS 12.2 Beta 1,https://medium.com/dev-channel/progressive-web-app-progress-in-ios-12-2-beta-1-build-16e5181f-a18cd05ca361
+157,Lobsters,ios,Apple iOS,Svrf API: Quick Start Guide for 3D Face Filters,https://blog.svrf.com/svrf-api-quick-start-guide-for-3d-face-filters/
+158,Lobsters,ios,Apple iOS,The iOS Menu,https://codea.io/blog/the-ios-menu/
+159,Lobsters,ios,Apple iOS,"Introducing Square In-App Payments SDK for iOS, Android & Flutter",https://medium.com/square-corner-blog/introducing-square-in-app-payments-sdk-1fc93b32814c
+160,Lobsters,ios,Apple iOS,Attaching sources to iOS/macOS binaries compiled on another machine,https://medium.com/@maxraskin/background-1b4b6a9c65be
+161,Lobsters,ios,Apple iOS,Apple iOS 12.1.2 bug breaks cellular data and calls,https://www.forbes.com/sites/gordonkelly/2018/12/22/apple-ios-12-1-2-problem-iphone-xs-max-xr-mobile-data-cellular-4g-cannot-load-internet/
+162,Lobsters,ios,Apple iOS,WireGuard for iOS,https://lists.zx2c4.com/pipermail/wireguard/2018-December/003694.html
+163,Lobsters,ios,Apple iOS,Ditching Android - 6 Weeks On,https://kevq.uk/ditching-android-6-weeks-on/
+164,Lobsters,ios,Apple iOS,We Broke Into A Bunch Of Android Phones With A 3D-Printed Head,https://www.forbes.com/sites/thomasbrewster/2018/12/13/we-broke-into-a-bunch-of-android-phones-with-a-3d-printed-head/#46b703c11330
+165,Lobsters,ios,Apple iOS,"Antitrust, the App Store, and Apple",https://stratechery.com/2018/antitrust-the-app-store-and-apple/
+166,Lobsters,ios,Apple iOS,Proof That iOS Still Hasn’t Gotten Undo Right,https://daringfireball.net/2018/12/ios_still_hasnt_gotten_undo_right
+167,Lobsters,ios,Apple iOS,"Square + Flutter: Beautiful, fast mobile payment apps",https://medium.com/square-corner-blog/square-flutter-beautiful-fast-mobile-payment-apps-539995d2e23a
+168,Lobsters,ios,Apple iOS,How to Game the App Store,http://davidbarnard.com/post/180568817995/how-to-game-the-app-store
+169,Lobsters,ios,Apple iOS,tbodt/ish - Linux shell for iOS,https://github.com/tbodt/ish
+170,Lobsters,ios,Apple iOS,Getting the iPad to Pro,https://craigmod.com/essays/ipad_pro/
+171,Lobsters,ios,Apple iOS,SMT Solving on an iPhone,https://homes.cs.washington.edu/~bornholt/post/z3-iphone.html
+172,Lobsters,ios,Apple iOS,iOS Siri Shortcuts I use activated from Widgets,https://github.com/nikitavoloboev/my-ios#widgets
+173,Lobsters,ios,Apple iOS,Why I'm Ditching Android,https://kevq.uk/why-im-ditching-android/
+174,Lobsters,ios,Apple iOS,Testing is hard: xcodebuild test and the -only-testing flag,https://www.alexrs.me/2018/testing-is-hard-xcodebuild-test-only-testing
+175,Lobsters,ios,Apple iOS,Viewer Discretion Advised: (De)coding an iOS Kernel Vulnerability,http://phrack.org/papers/viewer_discretion_advised.html
+176,Lobsters,ios,Apple iOS,Simulating the iSight Camera in the iOS Simulator,https://zacstewart.com/2018/10/09/mocking-the-isight-camera-in-the-ios-simulator.html
+177,Lobsters,ios,Apple iOS,365 Days Later: Finding and Exploiting Safari Bugs using Publicly Available Tools,https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html
+178,Lobsters,ios,Apple iOS,What's the best private budgeting app?,/s/53qmtn/what_s_best_private_budgeting_app
+179,Lobsters,ios,Apple iOS,Marzipan: Porting iOS Apps to the Mac,https://pspdfkit.com/blog/2018/porting-ios-apps-to-mac-marzipan-iosmac-uikit-appkit/
+180,Lobsters,ios,Apple iOS,Rejected,http://www.eod.com/blog/2018/09/rejected/
+181,Lobsters,ios,Apple iOS,Flutter Release Preview 2: Pixel-Perfect on iOS,https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html
+182,Lobsters,ios,Apple iOS,Heapple Pie - The macOS/iOS default heap,https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf
+183,Lobsters,ios,Apple iOS,Force Restart Any iOS Device Using CSS,https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea
+184,Lobsters,ios,Apple iOS,x86 finds its way into your iPhone,https://lcq2.github.io/x86_iphone/
+185,Lobsters,ios,Apple iOS,Building a Shake Shack crowd-counting app with CoreML,https://blog.floydhub.com/humans-of-ml-dimitri-roche/
+186,Lobsters,ios,Apple iOS,On ‘Shake to Undo’,https://daringfireball.net/2018/08/shake_to_undo
+187,Lobsters,ios,Apple iOS,Path to EL1 in iOS 11,https://docs.google.com/presentation/d/16LZ6T-tcjgp3T8_N3m0pa5kNA1DwIsuMcQYDhpMU7uU/edit#slide=id.p
+188,Lobsters,ios,Apple iOS,Introducing Square Reader SDK,https://medium.com/@gjinich/introducing-square-reader-sdk-939a9ec2d197
+189,Lobsters,ios,Apple iOS,"Full-Stack Haskell, from Prototype to Production",https://www.youtube.com/watch?v=riJuXDIUMA0
+190,Lobsters,ios,Apple iOS,Almost booting an iOS kernel in QEMU,https://worthdoingbadly.com/xnuqemu/
+191,Lobsters,ios,Apple iOS,App Preservation: Saving the App Store’s History,https://www.macstories.net/stories/app-preservation-saving-the-app-stores-history/
+192,Lobsters,ios,Apple iOS,Apple wrote code to appease the Chinese government... it was buggy,https://objective-see.com/blog/blog_0x34.html
+193,Lobsters,ios,Apple iOS,Shortcuts: A New Vision for Siri and iOS Automation,https://www.macstories.net/stories/shortcuts-a-new-vision-for-siri-and-ios-automation/
+194,Lobsters,ios,Apple iOS,The future of the Mac comes from iOS apps,https://www.theverge.com/2018/6/7/17438450/apple-marzipan-mac-ios-apps-port-mojave-appkit-uikit-future-platform-software
+195,Lobsters,ios,Apple iOS,Scaling a Swift SDK - Learnings on building a set of Swift Libraries,https://blog.bitrise.io/scaling-a-swift-sdk-learnings-on-building-a-set-of-swift-libraries-meetup-recording
+196,Lobsters,ios,Apple iOS,New Network.framework on macOS/iOS,https://developer.apple.com/documentation/network
+197,Lobsters,ios,Apple iOS,WWDC18,https://developer.apple.com/wwdc/
+198,Lobsters,ios,Apple iOS,YubiKey comes to the iPhone with Mobile SDK for iOS and LastPass support,https://www.yubico.com/2018/05/yubikey-comes-to-iphone-with-mobile-sdk-for-ios-and-lastpass-support/
+199,Lobsters,ios,Apple iOS,A collection of best practices for iOS app development processes,https://ios-factor.com/
+200,Lobsters,ios,Apple iOS,Monal iOS 3 Released - Push Support,https://monal.im/blog/monal-ios-3-released/
+201,Lobsters,ios,Apple iOS,Continuous Integration Services for iPhone Apps in 2018,https://iosreviewed.com/reviews-1/2018/5/22/continuous-integration-services-for-iphone-apps-in-2018
+202,Lobsters,ios,Apple iOS,How to set up a CI for multiple iOS and tvOS Apps using Fastlane and Bitrise,https://blog.bitrise.io/how-to-set-up-a-ci-for-multiple-ios-and-tvos-apps-using-fastlane-and-bitrise
+203,Lobsters,ios,Apple iOS,Baddaboo/ClassicKit: A collection of classic-style UI components for iOS,https://github.com/Baddaboo/ClassicKit
+204,Lobsters,ios,Apple iOS,Quick Guide: iOS Internationalization (i18n) and Localization (l10n),https://phraseapp.com/blog/posts/ios-internationalization-localization/
+205,Lobsters,ios,Apple iOS,My Steve Jobs stories,https://www.facebook.com/permalink.php?story_fbid=2146412825593223&id=100006735798590
+206,Lobsters,ios,Apple iOS,Apple cracking down on applications that send location data to third-parties,https://9to5mac.com/2018/05/08/apple-location-apps-third-parties/
+207,Lobsters,ios,Apple iOS,"The ecosystem of React Native can be improved, beyond technically",http://cs.mcgill.ca/~mxia3/2018/05/09/the-ecosystem-of-react-native-can-be-improved-beyond-technically/
+208,Lobsters,ios,Apple iOS,iOS 11.4 to Disable USB Port After 7 Days: What It Means for Mobile Forensics,https://blog.elcomsoft.com/2018/05/ios-11-4-to-disable-usb-port-after-7-days-what-it-means-for-mobile-forensics/
+209,Lobsters,ios,Apple iOS,iOS Design Inconsistencies Across Apple's Apps,http://benjaminmayo.co.uk/ios-11-design-inconsistencies
+210,Lobsters,ios,Apple iOS,iOS app recommendation thread?,/s/gbpzqy/ios_app_recommendation_thread
+211,Lobsters,ios,Apple iOS,"Exploring React Native Ecosystem - backend, database and best libraries",https://www.simform.com/react-native-ecosystem-backend-database-best-libraries/
+212,Lobsters,ios,Apple iOS,The thinking face of software,https://medium.com/compoucher/the-thinking-face-of-software-b32869caae9
+213,Lobsters,ios,Apple iOS,Easy CI with fastlane: How we automated everything iOS from running tests to distributing a build,https://medium.com/aaptiv-engineering/easy-ci-with-fastlane-how-we-automated-everything-ios-from-running-tests-to-distributing-a-build-5ecbb817fba0
+214,Lobsters,ios,Apple iOS,Using Touch ID to separate bots from humans in social media,https://www.augustocallejas.com/2018/04/08/touch-id/
+215,Lobsters,ios,Apple iOS,Apple Plans to Capture the Future by Getting into the Chip Business,https://medium.com/@JohnBlood/apple-plans-capture-the-future-by-getting-into-the-chip-business-1fe927d7cab4
+216,Lobsters,ios,Apple iOS,A Lot Can Happen in a Decade,https://blog.iconfactory.com/2018/03/a-lot-can-happen-in-a-decade/
+217,Lobsters,ios,Apple iOS,Vulkan Applications Enabled on Apple Platforms,https://www.khronos.org/news/press/vulkan-applications-enabled-on-apple-platforms
+218,Lobsters,ios,Apple iOS,Major new iOS bug can crash iPhones and disable access to apps and iMessages,https://www.theverge.com/2018/2/15/17015654/apple-iphone-crash-ios-11-bug-imessage
+219,Lobsters,ios,Apple iOS,The ultimate list of resources to mastering Swift and iOS development — 2018 edition,https://medium.com/@wesharehoodies/the-ultimate-list-of-resources-to-mastering-swift-and-ios-development-2018-edition-3bd2a87ff400
+220,Lobsters,ios,Apple iOS,Exploring Swift: What makes Swift great,https://medium.com/@wesharehoodies/exploring-swift-what-makes-swift-great-827c486137d
+221,Lobsters,ios,Apple iOS,Introduction to Mobile Haskell (iOS),https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html
+222,Lobsters,ios,Apple iOS,iBoot (iOS Bootloader) Source Code Gets Posted Online,https://motherboard.vice.com/en_us/article/a34g9j/iphone-source-code-iboot-ios-leak
+223,Lobsters,ios,Apple iOS,"iPhones, Armed Robbery, and Hacking",https://manybutfinite.com/post/iphones-armed-robbery-hacking/
+224,Lobsters,ios,Apple iOS,"Safari 11.1 in iOS 11.3 to support Service Workers, PaymentRequest etc",https://twitter.com/rmondello/status/956256845311590400
+225,Lobsters,ios,Apple iOS,MVC vs MVP vs MVVM for mobile app development: Let's end the debate!,https://www.simform.com/mvc-mvp-mvvm-mobile-app-development/
+226,Lobsters,ios,Apple iOS,Pressing the Side Button to Confirm Payments on iPhone X,https://daringfireball.net/2017/12/side_button_to_confirm_payments_on_iphone_x
+227,Lobsters,ios,Apple iOS,A Message to Our Customers about iPhone Batteries and Performance,https://www.apple.com/iphone-battery-and-performance/
+228,Lobsters,ios,Apple iOS,Uber is apparently tracking GPS coordinate info on iOS even with Location Services turned OFF,https://medium.com/bread-and-circuses/your-uber-location-tracking-device-has-been-activated-781a7e6df394
+229,Lobsters,ios,Apple iOS,iPhone X home button,http://blog.zats.io/2017/12/27/iPhone-X-home-button/
+230,Lobsters,ios,Apple iOS,Geofencing in iOS with Objective-C (2015),https://spin.atomicobject.com/2015/07/16/geofencing-ios-objectivec/
+231,Lobsters,ios,Apple iOS,Marzipan,https://daringfireball.net/2017/12/marzipan
+232,Lobsters,ios,Apple iOS,Apple Confirms CPU Limitation In Ageing Devices,https://www.anandtech.com/show/12184/apple-confirms-cpu-limitation-in-ageing-devices
+233,Lobsters,ios,Apple iOS,"Apple Plans Combined iPhone, iPad & Mac Apps to Create One User Experience",https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps
+234,Lobsters,ios,Apple iOS,Your home was not so secure after all,https://medium.com/@khaost/your-home-was-not-so-secure-after-all-af52fbd6777c
+235,Lobsters,ios,Apple iOS,iPhone Performance and Battery Age,https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/
+236,Lobsters,ios,Apple iOS,Face ID Stinks,https://www.troyhunt.com/face-id-stinks/
+237,Lobsters,ios,Apple iOS,"If your iPhone, iPad, or iPod touch unexpectedly restarts",https://support.apple.com/en-us/HT208332
+238,Lobsters,ios,Apple iOS,iOS 11 Horror Story: the Rise and Fall of iOS Security,https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/
+239,Lobsters,ios,Apple iOS,Lessons learned from 4 years of using Cordova in production,http://korban.net/posts/2017-11-29-lessons-4-years-of-cordova/
+240,Lobsters,ios,Apple iOS,Two Major Cydia Repositories Shut Down as Jailbreaking Fades in Popularity,https://www.macrumors.com/2017/11/23/modmyi-macciti-cydia-repos-shut-down/
+241,Lobsters,ios,Apple iOS,Researchers craft Android app that reveals menagerie of hidden spyware; legally barred from doing the same with iOS,https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html
+242,Lobsters,ios,Apple iOS,Apple’s Secure Enclave Processor (SEP) Firmware Decrypted,http://hackaday.com/2017/08/18/apples-secure-enclave-processor-sep-firmware-decyrpted/
+243,Lobsters,ios,Apple iOS,Org-mode companion for iPhone and iPad,http://beorgapp.com/
+244,Lobsters,ios,Apple iOS,Under the Bridge: A quick tour of the BridgeOS 2.0 image,http://newosxbook.com/articles/BridgeOS.html
+245,Lobsters,ios,Apple iOS,"Fine, I'll Download It For You",https://somerandomidiot.com/blog/2017/06/13/fine-ill-download-it-for-you/
+246,Lobsters,ios,Apple iOS,Apple Face ID can be outsmarted using mask,https://www.rt.com/news/409727-iphone-x-face-apple-id/
+247,Lobsters,ios,Apple iOS,Built to Flex: View-based RESTful APIs,https://medium.com/aaptiv-engineering/built-to-flex-view-based-restful-apis-c5ad690f558c
+248,Lobsters,ios,Apple iOS,DirtyTooth - iOS device bluetooth information leak,http://dirtytooth.com/
+249,Lobsters,ios,Apple iOS,Convert Sketch files into React Native components,https://github.com/nanohop/sketch-to-react-native
+250,Lobsters,ios,Apple iOS,"steal.password - Easily get the user's Apple ID password, just by asking",https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking
+251,Lobsters,ios,Apple iOS,Scrolling your website past the iPhone X’s notch,https://www.quirksmode.org/blog/archives/2017/10/scrolling_your.html
+252,Lobsters,ios,Apple iOS,Apple Open Sources XNU Kernel,https://github.com/apple/darwin-xnu
+253,Lobsters,ios,Apple iOS,"Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices",https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+254,Lobsters,ios,Apple iOS,Designing Websites for iPhone X,https://webkit.org/blog/7929/designing-websites-for-iphone-x/
+255,Lobsters,ios,Apple iOS,Dive into the details of iOS 11: Is Apple still detail-oriented?,https://gist.github.com/anonymous/a444036381a3faaca85170142f418d39
+256,Lobsters,ios,Apple iOS,Our Approach to Privacy - Apple,https://www.apple.com/privacy/approach-to-privacy/
+257,Lobsters,ios,Apple iOS,Every Major Advertising Group Is Blasting Apple for Blocking Cookies in the Safari Browser,http://www.adweek.com/digital/every-major-advertising-group-is-blasting-apple-for-blocking-cookies-in-the-safari-browser/
+258,Lobsters,ios,Apple iOS,Apple Special Event for September 2017,https://www.apple.com/apple-events/september-2017/
+259,Lobsters,ios,Apple iOS,Animating a 3D model in AR with ARKit and Mixamo,https://blog.pusher.com/animating-3d-model-ar-arkit-mixamo/
+260,Lobsters,ios,Apple iOS,iOS and macOS: What does the future hold?,http://www.macworld.com/article/3219695/ios/future-of-ios-and-macos.html
+261,Lobsters,ios,Apple iOS,iOS 11 Cop Button Temporarily Disables Touch-ID,https://www.theverge.com/2017/8/17/16161758/ios-11-touch-id-disable-emergency-services-lock
+262,Lobsters,ios,Apple iOS,Developing for iPhone Pro,http://www.allenpike.com/2017/developing-for-iphone-pro/
+263,Lobsters,ios,Apple iOS,On Apple Removing VPN Apps From the App Store in China,https://daringfireball.net/2017/07/apple_china_vpn_apps
+264,Lobsters,ios,Apple iOS,PSA: You Should Not Force Quit Apps on iOS,https://daringfireball.net/2017/07/you_should_not_force_quit_apps
+265,Lobsters,ios,Apple iOS,Broadpwn Bug Affects Millions of Android and iOS Devices,https://www.bleepingcomputer.com/news/security/broadpwn-bug-affects-millions-of-android-and-ios-devices/
+266,Lobsters,ios,Apple iOS,How to Build Smaller Apps,https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331
+267,Lobsters,ios,Apple iOS,Making an iOS app small,https://medium.com/@sandofsky/one-weird-trick-to-lose-size-c0a4013de331
+268,Lobsters,ios,Apple iOS,John Markoff Interviews Original iPhone Engineering Team Members and Scott Forstall,https://www.macstories.net/news/john-markoff-interviews-original-iphone-engineering-team-members-and-scott-forstall/
+269,Lobsters,ios,Apple iOS,Our dirty little secret: Cross-platform email client with nothing but HTML,https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+270,Lobsters,ios,Apple iOS,Apple’s App Store Guidelines Now Allow Executable Code in Educational Apps and Developer Tools,https://www.macstories.net/linked/apples-app-store-guidelines-now-allow-executable-code-in-educational-apps-and-developer-tools/
+271,Lobsters,ios,Apple iOS,WWDC 2017 Update: Significant Updates to Location Permissions Coming With iOS 11,https://m.rover.io/wwdc-2017-update-significant-updates-to-location-permissions-coming-with-ios-11-41f96001f87f
+272,Lobsters,ios,Apple iOS,"How to Make $80,000 Per Month on the Apple App Store",https://medium.com/@johnnylin/how-to-make-80-000-per-month-on-the-apple-app-store-bdb943862e88
+273,Lobsters,ios,Apple iOS,Apple will now let hobbyists build their own HomeKit devices,https://www.theverge.com/2017/6/8/15761800/apple-homekit-updates-ios-11-easier-build-requirements-wwdc-2017
+274,Lobsters,ios,Apple iOS,Apple Removes Facebook and Twitter Integration From iOS 11,https://daringfireball.net/linked/2017/06/06/facebook-twitter-ios-11
+275,Lobsters,ios,Apple iOS,APFS is currently unusable with most non-English languages,https://eclecticlight.co/2017/04/06/apfs-is-currently-unusable-with-most-non-english-languages/
+276,Lobsters,ios,Apple iOS,WWDC June 2017,https://www.apple.com/apple-events/june-2017/
+277,Lobsters,ios,Apple iOS,"Little Finger, a library to add a kill switch to your mobile apps",http://avi.im/little-finger/
+278,Lobsters,ios,Apple iOS,App Development with Swift,https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
+279,Lobsters,ios,Apple iOS,What If the iPad Smart Keyboard Had a Trackpad?,https://daringfireball.net/2017/05/ipad_trackpad
+280,Lobsters,ios,Apple iOS,The Unofficial WWDC app for macOS,https://wwdc.io
+281,Lobsters,ios,Apple iOS,Exploring Flutter for Cross-platform Mobile Development,https://sethlopez.me/article/exploring-flutter-for-cross-platform-mobile-development/
+282,Lobsters,ios,Apple iOS,Engine Internals: Optimizing Our Renderer for Metal and iOS,https://medium.com/@heinapurola/engine-internals-optimizing-our-renderer-for-metal-and-ios-77aeff5faba
+283,Lobsters,ios,Apple iOS,Apple Launches App Development Curriculum for U.S. High School and College Students,https://www.macrumors.com/2017/05/24/apple-launches-swift-app-curriculum-students/
+284,Lobsters,ios,Apple iOS,Resolving Massive View Controller with Coordinators & Model-View-ViewModel,http://anuragajwani.com/2017/05/resolving-massive-view-controller-with-coordinators-model-view-viewmodel/
+285,Lobsters,ios,Apple iOS,Reverse Engineering Apple Location Services Protocol,https://appelsiini.net/2017/reverse-engineering-location-services/
+286,Lobsters,ios,Apple iOS,Roughing It Dev Style: Coding Without a Computer,https://dev.to/chznbaum/roughing-it-dev-style-coding-without-a-computer
+287,Lobsters,ios,Apple iOS,Damage,http://mattgemmell.com/damage/
+288,Lobsters,ios,Apple iOS,On Uber’s ‘Identifying and Tagging’ of iPhones,https://daringfireball.net/2017/04/uber_identifying_and_tagging_iphones
+289,Lobsters,ios,Apple iOS,Exception-oriented exploitation on iOS,https://googleprojectzero.blogspot.com/2017/04/exception-oriented-exploitation-on-ios.html
+290,Lobsters,ios,Apple iOS,What's the best option for a reasonably tech-savvy (but annoyance averse) long-form (50kw+) writer?,/s/jpjzzl/what_s_best_option_for_reasonably_tech
+291,Lobsters,ios,Apple iOS,Kotlin/Native Tech Preview: Kotlin without a VM,https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/
+292,Lobsters,ios,Apple iOS,Imagination Technologies’ shares collapse after Apple ditches Brit chip designer,https://arstechnica.com/business/2017/04/apple-ditches-imagination-technologies-shares-collapse/
+293,Lobsters,ios,Apple iOS,"AudioKit: Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",https://github.com/audiokit/AudioKit
+294,Lobsters,ios,Apple iOS,Trace objc method call for ios and mac,https://github.com/tboox/itrace
+295,Lobsters,ios,Apple iOS,iOS 10 Security White Paper,https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+296,Lobsters,ios,Apple iOS,What's NeXT? - Andrew Stone (2015),https://vimeo.com/132840177
+297,Lobsters,ios,Apple iOS,Building iOS App Extensions With React Native,https://www.promptworks.com/blog/building-ios-app-extensions-with-react-native
+298,Lobsters,ios,Apple iOS,Apple Seeds Fifth Beta of iOS 10.3 to Developers [Update: Public Beta Now Available],https://www.macrumors.com/2017/03/08/apple-seeds-ios-10-3-beta-5-to-developers/
+299,Lobsters,ios,Apple iOS,eMate 300 Turns 20,https://512pixels.net/2017/03/emate-300-turns-20/
+300,Lobsters,ios,Apple iOS,Wikileaks reveals CIA Hacking Tools,https://wikileaks.org/ciav7p1/index.html
+301,Lobsters,ios,Apple iOS,"xmake v2.1.1 released, support golang, dlang and rust languages",http://www.tboox.org/2017/03/04/update-v2.1.1/
+302,Lobsters,ios,Apple iOS,iPhone Robbers Try to iPhish Victims,https://krebsonsecurity.com/2017/02/iphone-robbers-try-to-iphish-victims/
+303,Lobsters,ios,Apple iOS,FBI Under Pressure to Reveal Cost of San Bernardino iPhone Hack,http://wccftech.com/fbi-reveal-cost-san-bernardino-iphone-hack/
+304,Lobsters,ios,Apple iOS,Rendering an SVG elliptical arc as bezier curves,https://mortoray.com/2017/02/16/rendering-an-svg-elliptical-arc-as-bezier-curves/
+305,Lobsters,ios,Apple iOS,Dear Apple - An open to Apple from developers that work in a daily basis with their tools,https://github.com/dear-apple/dear-apple
+306,Lobsters,ios,Apple iOS,How should I go about learning how to build an iPhone app?,/s/0h3azr/how_should_i_go_about_learning_how_build
+307,Lobsters,ios,Apple iOS,iOS Universal Links and Privacy,https://jcs.org/notaweblog/2017/02/14/ios_universal_links_and_privacy/
+308,Lobsters,ios,Apple iOS,How to build cross-platform mobile apps using nothing more than a JSON markup,https://medium.freecodecamp.com/how-to-build-cross-platform-mobile-apps-using-nothing-more-than-a-json-markup-f493abec1873
+309,Lobsters,ios,Apple iOS,The Story Behind Apple’s Newton,http://lowendmac.com/2013/the-story-behind-apples-newton/
+310,Lobsters,ios,Apple iOS,Retrospective: Swift at Artsy - Artsy Engineering,http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/
+311,Lobsters,ios,Apple iOS,Hacker Dumps iOS Cracking Tools Allegedly Stolen from Cellebrite,https://motherboard.vice.com/en_us/article/hacker-dumps-ios-cracking-tools-allegedly-stolen-from-cellebrite
+312,Lobsters,ios,Apple iOS,The Guardian v WhatsApp,http://thlog.anfedorov.com/post/guardian-v-whatsapp/
+313,Lobsters,ios,Apple iOS,"Observables, State Machines, and Associated Types… Oh My!",https://engineering.snagajob.com/observables-state-machines-and-associated-types-oh-my-9992cc1082d0
+314,Lobsters,ios,Apple iOS,Apple Inc: A Pre-Mortem,https://medium.com/adventures-in-consumer-technology/apple-inc-a-pre-mortem-568d1a0b7d72
+315,Lobsters,ios,Apple iOS,"Ohana, Uber Engineering’s iOS Contacts Library",https://eng.uber.com/ohana/
+316,Lobsters,ios,Apple iOS,"Compile c++, objc and swift program across platforms fastly",http://tboox.org/2017/01/18/usage-demo/
+317,Lobsters,ios,Apple iOS,Scan source codes and build project without makefile,http://tboox.org/2017/01/07/build-without-makefile/
+318,Lobsters,ios,Apple iOS,Early iOS prototypes,https://www.youtube.com/watch?v=0eJZH-nkKP8
+319,Lobsters,ios,Apple iOS,'Sweating bullets' - The inside story of the first iPhone,http://www.bbc.com/news/technology-38552241
+320,Lobsters,ios,Apple iOS,Bringing Wide Color to Instagram,https://engineering.instagram.com/bringing-wide-color-to-instagram-5a5481802d7d
+321,Lobsters,ios,Apple iOS,The official Tor browser for iOS is free to use,http://arstechnica.com/security/2017/01/tor-onion-browser-ios-vpn/
+322,Lobsters,ios,Apple iOS,Understanding iOS Universal Links,https://techanic.net/2017/01/08/understanding_ios_universal_links.html
+323,Lobsters,ios,Apple iOS,The iPod-based interface that lost out to iOS for the iPhone,http://sonnydickson.com/2017/01/06/the-ipod-based-interface-that-lost-out-to-ios-for-the-iphone/
+324,Lobsters,ios,Apple iOS,Open sourcing our Android and iOS apps! - Kickstarter,https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd
+325,Lobsters,ios,Apple iOS,A Computer for Everything: One Year of iPad Pro,https://www.macstories.net/stories/one-year-of-ipad-pro/
+326,Lobsters,ios,Apple iOS,OpenBSD 6.0 VPN Endpoint for iOS and OSX,http://blog.gordonturner.ca/2016/12/10/openbsd-6-0-vpn-endpoint-for-ios-and-osx/
+327,Lobsters,ios,Apple iOS,Any way to use an Apple Watch 1st gen without an iPhone?,/s/i14r9s/any_way_use_apple_watch_1st_gen_without
+328,Lobsters,ios,Apple iOS,Jean-Louis Gassée on the evolution of macOS and iOS,http://www.loopinsight.com/2016/12/05/jean-louis-gassee-on-the-evolution-of-macos-and-ios/
+329,Lobsters,ios,Apple iOS,What is mobile security? What is the mobile security ecosystem?,http://developers.redhat.com/blog/2016/11/21/what-is-mobile-security-what-is-the-mobile-security-ecosystem/
+330,Lobsters,ios,Apple iOS,Jasonette - Native App over HTTP,http://jasonette.com/
+331,Lobsters,ios,Apple iOS,"iPhones Secretly Send Call History To Apple, Security Firm Says",https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/
+332,Lobsters,ios,Apple iOS,The Monkey and the Apple,https://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html
+333,Lobsters,ios,Apple iOS,"Introducing Firefox Focus – a free, fast and easy to use private browser for iOS",https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/
+334,Lobsters,ios,Apple iOS,App Store Submission Checklist,https://github.com/ubclaunchpad/app-store-checklist
+335,Lobsters,ios,Apple iOS,Dash for iOS is now open source,https://github.com/Kapeli/Dash-iOS
+336,Lobsters,ios,Apple iOS,Signal Downloads Spiked After Election Results,http://motherboard.vice.com/read/signal-downloads-spiked-after-election-results
+337,Lobsters,ios,Apple iOS,"Mosh for iOS, Best SSH Client - Blink Shell for iOS",http://www.blink.sh/
+338,Lobsters,ios,Apple iOS,Pangu 9 [iOS Jailbreak] Internals,http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf
+339,Lobsters,ios,Apple iOS,Apple Keynote October 2016,http://www.apple.com/apple-events/october-2016/
+340,Lobsters,ios,Apple iOS,A Look Inside Apple’s Custom GPU for the iPhone,http://www.realworldtech.com/apple-custom-gpu/
+341,Lobsters,ios,Apple iOS,An iOS Escape Key App,https://github.com/brianmichel/ESCapey
+342,Lobsters,ios,Apple iOS,How we used data to re-arrange our open office to optimize for noise-level and focus,https://segment.com/blog/how-we-added-10-people-without-hiring-a-soul/
+343,Lobsters,ios,Apple iOS,Auto Layout Demystified,https://spin.atomicobject.com/2016/09/26/auto-layout-demystified/
+344,Lobsters,ios,Apple iOS,Analysis and exploitation of Pegasus kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656),http://jndok.github.io/2016/10/04/pegasus-writeup/
+345,Lobsters,ios,Apple iOS,Dash and Apple: My Side of the Story,https://blog.kapeli.com/dash-and-apple-my-side-of-the-story
+346,Lobsters,ios,Apple iOS,Apple Responds to Dash Controversy,http://daringfireball.net/2016/10/apple_dash_controversy
+347,Lobsters,ios,Apple iOS,Inside Apple’s New Audio Adapter,http://ifixit.org/blog/8448/apple-audio-adapter-teardown/
+348,Lobsters,ios,Apple iOS,Why I hate iOS as a developer,https://medium.com/@Pier/why-i-hate-ios-as-a-developer-459c182e8a72
+349,Lobsters,ios,Apple iOS,Apple Has Removed Dash from the App Store,https://blog.kapeli.com/apple-removed-dash-from-the-app-store
+350,Lobsters,ios,Apple iOS,Competition vs. Community,http://www.saurik.com/id/20
+351,Lobsters,ios,Apple iOS,"iOS 10: Security Weakness Discovered, Backup Passwords Much Easier to Break",http://blog.elcomsoft.com/2016/09/ios-10-security-weakness-discovered-backup-passwords-much-easier-to-break/
+352,Lobsters,ios,Apple iOS,"Your new iPhone’s features include oppression, inequality – and vast profit",https://www.theguardian.com/commentisfree/2016/sep/19/your-new-iphone-features-oppression-inequality-vast-profit
+353,Lobsters,ios,Apple iOS,"Function Naming In Swift 3, by Pablo Villar",http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/
+354,Lobsters,ios,Apple iOS,The bumpy road towards iPhone 5c NAND mirroring,http://arxiv.org/pdf/1609.04327v1
+355,Lobsters,ios,Apple iOS,"Courage (or, the mistake of the 3.5mm mini plug)",https://brandur.org/fragments/courage
+356,Lobsters,ios,Apple iOS,iOS 10 Over-the-Air Update Bricking Some iPhones and iPads,http://www.macrumors.com/2016/09/13/ios-10-update-bricking-iphones-and-ipads/
+357,Lobsters,ios,Apple iOS,Analog: The Last Defense Against DRM,https://www.eff.org/deeplinks/2016/09/analog-last-defense-against-drm
+358,Lobsters,ios,Apple iOS,Apple Plug: Our lightest product ever.,http://appleplugs.com/
+359,Lobsters,ios,Apple iOS,Apple September 7th event,http://www.apple.com/apple-events/september-2016/
+360,Lobsters,ios,Apple iOS,PEGASUS iOS Kernel Vulnerability Explained,https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
+361,Lobsters,ios,Apple iOS,"Sophisticated, persistent mobile attack against high-value targets on iOS",https://blog.lookout.com/blog/2016/08/25/trident-pegasus/
+362,Lobsters,ios,Apple iOS,"Vesper, Adieu",http://daringfireball.net/2016/08/vesper_adieu
+363,Lobsters,ios,Apple iOS,How AI and Machine Learning Work at Apple,https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b
+364,Lobsters,ios,Apple iOS,Introducing OpenStreetView,https://www.openstreetmap.org/user/mvexel/diary/39274
+365,Lobsters,ios,Apple iOS,"Apple at BlackHat: Reopening the ""Going Dark"" Debate",https://lawfareblog.com/apple-blackhat-reopening-going-dark-debate
+366,Lobsters,ios,Apple iOS,Behind the Scenes with iOS Security,https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
+367,Lobsters,ios,Apple iOS,"How to steal $2,999.99 in less than 2 minutes with Venmo and Siri",http://www.martinvigo.com/steal-2999-99-minute-venmo-siri/
+368,Lobsters,ios,Apple iOS,iPad-only is the new desktop Linux,https://medium.com/@chipotlecoyote/ipad-only-is-the-new-desktop-linux-de88b61b6d99
+369,Lobsters,ios,Apple iOS,Update your Apple devices now to fix a terrifying security bug,http://qz.com/738214/update-your-apple-devices-now-to-fix-a-terrifying-security-bug/
+370,Lobsters,ios,Apple iOS,iOS 10 Preview,http://arstechnica.com/apple/2016/07/48-hours-with-ios-10s-first-public-beta-build/
+371,Lobsters,ios,Apple iOS,Continuous - C# and F# IDE for the iPad,http://praeclarum.org/post/147003028753/continuous-c-and-f-ide-for-the-ipad
+372,Lobsters,ios,Apple iOS,"""How to turn off the shutter sound?"" (Dec 2010)",http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono
+373,Lobsters,ios,Apple iOS,Apple confirms iOS kernel code left unencrypted intentionally,https://techcrunch.com/2016/06/22/apple-unencrypted-kernel/
+374,Lobsters,ios,Apple iOS,Behind Apple’s Advanced Computer Vision for Photos app,https://medium.com/@iosight/behind-apples-advanced-computer-vision-for-photos-app-41f3f617d31c
+375,Lobsters,ios,Apple iOS,WWDC 2016,http://www.apple.com/apple-events/june-2016/
+376,Lobsters,ios,Apple iOS,"Autofill: What web devs should know, but don’t",http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
+377,Lobsters,ios,Apple iOS,Researching ResearchKit,http://petersteinberger.com/blog/2015/researching-researchkit/
+378,Lobsters,ios,Apple iOS,"Building an iOS App in Rust, Part 1: Getting Started with Rust",https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/
+379,Lobsters,ios,Apple iOS,Apple’s actual role in podcasting: be careful what you wish for,https://marco.org/2016/05/07/apple-role-in-podcasting
+380,Lobsters,ios,Apple iOS,My Tablet Has Stickers,https://medium.learningbyshipping.com/my-tablet-has-stickers-8f7ab9022ebd
+381,Lobsters,ios,Apple iOS,Apple moves iOS to IPv6-only networks,https://ma.ttias.be/apple-moves-ios-ipv6-networks/
+382,Lobsters,ios,Apple iOS,Zen of Swift Optionals,http://hackazach.net/2016/04/21/the-zen-of-swift-optionals
+383,Lobsters,ios,Apple iOS,"Cocoapods iOS frameworks with storyboards, nibs and resources",https://medium.com/tapglue-stories/cocoapods-ios-frameworks-with-storyboards-nibs-and-resources-4d354b843148
+384,Lobsters,ios,Apple iOS,Apple Watch battery-strap accessory killed thanks to watchOS update,http://pocketnow.com/2016/04/18/apple-watch-battery-strap-accessory
+385,Lobsters,ios,Apple iOS,Lessons from building a #1 game in the app store,https://www.reddit.com/r/startups/comments/4f74dv/quit_my_full_time_corporate_job_built_an_ios_game/
+386,Lobsters,ios,Apple iOS,"How I got 10,000 five-star reviews in 4 weeks",https://medium.com/@warpling/how-i-got-10-000-five-star-reviews-in-4-weeks-5246cc4c55c7
+387,Lobsters,ios,Apple iOS,Apple Introduces Their Answer To The Raspberry Pi,http://hackaday.com/2016/04/01/apple-introduces-their-answer-to-the-raspberry-pi/
+388,Lobsters,ios,Apple iOS,Tribe - Experiential Messaging,http://tribe.pm/
+389,Lobsters,ios,Apple iOS,"The Deep History of Your Apps: Steve Jobs, NeXTSTEP, and Early Object-Oriented Programming",http://www.computerhistory.org/atchm/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/
+390,Lobsters,ios,Apple iOS,Race you to the kernel!,http://googleprojectzero.blogspot.com/2016/03/race-you-to-kernel.html
+391,Lobsters,ios,Apple iOS,Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage,https://isi.jhu.edu/~mgreen/imessage.pdf
+392,Lobsters,ios,Apple iOS,"FBI says it might be able to break into seized iPhone, wants hearing vacated",http://arstechnica.com/tech-policy/2016/03/fbi-says-it-might-be-able-to-break-into-seized-iphone-wants-hearing-vacated/
+393,Lobsters,ios,Apple iOS,"Apple event for March 21st, 2016",http://www.apple.com/apple-events/march-2016/
+394,Lobsters,ios,Apple iOS,A set of URI schemes bugs that lead Safari to crash/freeze.,https://github.com/pwnsdx/iOS-URI-Schemes-Abuse-PoC
+395,Lobsters,ios,Apple iOS,Pirated iOS App Store’s Client Successfully Evaded Apple iOS Code Review,http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/
+396,Lobsters,ios,Apple iOS,WWDC Wish List,http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list
+397,Lobsters,ios,Apple iOS,U.S. files motion to force Apple to obey iPhone order,http://www.reuters.com/article/us-apple-encryption-doj-idUSKCN0VS2FT
+398,Lobsters,ios,Apple iOS,A Message to Our Customers,http://www.apple.com/customer-letter/
+399,Lobsters,ios,Apple iOS,"Date settings to Jan 1, 1970 will permanently brick 64-bit iOS devices",https://www.reddit.com/r/jailbreak/comments/458ao3/discussion_changing_time_date_settings_to_jan_1/
+400,Lobsters,ios,Apple iOS,Reflecting on Recent iOS and Android Security Updates,https://blog.zimperium.com/reflecting-on-recent-ios-and-android-security-updates/
+401,Lobsters,ios,Apple iOS,‘Error 53’ fury mounts as Apple software update threatens to kill your iPhone 6,http://www.theguardian.com/money/2016/feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-repair
+402,Lobsters,ios,Apple iOS,Apple’s apps need work,http://www.theverge.com/2016/2/3/10900612/walt-mossberg-apple-iphone-ios-mac-osx-app-problems
+403,Lobsters,ios,Apple iOS,The fight for a third-best smartphone OS has been lost. By everyone.,http://arstechnica.com/gadgets/2016/02/the-fight-for-a-third-best-smartphone-os-has-been-lost-by-everyone/
+404,Lobsters,ios,Apple iOS,"Apple recalls some AC adapters, world travel kits in parts of South America, Europe, Asia, and Oceania",http://appleinsider.com/articles/16/01/28/apple-recalls-some-ac-adapters-world-travel-kits-in-parts-of-south-america-europe-asia-and-oceania
+405,Lobsters,ios,Apple iOS,"At 83, I Decided to Develop an App",https://medium.com/@DonRumsfeld/at-83-i-decided-to-develop-an-app-dadd4e53d342
+406,Lobsters,ios,Apple iOS,IQtags - Hashtag suggestions for Instagram,http://IQta.gs
+407,Lobsters,ios,Apple iOS,F.lux Responds to Apple's Announcement of Night Shift,https://justgetflux.com/news/2016/01/14/apple.html
+408,Lobsters,ios,Apple iOS,Using OpenCV and AKAZE for Mobile App and Game Testing,http://testdroid.com/tech/using-opencv-and-akaze-for-mobile-app-and-game-testing
+409,Lobsters,ios,Apple iOS,Keyboard Smörgåsbord,http://www.elischiff.com/blog/2015/9/29/keyboards-smorgasbord
+410,Lobsters,ios,Apple iOS,Apple WWDR Intermediate Certificate Expiration,https://developer.apple.com/support/certificates/expiration/index.html
+411,Lobsters,ios,Apple iOS,Why Spinlocks Are Bad On iOS,http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/
+412,Lobsters,ios,Apple iOS,Did Apple just give up?,https://medium.com/@se4nn/wtf-happened-at-apple-4a27e55c3c31
+413,Lobsters,ios,Apple iOS,Apple iPhone Prototypes Revealed During Samsung Lawsuit,http://bgr.com/2015/12/07/apple-secrets-iphone-ipad-samsung-lawsuit/
+414,Lobsters,ios,Apple iOS,"Use new fastlane tool ""match"" to fix code-signing problems",https://codesigning.guide/
+415,Lobsters,ios,Apple iOS,iOS 9 vulnerability: Content Blockers can track browser history,http://blog.appgrounds.com/content-blockers-track-browser-history/
+416,Lobsters,ios,Apple iOS,"Announcing Focus by Firefox, a Content Blocker for iOS",https://blog.mozilla.org/futurereleases/2015/12/08/announcing-focus-by-firefox-a-content-blocker-for-ios/
+417,Lobsters,ios,Apple iOS,Exploring the Product Design of the Stripe Dashboard for iPhone,https://medium.com/swlh/exploring-the-product-design-of-the-stripe-dashboard-for-iphone-e54e14f3d87e
+418,Lobsters,ios,Apple iOS,Is the Native Mobile App Ecosystem Worth Saving?,http://remotesynthesis.com/general/2015/11/17/mobile-app-ecosystem/
+419,Lobsters,ios,Apple iOS,f.lux is no longer available for iOS,https://justgetflux.com/sideload/#notanymore
+420,Lobsters,ios,Apple iOS,Firefox released for iOS,https://itunes.apple.com/us/app/firefox-web-browser/id989804926?mt=8
+421,Lobsters,ios,Apple iOS,Is Usability on Mobile Getting Worse?,http://ignorethecode.net/blog/2015/11/12/usability_on_mobile_getting_worse/
+422,Lobsters,ios,Apple iOS,Sideloading f.lux on iOS with Xcode 7,https://justgetflux.com/sideload/
+423,Lobsters,ios,Apple iOS,User data plundering by Android and iOS apps is as rampant as you suspected,http://arstechnica.com/security/2015/11/user-data-plundering-by-android-and-ios-apps-is-as-rampant-as-you-suspected/
+424,Lobsters,ios,Apple iOS,"Introducing Envoy Passport, BLE sign-in using your phone",https://blog.envoy.co/introducing-envoy-passport-and-the-free-tier-1a782867b567
+425,Lobsters,ios,Apple iOS,Threema - Seriously secure messaging,https://threema.ch
+426,Lobsters,ios,Apple iOS,Turning the iPhone 6s Into a Digital Scale,https://medium.com/@warpling/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7#.viadvoc4g
+427,Lobsters,ios,Apple iOS,Wi-Fi Assist: a $5 Million Mess,https://medium.com/@istumbler/wi-fi-assist-a-5-million-mess-f10c4c65f2f#.49gyjcq28
+428,Lobsters,ios,Apple iOS,"How Much? – The Smart, Offline Currency Converter for iOS and watchOS",http://gethowmuch.com
+429,Lobsters,ios,Apple iOS,Facebook iOS App Scrapes Your Clipboard?,https://un-excogitate.org/facebook-ios-clipboard/
+430,Lobsters,ios,Apple iOS,Hackers Can Silently Control Siri (and Google Now) From 16 Feet Away,http://www.wired.com/2015/10/this-radio-trick-silently-hacks-siri-from-16-feet-away/
+431,Lobsters,ios,Apple iOS,Apple Is Sweating the Details on iMac,https://medium.com/backchannel/exclusive-why-apple-is-still-sweating-the-details-on-imac-531a95e50c91
+432,Lobsters,ios,Apple iOS,"Amazon stops selling Chromecast and Apple TV over Amazon Prime ""incompatability""",http://www.bloomberg.com/news/articles/2015-10-01/amazon-will-ban-sale-of-apple-google-video-streaming-devices
+433,Lobsters,ios,Apple iOS,How hackers can access iPhone contacts and photos without a password,http://arstechnica.com/security/2015/09/how-hackers-can-access-iphone-contacts-and-photos-without-a-password/
+434,Lobsters,ios,Apple iOS,iOS at Facebook,https://static1.squarespace.com/static/5463eca4e4b09c644a61f99a/t/55fa801ae4b008853e3de038/1442480154751/SimonWhitaker.pdf
+435,Lobsters,ios,Apple iOS,Why I’m not enabling Bitcode,https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5
+436,Lobsters,ios,Apple iOS,Apple subtly rickrolled everyone and it's hilarious,http://thenextweb.com/apple/2015/09/22/apple-subtly-rickrolled-everyone-and-its-hilarious/
+437,Lobsters,ios,Apple iOS,Why There's No Sketch for the iPad,http://daringfireball.net/linked/2015/09/14/sketch-ipad
+438,Lobsters,ios,Apple iOS,Reverse-Engineering iOS Apps: Hacking on Lyft,https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
+439,Lobsters,ios,Apple iOS,App Search Optimization (AOS) coming with iOS 9,http://hackazach.net/2015/08/27/ios-9-spotlight-shines/
+440,Lobsters,ios,Apple iOS,Proactive intelligence in iOS 9,http://www.computerworld.com/article/2973682/data-privacy/the-shocking-truth-about-proactive-intelligence-in-ios-9.html
+441,Lobsters,ios,Apple iOS,A Eulogy for Objective-C,https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/
+442,Lobsters,ios,Apple iOS,Open Sourcing the Windows Bridge for iOS,http://blogs.windows.com/buildingapps/2015/08/06/open-sourcing-the-windows-bridge-for-ios/
+443,Lobsters,ios,Apple iOS,What's really happening with iOS 8 MAC address randomization?,http://www.imore.com/closer-look-ios-8s-mac-randomization
+444,Lobsters,ios,Apple iOS,The War for Control of the Mobile Web is About to Heat Up,https://medium.com/@TechnoCharms/the-war-for-control-of-the-mobile-web-is-about-to-heat-up-47b73ee501fe
+445,Lobsters,ios,Apple iOS,Again helps you create habits of groups of recurring tasks,http://www.againlist.com
+446,Lobsters,ios,Apple iOS,Apple and IPv6 - Happy Eyeballs,https://www.ietf.org/mail-archive/web/v6ops/current/msg22455.html
+447,Lobsters,ios,Apple iOS,First look: iOS 9 public beta,http://arstechnica.com/apple/2015/07/first-look-ios-9-public-beta-is-the-update-the-ipad-deserves/
+448,Lobsters,ios,Apple iOS,Endless: An iOS web browser with a focus on privacy and security - now in the App Store,https://itunes.apple.com/us/app/endless-browser/id974745755?mt=8
+449,Lobsters,ios,Apple iOS,Imagining MessageKit: Apple's path to turning iMessage into a platform,https://medium.com/@mg/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857
+450,Lobsters,ios,Apple iOS,How we turned JSON into a full programming language,https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80
+451,Lobsters,ios,Apple iOS,Mobile App Design that Scales: Building for Existing and Fututre Devices,http://www.telerik.com/campaigns/mobile-app-design-that-scales
+452,Lobsters,ios,Apple iOS,Deep linking & search in iOS 9,https://medium.com/ios-os-x-development/deep-linking-search-in-ios-9-will-change-everything-feab0bb7e189
+453,Lobsters,ios,Apple iOS,WWDC 15,http://www.apple.com/live/2015-june-event/
+454,Lobsters,ios,Apple iOS,Apple is having its Microsoft moment,http://money.cnn.com/2015/06/05/technology/apple-bugs/index.html?iid=SF_LN
+455,Lobsters,ios,Apple iOS,Lessons learned while fixing memory leaks in our first Unity title,http://richg42.blogspot.com/2015/05/lessons-learned-while-fixing-memory.html
+456,Lobsters,ios,Apple iOS,Unit Testing on iOS: Beyond the Model,http://www.catehuston.com/blog/2015/04/29/unit-testing-on-ios-beyond-the-model/
+457,Lobsters,ios,Apple iOS,iOS security guide (8.3),https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+458,Lobsters,ios,Apple iOS,Image Recognition for Mobile Game Testing,http://testdroid.com/news/how-to-use-image-recognition-for-mobile-app-and-game-testing
+459,Lobsters,ios,Apple iOS,Fixing UI Elements that Float Away,https://spin.atomicobject.com/2015/05/07/floating-ui-elements/
+460,Lobsters,ios,Apple iOS,The Similar Phone Finder,http://www.productchart.com/smartphones/similar
+461,Lobsters,ios,Apple iOS,"""No iOS Zone"" - A New Vulnerability Allows DoS Attacks on iOS Devices",https://www.skycure.com/blog/ios-shield-allows-dos-attacks-on-ios-devices/
+462,Lobsters,ios,Apple iOS,ALAccordion - new smart accordion style container view for IOS,https://github.com/Alliants/ALAccordion
+463,Lobsters,ios,Apple iOS,Four Ways to Quickly Test Swift Code,http://developer.telerik.com/featured/four-ways-to-quickly-test-swift-code/
+464,Lobsters,ios,Apple iOS,iOS 8.3 Triggers an Avalanche of Improvements,http://tidbits.com/article/15564
+465,Lobsters,ios,Apple iOS,objc-tidy: Mass tidy Objective-C headers and imports.,https://github.com/choongng/objc-tidy
+466,Lobsters,ios,Apple iOS,ComponentKit: A React-inspired view framework for iOS,https://github.com/facebook/componentkit
+467,Lobsters,ios,Apple iOS,React Native - Now Open-Source,http://facebook.github.io/react-native/
+468,Lobsters,ios,Apple iOS,Apple iOS Hardware Assisted Screenlock Bruteforce,http://blog.mdsec.co.uk/2015/03/bruteforcing-ios-screenlock.html
+469,Lobsters,ios,Apple iOS,When should I use the Xamarin platform for mobile development?,http://www.telerik.com/campaigns/build-mobile-apps-with-dotnet
+470,Lobsters,ios,Apple iOS,Shitphone: A Love Story,https://medium.com/matter/shitphone-a-love-story-a44e66434807?source=reading-list
+471,Lobsters,ios,Apple iOS,An interactive Comparison Chart of the 300 most popular Tablets,http://www.productchart.com/tablets/
+472,Lobsters,ios,Apple iOS,DIY: kernel panic OS X and iOS in 10 LOC,https://medium.com/@oleavr/diy-kernel-panic-os-x-and-ios-in-10-loc-c250d9649159
+473,Lobsters,ios,Apple iOS,Goby: Develop iOS apps with ClojureScript.,https://github.com/mfikes/goby
+474,Lobsters,ios,Apple iOS,Send Data to Apple Watch with Core Data and Telerik UI for iOS in Swift,http://blogs.telerik.com/blogs/15-02-03/send-data-to-apple-watch-with-core-data-and-telerik-ui-for-ios-in-swift
+475,Lobsters,ios,Apple iOS,Learn How to Code With Online Resources – Free and Paid,http://webdesignpool.com/learn-programming-online
+476,Lobsters,ios,Apple iOS,Alfred App - Alfred Remote on iOS for Alfred 2,http://www.alfredapp.com/remote/
+477,Lobsters,ios,Apple iOS,Creating a Task Application for iOS using Swift,http://developer.telerik.com/featured/creating-task-application-ios-using-swift/
+478,Lobsters,ios,Apple iOS,"BlackBerry CEO prods regulators for 'app neutrality,' wants cross-platform iMessage",http://appleinsider.com/articles/15/01/22/blackberry-ceo-prods-regulators-for-app-neutrality-wants-cross-platform-imessage
+479,Lobsters,ios,Apple iOS,Apple Software Quality Questions,http://www.mondaynote.com/2015/01/18/apple-software-quality-questions/
+480,Lobsters,ios,Apple iOS,Two mysterious background video bugs,http://www.tedunangst.com/flak/post/two-mysterious-background-video-bugs
+481,Lobsters,ios,Apple iOS,Bypassing OpenSSL Certificate Pinning in iOS Apps,http://chargen.matasano.com/chargen/2015/1/6/bypassing-openssl-certificate-pinning-in-ios-apps.html
+482,Lobsters,ios,Apple iOS,The 300 ms Click Delay and iOS 8,http://developer.telerik.com/featured/300-ms-click-delay-ios-8/
+483,Lobsters,ios,Apple iOS,The Death of Cocoa,http://nshipster.com/the-death-of-cocoa/
+484,Lobsters,ios,Apple iOS,The future of interface building in Cocoa,https://dirk.to/blog/2014/12/18/future-of-interface-building.html
+485,Lobsters,ios,Apple iOS,"The Unified API for Mobile App, Game and Web Testing",http://testdroid.com/testdroid/8718/the-powerful-api-for-your-mobile-app-game-and-web-testing
+486,Lobsters,ios,Apple iOS,Start using UIVisualEffects in 10mins,http://hackazach.net/presentaion/2014/10/31/uivisualeffects-in-10mins/
+487,Lobsters,ios,Apple iOS,Looking for technical users to Beta test SuperBeam for iOS (P2P file transfer),https://docs.google.com/a/ryanbrink.ca/forms/d/1-lRGyXlwaPPWJS4V2AoG_aD9O0Eml1nEnke0PhUskbo/viewform
+488,Lobsters,ios,Apple iOS,WiFried: iOS 8 WiFi Performance Issues,https://medium.com/@mariociabarra/wifried-ios-8-wifi-performance-issues-3029a164ce94
+489,Lobsters,ios,Apple iOS,Become Part of the Web of Apps: Developers tricks to increase mobile app usage,http://blogs.telerik.com/blogs/14-11-18/become-part-of-the-web-of-apps-developers-tricks-to-drive-app-engagement-up
+490,Lobsters,ios,Apple iOS,The Trials and Tribulations of Writing a 3rd Party iOS Keyboard,http://beta-blog.archagon.net/2014/11/08/the-trials-and-tribulations-of-writing-a-3rd-party-ios-keyboard/
+491,Lobsters,ios,Apple iOS,Using XCode playgrounds with less hassle,http://chrisbuchholz.me/writings/2014/10/13/using-xcode-playgrounds-with-less-hassle/
+492,Lobsters,ios,Apple iOS,How App Store Apps are Hacked on Non-Jailbroken Phones,http://www.zdziarski.com/blog/?p=4002
+493,Lobsters,ios,Apple iOS,Why iOS Developers Still Need to Know Objective-C,http://developer.telerik.com/featured/ios-developers-still-need-know-objective-c/
+494,Lobsters,ios,Apple iOS,Android vs. iOS App Robustness on Different Chipsets,http://testdroid.com/testdroid/8216/android-vs-ios-app-robustness-on-different-chipsets
+495,Lobsters,ios,Apple iOS,How Does the iOS 8 Time-lapse Feature Work?,http://www.studioneat.com/blogs/main/15467765-how-does-the-ios-8-time-lapse-feature-work
+496,Lobsters,ios,Apple iOS,I Had to Develop an iPhone App to Understand Swing Trading,http://chartingninja.com/2014/09/12/app-understand-swing-trading.html
+497,Lobsters,ios,Apple iOS,App Robustness/Stability - Android vs. iOS - before iOS8,http://testdroid.com/testdroid/7621/app-stability-android-vs-ios-before-ios8
+498,Lobsters,ios,Apple iOS,iOS file upload issue - iOS 7.1.2 and iOS 8 (beta) - Mobile Safari - Stack Overflow,https://stackoverflow.com/questions/25659190/ios-file-upload-issue-ios-7-1-2-and-ios-8-beta-mobile-safari/25936215#25936215
+499,Lobsters,ios,Apple iOS,Snowplow 0.9.8 released for mobile analytics,http://snowplowanalytics.com/blog/2014/09/18/snowplow-0.9.8-released-for-mobile-analytics/
+500,Lobsters,ios,Apple iOS,Everything that went wrong while building the Tumblr iOS share extension,http://engineering.tumblr.com/post/97658880154/everything-that-went-wrong-while-building-the-tumblr
+501,Lobsters,ios,Apple iOS,Apple Watch: Asking Why and Saying No,http://stratechery.com/2014/apple-watch-asking-saying/
+502,Lobsters,ios,Apple iOS,Graphics Performance makes UX,http://testdroid.com/testdroid/7982/mobile-game-testing-part-3-graphics-performance-and-ux-with-automation
+503,Lobsters,ios,Apple iOS,Image Recognition in Mobile Game Testing,http://testdroid.com/testdroid/7896/mobile-game-testing-part-2-ui-and-functionality-image-recognition
+504,Lobsters,ios,Apple iOS,My year with a distraction-free iPhone (and how to start your own experiment),https://medium.com/@jakek/my-year-with-a-distraction-free-iphone-and-how-to-start-your-own-experiment-6ff74a0e7a50
+505,Lobsters,ios,Apple iOS,"RTFM 0day in iOS apps: G+, Gmail, FB Messenger, etc.",http://algorithm.dk/posts/rtfm-0day-in-ios-apps-g-gmail-fb-messenger-etc
+506,Lobsters,ios,Apple iOS,Interview with Adam Ernst on functional approaches for iOS applications,http://www.infoq.com/interviews/adam-ernst-facebook-ios
+507,Lobsters,ios,Apple iOS,Merging Audio and Video in Native iOS,http://developer.telerik.com/featured/merging-audio-video-native-ios/
+508,Lobsters,ios,Apple iOS,Immutable Enumeration in Swift,http://tel.github.io/2014/07/30/immutable_enumeration_in_swift/
+509,Lobsters,ios,Apple iOS,Mobile Connectivity in iOS Apps,http://developer.telerik.com/featured/mobile-connectivity-ios-apps/
+510,Lobsters,ios,Apple iOS,Learn ➜ Swift,http://learn-swift.co
+511,Lobsters,ios,Apple iOS,Swift Sequences and Lazy Evaluation,http://www.scottlogic.com/blog/2014/06/26/swift-sequences.html
+512,Lobsters,ios,Apple iOS,4 Mistakes To Avoid in Mobile App Development,http://developer.telerik.com/featured/4-mistakes-avoid-mobile-app-development/
+513,Lobsters,ios,Apple iOS,Device Mirroring Options for Mobile Developers,http://developer.telerik.com/featured/mirroring-options-mobile-developers/
+514,Lobsters,ios,Apple iOS,"Identifying Back Doors, Attack Points, and Surveillance Mechanisms in iOS Devices",http://www.zdziarski.com/blog/wp-content/uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms.pdf
+515,Lobsters,ios,Apple iOS,5 Killer Tools for iOS Developers,http://developer.telerik.com/featured/5-killer-tools-ios-developers/
+516,Lobsters,ios,Apple iOS,Design mistakes in Swift language’s arrays,http://yinwang0.wordpress.com/2014/07/13/swift-array/
+517,Lobsters,ios,Apple iOS,Lobsters: An open source Lobste.rs app for iOS 7+,https://github.com/JamesS237/lobsters-ios
+518,Lobsters,ios,Apple iOS,Announcing Telerik UI for iOS,http://blogs.telerik.com/blogs/14-06-25/announcing-telerik-ui-for-ios
+519,Lobsters,ios,Apple iOS,SwiftToolbox - community-supported catalog of Swift libraries,http://www.swifttoolbox.io/
+520,Lobsters,ios,Apple iOS,Which Clang Warning Is Generating This Message?,http://fuckingclangwarnings.com/
+521,Lobsters,ios,Apple iOS,Swifting Around,http://weheartswift.com
+522,Lobsters,ios,Apple iOS,Unit Testing in Swift,http://bendyworks.com/unit-testing-in-swift/
+523,Lobsters,ios,Apple iOS,My First Hello World with Apple's Swift and Telerik UI for iOS,http://blogs.telerik.com/blogs/14-06-03/my-first-hello-world-with-apples-swift-and-telerik-ui-for-ios
+524,Lobsters,ios,Apple iOS,Rust Creator Graydon Hoare's Thoughts On Swift,http://graydon2.dreamwidth.org/5785.html
+525,Lobsters,ios,Apple iOS,The Swift Programming Language,https://itunes.apple.com/gb/book/swift-programming-language/id881256329?mt=11
+526,Lobsters,ios,Apple iOS,Why mobile developers should care about deep linking,http://developer.telerik.com/products/why-developers-should-care-about-deep-linking/
+527,Lobsters,ios,Apple iOS,Silencing the iOS shutter sound,https://stackoverflow.com/questions/23758875/capture-image-via-capturestillimageasynchronouslyfromconnection-with-no-shutter
+528,Lobsters,ios,Apple iOS,vpdn/MMLayershots · GitHub,https://github.com/vpdn/MMLayershots
+529,Lobsters,ios,Apple iOS,Tileswap: my first iOS game,https://itunes.apple.com/us/app/tileswap-a-puzzle-game/id859666964
+530,Lobsters,ios,Apple iOS,Creating a Planet Lisp mobile app in 15 minutes with mocl,https://wukix.com/pl-screencast
+531,Lobsters,ios,Apple iOS,Testing Core Data with OCMock,http://hackazach.net/code/2014/04/13/ios-testing-and-core-data
+532,Lobsters,ios,Apple iOS,Pop: an extensible animation engine for iOS and OS X by Facebook,https://github.com/facebook/pop
+533,Lobsters,ios,Apple iOS,Building Paper,https://www.youtube.com/playlist?list=PLb0IAmt7-GS2sh8saWW4z8x2vo7puwgnR
+534,Lobsters,ios,Apple iOS,Is cards UI the future of mobile?,http://blogs.telerik.com/blogs/14-04-15/is-cards-ui-the-future-of-mobile
+535,Lobsters,ios,Apple iOS,Chromium Issue 355541 - GUID-like string added to `navigator.userAgent` on iOS,http://code.google.com/p/chromium/issues/detail?id=355541
+536,Lobsters,ios,Apple iOS,Introducing the iOS Reverse Engineering Toolkit,https://blog.veracode.com/2014/03/introducing-the-ios-reverse-engineering-toolkit/
+537,Lobsters,ios,Apple iOS,What I learnt going from Rails development to iOS.,http://callumj.com/post/79866627645/what-ive-learnt-about-ios-development-as-a-rails
+538,Lobsters,ios,Apple iOS,Attacking the iOS 7 early_random() PRNG,http://blog.azimuthsecurity.com/2014/03/attacking-ios-7-earlyrandom-prng.html
+539,Lobsters,ios,Apple iOS,Tests and Origami with OCMock,http://hackazach.net/code/2014/03/03/effective-testing-with-ocmock/
+540,Lobsters,ios,Apple iOS,Why mobile web application sucks,http://blog.wearther.cc/2014/03/04/why-mobile-web-application-sucks/
+541,Lobsters,ios,Apple iOS,"iOS, no OSS, Introverts, and I",http://j2labs.tumblr.com/post/78726135626/ios-no-oss-introverts-and-i
+542,Lobsters,ios,Apple iOS,NYT Objective-C style guide,https://github.com/NYTimes/objective-c-style-guide
+543,Lobsters,ios,Apple iOS,iOS security whitepaper,http://images.apple.com/iphone/business/docs/iOS_Security_Feb14.pdf
+544,Lobsters,ios,Apple iOS,Reversing Kony JavaScript iOS Applications,http://blog.veracode.com/2014/02/reversing-kony-javascript-ios-applications/
+545,Lobsters,ios,Apple iOS,Popular iOS Games That Could Have Been Designed for 8-Bit Systems,http://prog21.dadgum.com/191.html
+546,Lobsters,ios,Apple iOS,WhatsApp Plans To Add Voice Calls In Q2 This Year.,http://gazerlog.com/whatsapp-plans-add-voice-calls-q2-year/
+547,Lobsters,ios,Apple iOS,Slim XCTest Targets,http://hackazach.net/code/2014/02/24/slim-xctest-targets/
+548,Lobsters,ios,Apple iOS,Apple's SSL/TLS bug,https://www.imperialviolet.org/2014/02/22/applebug.html
+549,Lobsters,ios,Apple iOS,Composite Prototyping Tool for iPhone Updated with Fixed Elements Support,http://www.getcomposite.com/blog/2014/02/15/composite-v1-2.html
+550,Lobsters,ios,Apple iOS,SprityBird - A small clone of Flappy Bird using SpriteKit,https://github.com/kirualex/SprityBird
+551,Lobsters,ios,Apple iOS,Developing a mobile cross-platform library - Part 1. Exploring,http://www.skyscanner.net/blogs/developing-mobile-cross-platform-library-part-1-exploring
+552,Lobsters,ios,Apple iOS,Delighting your users with SBJson 4,https://speakerdeck.com/stig/delighting-your-users-with-sbjson-4
+553,Lobsters,ios,Apple iOS,Single Responsibility Principle & iOS,http://bendyworks.com/geekville/articles/2014/2/single-responsibility-principle-ios
+554,Lobsters,ios,Apple iOS,(Facebook Paper codebase and scaling),http://inessential.com/2014/02/03/apology
+555,Lobsters,ios,Apple iOS,Ready to cast: Chromecast now open to developers with the Google Cast SDK,http://googledevelopers.blogspot.com/2014/02/ready-to-cast-chromecast-now-open-to.html
+556,Lobsters,ios,Apple iOS,iOS holding my phone number hostage = the worst bug I’ve ever experienced,http://blog.benjaminste.in/post/75389520824/ios-holding-my-phone-number-hostage-the-worst-bug
+557,Lobsters,ios,Apple iOS,How to Extract the Images From Any App in the App Store,http://objcsharp.wordpress.com/2014/01/22/how-to-extract-the-images-from-any-app-in-the-app-store/?goback=.gde_2627917_member_5833568980127744002#!
+558,Lobsters,ios,Apple iOS,Sharing on iDevices: Apple Opens it Up,http://www.veracode.com/blog/2014/01/sharing-on-idevices-apple-opens-it-up/
+559,Lobsters,ios,Apple iOS,Introducing Jelly (social-network-powered search),http://blog.jelly.co/post/72563498393/introducing-jelly
+560,Lobsters,ios,Apple iOS,Watch that cache: Dropbox and Evernote insufficiently protecting iOS 6 user's data,http://erik.io/blog/2014/01/03/watch-that-cache-dropbox-evernote-insufficiently-protecting-ios-6-data/
+561,Lobsters,ios,Apple iOS,Telegram Messenger For iPhone And Android (oss),http://telegram.org/
+562,Lobsters,ios,Apple iOS,Xcode Build Process,http://www.objc.io/issue-6/build-process.html
+563,Lobsters,ios,Apple iOS,iMessage Privacy,http://blog.quarkslab.com/imessage-privacy.html
+564,Lobsters,ios,Apple iOS,LinkedIn Intro: Doing the Impossible on iOS,http://engineering.linkedin.com/mobile/linkedin-intro-doing-impossible-ios
+565,Lobsters,ios,Apple iOS,Apple Special Event October 2013,http://www.apple.com/apple-events/october-2013/
+566,Lobsters,ios,Apple iOS,"Safari on iOS 7 and HTML5: problems, changes and new APIs",http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review
+567,Lobsters,ios,Apple iOS,"Rendering bug crashes OS X, iOS apps with string of Arabic characters",http://arstechnica.com/apple/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/
+568,Lobsters,ios,Apple iOS,GHC (the standard Haskell compiler) gets first class iOS support,https://groups.google.com/forum/#!msg/haskell-cafe/agDRueqFUFk/7SKMNGnmKV0J
+569,Lobsters,ios,Apple iOS,iOS 7 - a step in the right direction,https://medium.com/trends-predictions/611cfe1cee05
+570,Lobsters,ios,Apple iOS,iOS 7 looks familiar... Can’t quite put my finger on it.,http://chris.millr.org/ios-7-looks-familiar-cant-quite-put-my-finger-on-it/
+571,Lobsters,ios,Apple iOS,"Creating iOS and Android Apps in Lisp, with mocl",http://wukix.com/dist/mocl_eclm2013.pdf
+572,Lobsters,ios,Apple iOS,"John Gruber launches Vesper, a note–taking app with unique visual design, a $5 price tag and no sync",http://vesperapp.co/
+573,Lobsters,ios,Apple iOS,Shareable Web Links that Open iOS Deep Links,http://benroesch.com/2013/05/23/shareable-web-links-that-open-ios-deep-links/
+574,Lobsters,ios,Apple iOS,Venmo Touch Screencasts: Add one touch credit card payments to your app in 15 minutes,https://www.braintreepayments.com/braintrust/venmo-touch-screencasts-add-one-touch-payments-to-your-app-in-15-minutes
+575,Lobsters,ios,Apple iOS,What’s a known source of malware doing in an iOS app?,http://arstechnica.com/security/2013/05/whats-a-known-source-of-malware-doing-in-an-ios-app-ars-investigates/
+576,Lobsters,ios,Apple iOS,It's not a web app. It's an app you install from the web.,http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/
+577,Lobsters,ios,Apple iOS,"Helios: a Ruby-based, extensible, open-source mobile backend framework for iOS",http://helios.io/
+578,Lobsters,ios,Apple iOS,FFI: Foreign Function Interfaces for Fun & Industry,http://spin.atomicobject.com/2013/02/15/ffi-foreign-function-interfaces/
+579,Lobsters,ios,Apple iOS,RestKit v0.20.0-rc1 Released,http://restkit.tumblr.com/post/42079720667/restkit-v0-20-0-rc1-released
+580,Lobsters,ios,Apple iOS,"NSLogger: A flexible, modern logging tool for iOS",https://github.com/fpillet/NSLogger
+581,Lobsters,ios,Apple iOS,Show Lobsters: A Lobsters iPhone app I've started working on,https://github.com/jcs/lobsters/issues/42#issuecomment-11519034
+582,Lobsters,ios,Apple iOS,Thoughts on default apps on iOS,http://thomasst.ch/defaultapps/
+583,Lobsters,ios,Apple iOS,#inspect 2013 - First RubyMotion Conference,http://www.rubymotion.com/conference/
+584,Lobsters,ios,Apple iOS,KVC Collection Operators : NSHipster,http://nshipster.com/kvc-collection-operators/
+585,Lobsters,ios,Apple iOS,Objective-C Primer (ft. Mr. Higgie),https://speakerdeck.com/rubymaverick/objective-c-primer-ft-mr-higgie
+586,Lobsters,ios,Apple iOS,"Anatomy of a Beautiful, Native Feeling, HTML5 iOS App",http://justinvincent.com/page/2043/anatomy-of-a-beautiful-native-feeling-ios-app
+587,Lobsters,ios,Apple iOS,A Performance-minded take on iOS design,http://robots.thoughtbot.com/post/36591648724/designing-for-ios-graphics-performance
+588,Lobsters,ios,Apple iOS,GitHub's Mantle: a Model Framework for Objective-C,https://github.com/blog/1299-mantle-a-model-framework-for-objective-c
+589,Lobsters,ios,Apple iOS,iOS Maps: Replacing MapKit with ArcGIS,https://developers.geoloqi.com/ios/maps
+590,Lobsters,ios,Apple iOS,Would you like a Mobile App with That?,http://schneems.com/post/33781154129/would-you-like-a-mobile-app-with-that
+591,Lobsters,ios,Apple iOS,The Magazine,http://www.marco.org/2012/10/11/the-magazine
+592,Lobsters,ios,Apple iOS,Ruby motion + CoreData + data binding + outlets/actions,https://github.com/mattgreen/nitron/wiki/Tutorial
+593,Lobsters,ios,Apple iOS,Show iOS devs: PSTCollectionView - API compatible replacement of UICollectionView (iOS6) for iOS4.3+,https://github.com/steipete/PSTCollectionView
+594,Lobsters,ios,Apple iOS,If you want to have Google maps instead of Apple maps in your app - mladjan/GoogleMapsOverlayiOS,https://github.com/mladjan/GoogleMapsOverlayiOS
+595,Lobsters,ios,Apple iOS,Example Implementation of an iOS Passbook Webservice on Rails,https://github.com/mattt/passbook_rails_example
+596,Lobsters,ios,Apple iOS,iPhone 5 Released,http://www.apple.com/iphone/
+597,Lobsters,ios,Apple iOS,New From Parse - Cloud Code,http://blog.parse.com/2012/09/11/welcoming-cloud-code-to-the-parse-family/
+598,Lobsters,ios,Apple iOS,Leaked Apple UDIDs stolen from BlueToad,http://blog.bluetoad.com/2012/09/10/statement-from-bluetoad-regarding-the-cyber-attack-suffered-in-the-recent-case-of-stolen-apple-udids/
+599,Lobsters,ios,Apple iOS,Tumblr for iOS,http://zachwill.com/tumblr-ios/
+600,Lobsters,ios,Apple iOS,RubyMotion Wrappers,http://rubymotion-wrappers.com/
+601,Lobsters,ios,Apple iOS,A Mind Map for iOS Testing,http://www.neglectedpotential.com/2012/09/a-mind-map-for-ios-testing
+602,Lobsters,ios,Apple iOS,Apple patent could remotely disable protesters phone cameras,http://www.zdnet.com/apple-patent-could-remotely-disable-protesters-phone-cameras-7000003640/
+603,Lobsters,ios,Apple iOS,Chinese clone maker wants to sue Apple over iPhone 5 design,http://www.neowin.net/news/chinese-clone-maker-wants-to-sue-apple-over-iphone-5-design
+604,Lobsters,ios,Apple iOS,The Problem with Animation,http://jacobeiting.tumblr.com/post/30921705731/the-problem-with-animation
+605,Lobsters,ios,Apple iOS,FBI Says Laptop Wasn't Hacked; Never Possessed File of Apple Device IDs,http://www.wired.com/threatlevel/2012/09/fbi-says-laptop-wasnt-hacked-never-possessed-file-of-apple-device-ids
+606,Lobsters,ios,Apple iOS,"1,000,001 unique Apple Device UDIDs, found on FBI laptop, released by Anonymous",http://pastebin.com/nfVT7b0Z
+607,Lobsters,ios,Apple iOS,PonyDebugger: Remote Debugging Tools for Native iOS Apps,http://corner.squareup.com/2012/08/ponydebugger-remote-debugging.html
+608,Lobsters,ios,Apple iOS,"iOS Developer Appigo Is Threatening To Sue Android Apps For Using The Word ""ToDo"" In Their Names",http://www.androidpolice.com/2012/08/02/ios-developer-appigo-is-threatening-to-sue-android-apps-for-using-the-word-todo-in-their-names-generally-being-ridiculous/
+609,Lobsters,ios,Apple iOS,FLAC2iPod - automates conversion of FLAC to MP3 to iPod/iPhone.,http://rmndk.github.com/flac2ipod_cli/
+610,Lobsters,ios,Apple iOS,Hacker exploits iOS flaw for free in-app purchases,http://www.macworld.com/article/1167677/hacker_exploits_ios_flaw_for_free_in_app_purchases.html
+611,Lobsters,ios,Apple iOS,Pythonista for iPad on the iTunes App Store,http://itunes.apple.com/us/app/pythonista/id528579881?mt=8
+612,Lobsters,ios,Apple iOS,Apple Wins Patent for NFC-Enabled 'iTravel' Transportation Ticketing App,http://www.macrumors.com/2012/07/10/apple-wins-patent-for-nfc-enabled-itravel-transportation-ticketing-app/
+613,Lobsters,ios,Apple iOS,App Store - Python for iOS,http://itunes.apple.com/app/python-for-ios/id485729872?mt=8
+614,Lobsters,ios,Apple iOS,First case of iOS malware to reach the App Store,https://www.securelist.com/en/blog/208193641/Find_and_Call_Leak_and_Spam

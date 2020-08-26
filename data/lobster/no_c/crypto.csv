@@ -1,0 +1,802 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,crypto,Cryptography,Rolling your own crypto gone wrong: A look at a .NET Branca implementation,https://brycx.github.io/2020/08/22/a-look-at-a-branca-implementation.html
+2,Lobsters,crypto,Cryptography,The Amazing Power of Randomness: NP=RP,https://arxiv.org/abs/2008.00601
+3,Lobsters,crypto,Cryptography,On the (in)security of ROS,https://eprint.iacr.org/2020/945
+4,Lobsters,crypto,Cryptography,Automated decryption tool using AI and NLP similar to CyberChef's Magic,https://github.com/Ciphey/Ciphey
+5,Lobsters,crypto,Cryptography,Kyber-K2SO: Go Implementation of the Kyber v2 Post-Quantum KEM,https://github.com/SymbolicSoft/kyber-k2so
+6,Lobsters,crypto,Cryptography,Tarsnap key rotation with tarsnap-recrypt and tarsnap-keyregen,https://www.acunote.com/blog/2012/02/tarsnap-key-rotation-with-tarsnap-recrypt-and-tarsnap-keyregen.html
+7,Lobsters,crypto,Cryptography,Cryptography is not Magic,http://loup-vaillant.fr/articles/crypto-is-not-magic
+8,Lobsters,crypto,Cryptography,A Brief Opinionated Overview of NIST’s Post-Quantum Cryptography Round 3 Candidates,https://soatok.blog/2020/07/24/a-brief-opinionated-of-nists-post-quantum-cryptography-round-3-candidates/
+9,Lobsters,crypto,Cryptography,Status Report on the Second Round of NIST Post-Quantum Cryptography Standardization,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
+10,Lobsters,crypto,Cryptography,Replace PGP With an HTTPS Form,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-replace-pgp-with-an-https/
+11,Lobsters,crypto,Cryptography,Exploring Fully Homomorphic Encryption,https://vitalik.ca/general/2020/07/20/homomorphic.html
+12,Lobsters,crypto,Cryptography,"GnuTLS patches huge security hole that hung around for two years – worse than Heartbleed, says Google cryptoboffin",https://www.theregister.com/2020/06/10/gnutls_patches_security_hole/
+13,Lobsters,crypto,Cryptography,A few thoughts about Signal’s Secure Value Recovery,https://blog.cryptographyengineering.com/2020/07/10/a-few-thoughts-about-signals-secure-value-recovery/
+14,Lobsters,crypto,Cryptography,Why using OpenSSL and GnuTLS to verify certificates is a bad idea,https://twitter.com/sleevi_/status/1282681901069873152
+15,Lobsters,crypto,Cryptography,"A transparent, highly scalable and cryptographically verifiable data store",https://github.com/google/trillian
+16,Lobsters,crypto,Cryptography,"Scuttlebutt: A social network, a decentralised platform",https://scuttlebutt.nz
+17,Lobsters,crypto,Cryptography,The Monocypher crypto library now has been audited,https://monocypher.org/quality-assurance/audit
+18,Lobsters,crypto,Cryptography,NASAM: Not Another Strange Acronym Mixer,http://mostlymangling.blogspot.com/2020/01/nasam-not-another-strange-acronym-mixer.html
+19,Lobsters,crypto,Cryptography,Cryptography Dispatches: DSA Is Past Its Prime,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-dsa-is-past-its-prime/
+20,Lobsters,crypto,Cryptography,GNU: A Heuristic for Bad Cryptography,https://soatok.blog/2020/07/08/gnu-a-heuristic-for-bad-cryptography/
+21,Lobsters,crypto,Cryptography,Cryptographic algorithms written in pure Rust,https://github.com/RustCrypto
+22,Lobsters,crypto,Cryptography,Launching Keyoxide.org,https://yarmo.eu/post/keyoxide
+23,Lobsters,crypto,Cryptography,Calendar entry for certificate expiry via mail,https://certs.email/
+24,Lobsters,crypto,Cryptography,Store SSH keys in the Secure Enclave (macOS),https://github.com/maxgoedjen/secretive
+25,Lobsters,crypto,Cryptography,Multiformats — Self-describing values for Future-proofing,https://multiformats.io/
+26,Lobsters,crypto,Cryptography,Rolling your own crypto gone wrong: A look at a .NET Branca implementation,https://brycx.github.io/2020/08/22/a-look-at-a-branca-implementation.html
+27,Lobsters,crypto,Cryptography,The Amazing Power of Randomness: NP=RP,https://arxiv.org/abs/2008.00601
+28,Lobsters,crypto,Cryptography,On the (in)security of ROS,https://eprint.iacr.org/2020/945
+29,Lobsters,crypto,Cryptography,Automated decryption tool using AI and NLP similar to CyberChef's Magic,https://github.com/Ciphey/Ciphey
+30,Lobsters,crypto,Cryptography,Kyber-K2SO: Go Implementation of the Kyber v2 Post-Quantum KEM,https://github.com/SymbolicSoft/kyber-k2so
+31,Lobsters,crypto,Cryptography,Tarsnap key rotation with tarsnap-recrypt and tarsnap-keyregen,https://www.acunote.com/blog/2012/02/tarsnap-key-rotation-with-tarsnap-recrypt-and-tarsnap-keyregen.html
+32,Lobsters,crypto,Cryptography,Cryptography is not Magic,http://loup-vaillant.fr/articles/crypto-is-not-magic
+33,Lobsters,crypto,Cryptography,A Brief Opinionated Overview of NIST’s Post-Quantum Cryptography Round 3 Candidates,https://soatok.blog/2020/07/24/a-brief-opinionated-of-nists-post-quantum-cryptography-round-3-candidates/
+34,Lobsters,crypto,Cryptography,Status Report on the Second Round of NIST Post-Quantum Cryptography Standardization,https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
+35,Lobsters,crypto,Cryptography,Replace PGP With an HTTPS Form,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-replace-pgp-with-an-https/
+36,Lobsters,crypto,Cryptography,Exploring Fully Homomorphic Encryption,https://vitalik.ca/general/2020/07/20/homomorphic.html
+37,Lobsters,crypto,Cryptography,"GnuTLS patches huge security hole that hung around for two years – worse than Heartbleed, says Google cryptoboffin",https://www.theregister.com/2020/06/10/gnutls_patches_security_hole/
+38,Lobsters,crypto,Cryptography,A few thoughts about Signal’s Secure Value Recovery,https://blog.cryptographyengineering.com/2020/07/10/a-few-thoughts-about-signals-secure-value-recovery/
+39,Lobsters,crypto,Cryptography,Why using OpenSSL and GnuTLS to verify certificates is a bad idea,https://twitter.com/sleevi_/status/1282681901069873152
+40,Lobsters,crypto,Cryptography,"A transparent, highly scalable and cryptographically verifiable data store",https://github.com/google/trillian
+41,Lobsters,crypto,Cryptography,"Scuttlebutt: A social network, a decentralised platform",https://scuttlebutt.nz
+42,Lobsters,crypto,Cryptography,The Monocypher crypto library now has been audited,https://monocypher.org/quality-assurance/audit
+43,Lobsters,crypto,Cryptography,NASAM: Not Another Strange Acronym Mixer,http://mostlymangling.blogspot.com/2020/01/nasam-not-another-strange-acronym-mixer.html
+44,Lobsters,crypto,Cryptography,Cryptography Dispatches: DSA Is Past Its Prime,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-dsa-is-past-its-prime/
+45,Lobsters,crypto,Cryptography,GNU: A Heuristic for Bad Cryptography,https://soatok.blog/2020/07/08/gnu-a-heuristic-for-bad-cryptography/
+46,Lobsters,crypto,Cryptography,Cryptographic algorithms written in pure Rust,https://github.com/RustCrypto
+47,Lobsters,crypto,Cryptography,Launching Keyoxide.org,https://yarmo.eu/post/keyoxide
+48,Lobsters,crypto,Cryptography,Calendar entry for certificate expiry via mail,https://certs.email/
+49,Lobsters,crypto,Cryptography,Store SSH keys in the Secure Enclave (macOS),https://github.com/maxgoedjen/secretive
+50,Lobsters,crypto,Cryptography,Multiformats — Self-describing values for Future-proofing,https://multiformats.io/
+51,Lobsters,crypto,Cryptography,There’s now an even worse anti-encryption bill than EARN IT,https://cyberlaw.stanford.edu/blog/2020/06/there’s-now-even-worse-anti-encryption-bill-earn-it-doesn’t-make-earn-it-bill-ok
+52,Lobsters,crypto,Cryptography,Trying out WireGuard's kernel support in OpenBSD's -current snapshots,https://lists.zx2c4.com/pipermail/wireguard/2020-June/005598.html
+53,Lobsters,crypto,Cryptography,Finite Fields,https://btcclj.com/posts-output/2020-04-21-finite-fields/
+54,Lobsters,crypto,Cryptography,WireGuard Merged Into OpenBSD,https://lists.zx2c4.com/pipermail/wireguard/2020-June/005588.html
+55,Lobsters,crypto,Cryptography,Elliptic Curve Cryptography I,https://btcclj.com/posts-output/2020-06-18-elliptic-curve-cryptography-i/
+56,Lobsters,crypto,Cryptography,End-To-End Encryption with AP Characteristics for a New Era,https://blog.soykaf.com/post/encryption/
+57,Lobsters,crypto,Cryptography,Security Analysis and Improvements for the IETF MLS Standard for Group Messaging,https://cs.nyu.edu/~dodis/ps/mls.pdf
+58,Lobsters,crypto,Cryptography,OPSV: Open PGP Signature Verification,https://yarmo.eu/blog/opsv
+59,Lobsters,crypto,Cryptography,Genodes Consistent Block Encrypter (CBE) in Sculpt OS,https://www.youtube.com/watch?v=-UDo7sf-14E
+60,Lobsters,crypto,Cryptography,BADA55 Crypto,https://bada55.cr.yp.to/
+61,Lobsters,crypto,Cryptography,Third-party audit of rustls,http://jbp.io/2020/06/14/rustls-audit.html
+62,Lobsters,crypto,Cryptography,ECDSA: Handle with Care,https://blog.trailofbits.com/2020/06/11/ecdsa-handle-with-care/
+63,Lobsters,crypto,Cryptography,Never forget your password with this Python encryption algorithm,https://opensource.com/article/20/6/python-passwords
+64,Lobsters,crypto,Cryptography,Cryptography Libraries for E2E Server Applications,https://securedata.fyi/2020-06-10-cryptography-libs/
+65,Lobsters,crypto,Cryptography,How To Learn Cryptography as a Programmer,https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/
+66,Lobsters,crypto,Cryptography,Co6GC: AES,https://www.esat.kuleuven.be/cosic/blog/co6gc-aes/
+67,Lobsters,crypto,Cryptography,IBM Releases Fully Homomorphic Encryption Toolkit for MacOS and iOS,https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/
+68,Lobsters,crypto,Cryptography,"Discret 11, the French TV encryption of the 80's",https://fabiensanglard.net/discret11/
+69,Lobsters,crypto,Cryptography,So You Want to Build an End-to-End Encrypted Web App,https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/
+70,Lobsters,crypto,Cryptography,Equi-X Hash Function Developer Log,https://github.com/tevador/equix/blob/2b0f81929124e3e094ce1f04e43fb87269f2e7c9/devlog.md
+71,Lobsters,crypto,Cryptography,Simplest explanation of the math behind Public Key Cryptography (2013),https://www.onebigfluke.com/2013/11/public-key-crypto-math-explained.html
+72,Lobsters,crypto,Cryptography,Minority Report on Let’s Encrypt CAA Rechecking,https://dev.to/coroner/minority-report-on-let-s-encrypt-caa-rechecking-3ghd
+73,Lobsters,crypto,Cryptography,A beginner's guide to constant-time cryptography,https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html
+74,Lobsters,crypto,Cryptography,"Maximator: European signals intelligence cooperation, from a Dutch perspective",https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538
+75,Lobsters,crypto,Cryptography,Why StopCOVID Fails as a Privacy-Preserving Design,https://nadim.computer/posts/2020-05-27-stopcovid.html
+76,Lobsters,crypto,Cryptography,"Verifying Windows binaries, without Windows",https://blog.trailofbits.com/2020/05/27/verifying-windows-binaries-without-windows/
+77,Lobsters,crypto,Cryptography,Mastodon: Add end-to-end encryption API,https://github.com/tootsuite/mastodon/pull/13820
+78,Lobsters,crypto,Cryptography,Cryptographic Addition Chain Generation in Go,https://github.com/mmcloughlin/addchain
+79,Lobsters,crypto,Cryptography,A Shorter Words List,https://nick.zoic.org/art/shorter-words-list/
+80,Lobsters,crypto,Cryptography,int random() { return 4; /* Good enough. */ },https://washbear.neocities.org/entropy.html
+81,Lobsters,crypto,Cryptography,"An SSL certificate that works for any domain name (tested working in Chrome, Firefox)",https://github.com/flotwig/the-one-cert
+82,Lobsters,crypto,Cryptography,Why AES-GCM Sucks,https://soatok.blog/2020/05/13/why-aes-gcm-sucks/
+83,Lobsters,crypto,Cryptography,"Keybase, Zoom and Messaging",https://write.privacytools.io/freddy/keybase-zoom-and-messaging
+84,Lobsters,crypto,Cryptography,WireGuard for OpenBSD Kernel Patches Posted,https://lists.zx2c4.com/pipermail/wireguard/2020-May/005427.html
+85,Lobsters,crypto,Cryptography,keys.pub - because key management is hard,https://keys.pub
+86,Lobsters,crypto,Cryptography,yubikey-agent: an easy to use Go ssh-agent for YubiKeys,https://github.com/FiloSottile/yubikey-agent
+87,Lobsters,crypto,Cryptography,Putting the “Fun” in “Hash Function”,https://soatok.blog/2020/05/05/putting-the-fun-in-hash-function/
+88,Lobsters,crypto,Cryptography,Decentralized proofs,https://metacode.biz/openpgp/proofs
+89,Lobsters,crypto,Cryptography,Cross-signing and End-to-end Encryption by Default is HERE,https://matrix.org/blog/2020/05/06/cross-signing-and-end-to-end-encryption-by-default-is-here
+90,Lobsters,crypto,Cryptography,Authentication and Payments with Lightning,https://lightning.engineering/posts/2020-03-30-lsat/
+91,Lobsters,crypto,Cryptography,Dedicated Security Chips in the Age of Secure Enclaves,https://eprint.iacr.org/2020/469
+92,Lobsters,crypto,Cryptography,The Value of Encryption (2016),https://www.riponsociety.org/article/the-value-of-encryption/
+93,Lobsters,crypto,Cryptography,OpenSSH 8.2 Just Works with U2F/FIDO2 Security Keys,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-openssh-82-just-works/
+94,Lobsters,crypto,Cryptography,Mental Poker (1978),https://apps.dtic.mil/dtic/tr/fulltext/u2/a066331.pdf
+95,Lobsters,crypto,Cryptography,The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs,https://www.usenix.org/system/files/sec20fall_ender_prepub.pdf
+96,Lobsters,crypto,Cryptography,"GMail, POP, and TLS server certificate verification",https://utcc.utoronto.ca/~cks/space/blog/tech/GMailPopTLSVerification
+97,Lobsters,crypto,Cryptography,SHISHUA: The Fastest Pseudo-Random Generator In the World,https://espadrine.github.io/blog/posts/shishua-the-fastest-prng-in-the-world.html
+98,Lobsters,crypto,Cryptography,ProtonMail Bridge is now open source,https://protonmail.com/blog/bridge-open-source/
+99,Lobsters,crypto,Cryptography,Surrounded by Elligators: Implementing Crypto With Nothing to Compare to,http://loup-vaillant.fr/articles/implementing-elligator
+100,Lobsters,crypto,Cryptography,"Towards Freshness Queries, Unlinkability Queries, Automated Model Translation and Formalized Semantics in Verifpal",https://blog.symbolic.software/2020/04/14/freshness-unlinkability-model-semantics-verifpal/
+101,Lobsters,crypto,Cryptography,Contact Tracing in the Real World (Ross Anderson),https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/
+102,Lobsters,crypto,Cryptography,Practical Cryptography for Developers (open-source book),https://github.com/nakov/Practical-Cryptography-for-Developers-Book
+103,Lobsters,crypto,Cryptography,LibreSSL 3.1 Released (w/TLS 1.3),https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.1.0-relnotes.txt
+104,Lobsters,crypto,Cryptography,Cofactor Explained: Clearing Elliptic Curves' dirty little secret,http://loup-vaillant.fr/tutorials/cofactor
+105,Lobsters,crypto,Cryptography,Synthesizing optimal 8051 code,https://lab.whitequark.org/notes/2020-04-06/synthesizing-optimal-8051-code/
+106,Lobsters,crypto,Cryptography,How Verifpal Dramatically Sped Up the Formal Modeling Efforts for a New Pandemic-Tracing Protocol,https://blog.symbolic.software/2020/04/05/dp-3t-verifpal/
+107,Lobsters,crypto,Cryptography,CryptoTools.net - A simple client-side cryptographic tool suite,https://cryptotools.net/
+108,Lobsters,crypto,Cryptography,Seeing the Penguin in AES-ECB,https://tonybox.net/posts/ecb-penguin/
+109,Lobsters,crypto,Cryptography,How we recovered over $300K of Bitcoin,https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/
+110,Lobsters,crypto,Cryptography,US Government Wages War on Encryption,https://blog.privacytools.io/us-government-wages-war-on-encryption/
+111,Lobsters,crypto,Cryptography,Speeding up Linux disk encryption,https://blog.cloudflare.com/speeding-up-linux-disk-encryption/
+112,Lobsters,crypto,Cryptography,Another look at two Linux KASLR patches,https://www.kryptoslogic.com/blog/2020/03/another-look-at-two-linux-kaslr-patches/
+113,Lobsters,crypto,Cryptography,The Mathematics of (Hacking) Passwords,https://www.scientificamerican.com/article/the-mathematics-of-hacking-passwords/
+114,Lobsters,crypto,Cryptography,A Brief History of Quantum Computers,https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html
+115,Lobsters,crypto,Cryptography,Generate RSA Key Using Command openssl genrsa,https://piechowski.io/post/how-to-use-openssl-genrsa/
+116,Lobsters,crypto,Cryptography,Rolling your own encryption,https://www.gkbrk.com/2020/03/encryption/
+117,Lobsters,crypto,Cryptography,saltpack - a modern crypto messaging format,https://saltpack.org
+118,Lobsters,crypto,Cryptography,Memespeech: Censor-proof End-to-End Encryption,https://www.obsessivefacts.com/memespeech
+119,Lobsters,crypto,Cryptography,Differential Fault Injection Against AES on Atmega328,https://rot256.io/post/glitch/
+120,Lobsters,crypto,Cryptography,"Cryptographic Signatures, Surprising Pitfalls, and LetsEncrypt",https://www.cryptologie.net/article/495/cryptographic-signatures-surprising-pitfalls-and-letsencrypt/
+121,Lobsters,crypto,Cryptography,Implementing the Clipper chip cipher in Rust,https://blog.yossarian.net/2020/03/09/Implementing-the-Clipper-chip-cipher-in-Rust
+122,Lobsters,crypto,Cryptography,PQCrypto Usage & Deployment,https://ianix.com/pqcrypto/pqcrypto-deployment.html
+123,Lobsters,crypto,Cryptography,Securing Memory at EPYC Scale,https://blog.cloudflare.com/securing-memory-at-epyc-scale/
+124,Lobsters,crypto,Cryptography,How to check Monocypher by CompCert,https://git.envs.net/mpech/tankf33der/src/branch/master/compcert.md
+125,Lobsters,crypto,Cryptography,Signing JWTs with Go's crypto/ed25519,https://blainsmith.com/articles/signing-jwts-with-gos-crypto-ed25519/
+126,Lobsters,crypto,Cryptography,Verifiable Secret-Ballot Elections (1996),https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/thesis.pdf
+127,Lobsters,crypto,Cryptography,Some Applications of Multiple Key Ciphers (1988),https://link.springer.com/content/pdf/10.1007/3-540-45961-8_40.pdf
+128,Lobsters,crypto,Cryptography,plausibly deniable encryption,https://spacetime.dev/plausibly-deniable-encryption
+129,Lobsters,crypto,Cryptography,RSA Algorithm,https://leimao.github.io/article/RSA-Algorithm/
+130,Lobsters,crypto,Cryptography,An In-Depth Technical Analysis of CurveBall (CVE-2020-0601),https://blog.trendmicro.com/trendlabs-security-intelligence/an-in-depth-technical-analysis-of-curveball-cve-2020-0601/
+131,Lobsters,crypto,Cryptography,Rescheduling Root KSK Ceremony 40,https://mm.icann.org/pipermail/root-dnssec-announce/2020/000121.html
+132,Lobsters,crypto,Cryptography,chacha20.sh -- an implementation of ChaCha20 in Bash script,https://git.zx2c4.com/chacha20.sh/tree/chacha20.sh
+133,Lobsters,crypto,Cryptography,The CIA secretly bought a company that sold encryption devices across the world. Then its spies sat back and listened,https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/
+134,Lobsters,crypto,Cryptography,Cryptography Dispatches: The Linux CSPRNG Is Now Good,https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-linux-csprng-is-now/
+135,Lobsters,crypto,Cryptography,cris691/beamsplitter - new 10-bit hash function,https://github.com/cris691/beamsplitter
+136,Lobsters,crypto,Cryptography,How symmetric password-authenticated key exchanges work (sPAKE),https://www.cryptologie.net/article/490/how-symmetric-password-authenticated-key-exchanges-work-spake/
+137,Lobsters,crypto,Cryptography,Exploring x509 by creating a toy PKI,https://darakian.github.io/2020/01/24/openssl-pki.html
+138,Lobsters,crypto,Cryptography,Tinfoil Chat,https://github.com/maqp/tfc
+139,Lobsters,crypto,Cryptography,The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It,https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it
+140,Lobsters,crypto,Cryptography,Getting Started with Verifpal,https://www.youtube.com/watch?v=4__KcGU2ALE
+141,Lobsters,crypto,Cryptography,Verifying Arithmetic in Cryptographic C Programs,https://drive.google.com/file/d/1pEgkQbGsOzbzUpZWaqUT3Jjk3H9txgXg/view?usp=sharing
+142,Lobsters,crypto,Cryptography,128 Bits of Security and 128 Bits of Security: Know the Difference,http://loup-vaillant.fr/tutorials/128-bits-of-security
+143,Lobsters,crypto,Cryptography,Can end-to-end encrypted systems detect child sexual abuse imagery?,https://blog.cryptographyengineering.com/2019/12/08/on-client-side-media-scanning/
+144,Lobsters,crypto,Cryptography,Shannon Ciphers and Perfect Security,https://medium.com/cantors-paradise/shannon-ciphers-and-perfect-security-d70c10379ac2
+145,Lobsters,crypto,Cryptography,(Very) Basic Intro to Lattices in Cryptography,https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/
+146,Lobsters,crypto,Cryptography,Fuck RSA,https://www.youtube.com/watch?v=lElHzac8DDI
+147,Lobsters,crypto,Cryptography,An aesthetic comparison of a few human-readable hashing functions,https://gist.github.com/raineorshine/8d67049c0aaaa082614e417660462fda
+148,Lobsters,crypto,Cryptography,real world crypto talks,https://flak.tedunangst.com/post/real-world-crypto-talks
+149,Lobsters,crypto,Cryptography,P2P Peer Discovery,https://jsantell.com/p2p-peer-discovery
+150,Lobsters,crypto,Cryptography,Cracking the Agrippa Code (1992),https://www.robertxiao.ca/hacking/agrippa/
+151,Lobsters,crypto,Cryptography,Cryptanalysis of the Sarah2 Pen-and-Paper Cipher,https://www.robertxiao.ca/hacking/sarah2/
+152,Lobsters,crypto,Cryptography,The End-to-End Design of CRLite,https://blog.mozilla.org/security/2020/01/09/crlite-part-2-end-to-end-design/
+153,Lobsters,crypto,Cryptography,Educating the next generation of the P2P community,https://accessp2p.xyz
+154,Lobsters,crypto,Cryptography,BLAKE3 - Evolution of BLAKE2,https://github.com/BLAKE3-team/BLAKE3-specs
+155,Lobsters,crypto,Cryptography,A Decentralized Web Primer: Dat,https://jsantell.com/decentralized-web-primer-dat
+156,Lobsters,crypto,Cryptography,A Graduate Course in Applied Cryptography,https://toc.cryptobook.us/
+157,Lobsters,crypto,Cryptography,A novel privacy-preserving oracle protocol (build on top of TLS),https://www.deco.works
+158,Lobsters,crypto,Cryptography,Flexible Round-Optimized Schnorr Threshold signatures,https://crysp.uwaterloo.ca/software/frost/
+159,Lobsters,crypto,Cryptography,Breaking PHP's mt_rand() with 2 values and no bruteforce,https://www.ambionics.io/blog/php-mt-rand-prediction
+160,Lobsters,crypto,Cryptography,Patent-Free Authenticated-Encryption As Fast As OCB (2007),https://krovetz.net/csus/papers/vmac-aead.pdf
+161,Lobsters,crypto,Cryptography,paperkey - proof-of-concept for a tool that generates paperkeys and uses them to sign/encrypt,https://github.com/jeromebaum/paperkey
+162,Lobsters,crypto,Cryptography,A few comments on ‘age’,https://neilmadden.blog/2019/12/30/a-few-comments-on-age/
+163,Lobsters,crypto,Cryptography,Too much crypto,https://eprint.iacr.org/2019/1492.pdf
+164,Lobsters,crypto,Cryptography,SECCURE: Elliptic Curve Crypto Utility for Reliable Encryption,http://point-at-infinity.org/seccure/
+165,Lobsters,crypto,Cryptography,(Very) Basic Shamir's Secret Sharing,https://qvault.io/2019/12/26/very-basic-shamirs-secret-sharing/
+166,Lobsters,crypto,Cryptography,"age is a simple, modern and secure file encryption tool",https://github.com/FiloSottile/age
+167,Lobsters,crypto,Cryptography,"Critical Perspectives on Provable Security: Fifteen Years of ""Another Look"" Papers",https://eprint.iacr.org/2019/1336.pdf
+168,Lobsters,crypto,Cryptography,"RSA, Randomness and IoT",https://www.unboundtech.com/rsa-randomness-iot/
+169,Lobsters,crypto,Cryptography,NSA Backdoor Key from Lotus-Notes,http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html
+170,Lobsters,crypto,Cryptography,Sarah2: A strong pen-and-paper cipher,http://laser-calcium.glitch.me/
+171,Lobsters,crypto,Cryptography,Signal Technology Preview for secure value recovery,https://signal.org/blog/secure-value-recovery/
+172,Lobsters,crypto,Cryptography,OpenSSH Key Shielding,https://xorhash.gitlab.io/xhblog/0010.html
+173,Lobsters,crypto,Cryptography,German BSI withholds Truecrypt security report,https://www.golem.de/news/encryption-software-german-bsi-withholds-truecrypt-security-report-1912-145552.html
+174,Lobsters,crypto,Cryptography,Delta chat,https://delta.chat/en/
+175,Lobsters,crypto,Cryptography,Using zero knowledge proofs to prove set membership without exposing the set or the member,http://blog.cyborch.com/how-to-use-cryptographic-accumulators-to-prove-set-membership-without-exposing-the-set-or-the-member/
+176,Lobsters,crypto,Cryptography,Signal Private Group System,https://signal.org/blog/signal-private-group-system/
+177,Lobsters,crypto,Cryptography,Casa: Content-Addressable Storage Archive,https://tech.fpcomplete.com/blog/casa
+178,Lobsters,crypto,Cryptography,An Overview of Cryptography,https://www.garykessler.net/library/crypto.html
+179,Lobsters,crypto,Cryptography,Crypto for Kids (A Book that is a Labyrinth),https://sustrik.github.io/crypto-for-kids/
+180,Lobsters,crypto,Cryptography,AnNotify: A Private Notification Service,https://discovery.ucl.ac.uk/id/eprint/1574313/1/main.pdf
+181,Lobsters,crypto,Cryptography,How Let's Encrypt Runs CT Logs,https://letsencrypt.org/2019/11/20/how-le-runs-ct-logs.html
+182,Lobsters,crypto,Cryptography,Archiving cryptographic secrets on paper [2016],https://lab.whitequark.org/notes/2016-08-24/archiving-cryptographic-secrets-on-paper/
+183,Lobsters,crypto,Cryptography,Comparing General Purpose zk-SNARKs,https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd
+184,Lobsters,crypto,Cryptography,maTLS: How to Make TLS middlebox-aware?,https://www.ndss-symposium.org/ndss-paper/matls-how-to-make-tls-middlebox-aware/
+185,Lobsters,crypto,Cryptography,Password Authenticated Key Exchange,https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/
+186,Lobsters,crypto,Cryptography,Start using the Secure Enclave Crypto API,https://blog.trailofbits.com/2016/06/28/start-using-the-secure-enclave-crypto-api/
+187,Lobsters,crypto,Cryptography,Why EdDSA held up better than ECDSA against Minerva,http://blog.cr.yp.to/20191024-eddsa.html
+188,Lobsters,crypto,Cryptography,Message Encryption in JavaScript and PHP with Libsodium,https://dev.to/paragonie/message-encryption-in-javascript-and-php-cg9
+189,Lobsters,crypto,Cryptography,How to Share a Secret (Diffie-Hellman-Merkle),https://skerritt.blog/diffie-hellman-merkle/
+190,Lobsters,crypto,Cryptography,Applied Cryptography Research: A Board,https://acrab.isi.jhu.edu/
+191,Lobsters,crypto,Cryptography,A Thorough Introduction to PASETO,https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+192,Lobsters,crypto,Cryptography,Implementing Optimized Cryptography for Embedded Systems,https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/october/implementing-optimized-cryptography-for-embedded-systems/?style=Cyber+Security
+193,Lobsters,crypto,Cryptography,Good luck backdooring encryption without banning github,https://abe-winter.github.io/2019/10/12/cancel-github.html
+194,Lobsters,crypto,Cryptography,Improving the Cryptography of the JavaScript Ecosystem,https://paragonie.com/blog/2019/10/improving-cryptography-javascript-ecosystem
+195,Lobsters,crypto,Cryptography,In-Kernel TLS Framing and Encryption for FreeBSD,https://www.youtube.com/watch?v=la-ljVavd3c
+196,Lobsters,crypto,Cryptography,"Thunderbird, Enigmail and OpenPGP",https://blog.mozilla.org/thunderbird/2019/10/thunderbird-enigmail-and-openpgp/
+197,Lobsters,crypto,Cryptography,Sodium-Plus: A Positive Cryptography Experience for JavaScript Developers,https://dev.to/paragonie/sodium-plus-a-positive-cryptography-experience-for-javascript-developers-2p08
+198,Lobsters,crypto,Cryptography,"The Open Letter from the Governments of US, UK, and Australia to Facebook is An All-Out Attack on Encryption",https://www.eff.org/deeplinks/2019/10/open-letter-governments-us-uk-and-australia-facebook-all-out-attack-encryption
+199,Lobsters,crypto,Cryptography,Input and Output Block Conventions for AES Encryption Algorithms (1999),https://web.cs.ucdavis.edu/~rogaway/ocb/bit_order.pdf
+200,Lobsters,crypto,Cryptography,COMpfun successor Reductor infects files on the fly to compromise TLS traffic,https://securelist.com/compfun-successor-reductor/93633/
+201,Lobsters,crypto,Cryptography,Quantum Security and Cryptography in HashiCorp Vault,https://www.hashicorp.com/blog/quantum-security-and-cryptography-in-hashicorp-vault
+202,Lobsters,crypto,Cryptography,Looking back at the Snowden revelations,https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/
+203,Lobsters,crypto,Cryptography,Update a PGP primary key,https://200ok.ch/posts/2019-07-17_update_a_pgp_primary_key.html
+204,Lobsters,crypto,Cryptography,"Secure, encrypted DNS with DNSCrypt",https://dnscrypt.info/
+205,Lobsters,crypto,Cryptography,Let's Encrypt makes certs for 30% of domains,https://leebutterman.com/2019/08/05/analyzing-hundreds-of-millions-of-ssl-connections.html
+206,Lobsters,crypto,Cryptography,Notes on The Signal Protocol,https://devpoga.org/post/2019-09-04_notes_on_the_signal_protocol/
+207,Lobsters,crypto,Cryptography,RSA theory and implementation,https://eli.thegreenplace.net/2019/rsa-theory-and-implementation/
+208,Lobsters,crypto,Cryptography,Enigma machine,https://observablehq.com/@tmcw/enigma-machine
+209,Lobsters,crypto,Cryptography,Dark Internet Mail Environment,https://darkmail.info/downloads/dark-internet-mail-environment-june-2018.pdf
+210,Lobsters,crypto,Cryptography,Using SMT Solvers to Automate Chosen Ciphertext Attacks,https://eprint.iacr.org/2019/958
+211,Lobsters,crypto,Cryptography,Verifpal: Cryptographic Protocol Analysis for Students and Engineers,https://verifpal.com
+212,Lobsters,crypto,Cryptography,Zcash Protocol-Level Denial-of-Service,https://saplingwoodchipper.github.io/
+213,Lobsters,crypto,Cryptography,Messaging Layer Security (MLS),https://messaginglayersecurity.rocks/
+214,Lobsters,crypto,Cryptography,"Actually Using Crev, Or, The Problem Of Trusting Software Dependencies",https://wiki.alopex.li/ActuallyUsingCrev
+215,Lobsters,crypto,Cryptography,Adding privacy to legacy protocols with zero-knowledge proofs,https://blog.gtank.cc/private-legacy-with-zero-knowledge
+216,Lobsters,crypto,Cryptography,"Does ""www."" Mean Better Transport Layer Security?",https://eprint.iacr.org/2019/941
+217,Lobsters,crypto,Cryptography,Mobile Private Contact Discovery at Scale,https://www.usenix.org/conference/usenixsecurity19/presentation/kales
+218,Lobsters,crypto,Cryptography,Breaking the encryption scheme of the Moscow internet voting system,https://arxiv.org/abs/1908.05127
+219,Lobsters,crypto,Cryptography,Keyringless GnuPG,https://nullprogram.com/blog/2019/08/09/
+220,Lobsters,crypto,Cryptography,Somu - open source security keys with small form factor,https://www.crowdsupply.com/solokeys/somu
+221,Lobsters,crypto,Cryptography,Better Encrypted Group Chat,https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
+222,Lobsters,crypto,Cryptography,The Crypto Paper,https://github.com/cryptoseb/CryptoPaper/blob/master/README.md
+223,Lobsters,crypto,Cryptography,Why we fight for crypto,https://blog.erratasec.com/2019/07/why-we-fight-for-crypto.html
+224,Lobsters,crypto,Cryptography,Attorney General William P. Barr Delivers Keynote Address at the International Conference on Cyber Security,https://www.justice.gov/opa/speech/attorney-general-william-p-barr-delivers-keynote-address-international-conference-cyber
+225,Lobsters,crypto,Cryptography,The Long Key ID Collider,https://nullprogram.com/blog/2019/07/22/
+226,Lobsters,crypto,Cryptography,encrypting secrets in memory,https://spacetime.dev/encrypting-secrets-in-memory
+227,Lobsters,crypto,Cryptography,"Windows NT services are assigned a SID based on an SHA-1 hash, but what about the risk of collision?",https://devblogs.microsoft.com/oldnewthing/20190717-00/?p=102714
+228,Lobsters,crypto,Cryptography,The PGP Problem,https://latacora.micro.blog/2019/07/16/the-pgp-problem.html
+229,Lobsters,crypto,Cryptography,FaCT - A DSL for Timing-Sensitive Computation (Ext. Version),https://github.com/PLSysSec/FaCT/blob/master/FaCT_extended.pdf
+230,Lobsters,crypto,Cryptography,"Predictable, Passphrase-Derived PGP Keys",https://nullprogram.com/blog/2019/07/10/
+231,Lobsters,crypto,Cryptography,GnuPG 2.2.17 released to mitigate attacks on keyservers,https://lists.gnupg.org/pipermail/gnupg-announce/2019q3/000439.html
+232,Lobsters,crypto,Cryptography,What's New In Cryptography & Security,http://oshug.org/event/74
+233,Lobsters,crypto,Cryptography,Fuck RSA,https://blog.trailofbits.com/2019/07/08/fuck-rsa/
+234,Lobsters,crypto,Cryptography,TLS performance: rustls versus OpenSSL,https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html
+235,Lobsters,crypto,Cryptography,SKS Keyserver Network Under Attack,https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
+236,Lobsters,crypto,Cryptography,Deterministic Cryptographically Authenticated Network Signatures on Windows NLA,https://lists.zx2c4.com/pipermail/wireguard/2019-June/004259.html
+237,Lobsters,crypto,Cryptography,Graduate Student Solves Quantum Verification Problem,https://www.quantamagazine.org/graduate-student-solves-quantum-verification-problem-20181008/
+238,Lobsters,crypto,Cryptography,The Quantum Menace,https://blog.cloudflare.com/the-quantum-menace/
+239,Lobsters,crypto,Cryptography,Introducing CIRCL: An Advanced Cryptographic Library,https://blog.cloudflare.com/introducing-circl/
+240,Lobsters,crypto,Cryptography,The Clever Cryptography Behind Apple's 'Find My' Feature,https://www.wired.com/story/apple-find-my-cryptography-bluetooth/
+241,Lobsters,crypto,Cryptography,Launching a new keyserver,https://keys.openpgp.org/about/news#2019-06-12-launch
+242,Lobsters,crypto,Cryptography,CHVote 2.0 project release,https://chvote2.gitlab.io/
+243,Lobsters,crypto,Cryptography,Adding support for in-memory encryption of secrets,https://github.com/awnumar/memguard/releases/tag/v0.16.0
+244,Lobsters,crypto,Cryptography,Building a stateless API proxy,https://blog.thea.codes/building-a-stateless-api-proxy/
+245,Lobsters,crypto,Cryptography,PX-1000Cr cryptographic algorithm and the NSA,https://www.cryptomuseum.com/crypto/philips/px1000/nsa.htm
+246,Lobsters,crypto,Cryptography,RFC 8548: Cryptographic Protection of TCP Streams (tcpcrypt),https://tools.ietf.org/html/rfc8548
+247,Lobsters,crypto,Cryptography,New Smartcard HSM released with 4K RSA support,https://www.smartcard-hsm.com//2019/03/15/4k_version_available.html
+248,Lobsters,crypto,Cryptography,Using Ed25519 signing keys for encryption,https://blog.filippo.io/using-ed25519-keys-for-encryption/
+249,Lobsters,crypto,Cryptography,On Post-Compromise Security,https://eprint.iacr.org/2016/221.pdf
+250,Lobsters,crypto,Cryptography,SHA-1 collision attacks are now actually practical and a looming danger,https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/
+251,Lobsters,crypto,Cryptography,Security Issue with Bluetooth Low Energy (BLE) Titan Security Keys,https://security.googleblog.com/2019/05/titan-keys-update.html
+252,Lobsters,crypto,Cryptography,"GopenPGP, an open source encryption library from ProtonMail",https://protonmail.com/blog/openpgp-golang/
+253,Lobsters,crypto,Cryptography,A Mechanised Cryptographic Proof of the WireGuard Virtual Private Network Protocol,https://hal.inria.fr/hal-02100345
+254,Lobsters,crypto,Cryptography,Using SPARK to prove 255-bit Integer Arithmetic from Curve25519,https://blog.adacore.com/using-spark-to-prove-255-bit-integer-arithmetic-from-curve25519
+255,Lobsters,crypto,Cryptography,Encrypting Streams with the Go standard library,https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107
+256,Lobsters,crypto,Cryptography,signify(1) signatures with a YubiHSM,https://marc.info/?l=openbsd-misc&m=155723329924761&w=2
+257,Lobsters,crypto,Cryptography,"Protecting democratic elections through secure, verifiable voting",https://blogs.microsoft.com/on-the-issues/2019/05/06/protecting-democratic-elections-through-secure-verifiable-voting/
+258,Lobsters,crypto,Cryptography,WordPress 5.2: Mitigating Supply-Chain Attacks Against 33% of the Internet,https://paragonie.com/blog/2019/05/wordpress-5-2-mitigating-supply-chain-attacks-against-33-internet
+259,Lobsters,crypto,Cryptography,Looking for Entropy in All the Wrong Places,https://nullprogram.com/blog/2019/04/30/
+260,Lobsters,crypto,Cryptography,AES-NI (.NET) - Outperforming C and OpenSSL,https://ndportmann.com/aes-ni-outperforming-c-and-openssl/
+261,Lobsters,crypto,Cryptography,Ethercombing: Finding Secrets in Popular Places,https://www.securityevaluators.com/casestudies/ethercombing/
+262,Lobsters,crypto,Cryptography,Exploring Connections Between Crypto Systems,https://www.solipsys.co.uk/new/ExploringConnectionsBetweenCryptoSystems.html?sd20lo
+263,Lobsters,crypto,Cryptography,A secure enclave with auditable input and output surfaces,https://betrusted.io
+264,Lobsters,crypto,Cryptography,A Pragmatic Introduction to Secure Multi-Party Computation,https://securecomputation.org/
+265,Lobsters,crypto,Cryptography,Nonce reuse breaks AES-GCM but not AES-GCM-SIV,https://www.rfc-editor.org/rfc/rfc8452.txt
+266,Lobsters,crypto,Cryptography,"Mastodon + Keybase, and we're opening up keybase proofs for everyone",https://keybase.io/blog/keybase-proofs-for-mastodon-and-everyone
+267,Lobsters,crypto,Cryptography,Mailpile: Burned Out and Happy?,https://www.mailpile.is/blog/2019-04-06_Burnout.html
+268,Lobsters,crypto,Cryptography,Selfie's Reflections on Formal Verification for TLS 1.3: Largely Opaque,https://nadim.micro.blog/2019/04/11/selfies-reflections-on.html
+269,Lobsters,crypto,Cryptography,Getting started with Python's cryptography library,https://opensource.com/article/19/4/cryptography-python
+270,Lobsters,crypto,Cryptography,Noise Explorer Now Generates Rust Implementations with Formally Verified Primitives,https://moderncrypto.org/mail-archive/noise/2019/002013.html
+271,Lobsters,crypto,Cryptography,A Go implementation of Poly1305 that makes sense,https://blog.filippo.io/a-literate-go-implementation-of-poly1305/
+272,Lobsters,crypto,Cryptography,XCKDF: X25519 Chacha20 Key Derivation Function,http://loup-vaillant.fr/projects/xckdf
+273,Lobsters,crypto,Cryptography,Keybase is not softer than Tofu,https://keybase.io/blog/chat-apps-softer-than-tofu
+274,Lobsters,crypto,Cryptography,Key derivation with Chacha20 (a stream cipher),http://loup-vaillant.fr/articles/chacha20-key-derivation
+275,Lobsters,crypto,Cryptography,On the S-Box of Streebog and Kuznyechik,https://who.paris.inria.fr/Leo.Perrin/pi.html
+276,Lobsters,crypto,Cryptography,Porting PuTTY to Windows on Arm,https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/porting-putty-to-windows-on-arm
+277,Lobsters,crypto,Cryptography,Investigating Hash Collisions through the Birthday Paradox,https://www.solipsys.co.uk/new/TheBirthdayParadox.html?sc04lo
+278,Lobsters,crypto,Cryptography,The Internet Won’t Kill Gun Control By Itself,https://palladiummag.com/2019/03/04/the-internet-wont-kill-gun-control-by-itself/
+279,Lobsters,crypto,Cryptography,Transparent Logs for Skeptical Clients,https://research.swtch.com/tlog
+280,Lobsters,crypto,Cryptography,Introducing Zombie POODLE and GOLDENDOODLE,https://www.tripwire.com/state-of-security/vulnerability-management/zombie-poodle-goldendoodle/
+281,Lobsters,crypto,Cryptography,ETS Isn't TLS and You Shouldn't Use It,https://www.eff.org/deeplinks/2019/02/ets-isnt-tls-and-you-shouldnt-use-it
+282,Lobsters,crypto,Cryptography,"PureBoot, the High Security Boot Process",https://puri.sm/posts/pureboot-the-high-security-boot-process/
+283,Lobsters,crypto,Cryptography,Polymorphic Encryption Algorithms (2016),https://www.pelock.com/articles/polymorphic-encryption-algorithms
+284,Lobsters,crypto,Cryptography,Cracking a weak hash function,https://qmemcpy.io/post/cracking-a-weak-hash-function
+285,Lobsters,crypto,Cryptography,Password Managers: Under the Hood of Secrets Management,https://www.securityevaluators.com/casestudies/password-manager-hacking/
+286,Lobsters,crypto,Cryptography,Is SHA-3 (Keccak) already broken?,http://insanecoding.blogspot.com/2019/02/is-sha-3-keccak-already-broken.html
+287,Lobsters,crypto,Cryptography,git-signatures - Multiple PGP signatures for your commits,https://github.com/hashbang/git-signatures
+288,Lobsters,crypto,Cryptography,WireGuard for macOS,https://lists.zx2c4.com/pipermail/wireguard/2019-February/003853.html
+289,Lobsters,crypto,Cryptography,Modern Alternatives to PGP,https://blog.gtank.cc/modern-alternatives-to-pgp/
+290,Lobsters,crypto,Cryptography,Peergos development update,https://peergos.org/blog
+291,Lobsters,crypto,Cryptography,Attack of the week: searchable encryption and the ever-expanding leakage function,https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/
+292,Lobsters,crypto,Cryptography,Zero-Knowledge Proofs in WebAssembly,https://zkwasm.kobi.one/
+293,Lobsters,crypto,Cryptography,Downgrade Attack on TLS 1.3 and Vulnerabilities in Major TLS Libraries,https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/february/downgrade-attack-on-tls-1.3-and-vulnerabilities-in-major-tls-libraries/
+294,Lobsters,crypto,Cryptography,CipherSweet: Searchable Encryption Doesn't Have to be Bitter,https://paragonie.com/blog/2019/01/ciphersweet-searchable-encryption-doesn-t-have-be-bitter
+295,Lobsters,crypto,Cryptography,Zcash Counterfeiting Vulnerability Successfully Remediated,https://z.cash/blog/zcash-counterfeiting-vulnerability-successfully-remediated/
+296,Lobsters,crypto,Cryptography,Two-factor auth with public-key cryptography,https://blog.kenforthewin.com/two-factor-auth-with-public-key-cryptography/
+297,Lobsters,crypto,Cryptography,A proposed API for full-memory encryption [LWN.net],https://lwn.net/Articles/776688/
+298,Lobsters,crypto,Cryptography,Disabling insecure Lets Encrypt validation will cause broken HTTPS setups for Debian & Ubuntu users,https://www.feistyduck.com/bulletproof-tls-newsletter/issue_49_disabling_of_insecure_lets_encrypt_validation_will_cause_broken_https_setups_for_debian_and_ubuntu_users
+299,Lobsters,crypto,Cryptography,Steganographic Packets,https://vimist.github.io/2019/01/30/Steganographic-Packets.html
+300,Lobsters,crypto,Cryptography,A (relatively easy to understand) primer on elliptic curve cryptography (2013),https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+301,Lobsters,crypto,Cryptography,Power trace simulator using Unicorn Engine for side channel analysis attack testing,https://github.com/jevinskie/emusca
+302,Lobsters,crypto,Cryptography,Response to analysis of ProtonMail's cryptographic architecture,https://protonmail.com/blog/cryptographic-architecture-response/
+303,Lobsters,crypto,Cryptography,Adding a getentropy() interface to POSIX,http://austingroupbugs.net/view.php?id=1134
+304,Lobsters,crypto,Cryptography,Noise Explorer: Design and Explore Noise Handshake Patterns,https://noiseexplorer.com
+305,Lobsters,crypto,Cryptography,Supersingular isogeny Diffie-Hellman 101 (2016),https://www.lvh.io/posts/supersingular-isogeny-diffie-hellman-101.html
+306,Lobsters,crypto,Cryptography,The (Almost) Secret Algorithm Researchers Used to Break Thousands of RSA Keys,https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/
+307,Lobsters,crypto,Cryptography,Why did the PGP Web of Trust fail? (2018),https://medium.com/@bblfish/what-are-the-failings-of-pgp-web-of-trust-958e1f62e5b7
+308,Lobsters,crypto,Cryptography,Australia passes bill to force tech firms to hand over encrypted data,https://www.reuters.com/article/us-australia-security-data-idUSKBN1O42SR
+309,Lobsters,crypto,Cryptography,ELSA: Efficient Long-Term Secure Storage of Large Datasets,https://arxiv.org/pdf/1810.11888
+310,Lobsters,crypto,Cryptography,Send encrypted secrets from the command-line: Fluidkeys v0.3,https://www.fluidkeys.com/blog/release-0-3-send-encrypted-secrets/
+311,Lobsters,crypto,Cryptography,Can you sign a quantum state?,https://arxiv.org/abs/1811.11858
+312,Lobsters,crypto,Cryptography,Chess Steganography,https://incoherency.co.uk/chess-steg/
+313,Lobsters,crypto,Cryptography,The Case For Blind Key Rotation,https://blog.dereferenced.org/the-case-for-blind-key-rotation
+314,Lobsters,crypto,Cryptography,Better security achieved with randomly generating biological encryption keys,https://phys.org/news/2018-12-randomly-biological-encryption-keys.html
+315,Lobsters,crypto,Cryptography,On Ghost Users and Messaging Backdoors,https://blog.cryptographyengineering.com/2018/12/17/on-ghost-users-and-messaging-backdoors/
+316,Lobsters,crypto,Cryptography,Systematic Parsing of X.509: Eradicating Security Issues with a Parse Tree,https://arxiv.org/pdf/1812.04959
+317,Lobsters,crypto,Cryptography,CECPQ2,https://www.imperialviolet.org/2018/12/12/cecpq2.html
+318,Lobsters,crypto,Cryptography,Secure Service Proxy: A CoAP(s) Intermediary for a Securer and Smarter Web of Things,https://biblio.ugent.be/publication/8531255/file/8531256.pdf
+319,Lobsters,crypto,Cryptography,Databases vs. encryption,https://blog.2ndquadrant.com/databases-vs-encryption/
+320,Lobsters,crypto,Cryptography,Cards Against Cryptography,https://github.com/CardsAgainstCryptography/CAC
+321,Lobsters,crypto,Cryptography,Internet Security Research Group Recognizes Jason Donenfeld with Radiant Award,https://www.abetterinternet.org/post/radiant-award-jason-donenfeld/
+322,Lobsters,crypto,Cryptography,Hacking Amiibo with Software-Defined Radio,https://jamchamb.github.io/assets/pdf/amiibo-presentation-HOPE.pdf
+323,Lobsters,crypto,Cryptography,Bao - a general purpose cryptographic tree hash built on BLAKE2,https://www.youtube.com/watch?v=Dya9c2DXMqQ
+324,Lobsters,crypto,Cryptography,"Certified Verification of Algebraic Properties on Low-Level, Math Constructs in Crypto Lib's",https://acmccs.github.io/papers/p1973-tsaiA.pdf
+325,Lobsters,crypto,Cryptography,"Formally-Verified, Decentralized, Key-Management Architecture for Wireless Sensor Networks",http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.7077&rep=rep1&type=pdf
+326,Lobsters,crypto,Cryptography,Sequoia: The Seeding Sees The Light Of Day,https://sequoia-pgp.org/blog/2018/11/26/initial-release/
+327,Lobsters,crypto,Cryptography,CCI-Based Web Security: A Design Using PGP (1995),https://www.w3.org/Conferences/WWW4/Papers2/245.html
+328,Lobsters,crypto,Cryptography,Signature validation vulnerability in German ID card allows impersonating any,https://www.sec-consult.com/en/blog/2018/11/my-name-is-johann-wolfgang-von-goethe-i-can-prove-it/
+329,Lobsters,crypto,Cryptography,wizpen - a Pigpen cipher-based LaTeX metafont,https://github.com/numinit/wizpen
+330,Lobsters,crypto,Cryptography,An Analysis of the ProtonMail Cryptographic Architecture,https://eprint.iacr.org/2018/1121
+331,Lobsters,crypto,Cryptography,The Illustrated TLS 1.3 Connection: Every Byte,https://tls13.ulfheim.net/
+332,Lobsters,crypto,Cryptography,Signed HTTP Exchanges,https://developers.google.com/web/updates/2018/11/signed-exchanges
+333,Lobsters,crypto,Cryptography,Self-encrypting deception: weaknesses in the encryption of solid state drives (SSDs),https://www.ru.nl/publish/pages/909275/draft-paper_1.pdf
+334,Lobsters,crypto,Cryptography,Cryptography during the French and American wars in Vietnam,https://eprint.iacr.org/2016/1136.pdf
+335,Lobsters,crypto,Cryptography,Diving Deeper into Consensus,https://blog.helium.com/diving-deeper-into-consensus-eaf20ddced92
+336,Lobsters,crypto,Cryptography,Cryptanalysis of OCB2,https://eprint.iacr.org/2018/1040
+337,Lobsters,crypto,Cryptography,Multiple Timing Side-Channel Attacks in Cryptocat,https://github.com/Inria-Prosecco/proscript-messaging/issues/1
+338,Lobsters,crypto,Cryptography,On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees,https://eprint.iacr.org/2017/666.pdf
+339,Lobsters,crypto,Cryptography,Attacking Google Authenticator,https://www.unix-ninja.com/p/attacking_google_authenticator
+340,Lobsters,crypto,Cryptography,SYN packet handling in the wild,https://blog.cloudflare.com/syn-packet-handling-in-the-wild/
+341,Lobsters,crypto,Cryptography,Alchemy: A Language and Compiler for Homomorphic Encryption Made easY,http://web.eecs.umich.edu/~cpeikert/pubs/alchemy.pdf
+342,Lobsters,crypto,Cryptography,Zexe: Enabling Decentralized Private Computation,https://eprint.iacr.org/2018/962.pdf
+343,Lobsters,crypto,Cryptography,Let’s talk about PAKE,https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/
+344,Lobsters,crypto,Cryptography,Using roughtime as a ‘cryptographic notary’,https://blog.merovius.de/2018/10/18/using-roughtime-as-a-cryptographic-notary.html
+345,Lobsters,crypto,Cryptography,Open the Envelope: How transform encryption works with envelope encryption,https://blog.ironcorelabs.com/open-the-envelope-1c6e4feecf22
+346,Lobsters,crypto,Cryptography,"A Review of Hardware, Security Modules (2010)",https://www.opendnssec.org/wp-content/uploads/2011/01/A-Review-of-Hardware-Security-Modules-Fall-2010.pdf
+347,Lobsters,crypto,Cryptography,Porting Keybase to NetBSD,http://dressupgeekout.blogspot.com/2018/10/porting-keybase-to-netbsd.html
+348,Lobsters,crypto,Cryptography,Learning the Enigma with Recurrent Neural Networks (2017),http://greydanus.github.io/2017/01/07/enigma-rnn 
+349,Lobsters,crypto,Cryptography,Trusting the delivery of Firefox Updates,https://blog.mozilla.org/security/2018/10/09/trusting-the-delivery-of-firefox-updates/
+350,Lobsters,crypto,Cryptography,Analyzing a simple encryption scheme using GitHub SSH keys,https://latacora.micro.blog/2018/09/30/analyzing-a-simple.html
+351,Lobsters,crypto,Cryptography,GPG Suite 2018.4 is released and is a trial,https://gpgtools.org/releases/gpgsuite/2018.4/release-notes.html
+352,Lobsters,crypto,Cryptography,HTTPS is a lie,https://www.openbsd.org/papers/eurobsdcon_2018_https.pdf
+353,Lobsters,crypto,Cryptography,Understanding PGP by Simulating it,https://medium.com/@tejaas_solanki/understanding-pgp-by-simulating-it-79248891325f
+354,Lobsters,crypto,Cryptography,Everyday crypto,http://blog.obligd.com/posts/everyday-crypto.html
+355,Lobsters,crypto,Cryptography,Round5: compact and fast post-quantum public-key encryption,https://round5.org/
+356,Lobsters,crypto,Cryptography,GnuPG can now be used to perform notarial acts in the state of Washington,https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html
+357,Lobsters,crypto,Cryptography,asymmetrically encrypted backups,https://packnback.github.io/
+358,Lobsters,crypto,Cryptography,The Factorization of RSA230,https://lists.gforge.inria.fr/pipermail/cado-nfs-discuss/2018-August/000926.html
+359,Lobsters,crypto,Cryptography,OpenPGP Web Key Directory,https://www.ietf.org/id/draft-koch-openpgp-webkey-service-06.txt
+360,Lobsters,crypto,Cryptography,OpenPGP Keyservers Now Store 'Irremovable' Torrent Magnet Links,https://torrentfreak.com/openpgp-keyservers-now-store-irremovable-torrent-magnet-links-180907/
+361,Lobsters,crypto,Cryptography,PUBLIK KEY KRYPTO,https://idea-instructions.com/public-key/
+362,Lobsters,crypto,Cryptography,An intensive introduction to Cryptography,https://www.intensecrypto.org/public/
+363,Lobsters,crypto,Cryptography,Bitslicing S-boxes with the Quine-McCluskey algorithm,https://timtaubert.de/blog/2018/08/bitslicing-with-quine-mccluskey/
+364,Lobsters,crypto,Cryptography,Mapping a decentralized wireless network with Uber H3 hexagons,https://blog.helium.com/mapping-the-world-with-hexagons-49f57d8b3df5
+365,Lobsters,crypto,Cryptography,Sending Keybase Chats Using Vim,https://www.codesections.com/blog/sending-keybase-chats-with-vim/
+366,Lobsters,crypto,Cryptography,Security Concerns Surrounding WebAuthn: Don't Implement ECDAA (Yet),https://paragonie.com/blog/2018/08/security-concerns-surrounding-webauthn-don-t-implement-ecdaa-yet
+367,Lobsters,crypto,Cryptography,Prime and Prejudice: Primality Testing Under Adversarial Conditions,https://eprint.iacr.org/2018/749
+368,Lobsters,crypto,Cryptography,Fast Multiplication with Slow Additions,http://loup-vaillant.fr/tutorials/fast-scalarmult
+369,Lobsters,crypto,Cryptography,Pseudo Constant Time Implementations of TLS Are Only Pseudo Secure,https://eprint.iacr.org/2018/747
+370,Lobsters,crypto,Cryptography,"Bitslicing, An Introduction - Data Orthogonalization for Cryptography",https://timtaubert.de/blog/2018/08/bitslicing-an-introduction/
+371,Lobsters,crypto,Cryptography,Happy Bob's Libtls tutorial,https://undeadly.org/cgi?action=article;sid=20180812100443
+372,Lobsters,crypto,Cryptography,Ristretto: busting cofactor vulnerabilities in elliptic curve cryptography,https://ristretto.group/why_ristretto.html
+373,Lobsters,crypto,Cryptography,Building a truly decentralized system with a distributed key generator,https://hackernoon.com/building-a-truly-decentralized-system-with-a-distributed-key-generator-1cfe13af55e7
+374,Lobsters,crypto,Cryptography,Spideroak removes warrant canary,https://twitter.com/SpiderOak/status/1025488889564327936
+375,Lobsters,crypto,Cryptography,HPolyC: length-preserving encryption for entry-level processors,https://eprint.iacr.org/2018/720
+376,Lobsters,crypto,Cryptography,The default OpenSSH key encryption is worse than plaintext,https://latacora.micro.blog/2018/08/03/the-default-openssh.html
+377,Lobsters,crypto,Cryptography,zinc: Introduce minimal cryptography library,https://git.kernel.org/pub/scm/linux/kernel/git/zx2c4/linux.git/commit/?h=zinc
+378,Lobsters,crypto,Cryptography,Sequoia PGP,https://sequoia-pgp.org/
+379,Lobsters,crypto,Cryptography,Decoding TLS using sslkeylogfile,https://whitane.com/post/decoding-tls-with-sskleylogfile/
+380,Lobsters,crypto,Cryptography,The Conversations that Cryptocurrency Kills,https://jacobitemag.com/2018/07/27/the-conversations-that-cryptocurrency-kills/
+381,Lobsters,crypto,Cryptography,Addressing and Name-Independent Routing | Yggdrasil,https://yggdrasil-network.github.io/2018/07/28/addressing.html
+382,Lobsters,crypto,Cryptography,<wbr>draft-irtf-cfrg-xmss-hash-base<wbr>d-signatures-12 - XMSS: eXtended Merkle Signature Scheme</wbr></wbr>,https://tools.ietf.org/html/draft-irtf-cfrg-xmss-hash-based-signatures-12
+383,Lobsters,crypto,Cryptography,Autocrypt 1.0.1,https://autocrypt.org/
+384,Lobsters,crypto,Cryptography,Managing TLS connections using Lua and Lua coroutines,http://boston.conman.org/2018/07/23.1
+385,Lobsters,crypto,Cryptography,Sunjay Cauligi - Constant-time crypto programming with FaCT,https://www.youtube.com/watch?v=SSEHF_u79e4
+386,Lobsters,crypto,Cryptography,Signing my git commits without GPG in pure Rust,https://boats.gitlab.io/blog/post/signing-commits-without-gpg/
+387,Lobsters,crypto,Cryptography,Cryptanalysis of hashids,https://carnage.github.io/2015/08/cryptanalysis-of-hashids
+388,Lobsters,crypto,Cryptography,Bringing Yggdrasil to more platforms,https://yggdrasil-network.github.io/2018/07/20/more-platforms.html
+389,Lobsters,crypto,Cryptography,Factoring the Noise protocol matrix,https://latacora.singles/2018/07/18/factoring-the-noise.html
+390,Lobsters,crypto,Cryptography,Things that use Ed25519,https://ianix.com/pub/ed25519-deployment.html
+391,Lobsters,crypto,Cryptography,Are SKS keyservers safe? Do we need them?,https://medium.com/@mdrahony/are-sks-keyservers-safe-do-we-need-them-7056b495101c
+392,Lobsters,crypto,Cryptography,Are PGP Key-servers Breaking the Law under the GDPR?,https://medium.com/@mdrahony/are-pgp-key-servers-breaking-the-law-under-the-gdpr-a81ddd709d3e
+393,Lobsters,crypto,Cryptography,Public Accountability vs. Secret Laws: Can They Coexist?,https://eprint.iacr.org/2018/664
+394,Lobsters,crypto,Cryptography,Why I've Retired My PGP Keys and What's Replaced It (2017),https://nullprogram.com/blog/2017/03/12/
+395,Lobsters,crypto,Cryptography,Introducing Elliptic Curves,https://jeremykun.com/2014/02/08/introducing-elliptic-curves/
+396,Lobsters,crypto,Cryptography,Wire and post-quantum resistance,https://blog.wire.com/blog/post-quantum-resistance-wire/
+397,Lobsters,crypto,Cryptography,Trustica beginner introduction to elliptic curve cryptography,https://trustica.cz/en/category/ecc/page/3/
+398,Lobsters,crypto,Cryptography,The 5 unique coordinates you'll need to watch out for in Curve25519,https://crypto.stackexchange.com/a/17706/33117
+399,Lobsters,crypto,Cryptography,"reclaimID: Secure, Self-Sovereign Identities using Name Systems and Attribute-Based Encryption",https://arxiv.org/abs/1805.06253v1
+400,Lobsters,crypto,Cryptography,A tool for benchmarking fast C functions with less noise,https://moderncrypto.org/mail-archive/curves/2018/000966.html
+401,Lobsters,crypto,Cryptography,A Brief Look At North Korean Cryptography,https://blog.kryptoslogic.com/crypto/2018/07/03/pyongyang.html
+402,Lobsters,crypto,Cryptography,An introduction to randomness extractors,https://cs.haifa.ac.il/~ronen/online_papers/ICALPinvited.pdf
+403,Lobsters,crypto,Cryptography,The XEdDSA and VXEdDSA Signature Schemes,https://signal.org/docs/specifications/xeddsa/
+404,Lobsters,crypto,Cryptography,﻿Efail: HTML Mails have no Security Concept and are to blame,https://blog.hboeck.de/archives/894-Efail-HTML-Mails-have-no-Security-Concept-and-are-to-blame.html
+405,Lobsters,crypto,Cryptography,Monocypher: Critical failure of EdDSA checking,https://monocypher.org/quality-assurance/disclosures
+406,Lobsters,crypto,Cryptography,Wi-Fi Alliance® introduces Wi-Fi CERTIFIED WPA3™ security,https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security
+407,Lobsters,crypto,Cryptography,Project Wcheproof: Test for implementation pitfalls in crypto code,https://github.com/google/wycheproof
+408,Lobsters,crypto,Cryptography,Exploring .NET Core platform intrinsics: Part 1 - Accelerating SHA-256 on ARMv8,https://mijailovic.net/2018/06/06/sha256-armv8/
+409,Lobsters,crypto,Cryptography,Signing CryptPad - Experiments with making a webapp secure despite the server,https://blog.cryptpad.fr/2018/06/15/Signing-CryptPad/
+410,Lobsters,crypto,Cryptography,"SigSpoof: Spoofing signatures in GnuPG, Enigmail, GPGTools and python-gnupg (CVE-2018-12020) – NeoPG",https://neopg.io/blog/gpg-signature-spoof/
+411,Lobsters,crypto,Cryptography,Leaf-Node weakness in Bitcoin Merkle Tree Design,https://bitslog.wordpress.com/2018/06/09/leaf-node-weakness-in-bitcoin-merkle-tree-design/
+412,Lobsters,crypto,Cryptography,libcsi - Crypto Simplified Interface,http://undeadly.org/cgi?action=article;sid=20180603140623
+413,Lobsters,crypto,Cryptography,Linux Cryptography — crypto: Speck support,https://www.spinics.net/lists/linux-crypto/msg33291.html
+414,Lobsters,crypto,Cryptography,Improved Authentication for Email Encryption and Security (2016),https://protonmail.com/blog/encrypted_email_authentication/
+415,Lobsters,crypto,Cryptography,Do Not Use sha256crypt / sha512crypt - They're Dangerous,https://pthree.org/2018/05/23/do-not-use-sha256crypt-sha512crypt-theyre-dangerous/
+416,Lobsters,crypto,Cryptography,efail: Outdated Crypto Standards are to blame,https://blog.hboeck.de/archives/893-efail-Outdated-Crypto-Standards-are-to-blame.html
+417,Lobsters,crypto,Cryptography,Noise Explorer: Design and Explore Noise Security Protocol Handshake Patterns,https://noiseexplorer.com/
+418,Lobsters,crypto,Cryptography,Efail: A Postmortem,https://medium.com/@cipherpunk/efail-a-postmortem-4bef2cea4c08
+419,Lobsters,crypto,Cryptography,Interview with Professor Vincent Rijmen: Encryption Innovator at KUL,http://thevoiceleuven.be/in-leuven/interview-with-professor-vincent-rijmen/
+420,Lobsters,crypto,Cryptography,The Alice and Bob After Dinner Speech,https://urbigenous.net/library/alicebob.html
+421,Lobsters,crypto,Cryptography,Efail: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels,https://efail.de/
+422,Lobsters,crypto,Cryptography,Specific Problems with Other RNGs,http://www.pcg-random.org/other-rngs.html
+423,Lobsters,crypto,Cryptography,Two Weeks on Matrix/Riot Short Review,/s/sxqf0p/two_weeks_on_matrix_riot_short_review
+424,Lobsters,crypto,Cryptography,Triple Entry Accounting,http://iang.org/papers/triple_entry.html
+425,Lobsters,crypto,Cryptography,xoshiro/xoroshiro generators and the PRNG shootout,http://xoshiro.di.unimi.it/
+426,Lobsters,crypto,Cryptography,"Call for grant proposals from the Zcash Foundation; $250,000 total budget",https://z.cash.foundation//blog/q2-grant-program/
+427,Lobsters,crypto,Cryptography,Why you should verify the tokens you own: A deep dive into two vulnerable ERC20 contracts,https://cryptojobslist.com/blog/two-vulnerable-erc20-contracts-deep-dive-beautychain-smartmesh
+428,Lobsters,crypto,Cryptography,Hardware accelerated AES/HMAC-SHA on octeons,http://undeadly.org/cgi?action=article;sid=20180418073437
+429,Lobsters,crypto,Cryptography,Shipping formally verified crypto code,https://franziskuskiefer.de/post/hacl-nss-integration/
+430,Lobsters,crypto,Cryptography,ImperialViolet - Post-quantum confidentiality for TLS,https://www.imperialviolet.org/2018/04/11/pqconftls.html
+431,Lobsters,crypto,Cryptography,Encoding data in dubstep drops,https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops
+432,Lobsters,crypto,Cryptography,Encrypted Gopher,https://alexschroeder.ch/wiki/2018-01-10_Encrypted_Gopher
+433,Lobsters,crypto,Cryptography,"Multiple vulnerabilities in SecureRandom(), numerous cryptocurrency products affected",https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-April/015873.html
+434,Lobsters,crypto,Cryptography,A Graduate Course in Applied Cryptography,https://crypto.stanford.edu/~dabo/cryptobook/
+435,Lobsters,crypto,Cryptography,FontCode: Embedding Information in Text Documents using Glyph Perturbation,http://www.cs.columbia.edu/cg/fontcode/fontcode.pdf
+436,Lobsters,crypto,Cryptography,Helvetica Is Now An Encryption Device,https://www.fastcodesign.com/90167210/helvetica-is-now-an-encryption-device
+437,Lobsters,crypto,Cryptography,How Learning GPG Is Like Learning Git,https://russellparker.me/post/2018/04/10/how-learning-gpg-is-like-learning-git/
+438,Lobsters,crypto,Cryptography,Understanding the Security of Cryptographic Hash Functions,https://www.jeffcarp.com/posts/understanding-security-cryptographic-hash-functions/
+439,Lobsters,crypto,Cryptography,Prior Art about Encrypted Applicative Protocols?,/s/a5d4np/prior_art_about_encrypted_applicative
+440,Lobsters,crypto,Cryptography,Decentralizing Public Key Infrastructures with ClaimChains,https://arxiv.org/pdf/1707.06279.pdf
+441,Lobsters,crypto,Cryptography,Cryptographic Right Answers,http://latacora.singles/2018/04/03/cryptographic-right-answers.html
+442,Lobsters,crypto,Cryptography,Buzzword Convergence: Making Sense of Quantum Neural Blockchain AI—Stephen Wolfram Blog,http://blog.stephenwolfram.com/2018/04/buzzword-convergence-making-sense-of-quantum-neural-blockchain-ai/
+443,Lobsters,crypto,Cryptography,Measuring elliptic curve implementations in the wild,https://eprint.iacr.org/2018/298.pdf
+444,Lobsters,crypto,Cryptography,The cypherpunk revolution,http://projects.csmonitor.com/cypherpunk
+445,Lobsters,crypto,Cryptography,Open PhD & PostDoc positions in Security and Formal Analysis,http://cascremers.com/open-positions.html
+446,Lobsters,crypto,Cryptography,No ad hoc parser in NeoPG,https://neopg.io/blog/no-ad-hoc-parser/
+447,Lobsters,crypto,Cryptography,Telegram Loses Bid to Block Russia From Encryption Keys,https://www.bloomberg.com/news/articles/2018-03-20/telegram-loses-bid-to-stop-russia-from-getting-encryption-keys
+448,Lobsters,crypto,Cryptography,The long road to getrandom() in glibc (2017),https://lwn.net/Articles/711013/
+449,Lobsters,crypto,Cryptography,Wireguard on PicoLisp,https://bitbucket.org/mihailp/wireguard-pil/src
+450,Lobsters,crypto,Cryptography,ACME v2 and Wildcard Certificate Support is Live,https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579
+451,Lobsters,crypto,Cryptography,yescrypt 1.0.0 - modern KDF and password hashing scheme,http://www.openwall.com/lists/announce/2018/03/09/1
+452,Lobsters,crypto,Cryptography,Crypto Zealots,http://www.potaroo.net/ispcol/2018-03/pe.html
+453,Lobsters,crypto,Cryptography,"Paseto is a Secure Alternative to the JOSE Standards (JWT, etc.)",https://paragonie.com/blog/2018/03/paseto-platform-agnostic-security-tokens-is-secure-alternative-jose-standards-jwt-etc
+454,Lobsters,crypto,Cryptography,Keybase is now supported by the Stellar Development Foundation,https://keybase.io/blog/keybase-stellar
+455,Lobsters,crypto,Cryptography,Encrypted cloud backups with Duplicity and GPG,https://roussos.cc/2018/03/05/duplicity-gpg-dropbox/
+456,Lobsters,crypto,Cryptography,Keep the Bombe on the Bletchley Park Estate,http://www.crowdfunder.co.uk/new-display
+457,Lobsters,crypto,Cryptography,Assembling with your own hands a demonstrably-correct set of routines for multi-precision arithmetic,http://www.loper-os.org/?p=1913
+458,Lobsters,crypto,Cryptography,Wire's Rust implementation of the Double Ratchet Algorithm,https://github.com/wireapp/proteus
+459,Lobsters,crypto,Cryptography,"Authentication vulnerability in most recent 5G drafts, found by formal methods",https://www.cs.ox.ac.uk/5G-analysis/
+460,Lobsters,crypto,Cryptography,The Noise protocol framework - Trevor Perrin - Real World Crypto 2018,https://www.youtube.com/watch?v=3gipxdJ22iM
+461,Lobsters,crypto,Cryptography,Password Protecting Certain Dropbox/Google Drive Files,https://medium.com/@fxrock2002/how-to-password-protect-certain-dropbox-google-drive-icloud-onedrive-files-26be9f15b425
+462,Lobsters,crypto,Cryptography,Drive-by Key-Extraction Cache Attacks from Portable Code,https://eprint.iacr.org/2018/119
+463,Lobsters,crypto,Cryptography,Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis,https://arxiv.org/pdf/1801.07501.pdf
+464,Lobsters,crypto,Cryptography,ElectronicColoringBook by doegox,https://doegox.github.io/ElectronicColoringBook/
+465,Lobsters,crypto,Cryptography,How to Reveal the Secrets of an Obscure White-Box Implementation,https://eprint.iacr.org/2018/098.pdf
+466,Lobsters,crypto,Cryptography,RANDU: The case of the bad RNG,https://csgillespie.wordpress.com/2016/02/16/randu-the-case-of-the-bad-rng/
+467,Lobsters,crypto,Cryptography,Cracking Codes with Python,http://inventwithpython.com/cracking/
+468,Lobsters,crypto,Cryptography,New Computational Proof Results of WireGuard Protocol from Dowling and Paterson,https://lists.zx2c4.com/pipermail/wireguard/2018-January/002333.html
+469,Lobsters,crypto,Cryptography,Introducing the first ever shitpost-based RNG,https://blog.0day.rocks/introducing-the-first-ever-shitpost-based-rng-c5422bfce257
+470,Lobsters,crypto,Cryptography,Toy Code: Hand-crafting a good hash function,http://calypsosfarewell.blogspot.com/2018/01/toy-code-hand-crafting-good-hash.html
+471,Lobsters,crypto,Cryptography,Bulletproofs: Short Proofs for Confidential Transactions,https://crypto.stanford.edu/bulletproofs/
+472,Lobsters,crypto,Cryptography,Important: What you need to know about TLS-SNI validation issues,https://community.letsencrypt.org/t/important-what-you-need-to-know-about-tls-sni-validation-issues/50811
+473,Lobsters,crypto,Cryptography,Formally Verified Cryptographic Primitive Implementations in WireGuard,https://lists.zx2c4.com/pipermail/wireguard/2018-January/002304.html
+474,Lobsters,crypto,Cryptography,How I exploited ACME TLS-SNI-01 issuing Let’s Encrypt SSL-certs for any domain using shared hosting,https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/
+475,Lobsters,crypto,Cryptography,LetsEncrypt: Update Regarding ACME TLS-SNI and Shared Hosting Infrastructure,https://community.letsencrypt.org/t/2018-01-11-update-regarding-acme-tls-sni-and-shared-hosting-infrastructure/50188
+476,Lobsters,crypto,Cryptography,Signal partners with Microsoft to bring end-to-end encryption to Skype,https://signal.org/blog/skype-partnership/
+477,Lobsters,crypto,Cryptography,Recommendation for the Entropy Sources Used for Random Bit Generation,https://csrc.nist.gov/publications/detail/sp/800-90B/final
+478,Lobsters,crypto,Cryptography,Attack of the Week: Group Messaging in WhatsApp and Signal,https://blog.cryptographyengineering.com/2018/01/10/attack-of-the-week-group-messaging-in-whatsapp-and-signal/
+479,Lobsters,crypto,Cryptography,Secure Remote Attestation,https://eprint.iacr.org/2018/031.pdf
+480,Lobsters,crypto,Cryptography,Crypto for Kids (A Book that is a Labyrinth),https://github.com/sustrik/crypto-for-kids/blob/gh-pages/README.md
+481,Lobsters,crypto,Cryptography,"Private keys in software from Blizzard, Electronic Arts, Microsoft, and the German Federal Bar",https://www.feistyduck.com/bulletproof-tls-newsletter/issue_36_private_keys_in_software
+482,Lobsters,crypto,Cryptography,Random with care,https://eev.ee/blog/2018/01/02/random-with-care/
+483,Lobsters,crypto,Cryptography,Crypto for Kids: Messenger's Story,http://250bpm.com/blog:117
+484,Lobsters,crypto,Cryptography,Application Layer Transport Security,https://cloud.google.com/security/encryption-in-transit/application-layer-transport-security/
+485,Lobsters,crypto,Cryptography,NSA backdoor discovered in the wild: The strange story of “Extended Random”,https://blog.cryptographyengineering.com/2017/12/19/the-strange-story-of-extended-random/
+486,Lobsters,crypto,Cryptography,Everything you need to know about cryptography in 1 hour (2010),http://www.bsdcan.org/2010/schedule/attachments/135_crypto1hr.pdf
+487,Lobsters,crypto,Cryptography,Round 1 Submissions to NIST Post-Quantum Cryptography Project,https://csrc.nist.gov/projects/post-quantum-cryptography/round-1-submissions
+488,Lobsters,crypto,Cryptography,The 2018 Guide to Building Secure PHP Software - Paragon Initiative Enterprises Blog,https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
+489,Lobsters,crypto,Cryptography,Storj: An Encrypted Object Storage Blockchain Technology,https://storj.io/
+490,Lobsters,crypto,Cryptography,Layman's Guide to Elliptic Curve Digital Signatures,https://www.royalfork.org/2014/09/04/ecc/
+491,Lobsters,crypto,Cryptography,On the state of cryptography in Haskell,https://leonmergen.com/on-the-state-of-cryptography-in-haskell-c272fb0b6478
+492,Lobsters,crypto,Cryptography,The ROBOT Attack - Return of Bleichenbacher's Oracle Threat,https://robotattack.org/
+493,Lobsters,crypto,Cryptography,Attacking #IntelME -> Full code exec in ME,https://twitter.com/rootkovska/status/938458875522666497
+494,Lobsters,crypto,Cryptography,Looking Forward to 2018 - Let's Encrypt - Free SSL/TLS Certificates,https://letsencrypt.org//2017/12/07/looking-forward-to-2018.html
+495,Lobsters,crypto,Cryptography,Microsoft Dynamics 365: Wildcard Certificate with a private Key for everyone,https://www.golem.de/news/microsoft-dynamics-365-wildcard-certificate-with-a-private-key-for-everyone-1712-131544.html
+496,Lobsters,crypto,Cryptography,Decoding an air conditioner control's checksum with differential cryptanalysis,http://www.righto.com/2017/12/decoding-air-conditioner-controls.html
+497,Lobsters,crypto,Cryptography,Make SSL boring again,http://blog.cloudflare.com/make-ssl-boring-again/
+498,Lobsters,crypto,Cryptography,Misocoin – A barebones Bitcoin-like protocol implemented in Python 3.6,https://github.com/kendricktan/misocoin
+499,Lobsters,crypto,Cryptography,Cryptographic vulnerabilities in IOTA,https://medium.com/@neha/cryptographic-vulnerabilities-in-iota-9a6a9ddc4367
+500,Lobsters,crypto,Cryptography,Restic Cryptography,https://blog.filippo.io/restic-cryptography/
+501,Lobsters,crypto,Cryptography,Breaking the Enigma Code With Rust,https://kevinyap.ca/2017/04/breaking-the-enigma-code-with-rust/
+502,Lobsters,crypto,Cryptography,Memory Security in Go,https://cryptolosophy.org/memory-security-go/
+503,Lobsters,crypto,Cryptography,"Small, Simple and Stupid VPN",https://github.com/angt/glorytun
+504,Lobsters,crypto,Cryptography,A Response to “Responsible Encryption”,https://cyberlaw.stanford.edu/blog/2017/10/response-%E2%80%9Cresponsible-encryption%E2%80%9D
+505,Lobsters,crypto,Cryptography,"A Touch of Evil: High-Assurance, Cryptographic Hardware from Untrusted Components (2017)",https://acmccs.github.io/papers/p1583-mavroudisA.pdf
+506,Lobsters,crypto,Cryptography,Reconstructing ROCA,https://blog.cr.yp.to/20171105-infineon.html
+507,Lobsters,crypto,Cryptography,NIST to include 25519 and 448 in their approved curves,https://csrc.nist.gov/News/2017/Transition-Plans-for-Key-Establishment-Schemes
+508,Lobsters,crypto,Cryptography,A distinguisher for sha256 using bitcoin (mining faster along the way),https://sensepost.com/blog/2017/a-distinguisher-for-sha256-using-bitcoin-mining-faster-along-the-way/
+509,Lobsters,crypto,Cryptography,DUHK Attack,https://duhkattack.com
+510,Lobsters,crypto,Cryptography,Hack.lu 2017 Writeups,http://wiki.yobi.be/wiki/Hack.lu_2017_Writeups
+511,Lobsters,crypto,Cryptography,Introducing Miscreant: a multi-language misuse resistant encryption library,http://tonyarcieri.com/introducing-miscreant-a-multi-language-misuse-resistant-encryption-library
+512,Lobsters,crypto,Cryptography,Falling through the KRACKs,https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/
+513,Lobsters,crypto,Cryptography,ROCA: Vulnerable RSA generation (CVE-2017-15361),https://crocs.fi.muni.cz/public/papers/rsa_ccs17
+514,Lobsters,crypto,Cryptography,Live streaming Cryptopals,https://blog.filippo.io/live-streaming-cryptopals/
+515,Lobsters,crypto,Cryptography,Response to Deputy Attorney General Rosenstein's remarks on Encryption,https://alexgaynor.net/2017/oct/13/rosenstein-encryption-response/
+516,Lobsters,crypto,Cryptography,RSA Keys Generated by Infineon TPMs are Insecure,http://support.lenovo.com/br/en/product_security/len-15552
+517,Lobsters,crypto,Cryptography,Chromebook TPM firmware vulnerability: technical documentation,https://sites.google.com/a/chromium.org/dev/chromium-os/tpm_firmware_update
+518,Lobsters,crypto,Cryptography,Elliptic Curve Cryptography for Beginners,http://blog.wesleyac.com/posts/elliptic-curves
+519,Lobsters,crypto,Cryptography,SHA3-Shake-Kangaroo12 on ziglang,https://bitbucket.org/mihailp/zig-sha3/src
+520,Lobsters,crypto,Cryptography,Keybase launches encrypted git,https://keybase.io/blog/encrypted-git-for-everyone
+521,Lobsters,crypto,Cryptography,How the Catalan government uses IPFS to sidestep Spain's legal block,http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/
+522,Lobsters,crypto,Cryptography,Picrypt Encryption Library,https://github.com/tjgillies/picrypt/blob/master/demo/main.go
+523,Lobsters,crypto,Cryptography,Send StatHat alerts to Keybase team chat channels | StatHat Blog,https://blog.stathat.com/2017/09/28/send_alerts_to_keybase_team_chat.html
+524,Lobsters,crypto,Cryptography,OKCupid Co-founder Max Krohn Believes People are Ready to Love Encryption,http://observer.com/2017/09/keybase-max-krohn-chris-coyne-okcupid/
+525,Lobsters,crypto,Cryptography,Boring crypto,http://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf
+526,Lobsters,crypto,Cryptography,ISO Rejects NSA Encryption Algorithms,https://www.schneier.com/blog/archives/2017/09/iso_rejects_nsa.html
+527,Lobsters,crypto,Cryptography,Duck Duck Go: Illusion of Privacy (2013),http://etherrag.blogspot.com/2013/07/duck-duck-go-illusion-of-privacy.html
+528,Lobsters,crypto,Cryptography,Distrustful U.S. allies force spy agency to back down in encryption fight,https://www.reuters.com/article/us-cyber-standards-insight/distrustful-u-s-allies-force-spy-agency-to-back-down-in-encryption-row-idUSKCN1BW0GV
+529,Lobsters,crypto,Cryptography,Introducing Keybase Teams,https://keybase.io/blog/introducing-keybase-teams
+530,Lobsters,crypto,Cryptography,Random vs. Pseudorandom,https://akalfusblog.com/posts/random-vs-pseudorandom
+531,Lobsters,crypto,Cryptography,Verified cryptography for Firefox 57,https://blog.mozilla.org/security/2017/09/13/verified-cryptography-firefox-57/
+532,Lobsters,crypto,Cryptography,"How I Snatched 153,037 ETH After A Bad Tinder Date",https://medium.com/@rtaylor30/how-i-snatched-your-153-037-eth-after-a-bad-tinder-date-d1d84422a50b
+533,Lobsters,crypto,Cryptography,Comodo fails to check CAA records,https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg08027.html
+534,Lobsters,crypto,Cryptography,A minimal cryptocurrency in Haskell,https://github.com/tdietert/nanocoin
+535,Lobsters,crypto,Cryptography,The Xorshift128+ random number generator fails BigCrush,https://lemire.me/blog/2017/09/08/the-xorshift128-random-number-generator-fails-bigcrush/
+536,Lobsters,crypto,Cryptography,"Random number generators for massively-parallel, simulations on GPU (2012)",https://arxiv.org/pdf/1204.6193.pdf
+537,Lobsters,crypto,Cryptography,Parallel White Noise Generation on a GPU via Cryptographic Hash,http://www.slideserve.com/aliya/parallel-white-noise-generation-on-a-gpu-via-cryptographic-hash
+538,Lobsters,crypto,Cryptography,In Search of a Secure Time Source,https://blog.hboeck.de/archives/890-In-Search-of-a-Secure-Time-Source.html
+539,Lobsters,crypto,Cryptography,320 Million Hashes Exposed,http://cynosureprime.blogspot.com/2017/08/320-million-hashes-exposed.html
+540,Lobsters,crypto,Cryptography,Why Isn’t Telegram End-to-End Encrypted by Default?,http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14
+541,Lobsters,crypto,Cryptography,What Colour are your bits?,http://ansuz.sooke.bc.ca/entry/23
+542,Lobsters,crypto,Cryptography,The Double Ratchet Algorithm,https://whispersystems.org/docs/specifications/doubleratchet/doubleratchet.pdf
+543,Lobsters,crypto,Cryptography,The Cryptographic Doom Principle,https://moxie.org/blog/the-cryptographic-doom-principle/
+544,Lobsters,crypto,Cryptography,RSA key strength and math,http://0xcc.re/key-strength-and-math/
+545,Lobsters,crypto,Cryptography,London Crypto Day - 22nd September 2017,https://londoncryptoday.wordpress.com/
+546,Lobsters,crypto,Cryptography,Keys Under Doormats,https://www.youtube.com/watch?v=LWwaVe1RF0c
+547,Lobsters,crypto,Cryptography,Visualizing the Heart of Some PRNGs,http://www.pcg-random.org/posts/visualizing-the-heart-of-some-prngs.html
+548,Lobsters,crypto,Cryptography,Secrets and LIE-abilities: The State of Modern Secret Management (2017),https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d
+549,Lobsters,crypto,Cryptography,Rolling your Own Blockchain in Haskell by Michael Burge,http://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html
+550,Lobsters,crypto,Cryptography,How to Generate a Sequence of Unique Random Integers,http://preshing.com/20121224/how-to-generate-a-sequence-of-unique-random-integers
+551,Lobsters,crypto,Cryptography,"(n+1)sec is an end-to-end secure, synchronous, multi-party messaging protocol",https://github.com/equalitie/np1sec
+552,Lobsters,crypto,Cryptography,The Edited Truth,https://eprint.iacr.org/2017/714.pdf
+553,Lobsters,crypto,Cryptography,stealth/opmsg: A gpg alternative,https://github.com/stealth/opmsg
+554,Lobsters,crypto,Cryptography,A Systematic Analysis of the Juniper Dual EC Incident,https://www.cs.uic.edu/~s/papers/juniper2016/juniper2016.pdf
+555,Lobsters,crypto,Cryptography,DEF CON 25 - Elie Bursztein - How We Created the First SHA 1 Collision,https://www.youtube.com/watch?v=NbHL0SYlrSQ
+556,Lobsters,crypto,Cryptography,Ethereum Scam Database,https://etherscamdb.info/scams/
+557,Lobsters,crypto,Cryptography,How I implemented my own crypto,http://loup-vaillant.fr/articles/implemented-my-own-crypto
+558,Lobsters,crypto,Cryptography,Confidential Transactions from Basic Principles,https://cryptoservices.github.io/cryptography/2017/07/21/Sigs.html
+559,Lobsters,crypto,Cryptography,Certificate Transparency: Hacking web applications before they are installed,https://www.golem.de/news/certificate-transparency-hacking-web-applications-before-they-are-installed-1707-129172.html
+560,Lobsters,crypto,Cryptography,building lattice reduction (LLL) intuition,https://kel.bz/post/lll/
+561,Lobsters,crypto,Cryptography,Monocypher 1.0 - a single .c/.h crypto library,http://loup-vaillant.fr/projects/monocypher/
+562,Lobsters,crypto,Cryptography,How I tricked Symantec with a Fake Private Key,https://blog.hboeck.de/archives/888-How-I-tricked-Symantec-with-a-Fake-Private-Key.html
+563,Lobsters,crypto,Cryptography,Petya's Ransomware Cloaking Device,http://www.technewsworld.com/story/84659.html
+564,Lobsters,crypto,Cryptography,GnuPG only has ⅓ of their monthly recurring income met. The Intercept will match donations!,https://gnupg.org/donate/index.html
+565,Lobsters,crypto,Cryptography,"Bought for 100 euros, World War Two Enigma machine sells for 45,000",http://www.reuters.com/article/us-romania-auction-enigma-idUSKBN19W2M9
+566,Lobsters,crypto,Cryptography,"It Turns Out, 2017 is the Year of Simply Secure PHP Cryptography",https://paragonie.com/blog/2017/07/it-turns-out-2017-is-year-simply-secure-php-cryptography
+567,Lobsters,crypto,Cryptography,Formal verification of the WireGuard protocol,https://www.wireguard.io/formal-verification/
+568,Lobsters,crypto,Cryptography,"LibreSSL 2.5.5, 2.6.0 released",https://bsdsec.net/articles/libressl-2-5-5-2-6-0-released
+569,Lobsters,crypto,Cryptography,Enigma I: '€100 typewriter' found to be German code machine,http://www.bbc.com/news/world-europe-40583718
+570,Lobsters,crypto,Cryptography,Orpheus' Lyre puts Kerberos to Sleep!,https://www.orpheus-lyre.info/
+571,Lobsters,crypto,Cryptography,"CryptPad Analytics & Privacy - What we can't know, what we must know, what we want to know",https://blog.cryptpad.fr/2017/07/07/cryptpad-analytics-what-we-cant-know-what-we-must-know-what-we-want-to-know/
+572,Lobsters,crypto,Cryptography,Wildcard Certificates Coming January 2018 - Let's Encrypt - Free SSL/TLS Certificates,https://letsencrypt.org//2017/07/06/wildcard-certificates-coming-jan-2018.html
+573,Lobsters,crypto,Cryptography,Researchers Crack 1024-bit RSA Encryption in GnuPG Crypto Library (CVE-2017-7526),http://thehackernews.com/2017/07/gnupg-libgcrypt-rsa-encryption.html
+574,Lobsters,crypto,Cryptography,Apache Subversion is unable to store SHA1 collisions,http://subversion.apache.org/security/sha1-advisory.txt
+575,Lobsters,crypto,Cryptography,multiple timing side channels in libgcrypt RSA (2015),https://lists.gnupg.org/pipermail/gcrypt-devel/2015-November/003618.html
+576,Lobsters,crypto,Cryptography,Sliding right into disaster: Left-to-right sliding windows leak,https://eprint.iacr.org/2017/627.pdf
+577,Lobsters,crypto,Cryptography,Five Eyes Unlimited: What A Global Anti-Encryption Regime Could Look Like,https://www.eff.org/deeplinks/2017/06/five-eyes-unlimited
+578,Lobsters,crypto,Cryptography,Cryptography for genetic material,http://www.biorxiv.org/content/early/2017/06/30/157685
+579,Lobsters,crypto,Cryptography,How Not to Encrypt a File — Courtesy of Microsoft,https://medium.com/@bob_parks1/how-not-to-encrypt-a-file-courtesy-of-microsoft-bfadf2b0273d
+580,Lobsters,crypto,Cryptography,Sapient – Security Toolkit for HTTP-Based APIs,https://github.com/paragonie/sapient
+581,Lobsters,crypto,Cryptography,"We just open sourced Elle, our coroutine-based asynchronous C++ development framework",https://github.com/infinit/elle
+582,Lobsters,crypto,Cryptography,Tempest attacks against AES: Stealing keys using minimal equipment,https://www.fox-it.com/nl/wp-content/uploads/sites/12/Tempest_attacks_against_AES.pdf
+583,Lobsters,crypto,Cryptography,KangarooTwelve,https://www.cryptologie.net/article/393/kangarootwelve/
+584,Lobsters,crypto,Cryptography,Is SHA-3 slow?,http://keccak.noekeon.org/is_sha3_slow.html
+585,Lobsters,crypto,Cryptography,Is Symmetric Security Solved?,https://www.cryptologie.net/article/402/is-symmetric-security-solved/
+586,Lobsters,crypto,Cryptography,Towards A Safer Footgun,https://codahale.com/towards-a-safer-footgun/
+587,Lobsters,crypto,Cryptography,sodium_compat: pure-PHP implementation of (most of) libsodium,https://github.com/paragonie/sodium_compat
+588,Lobsters,crypto,Cryptography,Guide to Automatic Security Updates For PHP Developers,https://paragonie.com/blog/2016/10/guide-automatic-security-updates-for-php-developers
+589,Lobsters,crypto,Cryptography,SRP: The Stanford Telnet and FTP Suite (1998),http://srp.stanford.edu/telnet.html
+590,Lobsters,crypto,Cryptography,xoroshiro+/xorshift*/xorshift+ generators and the PRNG shootout,http://xoroshiro.di.unimi.it/
+591,Lobsters,crypto,Cryptography,Decoding the yellow dots on a color print,https://w2.eff.org/Privacy/printers/docucolor
+592,Lobsters,crypto,Cryptography,Breaking Murmur: Hash-flooding DoS reloaded (2012),http://emboss.github.io/blog/2012/12/14/breaking-murmur-hash-flooding-dos-reloaded
+593,Lobsters,crypto,Cryptography,"Tipos de criptografía: simétrica, asimétrica e hibrida",https://www.genbetadev.com/seguridad-informatica/tipos-de-criptografia-simetrica-asimetrica-e-hibrida
+594,Lobsters,crypto,Cryptography,Building Searchable Encrypted Databases with PHP and SQL,https://paragonie.com/blog/2017/05/building-searchable-encrypted-databases-with-php-and-sql
+595,Lobsters,crypto,Cryptography,AES-GCM-SIV,https://www.imperialviolet.org/2017/05/14/aesgcmsiv.html
+596,Lobsters,crypto,Cryptography,Shedding some light on the recent fatal flaws and vulnerabilities in CryptoNote-based currencies,https://bytecoin.org/news/bytecoin-2.0.2-software-update/
+597,Lobsters,crypto,Cryptography,TeslaCrypt Decrypted: Flaw in TeslaCrypt allows Victim's to Recover their Files (2016),https://www.bleepingcomputer.com/news/security/teslacrypt-decrypted-flaw-in-teslacrypt-allows-victims-to-recover-their-files/
+598,Lobsters,crypto,Cryptography,The Problem with OCSP Stapling and Must Staple and why Certificate Revocation is still broken,https://blog.hboeck.de/archives/886-The-Problem-with-OCSP-Stapling-and-Must-Staple-and-why-Certificate-Revocation-is-still-broken.html
+599,Lobsters,crypto,Cryptography,Wannacry in-memory key recovery for WinXP,https://github.com/aguinet/wannakey
+600,Lobsters,crypto,Cryptography,google/tink - a small crypto library by a group of cryptographers and security engineers at Google,https://github.com/google/tink
+601,Lobsters,crypto,Cryptography,Bit security level - e.xtendo.org,https://e.xtendo.org/scs/bit_security_level
+602,Lobsters,crypto,Cryptography,Why Quantum Computers Might Not Break Cryptography,https://www.quantamagazine.org/why-quantum-computers-might-not-break-cryptography/
+603,Lobsters,crypto,Cryptography,commit regarding boot-time rng,http://marc.info/?l=openbsd-tech&m=149483572402438&w=2
+604,Lobsters,crypto,Cryptography,Leaked UK document mandates encryption backdoors,https://act.openmedia.org/saveoursecurityuk
+605,Lobsters,crypto,Cryptography,"NHS hit by ransomware attack, hospitals across country shutting down",https://www.theregister.co.uk/2017/05/12/nhs_hospital_shut_down_due_to_cyber_attack/
+606,Lobsters,crypto,Cryptography,The internet mystery that has the world baffled (2013),http://www.telegraph.co.uk/technology/internet/10468112/The-internet-mystery-that-has-the-world-baffled.html
+607,Lobsters,crypto,Cryptography,Security review of TLS1.3 0-RTT,https://www.ietf.org/mail-archive/web/tls/current/msg23051.html
+608,Lobsters,crypto,Cryptography,Syncthing,https://syncthing.net/
+609,Lobsters,crypto,Cryptography,PLEASE REMAIN CALM: Solving the Owl Sector ARG,https://fatebringer.net/please-remain-calm/
+610,Lobsters,crypto,Cryptography,How I got an FBI record at age 11 from dabbling in cryptography,http://web.stanford.edu/~learnest/les/crypto.htm
+611,Lobsters,crypto,Cryptography,The tikzpeople LaTeX package,http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf
+612,Lobsters,crypto,Cryptography,"NNCP, a collection of utilities simplifying secure store-and-forward files and mail exchanging",http://www.nncpgo.org/
+613,Lobsters,crypto,Cryptography,Top 10 Developer Crypto Mistakes,https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/
+614,Lobsters,crypto,Cryptography,WireGuard Package Released for Ubiquiti EdgeRouter,https://community.ubnt.com/t5/EdgeMAX/Release-WireGuard-for-EdgeRouter/td-p/1904764
+615,Lobsters,crypto,Cryptography,Exploring Zero-Knowledge Proofs (2016),http://manishearth.github.io/blog/2016/03/05/exploring-zero-knowledge-proofs/
+616,Lobsters,crypto,Cryptography,Introduction to Certificate Transparency for Server Operators,https://alexgaynor.net/2017/apr/17/certificate-transparency-for-server-operators/
+617,Lobsters,crypto,Cryptography,Statement regarding Dmitry Bogatov (Debian/Tor developer and relay operator arrested),https://blog.torproject.org/blog/statement-regarding-dmitry-bogatov
+618,Lobsters,crypto,Cryptography,OpenSSL Relicensing: An Objection,http://callfortesting.org/openssl/
+619,Lobsters,crypto,Cryptography,Identifying HTTPS-Protected Netflix Videos in Real-Time,http://www.mjkranch.com/docs/CODASPY17_Kranch_Reed_IdentifyingHTTPSNetflix.pdf
+620,Lobsters,crypto,Cryptography,Anomalous keys in Tor relays,https://nymity.ch/anomalous-tor-keys/pdf/anomalous-tor-keys.pdf
+621,Lobsters,crypto,Cryptography,One Line of Code that Compromises Your Server,https://martinfowler.com/articles/session-secret.html
+622,Lobsters,crypto,Cryptography,Love in the Time of Cryptography,https://backchannel.com/love-in-the-time-of-cryptography-dd3a74193ffb
+623,Lobsters,crypto,Cryptography,"DJB: Break a dozen secret keys, get a million more for free [2015]",https://blog.cr.yp.to/20151120-batchattacks.html
+624,Lobsters,crypto,Cryptography,Upgrade your SSH keys!,https://blog.g3rt.nl/upgrade-your-ssh-keys.html
+625,Lobsters,crypto,Cryptography,CRLite: A Scalable System for Pushing All TLS Revocations to All Browsers,http://www.ccs.neu.edu/home/cbw/static/pdf/larisch-oakland17.pdf
+626,Lobsters,crypto,Cryptography,Cryptography worst practices - Daniel J. Bernstein (2012),https://cr.yp.to/talks/2012.03.08-1/slides.pdf
+627,Lobsters,crypto,Cryptography,UK minister says encryption on messaging services is unacceptable,http://www.reuters.com/article/us-britain-security-rudd-idUSKBN16X0BE
+628,Lobsters,crypto,Cryptography,Catena: An efficient witnessing scheme built on Bitcoin,http://eprint.iacr.org/2016/1062.pdf
+629,Lobsters,crypto,Cryptography,"Zero Knowledge Proofs: An illustrated primer, Part 2",https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/
+630,Lobsters,crypto,Cryptography,Avoid Encrypting URL Parameters (2015),https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php
+631,Lobsters,crypto,Cryptography,Is Quantum Key Distribution Worth Using?,https://bqp.io/when-is-quantum-key-distribution-worth-using.html
+632,Lobsters,crypto,Cryptography,Tales From the Xenix Crypt,http://www.os2museum.com/wp/tales-from-the-xenix-crypt/
+633,Lobsters,crypto,Cryptography,Crypto-Ransomware: What are we waiting for?,/s/88zadl/crypto_ransomware_what_are_we_waiting_for
+634,Lobsters,crypto,Cryptography,Animated GIF displaying its own MD5 hash,https://twitter.com/bascule/status/838927719534477312
+635,Lobsters,crypto,Cryptography,Create your own MD5 collisions,https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html
+636,Lobsters,crypto,Cryptography,ALAS-2017-801: Heap buffer overflow in pycrypto allowing remote shell access,https://alas.aws.amazon.com/ALAS-2017-801.html
+637,Lobsters,crypto,Cryptography,0-RTT Key Exchange with Full Forward Secrecy,https://eprint.iacr.org/2017/223
+638,Lobsters,crypto,Cryptography,Clipper Chip,http://www.cryptomuseum.com/crypto/usa/clipper.htm
+639,Lobsters,crypto,Cryptography,"colliding, fast and slow",http://www.tedunangst.com/flak/post/hashing-fast-and-slow
+640,Lobsters,crypto,Cryptography,Linus Torvalds: I thought I'd write an update on git and SHA1...,https://plus.google.com/+LinusTorvalds/posts/7tp2gYWQugL
+641,Lobsters,crypto,Cryptography,BLAKE2 — fast secure hashing,https://blake2.net/
+642,Lobsters,crypto,Cryptography,Webkit breaks their SVN with shattered SHA1 PDFs,https://bugs.webkit.org/show_bug.cgi?id=168774#c29
+643,Lobsters,crypto,Cryptography,Reliably generating good passwords,http://anarc.at/blog/2017-02-18-passwords-entropy/
+644,Lobsters,crypto,Cryptography,Video calls for Signal now in public beta,https://whispersystems.org/blog/signal-video-calls-beta/
+645,Lobsters,crypto,Cryptography,"Monocypher - a small, secure, auditable, easy to use crypto library",http://loup-vaillant.fr/projects/monocypher/
+646,Lobsters,crypto,Cryptography,PHP 7.2 Adds Modern Cryptography to its Standard Library,https://dev.to/paragonie/php-72-the-first-programming-language-to-add-modern-cryptography-to-its-standard-library
+647,Lobsters,crypto,Cryptography,RC40 card cipher,http://www.tedunangst.com/flak/post/RC40-card-cipher
+648,Lobsters,crypto,Cryptography,Finding Ticketbleed (CVE-2016-9244),https://blog.filippo.io/finding-ticketbleed/
+649,Lobsters,crypto,Cryptography,Introducing Keybase Chat,https://keybase.io/blog/keybase-chat
+650,Lobsters,crypto,Cryptography,IntegriDB - Verifiable SQL for Outsourced Databases (2015),https://www.umiacs.umd.edu/~zhangyp/papers/IntegriDB.pdf
+651,Lobsters,crypto,Cryptography,Adventures in optimising ChaCha20 for Raaz,http://cse.iitk.ac.in/users/ppk/posts/2017-02-06-Adventures-in-optimising-chacha20.html
+652,Lobsters,crypto,Cryptography,Defeating Quantum Algorithms with Hash Functions,https://research.kudelskisecurity.com/2017/02/01/defeating-quantum-algorithms-with-hash-functions/
+653,Lobsters,crypto,Cryptography,The Guardian v WhatsApp,http://thlog.anfedorov.com/post/guardian-v-whatsapp/
+654,Lobsters,crypto,Cryptography,Deeper Exploration in (Free|Hardened)BSD Entropy (Part 2 of series),https://www.weaponizedawesome.com/blog/?p=173
+655,Lobsters,crypto,Cryptography,SHA512 is faster than SHA256 on x86_64,http://crypto.stackexchange.com/questions/26336/sha512-faster-than-sha256
+656,Lobsters,crypto,Cryptography,The design of Poly1305,http://loup-vaillant.fr/tutorials/poly1305-design
+657,Lobsters,crypto,Cryptography,vapidssl: a TLS client for platforms with low memory and storage,https://fuchsia.googlesource.com/vapidssl/
+658,Lobsters,crypto,Cryptography,Cryptol: The Language of Cryptography,https://github.com/GaloisInc/cryptol
+659,Lobsters,crypto,Cryptography,"Bitcoin, Blockchain and the design elements explained",https://techtake.info/2016/12/18/bitcoin-blockchain-and-the-design-elements-explained/
+660,Lobsters,crypto,Cryptography,A very casual introduction to Fully Homomorphic Encryption,https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/
+661,Lobsters,crypto,Cryptography,The True Value of Randomness: Initial Results in Hardened/FreeBSD Entropy Assessment (Part 1 of Series),https://www.weaponizedawesome.com/blog/?p=154
+662,Lobsters,crypto,Cryptography,A Plea for Responsible and Contextualized Reporting on User Security,http://technosociology.org/?page_id=1687
+663,Lobsters,crypto,Cryptography,About backdoors in Signal and other apps,https://blogs.fsfe.org/larma/2017/signal-backdoors/
+664,Lobsters,crypto,Cryptography,Zero Knowledge Communications (zkc),https://github.com/companyzero/zkc
+665,Lobsters,crypto,Cryptography,Exploring Elliptic Curve Pairings,https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627
+666,Lobsters,crypto,Cryptography,"Op-ed: I’m throwing in the towel on PGP, and I work in security",http://arstechnica.com/security/2016/12/op-ed-im-giving-up-on-pgp/
+667,Lobsters,crypto,Cryptography,There is no WhatsApp 'backdoor',https://whispersystems.org/blog/there-is-no-whatsapp-backdoor/
+668,Lobsters,crypto,Cryptography,"Google releases Key Transparency, an auditable directory for PGP keys",https://github.com/google/key-transparency
+669,Lobsters,crypto,Cryptography,Elliptic Curve Cryptography: a gentle introduction,http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+670,Lobsters,crypto,Cryptography,The design of Chacha20,http://loup-vaillant.fr/tutorials/chacha20-design
+671,Lobsters,crypto,Cryptography,Analyzing Embedded Operating System Random Number Generators,https://samvartaka.github.io/cryptanalysis/2017/01/03/33c3-embedded-rngs
+672,Lobsters,crypto,Cryptography,CCS 2016 - The Honey Badger of BFT Protocols,https://www.youtube.com/watch?v=Qone4j1hCt8
+673,Lobsters,crypto,Cryptography,OpenPGP really works,https://www.foo.be/2016/12/OpenPGP-really-works
+674,Lobsters,crypto,Cryptography,Merkle Puzzles are Optimal [2008] upd [2013],https://arxiv.org/pdf/0801.3669v3.pdf
+675,Lobsters,crypto,Cryptography,Cryptography Coding Standard,https://cryptocoding.net/index.php/Cryptography_Coding_Standard
+676,Lobsters,crypto,Cryptography,Constant-Time Crypto,https://www.bearssl.org/constanttime.html
+677,Lobsters,crypto,Cryptography,Encrypted cloud backups with Duplicity,https://www.redpill-linpro.com/sysadvent/2016/12/23/encrypted-cloud-backups-with-duplicity.html
+678,Lobsters,crypto,Cryptography,Announcing Request for Nominations for Public-Key Post-Quantum Cryptographic Algorithms,https://www.federalregister.gov/documents/2016/12/20/2016-30615/announcing-request-for-nominations-for-public-key-post-quantum-cryptographic-algorithms
+679,Lobsters,crypto,Cryptography,Signal messager circumvenes censorship (in Egypt and UAE),https://whispersystems.org/blog/doodles-stickers-censorship/
+680,Lobsters,crypto,Cryptography,Disable TKIP (WPA1) by default,https://www.mail-archive.com/source-changes@openbsd.org/msg84599.html
+681,Lobsters,crypto,Cryptography,Rolling Your Own Crypto,http://loup-vaillant.fr/articles/rolling-your-own-crypto
+682,Lobsters,crypto,Cryptography,Can or has NSA used legal powers to force weakened security of US goods?,https://www.schneier.com/blog/archives/2014/03/friday_squid_bl_420.html#c5226750
+683,Lobsters,crypto,Cryptography,Axolotl and Proteus,https://medium.com/@wireapp/axolotl-and-proteus-788519b186a7
+684,Lobsters,crypto,Cryptography,Mailpile: Too Cool for PGP,https://www.mailpile.is/blog/2016-12-13_Too_Cool_for_PGP.html
+685,Lobsters,crypto,Cryptography,"One-end encryption, stronger than end-to-end",https://github.com/veorq/oee
+686,Lobsters,crypto,Cryptography,PGP Never Gonna Give You Up,https://cpbotha.net/2016/12/11/pgp-never-gonna-give-you-up/
+687,Lobsters,crypto,Cryptography,SeaHash: Explained,https://ticki.github.io/blog/seahash-explained/
+688,Lobsters,crypto,Cryptography,zkc: Secure Communications,https://blog.decred.org/2016/12/07/zkc-Secure-Communications/
+689,Lobsters,crypto,Cryptography,"AWS re:Invent 2016: Encryption: It Was the Best of Controls, It Was the Worst of Controls (SAC306)",https://www.youtube.com/watch?v=zmMpgbIhCpw
+690,Lobsters,crypto,Cryptography,I'm giving up on PGP,https://blog.filippo.io/giving-up-on-long-term-pgp/
+691,Lobsters,crypto,Cryptography,15 reasons not to start using PGP,http://secushare.org/PGP
+692,Lobsters,crypto,Cryptography,Systematic Synthesis of Elliptic Curve Cryptography Implementations,https://people.csail.mit.edu/jgross/personal-website/papers/2017-fiat-crypto-pldi-draft.pdf
+693,Lobsters,crypto,Cryptography,CECPQ1 results,https://www.imperialviolet.org/2016/11/28/cecpq1.html
+694,Lobsters,crypto,Cryptography,Installing Debian or Devuan GNU+Linux with full disk encryption (including /boot),https://libreboot.org/docs/gnulinux/encrypted_debian.html
+695,Lobsters,crypto,Cryptography,The European Union wants to regulate cryptography?,http://blog.lukaszolejnik.com/european-union-wants-to-regulate-cryptography/
+696,Lobsters,crypto,Cryptography,The Barbie Typewriter,http://www.cryptomuseum.com/crypto/mehano/barbie/
+697,Lobsters,crypto,Cryptography,Android N Encryption,https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/
+698,Lobsters,crypto,Cryptography,PQCRYPTO videos,https://pqcrypto.eu.org/miniws/videos.html
+699,Lobsters,crypto,Cryptography,Signal Downloads Spiked After Election Results,http://motherboard.vice.com/read/signal-downloads-spiked-after-election-results
+700,Lobsters,crypto,Cryptography,Cryptographically secure random numbers in Elm,http://reversemicrowave.me/blog/2016/03/04/elm-secure-random/
+701,Lobsters,crypto,Cryptography,"An idea for encrypted, verifiable voting",https://blag.mpcsh.xyz
+702,Lobsters,crypto,Cryptography,An Advanced Intro to GnuPG,https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
+703,Lobsters,crypto,Cryptography,The X3DH Key Agreement Protocol,https://whispersystems.org/docs/specifications/x3dh/
+704,Lobsters,crypto,Cryptography,The Million-Key Question—Investigating the Origins of RSA Public Keys,https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda
+705,Lobsters,crypto,Cryptography,Why I don’t Use 2048 or 4096 RSA Key Sizes,https://blog.josefsson.org/2016/11/03/why-i-dont-use-2048-or-4096-rsa-key-sizes/
+706,Lobsters,crypto,Cryptography,BearSSL,https://www.bearssl.org
+707,Lobsters,crypto,Cryptography,"Fabric - High-level language for secure, distributed apps (2010-present)",https://www.cs.cornell.edu/projects/fabric/
+708,Lobsters,crypto,Cryptography,ZeroCash: Bitcoin Tumbling with Zero Knowledge Proofs,http://www.alexkyte.me/2016/10/zerocash-bitcoin-with-privacy.html
+709,Lobsters,crypto,Cryptography,Google AI invents its own cryptographic algorithm,http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/
+710,Lobsters,crypto,Cryptography,Λ ∘ λ: Functional Lattice Cryptography,https://eprint.iacr.org/2015/1134.pdf
+711,Lobsters,crypto,Cryptography,The XEdDSA and VXEdDSA Signature Schemes,https://whispersystems.org/docs/specifications/xeddsa/
+712,Lobsters,crypto,Cryptography,GOST cryptography – Russian Federation’s cryptographic algorithms,http://www.cypherpunks.ru/gost/English.html
+713,Lobsters,crypto,Cryptography,Verifying Wikileaks DKIM-Signatures,http://solsticlipse.com/2016/10/21/Verifying-Wikileaks-DKIM-Signatures.html
+714,Lobsters,crypto,Cryptography,"VeraCrypt audited, results published",https://ostif.org/the-veracrypt-audit-results/
+715,Lobsters,crypto,Cryptography,The Cryptopals Crypto Challenges,https://cryptopals.com/
+716,Lobsters,crypto,Cryptography,Curve 25519 enabled for Go 1.8,https://go-review.googlesource.com/#/c/30825/
+717,Lobsters,crypto,Cryptography,TLS nonce-nse,http://blog.cloudflare.com/tls-nonce-nse/
+718,Lobsters,crypto,Cryptography,NSA could put undetectable “trapdoors” in millions of crypto keys,http://arstechnica.com/security/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/
+719,Lobsters,crypto,Cryptography,A kilobit hidden SNFS discrete logarithm computation,https://eprint.iacr.org/2016/961.pdf
+720,Lobsters,crypto,Cryptography,Unhackable Application Backends for an Internet without Trust,http://www.alexkyte.me/2016/10/golem-generic-trustless-stateful-p2p.html
+721,Lobsters,crypto,Cryptography,Bitmask Email,https://bitmask.net/en/features/email
+722,Lobsters,crypto,Cryptography,Peercoin: Bitcoin without the Energy Bill,http://www.alexkyte.me/2016/10/peercoin-bitcoin-without-energy-bill.html
+723,Lobsters,crypto,Cryptography,Protocol for bypassing challenge pages using RSA blind signed tokens,https://github.com/cloudflare/challenge-bypass-specification/blob/master/ietf-internet-draft/captcha-bypass-internet-draft.txt
+724,Lobsters,crypto,Cryptography,Crypto Classics: Wiener's RSA Attack,https://sagi.io/2016/04/crypto-classics-wieners-rsa-attack/
+725,Lobsters,crypto,Cryptography,suckless conference 2016,http://suckless.org/conferences/2016
+726,Lobsters,crypto,Cryptography,Zcash Parameters And How They Will Be Generated,https://z.cash/blog/generating-zcash-parameters.html
+727,Lobsters,crypto,Cryptography,"Golem: Trustless, Distributed P2P Hosting",http://www.alexkyte.me/2016/09/golem-auditable-distributed-p2p-hosting.html
+728,Lobsters,crypto,Cryptography,Using YubiKey as a SmartCard for GPG and SSH,https://github.com/drduh/YubiKey-Guide
+729,Lobsters,crypto,Cryptography,Sabotaging Cryptosystems,https://blog.securitycompass.com/sabotaging-cryptosystems-b1b6d63c6ae7
+730,Lobsters,crypto,Cryptography,How I2P Works,http://www.alexkyte.me/2016/09/how-invisible-internet-project-i2p-works.html
+731,Lobsters,crypto,Cryptography,"Infinite Noise - Open-source, analog TRNG",https://github.com/waywardgeek/infnoise
+732,Lobsters,crypto,Cryptography,ChaosKey v1.0 Released — USB Attached True Random Number Generator,https://keithp.com/blogs/chaoskey/
+733,Lobsters,crypto,Cryptography,How Tor Works,http://www.alexkyte.me/2016/09/how-tor-works.html
+734,Lobsters,crypto,Cryptography,OpenSSL 1.1.0 Series Release Notes,https://www.openssl.org/news/openssl-1.1.0-notes.html
+735,Lobsters,crypto,Cryptography,Consensus without Trust: Cryptographic Enforcement of Distributed Protocols,http://www.alexkyte.me/2016/08/consensus-without-trust-cryptographic.html
+736,Lobsters,crypto,Cryptography,Attack of the week: 64-bit ciphers in TLS,http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html
+737,Lobsters,crypto,Cryptography,SWEET32: Birthday attacks on 64-bit block ciphers in TLS and OpenVPN,https://sweet32.info/
+738,Lobsters,crypto,Cryptography,Exploiting two buggy SRP implementations,https://www.computest.nl/blog/exploiting-two-buggy-srp-implementations/
+739,Lobsters,crypto,Cryptography,Marie on why she quit the tor project,https://shiromarieke.github.io/tor
+740,Lobsters,crypto,Cryptography,Security fixes for Libgcrypt and GnuPG 1.4 [CVE-2016-6316],https://lists.gnu.org/archive/html/info-gnu/2016-08/msg00008.html
+741,Lobsters,crypto,Cryptography,DEF CON 23 - Crypto and Privacy Village - Carlson and Doherty - Breaking CBC,https://www.youtube.com/watch?v=v0IsYNDMV7A
+742,Lobsters,crypto,Cryptography,Is Apple's Cloud Key Vault a crypto backdoor?,http://blog.cryptographyengineering.com/2016/08/is-apples-cloud-key-vault-crypto.html
+743,Lobsters,crypto,Cryptography,SAFE Network Alpha Release!,https://safenetforum.org/t/safe-network-alpha-release/10687
+744,Lobsters,crypto,Cryptography,Breaking https' AES-GCM (or a part of it),https://www.cryptologie.net/article/361/nonce-disrespecting-adversaries-practical-forgery-attacks-on-gcm-in-tls/
+745,Lobsters,crypto,Cryptography,Interactive Sudoku Zero-knowledge Proof - In Pursuit of Laziness,http://manishearth.github.io/blog/2016/08/10/interactive-sudoku-zero-knowledge-proof/
+746,Lobsters,crypto,Cryptography,A Few Thoughts on Cryptographic Engineering: How do we build encryption backdoors?,http://blog.cryptographyengineering.com/2015/04/how-do-we-build-encryption-backdors.html
+747,Lobsters,crypto,Cryptography,random failures,http://www.tedunangst.com/flak/post/random-failures
+748,Lobsters,crypto,Cryptography,"New attack steals SSNs, e-mail addresses, and more from HTTPS pages",http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/
+749,Lobsters,crypto,Cryptography,802.11ac Encryption Upgrade,https://framebyframewifi.net/2016/08/02/802-11ac-encryption-upgrade/
+750,Lobsters,crypto,Cryptography,LibreSSL 2.4.2 released,http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.4.2-relnotes.txt
+751,Lobsters,crypto,Cryptography,Python's os.urandom() in the absence of entropy [LWN.net],https://lwn.net/Articles/693189/
+752,Lobsters,crypto,Cryptography,OpenSSH 7.3 released,http://www.openssh.com/txt/release-7.3
+753,Lobsters,crypto,Cryptography,The Eerie Enigma of Cicada 3301 (2015),http://mysteriousuniverse.org/2015/03/the-eerie-enigma-of-cicada-3301/
+754,Lobsters,crypto,Cryptography,OMEMO Multi-End Message and Object Encryption,https://conversations.im/omemo/
+755,Lobsters,crypto,Cryptography,"North Korea re-opens numbers station, not used since the 50s",https://www.theguardian.com/world/2016/jul/19/north-korea-radio-broadcast-numbers-code-spies
+756,Lobsters,crypto,Cryptography,Breaking HMAC,https://pthree.org/2016/07/29/breaking-hmac/
+757,Lobsters,crypto,Cryptography,The SENPAI Protocol,http://sigtbd.csail.mit.edu/pubs/veryconference-paper10.pdf
+758,Lobsters,crypto,Cryptography,Just how bad is OpenSSL? (2012),https://lists.randombit.net/pipermail/cryptography/2012-October/003388.html
+759,Lobsters,crypto,Cryptography,IBM Pushes Blockchain into the Supply Chain,http://www.wsj.com/articles/ibm-pushes-blockchain-into-the-supply-chain-1468528824
+760,Lobsters,crypto,Cryptography,REcon 2015 - Reversing the Nintendo 64 CIC,https://www.youtube.com/watch?v=IKjtTjmXCOI
+761,Lobsters,crypto,Cryptography,Tonga (Bridge Authority) Permanent Shutdown Notice,https://trac.torproject.org/projects/tor/ticket/19690
+762,Lobsters,crypto,Cryptography,KeeThief : Methods for attacking KeePass 2.X databases,https://github.com/adaptivethreat/KeeThief
+763,Lobsters,crypto,Cryptography,The Tor Project Elects New Board of Directors | The Tor Blog,https://blog.torproject.org/blog/tor-project-elects-new-board%C2%A0-directors
+764,Lobsters,crypto,Cryptography,"Problems with Bruce Schneier's ""Solitaire"" (2001)",http://www.ciphergoth.org/crypto/solitaire/
+765,Lobsters,crypto,Cryptography,Messenger Secret Conversations Technical Whitepaper,https://fbnewsroomus.files.wordpress.com/2016/07/secret_conversations_whitepaper.pdf
+766,Lobsters,crypto,Cryptography,Pijul - Thrussh (ssh implementation in rust),http://pijul.org/thrussh/
+767,Lobsters,crypto,Cryptography,Experimenting with Post-Quantum Cryptography,https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html
+768,Lobsters,crypto,Cryptography,The Matrix Summer Special!! | Matrix.org (e2e crypto nearly ready),https://matrix.org/blog/2016/07/04/the-matrix-summer-special/
+769,Lobsters,crypto,Cryptography,A Stick Figure Guide to the Advanced Encryption Standard (AES),http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+770,Lobsters,crypto,Cryptography,If You’re Typing the Letters A-E-S Into Your Code You’re Doing It Wrong,https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2009/july/if-youre-typing-the-letters-a-e-s-into-your-code-youre-doing-it-wrong/
+771,Lobsters,crypto,Cryptography,Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption,http://bits-please.blogspot.com/2016/06/extracting-qualcomms-keymaster-keys.html
+772,Lobsters,crypto,Cryptography,52 Things People Should Know To Do Cryptography,http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
+773,Lobsters,crypto,Cryptography,The Urbit crowdsale is now live,https://sale.urbit.org/
+774,Lobsters,crypto,Cryptography,"Graffiti Networks: A Subversive, Internet-Scale File Sharing Model (2011)",https://arxiv.org/pdf/1101.0350.pdf
+775,Lobsters,crypto,Cryptography,Understanding the SAFE Consensus,https://blog.maidsafe.net/2016/06/23/introduction-technical-overview-of-safe-consensus/
+776,Lobsters,crypto,Cryptography,Apple confirms iOS kernel code left unencrypted intentionally,https://techcrunch.com/2016/06/22/apple-unencrypted-kernel/
+777,Lobsters,crypto,Cryptography,Order-Revealing Encryption,https://crypto.stanford.edu/ore/
+778,Lobsters,crypto,Cryptography,The Biggest Crowdfunding Project Ever—the DAO—Is Kind of a Mess,http://www.wired.com/2016/06/biggest-crowdfunding-project-ever-dao-mess/
+779,Lobsters,crypto,Cryptography,Urbit - A personal server,https://urbit.org/posts/overview/
+780,Lobsters,crypto,Cryptography,Cryptographic Agility,https://www.imperialviolet.org/2016/05/16/agility.html
+781,Lobsters,crypto,Cryptography,"Mid-2016 Tor bug retrospective, with lessons for future coding | The Tor Blog",https://blog.torproject.org/blog/mid-2016-tor-bug-retrospective-lessons-future-coding
+782,Lobsters,crypto,Cryptography,Effective Spam Filtering with Encrypted Email,https://protonmail.com/blog/encrypted-email-spam-filtering/
+783,Lobsters,crypto,Cryptography,Open Whisper Systems partners with Google on end-to-end encryption for Allo,https://whispersystems.org/blog/allo/
+784,Lobsters,crypto,Cryptography,Judge refuses attempt to force alleged hacker Lauri Love to hand over passwords,http://www.telegraph.co.uk/technology/2016/05/10/judge-refuses-attempt-to-force-alleged-hacker-lauri-love-to-hand/
+785,Lobsters,crypto,Cryptography,Why is nobody using SSL client certificates? (2008),https://pilif.github.io/2008/05/why-is-nobody-using-ssl-client-certificates/
+786,Lobsters,crypto,Cryptography,Announcing Certbot: EFF's Client for Let's Encrypt,https://www.eff.org/deeplinks/2016/05/announcing-certbot-new-tls-robot
+787,Lobsters,crypto,Cryptography,Reflections: The ecosystem is moving,https://whispersystems.org/blog/the-ecosystem-is-moving/
+788,Lobsters,crypto,Cryptography,Questions about torrents and blockchains,/s/azgqny/questions_about_torrents_blockchains
+789,Lobsters,crypto,Cryptography,Coding messages within the emission spectra of a unimolecular fluorescent sensor,http://www.nature.com/ncomms/2016/160503/ncomms11374/full/ncomms11374.html
+790,Lobsters,crypto,Cryptography,Handbook of Applied Cryptography,http://cacr.uwaterloo.ca/hac/
+791,Lobsters,crypto,Cryptography,"Decentralised, autonomous SAFE Network enters public alpha",https://forum.safenetwork.io/t/safe-network-test-2/9079/134
+792,Lobsters,crypto,Cryptography,STRIKE-OTR - How implementing the new OTR protocol fixed a bug in the previous one,http://blog.torchz.net/2015/09/22/strike-otr.html
+793,Lobsters,crypto,Cryptography,Introducing TAuth: Why OAuth 2.0 is bad for banking APIs and how we're fixing it,https://blog.teller.io/2016/04/26/tauth.html
+794,Lobsters,crypto,Cryptography,Efficient algorithms for supersingular isogeny Diffie-Hellman,https://eprint.iacr.org/2016/413.pdf
+795,Lobsters,crypto,Cryptography,Clef: Two-Factor Authentication From the Future,https://getclef.com
+796,Lobsters,crypto,Cryptography,Reversing the petya ransomware with constraint solvers,http://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html
+797,Lobsters,crypto,Cryptography,Linux Random Number Generator – A New Approach,http://www.chronox.de/lrng.html
+798,Lobsters,crypto,Cryptography,Cryptosense Discovery,https://discovery.cryptosense.com
+799,Lobsters,crypto,Cryptography,How Canadian Police Intercept and Read Encrypted BlackBerry Messages,http://motherboard.vice.com/read/rcmp-blackberry-project-clemenza-global-encryption-key-canada
+800,Lobsters,crypto,Cryptography,New tag suggestion: cryptography,/s/mzyfqz/new_tag_suggestion_cryptography
+801,Lobsters,crypto,Cryptography,An Analysis of OpenSSL's Random Number Generator,https://eprint.iacr.org/2016/367

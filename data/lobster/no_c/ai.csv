@@ -1,0 +1,1112 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,ai,AI-ML,Fairness and machine learning,https://fairmlbook.org/
+2,Lobsters,ai,AI-ML,Creating a Github action to detect toxic comments using TensorFlow.js,https://charliegerard.dev/blog/github-action-toxic-comments/
+3,Lobsters,ai,AI-ML,Quantum Natural Language Processing,https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
+4,Lobsters,ai,AI-ML,The ELIZA Effect,https://99percentinvisible.org/episode/the-eliza-effect/
+5,Lobsters,ai,AI-ML,Reverse engineering an AI spaceship game at DEF CON CTF,https://thume.ca/2020/08/15/ropshipai/
+6,Lobsters,ai,AI-ML,Vale is a linter for prose,https://docs.errata.ai/vale/about
+7,Lobsters,ai,AI-ML,"Understanding computer vision and AI, part 1",https://www.collabora.com/news-and-blog/blog/2020/08/13/understanding-computer-vision-and-ai-part-1/
+8,Lobsters,ai,AI-ML,Essentials of Metaheuristics (2013),https://cs.gmu.edu/~sean/book/metaheuristics/
+9,Lobsters,ai,AI-ML,Machine Learning Leaks and Where to Find Them,https://www.stratosphereips.org/blog/2020/8/12/machine-learning-leaks-and-where-to-find-them
+10,Lobsters,ai,AI-ML,TensorFlow Datasets: The Bad Parts,https://determined.ai/blog/tf-dataset-the-bad-parts/
+11,Lobsters,ai,AI-ML,Stopping deepfake news with an AI algorithm that can tell when a face doesn’t fit,https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit
+12,Lobsters,ai,AI-ML,Unbundling Data Science Workflows with Metaflow and AWS Step Functions,https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280
+13,Lobsters,ai,AI-ML,"If You Are Still Calling AI Artificial Intelligence, You Are Wrong",https://preslav.me/2020/08/07/still-calling-ai-artificial-intelligence-you-are-wrong/
+14,Lobsters,ai,AI-ML,The Deep Learning Compiler: A Comprehensive Survey,https://arxiv.org/abs/2002.03794
+15,Lobsters,ai,AI-ML,Keras for Beginners: Implementing a RNN,https://victorzhou.com/blog/keras-rnn-tutorial/
+16,Lobsters,ai,AI-ML,Multi Class Text Classification With Deep Learning Using BERT,https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
+17,Lobsters,ai,AI-ML,Why You Should Do NLP Beyond English,https://ruder.io/nlp-beyond-english/
+18,Lobsters,ai,AI-ML,Photoreal Roman Emperor Project,https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f
+19,Lobsters,ai,AI-ML,Automated decryption tool using AI and NLP similar to CyberChef's Magic,https://github.com/Ciphey/Ciphey
+20,Lobsters,ai,AI-ML,"An extremely fast, Pytorch-style Tensor+Autograd library written in Rust",https://github.com/bkkaggle/L2
+21,Lobsters,ai,AI-ML,How GPT3 Works - Visualizations and Animations,https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+22,Lobsters,ai,AI-ML,Computation graphs and graph computation,http://breandan.net/2020/06/30/graph-computation/
+23,Lobsters,ai,AI-ML,"Jupyter notebooks from ""Python for Probability, Statistics, and Machine Learning"" book",https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E
+24,Lobsters,ai,AI-ML,Adversarial Machine Learning and the CFAA,https://www.schneier.com/blog/archives/2020/07/adversarial_mac_1.html
+25,Lobsters,ai,AI-ML,nlc2cmd: English to Bash challenge,http://nlc2cmd.us-east.mybluemix.net/#/
+26,Lobsters,ai,AI-ML,Fairness and machine learning,https://fairmlbook.org/
+27,Lobsters,ai,AI-ML,Creating a Github action to detect toxic comments using TensorFlow.js,https://charliegerard.dev/blog/github-action-toxic-comments/
+28,Lobsters,ai,AI-ML,Quantum Natural Language Processing,https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
+29,Lobsters,ai,AI-ML,The ELIZA Effect,https://99percentinvisible.org/episode/the-eliza-effect/
+30,Lobsters,ai,AI-ML,Reverse engineering an AI spaceship game at DEF CON CTF,https://thume.ca/2020/08/15/ropshipai/
+31,Lobsters,ai,AI-ML,Vale is a linter for prose,https://docs.errata.ai/vale/about
+32,Lobsters,ai,AI-ML,"Understanding computer vision and AI, part 1",https://www.collabora.com/news-and-blog/blog/2020/08/13/understanding-computer-vision-and-ai-part-1/
+33,Lobsters,ai,AI-ML,Essentials of Metaheuristics (2013),https://cs.gmu.edu/~sean/book/metaheuristics/
+34,Lobsters,ai,AI-ML,Machine Learning Leaks and Where to Find Them,https://www.stratosphereips.org/blog/2020/8/12/machine-learning-leaks-and-where-to-find-them
+35,Lobsters,ai,AI-ML,TensorFlow Datasets: The Bad Parts,https://determined.ai/blog/tf-dataset-the-bad-parts/
+36,Lobsters,ai,AI-ML,Stopping deepfake news with an AI algorithm that can tell when a face doesn’t fit,https://spie.org/news/stopping-deepfake-news-with-an-ai-algorithm-that-can-tell-when-a-face-doesnt-fit
+37,Lobsters,ai,AI-ML,Unbundling Data Science Workflows with Metaflow and AWS Step Functions,https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280
+38,Lobsters,ai,AI-ML,"If You Are Still Calling AI Artificial Intelligence, You Are Wrong",https://preslav.me/2020/08/07/still-calling-ai-artificial-intelligence-you-are-wrong/
+39,Lobsters,ai,AI-ML,The Deep Learning Compiler: A Comprehensive Survey,https://arxiv.org/abs/2002.03794
+40,Lobsters,ai,AI-ML,Keras for Beginners: Implementing a RNN,https://victorzhou.com/blog/keras-rnn-tutorial/
+41,Lobsters,ai,AI-ML,Multi Class Text Classification With Deep Learning Using BERT,https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
+42,Lobsters,ai,AI-ML,Why You Should Do NLP Beyond English,https://ruder.io/nlp-beyond-english/
+43,Lobsters,ai,AI-ML,Photoreal Roman Emperor Project,https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f
+44,Lobsters,ai,AI-ML,Automated decryption tool using AI and NLP similar to CyberChef's Magic,https://github.com/Ciphey/Ciphey
+45,Lobsters,ai,AI-ML,"An extremely fast, Pytorch-style Tensor+Autograd library written in Rust",https://github.com/bkkaggle/L2
+46,Lobsters,ai,AI-ML,How GPT3 Works - Visualizations and Animations,https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+47,Lobsters,ai,AI-ML,Computation graphs and graph computation,http://breandan.net/2020/06/30/graph-computation/
+48,Lobsters,ai,AI-ML,"Jupyter notebooks from ""Python for Probability, Statistics, and Machine Learning"" book",https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E
+49,Lobsters,ai,AI-ML,Adversarial Machine Learning and the CFAA,https://www.schneier.com/blog/archives/2020/07/adversarial_mac_1.html
+50,Lobsters,ai,AI-ML,nlc2cmd: English to Bash challenge,http://nlc2cmd.us-east.mybluemix.net/#/
+51,Lobsters,ai,AI-ML,OpenAI's GPT-3 may be the biggest thing since bitcoin,https://maraoz.com/2020/07/18/openai-gpt3/
+52,Lobsters,ai,AI-ML,OpenAI GPT-3: Creative Potential of NLP,https://towardsdatascience.com/gpt-3-creative-potential-of-nlp-d5ccae16c1ab
+53,Lobsters,ai,AI-ML,"DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning",https://arxiv.org/abs/2006.08381
+54,Lobsters,ai,AI-ML,Learning Differential Equations that are Easy to Solve,https://arxiv.org/abs/2007.04504
+55,Lobsters,ai,AI-ML,Graphcore Takes on Nvidia with Second-Gen AI Accelerator,https://www.eetimes.com/graphcore-takes-on-nvidia-with-second-gen-ai-accelerator/
+56,Lobsters,ai,AI-ML,MENACE: Machine Educable Noughts And Crosses Engine (2015),http://www.mscroggs.co.uk/blog/19
+57,Lobsters,ai,AI-ML,Giving GPT-3 a Turing Test,http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+58,Lobsters,ai,AI-ML,"Image ""Cloaking"" for Personal Privacy",http://sandlab.cs.uchicago.edu/fawkes/
+59,Lobsters,ai,AI-ML,Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation,https://www.aclweb.org/anthology/D19-1009.pdf
+60,Lobsters,ai,AI-ML,Strong Generalization and Efficiency in Neural Programs,https://arxiv.org/pdf/2007.03629
+61,Lobsters,ai,AI-ML,Testing Firefox more efficiently with machine learning,https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/
+62,Lobsters,ai,AI-ML,Serving Findka's recommendations via libpython-clj,https://findka.com/blog/libpython-clj/
+63,Lobsters,ai,AI-ML,CML - Continuous Integration for Machine Learning,https://cml.dev/
+64,Lobsters,ai,AI-ML,GPT-3 Creative Fiction,https://www.gwern.net/GPT-3
+65,Lobsters,ai,AI-ML,OpenAI Code Completion Demo,https://vimeo.com/426819809/208d3c9b41
+66,Lobsters,ai,AI-ML,Should the Monster Play Fair?: Reception of Artificial Intelligence in Alien: Isolation,http://gamestudies.org/2002/articles/jaroslav_svelch
+67,Lobsters,ai,AI-ML,Learning to Cartoonize Using White-box Cartoon Representations,https://github.com/SystemErrorWang/White-box-Cartoonization
+68,Lobsters,ai,AI-ML,Vaughan Pratt's Cyc Report (1994),http://boole.stanford.edu/pub/cyc.report
+69,Lobsters,ai,AI-ML,Do machines actually beat doctors? (2016),https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/
+70,Lobsters,ai,AI-ML,Amazon Distance Assistant - Privacy Safe Social Distance Detector,https://github.com/amzn/distance-assistant
+71,Lobsters,ai,AI-ML,6 best programming languages for AI development (2019),https://www.infoworld.com/article/3186599/6-best-programming-languages-for-ai-development.html
+72,Lobsters,ai,AI-ML,Handwriting Recognition Technology in the Newton's Second Generation “Print Recognizer” (2004),http://wwnc.newtontalk.net/2004/program/larryyaeger/slides-larryyaeger.pdf
+73,Lobsters,ai,AI-ML,Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network: A step-by-step guide,https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md
+74,Lobsters,ai,AI-ML,GPU accelerated ML training inside the Windows Subsystem for Linux,https://blogs.windows.com/windowsdeveloper/2020/06/17/gpu-accelerated-ml-training-inside-the-windows-subsystem-for-linux/
+75,Lobsters,ai,AI-ML,Image GPT: model trained on pixel sequences can generate coherent image completions,https://openai.com/blog/image-gpt/
+76,Lobsters,ai,AI-ML,Can your AI differentiate cats from CoViD-19?,https://www.researchgate.net/publication/342183520_Can_Your_AI_Differentiate_Cats_from_Covid-19_Sample_Efficient_Uncertainty_Estimation_for_Deep_Learning_Safety
+77,Lobsters,ai,AI-ML,PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization,https://shunsukesaito.github.io/PIFu/
+78,Lobsters,ai,AI-ML,AI - the no bullshit approach,https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/
+79,Lobsters,ai,AI-ML,The Illustrated Transformer (2018),https://jalammar.github.io/illustrated-transformer/
+80,Lobsters,ai,AI-ML,A dynamic multilevel Bayesian model to predict US presidential elections,https://github.com/TheEconomist/us-potus-model
+81,Lobsters,ai,AI-ML,Getting machine learning to production,http://veekaybee.github.io/2020/06/09/ml-in-prod/
+82,Lobsters,ai,AI-ML,No Hands Across America,https://www.cs.cmu.edu/~tjochem/nhaa/nhaa_home_page.html
+83,Lobsters,ai,AI-ML,"GLTR, a tool to detect automatically generated text",http://gltr.io/
+84,Lobsters,ai,AI-ML,No Fear for Deep Learning,https://guillaume-chevalier.com/no-fear-for-deep-learning/
+85,Lobsters,ai,AI-ML,Measuring Fairness,https://pair.withgoogle.com/explorables/measuring-fairness/
+86,Lobsters,ai,AI-ML,"Deep Learning, NLP, and Representations - colah's blog [2014]",http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+87,Lobsters,ai,AI-ML,PAC-MAN Recreated with AI by NVIDIA Researchers,https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/
+88,Lobsters,ai,AI-ML,OpenAI Model Generates Python Code,https://www.youtube.com/watch?v=fZSFNUT6iY8
+89,Lobsters,ai,AI-ML,Recipes generator (RNN + TensorFlow),https://trekhleb.github.io/machine-learning-experiments/#/experiments/RecipeGenerationRNN
+90,Lobsters,ai,AI-ML,Spiking Neural Networks: Research Projects or Commercial Products?,https://semiengineering.com/spiking-neural-networks-research-projects-or-commercial-products/
+91,Lobsters,ai,AI-ML,Soss: Probabilistic Programming with Julia,https://notamonadtutorial.com/soss-probabilistic-programming-with-julia-6acc5add5549
+92,Lobsters,ai,AI-ML,The Nooscope — a visual manifesto of the limits of AI,https://www.skynettoday.com/editorials/nooscope
+93,Lobsters,ai,AI-ML,"What Is bfloat16, Anyway?",https://www.eejournal.com/article/what-is-bfloat16-anyway/
+94,Lobsters,ai,AI-ML,Deep Learning on Image abstractions of files to detect malware: STAMINA,https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/
+95,Lobsters,ai,AI-ML,How Cloudflare manages bots using machine learning,https://blog.cloudflare.com/cloudflare-bot-management-machine-learning-and-more/
+96,Lobsters,ai,AI-ML,Mozilla research shows some machine voices score higher than humans,https://blog.mozilla.org/blog/2020/05/07/mozilla-research-shows-some-machine-voices-score-higher-than-humans/
+97,Lobsters,ai,AI-ML,Open-Unmix - Music Source Separation for PyTorch,https://sigsep.github.io/open-unmix/
+98,Lobsters,ai,AI-ML,Kotlingrad: Shape-Safe Differentiable Programming with Algebraic Data Types,https://github.com/breandan/kotlingrad
+99,Lobsters,ai,AI-ML,"Never Gonna Give You Up, but an AI attempts to continuously generate more of the song",https://www.youtube.com/watch?v=iJgNpm8cTE8
+100,Lobsters,ai,AI-ML,Julia library for fast machine learning,https://turing.ml/dev/
+101,Lobsters,ai,AI-ML,"We Chat, They Watch: How China spies the world to better censor its citizens",https://citizenlab.ca/2020/05/we-chat-they-watch/
+102,Lobsters,ai,AI-ML,This Fursona Does Not Exist,https://thisfursonadoesnotexist.com/
+103,Lobsters,ai,AI-ML,9 Examples of Specification Gaming,https://www.youtube.com/watch?v=nKJlF-olKmg
+104,Lobsters,ai,AI-ML,Interactive Machine Learning Experiments,https://github.com/trekhleb/machine-learning-experiments
+105,Lobsters,ai,AI-ML,Named Distributions as Artifacts,https://blog.cerebralab.com/Named_Distributions_as_Artifacts
+106,Lobsters,ai,AI-ML,"Computers Do Not Make Art, People Do",https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext
+107,Lobsters,ai,AI-ML,Learning to Prove Theorems via Interacting with Proof Assistants,https://arxiv.org/abs/1905.09381
+108,Lobsters,ai,AI-ML,Building Recommender Systems - A Curated Collection of Posts,https://flipboard.com/@arnie0426/building-recommender-systems-nvue3iqtgrn10t45
+109,Lobsters,ai,AI-ML,The Story of Facade: The AI-Powered Interactive Drama,https://gamasutra.com/blogs/TommyThompson/20200423/361473/The_Story_of_Facade_The_AIPowered_Interactive_Drama.php
+110,Lobsters,ai,AI-ML,The Poet of Logic Programming (interview with Robert Kowalski),https://thesearch.space/episodes/1-the-poet-of-logic-programming
+111,Lobsters,ai,AI-ML,BentoML: an open-source platform for high-performance model serving,https://www.reddit.com/r/MachineLearning/comments/g1cfre/p_bentoml_an_opensource_platform_for/
+112,Lobsters,ai,AI-ML,Specification gaming: the flip side of AI ingenuity,https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity
+113,Lobsters,ai,AI-ML,PyTorch 1.5 released,https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/
+114,Lobsters,ai,AI-ML,The Poetic Hivemind,https://tofu.wtf/poems/
+115,Lobsters,ai,AI-ML,ImageNet-trained CNNs are biased towards texture,https://openreview.net/forum?id=Bygh9j09KX
+116,Lobsters,ai,AI-ML,OpenAI Microscope,https://microscope.openai.com/models
+117,Lobsters,ai,AI-ML,Building an end-to-end Speech Recognition model in PyTorch,https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch
+118,Lobsters,ai,AI-ML,"Shift AI, a free online conference about the future of AI",https://ai.shiftconf.co/
+119,Lobsters,ai,AI-ML,Serving Models with Seldon,https://ruivieira.dev/serving-models-with-seldon.html
+120,Lobsters,ai,AI-ML,Learning from Small Neural Networks,https://medium.com/make-computer-science-fun-again/learning-from-small-neural-networks-6bc5ffc2f3d3?source=friends_link
+121,Lobsters,ai,AI-ML,Teaching a computer to strafe jump in Quake with reinforcement learning,https://www.youtube.com/watch?v=hx7kvTZLHYI
+122,Lobsters,ai,AI-ML,3D Photography using Context-aware Layered Depth Inpainting,https://shihmengli.github.io/3D-Photo-Inpainting/
+123,Lobsters,ai,AI-ML,RFC: a practical mechanism for applying Machine Learning for optimization policies in LLVM,http://lists.llvm.org/pipermail/llvm-dev/2020-April/140763.html
+124,Lobsters,ai,AI-ML,Systems that defy detailed understanding,https://blog.nelhage.com/post/systems-that-defy-understanding/
+125,Lobsters,ai,AI-ML,The Unfriendly Robot: Automatically flagging unwelcoming comments,https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/
+126,Lobsters,ai,AI-ML,Automatically finding Codenames clues with GloVe vectors,https://jsomers.net/glove-codenames/
+127,Lobsters,ai,AI-ML,When to assume neural networks can solve a problem,https://blog.cerebralab.com/When_to_assume_neural_networks_can_solve_a_problem
+128,Lobsters,ai,AI-ML,The Artificial “Intelligence” Scam is Imploding,https://medium.com/@seibelj/the-artificial-intelligence-scam-is-imploding-34b156c3537e
+129,Lobsters,ai,AI-ML,Oceans of code programming challenge,https://www.codingame.com/contests/ocean-of-code
+130,Lobsters,ai,AI-ML,NeRF: Neural Radiance Fields,http://www.matthewtancik.com/nerf
+131,Lobsters,ai,AI-ML,Growing Neat Software Architecture from Jupyter Notebooks,https://www.youtube.com/watch?v=K4QN27IKr0g
+132,Lobsters,ai,AI-ML,Neuroevolution of Self-Interpretable Agents,https://arxiv.org/pdf/2003.08165
+133,Lobsters,ai,AI-ML,Enter your chess.com name and see the mistakes you make most often,https://chesscoach.network/
+134,Lobsters,ai,AI-ML,Face and hand tracking in the browser with MediaPipe and TensorFlow.js,https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html
+135,Lobsters,ai,AI-ML,ProGAN For Humans,https://github.com/dulaku/ProGAN-for-Humans
+136,Lobsters,ai,AI-ML,Knowledge Graphs,https://arxiv.org/abs/2003.02320
+137,Lobsters,ai,AI-ML,A Case For Embeddings In Recommendation Problems,https://abhadury.com/articles/2020-03/embeddings-for-recommender-systems
+138,Lobsters,ai,AI-ML,Phishytics - Machine Learning for Detecting Phishing Websites,https://faizanahmad.tech/blog/2020/02/phishytics-machine-learning-for-phishing-websites-detection/
+139,Lobsters,ai,AI-ML,Single Board Computer for AI toy,/s/seksev/single_board_computer_for_ai_toy
+140,Lobsters,ai,AI-ML,Math is your insurance policy,https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/
+141,Lobsters,ai,AI-ML,Pitch Detection with Convolutional Networks,http://0xfe.blogspot.com/2020/02/pitch-detection-with-convolutional.html
+142,Lobsters,ai,AI-ML,Using neural networks to solve advanced mathematics equations,https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/
+143,Lobsters,ai,AI-ML,Machine Learning for Beginners: An Introduction to Neural Networks - victorzhou.com,https://victorzhou.com/blog/intro-to-neural-networks/
+144,Lobsters,ai,AI-ML,"What are spiking neural networks, and why are they the future?",https://martijnvwezel.com/blogs/spiking_neural_networks/
+145,Lobsters,ai,AI-ML,Programs with Common Sense (1959),http://www-formal.stanford.edu/jmc/mcc59.pdf
+146,Lobsters,ai,AI-ML,Genetic programming is waiting for better tools,https://www.youtube.com/watch?v=Z5f1SDv-SCk
+147,Lobsters,ai,AI-ML,The coming IP war over facts derived from books,https://abe-winter.github.io/2020/02/11/books-facts-ip.html
+148,Lobsters,ai,AI-ML,"Moore's Law, Microprocessors, Abstractions, and First Principles",https://www.youtube.com/watch?v=Nb2tebYAaOA
+149,Lobsters,ai,AI-ML,Survey of Automated Vulnerability Detection and Exploit Generation Techniques in C.R.S.'s (2018),https://arxiv.org/pdf/1702.06162.pdf
+150,Lobsters,ai,AI-ML,Rethinking the maturity of artificial intelligence in safety-critical settings,http://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u39/2020-min.pdf
+151,Lobsters,ai,AI-ML,Algorithmic realism,https://dl.acm.org/doi/abs/10.1145/3351095.3372840
+152,Lobsters,ai,AI-ML,Limitations & Caveats of Scikit-Learn (+ Solutions),https://www.neuraxio.com/en/blog/scikit-learn/2020/01/03/what-is-wrong-with-scikit-learn.html
+153,Lobsters,ai,AI-ML,Artist Style Transfer Via Quadratic Potential,https://github.com/rahulbhalley/cyclegan-qp
+154,Lobsters,ai,AI-ML,Tensor Flow bindings for Rust,https://github.com/tensorflow/rust
+155,Lobsters,ai,AI-ML,An Opinionated Guide to ML Research,http://joschu.net/blog/opinionated-guide-ml-research.html
+156,Lobsters,ai,AI-ML,PCGRL: Procedural Content Generation via Reinforcement Learning,https://arxiv.org/abs/2001.09212
+157,Lobsters,ai,AI-ML,If Van der Waals was a neural network,https://blog.cerebralab.com/If_Van_der_Waals_was_a_neural_network
+158,Lobsters,ai,AI-ML,Running OpenAI with in Clojure and libpython-clj,https://gist.github.com/kstrempel/3b2f707c2f9019e55f4721b3a80cfbf2
+159,Lobsters,ai,AI-ML,"How a Kaggle Grandmaster cheated in $25,000 AI contest with hidden code – and was fired from dream SV job",https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/
+160,Lobsters,ai,AI-ML,"I'm building an open, crowdsourced ML model database",https://docs.google.com/spreadsheets/d/1ehKtQeuZKnE9R0JUFuRsV6B82p9KYkLKF7cMA7nH2cA/edit#gid=0
+161,Lobsters,ai,AI-ML,Forecasting time series with a seq2seq RNN in TensorFlow,https://github.com/guillaume-chevalier/seq2seq-signal-prediction
+162,Lobsters,ai,AI-ML,A Sober Look at Bayesian Neural Networks,https://jacobbuckman.com/2020-01-17-a-sober-look-at-bayesian-neural-networks/
+163,Lobsters,ai,AI-ML,Drawing with Ants: Generative Art with Ant Colony Optimization Algorithms,http://amydyer.art/wp/index.php/2020/01/01/drawing-with-ants-generative-art-with-ant-colony-optimization-algorithms/
+164,Lobsters,ai,AI-ML,Software writes Software — Program Synthesis 101 (2019),https://medium.com/@vidiborskiy/software-writes-software-program-synthesis-101-294a9a35177
+165,Lobsters,ai,AI-ML,Differentiable Digital Signal Processing: Online Supplement,https://storage.googleapis.com/ddsp/index.html
+166,Lobsters,ai,AI-ML,Why Your AI Project is Going to Fail,https://medium.com/@alexbratton/why-your-ai-project-is-going-to-fail-f03972f5b9f9
+167,Lobsters,ai,AI-ML,Intelligence & Spirit (by Reza Negarestani): some notes and discussions,https://flowing.systems/2020/01/15/intelligence-spirit-by-reza-negarestani-some-notes-and-discussions.html
+168,Lobsters,ai,AI-ML,How To Train Interpretable Neural Networks That Accurately Extrapolate From Small Data,http://www.stochasticlifestyle.com/how-to-train-interpretable-neural-networks-that-accurately-extrapolate-from-small-data/
+169,Lobsters,ai,AI-ML,AI’s Phoenix Project Moment,https://towardsdatascience.com/ais-phoenix-project-moment-b51f581711d8
+170,Lobsters,ai,AI-ML,Team Builds the First Living Robots,https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots
+171,Lobsters,ai,AI-ML,A demo of a Visual Question Answering model trained on easy-VQA,https://easy-vqa-demo.victorzhou.com/
+172,Lobsters,ai,AI-ML,Hugging Face GPT With Clojure,http://gigasquid.github.io/blog/2020/01/10/hugging-face-gpt-with-clojure/
+173,Lobsters,ai,AI-ML,Easy Visual Question Answering,https://victorzhou.com/blog/easy-vqa/
+174,Lobsters,ai,AI-ML,VerifAI: A Toolkit for the Formal Design and Analysis of Artificial Intelligence-Based Systems,https://link.springer.com/chapter/10.1007/978-3-030-25540-4_25
+175,Lobsters,ai,AI-ML,A Very Unlikely Chess Game,https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
+176,Lobsters,ai,AI-ML,NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning,https://arxiv.org/abs/1909.13639
+177,Lobsters,ai,AI-ML,TensorFlow for R,https://tensorflow.rstudio.com/
+178,Lobsters,ai,AI-ML,What's wrong with Scikit-Learn,https://www.neuraxio.com/en/blog/scikit-learn/2020/01/03/what-is-wrong-with-scikit-learn.html
+179,Lobsters,ai,AI-ML,confusing coleopterists,https://www.cunicode.com/works/confusing-coleopterists
+180,Lobsters,ai,AI-ML,Growing Human Neurons Connected to a Computer,https://www.youtube.com/watch?v=V2YDApNRK3g
+181,Lobsters,ai,AI-ML,open source clone of Instagram / Snapchat face detection filter,https://filtrou.me/build-one-yourself/
+182,Lobsters,ai,AI-ML,Using ML to Block BGP Hijacking,https://www.usenix.org/publications/login/winter2019/camp
+183,Lobsters,ai,AI-ML,Sort By Controversial,https://slatestarcodex.com/2018/10/30/sort-by-controversial/
+184,Lobsters,ai,AI-ML,Porting Flask to FastAPI for ML Model Serving,https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/
+185,Lobsters,ai,AI-ML,What problem does BERT hope to solve for search?,https://opensourceconnections.com/blog/2019/12/18/bert-and-search-relevance-part2-dense-vs-sparse/
+186,Lobsters,ai,AI-ML,Dive into Deep Learning Compiler,http://tvm.d2l.ai/
+187,Lobsters,ai,AI-ML,Outside the Closed World: On Using Machine Learning for Network Intrusion Detection (2010),https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf
+188,Lobsters,ai,AI-ML,Neural networks as non-leaky mathematical abstraction,https://blog.cerebralab.com/Neural_networks_as_non-leaky_mathematical_abstraction
+189,Lobsters,ai,AI-ML,Tensorflow.js available on WebAssembly backend,https://yashints.dev/blog/2019/12/17/tfjs-wasm
+190,Lobsters,ai,AI-ML,Owning Intelligence,https://www.cigionline.org/articles/owning-intelligence
+191,Lobsters,ai,AI-ML,Negative Latency,https://nolannicholson.com/latency.html
+192,Lobsters,ai,AI-ML,Play AI Dungeon 2. Become a dragon. Eat the moon,https://aiweirdness.com/post/189511103367/play-ai-dungeon-2-become-a-dragon-eat-the-moon
+193,Lobsters,ai,AI-ML,Neuraxle - A Python Framework for Hyperparameter Tuning,https://github.com/Neuraxio/Neuraxle
+194,Lobsters,ai,AI-ML,Deepfake Detection Challenge launches with new data set and Kaggle site,https://ai.facebook.com/blog/deepfake-detection-challenge-launches-with-new-data-set-and-kaggle-site/
+195,Lobsters,ai,AI-ML,Democratizing AI – Finland offers free AI education to every EU citizen,https://www.elementsofai.com/eu2019fi
+196,Lobsters,ai,AI-ML,Applying Artificial Intelligence to Handicapping NES Tetris,https://meatfighter.com/handicappedtetris/
+197,Lobsters,ai,AI-ML,NanoNeuron - 7 simple JavaScript functions that will give you a feeling of how machines can learn,https://github.com/trekhleb/nano-neuron
+198,Lobsters,ai,AI-ML,Open source library and trained models for speech recognition,https://github.com/at16k/at16k
+199,Lobsters,ai,AI-ML,Interactive Programming for Artificial Intelligence,https://www.youtube.com/watch?v=m0rSJ9xdsdk
+200,Lobsters,ai,AI-ML,"If It Works, It’s Not AI: A Commercial Look at Artificial Intelligence Startups (1999)",https://web.archive.org/web/20110629172854/http://www.sts.tu-harburg.de/~r.f.moeller/symbolics-info/ai-business.pdf
+201,Lobsters,ai,AI-ML,nbdev: use Jupyter Notebooks for everything,https://www.fast.ai/2019/12/02/nbdev/
+202,Lobsters,ai,AI-ML,Scientific computing in a strongly and statically typed language?,/s/did5xg/scientific_computing_strongly
+203,Lobsters,ai,AI-ML,From both sides now: the math of linear regression ·,https://katbailey.github.io/post/from-both-sides-now-the-math-of-linear-regression/
+204,Lobsters,ai,AI-ML,A Simple Explanation of the Bag-of-Words Model,https://victorzhou.com/blog/bag-of-words/
+205,Lobsters,ai,AI-ML,Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning,https://pwnagotchi.ai/
+206,Lobsters,ai,AI-ML,Cards Against Humanity's Black Friday AI Challenge,https://www.cardsagainsthumanityaichallenge.com/
+207,Lobsters,ai,AI-ML,Understanding what is Data Leakage in Machine Learning and how it can be detected,https://ai-jobs.net/understanding-what-is-data-leakage-in-machine-learning-and-how-it-can-be-detected/
+208,Lobsters,ai,AI-ML,the information apocalypse,https://diracdeltas.github.io/blog/information-apocalypse/
+209,Lobsters,ai,AI-ML,Automatic Loop Invariant Generation and Refinement through Selective Sampling (2017),https://lijiaying.github.io/papers/ase17.pdf
+210,Lobsters,ai,AI-ML,Machine Learning on Encrypted data without Decrypting it,https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html
+211,Lobsters,ai,AI-ML,The Simulation Argument and the Simulation Barrier,https://michaelfeathers.silvrback.com/the-simulation-argument-and-the-simulation-barrier
+212,Lobsters,ai,AI-ML,Productivity Tools for people with a Non-CS background,/s/iequym/productivity_tools_for_people_with_non_cs
+213,Lobsters,ai,AI-ML,HackingNeuralNetworks - a small course on exploiting and defending neural networks,https://github.com/Kayzaks/HackingNeuralNetworks
+214,Lobsters,ai,AI-ML,How to recognize AI snake oil,https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf
+215,Lobsters,ai,AI-ML,CamemBERT: a state-of-the-art language model for French,https://camembert-model.fr/
+216,Lobsters,ai,AI-ML,Distilling knowledge from Neural Networks to build smaller and faster models,https://blog.floydhub.com/knowledge-distillation/
+217,Lobsters,ai,AI-ML,Optimum Team Sizes By Team Type,https://tiny-giant-books.com/Entry3.html?EntryId=recCPslNNdg5eB0nI
+218,Lobsters,ai,AI-ML,This Marketing Blog Does Not Exist – An AI Generated Marketing Blog,http://thismarketingblogdoesnotexist.com/
+219,Lobsters,ai,AI-ML,An Open Source Deep Learning Inference Engine Based on FPGA,https://github.com/TF2-Engine/TF2
+220,Lobsters,ai,AI-ML,Probabilistic Programming,https://www.cs.cornell.edu/courses/cs4110/2016fa/lectures/lecture33.html
+221,Lobsters,ai,AI-ML,MLPerf Inference v0.5 results,https://mlperf.org/press#mlperf-inference-v0.5-results
+222,Lobsters,ai,AI-ML,Fast and Free Music Separation with Deezer's Machine Learning Library,https://waxy.org/2019/11/fast-and-free-music-separation-with-deezers-machine-learning-library/
+223,Lobsters,ai,AI-ML,AI Benchmark: All About Deep Learning on Smartphones in 2019,https://arxiv.org/abs/1910.06663
+224,Lobsters,ai,AI-ML,Stealing ur feelings,https://stealingurfeelin.gs/
+225,Lobsters,ai,AI-ML,ONNC: Open Neural Network Compiler,https://onnc.ai/
+226,Lobsters,ai,AI-ML,AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the DoD,https://admin.govexec.com/media/dib_ai_principles_-_supporting_document_-_embargoed_copy_(oct_2019).pdf
+227,Lobsters,ai,AI-ML,nncase: A neural network compiler for AI accelerators,https://github.com/kendryte/nncase
+228,Lobsters,ai,AI-ML,Scientists Demonstrate Direct Brain-to-Brain Communication in Humans,https://www.scientificamerican.com/article/scientists-demonstrate-direct-brain-to-brain-communication-in-humans/
+229,Lobsters,ai,AI-ML,How to Code Neat Machine Learning Pipelines,https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html
+230,Lobsters,ai,AI-ML,JFastText v0.9.1 released,https://github.com/carschno/JFastText/tree/v0.9.1
+231,Lobsters,ai,AI-ML,Neural Network Simulator,https://www.mladdict.com/neural-network-simulator
+232,Lobsters,ai,AI-ML,A Magic: the Gathering™ expert system (2012),https://github.com/stassa/Gleemin
+233,Lobsters,ai,AI-ML,Three States and a Plan: The AI of F.E.A.R,http://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf
+234,Lobsters,ai,AI-ML,Stealing Ur Feelings,https://github.com/noahlevenson/stealing-ur-feelings
+235,Lobsters,ai,AI-ML,Much Ado About Nothing (The role of nulls in both programming and learning),https://tiny-giant-books.com/Entry3.html?EntryId=recCXSr5YOhRPovUx
+236,Lobsters,ai,AI-ML,Deep Learning for Programmers Book New Release 0.11.0 + Adaptive Learning Rates,https://aiprobook.com/deep-learning-for-programmers?release=0.11.0&src=lobsters
+237,Lobsters,ai,AI-ML,Decision Trees in Machine Learning,https://skerritt.blog/what-is-a-decision-tree-in-machine-learning/
+238,Lobsters,ai,AI-ML,Factorio's new pathfinding algorithm,https://factorio.com/blog/post/fff-317
+239,Lobsters,ai,AI-ML,The Seven Deadly Sins of Predicting the Future of AI (2017),https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
+240,Lobsters,ai,AI-ML,Improving Medical AI Safety by Addressing Hidden Stratification,https://lukeoakdenrayner.wordpress.com/2019/10/14/improving-medical-ai-safety-by-addressing-hidden-stratification/
+241,Lobsters,ai,AI-ML,Google's Batch Normalization Patent has been granted and is now active until 2038,https://www.reddit.com/r/MachineLearning/comments/di7ix1/r_googles_batch_normalization_patent_has_been/
+242,Lobsters,ai,AI-ML,Solving Rubik’s Cube with a Robot Hand,https://openai.com/blog/solving-rubiks-cube/
+243,Lobsters,ai,AI-ML,Counting the Countless: Why data science is a profound threat for queer people,https://reallifemag.com/counting-the-countless/
+244,Lobsters,ai,AI-ML,"Basics of Bayesian inference and Stan, part 1 Jonah Gabry & Lauren Kennedy",https://www.youtube.com/watch?v=ZRpo41l02KQ&list=PLuwyh42iHquU4hUBQs20hkBsKSMrp6H0J&index=6
+245,Lobsters,ai,AI-ML,Machine learning systems are stuck in a rut,https://blog.acolyer.org/2019/06/28/machine-learning-systems-are-stuck-in-a-rut/
+246,Lobsters,ai,AI-ML,Integrating Deep Learning With clojure.spec,http://gigasquid.github.io/blog/2019/10/11/integrating-deep-learning-with-clojure-dot-spec/
+247,Lobsters,ai,AI-ML,Deep Learning for Programmers book release 0.10.0 + Momentum and Nesterov Momentum,https://aiprobook.com/deep-learning-for-programmers?release=0.10.0&src=lobsters
+248,Lobsters,ai,AI-ML,Can a Machine Learn to Write for The New Yorker?,https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker
+249,Lobsters,ai,AI-ML,Tensorflow 2.0 has been released,https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0
+250,Lobsters,ai,AI-ML,Deep Learning for Programmers book new release 0.9.0,https://aiprobook.com/deep-learning-for-programmers?release=0.9.0&src=lobsters
+251,Lobsters,ai,AI-ML,Microsoft Program Synthesis using Examples SDK,https://microsoft.github.io/prose/
+252,Lobsters,ai,AI-ML,"Machine Learning, Kolmogorov Complexity, and Squishy Bunnies",http://theorangeduck.com/page/machine-learning-kolmogorov-complexity-squishy-bunnies
+253,Lobsters,ai,AI-ML,ImageNet Roulette,https://imagenet-roulette.paglen.com/
+254,Lobsters,ai,AI-ML,The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur,https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie
+255,Lobsters,ai,AI-ML,Chatting up CloudWatch--Using Dialogflow to interact with Cloudwatch Logs,https://www.transposit.com/blog/2019.08.29-dialogflow-cloudwatch/?c=lob
+256,Lobsters,ai,AI-ML,Archive of Motion Capture as Surface Shapes,https://amass.is.tue.mpg.de/
+257,Lobsters,ai,AI-ML,"Coding, Components, and the Learning Ladder [VIDEO]",https://www.youtube.com/watch?v=TFKl5QJkywQ
+258,Lobsters,ai,AI-ML,Numerical Linear Algebra for Programmers | New Book Release 0.3.0,https://aiprobook.com/numerical-linear-algebra-for-programmers?release=0.3.0&src=lobsters
+259,Lobsters,ai,AI-ML,The Beauty of Functional Languages in Deep Learning ,https://www.welcometothejungle.co/fr/articles/btc-deep-learning-clojure-haskell
+260,Lobsters,ai,AI-ML,Learning At Scale: Definitions,http://tiny-giant-books.com/Entry1.html?EntryId=recSYQ1wis5dofZC9
+261,Lobsters,ai,AI-ML,"""Emergences"" - Eminent scientists on our era",https://www.edge.org/conversation/w_daniel_hillis-emergences
+262,Lobsters,ai,AI-ML,writeup.ai - An open sourced writing prompt tool leveraging GPT-2 (S/M/L) and XLNet,https://writeup.ai
+263,Lobsters,ai,AI-ML,Deep Learning for Programmers Book New Release 0.8.0,https://aiprobook.com/deep-learning-for-programmers&release=0.8.0&src=lobste.rs
+264,Lobsters,ai,AI-ML,Battlesnake,https://play.battlesnake.com/
+265,Lobsters,ai,AI-ML,Automatic differentiation in machine learning: a survey,https://arxiv.org/abs/1502.05767
+266,Lobsters,ai,AI-ML,Google TPU chips on a dev-board (or USB/M.2/mini PCIe),https://coral.withgoogle.com/products/
+267,Lobsters,ai,AI-ML,Natural Language Processing: the age of Transformers,https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/
+268,Lobsters,ai,AI-ML,Fast Tensors in Clojure - a Sneak Peek,https://dragan.rocks/articles/19/Fast-tensors-Clojure-sneak-peek
+269,Lobsters,ai,AI-ML,Rodney Brooks,https://www.technologyreview.com/s/614124/rodney-brooks/
+270,Lobsters,ai,AI-ML,<wbr>CorentinJ/Real-Time-Voice-Clon<wbr>ing - Clone a voice in 5 seconds to generate arbitrary speech in real</wbr></wbr>,https://github.com/CorentinJ/Real-Time-Voice-Cloning
+271,Lobsters,ai,AI-ML,Deep Learning for Programmers | New Book Release 0.7.0,https://aiprobook.com/deep-learning-for-programmers?release=0.7.0&src=lobsters
+272,Lobsters,ai,AI-ML,Tensor Considered Harmful,http://nlp.seas.harvard.edu//NamedTensor.html
+273,Lobsters,ai,AI-ML,GPT-2: 6-Month Follow-Up,https://openai.com/blog/gpt-2-6-month-follow-up/
+274,Lobsters,ai,AI-ML,Deep Learning & Machine Learning (Advanced topics),http://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt
+275,Lobsters,ai,AI-ML,TabNine Local: deep code completion on your laptop,https://tabnine.com/blog/local
+276,Lobsters,ai,AI-ML,TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time,https://www.usenix.org/system/files/sec19fall_pendlebury_prepub.pdf
+277,Lobsters,ai,AI-ML,HOList: An Environment for Machine Learning of Higher-Order Theorem Proving,https://arxiv.org/pdf/1904.03241.pdf
+278,Lobsters,ai,AI-ML,A Universal Modular ACTOR Formalism For Artificial Intelligence (1973),http://worrydream.com/refs/Hewitt-ActorModel.pdf
+279,Lobsters,ai,AI-ML,Stop Calling it AI,https://codingwithcody.com/2019/08/14/stop-calling-it-ai/
+280,Lobsters,ai,AI-ML,An Overview of Reinforcement Learning,https://probablyexactlywrong.com/rl
+281,Lobsters,ai,AI-ML,julia,https://jott.live/markdown/julia
+282,Lobsters,ai,AI-ML,Learning to Learn,http://tiny-giant-books.com/Entry1.html?EntryId=rec0iWZwgMsGafui6
+283,Lobsters,ai,AI-ML,Keras for Beginners: Implementing a Convolutional Neural Network,https://victorzhou.com/blog/keras-cnn-tutorial/
+284,Lobsters,ai,AI-ML,A Simple Explanation of the Softmax Function,https://victorzhou.com/blog/softmax/
+285,Lobsters,ai,AI-ML,Metagol - An Inductive Logic Programming System,https://github.com/metagol/metagol
+286,Lobsters,ai,AI-ML,OpenSLAM,https://openslam-org.github.io/
+287,Lobsters,ai,AI-ML,Generating Correctness Proofs with Neural Networks,https://arxiv.org/abs/1907.07794
+288,Lobsters,ai,AI-ML,Neural Networks From Scratch,https://victorzhou.com/series/neural-networks-from-scratch/
+289,Lobsters,ai,AI-ML,Python vs Rust for Neural Networks,https://ngoldbaum.github.io/posts/python-vs-rust-nn/
+290,Lobsters,ai,AI-ML,Deep Learning for Programmers - new release 0.6.0,https://aiprobook.com/deep-learning-for-programmers?release=0.6.0&src=lobsters
+291,Lobsters,ai,AI-ML,Subspace Neural Physics: Fast Data-Driven Interactive Simulation,http://theorangeduck.com/page/subspace-neural-physics-fast-data-driven-interactive-simulation
+292,Lobsters,ai,AI-ML,Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches,https://arxiv.org/abs/1907.06902v1
+293,Lobsters,ai,AI-ML,JFastText v0.5.0,https://github.com/carschno/JFastText
+294,Lobsters,ai,AI-ML,Easier Power ISA vectorizing for fun and profit with GCC x86 intrinsics,https://www.talospace.com/2019/07/easier-power-vectorizing-for-fun-and.html
+295,Lobsters,ai,AI-ML,Implementing an RNN from scratch (numpy only) in Python,https://victorzhou.com/blog/intro-to-rnns/
+296,Lobsters,ai,AI-ML,How we built the Waifu Vending Machine,https://waifulabs.com/blog
+297,Lobsters,ai,AI-ML,Concrete Problems in AI Safety,https://arxiv.org/pdf/1606.06565.pdf
+298,Lobsters,ai,AI-ML,How the Transformers broke NLP leaderboards,https://hackingsemantics.xyz/2019/leaderboards/
+299,Lobsters,ai,AI-ML,The AI of GoldenEye 007,https://www.gamasutra.com/blogs/TommyThompson/20190709/346311/The_AI_of_GoldenEye_007.php
+300,Lobsters,ai,AI-ML,Stacked Capsule Autoencoders,http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html
+301,Lobsters,ai,AI-ML,Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches,https://arxiv.org/pdf/1907.06902.pdf
+302,Lobsters,ai,AI-ML,Building a Better Profanity Detection Library with scikit-learn,https://towardsdatascience.com/building-a-better-profanity-detection-library-with-scikit-learn-3638b2f2c4c2
+303,Lobsters,ai,AI-ML,Learning to reconstruct people - A review on 3D human shape reconstruction,https://sric.me/Learning-to-Reconstruct-People/
+304,Lobsters,ai,AI-ML,A Differentiable Programming System to Bridge Machine Learning and Scientific Computing,https://arxiv.org/abs/1907.07587
+305,Lobsters,ai,AI-ML,Natural Adversarial Examples,https://github.com/hendrycks/natural-adv-examples
+306,Lobsters,ai,AI-ML,Judge a Programming Book by its Cover,https://dragan.rocks/articles/19/Judge-a-clojure-programming-book-by-its-cover
+307,Lobsters,ai,AI-ML,Deep Representation Learning with Genetic Programming (2018),https://ccc.inaoep.mx/archivos/CCC-17-009.pdf
+308,Lobsters,ai,AI-ML,Efficient Video Generation on Complex Datasets,https://twitter.com/roadrunning01/status/1150942949351591937
+309,Lobsters,ai,AI-ML,Autocompletion with deep learning,https://tabnine.com/blog/deep
+310,Lobsters,ai,AI-ML,How are Words Represented in Machine Learning?,https://www.jeffcarp.com/posts/2019/how-are-words-represented-in-machine-learning/
+311,Lobsters,ai,AI-ML,A Simple Explanation of how Computers Recognize Images (2016),https://maxcandocia.com/article/2016/Apr/06/how-computers-recognize-images/
+312,Lobsters,ai,AI-ML,Facebook and Carnegie Mellon build first AI that beats pros in 6-player poker,https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+313,Lobsters,ai,AI-ML,AI made from a sheet of glass can recognise numbers just by looking,https://www.newscientist.com/article/2208975-ai-made-from-a-sheet-of-glass-can-recognise-numbers-just-by-looking/
+314,Lobsters,ai,AI-ML,Deep Learning for Programmers - release 0.5.0 [book WIP],https://aiprobook.com/deep-learning-for-programmers/
+315,Lobsters,ai,AI-ML,Spiking Neural Network (SNN) with PyTorch: towards bridging the gap between deep learning and the human brain,https://guillaume-chevalier.com/spiking-neural-network-snn-with-pytorch-where-backpropagation-engenders-stdp-hebbian-learning/
+316,Lobsters,ai,AI-ML,Show Facebook Computer Vision Tags extension,https://github.com/ageitgey/show-facebook-computer-vision-tags
+317,Lobsters,ai,AI-ML,Image to Latex,https://www.wandb.com/articles/image-to-latex
+318,Lobsters,ai,AI-ML,European-based GPU resources for machine learning,https://www.clevergrid.io/
+319,Lobsters,ai,AI-ML,An Overview of Language Modeling,https://probablyexactlywrong.com/language
+320,Lobsters,ai,AI-ML,The Dawn of Robot Surveillance,https://www.aclu.org/report/dawn-robot-surveillance
+321,Lobsters,ai,AI-ML,The Unscented Kalman Filter for Nonlinear Estimation,https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf
+322,Lobsters,ai,AI-ML,The hard way to recover the IBM 5100 Non-executable ROS,https://github.com/stepleton/5100NonExecutableROSDecode/blob/master/WRITEUP.md
+323,Lobsters,ai,AI-ML,Learning to Interactively Learn and Assist,https://interactive-learning.github.io/
+324,Lobsters,ai,AI-ML,LSTM: How to Train Neural Networks to Write Like Lovecraft,http://www.datastuff.tech/machine-learning/lstm-how-to-train-neural-networks-to-write-like-lovecraft/
+325,Lobsters,ai,AI-ML,Generative Adversarial Networks - The Story So Far,https://blog.floydhub.com/gans-story-so-far/
+326,Lobsters,ai,AI-ML,This neural net knows your secret recipe,https://aiweirdness.com/post/185726764757/this-neural-net-knows-your-secret-recipe
+327,Lobsters,ai,AI-ML,DeepLabCut: markerless pose estimation of user-defined body parts with deep learning,http://www.mousemotorlab.org/deeplabcut
+328,Lobsters,ai,AI-ML,"A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch",https://github.com/rasbt/deeplearning-models
+329,Lobsters,ai,AI-ML,Deep Learning for Programmers New Release 0.4.0,https://aiprobook.com/deep-learning-for-programmers?release=0.4.0
+330,Lobsters,ai,AI-ML,"Brilliant Jerks, Crazy Hotties, and Other Artifacts of Range Restriction",https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f
+331,Lobsters,ai,AI-ML,Keras for Beginners: Building Your First Neural Network,https://victorzhou.com/blog/keras-neural-network-tutorial/
+332,Lobsters,ai,AI-ML,Weight Agnostic Neural Networks,https://weightagnostic.github.io/
+333,Lobsters,ai,AI-ML,Fans Are Better Than Tech at Organizing Information Online,https://www.wired.com/story/archive-of-our-own-fans-better-than-tech-organizing-information/
+334,Lobsters,ai,AI-ML,Finding Friend and Foe in Multi-Agent Games,https://arxiv.org/pdf/1906.02330
+335,Lobsters,ai,AI-ML,A Simple Explanation of Information Gain and Entropy,https://victorzhou.com/blog/information-gain/
+336,Lobsters,ai,AI-ML,DeepMind AI Reaches Human-level Performance in Quake III Arena,https://medium.com/syncedreview/deepmind-ai-reaches-human-level-performance-in-quake-iii-arena-d2e6c1273441
+337,Lobsters,ai,AI-ML,Writing a Toy Backend Compiler for PyTorch,https://jott.live/markdown/Writing%20a%20Toy%20Backend%20Compiler%20for%20PyTorch
+338,Lobsters,ai,AI-ML,PyMC 3.7: Making Data a First-Class Citizen,https://gist.github.com/fonnesbeck/808ff17181a535361d2cea514c9303eb
+339,Lobsters,ai,AI-ML,Lets Stop Saying ‘Cognitive' Search,https://opensourceconnections.com/blog/2019/05/28/lets-stop-saying-cognitive-search/
+340,Lobsters,ai,AI-ML,Porting a Face Detector Written in C to WebAssembly,https://sod.pixlab.io/articles/porting-c-face-detector-webassembly.html
+341,Lobsters,ai,AI-ML,Tensorflow Object Detection for Real World Problems,https://christopherstoll.org/2019/02/27/tensorflow-object-detection.html
+342,Lobsters,ai,AI-ML,"AI Ethics, Impossibility Theorems and Tradeoffs",https://www.chrisstucchio.com/pubs/slides/crunchconf_2018/slides.pdf
+343,Lobsters,ai,AI-ML,Integrating TVM into PyTorch,https://tvm.ai/2019/05/30/pytorch-frontend
+344,Lobsters,ai,AI-ML,"AI circus, mid 2019 update",https://blog.piekniewski.info/2019/05/30/ai-circus-mid-2019-update/
+345,Lobsters,ai,AI-ML,A new take on website analytics,https://volument.com
+346,Lobsters,ai,AI-ML,Implementing a Convolutional Neural Net in Python from scratch,https://victorzhou.com/blog/intro-to-cnns-part-2/
+347,Lobsters,ai,AI-ML,PyCM 2.2 released : A general benchmark based comparison of classification models,https://github.com/sepandhaghighi/pycm
+348,Lobsters,ai,AI-ML,'Mona Lisa' Comes to Life in Computer-Generated 'Living Portrait',https://www.smithsonianmag.com/smart-news/mona-lisa-comes-life-computer-generated-living-portrait-180972296/
+349,Lobsters,ai,AI-ML,'A white-collar sweatshop': Google Assistant contractors allege wage theft,https://www.theguardian.com/technology/2019/may/28/a-white-collar-sweatshop-google-assistant-contractors-allege-wage-theft
+350,Lobsters,ai,AI-ML,Orkhon – ML Inference Framework and Server Runtime,https://github.com/vertexclique/orkhon
+351,Lobsters,ai,AI-ML,Generating a dataset from unlabeled image data,https://medium.com/@goncalo.abreu/this-eye-does-not-exist-generating-the-dataset-from-unlabeled-image-data-b202b9914c95
+352,Lobsters,ai,AI-ML,Cortex – machine learning infrastructure for developers,https://cortex.dev/
+353,Lobsters,ai,AI-ML,Deep Learning for Programmers (WIP Book),http://aiprobook.com/deep-learning-for-programmers/
+354,Lobsters,ai,AI-ML,How to find a good Machine Learning Engineer job?,https://news.ycombinator.com/item?id=20008545
+355,Lobsters,ai,AI-ML,Start Here With Machine Learning,https://machinelearningmastery.com/start-here/
+356,Lobsters,ai,AI-ML,"Democracy, party matching and machine learning",https://blog.esciencecenter.nl/democracy-59ae33367f22
+357,Lobsters,ai,AI-ML,Simulating A/B tests offline using counterfactual inference,http://abhadury.com/articles/2019-05/simulating-ab-tests
+358,Lobsters,ai,AI-ML,"Artificial general intelligence is here, and it's useless","https://blog.cerebralab.com/#!/a/Artificial%20general%20intelligence%20is%20here,%20and%20it's%20useless"
+359,Lobsters,ai,AI-ML,"But what *is* a Neural Network? | Deep learning, chapter 1",https://www.youtube.com/watch?v=aircAruvnKk
+360,Lobsters,ai,AI-ML,How to Create a Malware Detection System With Machine Learning,https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/#.XOXPbZSbnyM.twitter
+361,Lobsters,ai,AI-ML,Curiosity Killed the Mario,http://www.michaelburge.us/2019/05/21/marai-agent.html
+362,Lobsters,ai,AI-ML,Implementing a Convolutional Neural Network from scratch in Python,https://victorzhou.com/blog/intro-to-cnns-part-1/
+363,Lobsters,ai,AI-ML,Create a Simple Neural Network in Python from Scratch,https://www.youtube.com/watch?v=kft1AJ9WVDk
+364,Lobsters,ai,AI-ML,Companies are AI,http://beza1e1.tuxen.de/companies_are_ai.html
+365,Lobsters,ai,AI-ML,American Civil Liberties Union FOIA request to DOJ on facial recognition,https://www.aclu.org/sites/default/files/field_document/doj_face_recognition_foia_final_1.18.19.pdf
+366,Lobsters,ai,AI-ML,"Adversarial Examples Are Not Bugs, They Are Features",http://gradientscience.org/adv/
+367,Lobsters,ai,AI-ML,ABC Dataset -- A Big CAD Model Dataset For Geometric Deep Learning,https://deep-geometry.github.io/abc-dataset/
+368,Lobsters,ai,AI-ML,Fun with Snapchat's Gender Swapping Filter,https://blog.evjang.com/2019/05/fun-with-snapchats-gender-swapping.html
+369,Lobsters,ai,AI-ML,This eye does not exist (yet another GAN),https://thiseyedoesnotexist.com/
+370,Lobsters,ai,AI-ML,"Is AI the next platform, after nuclear weapons, for competition amongst countries?",https://mltrends.com/newsletters/ai-for-greater-good
+371,Lobsters,ai,AI-ML,Evolving Neural Net classifiers,https://gkbrk.com/2019/05/evolving-neural-net-classifiers/
+372,Lobsters,ai,AI-ML,Five Strategies For Collaborating With A Machine,https://www.youtube.com/watch?v=narjui3em1k
+373,Lobsters,ai,AI-ML,First Beta Release of an In-Memory Machine Learning Software in Scala,https://picnicml.github.io
+374,Lobsters,ai,AI-ML,Overview of Expert Systems,https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_expert_systems.htm
+375,Lobsters,ai,AI-ML,AWS DeepRacer - the fastest way to get rolling with machine learning,https://aws.amazon.com/deepracer/
+376,Lobsters,ai,AI-ML,Smarter training of neural networks,https://www.csail.mit.edu/news/smarter-training-neural-networks
+377,Lobsters,ai,AI-ML,CLIPS: A Tool for Building Expert Systems,http://www.clipsrules.net/
+378,Lobsters,ai,AI-ML,"Does AI have a dirty mind, too? [semi-NSFW]",https://medium.com/@marekkcichy/does-ai-have-a-dirty-mind-too-6948430e4b2b
+379,Lobsters,ai,AI-ML,Letting neural networks be weird — When algorithms surprise us,https://aiweirdness.com/post/172894792687/when-algorithms-surprise-us
+380,Lobsters,ai,AI-ML,Building a parental control system from scratch,https://00f.net/2018/04/05/building-a-parental-control-system/
+381,Lobsters,ai,AI-ML,vtext: NLP in Rust with Python bindings,https://github.com/rth/vtext
+382,Lobsters,ai,AI-ML,"Real numbers, data science and chaos: How to fit any dataset with a single parameter",https://arxiv.org/abs/1904.12320
+383,Lobsters,ai,AI-ML,ReuBERT: a conversational agent (chatbot),https://github.com/guillaume-chevalier/ReuBERT
+384,Lobsters,ai,AI-ML,AI Dungeon,http://aidungeon.io/
+385,Lobsters,ai,AI-ML,A specialized database server for linear algebra and machine learning,https://github.com/evilsocket/sum
+386,Lobsters,ai,AI-ML,Alien Intelligences and discriminatory algorithms,https://www.chrisstucchio.com/blog/2016/alien_intelligences_and_discriminatory_algorithms.html
+387,Lobsters,ai,AI-ML,Robots that Learn to Use Improvised Tools,http://bair.berkeley.edu/blog/2019/04/11/tools/
+388,Lobsters,ai,AI-ML,Synthetic Speech Generated from Brain Recordings,https://www.ucsf.edu/news/2019/04/414296/synthetic-speech-generated-brain-recordings
+389,Lobsters,ai,AI-ML,Choosing loss functions,https://simplicial.io/2019/04/26/choosing-loss-functions/
+390,Lobsters,ai,AI-ML,Google Is Eating Our Mail,https://www.tablix.org/~avian/blog/archives/2019/04/google_is_eating_our_mail/
+391,Lobsters,ai,AI-ML,A Recipe for Training Neural Networks,http://karpathy.github.io/2019/04/25/recipe/
+392,Lobsters,ai,AI-ML,Model performance often degrades over time,https://simplicial.io/2019/04/22/model-performance-often-degrades-over-time/
+393,Lobsters,ai,AI-ML,Seeme.ai: a no code deep learning experiment for computer vision,https://www.zerotosingularity.com/blog/seeme-intro/
+394,Lobsters,ai,AI-ML,Dear AI startups: Your ML models are dying quietly,https://sanau.co/ML-models-are-dying-quietly
+395,Lobsters,ai,AI-ML,Takeaways from OpenAI Five (2019),https://senrigan.io/blog/takeaways-from-openai-5
+396,Lobsters,ai,AI-ML,Deep Learning from Scratch to GPU - 15 - Weight Decay,https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-15-Weight-Decay
+397,Lobsters,ai,AI-ML,Getting off the NavMesh: Navigating in Fully 3D Environments,https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating
+398,Lobsters,ai,AI-ML,Notes on AI Bias,https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias
+399,Lobsters,ai,AI-ML,"Random Thoughts on Brain-Computer Interfaces, Productivity, and Privacy",https://guillaume-chevalier.com/random-thoughts-on-brain-computer-interfaces-productivity-and-privacy/
+400,Lobsters,ai,AI-ML,Formalizing Teamwork in Human-Robot Interaction,https://www.youtube.com/watch?v=o3eyiKU0AEs
+401,Lobsters,ai,AI-ML,Advanced NLP with spaCy · A free online course,https://course.spacy.io/
+402,Lobsters,ai,AI-ML,Peeling Back the Darkness of M87,https://www.tacc.utexas.edu/-/peeling-back-the-darkness-of-m87
+403,Lobsters,ai,AI-ML,A Gentle Introduction to Text Summarization in Machine Learning,https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+404,Lobsters,ai,AI-ML,High performance nudity detection in rust,https://github.com/kpcyrd/nude-rs
+405,Lobsters,ai,AI-ML,"A Facial Recognition Machine, Built for $60",https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html
+406,Lobsters,ai,AI-ML,LSTMs for Human Activity Recognition,https://guillaume-chevalier.com/lstms-for-human-activity-recognition/
+407,Lobsters,ai,AI-ML,Machine Learning In The Judicial System Is Mostly Just Hype,https://palladiummag.com/2019/03/29/machine-learning-in-the-judicial-system-is-mostly-just-hype/
+408,Lobsters,ai,AI-ML,Untold History of AI: Algorithmic Bias Was Born in the 1980s,https://spectrum.ieee.org/tech-talk/tech-history/dawn-of-electronics/untold-history-of-ai-the-birth-of-machine-bias
+409,Lobsters,ai,AI-ML,Deep Learning from Scratch to GPU - 14 - Learning a Regression,https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-14-Learning-Regression
+410,Lobsters,ai,AI-ML,Analysing Mathematical Reasoning Abilities of Neural Models,https://arxiv.org/abs/1904.01557
+411,Lobsters,ai,AI-ML,Manna,http://marshallbrain.com/manna1.htm
+412,Lobsters,ai,AI-ML,Weakly Supervised Deep Detection Networks (WSDDN),http://www.atakans.com/posts/wsddn/
+413,Lobsters,ai,AI-ML,Random Forests for Complete Beginners,https://victorzhou.com/blog/intro-to-random-forests/
+414,Lobsters,ai,AI-ML,pyts: A Python package for time series transformation and classification,https://www.reddit.com/r/MachineLearning/comments/bb59ji/p_pyts_a_python_package_for_time_series/
+415,Lobsters,ai,AI-ML,Confounding via experimenting - One of the fundamental problems with current ML techniques,https://medium.com/mindsdb/confounding-via-experimenting-ecdb43eb2fc5
+416,Lobsters,ai,AI-ML,MLPerf,https://mlperf.org/
+417,Lobsters,ai,AI-ML,Lossless Data Compression with Neural Networks,https://bellard.org/nncp/
+418,Lobsters,ai,AI-ML,Teaching machines to reason about what they see,http://news.mit.edu/2019/teaching-machines-to-reason-about-what-they-see-0402
+419,Lobsters,ai,AI-ML,Habana AI Processor is in production,https://habana.ai/
+420,Lobsters,ai,AI-ML,"""Multi-Level Intermediate Representation"" Compiler Infrastructure",https://github.com/tensorflow/mlir
+421,Lobsters,ai,AI-ML,Deep Learning from Scratch to GPU: A Simple Neural Network Training API,https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-12-A-Simple-Neural-Network-Training-API
+422,Lobsters,ai,AI-ML,MXNet made simple: Pretrained Models for image classification,https://arthurcaillau.com/mxnet-made-simple-pretrained-models/
+423,Lobsters,ai,AI-ML,A Simple Explanation of Gini Impurity,https://victorzhou.com/blog/gini-impurity/
+424,Lobsters,ai,AI-ML,How to Use Computer Vision to Automatically Filter Images,https://dev.to/heroku/how-to-use-computer-vision-to-automatically-filter-images-3g7k
+425,Lobsters,ai,AI-ML,Deep Learning in Clojure from Scratch to GPU - 11 - A Simple Neural Network Inference API,https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-11-A-Simple-Neural-Network-API
+426,Lobsters,ai,AI-ML,A keyboard layout designed with AI (2016),https://github.com/MadRabbit/halmak
+427,Lobsters,ai,AI-ML,Static Analysis of Binary Executables Using Structural SVM's (2011),https://papers.nips.cc/paper/3925-static-analysis-of-binary-executables-using-structural-svms.pdf
+428,Lobsters,ai,AI-ML,Fathers of the Deep Learning revolution receive 2018 ACM A.M. Turing Award,https://www.acm.org/media-center/2019/march/turing-award-2018
+429,Lobsters,ai,AI-ML,What I learned from building an AI that generates porn [NSFW],https://medium.com/@DavidMack/what-i-learned-from-building-an-ai-that-generates-porn-ba1f47b2035f
+430,Lobsters,ai,AI-ML,Hash Your Way To a Better Neural Network,https://spectrum.ieee.org/tech-talk/computing/hardware/algorithms-and-hardware-for-deep-learning
+431,Lobsters,ai,AI-ML,Super-scaling images with Residual Dense and Adversarial Networks,https://github.com/idealo/image-super-resolution/
+432,Lobsters,ai,AI-ML,"Deep Learning from Scratch to GPU: The Backward Pass (CUDA, OpenCL, Nvidia, AMD, Intel)",https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-10-The-Backward-Pass-CDU-GPU-CUDA-OpenCL-Nvidia-AMD-Intel
+433,Lobsters,ai,AI-ML,Clojure MXNet March Update,http://gigasquidsoftware.com/blog/2019/03/22/clojure-mxnet-march-update/
+434,Lobsters,ai,AI-ML,A Meta Lesson,http://andy.kitchen/a-meta-lesson.html
+435,Lobsters,ai,AI-ML,SOD: An Embedded Computer Vision C Library,https://sod.pixlab.io
+436,Lobsters,ai,AI-ML,"Deep Learning from Scratch to GPU - 8 - The Forward Pass (CUDA, OpenCL, Nvidia, AMD, Intel)",https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-8-The-Forward-Pass-CPU-GPU-CUDA-OpenCL-Nvidia-AMD-Intel
+437,Lobsters,ai,AI-ML,Changing Sketches into Photorealistic Masterpieces,https://www.youtube.com/watch?v=p5U4NgVGAwg
+438,Lobsters,ai,AI-ML,MXNet made simple: Image Manipulation with OpenCV and MXNet,https://arthurcaillau.com/mxnet-made-simple-image-manipulation/
+439,Lobsters,ai,AI-ML,Microsoft's Farmbeats and Intello labs commodity grading system,https://mltrends.com/newsletters/Cortana-what-is-the-best-time-to-sow
+440,Lobsters,ai,AI-ML,An All-Neural On-Device Speech Recognizer,http://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html
+441,Lobsters,ai,AI-ML,The Bitter Lesson,http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+442,Lobsters,ai,AI-ML,A People's Guide to Artificial Intelligence (2018),https://www.alliedmedia.org/files/peoples-guide-ai.pdf
+443,Lobsters,ai,AI-ML,"Doing Data Science for the Common Good, Part 1",https://crate.io/a/doing-data-science-for-the-common-good-part-one/
+444,Lobsters,ai,AI-ML,where are the sharks?,https://mltrends.com/newsletters/where-are-the-sharks
+445,Lobsters,ai,AI-ML,"Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models",http://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html
+446,Lobsters,ai,AI-ML,"Is it a Duck or a Rabbit? For Google Cloud Vision, it depends how the image is rotated",https://twitter.com/minimaxir/status/1103676561809539072
+447,Lobsters,ai,AI-ML,Find Similarity between two Text Documents,https://kanoki.org/2019/03/07/sentence-similarity-in-python-using-doc2vec/
+448,Lobsters,ai,AI-ML,Learning Latent Plans from Play,https://arxiv.org/abs/1903.01973
+449,Lobsters,ai,AI-ML,"Forty percent of ""AI startups"" in Europe dont actually use AI, claims report",https://www.theverge.com/2019/3/5/18251326/ai-startups-europe-fake-40-percent-mmc-report
+450,Lobsters,ai,AI-ML,Transform ML models into a native code with zero dependencies,https://github.com/BayesWitnesses/m2cgen
+451,Lobsters,ai,AI-ML,An Introduction to Neural Networks + Implementing one from scratch in Python,https://victorzhou.com/blog/intro-to-neural-networks/
+452,Lobsters,ai,AI-ML,"Modeling Censored Time-to-Event Data Using Pyro, an Open Source Probabilistic Programming Language",https://eng.uber.com/modeling-censored-time-to-event-data-using-pyro/
+453,Lobsters,ai,AI-ML,How to choose metrics for evaluating classification results?,https://www.reddit.com/r/MachineLearning/comments/aw966i/d_how_to_choose_metrics_for_evaluating/
+454,Lobsters,ai,AI-ML,"Deep Learning in Clojure from Scratch to GPU: CUDA and OpenCL, Nvidia and AMD",https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-6-CUDA-and-OpenCL
+455,Lobsters,ai,AI-ML,License Plate Detection without Machine Learning,https://sod.pixlab.io/articles/license-plate-detection.html
+456,Lobsters,ai,AI-ML,PyCM 1.9 : Confusion matrix analysis + parameter recommender,https://github.com/sepandhaghighi/pycm
+457,Lobsters,ai,AI-ML,SHRDLURN: learning language games through interaction,http://shrdlurn.sidaw.xyz/
+458,Lobsters,ai,AI-ML,mlTrends brings you all the news and happenings in the world of ML and AI,https://mltrends.com
+459,Lobsters,ai,AI-ML,Seven Myths in Machine Learning Research,https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/
+460,Lobsters,ai,AI-ML,Black and white image colorization with OpenCV and Deep Learning,https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
+461,Lobsters,ai,AI-ML,DIY oscilloscope voice control,https://github.com/jmwilson/ollie
+462,Lobsters,ai,AI-ML,Named Entity Recognition: How to Automate Customer Support,https://kanoki.org/2019/02/21/named-entity-recognition-how-to-automate-customer-support/
+463,Lobsters,ai,AI-ML,NVlabs/stylegan,https://github.com/NVlabs/stylegan
+464,Lobsters,ai,AI-ML,This Waifu Does Not Exist,http://www.thiswaifudoesnotexist.net/index.html
+465,Lobsters,ai,AI-ML,"CrateDB, Machine Learning, and Hydroelectric Power: Part One",https://crate.io/a/cratedb-machine-learning-and-hydroelectric-power-part-one/
+466,Lobsters,ai,AI-ML,Growing a Compiler: Getting to machine learning from a general purpose compiler,https://juliacomputing.com/blog/2019/02/19/growing-a-compiler.html
+467,Lobsters,ai,AI-ML,Inside the Alexa-Friendly World of Wikidata,https://www.wired.com/story/inside-the-alexa-friendly-world-of-wikidata/
+468,Lobsters,ai,AI-ML,MLIR Primer: A Compiler Infrastructure for the End of Moore’s Law,https://drive.google.com/file/d/1hUeAJXcAXwz82RXA5VtO5ZoH8cVQhrOK/view
+469,Lobsters,ai,AI-ML,EBazarov/nsfw_data_source_urls,https://github.com/EBazarov/nsfw_data_source_urls
+470,Lobsters,ai,AI-ML,Weapons of Mass Distraction,https://www.youtube.com/watch?v=jdaPJLJCK1M
+471,Lobsters,ai,AI-ML,"Orange, an interactive machine learning and data viz toolbox",https://orange.biolab.si/
+472,Lobsters,ai,AI-ML,Un-untitled,http://antinegationism.tumblr.com/post/182820027081/antinegationism-twocubes-the-odd-thing-is
+473,Lobsters,ai,AI-ML,Controlling robotic arm with deep reinforcement learning,https://blog.floydhub.com/robotic-arm-control-deep-reinforcement-learning/
+474,Lobsters,ai,AI-ML,Better Language Models and Their Implications,https://blog.openai.com/better-language-models/
+475,Lobsters,ai,AI-ML,Neural Networks seem to follow a puzzlingly simple strategy to classify images,https://medium.com/bethgelab/neural-networks-seem-to-follow-a-puzzlingly-simple-strategy-to-classify-images-f4229317261f
+476,Lobsters,ai,AI-ML,OpenGR,https://storm-irit.github.io/OpenGR/index.html
+477,Lobsters,ai,AI-ML,Audio AI: isolating vocals from stereo music using Convolutional Neural Networks,https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
+478,Lobsters,ai,AI-ML,This Person Does Not Exist,https://thispersondoesnotexist.com/
+479,Lobsters,ai,AI-ML,Machine Learning and CrateDB: Experiment Design & Linear Regression,https://crate.io/a/machine-learning-and-cratedb-part-three-experiment-design-and-linear-regression/
+480,Lobsters,ai,AI-ML,Building a Better Profanity Detection Library with scikit-learn,https://victorzhou.com/blog/better-profanity-detection-with-scikit-learn
+481,Lobsters,ai,AI-ML,Neural Networks Are Essentially Polynomial Regression,https://matloff.wordpress.com/2018/06/20/neural-networks-are-essentially-polynomial-regression/
+482,Lobsters,ai,AI-ML,What is Differentiable Programming?,https://fluxml.ai/2019/02/07/what-is-differentiable-programming.html
+483,Lobsters,ai,AI-ML,"Deep Learning from Scratch to GPU, Part 2: Bias and Activation Function",https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-2-Bias-and-Activation-Function
+484,Lobsters,ai,AI-ML,Itertools: A Swiss Knife for Data Scientists,https://kanoki.org/2019/02/08/python-itertools/
+485,Lobsters,ai,AI-ML,"Recommending Similar Fashion Images By Colors, Patterns, and Shapes",https://blog.floydhub.com/similar-fashion-images/
+486,Lobsters,ai,AI-ML,A Simple Explanation for the Existence of Adversarial Examples with Small Hamming Distance,https://arxiv.org/abs/1901.10861
+487,Lobsters,ai,AI-ML,Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information,http://vizdoom.cs.put.edu.pl/
+488,Lobsters,ai,AI-ML,Putting neural networks under the microscope,http://news.mit.edu/2019/neural-networks-nlp-microscope-0201
+489,Lobsters,ai,AI-ML,Most people overlook artificial intelligence despite flawless advice,https://www.arl.army.mil/www/default.cfm?article=3360
+490,Lobsters,ai,AI-ML,The Last Days of Reality,https://meanjin.com.au/essays/the-last-days-of-reality/
+491,Lobsters,ai,AI-ML,Forget privacy: you're terrible at targeting anyway,https://apenwarr.ca/log/20190201
+492,Lobsters,ai,AI-ML,Computational Insights and the Theory of Evolution,https://www.youtube.com/watch?v=KP0WFbdHhJM
+493,Lobsters,ai,AI-ML,Why are Machine Learning Projects so Hard to Manage?,https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641
+494,Lobsters,ai,AI-ML,How to train the Tensorflow Object Detection API with custom training data,https://jameslittle.me/blog/2019/tensorflow-object-detection
+495,Lobsters,ai,AI-ML,A Neural Network framework in 25 lines of Python,https://gist.github.com/macournoyer/620a8ba4a2ecd6d6feaf
+496,Lobsters,ai,AI-ML,On Building an Instagram Street Art Dataset and Detection Model,https://blog.floydhub.com/instagram-street-art/
+497,Lobsters,ai,AI-ML,"AlphaStar: Mastering the Real-Time, Strategy Game Starcraft II",https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
+498,Lobsters,ai,AI-ML,Learning Agile and Dynamic Motor Skills for Legged Robots,https://www.youtube.com/watch?v=aTDkYFZFWug
+499,Lobsters,ai,AI-ML,DeepMind StarCraft II Demonstration,https://www.youtube.com/watch?v=cUTMhmVh1qs
+500,Lobsters,ai,AI-ML,Computational Periscopy: see around corners with a camera,https://www.nature.com/articles/s41586-018-0868-6
+501,Lobsters,ai,AI-ML,Inverting Facial Recognition Models,https://blog.floydhub.com/inverting-facial-recognition-models/
+502,Lobsters,ai,AI-ML,DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,https://arxiv.org/abs/1901.05103
+503,Lobsters,ai,AI-ML,Medical AI Safety: Doing it wrong,https://lukeoakdenrayner.wordpress.com/2019/01/21/medical-ai-safety-doing-it-wrong/
+504,Lobsters,ai,AI-ML,"OSS Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper",https://github.com/gcp/leela-zero
+505,Lobsters,ai,AI-ML,Object Detection with Clojure MXNet,http://gigasquidsoftware.com/blog/2019/01/19/object-detection-with-clojure-mxnet/
+506,Lobsters,ai,AI-ML,DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,https://arxiv.org/pdf/1901.05103v1.pdf
+507,Lobsters,ai,AI-ML,Using NLP to Automate Customer Support,https://blog.floydhub.com/automate-customer-support-part-two/
+508,Lobsters,ai,AI-ML,AI Neural Networks being used to generate HQ textures for older games (You can do it yourself!),https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/
+509,Lobsters,ai,AI-ML,Pandas Exploratory Data Analysis: Data Profiling with one single command,https://kanoki.org/2019/01/15/pandas-exploratory-data-analysis-data-profiling/
+510,Lobsters,ai,AI-ML,Dont believe the hype: the media are unwittingly selling us an AI fantasy,https://www.theguardian.com/commentisfree/2019/jan/13/dont-believe-the-hype-media-are-selling-us-an-ai-fantasy
+511,Lobsters,ai,AI-ML,An Efficient Coverage-driven Functional Verification System via Genetic Algorithms (2012),https://www.researchgate.net/profile/Sridhar_Seshadri2/publication/286984206_An_efficient_coverage_driven_functional_verification_system_based_on_genetic_algorithm/links/5684e4cd08ae1e63f1f312b4.pdf?origin=publication_detail
+512,Lobsters,ai,AI-ML,SageDB: A Learned Database System,http://alexbeutel.com/papers/CIDR2019_SageDB.pdf
+513,Lobsters,ai,AI-ML,Dive into Deep Learning - interactive book,https://d2l.ai/
+514,Lobsters,ai,AI-ML,Exploring DNA with Deep Learning,https://blog.floydhub.com/exploring-dna-with-deep-learning/
+515,Lobsters,ai,AI-ML,How to Optimize your Pandas Code,https://kanoki.org/2019/01/09/how-to-optimize-your-pandas-code/
+516,Lobsters,ai,AI-ML,Scaling Jupyter notebooks with Kubernetes and Tensorflow,https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow
+517,Lobsters,ai,AI-ML,An alternative job board exclusively for AI / Data Science positions,https://ai-jobs.net
+518,Lobsters,ai,AI-ML,Neural networks as Ordinary Differential Equations,https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
+519,Lobsters,ai,AI-ML,Unprovability comes to machine learning,https://www.nature.com/articles/d41586-019-00012-4
+520,Lobsters,ai,AI-ML,MIT Deep Learning Course Repository,https://deeplearning.mit.edu/
+521,Lobsters,ai,AI-ML,What Can AI Tell Us about the Human Mind?,https://deconstructingyourself.com/podcast/dy-029-what-can-ai-tell-us-about-the-human-mind-with-joscha-bach
+522,Lobsters,ai,AI-ML,"Predictions Scorecard, 2019 January 01",https://rodneybrooks.com/predictions-scorecard-2019-january-01/
+523,Lobsters,ai,AI-ML,How a Feel-Good AI Story Went Wrong in Flint,https://www.theatlantic.com/technology/archive/2019/01/how-machine-learning-found-flints-lead-pipes/578692/
+524,Lobsters,ai,AI-ML,NegaMax Search (2013),https://binarydebt.wordpress.com/2013/09/25/negamax-search/
+525,Lobsters,ai,AI-ML,How to use AI powered Query in Google Spreadsheet,https://kanoki.org/2019/01/05/how-google-sheet-uses-natural-language-processing/
+526,Lobsters,ai,AI-ML,Classification evaluation,http://www.pycm.ir/
+527,Lobsters,ai,AI-ML,AI winter - update,https://blog.piekniewski.info/2018/10/29/ai-winter-update/
+528,Lobsters,ai,AI-ML,Machine Learning Meets Interactive Stories,https://medium.com/@mark_riedl/machine-learning-meets-interactive-stories-2cd74f8d6fbe
+529,Lobsters,ai,AI-ML,How should we evaluate progress in AI?,https://meaningness.com/metablog/artificial-intelligence-progress
+530,Lobsters,ai,AI-ML,This clever AI hid data from its creators to cheat at its appointed task,https://techcrunch.com/2018/12/31/this-clever-ai-hid-data-from-its-creators-to-cheat-at-its-appointed-task/
+531,Lobsters,ai,AI-ML,Using ablation on artificial neural networks,https://techxplore.com/news/2018-12-ablation-artificial-neural-networks.html
+532,Lobsters,ai,AI-ML,Learn Python for Data Science from Scratch,https://kanoki.org/2017/05/14/first-blog-post/
+533,Lobsters,ai,AI-ML,The Ghost in the Machine,https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine
+534,Lobsters,ai,AI-ML,"Artificial Intelligence Creates Realistic Photos of People, None of Whom Actually Exist",http://www.openculture.com/2018/12/artificial-intelligence-creates-realistic-photos-of-people-none-of-whom-actually-exist.html
+535,Lobsters,ai,AI-ML,Inventory indicates who goes solar and why,https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/
+536,Lobsters,ai,AI-ML,Homemade machine learning in Python with interactive Jupyter demos,https://github.com/trekhleb/homemade-machine-learning
+537,Lobsters,ai,AI-ML,Closed World Reasoning,http://www.cs.tau.ac.il/~annaz/teaching/TAU_winter08/Seminar/yulia.pdf
+538,Lobsters,ai,AI-ML,Amoeba finds approximate solutions to NP-hard problem in linear time,https://phys.org/news/2018-12-amoeba-approximate-solutions-np-hard-problem.html
+539,Lobsters,ai,AI-ML,PyCM : New machine learning library,http://pycm.shaghighi.ir
+540,Lobsters,ai,AI-ML,Using Keras and Deep Q-Network to Play FlappyBird (2016),http://example.com/2016/07/10/FlappyBird-Keras.html
+541,Lobsters,ai,AI-ML,PyCM 1.7 : New machine learning library for confusion matrix statistical analysis,https://github.com/sepandhaghighi/pycm
+542,Lobsters,ai,AI-ML,Optimizing Siri on HomePod in Far‑Field Settings,https://machinelearning.apple.com/2018/12/03/optimizing-siri-on-homepod-in-far-field-settings.html
+543,Lobsters,ai,AI-ML,Neural Ordinary Differential Equations,https://arxiv.org/pdf/1806.07366.pdf
+544,Lobsters,ai,AI-ML,A Style-Based Generator Architecture for Generative Adversarial Networks,https://arxiv.org/pdf/1812.04948.pdf
+545,Lobsters,ai,AI-ML,A radical new neural network design could overcome big challenges in AI,https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/
+546,Lobsters,ai,AI-ML,Tetris,https://www.colinfahey.com/tetris/tetris.html
+547,Lobsters,ai,AI-ML,AlphaFold @ CASP13: “What just happened?”,https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
+548,Lobsters,ai,AI-ML,AlphaFold: Using AI for scientific discovery,https://deepmind.com/blog/alphafold/
+549,Lobsters,ai,AI-ML,AI/ML Papers with Code,https://paperswithcode.com/
+550,Lobsters,ai,AI-ML,Spinning Up a Pong AI with Deep Reinforcement Learning,https://blog.floydhub.com/spinning-up-with-deep-reinforcement-learning/
+551,Lobsters,ai,AI-ML,Easy-To-Read Summary of Important AI Research Papers of 2018,https://www.topbots.com/most-important-ai-research-papers-2018/
+552,Lobsters,ai,AI-ML,"Machine Learning and CrateDB, Part Two: Getting Started With Jupyter",https://crate.io/a/machine-learning-and-cratedb-part-two-getting-started-with-jupyter/
+553,Lobsters,ai,AI-ML,Multilingual text clustering,https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA
+554,Lobsters,ai,AI-ML,Machine learning in Clojure with XGBoost,https://www.rdisorder.eu/2018/12/03/machine-learning-clojure-xgboost/
+555,Lobsters,ai,AI-ML,LEMNA: explaining deep learning based security applications,https://blog.acolyer.org/2018/11/30/lemna-explaining-deep-learning-based-security-applications/
+556,Lobsters,ai,AI-ML,Reading minds with deep learning,https://blog.floydhub.com/reading-minds-with-deep-learning/
+557,Lobsters,ai,AI-ML,CV Dazzle: Camouflage from Face Detection (2017),https://cvdazzle.com/
+558,Lobsters,ai,AI-ML,Generating classical music with LSTM neural networks,https://blog.floydhub.com/generating-classical-music-with-neural-networks/
+559,Lobsters,ai,AI-ML,MinHashing - Clustering enormous datasets with a key-value store,https://moultano.wordpress.com/2018/11/08/minhashing-3kbzhsxyg4467-6/
+560,Lobsters,ai,AI-ML,Recognize relatives with deep learning,https://blog.floydhub.com/build-image-classification-app-with-fastai/
+561,Lobsters,ai,AI-ML,The US could regulate AI in the name of national security,https://qz.com/1469008/the-us-could-regulate-ai-in-the-name-of-national-security/
+562,Lobsters,ai,AI-ML,How To Fail With JavaScript [58min],https://www.youtube.com/watch?v=w_-93M6A0Io
+563,Lobsters,ai,AI-ML,Quantum artificial life created on the cloud,https://www.ehu.eus/eu//-/bizi-artifiziala-sortu-dute-hodeian
+564,Lobsters,ai,AI-ML,The future of photography is code,https://techcrunch.com/2018/10/22/the-future-of-photography-is-code/
+565,Lobsters,ai,AI-ML,NN based self-driving car with Lego Mindstorms and a Raspberry Pi 3,https://github.com/felipessalvatore/self_driving_pi_car
+566,Lobsters,ai,AI-ML,Ongoing Face Recognition Vendor Test (FRVT),https://www.nist.gov/sites/default/files/documents/2018/11/16/frvt_report_2018_11_16.pdf
+567,Lobsters,ai,AI-ML,6 core falsehoods about the digital sphere,https://tante.cc/2018/11/17/6-core-falsehoods-about-the-digital-sphere/
+568,Lobsters,ai,AI-ML,Genetic Programming in Clojure,http://sulami.github.io/posts/genetic-programming-in-clojure/
+569,Lobsters,ai,AI-ML,Fast line-following robots part 1: control,http://www.a1k0n.net/2018/11/13/fast-line-following.html
+570,Lobsters,ai,AI-ML,Colorizing and Restoring Old Images with Deep Learning,https://blog.floydhub.com/colorizing-and-restoring-old-images-with-deep-learning/
+571,Lobsters,ai,AI-ML,"CNN headlines, according to a neural net",http://aiweirdness.com/post/179938486347/cnn-headlines-according-to-a-neural-net
+572,Lobsters,ai,AI-ML,ML engineering for AI safety & robustness: a Google Brain engineer's guide to entering the field,https://80000hours.org/articles/ml-engineering-career-transition-guide/
+573,Lobsters,ai,AI-ML,Specification gaming examples in AI - master list,https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml
+574,Lobsters,ai,AI-ML,Is Object Detection a Done Deal?,https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2
+575,Lobsters,ai,AI-ML,Apple’s New Map,https://www.justinobeirne.com/new-apple-maps/
+576,Lobsters,ai,AI-ML,Why is machine learning most often practiced using a dynamically typed language?,/s/hgejxf/why_is_machine_learning_most_often
+577,Lobsters,ai,AI-ML,Some documents on AM and EURISKO,http://blog.funcall.org/lisp/2018/11/03/am-eurisko-lenat-documents/
+578,Lobsters,ai,AI-ML,How AI Assistants will impact businesses and consumers,https://www.boye-co.com/blog/2018/10/31/how-ai-assistants-will-impact-businesses-and-consumers
+579,Lobsters,ai,AI-ML,Building a Fly Brain in a Computer,https://www.cifar.ca/cifarnews/2018/10/25/building-a-fly-brain-in-a-computer
+580,Lobsters,ai,AI-ML,AI winter - update,https://blog.piekniewski.info/2018/10/29/ai-winter-update/
+581,Lobsters,ai,AI-ML,AI for Imperfect-Information Games: Beating Top Humans in No-Limit Poker,https://www.youtube.com/watch?v=McV4a6umbAY
+582,Lobsters,ai,AI-ML,"Machine Learning and CrateDB, Part One",https://crate.io/a/machine-learning-and-cratedb-part-one/
+583,Lobsters,ai,AI-ML,Hardware Acceleration for Unstructured Big Data and Natural Language Processing,https://deepblue.lib.umich.edu/bitstream/handle/2027.42/116712/prateekt_1.pdf?sequence=1&isAllowed=y
+584,Lobsters,ai,AI-ML,AI Progress Measurement,https://www.eff.org/es/ai/metrics
+585,Lobsters,ai,AI-ML,Why China Can Do AI More Quickly and Effectively Than the US,https://www.wired.com/story/why-china-can-do-ai-more-quickly-and-effectively-than-the-us/
+586,Lobsters,ai,AI-ML,An Outsider's Tour of Reinforcement Learning,http://benjamin-recht.github.io/2018/06/25/outsider-rl/
+587,Lobsters,ai,AI-ML,SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits,https://www.informatics.indiana.edu/xw7/papers/p2139-you.pdf
+588,Lobsters,ai,AI-ML,Did Uber Steal Google’s Intellectual Property?,https://www.newyorker.com/magazine/2018/10/22/did-uber-steal-googles-intellectual-property
+589,Lobsters,ai,AI-ML,Scalable Anomaly Detection (with Zero Machine Learning),https://www.youtube.com/watch?v=6UwcqiNsZ8U
+590,Lobsters,ai,AI-ML,companies working on social impact using ai?,/s/9pmezv/companies_working_on_social_impact_using
+591,Lobsters,ai,AI-ML,GPU LSM: Dynamic Dictionary Data Structure for the GPU [pdf],https://arxiv.org/abs/1707.05354
+592,Lobsters,ai,AI-ML,Model-Based Machine Learning (Early Access),http://mbmlbook.com/
+593,Lobsters,ai,AI-ML,"Local Minima, Saddle Points, and Plateaus",http://theorangeduck.com/page/local-minima-saddle-points-plateaus
+594,Lobsters,ai,AI-ML,Creative AI: On the Democratisation & Escalation of Creativity (2016),https://medium.com/@creativeai/creativeai-9d4b2346faf3
+595,Lobsters,ai,AI-ML,Machine Learning for the Lazy Beginner,https://grahamlyons.com/article/machine-learning-for-the-lazy-beginner
+596,Lobsters,ai,AI-ML,AI-driven Dynamic Dialog through Fuzzy Pattern Matching [2012],https://www.youtube.com/watch?v=tAbBID3N64A
+597,Lobsters,ai,AI-ML,"Solvers, Synthesis, and Learning",https://cs.nyu.edu/~barrett/summerschool/seshia.pdf
+598,Lobsters,ai,AI-ML,Automated PCB Reverse Engineering,https://www.usenix.org/system/files/conference/woot17/woot17-paper-kleber.pdf
+599,Lobsters,ai,AI-ML,Cloud telephony: An unrealistically overpriced service in India,https://crondev.blog/2018/09/23/cloud-telephony-an-unrealistically-overpriced-service-in-india/
+600,Lobsters,ai,AI-ML,Machine Learning Confronts the Elephant in the Room,https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/
+601,Lobsters,ai,AI-ML,Python AI in Starcraft II Tutorial Series,https://www.youtube.com/playlist?list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq
+602,Lobsters,ai,AI-ML,How to make a racist AI without really trying,http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/
+603,Lobsters,ai,AI-ML,Orchestrating Game Generation,http://antoniosliapis.com/articles/orchestration.php
+604,Lobsters,ai,AI-ML,Clojure Package for Apache MXNet,https://medium.com/apache-mxnet/clojure-package-for-mxnet-799f15043809
+605,Lobsters,ai,AI-ML,DeepSmith: Compiler Fuzzing through Deep Learning,https://chriscummins.cc/pub/2018-acaces.pdf
+606,Lobsters,ai,AI-ML,Deep image reconstruction from human brain activity,https://www.biorxiv.org/content/early/2017/12/28/240317
+607,Lobsters,ai,AI-ML,An Evolutionary Approach To Problem Solving,http://freneticarray.com/an-evolutionary-approach-to-problem-solving/
+608,Lobsters,ai,AI-ML,Practical guide to hyperparameter search techniques,https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/
+609,Lobsters,ai,AI-ML,Multilingual Latent Dirichlet Allocation (LDA) for text clustering,https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA
+610,Lobsters,ai,AI-ML,Adaptive Grey-Box Fuzz-Testing with Thompson Sampling,https://arxiv.org/abs/1808.08256v1
+611,Lobsters,ai,AI-ML,Computer Vision Using Go and OpenCV 3,https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3/
+612,Lobsters,ai,AI-ML,LeFlow: Enabling Flexible FPGA High-Level Synthesis of Tensorflow Deep Neural Networks,https://twitter.com/ogawa_tter/status/1020627673653972992
+613,Lobsters,ai,AI-ML,Building a Shake Shack crowd-counting app with CoreML,https://blog.floydhub.com/humans-of-ml-dimitri-roche/
+614,Lobsters,ai,AI-ML,Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research,http://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html
+615,Lobsters,ai,AI-ML,Federated Learning,https://florian.github.io/federated-learning/
+616,Lobsters,ai,AI-ML,"NLP's generalization problem, and how researchers are tackling it",https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/
+617,Lobsters,ai,AI-ML,Statistical and Machine Learning forecasting methods: Concerns and ways forward,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
+618,Lobsters,ai,AI-ML,vid2vid: photorealistic video-to-video translation,https://github.com/NVIDIA/vid2vid
+619,Lobsters,ai,AI-ML,Assembling an entry level High Frequency Trading (HFT) system,https://medium.com/@goncalo.abreu/assembling-an-entry-level-high-frequency-trading-hft-system-e7538545b2a9
+620,Lobsters,ai,AI-ML,A Practical Introduction to Artificial Neural Networks with Python,http://krisbolton.com/a-practical-introduction-to-artificial-neural-networks-with-python/
+621,Lobsters,ai,AI-ML,Calibrated Uncertainty in Deep Learning,https://web.stanford.edu/~kuleshov/papers/uai2018-slides.pdf
+622,Lobsters,ai,AI-ML,We Taught a Neural Network to Write a Blog,https://tech.gadventures.com/we-taught-a-neural-network-to-write-a-blog-6463f619ac4c
+623,Lobsters,ai,AI-ML,Hierarchical Bayesian Neural Networks with Informative Priors,https://twiecki.github.io/blog/2018/08/13/hierarchical_bayesian_neural_network/
+624,Lobsters,ai,AI-ML,Introduction to Self-Organizing Maps,https://rubikscode.net/2018/08/20/introduction-to-self-organizing-maps/
+625,Lobsters,ai,AI-ML,Why we need to think differently about AI,https://www.oreilly.com/ideas/why-we-need-to-think-differently-about-ai
+626,Lobsters,ai,AI-ML,Reflections on Random Kitchen Sinks (2017),http://benjamin-recht.github.io/2017/12/05/kitchen-sinks/
+627,Lobsters,ai,AI-ML,Categorizing Listing Photos at Airbnb,https://medium.com/@yaoshijing/categorize-airbnb-listing-photos-with-large-scale-deep-learning-fa050e8816fd
+628,Lobsters,ai,AI-ML,Text Classification is Your New Secret Weapon,https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788
+629,Lobsters,ai,AI-ML,"Git Blame Who?: Stylistic Authorship Attribution of Small, Incomplete Source Code Fragments",https://arxiv.org/pdf/1701.05681.pdf
+630,Lobsters,ai,AI-ML,Small Sample Learning in Big Data Era,https://arxiv.org/abs/1808.04572
+631,Lobsters,ai,AI-ML,"Feather: fast, interoperable data frame storage",https://github.com/wesm/feather
+632,Lobsters,ai,AI-ML,Monte Carlo Methods for the Game Kingdomino,https://zayenz.se/blog/post/kingdomino-cig2018-paper/
+633,Lobsters,ai,AI-ML,Bayesian Deep Learning,https://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/
+634,Lobsters,ai,AI-ML,There's Waldo! Finding Waldos with Google AutoML Vision,https://www.raspberrypi.org/blog/theres-waldo-wheres-wally/
+635,Lobsters,ai,AI-ML,Filter Before You Parse: Faster Analytics on Raw Data with Sparser,https://dawn.cs.stanford.edu/2018/08/07/sparser/
+636,Lobsters,ai,AI-ML,TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing,https://arxiv.org/abs/1807.10875
+637,Lobsters,ai,AI-ML,code2seq: Generating Sequences from Structured Representations of Code,https://arxiv.org/abs/1808.01400
+638,Lobsters,ai,AI-ML,Genstego: Image Steganography Based on a Genetic Algorithim,https://dani.codes/post/genstego/
+639,Lobsters,ai,AI-ML,T2F: Text-to-Face generation using Deep Learning,https://github.com/akanimax/T2F
+640,Lobsters,ai,AI-ML,Creating a Rock Paper Scissors Game in Java with a Markov Chain for the AI,https://medium.com/@ssaurel/creating-a-rock-paper-scissors-game-in-java-with-a-markov-chain-for-the-ai-7672954fd7f6
+641,Lobsters,ai,AI-ML,Meanings and belief states,http://blog.jacobandreas.net/meaning-belief.html
+642,Lobsters,ai,AI-ML,The Sound of Pixels,http://sound-of-pixels.csail.mit.edu/
+643,Lobsters,ai,AI-ML,Just An Engineer: The Politics of AI,https://www.youtube.com/watch?v=HPopJb5aDyA
+644,Lobsters,ai,AI-ML,Multivariate Distances: Mahalanobis vs. Euclidean,https://waterprogramming.wordpress.com/2018/07/23/multivariate-distances-mahalanobis-vs-euclidean/
+645,Lobsters,ai,AI-ML,Conversational AI: Building clever chatbots,https://youtu.be/HV0bJMkzpO4
+646,Lobsters,ai,AI-ML,The “TerpreT problem” and the limits of stochastic gradient descent for program synthesis,https://dselsam.github.io/the-terpret-problem/
+647,Lobsters,ai,AI-ML,China’s Social Credit System: A Step Towards Dystopia?,https://medium.com/@regit/chinas-social-credit-system-a-step-towards-dystopia-part-one-introduction-9348fa747c91
+648,Lobsters,ai,AI-ML,Logical-Based Artificial Intelligence and Expert Systems,http://www.primaryobjects.com/2018/07/23/logical-based-artificial-intelligence-and-expert-systems/
+649,Lobsters,ai,AI-ML,Genetic Algorithm Implementation in Python,https://www.aitribune.com/article/2018071087
+650,Lobsters,ai,AI-ML,The unreasonable effectiveness of Deep Learning Representations,https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf
+651,Lobsters,ai,AI-ML,Measuring abstract reasoning in neural networks,https://deepmind.com/blog/measuring-abstract-reasoning/
+652,Lobsters,ai,AI-ML,Evolutionary algorithm outperforms deep-learning machines at video games,https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/
+653,Lobsters,ai,AI-ML,Natural Language Processing is Fun,https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+654,Lobsters,ai,AI-ML,Generating Commencement Speeches with Markov Chains,https://blog.floydhub.com/markov-chains/
+655,Lobsters,ai,AI-ML,Program Synthesis in 2017-18,https://alexpolozov.com/blog/program-synthesis-2018/
+656,Lobsters,ai,AI-ML,BRIIM - A Machine Learning in JavaScript Movement,https://bri.im/
+657,Lobsters,ai,AI-ML,Introducing prose v2.0.0: Bringing NLP to Go,https://medium.com/@errata.ai/introducing-prose-v2-0-0-bringing-nlp-to-go-a1f0c121e4a5
+658,Lobsters,ai,AI-ML,Why we need human evaluation in natural language generation,http://arun.chagantys.org/technical/2018/07/10/on-human-evaluation.html
+659,Lobsters,ai,AI-ML,APL for ML: k-means clustering,http://dpaste.com/3Z4K4B0
+660,Lobsters,ai,AI-ML,"VTA: An Open, Customizable Deep Learning Acceleration Stack",https://tvm.ai/2018/07/12/vta-release-announcement.html
+661,Lobsters,ai,AI-ML,Artificial Intelligence (Stanford Encyclopedia of Philosophy),https://plato.stanford.edu/entries/artificial-intelligence/
+662,Lobsters,ai,AI-ML,Man-Computer Symbiosis,https://groups.csail.mit.edu/medg/people/psz/Licklider.html
+663,Lobsters,ai,AI-ML,Fast.ai - Part 1 - Lesson 1 - Annotated notes,https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/ 
+664,Lobsters,ai,AI-ML,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,https://arxiv.org/pdf/1802.01557.pdf
+665,Lobsters,ai,AI-ML,"Eurisko, The Computer With A Mind Of Its Own (1984)",http://aliciapatterson.org/stories/eurisko-computer-mind-its-own
+666,Lobsters,ai,AI-ML,Github Discovery feed Tutorial,https://github.getstream.io/
+667,Lobsters,ai,AI-ML,OSHUG Event #68 - 3D Printing and Making,http://oshug.org/event/68
+668,Lobsters,ai,AI-ML,Theories on Artificial Expression (2013),https://max.io/articles/theories-on-artificial-expression/
+669,Lobsters,ai,AI-ML,“Breakthrough” algorithm exponentially faster than any previous one,https://www.seas.harvard.edu/content/breakthrough-algorithm-exponentially-faster-than-any-previous-one
+670,Lobsters,ai,AI-ML,Attempt at an intuitive neural-net library in C,https://github.com/mrpossoms/libnn
+671,Lobsters,ai,AI-ML,NLP's ImageNet moment has arrived,https://thegradient.pub/nlp-imagenet/
+672,Lobsters,ai,AI-ML,Identify a spoken language using artificial intelligence (LID),https://github.com/tomasz-oponowicz/spoken_language_identification
+673,Lobsters,ai,AI-ML,The Federalist Papers: Author Identification Through K-Means Clustering,https://blog.jonlu.ca/posts/the-federalist-papers-author-identification-through-k-means-clustering
+674,Lobsters,ai,AI-ML,Is deep learning a Markov chain in disguise?,https://www.r-bloggers.com/is-deep-learning-a-markov-chain-in-disguise/
+675,Lobsters,ai,AI-ML,A Brief Introduction to Adversarial Examples,http://people.csail.mit.edu/madry/lab/blog/adversarial/2018/07/06/adversarial_intro/
+676,Lobsters,ai,AI-ML,The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work,https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies
+677,Lobsters,ai,AI-ML,Clojure MXNet - The Module API,http://gigasquidsoftware.com/blog/2018/07/05/clojure-mxnet-the-module-api/
+678,Lobsters,ai,AI-ML,Adversarial Reprogramming of Neural Networks,https://arxiv.org/pdf/1806.11146.pdf
+679,Lobsters,ai,AI-ML,The State of Artificial Intelligence in 2018: A Good Old Fashioned Report,https://www.slideshare.net/nb410/the-state-of-artificial-intelligence-in-2018-a-good-old-fashioned-report-103568798
+680,Lobsters,ai,AI-ML,"No, you don't need ML/AI. You need SQL",https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html
+681,Lobsters,ai,AI-ML,Machine learning and heart pacemakers,/s/34tha2/machine_learning_heart_pacemakers
+682,Lobsters,ai,AI-ML,An Embedded Computer Vision Library and OpenCV Alternative,https://github.com/symisc/sod
+683,Lobsters,ai,AI-ML,Neural scene representation and rendering,https://deepmind.com/blog/neural-scene-representation-and-rendering/
+684,Lobsters,ai,AI-ML,ICE Modified Its 'Risk Assessment' Software So It Automatically Recommends Detention,https://motherboard.vice.com/en_us/article/evk3kw/ice-modified-its-risk-assessment-software-so-it-automatically-recommends-detention
+685,Lobsters,ai,AI-ML,Robust ML: A community-run reference for state-of-the-art adversarial example defenses,https://www.robust-ml.org
+686,Lobsters,ai,AI-ML,Deep code search,https://blog.acolyer.org/2018/06/26/deep-code-search/
+687,Lobsters,ai,AI-ML,Why the Future of Machine Learning is Tiny,https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/
+688,Lobsters,ai,AI-ML,OpenAI Five,https://blog.openai.com/openai-five/
+689,Lobsters,ai,AI-ML,"Explain yourself, machine. Producing simple text descriptions for AI interpretability.",https://lukeoakdenrayner.wordpress.com/2018/06/05/explain-yourself-machine-producing-simple-text-descriptions-for-ai-interpretability/
+690,Lobsters,ai,AI-ML,Curiosity-driven Exploration by Self-supervised Prediction,https://pathak22.github.io/noreward-rl/
+691,Lobsters,ai,AI-ML,Tensorflex: Tensorflow bindings for Elixir,http://www.anshumanc.ml/gsoc/2018/06/14/gsoc/
+692,Lobsters,ai,AI-ML,The Emergence of Inside Out Architectures in Deep Learning,https://medium.com/intuitionmachine/controlled-hallucinations-in-deep-learning-architecture-fd617150d677
+693,Lobsters,ai,AI-ML,Programming Paradigms for Machine Learning (2016),https://core.ac.uk/download/pdf/34662437.pdf
+694,Lobsters,ai,AI-ML,Through-Wall Human Pose Estimation Using Radio Signals,http://rfpose.csail.mit.edu/
+695,Lobsters,ai,AI-ML,What we talk about when we talk about fair AI,https://medium.com/bbc-news-labs/what-we-talk-about-when-we-talk-about-fair-ai-8c72204f0798
+696,Lobsters,ai,AI-ML,AI at Google: our principles,https://blog.google/topics/ai/ai-principles/
+697,Lobsters,ai,AI-ML,Deep Video Portraits - SIGGRAPH 2018,https://www.youtube.com/watch?v=qc5P2bvfl44
+698,Lobsters,ai,AI-ML,Building an AI Sensory System: Examining The Design of Thief: The Dark Project,https://www.gamasutra.com/view/feature/131297/building_an_ai_sensory_system_.php
+699,Lobsters,ai,AI-ML,AI Is Not Magic; It’s Manual Labor (& Math),https://medium.com/density-inc/ai-is-not-magic-its-manual-labor-math-how-we-built-an-accurate-people-counter-e00408ea30de
+700,Lobsters,ai,AI-ML,Tech Workers Versus the Pentagon,https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers
+701,Lobsters,ai,AI-ML,SOD - An Embedded Computer Vision and Machine Learning Library,https://sod.pixlab.io
+702,Lobsters,ai,AI-ML,Fast.ai: Up to speed with the best of Deep Learning,https://www.zerotosingularity.com/blog/fast.ai-up-to-speed-with-the-best-of-deep-learning/
+703,Lobsters,ai,AI-ML,Stanford DAWN,http://dawn.cs.stanford.edu/
+704,Lobsters,ai,AI-ML,Automatic Generation of Text Extraction Patterns,http://regex.inginf.units.it/
+705,Lobsters,ai,AI-ML,"Tensor Compilers: Comparing PlaidML, Tensor Comprehensions, and TVM",http://vertex.ai/blog/compiler-comparison
+706,Lobsters,ai,AI-ML,ML Practicum: Image Classification,https://developers.google.com/machine-learning/practica/image-classification/
+707,Lobsters,ai,AI-ML,Diagnostic performance of neural net versus 58 dermatologists for skin cancer recognition,https://academic.oup.com/annonc/advance-article/doi/10.1093/annonc/mdy166/5004443
+708,Lobsters,ai,AI-ML,Pixy2 Heterogeneous Computing CV Sensor,https://blog.hackster.io/pixy2-cv-sensor-is-smaller-faster-and-more-capable-than-the-original-9a1893d0ee14
+709,Lobsters,ai,AI-ML,AI winter is well on its way,https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
+710,Lobsters,ai,AI-ML,Understanding how to implement a character-based RNN language model,https://eli.thegreenplace.net/2018/understanding-how-to-implement-a-character-based-rnn-language-model/
+711,Lobsters,ai,AI-ML,"Cambricon, Makers of Huawei's Kirin NPU IP, Build A Big AI Chip and PCIe Card",https://www.anandtech.com/show/12815/cambricon-makers-of-huaweis-kirin-npu-ip-build-a-big-ai-chip-and-pcie-card
+712,Lobsters,ai,AI-ML,"ARM Details ""Project Trillium"" Machine Learning Processor Architecture",https://www.anandtech.com/show/12791/arm-details-project-trillium-mlp-architecture
+713,Lobsters,ai,AI-ML,Introducing Machine Learning Practica,https://www.blog.google/topics/machine-learning/introducing-machine-learning-practica/
+714,Lobsters,ai,AI-ML,Reinforcement Learning of Theorem Proving,https://arxiv.org/abs/1805.07563
+715,Lobsters,ai,AI-ML,Exception management at the heart of artificial intelligence performance,https://medium.com/processone/exception-management-at-the-heart-of-artificial-intelligence-performance-e9a4dafefc03
+716,Lobsters,ai,AI-ML,NTSB preliminary report on the fatal Uber self-driving car collision,https://www.ntsb.gov/investigations/AccidentReports/Reports/HWY18MH010-prelim.pdf
+717,Lobsters,ai,AI-ML,ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus,http://www.inference.vc/untitled/
+718,Lobsters,ai,AI-ML,Real-time Human Pose Estimation in the Browser with TensorFlow.js,https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+719,Lobsters,ai,AI-ML,Bitcoin As Explained by A.I.,http://botnik.org/content/bitcoin.html
+720,Lobsters,ai,AI-ML,Crypko [AI Blockchain Anime],https://crypko.ai/#/
+721,Lobsters,ai,AI-ML,AI and Compute,https://blog.openai.com/ai-and-compute/
+722,Lobsters,ai,AI-ML,How to Win at Machine Learning,https://cambium.consulting/articles/2018/5/16/how-to-win-at-machine-learning
+723,Lobsters,ai,AI-ML,A basic lack of understanding,https://notesfrombelow.org/article/a-basic-lack-of-understanding
+724,Lobsters,ai,AI-ML,Artificial intelligence is learning to see in the dark,https://qz.com/1279913/artificial-intelligence-is-learning-to-see-in-the-dark/
+725,Lobsters,ai,AI-ML,This Man Is the Godfather the AI Community Wants to Forget,https://www.bloomberg.com/news/features/2018-05-15/google-amazon-and-facebook-owe-j-rgen-schmidhuber-a-fortune
+726,Lobsters,ai,AI-ML,The World's Dominant Crypto-Mining Company Wants to Own AI,https://www.bloomberg.com/news/features/2018-05-17/china-s-crypto-chips-king-sets-his-sights-on-ai
+727,Lobsters,ai,AI-ML,Deep Convolutional Neural Networks as Models of the Visual System: Q&A,https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/
+728,Lobsters,ai,AI-ML,Why Swift for TensorFlow?,https://github.com/tensorflow/swift/blob/master/docs/WhySwiftForTensorFlow.md
+729,Lobsters,ai,AI-ML,What is mathwashing?,https://www.mathwashing.com/
+730,Lobsters,ai,AI-ML,Open Letter on Autonomous Weapons (2015),https://futureoflife.org/open-letter-autonomous-weapons/
+731,Lobsters,ai,AI-ML,"To Build Truly Intelligent Machines, Teach Them Cause and Effect",https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
+732,Lobsters,ai,AI-ML,An O(N) Sorting Algorithm: Machine Learning Sorting,https://arxiv.org/abs/1805.04272
+733,Lobsters,ai,AI-ML,The Elements of AI - a free online course,https://www.elementsofai.com/
+734,Lobsters,ai,AI-ML,LARNN: Linear Attention Recurrent Neural Network,https://github.com/guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network
+735,Lobsters,ai,AI-ML,"Re-coding Black Mirror, Part I",https://blog.acolyer.org/2018/05/14/re-coding-black-mirror-part-i/
+736,Lobsters,ai,AI-ML,Transcribe Japanese using Go and Machine Learning APIs,https://medium.com/@enocom/transcribe-japanese-using-go-and-machine-learning-apis-3ccc74f6c800
+737,Lobsters,ai,AI-ML,A Purely Functional Typed Approach to Trainable Models (Differentiable Programming in Haskell),https://blog.jle.im/entry/purely-functional-typed-models-1.html
+738,Lobsters,ai,AI-ML,Looking to Listen: Audio-Visual Speech Separation,http://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html
+739,Lobsters,ai,AI-ML,Open Images Dataset V4,https://storage.googleapis.com/openimages/web/index.html
+740,Lobsters,ai,AI-ML,Cambricon Unveils its First AI Chip for Cloud Computing,https://syncedreview.com/2018/05/03/cambricon-unveils-its-first-ai-chip-for-cloud-computing/
+741,Lobsters,ai,AI-ML,An AI for Deciphering What Animals Do All Day,http://news.columbia.edu/content/1923
+742,Lobsters,ai,AI-ML,Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone,http://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html
+743,Lobsters,ai,AI-ML,Equality of Opportunity in Supervised Learning,https://arxiv.org/abs/1610.02413
+744,Lobsters,ai,AI-ML,Deep Learning Made Simple,https://lobe.ai/
+745,Lobsters,ai,AI-ML,AI researchers allege that machine learning is alchemy,http://www.sciencemag.org/news/2018/05/ai-researchers-allege-machine-learning-alchemy
+746,Lobsters,ai,AI-ML,GloVe as a TensorFlow Embedding Layer [Practical Tutorial],https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer
+747,Lobsters,ai,AI-ML,AI Safety via Debate,https://blog.openai.com/debate/
+748,Lobsters,ai,AI-ML,Swift for TensorFlow's Graph Program Extraction,https://github.com/tensorflow/swift/blob/master/docs/GraphProgramExtraction.md
+749,Lobsters,ai,AI-ML,Zerg Rush: A History of StarCraft AI Research,https://medium.com/@t2thompson/zerg-rush-a-history-of-starcraft-ai-research-4478759a3c53
+750,Lobsters,ai,AI-ML,Text Classification Made Easy with Elasticsearch,https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch
+751,Lobsters,ai,AI-ML,Lime: Explaining the Predictions of any Machine Learning Classifier,https://github.com/marcotcr/lime
+752,Lobsters,ai,AI-ML,How I scaled Machine Learning to a Billion dollars: Strategy,https://medium.com/@analyticsaurabh/how-i-scaled-machine-learning-to-a-billion-dollars-strategy-2379faf86c02
+753,Lobsters,ai,AI-ML,Leela Chess Zero: AlphaZero for the PC,https://en.chessbase.com/post/leela-chess-zero-alphazero-for-the-pc
+754,Lobsters,ai,AI-ML,Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50,https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e
+755,Lobsters,ai,AI-ML,A Provably Correct Sampler for Probabilistic Programs (2016),https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/final.pdf
+756,Lobsters,ai,AI-ML,Black-box Adversarial Attacks with Limited Queries and Information,https://www.labsix.org/limited-information-adversarial-examples/
+757,Lobsters,ai,AI-ML,Deep Probabilistic Programming Languages: A Qualitative Study,https://arxiv.org/abs/1804.06458
+758,Lobsters,ai,AI-ML,SkyKnit: When knitters teamed up with a neural network,http://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural
+759,Lobsters,ai,AI-ML,Learning Assertions to Verify Linked-List Programs (2015),https://www-users.cs.york.ac.uk/~miked/publications/SEFM.15.learning_assertions.pdf
+760,Lobsters,ai,AI-ML,Towards a Programmer's Apprentice (Again) (2015),https://groups.csail.mit.edu/infolab/publications/Shrobe-Katz-Davis-AAAI-2015.pdf
+761,Lobsters,ai,AI-ML,A new way to automatically build road maps from aerial images,http://news.mit.edu/2018/new-way-to-automatically-build-road-maps-with-aerial-images-0417
+762,Lobsters,ai,AI-ML,VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop,https://ytaigman.github.io/loop/
+763,Lobsters,ai,AI-ML,Deep Painterly Harmonization (paper and code),https://github.com/luanfujun/deep-painterly-harmonization
+764,Lobsters,ai,AI-ML,FontCode: Embedding Information in Text Documents using Glyph Perturbation,http://www.cs.columbia.edu/cg/fontcode/fontcode.pdf
+765,Lobsters,ai,AI-ML,Helvetica Is Now An Encryption Device,https://www.fastcodesign.com/90167210/helvetica-is-now-an-encryption-device
+766,Lobsters,ai,AI-ML,Lessons Learned Reproducing a Deep Reinforcement Learning Paper,http://amid.fish/reproducing-deep-rl
+767,Lobsters,ai,AI-ML,Programming with a Differentiable Forth Interpreter (2017),https://arxiv.org/pdf/1605.06640.pdf
+768,Lobsters,ai,AI-ML,Mathematics for Machine Learning,https://mml-book.github.io/
+769,Lobsters,ai,AI-ML,Emmanuel Macron about AI,https://www.wired.com/story/emmanuel-macron-talks-to-wired-about-frances-ai-strategy/
+770,Lobsters,ai,AI-ML,Caffe64: Deep learning in 12 kilobytes,https://github.com/dfouhey/caffe64
+771,Lobsters,ai,AI-ML,Buzzword Convergence: Making Sense of Quantum Neural Blockchain AI—Stephen Wolfram Blog,http://blog.stephenwolfram.com/2018/04/buzzword-convergence-making-sense-of-quantum-neural-blockchain-ai/
+772,Lobsters,ai,AI-ML,Using Models at Runtime to Address Assurance for Self-Adaptive Systems (2014),https://arxiv.org/pdf/1505.00903.pdf
+773,Lobsters,ai,AI-ML,Car Wars,http://this.deakin.edu.au/lifestyle/car-wars
+774,Lobsters,ai,AI-ML,The Unreasonable Effectivness of Deep Learning,https://arxiv.org/abs/1803.10768
+775,Lobsters,ai,AI-ML,When Computers Decide: European Recommendations on Machine-Learned Automated Decision Making,http://www.informatics-europe.org/component/phocadownload/category/10-reports.html?download=74:automated-decision-making-report
+776,Lobsters,ai,AI-ML,Nonlinear Computation in Deep Linear Networks,https://blog.openai.com/nonlinear-computation-in-linear-networks/
+777,Lobsters,ai,AI-ML,9 awesome artificial intelligence and machine learning podcasts you should subscribe to,https://www.zerotosingularity.com/blog/9-ai-ml-podcasts-you-should-subscribe-to/
+778,Lobsters,ai,AI-ML,An informed short story of where today's ML could lead.,http://karpathy.github.io/2015/11/14/ai/
+779,Lobsters,ai,AI-ML,"I trained fake news detection AI with >95% accuracy, and almost went crazy",https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c
+780,Lobsters,ai,AI-ML,Genann is a minimal neural network library in ANSI C.,https://github.com/codeplea/genann
+781,Lobsters,ai,AI-ML,On the Origin of Circuits (2007),https://www.damninteresting.com/on-the-origin-of-circuits/
+782,Lobsters,ai,AI-ML,It certainly looks bad for Uber,http://ideas.4brad.com/it-certainly-looks-bad-uber
+783,Lobsters,ai,AI-ML,Verifying Safety for Neural Networks,http://ai2.ethz.ch/
+784,Lobsters,ai,AI-ML,Tempe Police Release Video of Uber Accident,https://twitter.com/tempepolice/status/976585098542833664?s=21
+785,Lobsters,ai,AI-ML,Will the ‘new electricity’ please stand up,http://blog.ikura.co/posts/will-the-new-electricity-please-stand-up.html
+786,Lobsters,ai,AI-ML,Random search appears to work better than some RL methods,http://benjamin-recht.github.io/2018/03/20/mujocoloco/
+787,Lobsters,ai,AI-ML,"What is Training Data, Really?",https://hackernoon.com/what-is-training-data-really-adf0b97a116c
+788,Lobsters,ai,AI-ML,"How AI is like having 10,000 interns",http://weared4.com/blog/what-is-your-ai-strategy/
+789,Lobsters,ai,AI-ML,Self-driving Uber car kills Arizona woman crossing street,https://www.reuters.com/article/us-autos-selfdriving-uber/woman-dies-in-arizona-after-being-hit-by-uber-self-driving-car-idUSKBN1GV296
+790,Lobsters,ai,AI-ML,The Machine Learning Reproducibility Crisis,https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/
+791,Lobsters,ai,AI-ML,Evolutionary Fabrication: the Co-Evolution of Form and Function (2006),http://www.demo.cs.brandeis.edu/papers/rieffel-dissertation.pdf
+792,Lobsters,ai,AI-ML,How I implemented iPhone X’s FaceID using Deep Learning in Python.,https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d
+793,Lobsters,ai,AI-ML,Humble Book Bundle: A.I. by Packt,https://www.humblebundle.com/books/artificial-intelligence-books
+794,Lobsters,ai,AI-ML,The Surprising Creativity of Digital Evolution,https://arxiv.org/pdf/1803.03453v1.pdf
+795,Lobsters,ai,AI-ML,PDL (alpha): download and discover datasets with one line of code.,https://www.zerotosingularity.com/posts/downloading-datasets-introducting-pdl/
+796,Lobsters,ai,AI-ML,NSynth Super,https://nsynthsuper.withgoogle.com
+797,Lobsters,ai,AI-ML,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes,https://arxiv.org/abs/1803.03453
+798,Lobsters,ai,AI-ML,Solving CAPTCHAs with TensorFlow and Ruby,https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c
+799,Lobsters,ai,AI-ML,Reptile: A Scalable Meta-Learning Algorithm,https://blog.openai.com/reptile/
+800,Lobsters,ai,AI-ML,Explained Simply: How an AI program mastered the ancient game of Go,https://medium.com/@mngrwl/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080
+801,Lobsters,ai,AI-ML,Low-precision computation can yield highly accurate solutions,http://dawn.cs.stanford.edu/2018/03/09/low-precision/
+802,Lobsters,ai,AI-ML,Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants (2016),https://arxiv.org/pdf/1602.07455.pdf
+803,Lobsters,ai,AI-ML,Yet another definition of Intelligence,https://medium.com/@giacomo_59737/yet-another-definition-of-intelligence-9bbaaa73086d
+804,Lobsters,ai,AI-ML,The Building Blocks of Interpretability,https://distill.pub/2018/building-blocks
+805,Lobsters,ai,AI-ML,Computers Learn to Imagine the Future,http://blogs.discovermagazine.com/crux/2018/02/28/computer-vision-motion-prediction/
+806,Lobsters,ai,AI-ML,How I learned to stop worrying and replaced my daughter's pancreas with TensorFlow,https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa
+807,Lobsters,ai,AI-ML,Do neural nets dream of electric sheep?,http://aiweirdness.com/post/171451900302/do-neural-nets-dream-of-electric-sheep
+808,Lobsters,ai,AI-ML,"John Carmack on OpenBSD, C++ & machine learning",https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590
+809,Lobsters,ai,AI-ML,Remember the winter,https://macwright.org/2018/02/25/remember-the-winter.html
+810,Lobsters,ai,AI-ML,Running your Coursera (and any other) Jupyter notebook locally,https://www.zerotosingularity.com/posts/coursera-jupyter-locally/
+811,Lobsters,ai,AI-ML,The threats to Artificial Intelligence,http://shamar.github.io/documents/2018_Milano_The-Delusions-of-Neural-Networks.pdf
+812,Lobsters,ai,AI-ML,The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets,https://arxiv.org/pdf/1802.08232.pdf
+813,Lobsters,ai,AI-ML,Machine learning with limited data,https://gcn.com/articles/2018/02/23/faster-neural-networks.aspx
+814,Lobsters,ai,AI-ML,Paradigms of Aritficial Intelligence Programming (a lisp classic) released under MIT,https://github.com/norvig/paip-lisp
+815,Lobsters,ai,AI-ML,MemesChain: own & monetize memes with the power of blockchain & AI,https://www.memeschain.com/
+816,Lobsters,ai,AI-ML,Noise warfare,https://www.seas.harvard.edu/news/2018/02/noise-warfare
+817,Lobsters,ai,AI-ML,Typesafe Abstractions for Tensor Operations (2017),https://www.cs.jhu.edu/~tongfei/paper/17-typesafe-tensors.pdf
+818,Lobsters,ai,AI-ML,HLogo: A Parallel Haskell Variant of Netlogo (2016),https://ccl.northwestern.edu/2017/4.pdf
+819,Lobsters,ai,AI-ML,Scientists develop harvesting robots that could revolutionise farming practices,https://www.plymouth.ac.uk/news/scientists-develop-harvesting-robots-that-could-revolutionise-farming-practices
+820,Lobsters,ai,AI-ML,Assessing Cardiovascular Risk Factors with Computer Vision,https://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html
+821,Lobsters,ai,AI-ML,New chip reduces neural networks' power consumption by up to 95 percent,https://news.mit.edu/2018/chip-neural-networks-battery-powered-devices-0214
+822,Lobsters,ai,AI-ML,How To Build A Notification That You Won’t Hate,https://hackernoon.com/how-to-build-a-notification-that-you-wont-hate-62bfaec722f1
+823,Lobsters,ai,AI-ML,Ant Colony Optimization algorithm for path planning purposes,https://github.com/PelayoChoya/ACO_path_planning
+824,Lobsters,ai,AI-ML,Deep Reinforcement Learning Doesn't Work Yet,http://www.alexirpan.com/2018/02/14/rl-hard.html
+825,Lobsters,ai,AI-ML,UC physicist creates computer chip that mimics the brain,http://www.canterbury.ac.nz/news/2018/uc-physicist-creates-computer-chip-that-mimics-the-brain.html
+826,Lobsters,ai,AI-ML,Background removal with deep learning,https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
+827,Lobsters,ai,AI-ML,Deep Learning: A Critical Appraisal,https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf
+828,Lobsters,ai,AI-ML,Why is machine learning in finance so hard?,https://www.hardikp.com/2018/02/11/why-is-machine-learning-in-finance-so-hard/
+829,Lobsters,ai,AI-ML,A Historical Perspective of Speech Recognition (2014),https://cacm.acm.org/magazines/2014/1/170863-a-historical-perspective-of-speech-recognition/fulltext
+830,Lobsters,ai,AI-ML,"Reddit bans fake celebrity porn, including controversial 'deepfakes'",https://www.dailydot.com/unclick/reddit-bans-deepfakes/
+831,Lobsters,ai,AI-ML,Worm Uploaded to a Computer and Trained to Balance a Pole,https://www.tuwien.ac.at/en/news/news_detail/article/125597/
+832,Lobsters,ai,AI-ML,Dango - Your Emoji Assistant,https://getdango.com/emoji-and-deep-learning/
+833,Lobsters,ai,AI-ML,DensePose -- Dense Human Pose Estimation In The Wild,http://densepose.org/
+834,Lobsters,ai,AI-ML,The Matrix Calculus You Need For Deep Learning,http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+835,Lobsters,ai,AI-ML,Breaking 7 / 8 of the ICLR 2018 adversarial example defenses,https://github.com/anishathalye/obfuscated-gradients
+836,Lobsters,ai,AI-ML,Caviar’s Word2Vec Tagging For Menu Item Recommendations,https://medium.com/square-corner-blog/caviars-word2vec-tagging-for-menu-item-recommendations-13f63d7f09d8
+837,Lobsters,ai,AI-ML,The Matrix Calculus You Need For Deep Learning,http://parrt.cs.usfca.edu/doc/matrix-calculus/
+838,Lobsters,ai,AI-ML,DevConf CZ 2018 - Videos,https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg
+839,Lobsters,ai,AI-ML,NIST’s Superconducting Synapse May Be Missing Piece for ‘Artificial Brains’,https://www.nist.gov/news-events/news/2018/01/nists-superconducting-synapse-may-be-missing-piece-artificial-brains
+840,Lobsters,ai,AI-ML,The UX of AI,https://design.google/library/ux-ai/
+841,Lobsters,ai,AI-ML,We Are Truly Fucked: Everyone Is Making AI-Generated Fake Porn Now,https://motherboard.vice.com/en_us/article/bjye8a/reddit-fake-porn-app-daisy-ridley
+842,Lobsters,ai,AI-ML,Tensorflow Release 1.5.0,https://github.com/tensorflow/tensorflow/releases/tag/v1.5.0
+843,Lobsters,ai,AI-ML,Poincaré Embeddings for Learning Hierarchical Representations,https://github.com/facebookresearch/poincare-embeddings
+844,Lobsters,ai,AI-ML,Learning Deep Learning,http://www.usrsb.in/learning-deep-learning.html
+845,Lobsters,ai,AI-ML,Detectron by Facebook AI Research (FAIR) Released,https://github.com/facebookresearch/Detectron
+846,Lobsters,ai,AI-ML,What I Learned Participating in My First Kaggle Competition,http://www.usrsb.in/first-kaggle-competition.html
+847,Lobsters,ai,AI-ML,Genetic Programming + Proof Search = Automatic Improvement (2015),https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9409-5.pdf
+848,Lobsters,ai,AI-ML,Facebook open sources Detectron,https://research.fb.com/facebook-open-sources-detectron/
+849,Lobsters,ai,AI-ML,Using Self-Organizing Maps to solve the Traveling Salesman Problem,https://diego.codes/post/som-tsp/
+850,Lobsters,ai,AI-ML,The delusions of neural networks,https://medium.com/@giacomo_59737/the-delusions-of-neural-networks-f7085d47edb6
+851,Lobsters,ai,AI-ML,Adversarial Patch,https://arxiv.org/pdf/1712.09665.pdf
+852,Lobsters,ai,AI-ML,The value of Event Sourcing,https://keith-mifsud.me/the-value-of-event-sourcing
+853,Lobsters,ai,AI-ML,Japanese scientists just used AI to read minds and it's amazing,https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html
+854,Lobsters,ai,AI-ML,Classical Data Structures That Can Outperform Learned Indexes,http://dawn.cs.stanford.edu/2018/01/11/index-baselines/
+855,Lobsters,ai,AI-ML,One model to learn them all,https://blog.acolyer.org/2018/01/12/one-model-to-learn-them-all/
+856,Lobsters,ai,AI-ML,Hidden Technical Debt in Machine Learning Systems,https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+857,Lobsters,ai,AI-ML,Model Training: a Short Story,https://mike-heaton.com/model-training-7973b911ca81
+858,Lobsters,ai,AI-ML,Turning Design Mockups Into Code With Deep Learning,https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+859,Lobsters,ai,AI-ML,Why Machine Learning Needs GPUs,https://motherboard.vice.com/en_us/article/kznnnn/why-machine-learning-needs-gpus
+860,Lobsters,ai,AI-ML,Get Connected with Bosch,https://www.bosch.de/events/get-connected-with-bosch/
+861,Lobsters,ai,AI-ML,Evolve with Genetic Algorithms,https://www.infoq.com/presentations/genetic-algorithms
+862,Lobsters,ai,AI-ML,Deep Learning Is Dead. Long Live Differentiable Programming,https://www.facebook.com/yann.lecun/posts/10155003011462143
+863,Lobsters,ai,AI-ML,NER with a CRF on top of a Bi-LSTM,https://createmomo.github.io/2017/12/07/Table-of-Contents/
+864,Lobsters,ai,AI-ML,Call for Presentations: BuzzConf '18,https://github.com/lambdaclass/buzzconf
+865,Lobsters,ai,AI-ML,The Biological Path Towards Strong AI,https://www.youtube.com/watch?v=-h-cz7yY-G8
+866,Lobsters,ai,AI-ML,Making China Great Again,https://www.newyorker.com/magazine/2018/01/08/making-china-great-again
+867,Lobsters,ai,AI-ML,Evolution Strategies as a Scalable Alternative to Reinforcement Learning,https://blog.openai.com/evolution-strategies/
+868,Lobsters,ai,AI-ML,Deploy Keras Image Recognition ML Models to the Web,https://www.helmspoint.com/?s=lob
+869,Lobsters,ai,AI-ML,Halite AI Programming Challenge,https://halite.io//
+870,Lobsters,ai,AI-ML,A Global Optimization Algorithm Worth Using,http://blog.dlib.net/2017/12/a-global-optimization-algorithm-worth.html
+871,Lobsters,ai,AI-ML,Generating inspirational quotes with Markov chains,http://www.ramtin.xyz/post/4
+872,Lobsters,ai,AI-ML,Andrew Ng launches AI + Manufacturing Startup: Revitalizing manufacturing through AI,https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814
+873,Lobsters,ai,AI-ML,Neuroevolution: A different kind of deep learning,https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning
+874,Lobsters,ai,AI-ML,Welcoming the Era of Deep Neuroevolution,https://eng.uber.com/deep-neuroevolution/
+875,Lobsters,ai,AI-ML,AI and Deep Learning in 2017: A year in review,http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
+876,Lobsters,ai,AI-ML,Python Data Science Handbook,https://jakevdp.github.io/PythonDataScienceHandbook/
+877,Lobsters,ai,AI-ML,"TensorFlow DataSet API, Functional Programming and Machine Learning",https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/
+878,Lobsters,ai,AI-ML,Auto-tuning Compiler Transformations with Machine Learning,https://www.youtube.com/watch?v=x7iLb-znxgU
+879,Lobsters,ai,AI-ML,My Favorite Deep Learning Papers of 2017,http://cachestocaches.com/2017/12/favorite-deep-learning-2017/
+880,Lobsters,ai,AI-ML,Topic Modeling with Scikit Learn,https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
+881,Lobsters,ai,AI-ML,deeplearn.js: a hardware-accelerated machine intelligence library for the web,https://deeplearnjs.org/
+882,Lobsters,ai,AI-ML,Machine Learning for Dummies,https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN
+883,Lobsters,ai,AI-ML,AI Playing DOOM,https://www.youtube.com/watch?v=oo0TraGu6QY
+884,Lobsters,ai,AI-ML,Why AI and machine learning researchers are beginning to embrace PyTorch,https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch
+885,Lobsters,ai,AI-ML,Hacker's guide to Neural Networks,http://karpathy.github.io/neuralnets/
+886,Lobsters,ai,AI-ML,Understanding Long Short Term Memory networks,http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+887,Lobsters,ai,AI-ML,"Creating a Chatbot with Deep Learning, Python, and TensorFlow",https://www.youtube.com/watch?v=dvOnYLDg8_Y
+888,Lobsters,ai,AI-ML,Are we really discussing the AI era’s perils properly?,https://medium.com/@hagarthehorrible/are-we-really-discussing-the-ai-eras-perils-properly-cffe6393b121
+889,Lobsters,ai,AI-ML,Using Machine Learning and Clojure to Chart the English Language,https://circleci.com/blog/charting-language/
+890,Lobsters,ai,AI-ML,Introducing NIMA: Neural Image Assessment,https://research.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html
+891,Lobsters,ai,AI-ML,How AlphaZero Wins,http://www.danamackenzie.com/blog/?p=5072
+892,Lobsters,ai,AI-ML,Do Androids Dream of Electric Blue?,http://timcheeseman.com/funwithcomputers/2017/12/21/do-androids-dream-of-electric-blue.html
+893,Lobsters,ai,AI-ML,Interactive Segmentation with Convolutional Neural Networks,https://medium.com/gifs-ai/interactive-segmentation-with-convolutional-neural-networks-2e171a85df82
+894,Lobsters,ai,AI-ML,Partial Information Attacks on Real-world AI,http://www.labsix.org/partial-information-adversarial-examples/
+895,Lobsters,ai,AI-ML,"Generalization Theory and Deep Nets, An introduction",http://offconvex.github.io/2017/12/08/generalization1/
+896,Lobsters,ai,AI-ML,Tacotron 2: Generating Human-like Speech from Text,https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html
+897,Lobsters,ai,AI-ML,The Real Danger To Civilization Isn’t AI. It’s Runaway Capitalism,https://www.buzzfeed.com/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway
+898,Lobsters,ai,AI-ML,Truth From Zero?,https://rjlipton.wordpress.com/2017/12/17/truth-from-zero/
+899,Lobsters,ai,AI-ML,When Data Science Destabilizes Democracy and Facilitates Genocide,http://www.fast.ai/2017/11/02/ethics/
+900,Lobsters,ai,AI-ML,Introduction to Word Embeddings - word2vec,http://mubaris.com/2017/12/14/word2vec/
+901,Lobsters,ai,AI-ML,Is AlphaZero really a scientific breakthrough in AI?,https://medium.com/@josecamachocollados/is-alphazero-really-a-scientific-breakthrough-in-ai-bf66ae1c84f2
+902,Lobsters,ai,AI-ML,Source Code Identifier Embeddings,https://blog.sourced.tech/post/id2vec/
+903,Lobsters,ai,AI-ML,Introducing Gluon: a new library for machine learning from AWS and Microsoft,https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/
+904,Lobsters,ai,AI-ML,Learning Combinatorial Algorithms Over Graphs (2017),https://arxiv.org/abs/1704.01665
+905,Lobsters,ai,AI-ML,How to break a CAPTCHA system in 15 minutes with Machine Learning,https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+906,Lobsters,ai,AI-ML,"AI, Deep Learning, and Machine Learning: A Primer",https://vimeo.com/170189199
+907,Lobsters,ai,AI-ML,AI-Assisted Fake Porn Is Here and We’re All Fucked,https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn
+908,Lobsters,ai,AI-ML,Detecting Diseases in Chest X-ray Using Deep Learning,http://blog.paralleldots.com/research/detecting-chest-xray-diseases/
+909,Lobsters,ai,AI-ML,Machine Learning for Systems and Systems for Machine Learning (2017),http://learningsys.org/nips17/assets/slides/dean-nips17.pdf
+910,Lobsters,ai,AI-ML,The Case for Learned Index Structures,https://www.arxiv-vanity.com/papers/1712.01208v1/
+911,Lobsters,ai,AI-ML,"Variational Autoencoder in PyTorch, commented and annotated.",https://vxlabs.com/2017/12/08/variational-autoencoder-in-pytorch-commented-and-annotated/
+912,Lobsters,ai,AI-ML,Kubeflow – Machine Learning Toolkit for Kubernetes,https://github.com/google/kubeflow
+913,Lobsters,ai,AI-ML,The impossibility of intelligence explosion,https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec
+914,Lobsters,ai,AI-ML,PyTorch: Fast Differentiable Dynamic Graphs in Python,https://www.youtube.com/watch?v=DBVLcgq2Eg0
+915,Lobsters,ai,AI-ML,Deep Image Prior,https://dmitryulyanov.github.io/deep_image_prior
+916,Lobsters,ai,AI-ML,Google AI beats the best chess engine till now,https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match
+917,Lobsters,ai,AI-ML,DeepMind’s AI became a superhuman chess player in a few hours,https://www.theverge.com/2017/12/6/16741106/deepmind-ai-chess-alphazero-shogi-go
+918,Lobsters,ai,AI-ML,On Machine Learning and Programming Languages,https://julialang.org/blog/2017/12/ml&pl
+919,Lobsters,ai,AI-ML,Using Artificial Intelligence to Augment Human Intelligence,https://distill.pub/2017/aia
+920,Lobsters,ai,AI-ML,AI Index report for 2017,http://www.aiindex.org/2017-report.pdf
+921,Lobsters,ai,AI-ML,"alphazero, deep mind AI, crush chess and shogi",https://arxiv.org/pdf/1712.01815.pdf
+922,Lobsters,ai,AI-ML,Optimization for Deep Learning Highlights in 2017,http://ruder.io/deep-learning-optimization-2017/
+923,Lobsters,ai,AI-ML,Unsupervised Image-to-Image Translation Networks,http://research.nvidia.com/publication/2017-12_Unsupervised-Image-to-Image-Translation
+924,Lobsters,ai,AI-ML,Learning Deep Learning: My Top-Five List,http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
+925,Lobsters,ai,AI-ML,Automated Caries Detection on Bitewing Radiographs Using Deep CNNs,http://blog.paralleldots.com/research/automated-caries-detection-bitewing-radiographs-using-deep-cnns/
+926,Lobsters,ai,AI-ML,Restoring and enhancing images using deep convolutional networks,https://dmitryulyanov.github.io/deep_image_prior.html
+927,Lobsters,ai,AI-ML,Text Analysis in Excel: Real world use-cases,http://blog.paralleldots.com/product/use-cases-excel-add-text-analysis/
+928,Lobsters,ai,AI-ML,Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset,https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/
+929,Lobsters,ai,AI-ML,Using AI to create photo-realistic faces of people who don't exist,https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/
+930,Lobsters,ai,AI-ML,Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples,https://arxiv.org/abs/1711.09576
+931,Lobsters,ai,AI-ML,Flare: Clojure Dynamic Neural Net Library,http://aria42.com/blog/2017/11/Flare-Clojure-Neural-Net
+932,Lobsters,ai,AI-ML,Gaussian Processes with Clojure,https://www.yieldbot.com/blog/gaussian-processes-with-clojure/
+933,Lobsters,ai,AI-ML,A Year in Computer Vision,http://www.themtank.org/a-year-in-computer-vision
+934,Lobsters,ai,AI-ML,r/MachineLearning: Low entry barrier is destroying deep learning reputation,https://www.reddit.com/r/MachineLearning/comments/7dqtby/d_low_entry_barrier_is_destroying_deep_learning/
+935,Lobsters,ai,AI-ML,Announcing Excel Add-in for ParallelDots AI APIs,http://blog.paralleldots.com/product/announcing-excel-add-paralleldots-ai-apis/
+936,Lobsters,ai,AI-ML,"Quick thoughts on ChestXray14, performance claims, and clinical tasks",https://lukeoakdenrayner.wordpress.com/2017/11/18/quick-thoughts-on-chestxray14-performance-claims-and-clinical-tasks/
+937,Lobsters,ai,AI-ML,"Artificial Life, Open-Ended Evolution, and the Origins of Biological Complexity",https://www.youtube.com/watch?v=qkHVIkOhABo
+938,Lobsters,ai,AI-ML,CUDA Tutorial: Implicit Matrix Factorization on the GPU,http://www.benfrederickson.com/implicit-matrix-factorization-on-the-gpu/
+939,Lobsters,ai,AI-ML,"Trying to organize my Twitter timeline, using unsupervised learning",https://emsal.me/blog/4
+940,Lobsters,ai,AI-ML,MENACE: the pile of matchboxes which can learn,https://www.youtube.com/watch?v=R9c-_neaxeU
+941,Lobsters,ai,AI-ML,Tangent: Source-to-Source Debuggable Derivatives,https://opensource.googleblog.com/2017/11/tangent-source-to-source-debuggable.html
+942,Lobsters,ai,AI-ML,Announcing TensorFlow Lite,https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html
+943,Lobsters,ai,AI-ML,A Guide to Natural Language Processing,https://tomassetti.me/guide-natural-language-processing/
+944,Lobsters,ai,AI-ML,Data Tagging in Medical Imaging - Diving Deep into the Processes,http://blog.paralleldots.com/healthcare/data-tagging-medical-imaging-diving-deep-processes/
+945,Lobsters,ai,AI-ML,Foo bar machines,http://blog.ikura.co/posts/foo-bar-machines.html
+946,Lobsters,ai,AI-ML,Attacking Machine Learning with Adversarial Examples,https://blog.openai.com/adversarial-example-research/
+947,Lobsters,ai,AI-ML,IBM pitched Watson as a revolution in cancer care. It's nowhere close,https://www.statnews.com/2017/09/05/watson-ibm-cancer/
+948,Lobsters,ai,AI-ML,Software 2.0,https://medium.com/@karpathy/software-2-0-a64152b37c35
+949,Lobsters,ai,AI-ML,A Visual Guide to Evolution Strategies,http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
+950,Lobsters,ai,AI-ML,On the State of the Art of Evaluation in Neural Language Models,https://arxiv.org/pdf/1707.05589v1.pdf
+951,Lobsters,ai,AI-ML,Capsule Networks Explained,https://kndrck.co/posts/capsule_networks_explained/
+952,Lobsters,ai,AI-ML,Haskell Theory Exploration,http://chriswarbo.net/git/haskell-te
+953,Lobsters,ai,AI-ML,Real-Time ASCII Art rendering using a single decision tree,https://art.pixlab.io/
+954,Lobsters,ai,AI-ML,NLP Framework spaCy v2.0.0 Released,https://spacy.io/usage/v2
+955,Lobsters,ai,AI-ML,Feature Visualization,https://distill.pub/2017/feature-visualization
+956,Lobsters,ai,AI-ML,Deep Learning notebook walkthrough in Clojure,http://gigasquidsoftware.com/blog/2017/11/07/cats-and-dogs-with-cortex-redux/
+957,Lobsters,ai,AI-ML,Global NIPS Paper Implementation Challenge,https://nurture.ai/nips-challenge/
+958,Lobsters,ai,AI-ML,Deep learning models with demos,http://pretrained.ml/
+959,Lobsters,ai,AI-ML,"MINIX — The most popular OS in the world, thanks to Intel",https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html
+960,Lobsters,ai,AI-ML,Automated Analysis of Cybercriminal Markets,https://evidencebasedsecurity.org/forums/
+961,Lobsters,ai,AI-ML,"Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language",https://eng.uber.com/pyro/
+962,Lobsters,ai,AI-ML,Magic Paper,http://cognitivemedium.com/magic_paper/
+963,Lobsters,ai,AI-ML,How to scale data tagging in medical imaging,http://blog.paralleldots.com/healthcare/data-tagging-medical-imaging-overview/
+964,Lobsters,ai,AI-ML,My bet is on Chomsky,https://mempko.wordpress.com/2017/11/02/my-bet-is-on-chomsky/
+965,Lobsters,ai,AI-ML,How Adversarial Attacks Work,http://blog.ycombinator.com/how-adversarial-attacks-work/
+966,Lobsters,ai,AI-ML,Duckling: a Haskell library that parses text into structured data,https://github.com/facebook/duckling
+967,Lobsters,ai,AI-ML,Fooling Neural Networks in the Physical World with 3D Adversarial Objects,http://www.labsix.org/physical-objects-that-fool-neural-nets/
+968,Lobsters,ai,AI-ML,Continuous Integration for ML Projects,https://medium.com/onfido-tech/continuous-integration-for-ml-projects-e11bc1a4d34f
+969,Lobsters,ai,AI-ML,ICLR 2018 Reproducibility Challenge,http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
+970,Lobsters,ai,AI-ML,On The Notion Of Interestingness In Automated Mathematical Discovery (2000),http://spiral.imperial.ac.uk:8080/bitstream/10044/1/675/1/On%20the%20notion%20of%20interestingness.pdf
+971,Lobsters,ai,AI-ML,Defeating Google's audio reCaptcha with 85% accuracy.,https://github.com/ecthros/uncaptcha
+972,Lobsters,ai,AI-ML,Learning a Hierarchy,https://blog.openai.com/learning-a-hierarchy/
+973,Lobsters,ai,AI-ML,Neural Networks API in Android 8.1,https://developer.android.com/ndk/guides/neuralnetworks/index.html
+974,Lobsters,ai,AI-ML,ASYNC October '17: Machine Learning and Games online mini-conference,http://metamakersinstitute.com/events/async/
+975,Lobsters,ai,AI-ML,TensorFlow 101,https://mubaris.com/2017-10-21/tensorflow-101
+976,Lobsters,ai,AI-ML,Announcing PlaidML: Open Source Deep Learning for Every Platform,http://vertex.ai/blog/announcing-plaidml
+977,Lobsters,ai,AI-ML,Mastering the Game of Go Without Human Knowledge,https://deepmind.com/documents/119/agz_unformatted_nature.pdf
+978,Lobsters,ai,AI-ML,AlphaGo Zero: Learning from scratch,https://deepmind.com/blog/alphago-zero-learning-scratch/
+979,Lobsters,ai,AI-ML,Stop Using word2vec,http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/
+980,Lobsters,ai,AI-ML,How Zendesk Serves TensorFlow Models in Production,https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b
+981,Lobsters,ai,AI-ML,Why Most Decisions Are Easy in Tetris,http://proceedings.mlr.press/v48/simsek16.pdf
+982,Lobsters,ai,AI-ML,OpenAI: Competitive Self-Play,https://blog.openai.com/competitive-self-play/
+983,Lobsters,ai,AI-ML,Universal adversarial perturbations,https://blog.acolyer.org/2017/09/12/universal-adversarial-perturbations/
+984,Lobsters,ai,AI-ML,Implementation of Poincaré Embeddings for Learning Hierarchical Representations(Facebook Research),https://github.com/nishnik/poincare_embeddings
+985,Lobsters,ai,AI-ML,Tensorflow sucks,http://nicodjimenez.github.io/2017/10/08/tensorflow.html
+986,Lobsters,ai,AI-ML,Is artificial intelligence going off the rails? (Terry Winograd interview),https://theoutline.com/post/2373/is-artificial-intelligence-going-off-the-rails
+987,Lobsters,ai,AI-ML,Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks,https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/
+988,Lobsters,ai,AI-ML,Machine Learning for Intraday Stock Price Prediction 1: Linear Models,https://hardikp.github.io/2017/10/03/intraday-stock-price-prediction-1/
+989,Lobsters,ai,AI-ML,They Drove Cross-Country In An Autonomous Minivan Without GPS. In 1995. (2015),https://jalopnik.com/they-drove-cross-country-in-an-autonomous-minivan-witho-1696330141
+990,Lobsters,ai,AI-ML,Generating Synthetic Computer Vision Training Data,http://www.csun.io/2017/08/31/synthetic-cv-dataset.html
+991,Lobsters,ai,AI-ML,Will humanity become gut bacteria for AI?,https://jonathannen.com/from-the-gut.html
+992,Lobsters,ai,AI-ML,RNNoise: Learning Noise Suppression,https://people.xiph.org/~jm/demo/rnnoise/
+993,Lobsters,ai,AI-ML,NVIDIA open sources Deep Learning Accelerator in Verilog,http://nvdla.org/
+994,Lobsters,ai,AI-ML,Machine Learning Glossary,https://developers.google.com/machine-learning/glossary/
+995,Lobsters,ai,AI-ML,Learn how to build and train a machine learning model from scratch! - Vivint's Game of Codes,https://goc.vivint.com/problems/mlc
+996,Lobsters,ai,AI-ML,Unity Machine Learning Agents,https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/
+997,Lobsters,ai,AI-ML,Veeocho - CUDA as a service,https://veeocho.com/
+998,Lobsters,ai,AI-ML,All the Linear Algebra You Need for AI,https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb
+999,Lobsters,ai,AI-ML,"AllenNLP – An open-source NLP research library, built on PyTorch",http://allennlp.org/
+1000,Lobsters,ai,AI-ML,EvalAI: An open source alternative of Kaggle,https://github.com/Cloud-CV/EvalAI
+1001,Lobsters,ai,AI-ML,AI Uses Less Than Two Minutes of Videogame Footage to Recreate Game Engine,https://gvu.gatech.edu/ai-uses-less-two-minutes-videogame-footage-recreate-game-engine
+1002,Lobsters,ai,AI-ML,Exploring and Visualizing an Open Global Dataset,https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html
+1003,Lobsters,ai,AI-ML,Transformer: A Novel Neural Network Architecture for Language Understanding,https://research.googleblog.com/2017/08/transformer-novel-neural-network.html
+1004,Lobsters,ai,AI-ML,deeplearning.ai - New Coursera ML MOOC,http://deeplearning.ai
+1005,Lobsters,ai,AI-ML,Teaching a Neural Network to play a game using Q-learning,https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/
+1006,Lobsters,ai,AI-ML,The Seven Deadly Sins of Predicting the Future of AI,http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
+1007,Lobsters,ai,AI-ML,Advances in AI are used to spot signs of sexuality,https://www.economist.com/news/science-and-technology/21728614-machines-read-faces-are-coming-advances-ai-are-used-spot-signs
+1008,Lobsters,ai,AI-ML,What are modern options for sharing machine learning datasets?,https://blog.helmspoint.com/posts/2017/09/05/sharing-machine-learning-datasets.html
+1009,Lobsters,ai,AI-ML,Using Deep Learning to Predict and Improve the Popularity of Photos,https://cornea.ai/
+1010,Lobsters,ai,AI-ML,Optimizing 360 photos at scale,https://code.facebook.com/posts/129055711052260/optimizing-360-photos-at-scale/
+1011,Lobsters,ai,AI-ML,Upload weights to deploy Keras models,https://www.helmspoint.com
+1012,Lobsters,ai,AI-ML,Automatic database management system tuning through large-scale machine learning,https://blog.acolyer.org/2017/08/11/automatic-database-management-system-tuning-through-large-scale-machine-learning/
+1013,Lobsters,ai,AI-ML,"The curious connection between warehouse maps, movie recommendations, and structural biology",http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/
+1014,Lobsters,ai,AI-ML,Using Deep Learning to Create Professional-Level Photographs,https://research.googleblog.com/2017/07/using-deep-learning-to-create.html
+1015,Lobsters,ai,AI-ML,Learning to Blame: Localizing Novice Type Errors with Data-Driven Diagnosis,https://arxiv.org/pdf/1708.07583.pdf
+1016,Lobsters,ai,AI-ML,"Deep Learning and Reinforcement Learning Summer School, Montreal 2017",http://videolectures.net/deeplearning2017_montreal/
+1017,Lobsters,ai,AI-ML,Machine Learning Explained,http://rodneybrooks.com/forai-machine-learning-explained/
+1018,Lobsters,ai,AI-ML,Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG,https://www.youtube.com/watch?v=QuvRWevJMZ4
+1019,Lobsters,ai,AI-ML,Towards a category theory approach to analogy: Analyzing re-representation and acquisition of numerical knowledge,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005683
+1020,Lobsters,ai,AI-ML,"SMT-based Synthesis of Distributed, Self-Stabilizing Systems (2015)",http://www.cas.mcmaster.ca/borzoo/Publications/15/TAAS/taas15.pdf
+1021,Lobsters,ai,AI-ML,Deep Reinforcement Learning: Pong from Pixels,http://karpathy.github.io/2016/05/31/rl/
+1022,Lobsters,ai,AI-ML,mycroft-precise: wake word listener,https://github.com/MycroftAI/mycroft-precise
+1023,Lobsters,ai,AI-ML,Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis (2017),http://pages.cs.wisc.edu/~loris/papers/las17.pdf
+1024,Lobsters,ai,AI-ML,Satellite Image Segmentation: a Workflow with U-Net,https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
+1025,Lobsters,ai,AI-ML,A Friendly Introduction to Convolutional Neural Networks,https://hashrocket.com/blog/posts/a-friendly-introduction-to-convolutional-neural-networks
+1026,Lobsters,ai,AI-ML,How Are PCA and SVD Related?,https://intoli.com/blog/pca-and-svd/
+1027,Lobsters,ai,AI-ML,What should we learn from past AI forecasts?,http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts
+1028,Lobsters,ai,AI-ML,A Beginner’s Guide to AI/ML,https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
+1029,Lobsters,ai,AI-ML,The future of deep learning,https://blog.keras.io/the-future-of-deep-learning.html
+1030,Lobsters,ai,AI-ML,Practical Text Classification for Production Systems,https://www.hardikp.com/2017/08/17/text-classification/
+1031,Lobsters,ai,AI-ML,Taxonomy of Humans According to Twitter,https://thenewinquiry.com/taxonomy-of-humans-according-to-twitter/
+1032,Lobsters,ai,AI-ML,Google's Anti-Bullying AI Mistakes Civility for Decency,https://motherboard.vice.com/en_us/article/qvvv3p/googles-anti-bullying-ai-mistakes-civility-for-decency
+1033,Lobsters,ai,AI-ML,Must-read papers about image classification using deep learning,https://www.linkedin.com/pulse/must-read-path-breaking-papers-image-classification-muktabh-mayank
+1034,Lobsters,ai,AI-ML,"A ""data-driven"" approach to improving HMM-based map-matching",https://mapzen.com/blog/map-matching-validation
+1035,Lobsters,ai,AI-ML,Robust Physical-World Attacks on Machine Learning Models,https://arxiv.org/abs/1707.08945
+1036,Lobsters,ai,AI-ML,Data Science Digest - Issue #10,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-10-68406
+1037,Lobsters,ai,AI-ML,Fairness in Man vs. Machine Competitions,http://fuzyll.com///2017/fairness-in-man-vs-machine-competitions/
+1038,Lobsters,ai,AI-ML,Bringing Deep Learning to OpenCL,http://vertex.ai/blog/bringing-deep-learning-to-opencl
+1039,Lobsters,ai,AI-ML,WaveFunctionCollapse is Constraint Solving in the Wild,http://isaackarth.com/papers/wfc_is_constraint_solving_in_the_wild/
+1040,Lobsters,ai,AI-ML,Create Anime Characters with AI,http://make.girls.moe/
+1041,Lobsters,ai,AI-ML,Hyperopt tutorial for Optimizing Neural Networks' Hyperparameters,http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/
+1042,Lobsters,ai,AI-ML,"Perform sentiment analysis with LSTMs, using TensorFlow",https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
+1043,Lobsters,ai,AI-ML,Self Driving Cars Will Not Solve the Transportation Problem,http://penguindreams.org/blog/self-driving-cars-will-not-solve-the-transportation-problem
+1044,Lobsters,ai,AI-ML,Play Rock-Paper-Scissors with your webcam,https://tenso.rs/demos/rock-paper-scissors/
+1045,Lobsters,ai,AI-ML,DeepMind and Blizzard open StarCraft II as an AI research environment,https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
+1046,Lobsters,ai,AI-ML,On the Imminence and Danger of AI [2015],https://archive.li/fi5Xn
+1047,Lobsters,ai,AI-ML,Awesome Deep Learning Resources,https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+1048,Lobsters,ai,AI-ML,CiF-CK: An Architecture for Social NPCs in Commercial Games,https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf
+1049,Lobsters,ai,AI-ML,3 Simple Steps to Implement Inverse Kinematics,http://gamasutra.com/blogs/LuisBermudez/20170804/303066/3_Simple_Steps_to_Implement_Inverse_Kinematics.php
+1050,Lobsters,ai,AI-ML,"Predicting Housing Prices with Linear Regression using Python, pandas, and statsmodels",http://www.learndatasci.com/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/
+1051,Lobsters,ai,AI-ML,Prompto's Facebook: How a Buddy-AI Auto-Snapshots Your Adventure in FFXV,https://www.youtube.com/watch?v=ictRlPZQCZI
+1052,Lobsters,ai,AI-ML,Prodigy: A new tool for radically efficient machine teaching,https://explosion.ai/blog/prodigy-annotation-tool-active-learning
+1053,Lobsters,ai,AI-ML,Data Science Digest - Issue #9,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-9-67190
+1054,Lobsters,ai,AI-ML,Transitioning entirely to neural machine translation,https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/
+1055,Lobsters,ai,AI-ML,WTTE-RNN: A less hacky churn prediction,https://github.com/ragulpr/wtte-rnn
+1056,Lobsters,ai,AI-ML,LSTMs for Human Activity Recognition,https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
+1057,Lobsters,ai,AI-ML,Discover structure behind data with decision trees,http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/
+1058,Lobsters,ai,AI-ML,Natural Language Processing with Small Feed-Forward Networks,https://arxiv.org/pdf/1708.00214.pdf
+1059,Lobsters,ai,AI-ML,AI quickly cooks malware that AV software can't spot,https://www.theregister.co.uk/2017/07/31/ai_defeats_antivirus_software/
+1060,Lobsters,ai,AI-ML,A Follow-up to “The Unreasonable Ineffectiveness of Machine Learning in Computer Systems Research”,https://www.sigarch.org/a-follow-up-to-the-unreasonable-ineffectiveness-of-machine-learning-in-computer-systems-research/
+1061,Lobsters,ai,AI-ML,TensorFire: Blazing fast in-browser neural networks,https://tenso.rs/demos/fast-neural-style/
+1062,Lobsters,ai,AI-ML,Geolocation of Twitter Users,https://www.continuum.io/blog/developer-blog/galvanize-capstone-series-geolocation-twitter-users
+1063,Lobsters,ai,AI-ML,Readers forced to take quiz to show they understand story before commenting on it (2017-03),http://www.independent.co.uk/life-style/gadgets-and-tech/news/nrk-norwegian-news-site-comments-read-story-understand-post-quiz-questions-a7607246.html
+1064,Lobsters,ai,AI-ML,Feynman Machine: The Universal Dynamical Systems Computer (2016),https://arxiv.org/abs/1609.03971
+1065,Lobsters,ai,AI-ML,Microsoft Security Risk Detection,https://www.microsoft.com/en-us/security-risk-detection/
+1066,Lobsters,ai,AI-ML,Using Tensorflow in a Chicken Coop,http://www.bigendiandata.com/2017-07-12-Tensor_Chicken/
+1067,Lobsters,ai,AI-ML,"Drive me to Toronto, Hal.",http://blog.cleancoder.com/uncle-bob/2017/07/24/DriveMeToTorontoHal.html
+1068,Lobsters,ai,AI-ML,How to think about non-linear progress?,/s/tz0dq0/how_think_about_non_linear_progress
+1069,Lobsters,ai,AI-ML,Technical Debt in Machine Learning,https://medium.com/towards-data-science/technical-debt-in-machine-learning-8b0fae938657
+1070,Lobsters,ai,AI-ML,Data Science Digest - Issue #8,http://datasciencedigest.flyelephant.net/issues/data-science-digest-issue-8-56450
+1071,Lobsters,ai,AI-ML,A Step-by-Step Guide to Synthesizing Adversarial Examples,http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/
+1072,Lobsters,ai,AI-ML,Understanding Neural Network Weight Initialization,https://intoli.com/blog/neural-network-initialization/
+1073,Lobsters,ai,AI-ML,How to make a racist AI without really trying,https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed
+1074,Lobsters,ai,AI-ML,A Practical Guide to Tree Based Learning Algorithms,https://sadanand-singh.github.io/posts/treebasedmodels
+1075,Lobsters,ai,AI-ML,Some advice for journalists writing about artificial intelligence,http://togelius.blogspot.com/2017/07/some-advice-for-journalists-writing.html
+1076,Lobsters,ai,AI-ML,The limitations of deep learning,https://blog.keras.io/the-limitations-of-deep-learning.html
+1077,Lobsters,ai,AI-ML,Hidden Technical Debt in Machine Learning Systems (2015),https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+1078,Lobsters,ai,AI-ML,Using Machine Learning to Predict Value of Homes On Airbnb,https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d
+1079,Lobsters,ai,AI-ML,Neural Machine Translation (seq2seq) Tutorial,https://github.com/tensorflow/nmt
+1080,Lobsters,ai,AI-ML,How Checkers Was Solved,https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/
+1081,Lobsters,ai,AI-ML,Best Books for Machine Learning with Python,https://www.onlinebooksreview.com/articles/top-5-best-books-for-machine-learning-with-python
+1082,Lobsters,ai,AI-ML,CatBoost: an open-source gradient boosting library,https://catboost.yandex/
+1083,Lobsters,ai,AI-ML,Gnod - The Global Network Of Discovery,http://www.gnod.com
+1084,Lobsters,ai,AI-ML,Robust Adversarial Examples,https://blog.openai.com/robust-adversarial-inputs/
+1085,Lobsters,ai,AI-ML,Mozilla is trying to crowdsource voice recognition,https://voice.mozilla.org/
+1086,Lobsters,ai,AI-ML,Entity Extraction and Network Analysis,http://brandonrose.org/ner2sna
+1087,Lobsters,ai,AI-ML,Synthesizing Obama: Learning Lip Sync from Audio,http://grail.cs.washington.edu/projects/AudioToObama/
+1088,Lobsters,ai,AI-ML,"Google: ""Goggles Does NOT Do Face Recognition"" (2010)",http://spectrum.ieee.org/tech-talk/consumer-electronics/portable-devices/google-goggles-does-not-do-face-recognition
+1089,Lobsters,ai,AI-ML,Yanni sings,http://blog.ikura.co/posts/yanni-sings.html
+1090,Lobsters,ai,AI-ML,Writing with the machine,https://www.robinsloan.com/notes/writing-with-the-machine/
+1091,Lobsters,ai,AI-ML,AI Creates Fake Obama,http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-creates-fake-obama
+1092,Lobsters,ai,AI-ML,Mimic Snapchat Filters Programmatically,https://blog.pixlab.io/2017/07/mimic-snapchat-filters
+1093,Lobsters,ai,AI-ML,Facets,https://pair-code.github.io/facets/
+1094,Lobsters,ai,AI-ML,Reconstructing pictures with machine learning,http://arogozhnikov.github.io/2016/02/09/DrawingPictureWithML.html
+1095,Lobsters,ai,AI-ML,Mycroft Artificial Intelligence,https://mycroft.ai/
+1096,Lobsters,ai,AI-ML,CS231n: Convolutional Neural Networks for Visual Recognition,http://cs231n.github.io/
+1097,Lobsters,ai,AI-ML,How to build a simple neural network in 9 lines of Python code,https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+1098,Lobsters,ai,AI-ML,An Adversarial Review of “Adversarial Generation of Natural Language”,https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7
+1099,Lobsters,ai,AI-ML,On Chomsky and the Two Cultures of Statistical Learning (2011),http://norvig.com/chomsky.html
+1100,Lobsters,ai,AI-ML,It is as if you were doing work,https://pippinbarr.github.io/itisasifyouweredoingwork/
+1101,Lobsters,ai,AI-ML,Functional programming for deep learning,https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9
+1102,Lobsters,ai,AI-ML,Developing Bug-Free Machine Learning Systems With Formal Mathematics,https://arxiv.org/abs/1706.08605
+1103,Lobsters,ai,AI-ML,"How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native",https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+1104,Lobsters,ai,AI-ML,One Model To Learn Them All,https://arxiv.org/abs/1706.05137
+1105,Lobsters,ai,AI-ML,Probabilistic programming from scratch,https://www.oreilly.com/learning/probabilistic-programming-from-scratch
+1106,Lobsters,ai,AI-ML,MultiModel: Multi-Task Machine Learning Across Domains,https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html
+1107,Lobsters,ai,AI-ML,Which GPU(s) to Get for Deep Learning,http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/
+1108,Lobsters,ai,AI-ML,AI Progress Measurement,https://www.eff.org/ai/metrics
+1109,Lobsters,ai,AI-ML,Divide and conquer: How Microsoft researchers used AI to master Ms. Pac-Man,https://blogs.microsoft.com/next/2017/06/14/divide-conquer-microsoft-researchers-used-ai-master-ms-pac-man
+1110,Lobsters,ai,AI-ML,Indexing Faces on Instagram,https://kndrck.co/indexing-faces-on-instagram.html
+1111,Lobsters,ai,AI-ML,Tag proposal: AI,/s/lcwvie/tag_proposal_ai

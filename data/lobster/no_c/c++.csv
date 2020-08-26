@@ -1,0 +1,854 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,c++,C++ programming,BespokeSynth - A modular software synth,https://github.com/awwbees/BespokeSynth
+2,Lobsters,c++,C++ programming,Eliminating the Static Overhead of Ranges,https://vector-of-bool.github.io/2019/10/21/rngs-static-ovr.html
+3,Lobsters,c++,C++ programming,Benign Data Races Considered Harmful,https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/
+4,Lobsters,c++,C++ programming,REMS - Rigorous Engineering of Mainstream Systems,https://www.cl.cam.ac.uk/~pes20/rems/
+5,Lobsters,c++,C++ programming,Handles are the better pointers,https://floooh.github.com/2018/06/17/handles-vs-pointers.html
+6,Lobsters,c++,C++ programming,AddressSanitizer for Windows: x64 and Debug Build Support,https://devblogs.microsoft.com/cppblog/asan-for-windows-x64-and-debug-build-support/
+7,Lobsters,c++,C++ programming,Overriding virtual functions at run time,https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/
+8,Lobsters,c++,C++ programming,Categories for the Working C++ Programmer,https://bartoszmilewski.com/2020/08/05/categories-for-the-working-c-programmer/
+9,Lobsters,c++,C++ programming,Multi-Threading in C/C++: Implications on Software Library Design,https://www.karlrupp.net/2016/03/multithreading-software-library-design/
+10,Lobsters,c++,C++ programming,"Lambda syntax changes, C++11 to C++20",https://www.bfilipek.com/2020/08/lambda-syntax.html
+11,Lobsters,c++,C++ programming,"C++ Creator Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust",https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/
+12,Lobsters,c++,C++ programming,Designing a physics engine,https://blog.winter.dev/2020/designing-a-physics-engine/
+13,Lobsters,c++,C++ programming,"xmake v2.3.6 released, Support fortran compilation and go/dlang package dependences","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.6-released,-Support-fortran-compilation-and-go-dlang-package-dependences"
+14,Lobsters,c++,C++ programming,Remake - GNU Make with comprehensible tracing and a debugger,http://bashdb.sourceforge.net/remake/
+15,Lobsters,c++,C++ programming,C++ For C# Developers: Part 10 – Struct Basics,https://jacksondunstan.com/articles/5616
+16,Lobsters,c++,C++ programming,Avoid character-by-character processing when performance matters,https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/
+17,Lobsters,c++,C++ programming,New features in CMake 3.18,https://www.qt.io/blog/new-features-in-cmake-3.18
+18,Lobsters,c++,C++ programming,Branchless Programming: Why “If” is Sloowww… and what we can do about it,https://www.youtube.com/watch?v=bVJ-mWWL7cE
+19,Lobsters,c++,C++ programming,3 ways to filter through collections in C++,https://heylucas.net/2020/07/20/3-ways-to-filter-through-collections-in-c/
+20,Lobsters,c++,C++ programming,Debugging a dynamic linking bug in a Nix project,https://www.johnbcoughlin.com/posts/nix-dynamic-linking/
+21,Lobsters,c++,C++ programming,Implementing a better views::split,https://brevzin.github.io/c++/2020/07/06/split-view/
+22,Lobsters,c++,C++ programming,Two Beautiful Rust Programs,https://matklad.github.io//2020/07/15/two-beautiful-programs.html
+23,Lobsters,c++,C++ programming,Why You Can't Use Prebuilt LLVM 10.0 with C++17,https://erikmcclure.com/blog/why-you-cant-use-prebuilt-llvm-with-cpp17/
+24,Lobsters,c++,C++ programming,The Fatal Flaw of Ownership Semantics,https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/
+25,Lobsters,c++,C++ programming,C++?? A C++ Critique (1992),http://www.modulaware.com/mdlt28.htm
+26,Lobsters,c++,C++ programming,BespokeSynth - A modular software synth,https://github.com/awwbees/BespokeSynth
+27,Lobsters,c++,C++ programming,Eliminating the Static Overhead of Ranges,https://vector-of-bool.github.io/2019/10/21/rngs-static-ovr.html
+28,Lobsters,c++,C++ programming,Benign Data Races Considered Harmful,https://bartoszmilewski.com/2020/08/11/benign-data-races-considered-harmful/
+29,Lobsters,c++,C++ programming,REMS - Rigorous Engineering of Mainstream Systems,https://www.cl.cam.ac.uk/~pes20/rems/
+30,Lobsters,c++,C++ programming,Handles are the better pointers,https://floooh.github.com/2018/06/17/handles-vs-pointers.html
+31,Lobsters,c++,C++ programming,AddressSanitizer for Windows: x64 and Debug Build Support,https://devblogs.microsoft.com/cppblog/asan-for-windows-x64-and-debug-build-support/
+32,Lobsters,c++,C++ programming,Overriding virtual functions at run time,https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/
+33,Lobsters,c++,C++ programming,Categories for the Working C++ Programmer,https://bartoszmilewski.com/2020/08/05/categories-for-the-working-c-programmer/
+34,Lobsters,c++,C++ programming,Multi-Threading in C/C++: Implications on Software Library Design,https://www.karlrupp.net/2016/03/multithreading-software-library-design/
+35,Lobsters,c++,C++ programming,"Lambda syntax changes, C++11 to C++20",https://www.bfilipek.com/2020/08/lambda-syntax.html
+36,Lobsters,c++,C++ programming,"C++ Creator Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust",https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/
+37,Lobsters,c++,C++ programming,Designing a physics engine,https://blog.winter.dev/2020/designing-a-physics-engine/
+38,Lobsters,c++,C++ programming,"xmake v2.3.6 released, Support fortran compilation and go/dlang package dependences","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.6-released,-Support-fortran-compilation-and-go-dlang-package-dependences"
+39,Lobsters,c++,C++ programming,Remake - GNU Make with comprehensible tracing and a debugger,http://bashdb.sourceforge.net/remake/
+40,Lobsters,c++,C++ programming,C++ For C# Developers: Part 10 – Struct Basics,https://jacksondunstan.com/articles/5616
+41,Lobsters,c++,C++ programming,Avoid character-by-character processing when performance matters,https://lemire.me/blog/2020/07/21/avoid-character-by-character-processing-when-performance-matters/
+42,Lobsters,c++,C++ programming,New features in CMake 3.18,https://www.qt.io/blog/new-features-in-cmake-3.18
+43,Lobsters,c++,C++ programming,Branchless Programming: Why “If” is Sloowww… and what we can do about it,https://www.youtube.com/watch?v=bVJ-mWWL7cE
+44,Lobsters,c++,C++ programming,3 ways to filter through collections in C++,https://heylucas.net/2020/07/20/3-ways-to-filter-through-collections-in-c/
+45,Lobsters,c++,C++ programming,Debugging a dynamic linking bug in a Nix project,https://www.johnbcoughlin.com/posts/nix-dynamic-linking/
+46,Lobsters,c++,C++ programming,Implementing a better views::split,https://brevzin.github.io/c++/2020/07/06/split-view/
+47,Lobsters,c++,C++ programming,Two Beautiful Rust Programs,https://matklad.github.io//2020/07/15/two-beautiful-programs.html
+48,Lobsters,c++,C++ programming,Why You Can't Use Prebuilt LLVM 10.0 with C++17,https://erikmcclure.com/blog/why-you-cant-use-prebuilt-llvm-with-cpp17/
+49,Lobsters,c++,C++ programming,The Fatal Flaw of Ownership Semantics,https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/
+50,Lobsters,c++,C++ programming,C++?? A C++ Critique (1992),http://www.modulaware.com/mdlt28.htm
+51,Lobsters,c++,C++ programming,"xmake v2.3.5 released, Multi toolchain flexible switching support","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.5-released,-Multi-toolchain-flexible-switching-support"
+52,Lobsters,c++,C++ programming,Magnum Engine,https://magnum.graphics/
+53,Lobsters,c++,C++ programming,Stupid std::tuple tricks: Creating interesting index sequences,https://devblogs.microsoft.com/oldnewthing/20200625-00/?p=103890
+54,Lobsters,c++,C++ programming,The C++ Lambda Story Book,https://www.bfilipek.com/2020/06/lambdastory.html
+55,Lobsters,c++,C++ programming,"Compiling a Functional Language Using C++, Part 12 - Let/In and Lambdas",https://danilafe.com/blog/12_compiler_let_in_lambda/
+56,Lobsters,c++,C++ programming,OpenSHC: A Versatile Multilegged Robot Controller,https://research.csiro.au/robotics/openshc/
+57,Lobsters,c++,C++ programming,Thriving in a crowded and changing world: C++ 2006–2020,https://dl.acm.org/doi/10.1145/3386320
+58,Lobsters,c++,C++ programming,"Contracts, Undefined Behavior, and Defensive Programming",http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1743r0.pdf
+59,Lobsters,c++,C++ programming,A lightweight dex file parsing library,https://github.com/tboox/dexbox
+60,Lobsters,c++,C++ programming,Plasma 5.19: A more Polished Plasma,https://kde.org/announcements/plasma-5.19.0
+61,Lobsters,c++,C++ programming,C++ Insights,https://cppinsights.io/
+62,Lobsters,c++,C++ programming,"xmake v2.3.4 released, Better toolchain support","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.4-released,-Better-toolchain-support"
+63,Lobsters,c++,C++ programming,Making Collabora Online trivial to setup,https://people.gnome.org/~michael/blog/2020-06-03-php-online-proxy.html
+64,Lobsters,c++,C++ programming,Qt Embedded Systems – Part 1: Building a Linux Image with Yocto,https://www.embeddeduse.com/2020/05/26/qt-embedded-systems-1-build-linux-image-with-yocto/
+65,Lobsters,c++,C++ programming,"Github Actions, C++ with Boost and cmake, almost a 50% speedup with caching",https://raymii.org/s/articles/Github_Actions_cpp_boost_cmake_speedup.html
+66,Lobsters,c++,C++ programming,const is a contract,https://quuxplusone.github.io/blog/2019/01/03/const-is-a-contract/
+67,Lobsters,c++,C++ programming,C++20: The Unspoken Features,https://humanreadablemag.com/issues/3/articles/cpp20-the-unspoken-features
+68,Lobsters,c++,C++ programming,Template metaprogramming trick: Get the compiler to tell you what type you have,https://devblogs.microsoft.com/oldnewthing/20200528-00/?p=103804
+69,Lobsters,c++,C++ programming,What science can tell us about C and C++'s security,https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/
+70,Lobsters,c++,C++ programming,Faster Integer Parsing,https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html
+71,Lobsters,c++,C++ programming,dbanay/Smalltalk - “by the blue book” c++ implementation of Smalltalk-80,https://github.com/dbanay/Smalltalk
+72,Lobsters,c++,C++ programming,Analyzing The Simplest C++ Program,https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/
+73,Lobsters,c++,C++ programming,Memory safety,https://www.chromium.org/Home/chromium-security/memory-safety
+74,Lobsters,c++,C++ programming,Relative Pointers,https://www.gingerbill.org/article/2020/05/17/relative-pointers/
+75,Lobsters,c++,C++ programming,Goals and priorities for C++,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2137r0.html
+76,Lobsters,c++,C++ programming,A noinline inline function? What sorcery is this?,https://devblogs.microsoft.com/oldnewthing/20200521-00/?p=103777
+77,Lobsters,c++,C++ programming,Adding anyref support in a C++ to WebAssembly compiler,https://medium.com/leaningtech/adding-anyref-support-in-a-c-to-webassembly-compiler-2bba3fac707f
+78,Lobsters,c++,C++ programming,King releases the Defold game engine under a permissive license,https://defold.com/2020/05/19/Defold-is-now-open-source/
+79,Lobsters,c++,C++ programming,modern c++ gamedev - thoughts & misconceptions,https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html
+80,Lobsters,c++,C++ programming,Runtime Polymorphism Without Objects or Virtual Functions,https://www.fluentcpp.com/2020/05/15/runtime-polymorphism-without-virtual-functions/
+81,Lobsters,c++,C++ programming,"Inside std::function, part 1: The basic idea",https://devblogs.microsoft.com/oldnewthing/20200513-00/?p=103745
+82,Lobsters,c++,C++ programming,Lomuto’s Comeback,https://dlang.org/blog/2020/05/14/lomutos-comeback/
+83,Lobsters,c++,C++ programming,A common C/C++ core specification,http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2494.pdf
+84,Lobsters,c++,C++ programming,Shadesmar -- Fast C++ IPC using shared memory,https://github.com/squadrick/shadesmar
+85,Lobsters,c++,C++ programming,Enforcing locking with C++ nonmovable types,https://nibblestew.blogspot.com/2020/05/enforcing-locking-with-c-nonmovable.html
+86,Lobsters,c++,C++ programming,C++ Is Faster and Safer Than Rust: Benchmarked by Yandex,https://www.viva64.com/en/b/0733/
+87,Lobsters,c++,C++ programming,The Essence of C++,https://www.youtube.com/watch?v=86xWVb4XIyE
+88,Lobsters,c++,C++ programming,"Here be dragons, or, invalidated iterators",https://raymii.org/s/blog/Here_be_dragons_or_invalidated_iterators.html
+89,Lobsters,c++,C++ programming,A Few Billion Lines of Code Later: Using Static Analysis to Find Bugs in the Real World (2010),https://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext
+90,Lobsters,c++,C++ programming,I Accidentaly Wrote A Compile-Time Executable State Machine,https://philippegroarke.com/posts/2020/constexpr_fsm/
+91,Lobsters,c++,C++ programming,Full Proof that C++ Grammar is Undecidable,https://medium.com/@mujjingun_23509/full-proof-that-c-grammar-is-undecidable-34e22dd8b664
+92,Lobsters,c++,C++ programming,Gede: a graphical frontend (GUI) to GDB written in C++,http://acidron.com/gede/pmwiki.php?n=Main.HomePage
+93,Lobsters,c++,C++ programming,"xmake v2.3.3 released, Support for building iOS MacOS Framework and App","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.3-released,-Support-for-building-iOS-MacOS-Framework-and-App"
+94,Lobsters,c++,C++ programming,Smarter C/C++ inlining with __attribute__((flatten)),https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/
+95,Lobsters,c++,C++ programming,A static injector of dynamic library for application,https://github.com/lanoox/luject
+96,Lobsters,c++,C++ programming,Terminators,https://adishavit.github.io/2016/terminators/
+97,Lobsters,c++,C++ programming,"C++ async, threads and user input",https://raymii.org/s/articles/Cpp_async_threads_and_user_input.html
+98,Lobsters,c++,C++ programming,The New Clang _ExtInt Feature Provides Exact Bitwidth Integer Types,http://blog.llvm.org/2020/04/the-new-clang-extint-feature-provides.html
+99,Lobsters,c++,C++ programming,Default function arguments are the devil,https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil/
+100,Lobsters,c++,C++ programming,A gradle plugin that integrates xmake seamlessly,https://github.com/xmake-io/xmake-gradle
+101,Lobsters,c++,C++ programming,ptmalloc2 vs tcmalloc vs hoard vs jemalloc While Trying to Simulate Real-World Loads (2018),http://ithare.com/testing-memory-allocators-ptmalloc2-tcmalloc-hoard-jemalloc-while-trying-to-simulate-real-world-loads/
+102,Lobsters,c++,C++ programming,Comparing Cpp And Erlang For Motorola Telecoms Software,https://www.slideshare.net/Arbow/comparing-cpp-and-erlang-for-motorola-telecoms-software
+103,Lobsters,c++,C++ programming,Fast Fully Homomorphic Encryption Library over the Torus,https://github.com/tfhe/tfhe
+104,Lobsters,c++,C++ programming,Welcome back to C++ - Modern C++,https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp
+105,Lobsters,c++,C++ programming,Vector Containers For Delphi and FPC,https://jonlennartaasenden.wordpress.com/2020/04/11/vector-containers-for-delphi-and-fpc/
+106,Lobsters,c++,C++ programming,"Fast, accurate summation of floating-point numbers",http://blog.zachbjornson.com/2019/08/11/fast-float-summation.html
+107,Lobsters,c++,C++ programming,Optimizable Code,https://deplinenoise.wordpress.com/2013/12/28/optimizable-code/
+108,Lobsters,c++,C++ programming,request for testing Elmer FEM,https://www.reddit.com/r/fea/comments/fvhs3z/elmer_fem_request_for_testing
+109,Lobsters,c++,C++ programming,Finite element software for numerical solution of partial differential equations,https://github.com/ElmerCSC/elmerfem
+110,Lobsters,c++,C++ programming,I ported Heart of Darkness to the Original Xbox,https://www.youtube.com/watch?v=f4rNhTTwGgk
+111,Lobsters,c++,C++ programming,New features in CMake 3.17,https://www.qt.io/blog/new-features-in-cmake-3.17
+112,Lobsters,c++,C++ programming,New templates for debugging CMake projects on remote systems and WSL in Visual Studio 2019,https://devblogs.microsoft.com/cppblog/new-templates-for-debugging-cmake-projects-on-remote-systems-and-wsl-in-visual-studio-2019/
+113,Lobsters,c++,C++ programming,Building pyarrow with CUDA support,https://randyzwitch.com/pyarrow-cuda-support/
+114,Lobsters,c++,C++ programming,An photography workflow application and raw developer (GPLv3),https://github.com/darktable-org/darktable
+115,Lobsters,c++,C++ programming,Zero-overhead deterministic failure - A unified mechanism for C and C++ (2018),http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2289.pdf
+116,Lobsters,c++,C++ programming,c_str-correctness,https://quuxplusone.github.io/blog/2020/03/20/c-str-correctness/
+117,Lobsters,c++,C++ programming,Chromium build times,https://www.cygnus-software.com/chromiumbuildvisualizer/
+118,Lobsters,c++,C++ programming,When is *x also &x?,https://quuxplusone.github.io/blog/2020/03/31/asterisk-and-ampersand/
+119,Lobsters,c++,C++ programming,"xmake v2.3.2 released, Build as fast as ninja","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.2,-Build-as-fast-as-ninja"
+120,Lobsters,c++,C++ programming,Compiler for Neural Network hardware accelerators (Apache 2 License),https://github.com/pytorch/glow
+121,Lobsters,c++,C++ programming,Texture Mapping & Polygon Rasterizing Tutorial [C++20],https://www.youtube.com/watch?v=PahbNFypubE
+122,Lobsters,c++,C++ programming,A Performance-Based Comparison of C/C++ Compilers (2017),https://colfaxresearch.com/compiler-comparison/
+123,Lobsters,c++,C++ programming,IntelliSense Code Linter for C++,https://devblogs.microsoft.com/cppblog/intellisense-code-linter-for-cpp/
+124,Lobsters,c++,C++ programming,Implementing a Line Filter in C++,https://www.fluentcpp.com/2020/03/27/implementing-a-control-flow-filter-in-cpp/
+125,Lobsters,c++,C++ programming,"Compiling a Functional Language Using C++, Part 10 - Polymorphism",https://danilafe.com/blog/10_compiler_polymorphism/
+126,Lobsters,c++,C++ programming,Stop Teaching C [to C++ beginners],https://www.youtube.com/watch?v=YnWhqhNdYyk
+127,Lobsters,c++,C++ programming,"C/C++ porting, QTX and general status",https://jonlennartaasenden.wordpress.com/2020/03/15/c-c-porting-qtx-and-general-status/
+128,Lobsters,c++,C++ programming,"Optimizations That Aren't, Or Are They?",https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write
+129,Lobsters,c++,C++ programming,How to Get the “Table of Contents” Of a Long Function,https://www.fluentcpp.com/2020/03/13/how-to-get-the-table-of-contents-of-a-long-function/
+130,Lobsters,c++,C++ programming,C++17 Signal-Slots,https://dreamdota.com/c-17-signals/
+131,Lobsters,c++,C++ programming,How can I create a type-dependent expression that is always false?,https://devblogs.microsoft.com/oldnewthing/20200311-00/?p=103553
+132,Lobsters,c++,C++ programming,An Extraterrestrial Guide to C++20 Text Formatting,https://www.bfilipek.com/2020/02/extra-format-cpp20.html
+133,Lobsters,c++,C++ programming,Generating random numbers in C++,https://diego.assencio.com/?index=6890b8c50169ef45b74db135063c227c
+134,Lobsters,c++,C++ programming,std::accumulate vs. std::reduce,https://blog.tartanllama.xyz/accumulate-vs-reduce/
+135,Lobsters,c++,C++ programming,Thoughts on “The C++ Rvalue Lifetime Disaster”,https://quuxplusone.github.io/blog/2020/03/04/rvalue-lifetime-disaster/
+136,Lobsters,c++,C++ programming,Should there be a standard C++ pattern for this? transform_to,https://devblogs.microsoft.com/oldnewthing/20200228-00/?p=103498
+137,Lobsters,c++,C++ programming,Custom client-side window decorations in Qt 5.15,https://www.qt.io/blog/custom-window-decorations
+138,Lobsters,c++,C++ programming,Using std::unique_ptr with Qt,https://agateau.com/2019/using-std-unique-ptr-with-qt/
+139,Lobsters,c++,C++ programming,"Getting rid of ""volatile"" in (some of) Qt",https://www.kdab.com/getting-rid-of-volatile-in-some-of-qt/
+140,Lobsters,c++,C++ programming,Introduction to SerenityOS GUI programming,https://awesomekling.github.io/Introduction-to-SerenityOS-GUI-programming/
+141,Lobsters,c++,C++ programming,The Performance Benefits of Final Classes,https://devblogs.microsoft.com/cppblog/the-performance-benefits-of-final-classes/
+142,Lobsters,c++,C++ programming,dougbinks/enkiTS v1.8 release,https://github.com/dougbinks/enkiTS/releases/tag/v1.8
+143,Lobsters,c++,C++ programming,Rust dependencies scare,https://blog.debiania.in.ua/posts/2020-03-01-rust-dependencies-scare.html
+144,Lobsters,c++,C++ programming,Garbage Collection - No Thanks,https://www.modernescpp.com/index.php/garbage-collectio-no-thanks
+145,Lobsters,c++,C++ programming,In-class Member Initialisation: From C++11 to C++20,https://www.bfilipek.com/2015/02/non-static-data-members-initialization.html
+146,Lobsters,c++,C++ programming,Tools to Bind to Python,https://iscinumpy.gitlab.io/post/tools-to-bind-to-python/
+147,Lobsters,c++,C++ programming,C++ Core Guidelines: Rules to Resource Management,https://www.modernescpp.com/index.php/c-core-guidelines-rules-to-resource-management
+148,Lobsters,c++,C++ programming,A journey to searching Have I Been Pwned database in 49μs,http://stryku.pl/poetry/okon.php
+149,Lobsters,c++,C++ programming,Burkhard on Qt Embedded Systems: No. 3,https://mailchi.mp/bff24b0308f1/burkhard-on-qt-embedded-systems-no-3
+150,Lobsters,c++,C++ programming,No more pink mustache,https://rachelbythebay.com/w/2020/02/29/poof/
+151,Lobsters,c++,C++ programming,A quick primer on type traits in modern C++,https://www.internalpointers.com/post/quick-primer-type-traits-modern-cpp
+152,Lobsters,c++,C++ programming,AVX-512 Auto-Vectorization in MSVC,https://devblogs.microsoft.com/cppblog/avx-512-auto-vectorization-in-msvc/
+153,Lobsters,c++,C++ programming,The Day The Standard Library Died,https://cor3ntin.github.io/posts/abi/
+154,Lobsters,c++,C++ programming,C++20 designated initializers,https://mariusbancila.ro/blog/2020/02/27/c20-designated-initializers/
+155,Lobsters,c++,C++ programming,How I use references,https://cor3ntin.github.io/posts/reference/
+156,Lobsters,c++,C++ programming,"Practice makes perfect, part 3 - Idiomatic Kata",https://blog.feabhas.com/2020/02/practice-makes-perfect-part-3-idiomatic-kata/
+157,Lobsters,c++,C++ programming,Demystifying C++ lambdas,https://blog.feabhas.com/2014/03/demystifying-c-lambdas/
+158,Lobsters,c++,C++ programming,Contract killing (in Modern C++),https://blog.feabhas.com/2019/09/contract-killing-in-modern-c/
+159,Lobsters,c++,C++ programming,Packaging and Distributing cppyy-generated Python Bindings for C++ Projects,http://www.camillescott.org/2019/04/11/cmake-cppyy/
+160,Lobsters,c++,C++ programming,openkick: incomplete implementation of AmigaOS's exec.library,https://github.com/mooli/openkick
+161,Lobsters,c++,C++ programming,C++ Frequently Questioned Answers,https://yosefk.com/c++fqa/fqa.html
+162,Lobsters,c++,C++ programming,Let’s talk about C++ constructors,https://phaazon.net/blog/c++-constructors
+163,Lobsters,c++,C++ programming,"References, simply",https://herbsutter.com/2020/02/23/references-simply/
+164,Lobsters,c++,C++ programming,Mixin(ish) classes with parameter packs in C++,https://monoinfinito.wordpress.com/2020/02/18/mixinish-classes-with-parameter-packs-in-c/
+165,Lobsters,c++,C++ programming,QtWebAssembly: Calling javascript from C++ with Emscripten,http://qtandeverything.blogspot.com/2020/02/qtwebassembly-calling-javascript-from-c.html
+166,Lobsters,c++,C++ programming,"If you're not keeping the parameter, then you still want to have separate T const& and T&& overloads",https://devblogs.microsoft.com/oldnewthing/20200220-00/?p=103463
+167,Lobsters,c++,C++ programming,Dealing with Makefile Projects in CLion: Status Update,https://blog.jetbrains.com/clion/2020/02/dealing-with-makefiles/
+168,Lobsters,c++,C++ programming,Being smart about ownership: The mindset for understanding smart pointers,https://blog.cerebralab.com/Being_smart_about_ownership
+169,Lobsters,c++,C++ programming,"Move, simply",https://herbsutter.com/2020/02/17/move-simply/
+170,Lobsters,c++,C++ programming,C++20 is Done,https://www.reddit.com/r/cpp/comments/f47x4o/202002_prague_iso_c_committee_trip_report_c20_is/
+171,Lobsters,c++,C++ programming,Visual Studio Code CMake Tools Extension: Multi-root workspaces and file-based API,https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-multi-root-workspaces-and-file-based-api/
+172,Lobsters,c++,C++ programming,GCC from ’87 on the 68000,https://virtuallyfun.com/wordpress/2020/02/13/gcc-from-87-on-the-68000/
+173,Lobsters,c++,C++ programming,Cross Platform Development with Qt and Visual Studio,https://www.qt.io/blog/cross-platform-development-with-qt-and-visual-studio
+174,Lobsters,c++,C++ programming,Improving Compilation Time of C/C++ Projects,https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects
+175,Lobsters,c++,C++ programming,Toward _FORTIFY_SOURCE parity between Clang and GCC,https://developers.redhat.com/blog/2020/02/11/toward-_fortify_source-parity-between-clang-and-gcc/
+176,Lobsters,c++,C++ programming,Minetest -- an open source infinite-world block sandbox game,https://github.com/minetest/minetest
+177,Lobsters,c++,C++ programming,Investigating the Performance Overhead of C++ Exceptions,https://pspdfkit.com/blog/2020/performance-overhead-of-exceptions-in-cpp/
+178,Lobsters,c++,C++ programming,"Compiling a Functional Language Using C++, Part 9 - Garbage Collection",https://danilafe.com/blog/09_compiler_garbage_collection/
+179,Lobsters,c++,C++ programming,Code Navigation for CMake Scripts,https://devblogs.microsoft.com/cppblog/code-navigation-for-cmake-scripts/
+180,Lobsters,c++,C++ programming,The constexpr array size problem,https://brevzin.github.io/c++/2020/02/05/constexpr-array-size/
+181,Lobsters,c++,C++ programming,A Universal I/O Abstraction for C++,https://cor3ntin.github.io/posts/iouring/
+182,Lobsters,c++,C++ programming,"Why does my C++/WinRT project get errors of the form ""abi<...>::... is abstract see reference to producer<...>""?",https://devblogs.microsoft.com/oldnewthing/20200206-00/?p=103414
+183,Lobsters,c++,C++ programming,Survey of Automated Vulnerability Detection and Exploit Generation Techniques in C.R.S.'s (2018),https://arxiv.org/pdf/1702.06162.pdf
+184,Lobsters,c++,C++ programming,Various Ways of Applying a Function to the Elements of a Collection in C++,https://www.fluentcpp.com/2020/02/07/transform-adaptor-equivalent-in-cpp/
+185,Lobsters,c++,C++ programming,SFINAE special members or support incomplete types: Pick at most one,https://quuxplusone.github.io/blog/2020/02/05/vector-is-copyable-except-when-its-not/
+186,Lobsters,c++,C++ programming,std::vector and Minimizing Includes,https://www.randygaul.net/2019/04/21/stdvector-and-minimizing-includes/
+187,Lobsters,c++,C++ programming,KDevelop 5.5 released,https://www.kdevelop.org/news/kdevelop-550-released
+188,Lobsters,c++,C++ programming,Activity Indicators - Example of a Modern C++ Library,https://www.bfilipek.com/2020/02/inidicators.html
+189,Lobsters,c++,C++ programming,Less Love for FOSS Qt Users,https://www.embeddeduse.com/2020/02/02/less-love-for-foss-qt-users/
+190,Lobsters,c++,C++ programming,"Emulator bug? No, LLVM bug",https://cookieplmonster.github.io/2020/02/01/emulator-bug-llvm-bug/
+191,Lobsters,c++,C++ programming,C++ Modules conformance improvements with MSVC in Visual Studio 2019 16.5,https://devblogs.microsoft.com/cppblog/c-modules-conformance-improvements-with-msvc-in-visual-studio-2019-16-5/
+192,Lobsters,c++,C++ programming,How linking works,https://joellaity.com/2020/01/25/linking.html
+193,Lobsters,c++,C++ programming,release 1.0.0 HElib is an open-source (Apache v2.0) C++ library implementing homomorphic encryption,https://github.com/homenc/HElib/tree/v1.0.0
+194,Lobsters,c++,C++ programming,Burkhard on Qt Embedded Systems: No. 2,https://mailchi.mp/2d294016551f/burkhard-on-qt-embedded-systems-no-2
+195,Lobsters,c++,C++ programming,How to Combine Functions with Logical Operators in C++,https://www.fluentcpp.com/2020/01/31/how-to-combine-functions-with-logical-operators-in-c/
+196,Lobsters,c++,C++ programming,CLion starts 2020.1 Early Access Program: improvements to Clang-based tools and debugger (...),https://blog.jetbrains.com/clion/2020/01/clion-starts-2020-1-eap/
+197,Lobsters,c++,C++ programming,A little hidden gem: QStringIterator,https://www.kdab.com/a-little-hidden-gem-qstringiterator/
+198,Lobsters,c++,C++ programming,Cost of a thread in C++ under Linux,https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/
+199,Lobsters,c++,C++ programming,libc++’s implementation of std::string,https://joellaity.com/2020/01/31/string.html
+200,Lobsters,c++,C++ programming,Improve Parallelism in MSBuild,https://devblogs.microsoft.com/cppblog/improved-parallelism-in-msbuild/
+201,Lobsters,c++,C++ programming,Requires-expression,https://akrzemi1.wordpress.com/2020/01/29/requires-expression/
+202,Lobsters,c++,C++ programming,A rant against flow control macros (2005),https://devblogs.microsoft.com/oldnewthing/20050106-00/?p=36783
+203,Lobsters,c++,C++ programming,How to Short-Circuit a Sequence of Operations with a Boolean Value,https://www.fluentcpp.com/2020/01/28/how-to-short-circuit-a-sequence-of-operations-with-a-boolean-value/
+204,Lobsters,c++,C++ programming,Interview with Jonathan Blow,https://oxide.computer/blog/on-the-metal-9-jonathan-blow/
+205,Lobsters,c++,C++ programming,Qt offering changes 2020,https://www.qt.io/blog/qt-offering-changes-2020
+206,Lobsters,c++,C++ programming,Hacking on Clang is surprisingly easy,https://mort.coffee/home/clang-compiler-hacking/
+207,Lobsters,c++,C++ programming,C++ 11 makes C++ my favorite language again! (2014),https://www.linkedin.com/pulse/20140808221052-33334114-c-11-makes-c-my-favorite-language-again
+208,Lobsters,c++,C++ programming,"OpenSSL client and server from scratch, part 1",https://quuxplusone.github.io/blog/2020/01/24/openssl-part-1/
+209,Lobsters,c++,C++ programming,Mikado Refactoring with C++ Feature Macros,https://www.fluentcpp.com/2020/01/24/mikado-refactoring-with-c-feature-macros/
+210,Lobsters,c++,C++ programming,"CMake, Linux targeting, and IntelliSense improvements in Visual Studio 2019 version 16.5 Preview 2",https://devblogs.microsoft.com/cppblog/cmake-linux-targeting-and-intellisense-improvements-in-visual-studio-2019-version-16-5-preview-2/
+211,Lobsters,c++,C++ programming,Hidden reinterpret_casts,https://quuxplusone.github.io/blog/2020/01/22/expression-list-in-functional-cast/
+212,Lobsters,c++,C++ programming,Peeking inside C++/CX delegates,https://devblogs.microsoft.com/oldnewthing/20200124-00/?p=103362
+213,Lobsters,c++,C++ programming,Why the Sorbet typechecker is fast,https://blog.nelhage.com/post/why-sorbet-is-fast/
+214,Lobsters,c++,C++ programming,"C++ devs, why didn't you use C++ for a project which you could have?",/s/zeov5j/c_devs_why_didn_t_you_use_c_for_project_which
+215,Lobsters,c++,C++ programming,"""Use the Force, Luke""... or Modern C++ Tools",https://www.bfilipek.com/2020/01/modern-cpp-tools-check.html
+216,Lobsters,c++,C++ programming,How To Write Shared Libraries (2011),https://www.akkadia.org/drepper/dsohowto.pdf
+217,Lobsters,c++,C++ programming,Enumerate() with Structure-Bindings and C++20 Coroutines,https://www.cppfiddler.com/2020/01/20/enumerate-with-structure-bindings-and-c20-coroutines/
+218,Lobsters,c++,C++ programming,QML Engine Deletes C++ Objects Still In Use – Revisited with Address Sanitizers,https://www.embeddeduse.com/2020/01/19/address-sanitizers-qml-engine-deletes-c-objects-still-in-use/
+219,Lobsters,c++,C++ programming,Bit Twiddling Hacks,https://graphics.stanford.edu/~seander/bithacks.html
+220,Lobsters,c++,C++ programming,Why were abbrev. lambdas rejected?,https://brevzin.github.io/c++/2020/01/15/abbrev-lambdas/
+221,Lobsters,c++,C++ programming,Gathering Intel on Intel AVX-512 Transitions,https://travisdowns.github.io/blog/2020/01/17/avxfreq1.html
+222,Lobsters,c++,C++ programming,How fast can you allocate a large block of memory in C++?,https://lemire.me/blog/2020/01/14/how-fast-can-you-allocate-a-large-block-of-memory-in-c/
+223,Lobsters,c++,C++ programming,The Shapes of Code,https://www.fluentcpp.com/2020/01/14/the-shapes-of-code/
+224,Lobsters,c++,C++ programming,Debugging Through WebAssembly Is Impossible,https://erikmcclure.com/blog/debugging-through-webassembly-is-impossible/
+225,Lobsters,c++,C++ programming,Finding unique items - hash vs sort?,https://douglasorr.github.io/2019-09-hash-vs-sort/article.html
+226,Lobsters,c++,C++ programming,One of C++ most underrated features: Namespace aliases (2016),https://foonathan.net/2016/01/namespace-alias/
+227,Lobsters,c++,C++ programming,"Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations",https://www.pencil2d.org/
+228,Lobsters,c++,C++ programming,Burkhard on Qt Embedded Systems: No. 1,https://www.embeddeduse.com/2019/12/31/burkhard-on-qt-embedded-systems-no-1/
+229,Lobsters,c++,C++ programming,Dry-comparisons: A C++ Library to Shorten Redundant If Statements,https://www.fluentcpp.com/2020/01/03/dry-comparisons-a-c-library-to-shorten-redundant-if-statements/
+230,Lobsters,c++,C++ programming,Table Maker for Modern C++,https://github.com/p-ranav/tabulate
+231,Lobsters,c++,C++ programming,Use noexcept for Exception Handling in C++ Programs,https://leimao.github.io/blog/noexcept-Specifier-CPP/
+232,Lobsters,c++,C++ programming,Rewriting m4vgalib in Rust,http://cliffle.com/blog/m4vga-in-rust/
+233,Lobsters,c++,C++ programming,C++ at the end of 2019,https://www.bfilipek.com/2019/12/cpp-status-2019.html
+234,Lobsters,c++,C++ programming,Support for C++20’s Concepts in CLion,https://blog.jetbrains.com/clion/2019/11/cpp20-concepts-in-clion/
+235,Lobsters,c++,C++ programming,The Dangers of Coupling and How to Avoid Them,https://www.fluentcpp.com/2019/12/31/the-dangers-of-coupling-and-how-to-avoid-them/
+236,Lobsters,c++,C++ programming,Holiday fun with template<class> and template<typename>,https://quuxplusone.github.io/blog/2019/12/27/template-typename-fun/
+237,Lobsters,c++,C++ programming,Deletion from hash tables without tombstones,https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/
+238,Lobsters,c++,C++ programming,Avoiding deadlocks the C++ way,https://vorbrodt.blog/2019/10/12/avoiding-deadlocks-the-c-way/
+239,Lobsters,c++,C++ programming,NullPointerException in C++,https://cristianadam.eu/20160914/nullpointerexception-in-c-plus-plus/
+240,Lobsters,c++,C++ programming,Faster C++ builds,https://www.bitsnbites.eu/faster-c-builds/
+241,Lobsters,c++,C++ programming,C++ coroutines: The problem of the synchronous apartment-changing callback,https://devblogs.microsoft.com/oldnewthing/20191220-00/?p=103232
+242,Lobsters,c++,C++ programming,"std::unique_ptr, or how to express explicit ownership",https://vorbrodt.blog/2019/12/22/stdunique_ptr-or-how-to-express-explicit-ownership/
+243,Lobsters,c++,C++ programming,Reading C++ Code with Ease,https://blog.jetbrains.com/rscpp/reading-cpp-code-with-ease/
+244,Lobsters,c++,C++ programming,CMake 3.16 added support for precompiled headers & unity builds - what you need to know,http://onqtam.com/programming/2019-12-20-pch-unity-cmake-3-16/
+245,Lobsters,c++,C++ programming,Short-circuiting in meta-functions,https://akrzemi1.wordpress.com/2019/12/23/short-circuiting-in-meta-functions/
+246,Lobsters,c++,C++ programming,Using GitHub Actions with C++ and CMake,https://cristianadam.eu/20191222/using-github-actions-with-c-plus-plus-and-cmake/
+247,Lobsters,c++,C++ programming,Lower and Upper Bound Insert Iterators,https://www.fluentcpp.com/2019/12/27/lower-and-upper-bound-insert-iterators/
+248,Lobsters,c++,C++ programming,Chrono For Humans,https://philippegroarke.com/posts/2018/chrono_for_humans/
+249,Lobsters,c++,C++ programming,Funky CMake,https://philippegroarke.com/posts/2019/funky_cmake/
+250,Lobsters,c++,C++ programming,"Run CLion native on Android, ditch your desktop",https://raymii.org/s/blog/Run_CLion_on_Android.html
+251,Lobsters,c++,C++ programming,"xmake v2.2.9 released, Add experimental support for c++ 20 modules",http://www.tboox.org/2019/12/21/xmake-update-v2.2.9/
+252,Lobsters,c++,C++ programming,"ScreensaverStopper, 14kb C++ utility to stop the screensaver",https://raymii.org/s/software/ScreenSaverStopper.html
+253,Lobsters,c++,C++ programming,Debugging Linux CMake Projects with gdbserver,https://devblogs.microsoft.com/cppblog/debugging-linux-cmake-projects-with-gdbserver/
+254,Lobsters,c++,C++ programming,"std::algorithm for audio, part I",https://elk.audio/stdalgorithm-for-audio-part-i/
+255,Lobsters,c++,C++ programming,and & or are valid in C++ (alternative tokens),https://raymii.org/s/blog/and_or_are_valid_Cpp.html
+256,Lobsters,c++,C++ programming,Find articulation points or cut vertices in a graph,https://iq.opengenus.org/find-articulation-points-or-cut-vertices-in-a-graph/
+257,Lobsters,c++,C++ programming,I'm building a profiler for my OS! (and making videos of the process),https://www.youtube.com/watch?v=nsKtvx-m2gU
+258,Lobsters,c++,C++ programming,Type-Safe Raytracing in Modern C++,https://ajeetdsouza.github.io/blog/posts/type-safe-raytracing-in-modern-cpp
+259,Lobsters,c++,C++ programming,Xmake Getting Started Tutorial 5: Introduction to Android platform compilation,https://tboox.org/2019/11/15/quickstart-5-build-android/
+260,Lobsters,c++,C++ programming,Getting into open source as an Outreachy intern,https://www.sourcesort.com/interview/getting-into-open-source-as-an-outreachy-intern
+261,Lobsters,c++,C++ programming,Constexpr FizzBuzz - An Exercise in Compile-Time,https://arne-mertz.de/2019/12/constexpr-fizzbuzz/
+262,Lobsters,c++,C++ programming,a disaster-resilient communications network powered by the sun,https://disaster.radio
+263,Lobsters,c++,C++ programming,C++ coroutines: Getting started with awaitable objects,https://devblogs.microsoft.com/oldnewthing/20191209-00/?p=103195
+264,Lobsters,c++,C++ programming,Agner's Software Optimization resources,https://www.agner.org/optimize/?e=0#0
+265,Lobsters,c++,C++ programming,Naming Things: Implementer vs. User Names,https://foonathan.net/2019/11/implementer-vs-user-names/#content
+266,Lobsters,c++,C++ programming,How can you be so certain?,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf
+267,Lobsters,c++,C++ programming,(Better) Interprocess Locks,https://squadrick.github.io/journal/better-ipc-locks.html
+268,Lobsters,c++,C++ programming,Building a language server for Muon,https://nickmqb.github.io/2019/11/24/building-a-language-server-for-muon.html
+269,Lobsters,c++,C++ programming,Xmake Getting Started Tutorial 4: C/C++ project description settings,https://tboox.org/2019/11/10/quickstart-4-basic-project-settings/
+270,Lobsters,c++,C++ programming,Clang format tanks performance,https://travisdowns.github.io/blog/2019/11/19/toupper.html
+271,Lobsters,c++,C++ programming,Is it worth using `make`?,http://anadoxin.org/blog/is-it-worth-using-make.html
+272,Lobsters,c++,C++ programming,std::sort segfaults?! (2013),https://irwanap.wordpress.com/2013/07/30/cxx-weird-crash/
+273,Lobsters,c++,C++ programming,Parsing XML at the Speed of Light,http://aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html
+274,Lobsters,c++,C++ programming,"Weight for Weight, a coding exercise that kept me busy",https://raymii.org/s/blog/Weight_for_Weight_a_coding_exersize_that_kept_me_busy.html
+275,Lobsters,c++,C++ programming,Unix Today and Tomorrow: The Languages,https://www.youtube.com/watch?v=xnCgoEyz31M
+276,Lobsters,c++,C++ programming,Boost Locale on Windows with mingw is really hard to get working,https://raymii.org/s/snippets/std_string_to_lowercase_or_uppercase_in_cpp.html#toc_3
+277,Lobsters,c++,C++ programming,"Compiling a Functional Language Using C++, Part 0 - Intro",https://danilafe.com/blog/00_compiler_intro/
+278,Lobsters,c++,C++ programming,LoCal: A Language for Programs Operating on Serialized Data,http://recurial.com/pldi19main.pdf
+279,Lobsters,c++,C++ programming,Interprocess Locks,https://squadrick.github.io/journal/ipc-locks.html
+280,Lobsters,c++,C++ programming,"A Modern C/C++ build tools (Simple, Fast, Cross-platform)",https://xmake.io/#/
+281,Lobsters,c++,C++ programming,Exception handling in emscripten: how it works and why it’s disabled by default,https://brionv.com/log/2019/10/24/exception-handling-in-emscripten-how-it-works-and-why-its-disabled-by-default/
+282,Lobsters,c++,C++ programming,The Case for C++,https://itnext.io/the-case-for-c-4122a5b47130
+283,Lobsters,c++,C++ programming,How expensive is it to parse numbers from a string in C++?,https://lemire.me/blog/2019/10/26/how-expensive-is-it-to-parse-numbers-from-a-string-in-c/
+284,Lobsters,c++,C++ programming,High Performance Numeric Programming with Swift: Explorations and Reflections,https://www.fast.ai/2019/01/10/swift-numerics/
+285,Lobsters,c++,C++ programming,Rust and C++ on Floating-point Intensive Code,https://www.reidatcheson.com/hpc/architecture/performance/rust/c++/2019/10/19/measure-cache.html
+286,Lobsters,c++,C++ programming,C++ benchmark – std::vector VS std::list VS std::deque,https://baptiste-wicht.com/posts/2012/12/cpp-benchmark-vector-list-deque.html
+287,Lobsters,c++,C++ programming,Efficiency is fundamentally at odds with elegance (2013),http://yosefk.com/blog/efficiency-is-fundamentally-at-odds-with-elegance.html
+288,Lobsters,c++,C++ programming,CppCon 2019,http://www.youtube.com/playlist?list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw
+289,Lobsters,c++,C++ programming,C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions,https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/
+290,Lobsters,c++,C++ programming,vscode-ccls: redesign semantic highlight configurations,https://github.com/MaskRay/ccls/wiki/Visual-Studio-Code#semantic-highlight
+291,Lobsters,c++,C++ programming,"tbox v1.6.4 released, new c11 style atomic operation",http://www.tboox.org/2019/10/11/update-v1.6.4/
+292,Lobsters,c++,C++ programming,Awesome Lockfree: A collection of resources on wait-free and lock-free programming,https://github.com/rigtorp/awesome-lockfree
+293,Lobsters,c++,C++ programming,CppCon 2019: “What Programmers Should Know About Memory Allocation”,https://www.youtube.com/watch?v=gYfd25Bdmws
+294,Lobsters,c++,C++ programming,Beating std::visit Without Really Trying,https://pbackus.github.io/blog/beating-stdvisit-without-really-trying.html
+295,Lobsters,c++,C++ programming,C++ is Coming to .NET Core for Windows,https://www.infoq.com/news/2019/10/CPP-CLI-NetCore/
+296,Lobsters,c++,C++ programming,How to Avoid Template Type Deduction in C++,https://humanreadablemag.com/issues/0/articles/how-to-avoid-template-type-deduction-in-c/
+297,Lobsters,c++,C++ programming,CppCon 2019: “Abusing Your Memory Model for Fun and Profit”,https://www.youtube.com/watch?v=N07tM7xWF1U
+298,Lobsters,c++,C++ programming,Non-conforming C++: the Secrets the Committee Is Hiding From You,https://www.youtube.com/watch?v=IAdLwUXRUvg
+299,Lobsters,c++,C++ programming,The Fascinating Influence of Cyclone,http://pling.jondgoodwin.com/post/cyclone/
+300,Lobsters,c++,C++ programming,Talking C++: An Interview with Bjarne Stroustrup,https://news.codecademy.com/bjarne-stroustrup-interview/
+301,Lobsters,c++,C++ programming,Doubling the speed of std::uniform_int_distribution in the GNU C++ library,https://lemire.me/blog/2019/09/28/doubling-the-speed-of-stduniform_int_distribution-in-the-gnu-c-library/
+302,Lobsters,c++,C++ programming,Modern C for C++ Peeps,https://floooh.github.com/2019/09/27/modern-c-for-cpp-peeps.html
+303,Lobsters,c++,C++ programming,"Dakota: Tool for Optimization, Model Calibration, Risk Analysis, and Margin Quantification",https://dakota.sandia.gov/
+304,Lobsters,c++,C++ programming,Quake 2 Source Code Review,http://fabiensanglard.net/quake2/index.php
+305,Lobsters,c++,C++ programming,Data-Parallel Finite State Machines (2016),https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos302-mytkowicz.pdf
+306,Lobsters,c++,C++ programming,Uses xmake to build c++20 modules,https://tboox.org/2019/09/22/xmake-c++20-modules/
+307,Lobsters,c++,C++ programming,When exceptions collide,https://www.arangodb.com/2019/09/when-exceptions-collide/
+308,Lobsters,c++,C++ programming,Modula-3 (article reprinted from USENIX ;login: November/December 1992),http://www.redbarn.org/node/20
+309,Lobsters,c++,C++ programming,Dead Store Elimination (Still) Considered Harmful,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-yang.pdf
+310,Lobsters,c++,C++ programming,Improving std::sort,https://youtu.be/FJJTYQYB1JQ
+311,Lobsters,c++,C++ programming,Pass-By-Value in C++ and Rust,https://dev.to/deciduously/pass-by-value-in-c-and-rust-1jo
+312,Lobsters,c++,C++ programming,Open Sourcing MSVC's STL,https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/
+313,Lobsters,c++,C++ programming,The Surprising Limitations of C++ Ranges Beyond Trivial Cases,https://www.fluentcpp.com/2019/09/13/the-surprising-limitations-of-c-ranges-beyond-trivial-use-cases/
+314,Lobsters,c++,C++ programming,The Turkish lira's currency code is an unexpected source of problems with computer programmers,https://devblogs.microsoft.com/oldnewthing/20190912-00/?p=102855
+315,Lobsters,c++,C++ programming,C++20 Concepts Are Here in Visual Studio 2019 version 16.3,https://devblogs.microsoft.com/cppblog/c20-concepts-are-here-in-visual-studio-2019-version-16-3/
+316,Lobsters,c++,C++ programming,Run Boost.Beast with Visual Studio Code and CLion on Debian,https://0xboz.github.io/blog/run-boost-beast-with-vscode-clion-on-debian/
+317,Lobsters,c++,C++ programming,The sad history of Visual Studio's custom __if_exists keyword,https://devblogs.microsoft.com/oldnewthing/20190828-00/?p=102812
+318,Lobsters,c++,C++ programming,Wrapper’s Delight,https://blog.trailofbits.com/2019/08/26/wrappers-delight/
+319,Lobsters,c++,C++ programming,"xmake v2.2.8 released, New vs project generator",http://www.tboox.org/2019/08/22/xmake-update-v2.2.8/
+320,Lobsters,c++,C++ programming,Heightmap Meshing,https://github.com/fogleman/hmm
+321,Lobsters,c++,C++ programming,Incrementing vectors,https://travisdowns.github.io/blog/2019/08/26/vector-inc.html
+322,Lobsters,c++,C++ programming,Should small Rust structs be passed by-copy or by-borrow?,https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
+323,Lobsters,c++,C++ programming,New new() - The C++17's Alignment Parameter for Operator new(),https://www.bfilipek.com/2019/08/newnew-align.html
+324,Lobsters,c++,C++ programming,Complete x86/x64 JIT and AOT Assembler for C++,https://github.com/asmjit/asmjit
+325,Lobsters,c++,C++ programming,Why const Doesn't Make C Code Faster,https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html
+326,Lobsters,c++,C++ programming,wxWidgets and vcpkg,https://wxwidgets.org/blog/2019/01/wxwidgets-and-vcpkg/
+327,Lobsters,c++,C++ programming,Data Structures Part 1: Bulk Data,https://gamasutra.com/blogs/NiklasGray/20190724/347232/Data_Structures_Part_1_Bulk_Data.php
+328,Lobsters,c++,C++ programming,Results of the Grand C++ Error Explosion Competition,https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion
+329,Lobsters,c++,C++ programming,Why does the C++ standard ship every three years?,https://herbsutter.com/2019/07/13/draft-faq-why-does-the-c-standard-ship-every-three-years/
+330,Lobsters,c++,C++ programming,The (not so) hidden cost of sharing code between iOS and Android,http://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/
+331,Lobsters,c++,C++ programming,IKOS: Static Analyzer for C/C++ Based on Abstract Interpretation,https://github.com/NASA-SW-VnV/ikos
+332,Lobsters,c++,C++ programming,17 Smaller but Handy C++17 Features,https://www.bfilipek.com/2019/08/17smallercpp17features.html
+333,Lobsters,c++,C++ programming,FUDGE: Fuzz Driver Generation at Scale,https://ai.google/research/pubs/pub48314
+334,Lobsters,c++,C++ programming,Run and Debug C++ with Visual Studio Code on Debian,https://0xboz.github.io/blog/how-to-run-debug-cpp-with-vscode-on-debian/
+335,Lobsters,c++,C++ programming,Technical vision for Qt 6,https://blog.qt.io/blog/2019/08/07/technical-vision-qt-6/
+336,Lobsters,c++,C++ programming,Fixing C++ with Epochs,https://vittorioromeo.info/index/blog/fixing_cpp_with_epochs.html
+337,Lobsters,c++,C++ programming,C++20 Is Feature Complete; Here’s What Changes Are Coming,https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/
+338,Lobsters,c++,C++ programming,Comparisons in C++20,https://brevzin.github.io/c++/2019/07/28/comparisons-cpp20/
+339,Lobsters,c++,C++ programming,Write C/C++ packages for xmake-repo,https://xmake.io/#/package/remote_package?id=adding-packages-to-the-official-repository
+340,Lobsters,c++,C++ programming,The Legion Parallel Programming System,https://legion.stanford.edu/
+341,Lobsters,c++,C++ programming,You Can Do Any Kind of Atomic Read-Modify-Write Operation,https://preshing.com/20150402/you-can-do-any-kind-of-atomic-read-modify-write-operation
+342,Lobsters,c++,C++ programming,simdjson: Parsing gigabytes of JSON per second,https://github.com/lemire/simdjson
+343,Lobsters,c++,C++ programming,Rust vs C++ - Implementing a Neural Network,http://www.nicktasios.nl/posts/rust-vs-c%2B%2B-implementing-a-neural-network.html
+344,Lobsters,c++,C++ programming,No-one knows the type of char + char,https://blog.knatten.org/2019/05/24/no-one-knows-the-type-of-char-char/
+345,Lobsters,c++,C++ programming,Catching use-after-move bugs with Clang's consumed annotations,https://awesomekling.github.io/Catching-use-after-move-bugs-with-Clang-consumed-annotations/
+346,Lobsters,c++,C++ programming,Pragmatic compiling of C++ to WebAssembly. A Guide,https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8
+347,Lobsters,c++,C++ programming,Photon Micro GUI,https://www.cycfi.com/2019/07/photon-micro-gui/
+348,Lobsters,c++,C++ programming,OpenThread: An open foundation for the connected home,https://openthread.io/
+349,Lobsters,c++,C++ programming,Model Checking a C++ Software Framework: A Case Study,https://arxiv.org/pdf/1907.00172
+350,Lobsters,c++,C++ programming,Formatting floating point numbers,https://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html
+351,Lobsters,c++,C++ programming,ACO: A New Compiler Backend for RADV,https://lists.freedesktop.org/archives/mesa-dev/2019-July/221006.html
+352,Lobsters,c++,C++ programming,"A piece of Windows 10 is now running on WebAssembly, natively on iOS and Android",https://platform.uno/a-piece-of-windows-10-is-now-running-on-webassembly-natively-on-ios-and-android/
+353,Lobsters,c++,C++ programming,Peephole optimizations in C++ and C#,https://egorbo.com/peephole-optimizations.html
+354,Lobsters,c++,C++ programming,Authors’ Edition of Elements of Programming,https://mcjones.org/dustydecks/archives/2019/06/27/1045/
+355,Lobsters,c++,C++ programming,The ICI Programming Language,http://atrn.org/ici/
+356,Lobsters,c++,C++ programming,Serenity C++ patterns: NetworkOrdered,https://awesomekling.github.io/Serenity-C++-patterns-NetworkOrdered/
+357,Lobsters,c++,C++ programming,C++ Profiler For Games,https://github.com/bombomby/optick
+358,Lobsters,c++,C++ programming,Simplify Your Code With Rocket Science: C++20's Spaceship Operator,https://devblogs.microsoft.com/cppblog/simplify-your-code-with-rocket-science-c20s-spaceship-operator/
+359,Lobsters,c++,C++ programming,Circle: The C++ Automation Language,https://github.com/seanbaxter/circle
+360,Lobsters,c++,C++ programming,C/C++ package dependency management for xmake,https://xmake.io/#/guide/package_management
+361,Lobsters,c++,C++ programming,P1705R0: Enumerating Core Undefined Behavior,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1705r0.html
+362,Lobsters,c++,C++ programming,Database internal architecture,https://architecture-database.blogspot.com/2019/03/database-internel-architecture-sqlite.html
+363,Lobsters,c++,C++ programming,"xmake v2.2.7 released, Improve to build Cuda project",http://www.tboox.org/2019/06/17/xmake-update-v2.2.7/
+364,Lobsters,c++,C++ programming,Real-Time Hybrid Hair Rendering using Vulkan,https://github.com/CaffeineViking/vkhr
+365,Lobsters,c++,C++ programming,"Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml",http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
+366,Lobsters,c++,C++ programming,Dark Corner of C++ Corner Cases,https://www.bfilipek.com/2019/03/darker-cpp.html
+367,Lobsters,c++,C++ programming,Macro Evil in C++ Code,https://arne-mertz.de/2019/03/macro-evil/
+368,Lobsters,c++,C++ programming,Preemption Is GC for Memory Reordering,http://www.pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering
+369,Lobsters,c++,C++ programming,"Progressive Locks: fast, upgradable read/write locks",http://wtarreau.blogspot.com/2018/02/progressive-locks-fast-upgradable.html
+370,Lobsters,c++,C++ programming,GCC gOlogy: studying the impact of optimizations on debugging,http://www.fsfla.org/~lxoliva/writeups/gOlogy/gOlogy.txt
+371,Lobsters,c++,C++ programming,"Scalable Memory Reclamation for Multi-Core, Real-Time Systems",https://www2.seas.gwu.edu/~gparmer/publications/rtas18smr.pdf
+372,Lobsters,c++,C++ programming,Our Workflows with Address Sanitizer and Valgrind,https://engineering.backtrace.io/posts/sanitizers/
+373,Lobsters,c++,C++ programming,Correctness Testing of Loop Optimization in C and C++ Compilers (2018),http://sattose.wdfiles.com/local--files/2018:schedule/SATToSE_2018_paper_13.pdf
+374,Lobsters,c++,C++ programming,"Variadic Templates vs **kwargs, C++ makes it unnecessary difficult",https://raymii.org/s/snippets/Cpp_variadic_template_recursive_example.html
+375,Lobsters,c++,C++ programming,Everything You Need to Know About std::variant from C++17,https://www.bfilipek.com/2018/06/variant.html
+376,Lobsters,c++,C++ programming,Frictionless D Adoption for the Masses,https://www.youtube.com/watch?v=79COPHF3TnE&list=PLIldXzSkPUXWORGtUrnTo2ylziTHR8_Sq&index=13
+377,Lobsters,c++,C++ programming,Are modules fast?,https://bfgroup.github.io/cpp_tooling_stats/modules/modules_perf_P1441R0.html
+378,Lobsters,c++,C++ programming,xmake vs cmake,http://www.tboox.org/2019/05/29/xmake-vs-cmake/
+379,Lobsters,c++,C++ programming,"A Modern And More Featured ""echo""",https://github.com/Unlimiter/put
+380,Lobsters,c++,C++ programming,PhASAR: An Inter-Procedural Static Analysis Framework for C/C++,http://www.thewhitespace.de/publications/shb19-phasar.pdf
+381,Lobsters,c++,C++ programming,Re-implementing an old DOS game in C++ 17,https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/
+382,Lobsters,c++,C++ programming,"Better Macros, Better Flags",https://www.fluentcpp.com/2019/05/28/better-macros-better-flags/
+383,Lobsters,c++,C++ programming,Programming puzzle: Creating a map of command handlers given only the function pointer,https://devblogs.microsoft.com/oldnewthing/20190527-00/?p=102518
+384,Lobsters,c++,C++ programming,From Switch Statement Down to Machine Code,http://lazarenko.me/switch/
+385,Lobsters,c++,C++ programming,f() vs f(void) in C vs C++,http://nickdesaulniers.github.io/blog/2019/05/12/f-vs-f-void-in-c-vs-c-plus-plus
+386,Lobsters,c++,C++ programming,Exploring Undefined Behavior Using Constexpr,https://shafik.github.io/c++/undefined%20behavior/2019/05/11/explporing_undefined_behavior_using_constexpr.html
+387,Lobsters,c++,C++ programming,C++ UI Libraries,https://philippegroarke.com/posts/2018/c++_ui_solutions/
+388,Lobsters,c++,C++ programming,Converting from Boost to std::filesystem,https://www.bfilipek.com/2019/05/boost-to-stdfs.html
+389,Lobsters,c++,C++ programming,Handling errors is canceling operations,https://akrzemi1.wordpress.com/2019/04/25/handling-errors-is-canceling-operations/
+390,Lobsters,c++,C++ programming,Professional debugging for IoT with Particle Workbench: going beyond Serial.print(),https://blog.particle.io/2019/05/03/professional-debugging-for-iot-with-particle-workbench-going-beyond-serial-print/
+391,Lobsters,c++,C++ programming,GCC 9.1 Released,https://gcc.gnu.org/ml/gcc/2019-05/msg00024.html
+392,Lobsters,c++,C++ programming,Building a Map Application in C++ & Qt,https://www.maptiler.com/blog/2019/04/using-maptiler-maps-inside-qt.html
+393,Lobsters,c++,C++ programming,Type inference debate: a C++ phenomenon?,https://atilaoncode.blog/2019/04/24/type-inference-debate-a-c-culture-phenomenon/
+394,Lobsters,c++,C++ programming,Modern C++ Won't Save Us,https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/
+395,Lobsters,c++,C++ programming,On resolving the type vs member conflict in C++: The Color Color problem,https://devblogs.microsoft.com/oldnewthing/20190419-00/?p=102431
+396,Lobsters,c++,C++ programming,Different RVO behaviors between gcc and clang,https://nanxiao.me/en/different-rvo-behaviors-between-gcc-and-clang/
+397,Lobsters,c++,C++ programming,Recommended Reading: ``The Art of UNIX Programming'' and ``The UNIX-HATERS Handbook'',http://verisimilitudes.net/2019-04-15
+398,Lobsters,c++,C++ programming,"Value categories, and references to them",https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/cpp-value-categories
+399,Lobsters,c++,C++ programming,Understanding when not to std::move in C++,https://developers.redhat.com/blog/2019/04/12/understanding-when-not-to-stdmove-in-c/
+400,Lobsters,c++,C++ programming,"Kendo: Efficient, Deterministic Multithreading in Software (2009)",https://people.csail.mit.edu/mareko/asplos073-olszewski.pdf
+401,Lobsters,c++,C++ programming,"Porting Tableau Server to Linux, Part 1",https://www.tableau.com/engineering/blog/2019/4/porting-tableau-server-linux-part-1-105392
+402,Lobsters,c++,C++ programming,ADL insanity,https://quuxplusone.github.io/blog/2019/04/08/adl-insanity/
+403,Lobsters,c++,C++ programming,"Smake, a new set of implicit rules for Make",https://github.com/mortie/smake/
+404,Lobsters,c++,C++ programming,"Xmake, a modern C/C++ build utility",https://github.com/xmake-io/xmake
+405,Lobsters,c++,C++ programming,Project Highlight: DPP,https://dlang.org/blog/2019/04/08/project-highlight-dpp/
+406,Lobsters,c++,C++ programming,Fast directory listing on Linux,https://github.com/romkatv/gitstatus/blob/master/docs/listdir.md
+407,Lobsters,c++,C++ programming,Blend2D – 2D Vector Graphics LIbrary,https://blend2d.com/
+408,Lobsters,c++,C++ programming,Accurate Recovery of Functions in COTS Binaries (2017),http://seclab.cs.sunysb.edu/seclab/pubs/ruith.pdf
+409,Lobsters,c++,C++ programming,Introduction of xmake v2.2.5 new features,http://www.tboox.org/2019/04/01/xmake-v2.2.5-new-features/
+410,Lobsters,c++,C++ programming,PcapPlusPlus: a multiplatform C++ network sniffing,https://seladb.github.io/PcapPlusPlus-Doc/
+411,Lobsters,c++,C++ programming,C++ State Machines,http://beza1e1.tuxen.de/cpp_state_machines.html
+412,Lobsters,c++,C++ programming,Visual Studio 2019: Code faster. Work smarter. Create the future,https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/
+413,Lobsters,c++,C++ programming,How do you keep up with tech in your game?,https://mropert.github.io/2019/03/31/how_do_keep_up_with_tech/
+414,Lobsters,c++,C++ programming,10x faster implementation of Git status,https://github.com/romkatv/gitstatus
+415,Lobsters,c++,C++ programming,Oscar: A Practical Page-Permissions-Based Scheme for Thwarting Dangling Pointers (2017),https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-dang.pdf
+416,Lobsters,c++,C++ programming,A Step Towards Compiling TypeScript to Native,https://medium.com/commitlog/a-step-towards-compiling-typescript-caefa4944994
+417,Lobsters,c++,C++ programming,"stoyannk/voxels -- Voxels Library, Library for Voxel manipulation and polygonization",https://github.com/stoyannk/voxels
+418,Lobsters,c++,C++ programming,Preparing Plex Media Server for the next 10 years,https://medium.com/plexlabs/preparing-plex-media-server-for-the-next-10-years-d54fc3f47bf
+419,Lobsters,c++,C++ programming,What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid,https://www.youtube.com/watch?v=bSkpMdDe4g4
+420,Lobsters,c++,C++ programming,How to build a control panel for your Particle-powered brewing projects,https://blog.particle.io/2019/03/27/how-to-build-a-control-panel-for-your-particle-powered-brewing-projects/
+421,Lobsters,c++,C++ programming,"You can't make C++ not ugly, but you can't not try (2010)",https://apenwarr.ca/log/20100718
+422,Lobsters,c++,C++ programming,C++ iostreams: Unexpected but legal multithreaded behaviour,http://ds9a.nl/articles/posts/iostreams-unexpected/
+423,Lobsters,c++,C++ programming,Probabilistic McLeod pitch method,https://github.com/sevagh/probabilistic-mcleod
+424,Lobsters,c++,C++ programming,The Slot Map (2013),http://seanmiddleditch.com/data-structures-for-game-developers-the-slot-map/
+425,Lobsters,c++,C++ programming,Why I rewrote the mesh generator of Dust3D from Rust to C++,https://blogs.dust3d.org/2019/03/13/why-i-rewrote-the-mesh-generator-of-dust3d-from-rust-to-cplusplus/
+426,Lobsters,c++,C++ programming,Souffle: A Datalog Synthesis Tool for Static Analysis,https://souffle-lang.github.io/
+427,Lobsters,c++,C++ programming,Making C++ Exception Handling Smaller On x64,https://devblogs.microsoft.com/cppblog/making-cpp-exception-handling-smaller-x64/
+428,Lobsters,c++,C++ programming,Usability improvements in GCC 9,https://developers.redhat.com/blog/2019/03/08/usability-improvements-in-gcc-9/
+429,Lobsters,c++,C++ programming,The joys of translating C++’s std::function to D,https://atilaoncode.blog/2019/03/07/the-joys-of-translating-cs-stdfunction-to-d/
+430,Lobsters,c++,C++ programming,Upcycling an old homebrewing project with a Particle Argon,https://blog.particle.io/2019/03/04/upcycling-homebrewing/
+431,Lobsters,c++,C++ programming,Genode's Conscious C++ dialect,https://genodians.org/nfeske/2019-01-22-conscious-c++
+432,Lobsters,c++,C++ programming,What should go in the C++ standard library,https://abseil.io/blog/20180227-what-should-go-stdlib
+433,Lobsters,c++,C++ programming,"The std::map subscript operator is a convenience, but a potentially dangerous one",https://blogs.msdn.microsoft.com/oldnewthing/20190227-00/?p=101045
+434,Lobsters,c++,C++ programming,All videos of Meeting C++ 2018 are online,https://www.meetingcpp.com/meetingcpp/news/items/All-videos-of-Meeting-Cpp-2018-are-online-.html
+435,Lobsters,c++,C++ programming,Are Headers in C++ Really the Problem?,https://buckaroo.pm/posts/are-headers-really-the-problem/
+436,Lobsters,c++,C++ programming,C++20 is now feature complete,https://www.reddit.com/r/cpp/comments/au0c4x/201902_kona_iso_c_committee_trip_report_c20/
+437,Lobsters,c++,C++ programming,Accio Dependency Manager,https://medium.com/@corentin.jabot/accio-dependency-manager-b1846e1caf76
+438,Lobsters,c++,C++ programming,The Missing C++ Smart-pointer,https://buckaroo.pm/posts/value-ptr-the-missing-smart-ptr
+439,Lobsters,c++,C++ programming,Review of Manning's Functional Programming in C++,http://cpptruths.blogspot.com/2019/02/review-of-mannings-functional.html
+440,Lobsters,c++,C++ programming,Initialization in modern C++,https://www.youtube.com/watch?v=ZfP4VAK21zc
+441,Lobsters,c++,C++ programming,Mesh: Compacting Memory Management for C/C++ Applications,https://arxiv.org/abs/1902.04738
+442,Lobsters,c++,C++ programming,The future of Catch2,https://codingnest.com/the-future-of-catch2/
+443,Lobsters,c++,C++ programming,Our Machinery Guidebook,https://ourmachinery.com/files/guidebook.md.html
+444,Lobsters,c++,C++ programming,"""Maybe the fastest string library ever""",https://github.com/boyerjohn/rapidstring
+445,Lobsters,c++,C++ programming,The continuing evolution of C++,https://www.youtube.com/watch?v=ooehrkYkGdA
+446,Lobsters,c++,C++ programming,Error Handling in C++ or: Why You Should Use Eithers in Favor of Exceptions and Error-codes,https://buckaroo.pm/posts/error-handling-in-cpp
+447,Lobsters,c++,C++ programming,Bounded Model Checking of C++ Programs based on the Qt Cross-Platform Framework (2017),https://ssvlab.github.io/lucasccordeiro/papers/stvr2017.pdf
+448,Lobsters,c++,C++ programming,Git as a Package Registry,https://github.com/LoopPerfect/buckaroo/wiki/Git-as-a-Package-Registry
+449,Lobsters,c++,C++ programming,Semantic Compression,https://caseymuratori.com/blog_0015
+450,Lobsters,c++,C++ programming,Buckaroo - C/C++ Package Manager hits v2.0.0,https://github.com/LoopPerfect/buckaroo
+451,Lobsters,c++,C++ programming,C++ Modules Might Be Dead-on-Arrival,https://vector-of-bool.github.io/2019/01/27/modules-doa.html
+452,Lobsters,c++,C++ programming,Deprecating volatile,http://wg21.link/P1152R1
+453,Lobsters,c++,C++ programming,Modern dining philosophers,http://lucteo.ro/2018/12/28/modern-dining-philosophers/
+454,Lobsters,c++,C++ programming,C++ Compile-Time Exceptions -- Debugging C++ templates should be less surreal and horrible,https://blog.esciencecenter.nl/c-compile-time-exceptions-5443f5bf06fe
+455,Lobsters,c++,C++ programming,Storing an OCaml callback function in a C++ object,https://notes.orbitalfox.eu/storing-an-ocaml-callback-function-in-a-c-object.html
+456,Lobsters,c++,C++ programming,ssloy/tinyraytracer - A brief computer graphics / rendering course,https://github.com/ssloy/tinyraytracer
+457,Lobsters,c++,C++ programming,Identical Code Folding,https://tetzank.github.io/posts/identical-code-folding/
+458,Lobsters,c++,C++ programming,Declarative If Statements with a Simplified Rules Engine,https://www.fluentcpp.com/2019/01/18/a-simplified-rules-engine-to-make-declarative-if-statements/
+459,Lobsters,c++,C++ programming,CGold: The Hitchhikers Guide to the CMake,https://cgold.readthedocs.io/en/latest/
+460,Lobsters,c++,C++ programming,Is C++ fast?,https://zeuxcg.org/2019/01/17/is-c-fast/
+461,Lobsters,c++,C++ programming,Seastar,http://seastar.io/
+462,Lobsters,c++,C++ programming,"C++ Compilation: Lies, Damned Lies, and Statistics",http://virtuallyrandom.com/c-compilation-lies-damned-lies-and-statistics/
+463,Lobsters,c++,C++ programming,An Introduction to Overloading Operators (for Beginners by a Beginner),https://dev.to/somedood/an-introduction-to-overloading-operators-for-beginners-by-a-beginner-1g0n
+464,Lobsters,c++,C++ programming,How do I get the effect of C#’s async void in a C++ coroutine? Part 1,https://blogs.msdn.microsoft.com/oldnewthing/20190116-00/?p=100715
+465,Lobsters,c++,C++ programming,The next big Thing,https://www.youtube.com/watch?v=tcyb1lpEHm0
+466,Lobsters,c++,C++ programming,"Investigating compile times, and Clang -ftime-report",http://aras-p.info/blog/2019/01/12/Investigating-compile-times-and-Clang-ftime-report/
+467,Lobsters,c++,C++ programming,C++ Headers are Expensive,http://virtuallyrandom.com/c-headers-are-expensive/
+468,Lobsters,c++,C++ programming,I learnt C++ in 2018 and have no regrets,https://vishnubharathi.codes/blog/learning-cpp-2018/
+469,Lobsters,c++,C++ programming,Initialization in C++ is Seriously Bonkers,https://mikelui.io/2019/01/03/seriously-bonkers.html
+470,Lobsters,c++,C++ programming,Mo' Static,http://btorpey.github.io/blog/2016/04/07/mo-static
+471,Lobsters,c++,C++ programming,"""Modern"" C++ Ruminations",https://sean-parent.stlab.cc/2018/12/30/cpp-ruminations.html
+472,Lobsters,c++,C++ programming,"Comparing Pythagorean triples in C++, D, and Rust",https://atilanevesoncode.wordpress.com/2018/12/31/comparing-pythagorean-triples-in-c-d-and-rust/
+473,Lobsters,c++,C++ programming,Metaprogramming-Enabled Parallel Execution of Apparently Sequential C++ Code,http://www.jlifflander.com/papers/meta-espm2016.pdf
+474,Lobsters,c++,C++ programming,The case of the orphaned critical section despite being managed by an RAII type,https://blogs.msdn.microsoft.com/oldnewthing/20181228-00/?p=100585
+475,Lobsters,c++,C++ programming,"""Modern"" C++ Lamentations",http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/
+476,Lobsters,c++,C++ programming,The saga of the Power ISA 128-bit long double,https://www.talospace.com/2018/12/the-saga-of-power-isa-128-bit-long.html
+477,Lobsters,c++,C++ programming,Cpp Cast interviews: on designing a merge tool for C++,http://blog.semanticmerge.com/2018/12/cpp-cast-interviews-semanticmerge-team.html
+478,Lobsters,c++,C++ programming,Named Arguments in C++,https://www.fluentcpp.com/2018/12/14/named-arguments-cpp/
+479,Lobsters,c++,C++ programming,blink - A tool which allows you to edit source code of any C++ project at runtime,https://github.com/crosire/blink
+480,Lobsters,c++,C++ programming,Write your Own Virtual Machine,https://justinmeiners.github.io/lc3-vm/
+481,Lobsters,c++,C++ programming,AWS Lambda Runtime for C++ released (v0.1.0),https://github.com/awslabs/aws-lambda-cpp/releases/tag/v0.1.0
+482,Lobsters,c++,C++ programming,A Better Alternative to Piecewise Linear Time Series Segmentation (2007),https://arxiv.org/pdf/cs/0605103
+483,Lobsters,c++,C++ programming,Standard Ranges,http://ericniebler.com/2018/12/05/standard-ranges/
+484,Lobsters,c++,C++ programming,"Design and Implementation of Object-Oriented, Parallel, Programming Language (1991)",https://shareok.org/bitstream/handle/11244/20669/Thesis-1991D-J62d.pdf?sequence=1&isAllowed=y
+485,Lobsters,c++,C++ programming,How I Wrote a Modern C++ Library in Rust,https://hsivonen.fi/modern-cpp-in-rust/
+486,Lobsters,c++,C++ programming,Implementing a Garbage Collector in C++,https://mras0.github.io/mjs/doc/gc/initial.html
+487,Lobsters,c++,C++ programming,"xmake v2.2.3, A lot of new features support",https://tboox.org/2018/11/30/xmake-update-v2.2.3/
+488,Lobsters,c++,C++ programming,LTUI: A cross-platform terminal ui library based on Lua,https://github.com/tboox/ltui
+489,Lobsters,c++,C++ programming,A Compositional Numeric Library for C++,https://github.com/johnmcfarlane/cnl
+490,Lobsters,c++,C++ programming,Stop Teaching C++ as a First Language,http://ibob.github.io/blog/2018/11/22/stop-teaching-cpp/
+491,Lobsters,c++,C++ programming,Generating preprocessed sources in CMake projects,http://anadoxin.org/blog/generating-preprocessed-sources-in-cmake-projects.html
+492,Lobsters,c++,C++ programming,"SoLoud -- an easy to use, free, portable c/c++ audio engine for games",http://sol.gfxile.net/soloud/
+493,Lobsters,c++,C++ programming,Kobzol/hardware-effects,https://github.com/Kobzol/hardware-effects
+494,Lobsters,c++,C++ programming,Pitch detection algorithms in C++,https://github.com/sevagh/pitch-detection
+495,Lobsters,c++,C++ programming,An example of how C++ destructors are useful in Envoy,https://jvns.ca/blog/2018/11/18/c---destructors---really-useful/
+496,Lobsters,c++,C++ programming,Noise-based Testing and Analysis of Multi-threaded C/C++ Programs on the Binary Level,http://www.fit.vutbr.cz/~vojnar/Publications/padtad-12.pdf
+497,Lobsters,c++,C++ programming,The Internet Has a Huge C/C++ Problem and Developers Don't Want to Deal With It,https://motherboard.vice.com/en_us/article/a3mgxb/the-internet-has-a-huge-cc-problem-and-developers-dont-want-to-deal-with-it
+498,Lobsters,c++,C++ programming,libclang: not as great as I thought,https://atilanevesoncode.wordpress.com/2018/11/13/libclang-not-as-great-as-i-thought/
+499,Lobsters,c++,C++ programming,Size cost of C++ exception handling on embedded platform,https://andriidevel.blogspot.com/2016/05/size-cost-of-c-exception-handling-on.html
+500,Lobsters,c++,C++ programming,C++ Coroutine TS — It’s about inversion of control,https://hackernoon.com/c-coroutine-ts-its-about-inversion-of-control-d1588c4c4c31
+501,Lobsters,c++,C++ programming,"Excluding compilers/linkers, what does your C++/C tool chain look like?",/s/hn1j4l/excluding_compilers_linkers_what_does
+502,Lobsters,c++,C++ programming,Using STL algorithms with cppcheck,http://pfultz2.com/blog/2018/11/04/stl-alogrithms/
+503,Lobsters,c++,C++ programming,Verifying Concurrent Programs using Contracts (2017),http://www.fit.vutbr.cz/~vojnar/Publications/icst17-contracts.pdf
+504,Lobsters,c++,C++ programming,Common Misconceptions of C++,https://hackernoon.com/common-misconceptions-of-c-4f49f36b92a
+505,Lobsters,c++,C++ programming,Thoughts on the Cpp Graphics Proposal,https://jeremyong.com/c++/graphics/2018/11/05/thoughs-on-the-cpp-graphics-proposal.html
+506,Lobsters,c++,C++ programming,Defining Target Machines,https://www.youtube.com/watch?v=KNYCUJOzj5c
+507,Lobsters,c++,C++ programming,High-Performance Stream Processing Library for C++ Using Coroutines TS,https://github.com/LoopPerfect/conduit
+508,Lobsters,c++,C++ programming,Competitive Programmers Handbook,https://cses.fi/book.pdf
+509,Lobsters,c++,C++ programming,Compile time regular expressions in C++,https://github.com/hanickadot/compile-time-regular-expressions
+510,Lobsters,c++,C++ programming,SATE V Report: Ten Years of Static Analysis Tool Expositions,https://samate.nist.gov/SATE5/SATE5%20Report.pdf
+511,Lobsters,c++,C++ programming,"OOP is dead, long live OOP",https://www.gamedev.net/blogs/entry/2265481-oop-is-dead-long-live-oop/
+512,Lobsters,c++,C++ programming,What is TDD? [Roadmap to Implement TDD in Your Organization],https://simform.com/what-is-tdd/
+513,Lobsters,c++,C++ programming,Covariance and contravariance in subtyping,https://eli.thegreenplace.net/2018/covariance-and-contravariance-in-subtyping/
+514,Lobsters,c++,C++ programming,"xmake v2.2.2, We can also manage package dependencies for C/C++",http://www.tboox.org/2018/10/13/xmake-update-v2.2.2-package-deps/
+515,Lobsters,c++,C++ programming,Dangless - Safe Dangling Pointer Errors,https://dangless.gaborkozar.me
+516,Lobsters,c++,C++ programming,GCC9 Lands Initial C++ Networking TS Implementation - Phoronix,https://www.phoronix.com/scan.php?page=news_item&px=GCC9-Networking-TS-Lands
+517,Lobsters,c++,C++ programming,cpp-peglib,https://github.com/yhirose/cpp-peglib
+518,Lobsters,c++,C++ programming,SDSL - Succinct Data Structure Library,https://github.com/simongog/sdsl-lite
+519,Lobsters,c++,C++ programming,CLI11: A single header command line parser for C++11 and above,https://github.com/CLIUtils/CLI11
+520,Lobsters,c++,C++ programming,Introducing Oboe: A C++ library for low latency audio,https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html
+521,Lobsters,c++,C++ programming,"Some Steps into Verification of Exact, Real Arithmetic (2012)",https://shemesh.larc.nasa.gov/nfm2012/talks/NFM2012_168_173.pdf
+522,Lobsters,c++,C++ programming,Announcing BuildInfer for C++,https://medium.com/@buckaroo.pm/announcing-buildinfer-for-c-3dfa3eb15feb
+523,Lobsters,c++,C++ programming,libtlscpp: A C++ encapsulation of libtls,https://github.com/NanXiao/libtlscpp
+524,Lobsters,c++,C++ programming,Why Optional References Didn’t Make It In C++17,https://www.fluentcpp.com/2018/10/05/pros-cons-optional-references/
+525,Lobsters,c++,C++ programming,Practical and Verifiable C++ Dynamic Cast for Hard Real-Time Systems (2008),http://www.stroustrup.com/fdc_jcse.pdf
+526,Lobsters,c++,C++ programming,Why should I use inline functions instead of plain old #define macros?,http://www.cs.technion.ac.il/users/yechiel/c++-faq/inline-vs-macros.html
+527,Lobsters,c++,C++ programming,Confessions of Wall St Programmer: Static Analysis Posts,https://btorpey.github.io/blog/categories/static-analysis/
+528,Lobsters,c++,C++ programming,Concepts: The Next Major Change Coming to C++,https://www.inversepalindrome.com/blog/2018/9/26/concepts
+529,Lobsters,c++,C++ programming,Simplicity: Not Just For Beginners,https://www.youtube.com/watch?v=n0Ak6xtVXno
+530,Lobsters,c++,C++ programming,Deterministic Disappointment,https://www.youtube.com/watch?v=cbUTAoHy6Ls
+531,Lobsters,c++,C++ programming,Concepts: The Future of Generic Programming (the future is here),https://www.youtube.com/watch?v=HddFGPTAmtU
+532,Lobsters,c++,C++ programming,Wasmjit: Kernel Mode WebAssembly Runtime for Linux,https://github.com/rianhunter/wasmjit
+533,Lobsters,c++,C++ programming,"42 silly ways to say ""Hello"" in modern C++",https://speakerdeck.com/olvemaudal/42-silly-ways-to-say-hello-in-modern-c-plus-plus-sep-2018
+534,Lobsters,c++,C++ programming,Why does the compiler turn my conditional loop into an infinite one?,https://blogs.msdn.microsoft.com/oldnewthing/20180924-00/?p=99805
+535,Lobsters,c++,C++ programming,Memory Tagging and how it improves C/C++ memory safety,https://ai.google/research/pubs/pub46800
+536,Lobsters,c++,C++ programming,"Vulkan has just become the world’s first graphics API with a formal memory model. So, what is a memory model and why should I care?",https://www.khronos.org/blog/vulkan-has-just-become-the-worlds-first-graphics-api-with-a-formal-memory-model.-so-what-is-a-memory-model-and-why-should-i-care
+537,Lobsters,c++,C++ programming,Structure-aware Fuzzing for Clang and LLVM (2017),https://llvm.org/devmtg/2017-10/slides/Serebryany-Structure-aware%20fuzzing%20for%20Clang%20and%20LLVM%20with%20libprotobuf-mutator.pdf
+538,Lobsters,c++,C++ programming,Help Transpiling Markdown to HTML,/s/1yyq9m/help_transpiling_markdown_html
+539,Lobsters,c++,C++ programming,"50 times faster data loading for Pandas: no problem, using C++",https://blog.esciencecenter.nl/irregular-data-in-pandas-using-c-88ce311cb9ef
+540,Lobsters,c++,C++ programming,Robust Notes with Embedded Code,https://www.arcadianvisions.com/blog/2018/org-nix-direnv.html
+541,Lobsters,c++,C++ programming,"Oops, I Wrote a C++ Compiler",https://praeclarum.org/2018/08/27/oops-i-wrote-a-c-compiler.html
+542,Lobsters,c++,C++ programming,RAII vs Failure to Acquire a Resource Is Not Exceptional / Don't call them Constructors,/s/y6mrxx/raii_vs_failure_acquire_resource_is_not
+543,Lobsters,c++,C++ programming,Spaceship Operator,https://blog.tartanllama.xyz/spaceship-operator/
+544,Lobsters,c++,C++ programming,Logic programming in C++,http://wordsandbuttons.online/logic_programming_in_cpp.html
+545,Lobsters,c++,C++ programming,sixgill static analysis,http://sixgill.org/
+546,Lobsters,c++,C++ programming,Modern C++ for C Programmers: last part + book recommendations,https://ds9a.nl/articles/posts/cpp-6/
+547,Lobsters,c++,C++ programming,"Vulnerability hunting with Semmle QL, part 1",https://blogs.technet.microsoft.com/srd/2018/08/16/vulnerability-hunting-with-semmle-ql-part-1/
+548,Lobsters,c++,C++ programming,When a Microsecond Is an Eternity: High Performance Trading Systems in C++,https://www.youtube.com/watch?v=NH1Tta7purM
+549,Lobsters,c++,C++ programming,Safe Clearing of Private Data,https://www.viva64.com/en/b/0388/
+550,Lobsters,c++,C++ programming,Solving FizzBuzz using compiler error messages,https://www.adamtornhill.com/articles/fizzbuzz.htm
+551,Lobsters,c++,C++ programming,DTHREADS: Efficient Deterministic Multithreading (2011),http://people.cs.ksu.edu/~danielwang/Investigation/System_Security/dthreads-sosp11.pdf
+552,Lobsters,c++,C++ programming,C++14 for Qt programmers,https://woboq.com/blog/cpp14-in-qt.html
+553,Lobsters,c++,C++ programming,Boost.Asio network programming little book,https://github.com/NanXiao/boost-asio-network-programming-little-book
+554,Lobsters,c++,C++ programming,Mathematics behind Comparison #3: Ordering Relations in C++,https://foonathan.net/blog/2018/07/19/ordering-relations-programming.html
+555,Lobsters,c++,C++ programming,Three hundred tasks from interviews. You can stretch your brains out a little,https://www.interviewbit.com/all-problem-list/
+556,Lobsters,c++,C++ programming,High resolution timers and high uptime headaches,https://cookieplmonster.github.io/2018/08/07/high-resolution-timers-and-uptime-headaches/
+557,Lobsters,c++,C++ programming,Floating (point) butterfly effect: Searching for tiny bugs that cause big problems,https://blog.esciencecenter.nl/floating-point-butterfly-effect-62ebe004200f
+558,Lobsters,c++,C++ programming,An introduction to C++ template programming (2016),http://www.cs.bham.ac.uk/~hxt/2016/c-plus-plus/intro-to-templates.pdf
+559,Lobsters,c++,C++ programming,"Should C Programmers learn C++, Go or Rust?",http://ds9a.nl/articles/posts/cpp-rust-go/
+560,Lobsters,c++,C++ programming,C++ Core Guidelines: A Short Detour to Contracts in C++20,http://www.modernescpp.com/index.php/c-core-guidelines-a-detour-to-contracts
+561,Lobsters,c++,C++ programming,Introduction to C++,http://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+562,Lobsters,c++,C++ programming,I'm starting to like Undefined Behaviour,/s/3yixz1/i_m_starting_like_undefined_behaviour
+563,Lobsters,c++,C++ programming,An Animated Introduction to Programming in C++,https://ourcodestories.com/markm208/Playlist/2
+564,Lobsters,c++,C++ programming,NumWorks Graphing Calculator,https://www.numworks.com/
+565,Lobsters,c++,C++ programming,In the name of Elegance,https://arne-mertz.de/2018/07/in-the-name-of-elegance/
+566,Lobsters,c++,C++ programming,Modern C++ for C Programmers: Part 5,http://ds9a.nl/articles/posts/cpp-5/
+567,Lobsters,c++,C++ programming,Infer: Facebook's static analyzer,http://fbinfer.com/
+568,Lobsters,c++,C++ programming,Review of contemporary C/C++ static code analyzers (2017),https://hownot2code.com/2017/06/29/review-of-contemporary-cc-static-code-analyzers/
+569,Lobsters,c++,C++ programming,The Value of Undefined Behavior,https://nullprogram.com/blog/2018/07/20/
+570,Lobsters,c++,C++ programming,A universal thread-safe memory pool,https://github.com/NanXiao/ump
+571,Lobsters,c++,C++ programming,"Fast, Shared, Upgradeable Mutex",https://shlomisteinberg.com/2018/06/24/fast-shared-upgradeable-mutex/
+572,Lobsters,c++,C++ programming,Building a fast queue between C++ and Java,http://pzemtsov.github.io/2018/07/18/building-queue-from-cpp-to-java.html
+573,Lobsters,c++,C++ programming,Modern C++ for C Programmers: Part 4 •,http://ds9a.nl/articles/posts/cpp-4/
+574,Lobsters,c++,C++ programming,C++ template programming: Embedding the lambda-calculus to show Turing-completeness,http://matt.might.net/articles/c++-template-meta-programming-with-lambda-calculus/
+575,Lobsters,c++,C++ programming,The Generator Pattern: Lazy Lists in C/C++,https://bbessemer.github.io//blog/2018/07/12/generators/
+576,Lobsters,c++,C++ programming,Solving Rush Hour (the puzzle),https://www.michaelfogleman.com/rush/
+577,Lobsters,c++,C++ programming,Optimizing a Python application with C++ code,https://antlarr.io/2018/07/optimizing-a-python-application-with-c-code/
+578,Lobsters,c++,C++ programming,A guide to unity builds,http://onqtam.com/programming/2018-07-07-unity-builds/
+579,Lobsters,c++,C++ programming,Sierra: A SIMD Extension for C++,http://sierra-lang.github.io/
+580,Lobsters,c++,C++ programming,Bartosz Milewski's 'Category Theory for Programmers' compiled in EPUB,https://github.com/onlurking/category-theory-for-programmers
+581,Lobsters,c++,C++ programming,Functions of Variants are Covariant,https://arne-mertz.de/2018/06/functions-of-variants-are-covariant/
+582,Lobsters,c++,C++ programming,"xmake-vscode v1.1.0 released, Support breakpoint debugging",http://tboox.org/2018/06/28/xmake-vscode-update-v1.1.0/
+583,Lobsters,c++,C++ programming,"A Guide to Undefined Behavior in C and C++, Part 1",https://embeddedartistry.com/blog/2017/1/8/a-guide-to-undefined-behavior-in-c-and-c-part-1
+584,Lobsters,c++,C++ programming,template <auto>,https://mariusbancila.ro/blog/2018/05/23/template-auto/
+585,Lobsters,c++,C++ programming,Modern C++ for C Programmers: Part 3,http://ds9a.nl/articles/posts/cpp-3/
+586,Lobsters,c++,C++ programming,How can I detect from the preprocessor what a macro’s definition is?,https://blogs.msdn.microsoft.com/oldnewthing/20180628-00/?p=99115
+587,Lobsters,c++,C++ programming,"Compiler fuzzing, part 1",http://www.vegardno.net/2018/06/compiler-fuzzing.html
+588,Lobsters,c++,C++ programming,Compiler Explorer (think CodePen for C(++)/D/Go/Rust/Swift/Haskell disassembly),https://gcc.godbolt.org/
+589,Lobsters,c++,C++ programming,What is Strict Aliasing and Why do we Care?,https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8
+590,Lobsters,c++,C++ programming,"A Guide to Undefined Behavior in C and C++, Part 1 – Embedded in Academia",https://blog.regehr.org/archives/213
+591,Lobsters,c++,C++ programming,A Lisp-Style Library for C (1991),http://www.drdobbs.com/cpp/a-lisp-style-library-for-c/184408598?pgno=8
+592,Lobsters,c++,C++ programming,"MixT: An embedded, domain-specific language for Mixed-Consistency Transactions",https://mpmilano.github.io/MixT/
+593,Lobsters,c++,C++ programming,Symbolic Computation with C++,https://www-zeuthen.desy.de/acat05/talks/Vollinga.Jens.3/vollinga.pdf
+594,Lobsters,c++,C++ programming,Handles are the better pointers,http://floooh.github.com/2018/06/17/handles-vs-pointers.html
+595,Lobsters,c++,C++ programming,"xmake v2.2.1 released, Support Qt, WDK and Cuda Compilation Environments",http://tboox.org/2018/06/17/update-v2.2.1/
+596,Lobsters,c++,C++ programming,Modern C++ for C programmers: part 2 •,http://ds9a.nl/articles/posts/cpp-2/
+597,Lobsters,c++,C++ programming,"zapcc: A Caching, C++ Compiler Based On Clang for Faster Compiles",https://github.com/yrnkrn/zapcc
+598,Lobsters,c++,C++ programming,C++ for C Programmers: part 1,http://ds9a.nl/articles/posts/c++-1/
+599,Lobsters,c++,C++ programming,Type-safe Bitmasks in C++,https://gpfault.net/posts/typesafe-bitmasks.txt.html
+600,Lobsters,c++,C++ programming,Sparse sets,http://www.computist.xyz/2018/06/sparse-sets.html
+601,Lobsters,c++,C++ programming,C++Now 2018,http://www.youtube.com/playlist?list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH
+602,Lobsters,c++,C++ programming,Why do I recommend learning C++?,https://nanxiao.me/en/why-do-i-recommend-learning-c-plus-plus/
+603,Lobsters,c++,C++ programming,Modern C++ Features – std::optional,https://arne-mertz.de/2018/06/modern-c-features-stdoptional/
+604,Lobsters,c++,C++ programming,Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17 (2016),https://www.youtube.com/watch?v=zBkNBP00wJE
+605,Lobsters,c++,C++ programming,Comparison of Functional and Imperative Techniques for Mathematical Software Development (2014),http://www.iiisci.org/journal/CV$/sci/pdfs/MA079VM12.pdf
+606,Lobsters,c++,C++ programming,Katran - A High Performance Layer 4 Load Balancer,https://github.com/facebookincubator/katran
+607,Lobsters,c++,C++ programming,When an implementation monoculture might be the right thing,https://blog.mozilla.org/nfroyd/2018/05/29/when-implementation-monoculture-right-thing/
+608,Lobsters,c++,C++ programming,Building Krita on Linux for cats,http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats
+609,Lobsters,c++,C++ programming,Embedding files in C programs with koio,https://drewdevault.com/2018/05/29/Embedding-files-in-C.html
+610,Lobsters,c++,C++ programming,XMake: Support for the Qt SDK environment,http://tboox.org/2018/05/30/support-qt/
+611,Lobsters,c++,C++ programming,SMH: The Swiss Army Chainsaw of shuffle-based matching sequences,https://branchfree.org/2018/05/30/smh-the-swiss-army-chainsaw-of-shuffle-based-matching-sequences/
+612,Lobsters,c++,C++ programming,Proposal: Signed Integers are Two’s Complement,http://wg21.link/P0907r0
+613,Lobsters,c++,C++ programming,"Build2, a Cargo-like dependency and build manager for C/C++",https://build2.org/build2-toolchain/doc/build2-toolchain-intro.xhtml#guide
+614,Lobsters,c++,C++ programming,Porting guide from Qt 1.0 to 5.11,https://blog.qt.io/blog/2018/05/24/porting-from-qt-1-0/
+615,Lobsters,c++,C++ programming,Remember the Vasa! A critique of modern C++ direction,http://open-std.org/JTC1/SC22/WG21/docs/papers/2018/p0977r0.pdf
+616,Lobsters,c++,C++ programming,I don't need types,https://dmerej.info/blog/post/trying-mypy/
+617,Lobsters,c++,C++ programming,Writing Linux File System for Fun,https://www.youtube.com/watch?v=sLR17lUjTpc&t=1s
+618,Lobsters,c++,C++ programming,Meta Crush Saga: a C++17 compile-time game,https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html
+619,Lobsters,c++,C++ programming,Thoroughly Modern Mongo: Modernising the MongoDB Codebase,https://www.youtube.com/watch?v=F1i7R2lfPHw
+620,Lobsters,c++,C++ programming,The weirdest bug I’ve found in a compiler: MSVC 2017,https://medium.com/@ryanhaining/the-weirdest-error-ive-found-in-a-compiler-msvc-2017-ade2e9da0e20
+621,Lobsters,c++,C++ programming,C++ Insights,https://cppinsights.io/
+622,Lobsters,c++,C++ programming,Functional programming for embedded systems,https://medium.com/@saschagrunert/functional-programming-for-embedded-systems-4425ddd8435b
+623,Lobsters,c++,C++ programming,How to Adopt Modern C++17 into Your C++ Code,https://www.youtube.com/watch?v=UsrHQAzSXkA
+624,Lobsters,c++,C++ programming,Announcing: MSVC Conforms to the C++ Standard,https://blogs.msdn.microsoft.com/vcblog/2018/05/07/announcing-msvc-conforms-to-the-c-standard/
+625,Lobsters,c++,C++ programming,"std::iterator is deprecated: Why, What It Was, and What to Use Instead",https://www.fluentcpp.com/2018/05/08/std-iterator-deprecated/
+626,Lobsters,c++,C++ programming,Yet Another Hierarchical State Machine (2004),https://accu.org/index.php/journals/252
+627,Lobsters,c++,C++ programming,Hello Qt for Python,https://blog.qt.io/blog/2018/05/04/hello-qt-for-python/
+628,Lobsters,c++,C++ programming,7-Zip: From Uninitialized Memory to Remote Code Execution,https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/
+629,Lobsters,c++,C++ programming,Minimal Binary Generator for *Nix Operating Systems,https://github.com/faemiyah/dnload
+630,Lobsters,c++,C++ programming,GCC 8.1 Released,https://gcc.gnu.org/ml/gcc/2018-05/msg00017.html
+631,Lobsters,c++,C++ programming,"Dolphin Feature Article - ""The Legend of Dolphin: A Lens Between Worlds""",https://dolphin-emu.org/blog/2018/05/02/legend-dolphin-lens-between-worlds/
+632,Lobsters,c++,C++ programming,Better Numeric Types in C++,https://www.youtube.com/watch?v=xenj1aK7uW4
+633,Lobsters,c++,C++ programming,std::optional -> Yak Shaving,https://kaushikghose.wordpress.com/2018/04/30/stdoptional-yak-shaving/
+634,Lobsters,c++,C++ programming,A Fault Tolerance Protocol with Fast Fault Recovery (2007),http://www.cecs.uci.edu/~papers/ipdps07/pdfs/IPDPS-1569011019-paper-1.pdf
+635,Lobsters,c++,C++ programming,Source Code Verification for Embedded Systems using Prolog (2016),http://www.montenegros.de/sergio/public/wlp16-verification-of-embedded-with.prolog.pdf
+636,Lobsters,c++,C++ programming,"Announcing a single C++ library manager for Linux, macOS and Windows: Vcpkg",https://blogs.msdn.microsoft.com/vcblog/2018/04/24/announcing-a-single-c-library-manager-for-linux-macos-and-windows-vcpkg/
+637,Lobsters,c++,C++ programming,Enterprise Programming Tricks For Clean Code,https://www.youtube.com/watch?v=dC9vdQkU-xI
+638,Lobsters,c++,C++ programming,The C++ committee has taken off its ball and chain,http://shape-of-code.coding-guidelines.com/2018/04/14/the-c-committee-has-taken-off-its-ball-and-chain/
+639,Lobsters,c++,C++ programming,Mechanized Formal Semantics and Verified Compilation for C++ Objects (2012),http://gallium.inria.fr/~tramanan/cxx/
+640,Lobsters,c++,C++ programming,Dark Side Of Ergonomics,https://vorner.github.io/2018/04/08/Dark-side-of-ergonomics.html
+641,Lobsters,c++,C++ programming,"C++ is ugly, so is Haskell",https://medium.com/@pratyushrathore/c-is-ugly-so-is-haskell-c7374a292027
+642,Lobsters,c++,C++ programming,Checkpoint - A fast and simple save manager for rosalina-based Homebrew Launchers written in C++,https://github.com/BernardoGiordano/Checkpoint
+643,Lobsters,c++,C++ programming,Sneak Peek at WebAssembly Studio,https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
+644,Lobsters,c++,C++ programming,Adapting Scheme-like Macros to the C Language (2011),http://repository.readscheme.org/ftp/papers/sw2011/01-atkinson.pdf
+645,Lobsters,c++,C++ programming,Certification of an Instruction Set Simulator [for ARM] (2017),https://tel.archives-ouvertes.fr/tel-00937524/document
+646,Lobsters,c++,C++ programming,Newer C++ features can create a lot of system yak shaving,http://rachelbythebay.com/w/2018/04/02/cpp/
+647,Lobsters,c++,C++ programming,Understanding the C/C++ memory model – part 2,https://davmac.wordpress.com/2018/04/03/understanding-the-c-c-memory-model-part-2/
+648,Lobsters,c++,C++ programming,No more pointers,https://blog.tartanllama.xyz/no-pointers/
+649,Lobsters,c++,C++ programming,A geometric Rust adventure,https://eev.ee/blog/2018/03/30/a-geometric-rust-adventure/
+650,Lobsters,c++,C++ programming,C++ system browsing and visualization in Lucid Energize (1993),https://www.youtube.com/watch?v=pQQTScuApWk
+651,Lobsters,c++,C++ programming,Inastemp: A Novel Intrinsics-as-Template Library for Portable SIMD-Vectorization (2017),http://downloads.hindawi.com/journals/sp/2017/5482468.pdf
+652,Lobsters,c++,C++ programming,No ad hoc parser in NeoPG,https://neopg.io/blog/no-ad-hoc-parser/
+653,Lobsters,c++,C++ programming,"uC++: C++ Extended with Coroutines, Tasks, and Monitors (1992)",https://plg.uwaterloo.ca/~usystem/uC++.html
+654,Lobsters,c++,C++ programming,Recommended compiler and linker flags for GCC,https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/
+655,Lobsters,c++,C++ programming,The “unsigned for value range” antipattern,https://quuxplusone.github.io/blog/2018/03/13/unsigned-for-value-range/
+656,Lobsters,c++,C++ programming,Luxe Engine: A lovingly hand crafted game engine,https://luxeengine.com/
+657,Lobsters,c++,C++ programming,Adventures with Memory Barriers and Seastar on Linux,https://www.scylladb.com/2018/02/15/memory-barriers-seastar-linux/
+658,Lobsters,c++,C++ programming,Making a PS2 Emulator: From Bits to Pixels,https://github.com/PSI-Rockin/DobieStation/wiki/Making-a-PS2-Emulator:-From-Bits-to-Pixels
+659,Lobsters,c++,C++ programming,Persistence for the Masses: RRB-Vectors in a Systems Language (2017),https://public.sinusoid.es/misc/immer/immer-icfp17.pdf
+660,Lobsters,c++,C++ programming,Olmar: Manipulating C and C++ abstract syntax trees in Ocaml (2007),http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.530&rep=rep1&type=pdf
+661,Lobsters,c++,C++ programming,A Usable C++ Dialect that is Safe Against Memory Corruption,http://accu.org/index.php/journals/2407
+662,Lobsters,c++,C++ programming,Profiling: Measurement and Analysis,https://engineering.riotgames.com/news/profiling-measurement-and-analysis
+663,Lobsters,c++,C++ programming,The C++ Metaclasses Proposal in Less Than 5 Minutes,https://www.fluentcpp.com/2018/03/09/c-metaclasses-proposal-less-5-minutes/
+664,Lobsters,c++,C++ programming,SaferCPlusPlus,http://duneroadrunner.github.io/SaferCPlusPlus/
+665,Lobsters,c++,C++ programming,#include – Don’t get fancy,https://arne-mertz.de/2018/03/include-dont-get-fancy/
+666,Lobsters,c++,C++ programming,Formal Verification of Medical Device User Interfaces Using PVS (2017),http://www.harold.thimbleby.net/cv/files/FASE2014.pdf
+667,Lobsters,c++,C++ programming,OpenGL C++ Shaders,https://www.youtube.com/watch?v=6ztUqU14Tyc
+668,Lobsters,c++,C++ programming,Rocksandra by Instagram,https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589
+669,Lobsters,c++,C++ programming,Why Const Sucks,http://jmdavisprog.com/articles/why-const-sucks.html
+670,Lobsters,c++,C++ programming,"John Carmack on OpenBSD, C++ & machine learning",https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590
+671,Lobsters,c++,C++ programming,"Sortix: A Small, Self-Hosted, POSIX-compliant, Operating System",https://sortix.org
+672,Lobsters,c++,C++ programming,C++ Exception Handling - The gory details of an implementation,https://www.youtube.com/watch?v=XpRL7exdFL8
+673,Lobsters,c++,C++ programming,C++ Foundation Developer Survey,https://isocpp.org/blog/2018/02/new-cpp-foundation-developer-survey-lite-2018-02
+674,Lobsters,c++,C++ programming,A collection of CMake recipes,https://github.com/mechazoidal/cmake_cookbook
+675,Lobsters,c++,C++ programming,"Modern C++ isn’t memory safe, either",https://neosmart.net/blog/2018/modern-c-isnt-memory-safe/
+676,Lobsters,c++,C++ programming,C++ Patterns,https://cpppatterns.com
+677,Lobsters,c++,C++ programming,Performance Tuning,https://www.youtube.com/watch?v=fV6qYho-XVs
+678,Lobsters,c++,C++ programming,A Brief Beginner’s Guide To CMake,https://github.com/pyk/cmake-tutorial
+679,Lobsters,c++,C++ programming,Inspector - A drop-anywhere C++ REPL,https://github.com/inspector-repl/inspector
+680,Lobsters,c++,C++ programming,Implementation of a robust no-fit polygon generation in a C++ library (github.com),https://github.com/kallaballa/libnfp.git
+681,Lobsters,c++,C++ programming,Lmod - Environmental Modules System,https://www.tacc.utexas.edu/research-development/tacc-projects/lmod
+682,Lobsters,c++,C++ programming,Coroutine Theory,https://lewissbaker.github.io/2017/09/25/coroutine-theory
+683,Lobsters,c++,C++ programming,"xmake v2.1.9 released, provide user custom menu config",http://tboox.org/2018/02/03/update-v2.1.9/
+684,Lobsters,c++,C++ programming,How it works: Compiler Explorer,https://xania.org/201609/how-compiler-explorer-runs-on-amazon
+685,Lobsters,c++,C++ programming,I'm implementing menu config based on curses terminal,https://github.com/tboox/xmake/issues/155
+686,Lobsters,c++,C++ programming,C++ and the Culture of Complexity,http://blog.greaterthanzero.com/post/58482859780/c-and-the-culture-of-complexity
+687,Lobsters,c++,C++ programming,"Design Patterns in Haskell, Part 1: The Strategy Pattern",http://storm-country.com/blog/gof-strategy
+688,Lobsters,c++,C++ programming,Understanding the C/C++ memory model,https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/
+689,Lobsters,c++,C++ programming,We’re Hiring a Developer to Work on Thunderbird Full-Time!,https://blog.mozilla.org/thunderbird/2018/01/were-hiring-a-developer-to-work-on-thunderbird-full-time/
+690,Lobsters,c++,C++ programming,Formal Semantics for C++ (2007),https://ts.data61.csiro.au/publications/nicta_full_text/1203.pdf
+691,Lobsters,c++,C++ programming,Code alignment issues,https://dendibakh.github.io/blog/2018/01/18/Code_alignment_issues
+692,Lobsters,c++,C++ programming,Building a Website with C++,https://blog.sourcerer.io/building-a-website-with-c-db942c801aee
+693,Lobsters,c++,C++ programming,Anatomy of the thread suspension mechanism in Windows,https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/
+694,Lobsters,c++,C++ programming,ICC and VTune now free as part of Intel System Studio,https://software.intel.com/en-us/system-studio/choose-download
+695,Lobsters,c++,C++ programming,"Neanderthal and friends support CUDA 9, Java 9, and Clojure 1.9",http://dragan.rocks/articles/18/Neanderthal-018-CUDA9-Java9-Clojure19-update
+696,Lobsters,c++,C++ programming,Chromium distributed build client is now open source,https://groups.google.com/a/chromium.org/forum/#!msg/chromium-dev/q7hSGr_JNzg/p44IkGhDDgAJ
+697,Lobsters,c++,C++ programming,"Bot Fighting 201, part 3. ithare::obf: An Open Source Data+Source Randomized Obfuscation Library",http://ithare.com/bot-fighting-201-part-3-ithareobf-an-open-source-datasource-randomized-obfuscation-library/
+698,Lobsters,c++,C++ programming,OpenMP Little Book,https://www.gitbook.com/book/nanxiao/openmp-little-book/details
+699,Lobsters,c++,C++ programming,clang in the browser: compile and run C++ via WebAssembly:,https://tbfleming.github.io/cib/
+700,Lobsters,c++,C++ programming,A Global Optimization Algorithm Worth Using,http://blog.dlib.net/2017/12/a-global-optimization-algorithm-worth.html
+701,Lobsters,c++,C++ programming,"Code behaving differently in C90, C99, C11, C++98, and C++11",https://kristerw.blogspot.com/2016/07/code-behaving-differently-in-c90-c99.html
+702,Lobsters,c++,C++ programming,RAM-less Buffers,https://emsea.github.io/2017/12/31/register-buffer/
+703,Lobsters,c++,C++ programming,openage - a volunteer project to create a free engine clone of the Genie Engine,http://openage.sft.mx/
+704,Lobsters,c++,C++ programming,A friendly type predicate,https://akrzemi1.wordpress.com/2017/12/20/a-friendly-type-predicate/
+705,Lobsters,c++,C++ programming,Bot Fighting 201: Declarative Data+Code Obfuscation with Build-Time Polymorphism in C++,http://ithare.com/bot-fighting-201-declarative-datacode-obfuscation-with-build-time-polymorphism-in-c/
+706,Lobsters,c++,C++ programming,"Go Under The Hood, Get Your Hands Dirty, Protect Your Memory At All Costs",https://www.zeroequalsfalse.press/2017/12/27/memsafety/
+707,Lobsters,c++,C++ programming,Exposing undefined behavior when trying to port code to another platform,https://blogs.msdn.microsoft.com/oldnewthing/20171222-00/?p=97635
+708,Lobsters,c++,C++ programming,How to Write Your Own C++ Game Engine,http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine
+709,Lobsters,c++,C++ programming,Chromium has a compilation time problem.,/s/iri1te/chromium_has_compilation_time_problem
+710,Lobsters,c++,C++ programming,Introducing Dasynq - the C++ event-loop library for robust clients,https://davmac.wordpress.com/2017/12/17/introducing-dasynq/
+711,Lobsters,c++,C++ programming,Clang 5 in a Docker container for C++17 development,https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-development/
+712,Lobsters,c++,C++ programming,Z80 Emu Evolution,http://floooh.github.com/2017/12/10/z80-emu-evolution.html
+713,Lobsters,c++,C++ programming,Improving compile times of C++ code,http://zverovich.net/2017/12/09/improving-compile-times.html
+714,Lobsters,c++,C++ programming,HANA C++ Development Environment and Processes · HookRace Blog,https://hookrace.net/blog/hana-cpp-development/
+715,Lobsters,c++,C++ programming,Modernize: Sink Functions,http://www.bfilipek.com/2017/02/modernize-sink-functions.html
+716,Lobsters,c++,C++ programming,C++17 Released,https://www.iso.org/standard/68564.html
+717,Lobsters,c++,C++ programming,Interactive Workflows for C++ with Jupyter,https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92
+718,Lobsters,c++,C++ programming,[EXPERIMENT] Emacs with the SpiderMonkey garbage collector,http://lists.gnu.org/archive/html/emacs-devel/2017-11/msg00575.html
+719,Lobsters,c++,C++ programming,A vulnerability by any other name,https://alexgaynor.net/2017/nov/20/a-vulnerability-by-any-other-name/
+720,Lobsters,c++,C++ programming,Dolphin Emulator - To The Screen with Hybrid XFB,https://dolphin-emu.org/blog/2017/11/19/hybridxfb/
+721,Lobsters,c++,C++ programming,Cheerp - the C++ compiler for the Web,https://www.leaningtech.com/cheerp/
+722,Lobsters,c++,C++ programming,The wrong way of benchmarking the most efficient integer comparison function,https://blogs.msdn.microsoft.com/oldnewthing/20171117-00/?p=97416
+723,Lobsters,c++,C++ programming,"Cquery: Highly-Scalable, Low-Latency, Language Server for C++",https://github.com/jacobdufault/cquery/#cquery
+724,Lobsters,c++,C++ programming,Immer: Clojure-like persistent data structures in C++,/s/x4wkvs/immer_clojure_like_persistent_data
+725,Lobsters,c++,C++ programming,"Inlining qsort, and std::sort",https://agottem.com/blog/inlining_qsort_sort
+726,Lobsters,c++,C++ programming,How Media Molecule Does Serialization,https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization
+727,Lobsters,c++,C++ programming,"KLOVER: A Symbolic Execution and Automatic, Test Generator for C++ Programs",http://www.cs.utah.edu/~ligd/publications/KLOVER-CAV11.pdf
+728,Lobsters,c++,C++ programming,The long goodbye to C,http://esr.ibiblio.org/?p=7711
+729,Lobsters,c++,C++ programming,"xmake v2.1.8 released, improve IDE/Editor plugin integration",http://tboox.org/2017/11/08/update-v2.1.8/
+730,Lobsters,c++,C++ programming,Enforcing code contracts with [[nodiscard]],http://www.bfilipek.com/2017/11/nodiscard.html
+731,Lobsters,c++,C++ programming,A XMake integration in IntelliJ IDEA.,https://github.com/tboox/xmake-idea
+732,Lobsters,c++,C++ programming,gRPC open-source universal RPC framework,https://grpc.io/
+733,Lobsters,c++,C++ programming,Towards a more powerful and simpler C++ with Herb Sutter,https://blog.jetbrains.com/clion/2017/11/towards-a-more-powerful-and-simpler-cpp-with-herb-sutter/
+734,Lobsters,c++,C++ programming,What every systems programmer should know about lockless concurrency,https://assets.bitbashing.io/papers/lockless.pdf
+735,Lobsters,c++,C++ programming,Common C++ Modules TS Misconceptions,https://build2.org/article/cxx-modules-misconceptions.xhtml
+736,Lobsters,c++,C++ programming,The C++ Bestiary 🎃,https://adishavit.github.io/2017/Bestiary/
+737,Lobsters,c++,C++ programming,A look at some bounded queues - part 2,http://cbloomrants.blogspot.com/2011/07/07-30-11-look-at-some-bounded-queues.html
+738,Lobsters,c++,C++ programming,A categorized list of C++ resources.,https://github.com/MattPD/cpplinks
+739,Lobsters,c++,C++ programming,Code Reuse In Actual Practice,https://www.gamedev.net/blogs/entry/2263902-code-reuse-in-actual-practice/
+740,Lobsters,c++,C++ programming,D is for Data Science,http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html
+741,Lobsters,c++,C++ programming,Pathie C++ Unicode Pathname library,https://www.guelkerdev.de/projects/pathie/
+742,Lobsters,c++,C++ programming,Build Your Own Minimal and Scriptable Terminal,https://donniewest.com/build-your-own-minimal-and-scriptable-terminal
+743,Lobsters,c++,C++ programming,A XMake integration in Sublime Text,https://github.com/tboox/xmake-sublime
+744,Lobsters,c++,C++ programming,Best unknown MSVC flag: d2cgsummary,http://aras-p.info/blog/2017/10/23/Best-unknown-MSVC-flag-d2cgsummary/
+745,Lobsters,c++,C++ programming,A technique for using automatic memory management (RAII) with C libraries,https://lethalguitar.wordpress.com/2017/10/20/a-technique-for-using-automatic-memory-management-raii-with-c-libraries/
+746,Lobsters,c++,C++ programming,Hardening C/C++ Programs: Part I,http://www.productive-cpp.com/hardening-cpp-programs-stack-protector/
+747,Lobsters,c++,C++ programming,Implementing Go's defer keyword in C++,https://oded.blog/2017/10/05/go-defer-in-cpp/
+748,Lobsters,c++,C++ programming,"Everything that is wrong with sudo, and how I fixed it",https://oded.blog/2017/10/21/doas-linux/
+749,Lobsters,c++,C++ programming,Pointer free programming and the future of Nim,https://nim-lang.org/araq/destructors.html
+750,Lobsters,c++,C++ programming,"xmake-vscode v1.0.1 released, a xmake integration in vscode",http://tboox.org/2017/10/17/xmake-vscode-update-v1.0.1/
+751,Lobsters,c++,C++ programming,Haskell Typeclasses vs. C++ Classes,http://www.michaelburge.us/2017/10/15/haskell-typeclasses-vs-cpp-classes.html
+752,Lobsters,c++,C++ programming,Optimizing software in C++,http://agner.org/optimize/optimizing_cpp.pdf?10142017
+753,Lobsters,c++,C++ programming,The Boost Challenge,http://www.thechurchofagile.org/is_it_boost.php
+754,Lobsters,c++,C++ programming,General-purpose neural model for efficient learning of entity embeddings for solving a wide variety,https://github.com/facebookresearch/StarSpace
+755,Lobsters,c++,C++ programming,Bartosz Milewski's 'Category Theory for Programmers' compiled in PDF,https://github.com/hmemcpy/milewski-ctfp-pdf
+756,Lobsters,c++,C++ programming,Millennials Are Killing The Modules TS,https://izzys.casa/posts/millennials-are-killing-the-modules-ts.html
+757,Lobsters,c++,C++ programming,A XMake integration in Visual Studio Code,https://github.com/tboox/xmake-vscode
+758,Lobsters,c++,C++ programming,Concurrent Servers,https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
+759,Lobsters,c++,C++ programming,Nana C++ Library - a modern C++ GUI library,http://nanapro.org/en-us/
+760,Lobsters,c++,C++ programming,Useful GCC warning options not enabled by -Wall -Wextra,https://kristerw.blogspot.com/2017/09/useful-gcc-warning-options-not-enabled.html
+761,Lobsters,c++,C++ programming,CppCon 2017 Trip Report,http://web.cynd.net/~willo/cppcon-2017-trip-report/
+762,Lobsters,c++,C++ programming,C++ Compilers and Absurd Optimizations,https://asmbits.blogspot.com/2017/03/c-compilers-and-absurd-optimizations.html
+763,Lobsters,c++,C++ programming,Apple Open Sources XNU Kernel,https://github.com/apple/darwin-xnu
+764,Lobsters,c++,C++ programming,How my little C++ meta-serialization library works and how I wrote it,https://eliasdaler.github.io/meta-stuff/
+765,Lobsters,c++,C++ programming,Abseil open-source foundational code,http://abseil.io/about/
+766,Lobsters,c++,C++ programming,Come hack on bindgen with us!,http://fitzgeraldnick.com/2017/09/21/come-hack-on-bindgen-with-us.html
+767,Lobsters,c++,C++ programming,mrustc: an alternative Rust compiler written in C++,https://github.com/thepowersgang/mrustc
+768,Lobsters,c++,C++ programming,Experimenting with Small Buffer Optimization for C++ Lambdas,https://hackernoon.com/experimenting-with-small-buffer-optimization-for-c-lambdas-d5b703fb47e4
+769,Lobsters,c++,C++ programming,std::visit is everything wrong with modern C++,https://bitbashing.io/std-visit.html
+770,Lobsters,c++,C++ programming,7 Quick Tips for Java Programmers Starting C++,https://hackernoon.com/7-quick-tips-for-java-programmers-starting-c-67103c8f3bd1
+771,Lobsters,c++,C++ programming,"What are anonymous structs, and more importantly, how do I tell windows.h to stop using them?",https://blogs.msdn.microsoft.com/oldnewthing/20170907-00/?p=96956
+772,Lobsters,c++,C++ programming,C++17 is formally approved,https://herbsutter.com/2017/09/06/c17-is-formally-approved/
+773,Lobsters,c++,C++ programming,C++17 in details: Standard Library Utilities,http://www.bfilipek.com/2017/09/cpp17-details-utils.html
+774,Lobsters,c++,C++ programming,Hell is a multi-threaded C++ program. (2006),http://codemines.blogspot.com/2006/09/hell-is-multi-threaded-c-program.html
+775,Lobsters,c++,C++ programming,C++17 STL Cookbook Book Review,http://www.bfilipek.com/2017/08/cpp17stl-review.html
+776,Lobsters,c++,C++ programming,Resumable Expressions,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0114r0.pdf
+777,Lobsters,c++,C++ programming,Compile Once Debug Twice: Picking a Compiler for Debuggability (1/3),https://backtrace.io/blog/compile-once-debug-twice-picking-a-compiler-for-debuggability-1of3/
+778,Lobsters,c++,C++ programming,Stingray Engine Code Walkthrough,http://www.youtube.com/playlist?list=PLUxuJBZBzEdxzVpoBQY9agA8JUgNkeYSV
+779,Lobsters,c++,C++ programming,Software optimization resources,http://agner.org/optimize/
+780,Lobsters,c++,C++ programming,ggformat - a string formatting library for C++,https://github.com/mikejsavage/ggformat
+781,Lobsters,c++,C++ programming,C++17 in details: Parallel Algorithms,http://www.bfilipek.com/2017/08/cpp17-details-parallel.html
+782,Lobsters,c++,C++ programming,A follow up of the study of 4 Money class designs: why not having currencies as type parameters?,https://deque.blog/2017/08/22/a-follow-up-of-the-study-of-4-money-class-designs-why-not-having-currencies-as-type-parameters/
+783,Lobsters,c++,C++ programming,Building Reactive Terminal Interfaces in C++,https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649
+784,Lobsters,c++,C++ programming,"Ranges, Coroutines, and React: Early Musings on the Future of Async in C++",http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/
+785,Lobsters,c++,C++ programming,How to use xmake to build the cross–platform c/c++ project,https://asciinema.org/a/133693
+786,Lobsters,c++,C++ programming,Making OpenSource software more secure using Kafel and Dependency Analysis,https://github.com/LoopPerfect/buckaroo/issues/127
+787,Lobsters,c++,C++ programming,Rust performance: finishing the job,http://mikejsavage.co.uk/blog/rust-performance-finishing-the-job.html
+788,Lobsters,c++,C++ programming,"xmake v2.1.6 released, a make-like build utility based on Lua",https://github.com/tboox/xmake/releases/tag/v2.1.6
+789,Lobsters,c++,C++ programming,Give me 15 minutes & I'll change your view of GDB,https://www.youtube.com/watch?v=PorfLSr3DDI
+790,Lobsters,c++,C++ programming,Does OO really match the way we think?,http://www.leshatton.org/Documents/OO_IS698.pdf
+791,Lobsters,c++,C++ programming,Designing an ARM7TDMI emulation core,https://board.byuu.org/viewtopic.php?f=8&t=1730
+792,Lobsters,c++,C++ programming,Unreasonable Effectiveness of Profilers ·,http://aras-p.info/blog/2017/08/08/Unreasonable-Effectiveness-of-Profilers/
+793,Lobsters,c++,C++ programming,C++17 in details: Filesystem,http://www.bfilipek.com/2017/08/cpp17-details-filesystem.html
+794,Lobsters,c++,C++ programming,A Summary of the Metaclasses Proposal for C++,http://www.fluentcpp.com/2017/08/04/metaclasses-cpp-summary/
+795,Lobsters,c++,C++ programming,"xmake v2.1.5 released, lots of new feature updates",http://tboox.org/2017/08/05/update-v2.1.5/
+796,Lobsters,c++,C++ programming,Generating Random Numbers From a Specific Distribution By Inverting the CDF,https://blog.demofox.org/2017/08/05/generating-random-numbers-from-a-specific-distribution-by-inverting-the-cdf/
+797,Lobsters,c++,C++ programming,Bootloader and Low-Level Programming Tutorial: How To Develop Your Own Boot Loader,https://www.apriorit.com/dev-blog/66-develop-boot-loader
+798,Lobsters,c++,C++ programming,Compile-time templated A* pathfinding in C++14,http://lapinozz.github.io/learning/2017/07/17/compile-time-templated-a-star-pathfinding.html
+799,Lobsters,c++,C++ programming,Some new features of xmake v2.1.5,http://www.tboox.org/2017/07/29/new-features-v2.1.5/
+800,Lobsters,c++,C++ programming,CMake Announcement from Boost Steering Committee,https://lists.boost.org/boost-interest/2017/07/0162.php
+801,Lobsters,c++,C++ programming,Metaclasses: Thoughts on generative C++,https://herbsutter.com/2017/07/26/metaclasses-thoughts-on-generative-c/
+802,Lobsters,c++,C++ programming,nanogui: minimalistic GUI library for OpenGL,https://github.com/wjakob/nanogui
+803,Lobsters,c++,C++ programming,6 Reasons Why We Distribute C++ Libraries as Source-Code,https://hackernoon.com/6-reasons-why-we-distribute-c-libraries-as-source-code-2dc614d5ef1e
+804,Lobsters,c++,C++ programming,Iterators are also part of the C++ zero cost abstractions,https://blog.galowicz.de/2017/07/02/order2_iterator/
+805,Lobsters,c++,C++ programming,Modern C/C++ for a DevOps Workflow,https://leap.jfrog.com/WN2017-ModernCforaDevOpsWorkflow7271030AMPST_RegistrationPage1speakerNEW.html
+806,Lobsters,c++,C++ programming,smallpt: Global Illumination in 99 lines of C++,http://www.kevinbeason.com/smallpt/
+807,Lobsters,c++,C++ programming,"Approaches to C++ Dependency Management, or Why We Built Buckaroo",https://hackernoon.com/approaches-to-c-dependency-management-or-why-we-built-buckaroo-26049d4646e7
+808,Lobsters,c++,C++ programming,QML vs. C++ for application startup time,https://woboq.com/blog/qml-vs-cpp-for-application-startup-time.html
+809,Lobsters,c++,C++ programming,Lock-Free Work Stealing,https://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/
+810,Lobsters,c++,C++ programming,Confession Of A C/C++ Programmer,http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html
+811,Lobsters,c++,C++ programming,complex arithmetic is complicated,https://medium.com/@smcallis_71148/complex-arithmetic-is-complicated-873ec0c69fc5
+812,Lobsters,c++,C++ programming,What’s New in Buckaroo 1.2? - C++ package manager,https://medium.com/@buckaroo.pm/whats-new-in-buckaroo-1-2-8844eb6bbf5d
+813,Lobsters,c++,C++ programming,zero allocation continuations - part 1,https://vittorioromeo.info/index/blog/zeroalloc_continuations_p0.html
+814,Lobsters,c++,C++ programming,27 000 errors in the Tizen operating system,https://www.viva64.com/en/b/0519/
+815,Lobsters,c++,C++ programming,C++ Proposal: Metaclasses – Herb Sutter,http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0707r0.pdf
+816,Lobsters,c++,C++ programming,On the circular path from RAII to crazy-town back to RAII: Thoughts on emulating C#’s using in C++,https://blogs.msdn.microsoft.com/oldnewthing/20170710-00/?p=96565
+817,Lobsters,c++,C++ programming,Hexagonal Architecture and Free Monad: Two related design patterns?,https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/
+818,Lobsters,c++,C++ programming,A Rust view on Effective Modern C++,http://mainisusuallyafunction.blogspot.com/2017/06/a-rust-view-on-effective-modern-c.html
+819,Lobsters,c++,C++ programming,Undefined Behavior in 2017,https://blog.regehr.org/archives/1520
+820,Lobsters,c++,C++ programming,Modular windows.h,https://github.com/Leandros/WindowsHModular
+821,Lobsters,c++,C++ programming,Emulating the C# using keyword in C++,https://blogs.msdn.microsoft.com/oldnewthing/20170703-00/?p=96515
+822,Lobsters,c++,C++ programming,Why std::bind can’t be (formally) deprecated,http://www.sdowney.org/2017/06/why-stdbind-cant-be-formally-deprecated/
+823,Lobsters,c++,C++ programming,Safety and Daemons,https://davmac.wordpress.com/2017/06/29/safety-and-daemons/
+824,Lobsters,c++,C++ programming,"We just open sourced Elle, our coroutine-based asynchronous C++ development framework",https://github.com/infinit/elle
+825,Lobsters,c++,C++ programming,Interfacing to C++ - D Programming Language,https://dlang.org/spec/cpp_interface.html
+826,Lobsters,c++,C++ programming,Compile time investigations,http://weaseltrongames.blogspot.com/2017/05/compiler-investigations.html
+827,Lobsters,c++,C++ programming,Escape from System D (2),https://davmac.wordpress.com/2017/06/19/escape-from-system-d-2/
+828,Lobsters,c++,C++ programming,Decyphering the Business Card Raytracer,http://fabiensanglard.net/rayTracing_back_of_business_card/index.php
+829,Lobsters,c++,C++ programming,Getting Started with Buck build on Travis CI,https://medium.com/@buckaroo.pm/getting-started-with-buck-build-on-travis-ci-d1208d363023
+830,Lobsters,c++,C++ programming,Musings on sizeof,https://medium.com/@andreirtaylor/musings-on-sizeof-a7b565147836
+831,Lobsters,c++,C++ programming,Escape from System D : a new init,https://davmac.wordpress.com/2017/06/14/escape-from-system-d/
+832,Lobsters,c++,C++ programming,New C++ library makes it easy to plot cool 2D looking charts,https://github.com/madplotlib/madplotlib
+833,Lobsters,c++,C++ programming,"""Strict"" and ""lazy"" are the wrong way round",https://plus.google.com/+DanPiponi/posts/iu8rVgk2bcW
+834,Lobsters,c++,C++ programming,Caring by Sharing: Header Hero,http://bitsquid.blogspot.com/2011/10/caring-by-sharing-header-hero.html
+835,Lobsters,c++,C++ programming,Initialization in C++ is Bonkers,https://accu.org/index.php/journals/2379
+836,Lobsters,c++,C++ programming,Translating a C++ parser to Haskell,http://www.haskellforall.com/2017/06/translating-c-parser-to-haskell.html
+837,Lobsters,c++,C++ programming,"Using pseudo-terminals to control interactive programs, pty, pdip (2014)",http://rachid.koucha.free.fr/tech_corner/pty_pdip.html
+838,Lobsters,c++,C++ programming,"C++Now 2017: Juanpe Bolivar “Postmodern Immutable Data Structures""",https://www.youtube.com/watch?v=ZsryQp0UAC8
+839,Lobsters,c++,C++ programming,Error Handling in C++ or: Why You Should Use Eithers in Favor of Exceptions and Error-codes,https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45
+840,Lobsters,c++,C++ programming,A general makefile that's easily configured using a conf.mk file,https://github.com/mortie/easy-makefile/
+841,Lobsters,c++,C++ programming,Why I Put const On The Right,http://plange.tech/blog/2017-06-03.php
+842,Lobsters,c++,C++ programming,When Random Numbers Are Too Random: Low Discrepancy Sequences,https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/
+843,Lobsters,c++,C++ programming,Understanding Virtual Tables In C++,http://ariasalpablo.blogspot.com/2017/05/understanding-virtual-tables-in-c.html
+844,Lobsters,c++,C++ programming,How To Write A Maths Library In 2016,http://www.codersnotes.com/notes/maths-lib-2016/
+845,Lobsters,c++,C++ programming,Sequoia++ Programming Language,http://web.stanford.edu/group/sequoia/
+846,Lobsters,c++,C++ programming,CDSChecker: A model checker for C11/C++11 atomics,http://plrg.eecs.uci.edu/software_page/42-2/
+847,Lobsters,c++,C++ programming,"Under-constrained, Symbolic Execution: Correctness Checking for Real Code (2015)",https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ramos.pdf
+848,Lobsters,c++,C++ programming,"xmake v2.1.4 released, support REPL",http://tboox.org/2017/05/10/update-v2.1.4/
+849,Lobsters,c++,C++ programming,"Ode to the use-after-free: one vulnerable function, a thousand possibilities",https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html
+850,Lobsters,c++,C++ programming,The Horror in the Standard Library,https://www.zerotier.com/blog/2017-05-05-theleak.shtml
+851,Lobsters,c++,C++ programming,C++11 and Ada 2012 Feature Comparison (2012),http://www.electronicdesign.com/embedded/c11-and-ada-2012-renaissance-native-languages
+852,Lobsters,c++,C++ programming,Final Classes,https://arne-mertz.de/2017/04/final-classes/
+853,Lobsters,c++,C++ programming,Tag Suggestion: C++,/s/emf0a5/tag_suggestion_c

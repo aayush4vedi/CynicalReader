@@ -1,0 +1,533 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,art,Art,Generative Art with CSS,https://generative-art-with-css.commons.host/
+2,Lobsters,art,Art,"Geometric Folding Algorithms: Linkages, Origami, Polyhedra",https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/
+3,Lobsters,art,Art,Blackout web art - George Orwell,https://tilde.town/~kc/blackout/
+4,Lobsters,art,Art,Wild Tricks for Greenscreen in Blender,https://www.youtube.com/watch?v=RxD6H3ri8RI
+5,Lobsters,art,Art,Building DIY LED strips for fun,https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/
+6,Lobsters,art,Art,Writing a winning 4K intro in Rust,https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html
+7,Lobsters,art,Art,Generative Artistry Tutorials,https://generativeartistry.com/tutorials/
+8,Lobsters,art,Art,Creating Music—Part 3,https://www.lilychan.dev/track3.html
+9,Lobsters,art,Art,NinjaTrappeur/ultimate-writer,https://github.com/NinjaTrappeur/ultimate-writer
+10,Lobsters,art,Art,Krita 4.3.0 Released,https://krita.org/en/item/krita-4-3-0-released/
+11,Lobsters,art,Art,Gallery of Concept Visualization,http://conceptviz.github.io/
+12,Lobsters,art,Art,AONDEMO: Making a demo for an old phone,https://habr.com/en/post/486010/
+13,Lobsters,art,Art,The Enduring Musical Legacy of “Streets of Rage”,https://daily.bandcamp.com/features/streets-of-rage-soundtrack-interview
+14,Lobsters,art,Art,Stack Trace Art,https://esoteric.codes/blog/stack-trace-art
+15,Lobsters,art,Art,Procedurally generated Chinese landscape painting,https://github.com/LingDong-/shan-shui-inf
+16,Lobsters,art,Art,Unker Non-Linear Writing System,https://s.ai/nlws/
+17,Lobsters,art,Art,<wbr>a1studmuffin/SpaceshipGenerato<wbr>r</wbr></wbr>,https://github.com/a1studmuffin/SpaceshipGenerator
+18,Lobsters,art,Art,Making of Impacts – Programming Intersects Art,https://dave.autonoma.ca/blog/2020/05/12/impacts-project-voronoi-diagrams/
+19,Lobsters,art,Art,Open Software System for Interactive Applications,https://ossia.io/
+20,Lobsters,art,Art,A Practical Guide to Designing PCB Art,https://blog.wokwi.com/a-practical-guide-to-designing-pcb-art/
+21,Lobsters,art,Art,"in:verse is a programming language and environment for exploring the conflux of poetry, visuals, mat",https://inverse.website/
+22,Lobsters,art,Art,ANSI/ASCII art archive,https://16colo.rs/
+23,Lobsters,art,Art,Cellular Automata: Rule 30 fed as input to Conway’s Game of Life,https://www.youtube.com/watch?v=IK7nBOLYzdE
+24,Lobsters,art,Art,Cut and paste your surroundings using AR,https://github.com/cyrildiagne/ar-cutpaste
+25,Lobsters,art,Art,I’ve Consed Every Pair,https://medium.com/@peternorvig/ive-consed-every-pair-54ef5d9d93b6
+26,Lobsters,art,Art,Generative Art with CSS,https://generative-art-with-css.commons.host/
+27,Lobsters,art,Art,"Geometric Folding Algorithms: Linkages, Origami, Polyhedra",https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/
+28,Lobsters,art,Art,Blackout web art - George Orwell,https://tilde.town/~kc/blackout/
+29,Lobsters,art,Art,Wild Tricks for Greenscreen in Blender,https://www.youtube.com/watch?v=RxD6H3ri8RI
+30,Lobsters,art,Art,Building DIY LED strips for fun,https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun/
+31,Lobsters,art,Art,Writing a winning 4K intro in Rust,https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html
+32,Lobsters,art,Art,Generative Artistry Tutorials,https://generativeartistry.com/tutorials/
+33,Lobsters,art,Art,Creating Music—Part 3,https://www.lilychan.dev/track3.html
+34,Lobsters,art,Art,NinjaTrappeur/ultimate-writer,https://github.com/NinjaTrappeur/ultimate-writer
+35,Lobsters,art,Art,Krita 4.3.0 Released,https://krita.org/en/item/krita-4-3-0-released/
+36,Lobsters,art,Art,Gallery of Concept Visualization,http://conceptviz.github.io/
+37,Lobsters,art,Art,AONDEMO: Making a demo for an old phone,https://habr.com/en/post/486010/
+38,Lobsters,art,Art,The Enduring Musical Legacy of “Streets of Rage”,https://daily.bandcamp.com/features/streets-of-rage-soundtrack-interview
+39,Lobsters,art,Art,Stack Trace Art,https://esoteric.codes/blog/stack-trace-art
+40,Lobsters,art,Art,Procedurally generated Chinese landscape painting,https://github.com/LingDong-/shan-shui-inf
+41,Lobsters,art,Art,Unker Non-Linear Writing System,https://s.ai/nlws/
+42,Lobsters,art,Art,<wbr>a1studmuffin/SpaceshipGenerato<wbr>r</wbr></wbr>,https://github.com/a1studmuffin/SpaceshipGenerator
+43,Lobsters,art,Art,Making of Impacts – Programming Intersects Art,https://dave.autonoma.ca/blog/2020/05/12/impacts-project-voronoi-diagrams/
+44,Lobsters,art,Art,Open Software System for Interactive Applications,https://ossia.io/
+45,Lobsters,art,Art,A Practical Guide to Designing PCB Art,https://blog.wokwi.com/a-practical-guide-to-designing-pcb-art/
+46,Lobsters,art,Art,"in:verse is a programming language and environment for exploring the conflux of poetry, visuals, mat",https://inverse.website/
+47,Lobsters,art,Art,ANSI/ASCII art archive,https://16colo.rs/
+48,Lobsters,art,Art,Cellular Automata: Rule 30 fed as input to Conway’s Game of Life,https://www.youtube.com/watch?v=IK7nBOLYzdE
+49,Lobsters,art,Art,Cut and paste your surroundings using AR,https://github.com/cyrildiagne/ar-cutpaste
+50,Lobsters,art,Art,I’ve Consed Every Pair,https://medium.com/@peternorvig/ive-consed-every-pair-54ef5d9d93b6
+51,Lobsters,art,Art,"calico -- like cat, but for colors",https://github.com/ix/calico
+52,Lobsters,art,Art,Library of Congress launches open-source hip-hop sampling tool,https://consequenceofsound.net/2020/04/ibrary-of-congress-open-source-hip-hop-dj-citizen/
+53,Lobsters,art,Art,"Computers Do Not Make Art, People Do",https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext
+54,Lobsters,art,Art,Algorithmic Botany: Publications,http://algorithmicbotany.org/papers/
+55,Lobsters,art,Art,The Poetic Hivemind,https://tofu.wtf/poems/
+56,Lobsters,art,Art,regex to FAT32 directory structure compiler,https://github.com/8051Enthusiast/regex2fat
+57,Lobsters,art,Art,Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity,http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/
+58,Lobsters,art,Art,The Simpsons in CSS,https://pattle.github.io/simpsons-in-css/
+59,Lobsters,art,Art,3D Photography using Context-aware Layered Depth Inpainting,https://shihmengli.github.io/3D-Photo-Inpainting/
+60,Lobsters,art,Art,elevator party! An interactive small talk experience,https://elevatorparty.chat/
+61,Lobsters,art,Art,256 byte MSDOS intro,https://www.youtube.com/watch?v=Imquk_3oFf4
+62,Lobsters,art,Art,Pixel Art In GIMP,https://peppe.rs/posts/pixel_art_in_GIMP/
+63,Lobsters,art,Art,Inside the CBM8032AV project,https://roberthenke.com/technology/inside8032av.html
+64,Lobsters,art,Art,"shaderbooth.com, a tool for live-coding & sharing indie face filters",https://shaderbooth.com
+65,Lobsters,art,Art,How art made me a better engineer,https://sneakycrow.dev/post/how-art-made-me-a-better-engineer
+66,Lobsters,art,Art,Cyberpunk Then and Now,https://thedorkweb.substack.com/p/tales-from-the-dork-web-4
+67,Lobsters,art,Art,Modelling Reaction Diffusion Systems with Julia and GPU,https://www.moll.dev/projects/reaction-diffusion-julia/
+68,Lobsters,art,Art,Twitter Genetic Algorithm Imagery,https://github.com/rogerallen/tweegeemee
+69,Lobsters,art,Art,"Myst (or, The Drawbacks to Success)",https://www.filfre.net/2020/02/myst-or-the-drawbacks-to-success/
+70,Lobsters,art,Art,Poster designs in PostScript,https://pjb.com.au/art/posters/index.html
+71,Lobsters,art,Art,The Glitch Gallery: an online exhibition of pretty software bugs,https://glitchgallery.org/
+72,Lobsters,art,Art,It's a Sony project,https://androidarts.com/Sony/Sony.htm
+73,Lobsters,art,Art,Rotary Cellphone,http://justine-haupt.com/rotarycellphone/
+74,Lobsters,art,Art,You should publish your older works,https://utf9k.net/blog/publish-old-works/
+75,Lobsters,art,Art,Google Maps Hacks,http://www.simonweckert.com/googlemapshacks.html
+76,Lobsters,art,Art,Artist Style Transfer Via Quadratic Potential,https://github.com/rahulbhalley/cyclegan-qp
+77,Lobsters,art,Art,TAWS - The Amiga Workbench Simulation,http://taws.ch/WB.html
+78,Lobsters,art,Art,"Serving Traffic ""Directly"" from SQLite",http://sigusr2.net/serving-traffic-directly-from-sqlite.html
+79,Lobsters,art,Art,Computers Writing Books - The NaNoGenMo 2019 Roundup,https://medium.com/@greg_p_kennedy/computers-writing-books-54628883d2b8
+80,Lobsters,art,Art,Draw all roads in any city at once,https://anvaka.github.io/city-roads/
+81,Lobsters,art,Art,Drawing with Ants: Generative Art with Ant Colony Optimization Algorithms,http://amydyer.art/wp/index.php/2020/01/01/drawing-with-ants-generative-art-with-ant-colony-optimization-algorithms/
+82,Lobsters,art,Art,Cracking the Agrippa Code (1992),https://www.robertxiao.ca/hacking/agrippa/
+83,Lobsters,art,Art,Nodes - Our Story,http://nodes.io/story/
+84,Lobsters,art,Art,"Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations",https://www.pencil2d.org/
+85,Lobsters,art,Art,Fun with Ascii: Putting some console art on my site,https://benmccormick.org/ascii-kusty
+86,Lobsters,art,Art,Making really tiny WebAssembly graphics demos,http://cliffle.com/blog/bare-metal-wasm/
+87,Lobsters,art,Art,Font inspired by paintings of Escher,https://isene.org/2019/12/Escher.html
+88,Lobsters,art,Art,Rewtro: play tiny videogames encoded in origami cartridges,https://github.com/kesiev/rewtro
+89,Lobsters,art,Art,"Shepard's Pi by Canton Becker : A 999,999 hour song powered by pi",https://pisongs.com
+90,Lobsters,art,Art,The odd story of how Brian Eno composed the Windows 95 startup sound,https://theindustryobserver.thebrag.com/the-odd-story-of-how-brian-eno-composed-the-windows-95-startup-sound/
+91,Lobsters,art,Art,The IntercalScript Programming Language,https://github.com/Storyyeller/IntercalScript
+92,Lobsters,art,Art,The Night Before Code Freeze,https://dev.to/baweaver/the-night-before-code-freeze-1146
+93,Lobsters,art,Art,efghij - Esolang,https://esolangs.org/wiki/efghij
+94,Lobsters,art,Art,a structural Clojure editor for producing sound using Overtone,https://github.com/illiichi/orenolisp
+95,Lobsters,art,Art,Procedurally Generated Text: A Writing Process Built for Computers,https://tedium.co/2019/11/14/procedural-text-history/
+96,Lobsters,art,Art,This Marketing Blog Does Not Exist – An AI Generated Marketing Blog,http://thismarketingblogdoesnotexist.com/
+97,Lobsters,art,Art,Devotion,https://www.bbc.co.uk/sounds/play/m000b4r3
+98,Lobsters,art,Art,Unix for Poets,https://www.cs.upc.edu/~padro/Unixforpoets.pdf
+99,Lobsters,art,Art,Creative Computation – Jack Rusher,https://www.youtube.com/watch?v=TeXCvh5X5w0
+100,Lobsters,art,Art,I made an actual Drum Machine in Excel,https://www.youtube.com/watch?v=To2JIXGoYzA
+101,Lobsters,art,Art,Pure CSS Oil Painting,https://diana-adrianne.com/purecss-lace/
+102,Lobsters,art,Art,Inspect This Snake,https://matthewrayfield.com/goodies/inspect-this-snake/
+103,Lobsters,art,Art,Webgl Fluid Simulation,https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+104,Lobsters,art,Art,ART 4.2 released: ASCII art library for Python,https://github.com/sepandhaghighi/art
+105,Lobsters,art,Art,One Page Dungeon Generator,https://watabou.itch.io/one-page-dungeon
+106,Lobsters,art,Art,Stealing Ur Feelings,https://github.com/noahlevenson/stealing-ur-feelings
+107,Lobsters,art,Art,Generative Artistry,https://generativeartistry.com
+108,Lobsters,art,Art,Outsider Art and Anathema,https://christine.website/blog/anathema-2019-10-21
+109,Lobsters,art,Art,Faces of Open Source,http://www.facesofopensource.com/
+110,Lobsters,art,Art,MySQL Raytracer,http://www.pouet.net/prod.php?which=83222
+111,Lobsters,art,Art,93% of Paint Splatters are Valid Perl Programs,https://famicol.in/sigbovik/
+112,Lobsters,art,Art,Pictorial Guide To The Unofficial Electronic Badges Of DEF CON 27,https://hackaday.com/2019/09/19/pictorial-guide-to-the-unofficial-electronic-badges-of-def-con-27/
+113,Lobsters,art,Art,Asciicker – an online 3D game demo rendering to ASCII text,http://asciicker.com/x13/
+114,Lobsters,art,Art,Learning At Scale: Definitions,http://tiny-giant-books.com/Entry1.html?EntryId=recSYQ1wis5dofZC9
+115,Lobsters,art,Art,Making of Byrne’s Euclid,https://www.c82.net/blog/?id=79
+116,Lobsters,art,Art,Cover Story,https://covers.naitian.org/
+117,Lobsters,art,Art,How I Converted my Brain fMRI to a 3D Model,https://christine.website/blog/brain-fmri-to-3d-model-2019-08-23
+118,Lobsters,art,Art,Ishkur's Guide to Electronic Music,http://music.ishkur.com/
+119,Lobsters,art,Art,Extempore,https://extemporelang.github.io/
+120,Lobsters,art,Art,How it's Made - Tales of the Ruby Grimoire,https://dev.to/baweaver/how-it-s-made-tales-of-the-ruby-grimoire-2lgp
+121,Lobsters,art,Art,Fireflies,https://ncase.me/fireflies/
+122,Lobsters,art,Art,The Art of Warez,https://safecrackers.com/
+123,Lobsters,art,Art,GitHub Octodex,https://octodex.github.com
+124,Lobsters,art,Art,TempleOS Assembly Tutorial: Creating a Function,https://www.youtube.com/watch?v=Xy1aBvPJtVo
+125,Lobsters,art,Art,LoFiAR,http://isabelpaehr.com/blog/Talk_LoFiAR/
+126,Lobsters,art,Art,TempleOS Obj Model Loader Tutorial,https://www.reddit.com/r/TempleOS_Official/comments/cgl13l/templeos_obj_model_loader_tutorial/
+127,Lobsters,art,Art,Rhythm Dungeon: A Blockchain-based Music Roguelike Game,https://arxiv.org/abs/1907.00042
+128,Lobsters,art,Art,AI-Based Photo Restoration,https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7
+129,Lobsters,art,Art,VoIRC: voice-chat over IRC,https://www.youtube.com/watch?v=0R--_ATzE6o
+130,Lobsters,art,Art,"The art of bots: A practice-based study of the multiplicity, entanglements and figuration of",http://research.gold.ac.uk/26599/
+131,Lobsters,art,Art,Blockchain visualization in 3D,https://symphony.iohk.io/
+132,Lobsters,art,Art,It Ain't Necessarily So: Exploring Type Systems for Verifying Musical Correctness,https://www.infoq.com/articles/type-systems-verifying-musical-correctness/
+133,Lobsters,art,Art,Track This - A new kind of Incognito,https://trackthis.link/
+134,Lobsters,art,Art,Let's Just Be Weird Together,https://dustycloud.org/blog/lets-just-be-weird-together/
+135,Lobsters,art,Art,Wind-Powered Car Travels Downwind Faster Than the Wind (2010),https://www.wired.com/2010/06/downwind-faster-than-the-wind/
+136,Lobsters,art,Art,This page is anonymous,http://voidnull.sdf.org/
+137,Lobsters,art,Art,An easier way to make fractals in PowerPoint,https://www.youtube.com/watch?v=O8l_awjgoMI
+138,Lobsters,art,Art,GIMP 2.10.12 Released,https://www.gimp.org/news/2019/06/12/gimp-2-10-12-released/
+139,Lobsters,art,Art,Cartographer,https://exp.v-os.ca/cartographer/
+140,Lobsters,art,Art,"TempleOS: 2 - god, the Random Number Generator",https://christine.website/blog/templeos-2-god-the-rng-2019-05-30
+141,Lobsters,art,Art,Krita 4.2.0 is Out,https://krita.org/en/item/krita-4-2-0-is-out/
+142,Lobsters,art,Art,Gallery of Surveillance,https://nex.sx/
+143,Lobsters,art,Art,The Starfish Rig: Humanoid rig with 6 bones,http://www.sota.dk/stuff/starfishrig/starfishRig.html
+144,Lobsters,art,Art,TempleOS: 1 - Installation,https://christine.website/blog/templeos-1-installation-and-basic-use-2019-05-20
+145,Lobsters,art,Art,The Language and Writing System of MS408 (Voynich) Explained,https://www.tandfonline.com/doi/full/10.1080/02639904.2019.1599566
+146,Lobsters,art,Art,kkuchta/css-only-chat - A truly monstrous async web chat using no JS whatsoever on the frontend,https://github.com/kkuchta/css-only-chat
+147,Lobsters,art,Art,Biophillic Vision - Experiment 1,http://harrischris.com/article/biophillic-vision-experiment-1
+148,Lobsters,art,Art,Generating images with Truchet tiles,https://www.maria.cloud/gist/9a5f471f7a95dcc8ed1cea719650d7e9
+149,Lobsters,art,Art,curv - a language for making art using mathematics,https://github.com/curv3d/curv
+150,Lobsters,art,Art,Sortraits: Portraits of Sorting Algorithms,https://wtracy.gitlab.io/sortraits/
+151,Lobsters,art,Art,When Then Zen,https://when-then-zen.christine.website
+152,Lobsters,art,Art,93% of Paint Splatters are Valid Perl Programs,http://colinm.org/sigbovik/
+153,Lobsters,art,Art,Turtletoy,https://turtletoy.net/
+154,Lobsters,art,Art,Gopher Konstructor,http://quasilyte.dev/gopherkon/
+155,Lobsters,art,Art,Changing Sketches into Photorealistic Masterpieces,https://www.youtube.com/watch?v=p5U4NgVGAwg
+156,Lobsters,art,Art,Otaqlock,https://qlock.drewdevault.com
+157,Lobsters,art,Art,IASLonline NetArt: History of Computer Art (2013),http://iasl.uni-muenchen.de/links/GCA_Indexe.html
+158,Lobsters,art,Art,physarum,https://www.sagejenson.com/physarum
+159,Lobsters,art,Art,RIP (Remote Imaging Protocol) Graphics of the BBS Era,http://www.kwasstuff.altervista.org/RIP/index.html
+160,Lobsters,art,Art,The Web Never Forgets - Browser Duo (Jasmine Guffond & Emily Morandini) (2017),https://vimeo.com/218748012
+161,Lobsters,art,Art,Pleasing Patterns,http://verisimilitudes.net/2019-02-12
+162,Lobsters,art,Art,draw ASCII art in the terminal with your mouse,https://github.com/jtdaugherty/tart
+163,Lobsters,art,Art,Redmond Themes,https://github.com/B00merang-Project/Redmond-Themes
+164,Lobsters,art,Art,PC Speaker To Eleven,https://habr.com/en/post/439192/
+165,Lobsters,art,Art,The Egg,http://www.galactanet.com/oneoff/theegg_mod.html
+166,Lobsters,art,Art,Ternimal: Simulate a lifeform in the terminal,https://github.com/p-e-w/ternimal
+167,Lobsters,art,Art,GitHub Spray: Generate spray for your GitHub contribution graph,https://github.com/Annihil/github-spray
+168,Lobsters,art,Art,The Algorithmic Beauty of Plants,http://algorithmicbotany.org/papers/#abop
+169,Lobsters,art,Art,"Anime.js a lightweight JavaScript animation library with a simple, yet powerful API",https://animejs.com/
+170,Lobsters,art,Art,Which new Fedora logo design do you prefer?,https://blog.linuxgrrl.com/2019/01/09/which-new-fedora-logo-design-do-you-prefer/
+171,Lobsters,art,Art,A holiday gift woodworking project using Clojure,http://jackrusher.com/journal/holiday-hippo.html
+172,Lobsters,art,Art,The Embroidered Computer,http://www.ireneposch.net/the-embroidered-computer/
+173,Lobsters,art,Art,Taming Randomness,https://kynd.github.io/p5sketches/random.html
+174,Lobsters,art,Art,Machine Learning Meets Interactive Stories,https://medium.com/@mark_riedl/machine-learning-meets-interactive-stories-2cd74f8d6fbe
+175,Lobsters,art,Art,How long is that Bézier?,https://raphlinus.github.io/curves/2018/12/28/bezier-arclength.html
+176,Lobsters,art,Art,A new spline,https://raphlinus.github.io/curves/2018/12/21/new-spline.html
+177,Lobsters,art,Art,Ruckus: Procedural CAD For Weirdos,https://docs.racket-lang.org/ruckus/index.html
+178,Lobsters,art,Art,Chinese Perspective as a Rational System: Relationship to Panofsky’s Symbolic Form,http://www.psy.ntu.edu.tw/vnl/paper/Chinese%20Perspective%20as%20a%20Rational%20System%20Relationship%20to%20Panofsky's%20Symbolic%20Form.pdf
+179,Lobsters,art,Art,Curv: a language for making art using mathematics,https://github.com/doug-moen/curv
+180,Lobsters,art,Art,ASCII Art Library For Python,https://github.com/sepandhaghighi/art
+181,Lobsters,art,Art,Rusta Rhymes - Ferris Crab (Rust Raps 2018 Edition),http://fitzgeraldnick.com/2018/12/13/rust-raps.html
+182,Lobsters,art,Art,How do you document a tech project with comics?,https://jvns.ca/blog/2018/12/09/how-do-you-document-a-tech-project-with-comics/
+183,Lobsters,art,Art,Secrets of smooth Béziers revealed,https://raphlinus.github.io/curves/2018/12/08/euler-spiral.html
+184,Lobsters,art,Art,Automatic Shading,https://www.peppercarrot.com/en/article456/scientific-paper-automatic-shading-by-trinity-college-dublin-ireland
+185,Lobsters,art,Art,"Code goes in, Art comes out",https://www.youtube.com/watch?v=LBpqoj2nOQo
+186,Lobsters,art,Art,The Making Of: Dust 2,https://www.johnsto.co.uk/design/making-dust2/
+187,Lobsters,art,Art,CV Dazzle: Camouflage from Face Detection (2017),https://cvdazzle.com/
+188,Lobsters,art,Art,edex-ui: A science fiction terminal emulator that runs on all major OSes,https://github.com/GitSquared/edex-ui
+189,Lobsters,art,Art,Generative art setup,/s/udfko6/generative_art_setup
+190,Lobsters,art,Art,Procedural Brutalism,http://www.bldgblog.com/2014/09/procedural-brutalism/
+191,Lobsters,art,Art,Noun Project,https://thenounproject.com/
+192,Lobsters,art,Art,Unwelcome Gaze - routing graphs as art,http://brutalism.rs/project/unwelcome-gaze/
+193,Lobsters,art,Art,A Generative Approach to Simulating Watercolor Paints,http://www.tylerlhobbs.com/writings/watercolor
+194,Lobsters,art,Art,"AnyDice, DSL for Rolling Dice",https://anydice.com/
+195,Lobsters,art,Art,JPEG image of Shakespeare which is also a zip file containing his complete works,https://twitter.com/David3141593/status/1057042085029822464
+196,Lobsters,art,Art,Unicode Dicks,https://www.revk.uk/2018/10/unicode-dicks.html
+197,Lobsters,art,Art,Static Generative Art Setup for Clojure,http://marvelous-code.com/uncategorized/static-generative-art-setup-for-clojure/
+198,Lobsters,art,Art,SVG Jigsaw Generation in Clojure,https://blog.bonnieeisenman.com/projects/clojure-puzzles/
+199,Lobsters,art,Art,Warhol and the Amiga,https://www.warhol.org/exhibition/warhol-and-the-amiga/
+200,Lobsters,art,Art,Tarot Based Narrative Generation,https://www.youtube.com/watch?v=e1D-r5TF36A
+201,Lobsters,art,Art,Generating Music From Emotion (and other experiments),https://www.youtube.com/watch?v=dpiN2DZxU_4
+202,Lobsters,art,Art,Chris Shier,http://csh.bz/
+203,Lobsters,art,Art,Why I love National Novel Generation Month (2017),https://medium.com/@liza/why-i-love-national-novel-generation-month-b8f6e58c6422
+204,Lobsters,art,Art,CS 673 — Computational Creativity,http://axon.cs.byu.edu/Dan/673/
+205,Lobsters,art,Art,Programming-by-Example for Audio: Synthesizing Digital Signal Processing Programs,http://marksantolucito.com/dsp-pbe.pdf
+206,Lobsters,art,Art,VoxelToy: create procedural voxel images online,https://voxeltoy.com/
+207,Lobsters,art,Art,Fair Trending: Objectively-Ranked Trending YouTube Videos,https://www.fairtrending.com/
+208,Lobsters,art,Art,"How did Matt DesLauriers create Bellwoods, a 13kb generative game",https://mattdesl.svbtle.com/bellwoods
+209,Lobsters,art,Art,The Copenhagen Catalog,https://www.copenhagencatalog.org
+210,Lobsters,art,Art,uku - A Haskell CLI tool to display Ukulele fingering charts,https://adriansieber.com/ukulele-fingering-chart-cli-tool-in-haskell/
+211,Lobsters,art,Art,LOLWUT: a piece of art inside a database command,http://antirez.com/news/123
+212,Lobsters,art,Art,Agrippa (A Book of the Dead),https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/
+213,Lobsters,art,Art,A Few of My Favorite Sigmoids,https://raphlinus.github.io/audio/2018/09/05/sigmoid.html
+214,Lobsters,art,Art,textbeat - Plaintext music sequencer and interactive shell,https://github.com/flipcoder/textbeat
+215,Lobsters,art,Art,Folon,http://www.folklore.org/StoryView.py?project=Macintosh&story=Folon
+216,Lobsters,art,Art,Sonic Pi - The Live Coding Music Synth for Everyone,https://www.youtube.com/watch?v=OLLwG_SN8oo&list=PLEx5khR4g7PKqVew27D3jvMknjxjowoKl&index=25
+217,Lobsters,art,Art,Evoke 2018 Demoparty results,https://demozoo.org/parties/3464/
+218,Lobsters,art,Art,Notes from Dynamicland: Geokit,https://rsnous.com/posts/notes-from-dynamicland-geokit/
+219,Lobsters,art,Art,Hobby Computer Culture and the Non-entertainment Uses of Homebrew Games in the 1980s Czechoslovakia,http://gamestudies.org/1302/articles/svelch
+220,Lobsters,art,Art,A DSL for Music,https://jeremydormitzer.com/blog/a-dsl-for-music/
+221,Lobsters,art,Art,Creating “Reducing Enumerable — An Illustrated Adventure”,https://medium.com/@baweaver/creating-reducing-enumerable-an-illustrated-adventure-c6adfcc30d5b
+222,Lobsters,art,Art,History of Computer Art VI.3 Net Art in the Web,http://iasl.uni-muenchen.de/links/GCA-VI.3e.html
+223,Lobsters,art,Art,Fiction generator post-mortem: mythology generation,https://medium.com/@enkiv2/fiction-generator-post-mortem-mythology-generation-d7548a08beac
+224,Lobsters,art,Art,Dozens of M.C. Escher Prints Now Digitized & Put Online by the Boston Public Library,http://www.openculture.com/2018/05/dozens-of-m-c-escher-prints-now-digitized-put-online-by-the-boston-public-library.html
+225,Lobsters,art,Art,The Naming of Places,https://heredragonsabound.blogspot.com/2018/06/the-naming-of-places-part-1.html
+226,Lobsters,art,Art,My old HyperCard stack (Phil Gyford’s website),https://www.gyford.com/phil/writing/2017/08/16/hypercard-tea/
+227,Lobsters,art,Art,Theories on Artificial Expression (2013),https://max.io/articles/theories-on-artificial-expression/
+228,Lobsters,art,Art,Intellectualism Hurts Generative Art,http://www.tylerlhobbs.com/writings/intellectualism-and-generative-art
+229,Lobsters,art,Art,Midibin - turn Clojure code into midi music,https://midibin.com/
+230,Lobsters,art,Art,Post-mortem of a fiction generator: asemic writing with some properties of natural languages,https://medium.com/@enkiv2/post-mortem-of-a-fiction-generator-asemic-writing-with-some-properties-of-natural-languages-2b008fbf8563
+231,Lobsters,art,Art,Fiction generator post-mortem: comic book generation,https://medium.com/@enkiv2/fiction-generator-post-mortem-comic-book-generation-9df847dd4ada
+232,Lobsters,art,Art,Scene/Sequel: Post-Mortem of a Fiction Generator,https://medium.com/@enkiv2/scene-sequel-post-mortem-of-a-fiction-generator-583ad51f3c1b
+233,Lobsters,art,Art,If only more writers knew about the power of Unix...,/s/ynm8nz/if_only_more_writers_knew_about_power_unix
+234,Lobsters,art,Art,The Honeywell Animals (2012),http://www.computerhistory.org/atchm/honeywell-animals/
+235,Lobsters,art,Art,Open Logos: Free logos for open source projects,http://openlogos.org/
+236,Lobsters,art,Art,Illustrating Mathematics using 3D Printers,https://arxiv.org/abs/1306.5599
+237,Lobsters,art,Art,Painting by Prime Number,http://www.pinchofintelligence.com/painting-by-prime-number/
+238,Lobsters,art,Art,A 3-D printer that can print data sets as physical objects,https://phys.org/news/2018-06-d-printer-physical.html
+239,Lobsters,art,Art,How a 64k intro is made,http://www.lofibucket.com/articles/64k_intro.html
+240,Lobsters,art,Art,Building Krita on Linux for cats,http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats
+241,Lobsters,art,Art,The history of Processing,https://medium.com/@ProcessingOrg/a-modern-prometheus-59aed94abe85
+242,Lobsters,art,Art,Australian Centre for the Moving Image: Creative Technologist/Backend Developer,https://www.acmi.net.au/creative-technologistbackend-developer/
+243,Lobsters,art,Art,Crypko [AI Blockchain Anime],https://crypko.ai/#/
+244,Lobsters,art,Art,NIME 2018 Workshop: Re-engaging the Body and Gesture in Musical Live Coding,https://toplap.org/nime-2018-workshop-embodied-musical-live-coding/
+245,Lobsters,art,Art,(Spread)sheet Music: Making a Simple Music Sequencer using CSV Spreadsheets,https://pointersgonewild.com/2018/05/20/spreadsheet-music-making-a-simple-music-sequencer-using-csv-spreadsheets/
+246,Lobsters,art,Art,Scraping DeviantArt,https://mlvnt.com/blog/tech/2018/05/scraping-deviantart/
+247,Lobsters,art,Art,Maximise the Fun. What would you give hundreds of smart folk thrown together for a week?,/s/rqmvg3/maximise_fun_what_would_you_give_hundreds
+248,Lobsters,art,Art,Map of Metal,https://mapofmetal.com/
+249,Lobsters,art,Art,A Native Art Gallery for Your Mac,http://archagon.net/blog/2018/05/02/a-native-art-gallery-for-your-mac/
+250,Lobsters,art,Art,25th International Obfuscated C Code Contest (2018),http://www.ioccc.org/years.html#2018
+251,Lobsters,art,Art,"MrWint's TAS video of GBC Pokémon: Yellow Version, ""Arbitrary Code Execution""",http://tasvideos.org/5384S.html
+252,Lobsters,art,Art,Making art with SSH key randomart,https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art
+253,Lobsters,art,Art,Painting made out of CSS rules,http://diana-adrianne.com/purecss-francine/
+254,Lobsters,art,Art,Simulation of Biology,https://www.cc.gatech.edu/~turk/bio_sim/
+255,Lobsters,art,Art,GIMP 2.10 Release Notes,https://www.gimp.org/release-notes/gimp-2.10.html
+256,Lobsters,art,Art,"Open Source Hardware Camp 2018 — Sat 30/06 & Sun 01/07, Lincoln, UK",http://oshug.org/pipermail/oshug/2018-April/000635.html
+257,Lobsters,art,Art,BBC Sound Effects Archive Resource,http://bbcsfx.acropolis.org.uk/
+258,Lobsters,art,Art,A dive into the making of Immersion,http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/
+259,Lobsters,art,Art,Deep Painterly Harmonization (paper and code),https://github.com/luanfujun/deep-painterly-harmonization
+260,Lobsters,art,Art,I Made My Own Colour Scheme and You Can Too!,https://cmcenroe.me/2018/04/03/colour-scheme.html
+261,Lobsters,art,Art,Alda: a language for interactively generating midi music,https://github.com/alda-lang/alda
+262,Lobsters,art,Art,"ViperCard, a web-based re-creation of HyperCard",https://www.vipercard.net
+263,Lobsters,art,Art,Revision 2018 is from March 30th to April 2nd,https://2018.revision-party.net
+264,Lobsters,art,Art,Interview with the Krita team on the 4.0 release,http://libregraphicsworld.org/blog/entry/krita-4-0-interview
+265,Lobsters,art,Art,Apple Proposes New Accessibility Emojis,https://blog.emojipedia.org/apple-proposes-new-accessibility-emojis/
+266,Lobsters,art,Art,Hands-Free Music,https://www.microsoft.com/en-us/research/project/microsoft-hands-free-music/
+267,Lobsters,art,Art,How to Bake 'How to Bake Pi': Reflections on Making Abstract Math Palatable,https://www.youtube.com/watch?v=h2p68JjSUH0
+268,Lobsters,art,Art,Voronoi variations 3,https://c25l.gitlab.io/posts/voronoi3/
+269,Lobsters,art,Art,Generating artwork with Haskell,http://www.kovach.me/posts/2018-03-07-generating-art.html
+270,Lobsters,art,Art,Nixie-clock: using neon lamps as logic (2017),http://www.pa3fwm.nl/projects/neonclock/
+271,Lobsters,art,Art,A Japanese Photographer Traces How Cities Are Built and Destroyed,https://www.newyorker.com/culture/photo-booth/a-japanese-photographer-traces-how-cities-are-built-and-destroyed
+272,Lobsters,art,Art,CNC milling survey contours,https://keminglabs.com/blog/cnc-milling-land-contours/
+273,Lobsters,art,Art,Raymarching tutorial,https://www.shadertoy.com/view/4dSfRc
+274,Lobsters,art,Art,Planet Shadertoy,https://www.shadertoy.com/view/4tjGRh
+275,Lobsters,art,Art,"MIDIMonster: Multi-protocol translation (MIDI, OSC, ArtNet, evdev input)",https://github.com/cbdevnet/midimonster
+276,Lobsters,art,Art,IDEA - nonverbal algorithm assembly instructions,https://idea-instructions.com/
+277,Lobsters,art,Art,Paper.js,http://paperjs.org/
+278,Lobsters,art,Art,Photo of a Single Atom,https://www.epsrc.ac.uk/newsevents/news/single-trapped-atom-captures-science-photography-competitions-top-prize/
+279,Lobsters,art,Art,MetaMakers Institute artist-in-residence opportunity,http://metamakersinstitute.com/2018/02/07/artist-in-residence-opportunity/
+280,Lobsters,art,Art,10 short surrealists reflections about code,https://medium.com/@simone.robutti/10-short-surrealists-reflections-about-code-5fe7214f2477
+281,Lobsters,art,Art,Blooms: Phi-Based Strobe Animated Sculptures,http://www.instructables.com/id/Blooming-Zoetrope-Sculptures/
+282,Lobsters,art,Art,Ubuntu Animals,https://sylviaritter.deviantart.com/gallery/59957223/Ubuntu-Animals
+283,Lobsters,art,Art,An Early Modernist Master of Light Moves into the Spotlight,https://hyperallergic.com/419009/thomas-wilfred-lumia/
+284,Lobsters,art,Art,The World Needs Good Games,http://widdersh.in/the-world-needs-good-games
+285,Lobsters,art,Art,Permanent Redirect: digital art that moves to a new URL when someone views it,https://kottke.org/18/01/permanent-redirect-digital-art-that-moves-to-a-new-url-when-someone-views-it
+286,Lobsters,art,Art,There is only one Cloud Icon in the Entire Universe - Scott Hanselman,https://www.hanselman.com/blog/ThereIsOnlyOneCloudIconInTheEntireUniverse.aspx
+287,Lobsters,art,Art,xelflut: Multiplayer canvas using a simple text-based protocol,https://github.com/cbdevnet/xelflut
+288,Lobsters,art,Art,The Screenless Office,http://screenl.es/
+289,Lobsters,art,Art,"OSHUG Event #63 - Collaborative music making, ultra-low latency audio and sensor processing",http://oshug.org/event/63
+290,Lobsters,art,Art,GIMP 2.9.8 Released,https://www.gimp.org/news/2017/12/12/gimp-2-9-8-released/
+291,Lobsters,art,Art,"TIC-80: a fantasy computer for making, playing and sharing tiny games",https://tic.computer/
+292,Lobsters,art,Art,Video Synthesizer in Python with Pygame,https://www.makeartwithpython.com/blog/video-synthesizer-in-python/
+293,Lobsters,art,Art,Linux comics: a small zine,https://jvns.ca/blog/2017/11/25/linux-comics--zine-edition/
+294,Lobsters,art,Art,Render Multimedia in Pure C,http://nullprogram.com/blog/2017/11/03/
+295,Lobsters,art,Art,Making WebGL Dance,http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html
+296,Lobsters,art,Art,Why you hate contemporary architecture,https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture
+297,Lobsters,art,Art,Bleep Space,http://bleepspace.com/
+298,Lobsters,art,Art,SuperCollider and Bela: live code your sensors,http://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/
+299,Lobsters,art,Art,"Games Look Bad, Part 1: HDR and Tone Mapping",https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/
+300,Lobsters,art,Art,ASCII : A Love Letter,http://theorangeduck.com/page/ascii-love-letter
+301,Lobsters,art,Art,Colourful visualization of some sorting algorithms,https://github.com/skeeto/sort-circle
+302,Lobsters,art,Art,Vintage Computer Festival Berlin 2017,http://wiedi.frubar.net/img/2017-10-vcfb/
+303,Lobsters,art,Art,The Bug Count Also Rises,http://www.whyisthisimportant.net/humor/BugCountAlsoRises.html
+304,Lobsters,art,Art,Image Dithering: Eleven Algorithms and Source Code,http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/
+305,Lobsters,art,Art,Poetic Computation: Reader,http://poeticcomputation.info/
+306,Lobsters,art,Art,"Experimental Creative Writing with the Vectorized Word by Allison Parrish, Strange Loop 2017",https://www.youtube.com/watch?v=L3D0JEA1Jdc
+307,Lobsters,art,Art,Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms,https://www.youtube.com/watch?v=5MexnBunH_g
+308,Lobsters,art,Art,modeling with distance functions,http://iquilezles.org/www/articles/distfunctions/distfunctions.htm
+309,Lobsters,art,Art,Laser Socks!,http://glench.com/LaserSocks/
+310,Lobsters,art,Art,Dynamic Land's Twitter account (aka What Bret Victor has been up to),https://twitter.com/dynamicland1
+311,Lobsters,art,Art,C-64 charset logo generator,https://codepo8.github.io/logo-o-matic/#goto-orc
+312,Lobsters,art,Art,A generative approach to simulating watercolor paints,http://www.tylerlhobbs.com/writings/watercolor
+313,Lobsters,art,Art,The Uncomfortable,https://www.theuncomfortable.com/
+314,Lobsters,art,Art,A Game of Life on Penrose tilings,https://arxiv.org/abs/1708.09301
+315,Lobsters,art,Art,lnxpcs - GNU/Linux/OpenSource related pictures,https://github.com/jstpcs/lnxpcs
+316,Lobsters,art,Art,DOOM: Behind the Music,https://www.youtube.com/watch?v=U4FNBMZsqrY
+317,Lobsters,art,Art,Wind Map [ed: remove the mask-holder div to see the hurricane],http://hint.fm/wind/
+318,Lobsters,art,Art,Taxonomy of Humans According to Twitter,https://thenewinquiry.com/taxonomy-of-humans-according-to-twitter/
+319,Lobsters,art,Art,typedrummer,http://typedrummer.com
+320,Lobsters,art,Art,Richard Stallman asked me to change the name of my music project,https://festivalpeak.com/richard-stallman-made-me-change-the-name-of-my-music-project-6bdc549d7d86
+321,Lobsters,art,Art,A FORTRAN Coloring Book (1978),https://archive.org/stream/9780262610261#page/n1/mode/2up
+322,Lobsters,art,Art,DEF CON 25 Music CD,https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20music/
+323,Lobsters,art,Art,INORI — we pray all nukes will eternally disappear from the world.,https://vimeo.com/228515156
+324,Lobsters,art,Art,Welcome to Nat's World,https://www.python.org/about/success/natsworld/
+325,Lobsters,art,Art,Advancing real time graphics from a content perspective,http://overview.artbyrens.com/
+326,Lobsters,art,Art,Gnod - The Global Network Of Discovery,http://www.gnod.com
+327,Lobsters,art,Art,What football will look like in the future (now with 25 chapters),https://lobste.rs/s/axrp7o/what_football_will_look_like_future
+328,Lobsters,art,Art,Radiohead album hides an app that only runs on an '80s computer,https://www.engadget.com/2017/07/13/radiohead-album-hides-an-app-that-only-runs-on-an-80s-computer/
+329,Lobsters,art,Art,"30 years of Final Fantasy: a cult of devotion, and the music still soars",https://www.theguardian.com/technology/2017/jul/13/30-years-of-final-fantasy-a-cult-of-devotion-and-the-music-still-soars
+330,Lobsters,art,Art,Demotool screenshot gallery,http://peisik.untergrund.net/engines/
+331,Lobsters,art,Art,What football will look like in the future,http://www.sbnation.com/a/17776-football
+332,Lobsters,art,Art,Wikipedia: The Text Adventure,http://kevan.org/wikitext/
+333,Lobsters,art,Art,Bashfill - pretty pictures for your terminal,https://max.io/bash.html
+334,Lobsters,art,Art,Making Poetry in Piet,http://theorangeduck.com/page/making-poetry-piet
+335,Lobsters,art,Art,What Music Really Is,http://whatmusicreallyis.com/research/
+336,Lobsters,art,Art,Tupper's self-referential formula,https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula
+337,Lobsters,art,Art,"This Custom Built ""Commute Deck"" Makes it Easy to Work on the Go",http://makezine.com/2017/06/15/commute-deck-keyboard-device/
+338,Lobsters,art,Art,The Beatles 'A Day In The Life' Is A Landmark In Sound Engineering 50 Years After It Was Recorded,https://www.forbes.com/sites/kevinmurnane/2017/06/03/the-beatles-a-day-in-the-life-is-a-landmark-in-sound-engineering-50-years-after-it-was-recorded/
+339,Lobsters,art,Art,@party | a demoparty in Boston | June 9th 2017 through Sunday June 11th 2017,http://atparty-demoscene.net/
+340,Lobsters,art,Art,"Oh My Gosh, It’s Covered in Rule 30s!",http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/
+341,Lobsters,art,Art,Metaprogramming for madmen,https://fgiesen.wordpress.com/2012/04/08/metaprogramming-for-madmen/
+342,Lobsters,art,Art,Medieval Fantasy City Generator,https://watabou.itch.io/medieval-fantasy-city-generator
+343,Lobsters,art,Art,How a 64k intro is made,http://www.lofibucket.com/articles/64k_intro.html
+344,Lobsters,art,Art,How to Generate Random Colors Programmatically,http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/
+345,Lobsters,art,Art,The decline of Deutsche Gramophon,https://van-us.atavist.com/deutsche-grammophon
+346,Lobsters,art,Art,Are Pop Lyrics Getting More Repetitive?,https://pudding.cool/2017/05/song-repetition/
+347,Lobsters,art,Art,What you need to do a 64k intro,http://cce.kapsi.fi/64k.pdf
+348,Lobsters,art,Art,Video explains the world's most important 6-sec drum loop,http://nkhstudio.com/pages/amen_mp4.html
+349,Lobsters,art,Art,Get Started Learning Music,https://learningmusic.ableton.com/
+350,Lobsters,art,Art,"RFC 8140: ""The Arte of ASCII: Or, An True and Accurate Representation of an Menagerie of Thynges""",https://www.rfc-editor.org/rfc/rfc8140.txt
+351,Lobsters,art,Art,SNEK is Not an Acronym,http://inconvergent.net/snek-is-not-an-acronym/
+352,Lobsters,art,Art,Sorting 2 Metric Tons of Lego,http://jacquesmattheij.com/sorting-two-metric-tons-of-lego
+353,Lobsters,art,Art,Multi-Dimensional Analog Literals in C++,http://www.eelis.net/C++/analogliterals.xhtml
+354,Lobsters,art,Art,The absurdity of copyright,http://logosfoundation.org/copyleft/copyrigh.html
+355,Lobsters,art,Art,A Mind Is Born,http://www.linusakesson.net/scene/a-mind-is-born/index.php
+356,Lobsters,art,Art,Revision 2017 demos,http://www.pouet.net/party.php?which=1550&when=2017
+357,Lobsters,art,Art,An Open Letter to Boring Avatars Everywhere — Meet Foxes,https://patreonhq.com/an-open-letter-to-boring-avatars-everywhere-meet-foxes-6575f0b5de31
+358,Lobsters,art,Art,A Small Template For 5e D&D Material,https://github.com/evanbergeron/DND-5e-LaTeX-Template
+359,Lobsters,art,Art,AutoDraw turns doodles into clipart,https://autodraw.com/
+360,Lobsters,art,Art,Deeply Artificial Trees,https://vimeo.com/211758157
+361,Lobsters,art,Art,"corkami/pics -- Pretty pictures of formats, RFCs, and other things",https://github.com/corkami/pics
+362,Lobsters,art,Art,"DNA Lounge: Cocktail Robotics Grand Challenge, 16 Jul 2017",https://www.dnalounge.com/calendar/2017/07-16.html
+363,Lobsters,art,Art,lonetwin/colorize -- Colorize columns in the shell,https://github.com/lonetwin/colorize
+364,Lobsters,art,Art,Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/111932
+365,Lobsters,art,Art,Donut Rendering Project (2005),http://movement.stanford.edu/courses/cs348b-competition/cs348b-05/donut/index.html
+366,Lobsters,art,Art,California Chameleon House,http://www.dailymail.co.uk/news/article-4300810/Chameleon-house-California-covered-mirrors.html
+367,Lobsters,art,Art,Build a digital clock in Conway's Game of Life,http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/
+368,Lobsters,art,Art,Some Thoughts on Generative Art,http://inconvergent.net/thoughts-on-generative-art/
+369,Lobsters,art,Art,The C++17 Lands,http://fearlesscoder.blogspot.com/2017/02/the-c17-lands.html
+370,Lobsters,art,Art,GitHub - Jam3/three-bmfont-text: renders BMFont files in ThreeJS with word-wrapping,https://github.com/Jam3/three-bmfont-text
+371,Lobsters,art,Art,The tech behind a modern Amiga demo,https://codingwithballs.wordpress.com/2017/02/19/makt/
+372,Lobsters,art,Art,A Line in the Sand,http://robdobson.com/2017/02/a-line-in-the-sand/
+373,Lobsters,art,Art,The Eastgate School of “Serious” Hypertext,http://www.filfre.net/2017/02/the-eastgate-school-of-serious-hypertext/
+374,Lobsters,art,Art,8 Bit & '8 Bitish' Graphics-Outside the Box,https://www.youtube.com/watch?v=aMcJ1Jvtef0
+375,Lobsters,art,Art,Don't mess with Texas - TI-99/4A Megademo,https://www.youtube.com/watch?v=ZhSUhE03XFw
+376,Lobsters,art,Art,XaoS.js: a real-time fractal zoomer,https://jblang.github.io/XaoSjs/
+377,Lobsters,art,Art,Programmer at Large: What is this?,http://www.drmaciver.com/2017/01/programmer-at-large-what-is-this/
+378,Lobsters,art,Art,NES Audio: Brief Explanation of Sound Channels,https://www.youtube.com/watch?v=la3coK5pq5w
+379,Lobsters,art,Art,ColorMe,https://colorme.io/
+380,Lobsters,art,Art,Our Shared Joy of Programming (2014),https://www.youtube.com/watch?v=3_zW63dcZB0
+381,Lobsters,art,Art,A Gentle Introduction to Music Composition Using Common LISP and Common Music,http://quod.lib.umich.edu/s/spobooks/bbv9810.0001.001/1:4/--algorithmic-composition-a-gentle-introduction-to-music?rgn=div1;view=toc
+382,Lobsters,art,Art,Still File,http://skrekkogle.com/still-file/
+383,Lobsters,art,Art,PICO-8: FANTASY CONSOLE,http://www.lexaloffle.com/pico-8.php
+384,Lobsters,art,Art,How To Draw Mushrooms On An Oscilloscope With Sound,https://www.youtube.com/watch?v=rtR63-ecUNo
+385,Lobsters,art,Art,zach lieberman's year of daily code sketches,https://medium.com/@zachlieberman
+386,Lobsters,art,Art,CGA in 1024 Colors - a New Mode: the Illustrated Guide,http://8088mph.blogspot.co.uk/2015/04/cga-in-1024-colors-new-mode-illustrated.html
+387,Lobsters,art,Art,Comic Chat (1996),http://kurlander.net/DJ/Pubs/SIGGRAPH96.pdf
+388,Lobsters,art,Art,Python For Feature Films: Programming Images to Life,http://dgovil.com/blog/2016/11/30/python-for-feature-film/
+389,Lobsters,art,Art,GGGuitar: Create Guitar tablature with R,http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html
+390,Lobsters,art,Art,The Thrilling Adventures of Lovelace and Babbage,http://martinfowler.com/articles/lovelace-babbage.html
+391,Lobsters,art,Art,Use PCA analysis to reorganize the pixels of a painting into a smooth color palette,https://github.com/ardila/paintingReorganize
+392,Lobsters,art,Art,Wind Waker Graphics Analysis,https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127
+393,Lobsters,art,Art,Remaking The Textures in 'Bioshock The Collection',https://80.lv/articles/the-remastering-of-textures-in-bioshock-the-collection/
+394,Lobsters,art,Art,Library of Blabber (PROCJAM 2016 entry),https://nothke.itch.io/library-of-blabber
+395,Lobsters,art,Art,Shepherding Random Numbers,http://inconvergent.net/shepherding-random-numbers/
+396,Lobsters,art,Art,Ambient Guilloché,https://max.io/articles/ambient-guilloche/
+397,Lobsters,art,Art,They Live and the secret history of the Mozilla logo,https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/
+398,Lobsters,art,Art,Inside the Linux kernel,https://turnoff.us/image/en/inside-the-linux-kernel.png
+399,Lobsters,art,Art,A Technical Follow-Up: How We Built the World’s Prettiest Auto-Generated Transit Maps,https://medium.com/transit-app/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f
+400,Lobsters,art,Art,Modern Game Logos are Rubbish,http://www.digitiser2000.com/main-page/modern-game-logos-are-rubbish
+401,Lobsters,art,Art,Keyboard Tester,http://www.keyboardtester.com/
+402,Lobsters,art,Art,Pixel Sorting,http://satyarth.me/articles/pixel-sorting/
+403,Lobsters,art,Art,"Histography, an interactive timeline of all history",http://histography.io/
+404,Lobsters,art,Art,Sewable Circuits Part I,http://samanthagoldste.in//jekyll/update/2016/03/29/Sewable-Circuits.html
+405,Lobsters,art,Art,An Interactive Monitor Comparison Chart,http://www.productchart.com/monitors/
+406,Lobsters,art,Art,Final Fantasy - The Spirits Within Powered by Silicon Graphics (2001),http://www.prnewswire.com/news-releases/final-fantasy-the-spirits-within-powered-by-silicon-graphics-octane-and-sgi-origin-family-systems-71306337.html
+407,Lobsters,art,Art,Renee French - The Go Gopher A Character Study,https://www.youtube.com/watch?v=4rw_B4yY69k
+408,Lobsters,art,Art,Now for the fun part,https://blog.mozilla.org/opendesign/now-for-the-fun-part/
+409,Lobsters,art,Art,Making-of: Fortunes,http://instamatique.com/blog/making-of-fortunes
+410,Lobsters,art,Art,Generating fantasy maps,http://mewo2.com/notes/terrain/
+411,Lobsters,art,Art,MECHANICAL TECHNO DEMONSTRATION,https://www.youtube.com/watch?v=wl1ZrEza7uY
+412,Lobsters,art,Art,Factorization Diagrams,https://mathlesstraveled.com/2012/10/05/factorization-diagrams/
+413,Lobsters,art,Art,"It's World Emoji Day! Teen girls, code an emoji that's unique like you",https://www.madewithcode.com
+414,Lobsters,art,Art,Women can be scientists and rockstars too: The emoji world is ditching gender stereotypes,http://qz.com/733265/women-can-be-scientists-and-rockstars-too-the-emoji-world-is-ditching-gender-stereotypes/
+415,Lobsters,art,Art,Accidental art produced by buggy code,https://twitter.com/accidental__art
+416,Lobsters,art,Art,Internet Protocol Datagram,https://www.jwz.org/blog/2016/07/internet-protocol-datagram/
+417,Lobsters,art,Art,Cliff Johnson’s Fool’s Errand,http://www.filfre.net/2015/11/cliff-johnsons-fools-errand/
+418,Lobsters,art,Art,Kokichi Sugihara's Homepage (English),http://home.mims.meiji.ac.jp/~sugihara/anomalousobjects/anomalousobjectse.html
+419,Lobsters,art,Art,Typography of “Alien”,https://typesetinthefuture.com/2014/12/01/alien/
+420,Lobsters,art,Art,StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings,http://dcgi.fel.cvut.cz/home/sykorad/stylit
+421,Lobsters,art,Art,Time-slicing photos with Python and ImageMagick,http://dellsystem.me/posts/time-slicing
+422,Lobsters,art,Art,Bytebeat,http://canonical.org/~kragen/bytebeat/
+423,Lobsters,art,Art,"Biohazard: Iconic Symbol Designed to be “Memorable but Meaningless""",http://99percentinvisible.org/article/biohazard-symbol-designed-to-be-memorable-but-meaningless/
+424,Lobsters,art,Art,Source release for Elevated 4K demo,https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip
+425,Lobsters,art,Art,Hyper-Reality,http://hyper-reality.co
+426,Lobsters,art,Art,Welcome to Magenta!,https://magenta.tensorflow.org/welcome-to-magenta
+427,Lobsters,art,Art,conway's life on the monome,https://vimeo.com/320666
+428,Lobsters,art,Art,Hear AI play Beethoven like The Beatles,http://techcrunch.com/2016/04/29/hear-ai-play-bach-like-the-beatles/
+429,Lobsters,art,Art,Machine Learning for Artists,http://ml4a.github.io/classes/itp-S16/
+430,Lobsters,art,Art,Velocipedia - renderings of bicycle sketches,http://www.gianlucagimini.it/prototypes/velocipedia.html
+431,Lobsters,art,Art,Neural Networks to Upscale & Stylize Pixel Art,https://nucl.ai/blog/enhance-pixel-art/
+432,Lobsters,art,Art,Fisheye Placebo - Cyberpunks [webcomics],https://bubbl.in/cover/fisheye-placebo-introduction-by-wenqing-yan
+433,Lobsters,art,Art,RegEx match open tags except XHTML self-contained tags,http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454
+434,Lobsters,art,Art,Dijkstra Cartography,https://github.com/ibaaj/dijkstra-cartography
+435,Lobsters,art,Art,literal Potato Camera,http://imgur.com/a/HwXmy
+436,Lobsters,art,Art,"Afterglow, environment for algorithmic light shows in Clojure",https://github.com/brunchboy/afterglow
+437,Lobsters,art,Art,Overtone Recipes - Programming music with Clojure,https://overtone-recipes.github.io/remake/2016/04/03/recreating-da-funk.html
+438,Lobsters,art,Art,OpenToonz source code on GitHub,https://github.com/opentoonz/opentoonz
+439,Lobsters,art,Art,"""Real Life"" Portal",http://smeenk.com/real-life-portal/
+440,Lobsters,art,Art,Microsoft deletes 'teen girl' AI after it became a Hitler-loving sex robot within 24 hours (Tay.AI),http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/
+441,Lobsters,art,Art,"ANA, a computer painting program",https://thebluereview.org/ana-ana-is-not-aaron-computer-painting/
+442,Lobsters,art,Art,Keeping it Canny — Asset Preparation for Virtual Reality,https://medium.com/@Hales/keeping-it-canny-asset-preparation-for-virtual-reality-659d46001976
+443,Lobsters,art,Art,Turn your two-bit doodles into fine artworks with deep neural networks,https://github.com/alexjc/neural-doodle
+444,Lobsters,art,Art,Responsive Pixel Artwork,http://essenmitsosse.de/pixel/
+445,Lobsters,art,Art,New Spaceship Speed in Conway’s Game of Life,https://niginsblog.wordpress.com/2016/03/07/new-spaceship-speed-in-conways-game-of-life/
+446,Lobsters,art,Art,Tantalum - 2D Light Transport by Benedikt Bitterli,https://benedikt-bitterli.me/tantalum/tantalum.html
+447,Lobsters,art,Art,Pretty Models From Your Github Repos,http://codeology.braintreepayments.com/featured
+448,Lobsters,art,Art,"Klangmeister, music live coding in the browser",http://ctford.github.io/klangmeister/
+449,Lobsters,art,Art,Making Art Central to a Software Conference,https://medium.com/leaky-abstractions/making-art-central-to-a-software-conference-8ffe3e591644
+450,Lobsters,art,Art,The Malware Museum,https://archive.org/details/malwaremuseum&tab=collection
+451,Lobsters,art,Art,Visual Turing Test,http://turing.deepart.io/
+452,Lobsters,art,Art,A cryptoweaving experiment,http://kairotic.org/a-cryptoweaving-experiment/
+453,Lobsters,art,Art,My payphone runs Linux now.,https://www.jwz.org/blog/2016/01/my-payphone-runs-linux-now/
+454,Lobsters,art,Art,Programmer's Primer and Coloring Book (1963),http://thecomputerboys.com/wp-content/uploads/2010/12/programmers-coloring-book.pdf
+455,Lobsters,art,Art,Pirate Bay Founder Builds The Ultimate Piracy Machine,https://torrentfreak.com/pirate-bay-founder-builds-the-ultimate-piracy-machine-151219/
+456,Lobsters,art,Art,Painting a Picture of Mental Health,https://robots.thoughtbot.com/painting-a-picture-of-mental-health
+457,Lobsters,art,Art,The Infinite Jukebox (2012),http://musicmachinery.com/2012/11/12/the-infinite-jukebox/
+458,Lobsters,art,Art,Happy Trees,https://cryptic.io/happy-trees/
+459,Lobsters,art,Art,Creating the Tamagotchi Singularity,http://spritesmods.com/?art=tamasingularity
+460,Lobsters,art,Art,flOCaml - an OCaml rap,https://soundcloud.com/rangersbeats/flocaml
+461,Lobsters,art,Art,FAUST: A language for real-time sound processing and synthesis,http://faust.grame.fr/about/
+462,Lobsters,art,Art,Algorithmic Composition: Computational Thinking in Music (2011),http://cacm.acm.org/magazines/2011/7/109891-algorithmic-composition/fulltext
+463,Lobsters,art,Art,Lucas Pope and the rise of the 1-bit 'dither-punk' aesthetic,http://gamasutra.com/view/news/260368/Lucas_Pope_and_the_rise_of_the_1bit_ditherpunk_aesthetic.php
+464,Lobsters,art,Art,The sRGB Learning Curve,https://gamedevdaily.io/the-srgb-learning-curve-773b7f68cf7a#.2lc5ak47o
+465,Lobsters,art,Art,Yarn-Based Cloth Simulation,http://www.cs.cornell.edu/projects/YarnCloth/
+466,Lobsters,art,Art,"Behind the Scenes: ""Subete ga F ni Naru"" ED",http://baku89.com/article/2394
+467,Lobsters,art,Art,The Impossible Music of Black MIDI,http://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/
+468,Lobsters,art,Art,Imagegram: image grammar for procedural generation,http://zarat.us/imagegram/
+469,Lobsters,art,Art,80x40,http://blog.mattbierner.com/80x40/
+470,Lobsters,art,Art,ASCII Art as a Service,https://www.asky.io/
+471,Lobsters,art,Art,"Neural Artist, twitter bot",https://shunyata.github.io/2015/10/15/neural-artist/
+472,Lobsters,art,Art,Musical Genres Classified Using the Entropy of MIDI Files,http://www.technologyreview.com/view/542506/musical-genres-classified-using-the-entropy-of-midi-files/
+473,Lobsters,art,Art,"""hello world"" in arm assembly, as hand illuminated manuscript",https://instagram.com/p/8yTbiLJrEv/
+474,Lobsters,art,Art,Electron microscope slow-motion video of vinyl LP,http://www.youtube.com/watch?v=GuCdsyCWmt8
+475,Lobsters,art,Art,Recursion Toy,http://soulwire.co.uk/experiments/recursion-toy/
+476,Lobsters,art,Art,"Sex, Circuits & Deep House",http://www.bunniestudios.com/blog/?p=4484
+477,Lobsters,art,Art,If you scroll programmatically — do it naturally. In 748 bytes.,https://github.com/asvd/naturalScroll
+478,Lobsters,art,Art,Eukleides: A language devoted to elementary plane geometry,http://eukleides.org/overview.html
+479,Lobsters,art,Art,"Alda, a music programming language",http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/
+480,Lobsters,art,Art,"Playscii, an open-source ASCII art and animation program",http://vectorpoem.com/playscii/
+481,Lobsters,art,Art,Hacking Google Earth to Create Stunning Mountain Shots,http://www.wired.com/2015/08/meike-nixdorf-your-earth-transforms/
+482,Lobsters,art,Art,Two Minute Papers - Deep Neural Network Learns Van Gogh's Art,http://www.youtube.com/watch?v=-R9bJGNHltQ
+483,Lobsters,art,Art,2015 Bridges Conference Mathematical Art Galleries,http://gallery.bridgesmathart.org/exhibitions/2015-Bridges-Conference
+484,Lobsters,art,Art,Drawings I've done using Processing.js,http://zk.gd/drawings/
+485,Lobsters,art,Art,Calvin and Markov,http://www.joshmillard.com/2015/07/06/calvin-and-markov/
+486,Lobsters,art,Art,The Creation of Independent Style at the Independent Games Festival,http://www.jesperjuul.net/text/independentstyle/
+487,Lobsters,art,Art,Musical Preferences are Linked to Cognitive Styles,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131151
+488,Lobsters,art,Art,Proceeding of the First International Conference on Live Coding,http://iclc.livecodenetwork.org/2015/iclc2015-proceedings.pdf
+489,Lobsters,art,Art,Lightyear.FM,http://lightyear.fm/
+490,Lobsters,art,Art,Megaprocessor: a computer you can walk inside of,http://www.megaprocessor.com/index.html
+491,Lobsters,art,Art,Inceptionism: Going Deeper into Neural Networks,http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html
+492,Lobsters,art,Art,Vinyl Data,http://www.kempa.com/vinyl-data/
+493,Lobsters,art,Art,Printing a wall-sized world map and what was learned from it,http://www.dominik-schwarz.net/potpourri/worldmap/
+494,Lobsters,art,Art,CRT Simulation in Super Win the Game,http://gamasutra.com/blogs/KylePittman/20150420/241442/CRT_Simulation_in_Super_Win_the_Game.php
+495,Lobsters,art,Art,The Solar System (A Superbook),https://bubbl.in/cover/the-solar-system-by-marvin-danig
+496,Lobsters,art,Art,Realtime Visualization of Wind and Ocean Currents,http://earth.nullschool.net
+497,Lobsters,art,Art,Thoughts after reading 10 PRINT,http://eli.naeher.name/10-print/
+498,Lobsters,art,Art,8088 MPH: We Break All Your Emulators,http://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/
+499,Lobsters,art,Art,"8088 MPH, a demo for the 1981 IBM PC + CGA",http://www.youtube.com/watch?v=yHXx3orN35Y
+500,Lobsters,art,Art,Gerald Sussman | Scheme (1978-1981),https://www.artsy.net/artwork/gerald-sussman-scheme
+501,Lobsters,art,Art,Monodraw for Mac,http://monodraw.helftone.com/?hn
+502,Lobsters,art,Art,This Is Just The Beginning Of What We Can Do On The Super Nintendo,http://blog.attractmo.de/post/111642896790/this-is-just-the-beginning-of-what-we-can-do-on
+503,Lobsters,art,Art,The Ghost in the MP3,http://theghostinthemp3.com/theghostinthemp3.html
+504,Lobsters,art,Art,Getting Started With Ruby Processing,https://blog.engineyard.com/2015/getting-started-with-ruby-processing
+505,Lobsters,art,Art,Sound Fighter: A Musical and Retro-gaming installation,http://www.foobarflies.io/pianette/
+506,Lobsters,art,Art,Painting with Mathematica,http://www.tylerlhobbs.com/writings/interview-john-muellerleile
+507,Lobsters,art,Art,Sixteen Colors: Archiving the Evolution of ANSI and ASCII Art,https://www.youtube.com/watch?v=ILNs1GChGDk
+508,Lobsters,art,Art,On Scraper Capitalism,http://greg.org/archive/2014/12/27/on_scraper_capitalism.html
+509,Lobsters,art,Art,Salvador Dalí and the Fourth Dimension,http://archive.bridgesmathart.org/2014/bridges2014-1.pdf
+510,Lobsters,art,Art,"HYPERSEEING - International Society of the Arts, Mathematics, and Architecture",http://www.isama.org/hyperseeing/
+511,Lobsters,art,Art,A Markov Chain trained on the Puppet docs and Lovecraft,http://thedoomthatcametopuppet.tumblr.com/
+512,Lobsters,art,Art,Rock Balancing,http://www.gravityglue.com/
+513,Lobsters,art,Art,The Sixth Stage of Grief is Retro-Computing,https://medium.com/message/networks-without-networks-7644933a3100
+514,Lobsters,art,Art,The Agony of Javascripting Magritte,http://vart.institute/magritte/
+515,Lobsters,art,Art,Forth Salon - Stack Based Browser Graphics Environment,http://forthsalon.appspot.com/
+516,Lobsters,art,Art,Bézier Clock,http://jackf.net/bezier-clock/
+517,Lobsters,art,Art,Google DevArt: Co(de)Factory,http://devartcodefactory.com/
+518,Lobsters,art,Art,The $5 Logo,http://blog.folyo.me/the-5-dollar-logo/
+519,Lobsters,art,Art,The Future T.B.D.,http://bldgblog.blogspot.com/2014/08/the-future-tbd.html
+520,Lobsters,art,Art,Tweetable Mathematical Art - Programming Puzzles & Code Golf Stack Exchange,http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art
+521,Lobsters,art,Art,Painting in Clojure,http://tombooth.co.uk/painting-in-clojure
+522,Lobsters,art,Art,Hitchhiking robot has survived one third of journey across Canada,http://www.washingtonpost.com/blogs/innovations/wp/2014/08/07/hitchhiking-robot-has-survived-one-third-of-journey-across-canada/?tid=collaborative_1.0_strip_3
+523,Lobsters,art,Art,"Extempore - ""Cyberphysical programming""",http://extempore.moso.com.au/
+524,Lobsters,art,Art,Sheetmusic: Making music from spreadsheets,http://dada.pink/!/eusprig-2014/eusprig-2014-sheetmusic.pdf
+525,Lobsters,art,Art,"Tobias Isenberg - Projects, Videos, and Demos",http://tobias.isenberg.cc/Main/VideosAndDemos
+526,Lobsters,art,Art,A Mathematician’s Lament,https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+527,Lobsters,art,Art,play and display audio from the terminal with javascript,https://github.com/mathisonian/boscillate
+528,Lobsters,art,Art,Math & Music (This Week's Finds in Mathematical Physics #234),http://math.ucr.edu/home/baez/week234.html
+529,Lobsters,art,Art,8088 Domination: Video capture from an IBM PC 5160,https://www.youtube.com/watch?v=MWdG413nNkI
+530,Lobsters,art,Art,pe lang - kinetic sculptures,http://www.pelang.ch/works.html
+531,Lobsters,art,Art,Ornament in a Box - Art Nouveau Voronoi Segmentation,https://www.flickr.com/photos/quasimondo/sets/72157632200834828
+532,Lobsters,art,Art,Vermeer's paintings might be 350 year-old color photographs,http://boingboing.net/2014/06/10/vermeers-paintings-might-be.html

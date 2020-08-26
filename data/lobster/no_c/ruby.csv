@@ -1,0 +1,1251 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,ruby,Ruby programming,Effective Debugging of Memory Leaks in Ruby,https://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby
+2,Lobsters,ruby,Ruby programming,Ruby modules in-depth (2019),https://www.brainstobytes.com/ruby-modules/
+3,Lobsters,ruby,Ruby programming,The Practical Effects of the GVL on Scaling in Ruby,https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html
+4,Lobsters,ruby,Ruby programming,Http.rb is Great (2018),http://twin.github.io/httprb-is-great/
+5,Lobsters,ruby,Ruby programming,TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM,https://github.com/hpi-swa/trufflesqueak
+6,Lobsters,ruby,Ruby programming,In search of the perfect pocket device,https://isene.org/2020/08/Nerding.html
+7,Lobsters,ruby,Ruby programming,SQL to AREL converter,http://www.scuttle.io/
+8,Lobsters,ruby,Ruby programming,Understanding and Implementing OAuth2 in Ruby,https://www.honeybadger.io/blog/oauth2-ruby/
+9,Lobsters,ruby,Ruby programming,Introduction to Ruby on Rails Patterns and Anti-patterns,https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html
+10,Lobsters,ruby,Ruby programming,"An elegant, extendable code highlighter written in pure Ruby",http://rouge.jneen.net/
+11,Lobsters,ruby,Ruby programming,PrawnPDF released,https://github.com/prawnpdf/prawn/releases/tag/2.3.0
+12,Lobsters,ruby,Ruby programming,Effective enqueuing of background jobs,https://prathamesh.tech/2020/08/06/effective-enqueuing-of-background-jobs/
+13,Lobsters,ruby,Ruby programming,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+14,Lobsters,ruby,Ruby programming,When Should You NOT Use Rails?,http://codefol.io/posts/when-should-you-not-use-rails/
+15,Lobsters,ruby,Ruby programming,render_async 2.1.7 Lets You Retry Requests With Delay,https://pragmaticpineapple.com/render-async-2-1-7-lets-you-retry-requests-with-delay/
+16,Lobsters,ruby,Ruby programming,Apple Silicon Developer Transition Kit,https://www.driftingruby.com/episodes/apple-silicon-developer-transition-kit
+17,Lobsters,ruby,Ruby programming,Enhanced Shell Scripting with Ruby,https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
+18,Lobsters,ruby,Ruby programming,The State of Ruby 3 Typing,https://developer.squareup.com/blog/the-state-of-ruby-3-typing/
+19,Lobsters,ruby,Ruby programming,How I write tests for my Rails (API) apps,https://prathamesh.tech/2020/07/28/how-i-write-tests-for-my-rails-api-apps/
+20,Lobsters,ruby,Ruby programming,oso: an open source policy engine for authorization,https://www.osohq.com
+21,Lobsters,ruby,Ruby programming,A curious case of rational to flonum conversion,http://blog.practical-scheme.net/gauche/20200722-ratnum-flonum
+22,Lobsters,ruby,Ruby programming,A silly thing you can do with the Ruby parser,https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html
+23,Lobsters,ruby,Ruby programming,Ruby Method Overloading,https://lucaguidi.com/2020/07/22/ruby-method-overloading/
+24,Lobsters,ruby,Ruby programming,Custom directory for Webpacker in Rails apps,https://prathamesh.tech/2020/07/15/custom-directory-for-webpacker-in-rails-apps/
+25,Lobsters,ruby,Ruby programming,Sidekiq/ActiveJob style guide,/s/xjzwxr/sidekiq_activejob_style_guide
+26,Lobsters,ruby,Ruby programming,Effective Debugging of Memory Leaks in Ruby,https://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby
+27,Lobsters,ruby,Ruby programming,Ruby modules in-depth (2019),https://www.brainstobytes.com/ruby-modules/
+28,Lobsters,ruby,Ruby programming,The Practical Effects of the GVL on Scaling in Ruby,https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html
+29,Lobsters,ruby,Ruby programming,Http.rb is Great (2018),http://twin.github.io/httprb-is-great/
+30,Lobsters,ruby,Ruby programming,TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM,https://github.com/hpi-swa/trufflesqueak
+31,Lobsters,ruby,Ruby programming,In search of the perfect pocket device,https://isene.org/2020/08/Nerding.html
+32,Lobsters,ruby,Ruby programming,SQL to AREL converter,http://www.scuttle.io/
+33,Lobsters,ruby,Ruby programming,Understanding and Implementing OAuth2 in Ruby,https://www.honeybadger.io/blog/oauth2-ruby/
+34,Lobsters,ruby,Ruby programming,Introduction to Ruby on Rails Patterns and Anti-patterns,https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html
+35,Lobsters,ruby,Ruby programming,"An elegant, extendable code highlighter written in pure Ruby",http://rouge.jneen.net/
+36,Lobsters,ruby,Ruby programming,PrawnPDF released,https://github.com/prawnpdf/prawn/releases/tag/2.3.0
+37,Lobsters,ruby,Ruby programming,Effective enqueuing of background jobs,https://prathamesh.tech/2020/08/06/effective-enqueuing-of-background-jobs/
+38,Lobsters,ruby,Ruby programming,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+39,Lobsters,ruby,Ruby programming,When Should You NOT Use Rails?,http://codefol.io/posts/when-should-you-not-use-rails/
+40,Lobsters,ruby,Ruby programming,render_async 2.1.7 Lets You Retry Requests With Delay,https://pragmaticpineapple.com/render-async-2-1-7-lets-you-retry-requests-with-delay/
+41,Lobsters,ruby,Ruby programming,Apple Silicon Developer Transition Kit,https://www.driftingruby.com/episodes/apple-silicon-developer-transition-kit
+42,Lobsters,ruby,Ruby programming,Enhanced Shell Scripting with Ruby,https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
+43,Lobsters,ruby,Ruby programming,The State of Ruby 3 Typing,https://developer.squareup.com/blog/the-state-of-ruby-3-typing/
+44,Lobsters,ruby,Ruby programming,How I write tests for my Rails (API) apps,https://prathamesh.tech/2020/07/28/how-i-write-tests-for-my-rails-api-apps/
+45,Lobsters,ruby,Ruby programming,oso: an open source policy engine for authorization,https://www.osohq.com
+46,Lobsters,ruby,Ruby programming,A curious case of rational to flonum conversion,http://blog.practical-scheme.net/gauche/20200722-ratnum-flonum
+47,Lobsters,ruby,Ruby programming,A silly thing you can do with the Ruby parser,https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html
+48,Lobsters,ruby,Ruby programming,Ruby Method Overloading,https://lucaguidi.com/2020/07/22/ruby-method-overloading/
+49,Lobsters,ruby,Ruby programming,Custom directory for Webpacker in Rails apps,https://prathamesh.tech/2020/07/15/custom-directory-for-webpacker-in-rails-apps/
+50,Lobsters,ruby,Ruby programming,Sidekiq/ActiveJob style guide,/s/xjzwxr/sidekiq_activejob_style_guide
+51,Lobsters,ruby,Ruby programming,"Bmg, Alf's successor, A Ruby Relational Algebra",https://github.com/enspirit/bmg
+52,Lobsters,ruby,Ruby programming,Npm Install Servitude: The Hidden Costs of Software Dependencies,https://www.youtube.com/watch?v=rQegYUsU7ec
+53,Lobsters,ruby,Ruby programming,Painless Rails upgrades,https://blog.arkency.com/painless-rails-upgrades/
+54,Lobsters,ruby,Ruby programming,99 Bottles of OOP - 2nd Edition,https://sandimetz.com/99bottles
+55,Lobsters,ruby,Ruby programming,A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem,https://blog.heroku.com/rate-throttle-api-client
+56,Lobsters,ruby,Ruby programming,Anonymous Struct Literals Might Be Coming To Ruby,https://supergood.software/ruby-anonymous-struct-literals/
+57,Lobsters,ruby,Ruby programming,"A Safer RuboCop, Part Deux",http://metaredux.com/posts/2020/07/07/a-safer-rubocop-part-deux.html
+58,Lobsters,ruby,Ruby programming,A Ruby interface to the Google Pay API,https://github.com/regularlady/googlepay
+59,Lobsters,ruby,Ruby programming,Soft Delete with Discard,https://www.driftingruby.com/episodes/soft-delete-with-discard
+60,Lobsters,ruby,Ruby programming,JRuby 9.2.12.0 Released,https://github.com/jruby/jruby/releases/tag/9.2.12.0
+61,Lobsters,ruby,Ruby programming,AnyCable 1.0: Four years of real-time web with Ruby and Go —,https://evilmartians.com/chronicles/anycable-1-0-four-years-of-real-time-web-with-ruby-and-go
+62,Lobsters,ruby,Ruby programming,Squib is a Ruby DSL for prototyping card games,https://squib.rocks/
+63,Lobsters,ruby,Ruby programming,Rails multiple databases support in Rails Event Store,https://blog.arkency.com/rails-multiple-databases-support-in-rails-event-store/
+64,Lobsters,ruby,Ruby programming,Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire,https://boringrails.com/articles/hovercards-stimulus/
+65,Lobsters,ruby,Ruby programming,Allowing dots in Rails routes,https://prathamesh.tech/2020/06/15/allowing-dots-in-rails-routes/
+66,Lobsters,ruby,Ruby programming,My Favourite Parts of the Ruby Standard Library that You Might Not Know About (2018),https://alyssa.is/doing-a-lightning-talk-at-bath-ruby-2018/
+67,Lobsters,ruby,Ruby programming,Simple and reliable workflow engine,https://github.com/linkyndy/pallets
+68,Lobsters,ruby,Ruby programming,The Ruby Bibliography,https://rubybib.org/
+69,Lobsters,ruby,Ruby programming,Spark Joy by Running Fewer Tests,https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests
+70,Lobsters,ruby,Ruby programming,Securing a Ruby on Rails API with JWTs,https://fusionauth.io/blog/2020/06/11/building-protected-api-with-rails-and-jwt
+71,Lobsters,ruby,Ruby programming,RSpec matchers that make testing JSON documents simpler,https://github.com/paul/rspec-resembles_json_matchers 
+72,Lobsters,ruby,Ruby programming,Tracking Changes on Action Text,https://www.driftingruby.com/episodes/tracking-changes-on-action-text
+73,Lobsters,ruby,Ruby programming,The RuboCop Name Drama Redux,http://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html
+74,Lobsters,ruby,Ruby programming,CPU-intensive Ruby/Python code runs slower on default-configured Docker,http://mamememo.blogspot.com/2020/05/cpu-intensive-rubypython-code-runs.html
+75,Lobsters,ruby,Ruby programming,Comparison of approaches to multitenancy in Rails apps,https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/
+76,Lobsters,ruby,Ruby programming,Ruby: The best tool for the automation job,https://seanfelipe.github.io/automation/languages/ruby/java/javascript/simplicity/2020/05/20/automation-ruby.html
+77,Lobsters,ruby,Ruby programming,RuboCop Defaults Survey Results,http://metaredux.com/posts/2020/05/26/rubocop-defaults-survey-results.html
+78,Lobsters,ruby,Ruby programming,Brotli and Gzip Compression for Assets and JSON API in Rails,https://pawelurbanek.com/rails-gzip-brotli-compression
+79,Lobsters,ruby,Ruby programming,Mastodon: Add end-to-end encryption API,https://github.com/tootsuite/mastodon/pull/13820
+80,Lobsters,ruby,Ruby programming,require_so: DRYer StackOverflow copying,http://sgt.hootr.club/molten-matter/announcing-require-so/
+81,Lobsters,ruby,Ruby programming,Refinements library for Ruby,https://www.alchemists.io/projects/refinements/
+82,Lobsters,ruby,Ruby programming,Why Fullstaq Ruby?,https://www.joyfulbikeshedding.com/blog/2020-05-15-why-fullstaq-ruby.html
+83,Lobsters,ruby,Ruby programming,Controlling mutation with types,https://blog.jcoglan.com/2020/05/12/controlling-mutation-with-types/
+84,Lobsters,ruby,Ruby programming,"Comparison of some programming languages implementing ""Open-Ended Dice Rolls"" (O6)",https://github.com/isene/O6
+85,Lobsters,ruby,Ruby programming,Game of Life in one Ruby statement... inspired by APL,https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html
+86,Lobsters,ruby,Ruby programming,Don't @ me! Instance Variable Performance in Ruby,https://www.youtube.com/watch?v=HEFBDqly4ms&feature=emb_title
+87,Lobsters,ruby,Ruby programming,How to Fix Slow Code in Ruby,https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby
+88,Lobsters,ruby,Ruby programming,Reactive Rails apps with concepts similar to Phoenix's LiveView,https://github.com/hopsoft/stimulus_reflex
+89,Lobsters,ruby,Ruby programming,ruruby: Ruby in Rust,https://github.com/sisshiki1969/ruruby
+90,Lobsters,ruby,Ruby programming,Ruby Garbage Collection: More Exciting than it Sounds,https://scoutapm.com/blog/ruby-garbage-collection
+91,Lobsters,ruby,Ruby programming,Using Dry::Container for Dependency Injection,http://blog.theamazingrando.com/posts/containers-for-dependency-injection.html
+92,Lobsters,ruby,Ruby programming,Ruby Next: Make all Rubies quack alike,https://evilmartians.com/chronicles/ruby-next-make-all-rubies-quack-alike
+93,Lobsters,ruby,Ruby programming,Railsconf2020 couch edition,https://railsconf.com/
+94,Lobsters,ruby,Ruby programming,Contributing to a Gem,https://www.driftingruby.com/episodes/contributing-to-a-gem
+95,Lobsters,ruby,Ruby programming,Disable logging of (sensitive) arguments in Active Job,https://prathamesh.tech/2020/04/29/disable-logging-of-arguments-in-active-job/
+96,Lobsters,ruby,Ruby programming,IO in Ruby (2014),https://thoughtbot.com/blog/io-in-ruby
+97,Lobsters,ruby,Ruby programming,How to Use Lambdas in Ruby,https://scoutapm.com/blog/how-to-use-lambdas-in-ruby
+98,Lobsters,ruby,Ruby programming,Don't add database index if it already exists in Rails,https://prathamesh.tech/2020/04/16/dont-add-database-index-if-it-already-exists/
+99,Lobsters,ruby,Ruby programming,RSpec Given/When/Then with symbols,https://caiustheory.com/rspec-given/when/then-with-symbols/
+100,Lobsters,ruby,Ruby programming,Using multifactor authentication on the command line for RubyGems,https://guides.rubygems.org/using-mfa-in-command-line/
+101,Lobsters,ruby,Ruby programming,Why You Don't Need has_and_belongs_to_many Relationships,https://flatironschool.com/blog/why-you-dont-need-has-and-belongs-to-many/
+102,Lobsters,ruby,Ruby programming,Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository,https://thehackernews.com/2020/04/rubygem-typosquatting-malware.html
+103,Lobsters,ruby,Ruby programming,How to Start Using Counter Caches in Rails,https://scoutapm.com/blog/how-to-start-using-counter-caches-in-rails
+104,Lobsters,ruby,Ruby programming,"Transport and process your logs, events, or other data",https://github.com/elastic/logstash
+105,Lobsters,ruby,Ruby programming,Speed up your Rails app with upsert_all,https://blog.testdouble.com/posts/2020-04-09-speed-up-your-rails-app-with-upsert_all/
+106,Lobsters,ruby,Ruby programming,A panic button app for triggering a ripple effect across apps that are set up to respond to panic,https://github.com/guardianproject/ripple
+107,Lobsters,ruby,Ruby programming,A modern chat client built on Matrix,https://gitlab.com/ditto-chat/ditto-mobile
+108,Lobsters,ruby,Ruby programming,Google Maps API with StimulusJS,https://www.driftingruby.com/episodes/google-maps-api-with-stimulusjs
+109,Lobsters,ruby,Ruby programming,Optimizing Ruby Lazy Initialization in TruffleRuby with Deoptimization,https://engineering.shopify.com/blogs/engineering/optimizing-ruby-lazy-initialization-in-truffleruby-with-deoptimization
+110,Lobsters,ruby,Ruby programming,An integration for Slack that converts time string in a message to all timezones (MIT License),https://github.com/caiosba/slack-timezone-converter
+111,Lobsters,ruby,Ruby programming,Adjusting RuboCop’s Defaults,http://metaredux.com/posts/2020/03/27/adjusting-rubocop-s-defaults.html
+112,Lobsters,ruby,Ruby programming,Webpacker 5.0 released,https://prathamesh.tech/2020/03/25/webpacker-5-0-released/
+113,Lobsters,ruby,Ruby programming,render_async Fires Events By Default,https://pragmaticpineapple.com/render-async-fires-events-by-default/
+114,Lobsters,ruby,Ruby programming,"Token Authentication with Rails, Vue, GraphQL and Devise",https://engineering.doximity.com/articles/token-authentication-with-rails-vue-graphql-and-devise
+115,Lobsters,ruby,Ruby programming,"Lies, Damned Lies, and Averages: Perc50, Perc95 explained for Programmers",https://schneems.com/2020/03/17/lies-damned-lies-and-averages-perc50-perc95-explained-for-programmers/
+116,Lobsters,ruby,Ruby programming,dry-schema and dry-validation 1.5.0 released,https://dry-rb.org/news/2020/03/11/dry-schema-and-dry-validation-1-5-0-released/
+117,Lobsters,ruby,Ruby programming,Announcing RubyGems.org Stats,https://blog.rubygems.org/2020/03/09/announcing-rubygems-stats.html
+118,Lobsters,ruby,Ruby programming,(Make your tests both) Necessary & Sufficient,https://blog.testdouble.com/posts/2020-02-25-necessary-and-sufficient/
+119,Lobsters,ruby,Ruby programming,Syntax Highlighting with Action Text,https://www.driftingruby.com/episodes/syntax-highlighting-with-action-text
+120,Lobsters,ruby,Ruby programming,Introducing Hanami::API,http://hanamirb.org/blog/2020/02/26/introducing-hanami-api.html
+121,Lobsters,ruby,Ruby programming,"A Ruby implementation of, and toolchain for, the Bel LISP",https://github.com/cookrn/babybel
+122,Lobsters,ruby,Ruby programming,Ruby debugging techniques (2015),http://www.katieleonard.ca/blog/2015/debugging-techniques/
+123,Lobsters,ruby,Ruby programming,A Snake Egg Puzzle Solver,https://github.com/tuzz/snake-egg-puzzle
+124,Lobsters,ruby,Ruby programming,Repurposing an old Android phone as a Ruby web server,https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+125,Lobsters,ruby,Ruby programming,A Crystal in Go’s World,https://preslav.me/2020/01/26/a-crystal-in-go-s-world/
+126,Lobsters,ruby,Ruby programming,Emojis from Scratch,https://www.driftingruby.com/episodes/emojis-from-scratch
+127,Lobsters,ruby,Ruby programming,"Wrangling slow reports, large file exports, and long-running tasks in Rails with ActiveJob",https://boringrails.com/articles/large-exports-and-slow-reports-with-activejob/
+128,Lobsters,ruby,Ruby programming,Upgrading bootstrap-vue in gitlab-ui,https://about.gitlab.com/blog/2020/01/24/upgrading-bootstrap-vue/
+129,Lobsters,ruby,Ruby programming,Record/Replay testing in Sorbet,https://blog.nelhage.com/post/record-replay-in-sorbet/
+130,Lobsters,ruby,Ruby programming,"Yukihiro Matsumoto: ""Ruby is designed for humans, not machines""",https://evrone.com/yukihiro-matsumoto-interview
+131,Lobsters,ruby,Ruby programming,A Rails and PostgreSQL setup for GitHub actions (CI),https://dev.to/vvo/a-rails-and-postgresql-setup-for-github-actions-ci-nc8
+132,Lobsters,ruby,Ruby programming,Writing a polyglot script,https://nkanaev.github.io/posts/polyglot/
+133,Lobsters,ruby,Ruby programming,"Cache Crispies: Fast, Flexible Rails Serializer",https://codenoble.com/blog/introducing-cache-crispies/
+134,Lobsters,ruby,Ruby programming,Why is Ruby on Rails' default_scope bad?,https://piechowski.io/post/why-is-default-scope-bad-rails/
+135,Lobsters,ruby,Ruby programming,Like Relationships and Global ID,https://www.driftingruby.com/episodes/like-relationships-and-global-id
+136,Lobsters,ruby,Ruby programming,Rails: How to Use Greater Than/Less Than in Active Record where Statements,https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/
+137,Lobsters,ruby,Ruby programming,Being paranoid about user enumeration in Devise gem in Rails apps,https://prathamesh.tech/2020/01/02/being-paranoid-with-help-of-devise/
+138,Lobsters,ruby,Ruby programming,Ruby Lazy Enumerators,https://blog.saeloun.com/2019/10/23/ruby-lazy-enumerators.html
+139,Lobsters,ruby,Ruby programming,Dockerfile for Ruby on Rails Deployments,https://ebababi.net/dockerfile-for-ruby-on-rails-deployments.html
+140,Lobsters,ruby,Ruby programming,Astuto: an open source customer feedback tool,https://github.com/riggraz/astuto
+141,Lobsters,ruby,Ruby programming,Managing warnings emitted by Ruby 2.7,https://prathamesh.tech/2019/12/26/managing-warnings-emitted-by-ruby-2-7/
+142,Lobsters,ruby,Ruby programming,All you need to know about Ruby 2.7,https://prathamesh.tech/2019/12/25/all-you-need-to-know-about-ruby-2-7/
+143,Lobsters,ruby,Ruby programming,Ruby’s Two Birthdays,http://metaredux.com/posts/2019/12/21/ruby-s-two-birthdays.html
+144,Lobsters,ruby,Ruby programming,Planned separation of positional and keyword arguments in Ruby 3.0,https://www.ruby-lang.org/en/news/2019/12/12/separation-of-positional-and-keyword-arguments-in-ruby-3-0/
+145,Lobsters,ruby,Ruby programming,clayoven: a minimalist website generator with a carefully curated set of features,https://github.com/artagnon/clayoven/blob/master/README.md
+146,Lobsters,ruby,Ruby programming,Rails 6 adds ability to block writes to a database,https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes.html
+147,Lobsters,ruby,Ruby programming,Configurable Ruby Modules: The Module Builder Pattern,https://blog.appsignal.com/2019/11/29/configurable-ruby-modules-the-module-builder-pattern.html
+148,Lobsters,ruby,Ruby programming,"Ruby, Where do We Go Now?",http://metaredux.com/posts/2019/12/06/ruby-where-do-we-go-now.html
+149,Lobsters,ruby,Ruby programming,Choose Your Docker Base Image Wisely,https://www.innoq.com/en/blog/choose-your-docker-base-image-wisely/
+150,Lobsters,ruby,Ruby programming,Ruby 2.7 adds shorthand syntax for arguments forwarding,https://blog.saeloun.com/2019/12/04/ruby-2-7-adds-new-operator-for-arguments-forwarding.html
+151,Lobsters,ruby,Ruby programming,Rails 6 adds ActiveSupport::ParameterFilter,https://blog.saeloun.com/2019/12/03/rails-6-adds-activesupport-parameter-filter.html
+152,Lobsters,ruby,Ruby programming,Ruby 2.7 adds Enumerator#produce,https://blog.saeloun.com/2019/11/27/ruby-2-7-enumerator-produce.html
+153,Lobsters,ruby,Ruby programming,Rails 6: the missing developer setup guide,https://dev.to/vvo/a-rails-6-setup-guide-for-2019-and-2020-hf5
+154,Lobsters,ruby,Ruby programming,Solving Puzzles with Amb,https://thesmartnik.com/solving-pazzles-wth-amb.html
+155,Lobsters,ruby,Ruby programming,ActiveRecord Migration: terminology,https://medium.com/@farsi_mehdi/activerecord-migration-terminology-c63e16b0526b
+156,Lobsters,ruby,Ruby programming,SSL Cert Rotation with Runbook,https://patrick.ble.si/ssl-cert-rotation-with-runbook
+157,Lobsters,ruby,Ruby programming,How Ruby REALLY uses Memory: On the Web and Beyond,https://www.schneems.com/2019/11/06/how-ruby-really-uses-memory-on-the-web-and-beyond/
+158,Lobsters,ruby,Ruby programming,Cross domain session sharing in Rails - Part 2,https://prathamesh.tech/2019/11/05/cross-domain-session-sharing-in-rails-part-2/
+159,Lobsters,ruby,Ruby programming,Plugging in AnyCable,https://www.driftingruby.com/episodes/plugging-in-anycable
+160,Lobsters,ruby,Ruby programming,Static Typing in Ruby with a Side of Sorbet,https://blog.heroku.com/static-typing-ruby-with-sorbet
+161,Lobsters,ruby,Ruby programming,The curious case of the working-directory-changing Rakefile,https://www.ctrl.blog/entry/ruby-chdir-rakefile.html
+162,Lobsters,ruby,Ruby programming,Getting Started with Svelte and Rails 6,https://medium.com/@nikolalsvk/getting-started-with-svelte-and-rails-6-d8384c80ad6c
+163,Lobsters,ruby,Ruby programming,Cross domain session sharing in Rails - Part 1,https://prathamesh.tech/2019/10/14/cross-domain-session-sharing-in-rails-part-one/
+164,Lobsters,ruby,Ruby programming,How Rails generates UUIDs by extending the digest library,https://medium.com/@farsi_mehdi/how-rails-generates-uuids-by-extending-the-digest-library-2672443c9266
+165,Lobsters,ruby,Ruby programming,prepend_before_action in Rails,https://prathamesh.tech/2019/10/10/prepend_before_action-in-rails/
+166,Lobsters,ruby,Ruby programming,Ruby on Rails Tips and Tricks,https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks-46fedaf6-0a62-4c69-ac51-69a4870e2238
+167,Lobsters,ruby,Ruby programming,Introducing dry-effects,https://dry-rb.org/news/2019/10/03/introducing-dry-effects/
+168,Lobsters,ruby,Ruby programming,Occam's Record: The missing high-efficiency query API for ActiveRecord,https://jhollinger.github.io/occams-record/
+169,Lobsters,ruby,Ruby programming,Mastering Packs in Webpacker,https://prathamesh.tech/2019/09/24/mastering-packs-in-webpacker/
+170,Lobsters,ruby,Ruby programming,Fail Fast and Fail Often: Handling API Errors at Scale,https://dev.to/akshaynathan/fail-fast-and-fail-often-handling-api-errors-at-scale-17mb
+171,Lobsters,ruby,Ruby programming,Scope Gates in Ruby: Flat Scopes,https://medium.com/@farsi_mehdi/scope-gates-in-ruby-flat-scopes-bbf100f8e459
+172,Lobsters,ruby,Ruby programming,"Benchmarking Fibers, Threads and Processes",http://engineering.appfolio.com/appfolio-engineering/2019/9/13/benchmarking-fibers-threads-and-processes
+173,Lobsters,ruby,Ruby programming,Making friends with Rubocop,https://prathamesh.tech/2019/09/11/making-friends-with-rubocop/
+174,Lobsters,ruby,Ruby programming,Precompiling Rails Templates,https://www.johnhawthorn.com/2019/09/precompiling-rails-templates/
+175,Lobsters,ruby,Ruby programming,Scope Gates in Ruby: Part II,https://medium.com/rubycademy/scope-gates-in-ruby-part-ii-e3c01ece9ad6
+176,Lobsters,ruby,Ruby programming,Sidekiq 6.0,https://www.mikeperham.com/2019/09/03/welcome-to-sidekiq-6.0/
+177,Lobsters,ruby,Ruby programming,Keys to upgrading Rails,http://blog.testdouble.com/posts/2019-09-03-3-keys-to-upgrading-rails
+178,Lobsters,ruby,Ruby programming,DNS rebinding attacks protection in Rails 6,https://prathamesh.tech/2019/09/02/dns-rebinding-attacks-protection-in-rails-6/
+179,Lobsters,ruby,Ruby programming,Push Notifications with ActionCable,https://www.driftingruby.com/episodes/push-notifications-with-actioncable
+180,Lobsters,ruby,Ruby programming,Scope gates in Ruby: Part I,https://medium.com/rubycademy/scope-gates-in-ruby-part-i-f73e81eef6d1
+181,Lobsters,ruby,Ruby programming,The return Keyword in Ruby,https://medium.com/rubycademy/the-return-keyword-in-ruby-df0a7f578fcb
+182,Lobsters,ruby,Ruby programming,Upcoming Features in Shrine 3.0,http://twin.github.io/upcoming-features-in-shrine-3-0/
+183,Lobsters,ruby,Ruby programming,Understanding Webpacker in Rails 6,https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
+184,Lobsters,ruby,Ruby programming,OpenStruct in Ruby,https://medium.com/rubycademy/openstruct-in-ruby-ab6ba3aff9a4
+185,Lobsters,ruby,Ruby programming,Struct in Ruby,https://medium.com/rubycademy/struct-in-ruby-cac1c7514517
+186,Lobsters,ruby,Ruby programming,New framework defaults in Rails 6,https://prathamesh.tech/2019/08/22/new-framework-defaults-in-rails/
+187,Lobsters,ruby,Ruby programming,Ruby rest-client was hacked and infected with malware,https://github.com/rest-client/rest-client/issues/713
+188,Lobsters,ruby,Ruby programming,Load Rails Partials on Demand with New Toggle Feature in render_async 2.1.1,https://github.com/renderedtext/render_async/releases/tag/2.1.1
+189,Lobsters,ruby,Ruby programming,"Rails 6.0: Action Mailbox, Action Text, Multiple DBs, Parallel Testing, Webpacker by default, and Zeitwerk",https://weblog.rubyonrails.org/2019/8/15/Rails-6-0-final-release/
+190,Lobsters,ruby,Ruby programming,Advanced multi-db techniques in Rails 6,https://prathamesh.tech/2019/08/13/rails-6-multi-database-part-two/
+191,Lobsters,ruby,Ruby programming,Magic comments in Ruby,https://medium.com/@farsi_mehdi/magic-comments-in-ruby-81d45ff92e34
+192,Lobsters,ruby,Ruby programming,How it's Made - Tales of the Ruby Grimoire,https://dev.to/baweaver/how-it-s-made-tales-of-the-ruby-grimoire-2lgp
+193,Lobsters,ruby,Ruby programming,Setting up Rails 6 app with multiple databases on Heroku,https://prathamesh.tech/2019/08/06/setting-up-rails-6-multiple-databases-on-heroku/
+194,Lobsters,ruby,Ruby programming,Call for discussion: RSpec's `described_class`,https://blog.rubystyle.guide/rspec/2019/08/04/rspec-described_class.html
+195,Lobsters,ruby,Ruby programming,Working with Large Data,https://www.driftingruby.com/episodes/working-with-large-data
+196,Lobsters,ruby,Ruby programming,Tales of the Ruby Grimoire - Storybook Edition,https://dev.to/baweaver/tales-of-the-ruby-grimoire-part-one-the-grimoire-2712
+197,Lobsters,ruby,Ruby programming,Context Binding in Ruby,https://medium.com/rubycademy/context-binding-in-ruby-fa118ea62269
+198,Lobsters,ruby,Ruby programming,Runbook: A Ruby DSL for Gradual System Automation,https://medium.com/braintree-product-technology/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d
+199,Lobsters,ruby,Ruby programming,Artichoke Ruby Playground,https://artichoke.github.io/artichoke/
+200,Lobsters,ruby,Ruby programming,How to build a Null Object library like Mimic,https://www.saturnflyer.com/blog/how-to-build-null-object-library-like-mimic
+201,Lobsters,ruby,Ruby programming,Reading Ruby Metaprogramming inside Devise,https://www.saturnflyer.com/blog/reading-ruby-metaprogramming-inside-devise
+202,Lobsters,ruby,Ruby programming,Ruby on Whales: Dockerizing Ruby and Rails development - The exhaustive Docker config for RoR apps,https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development
+203,Lobsters,ruby,Ruby programming,The case statement and ranges,https://medium.com/@farsi_mehdi/the-case-statement-and-ranges-4de42b764003
+204,Lobsters,ruby,Ruby programming,[2017] The Demonic Possession of Hashie::Mash,https://code.dblock.org/2017/02/24/the-demonic-possession-of-hashie-mash.html
+205,Lobsters,ruby,Ruby programming,Call for discussion: RSpec Implicit Block Expectation Syntax,https://blog.rubystyle.guide/rspec/2019/07/17/rspec-implicit-block-syntax.html
+206,Lobsters,ruby,Ruby programming,Introducing New Rails 6 Features,https://www.toptal.com/ruby-on-rails/rails-6-features
+207,Lobsters,ruby,Ruby programming,How environment check works in Ruby on Rails?,https://medium.com/@farsi_mehdi/how-environment-check-works-in-ruby-on-rails-4cfbd0434605
+208,Lobsters,ruby,Ruby programming,Announcing Pakyow v1.0,https://pakyow.com/blog/one
+209,Lobsters,ruby,Ruby programming,How to (not) use unscoped in Rails,https://prathamesh.tech/2019/07/15/how-to-not-use-unscope-in-rails/
+210,Lobsters,ruby,Ruby programming,Puma 4: Hammering Out H13s—A Debugging Story,https://blog.heroku.com/puma-4-hammering-out-h13s-a-debugging-story
+211,Lobsters,ruby,Ruby programming,Backdoor discovered in Ruby strong_password library,http://nakedsecurity.sophos.com/2019/07/09/backdoor-discovered-in-ruby-strong_password-library/
+212,Lobsters,ruby,Ruby programming,Exposing the design pattern at the heart of Rack Middleware,https://www.simplybusiness.co.uk/about-us/tech/2019/07/rack-middleware-pattern-description/
+213,Lobsters,ruby,Ruby programming,Your own x.509 cert manager,https://github.com/gojekfarm/kingsly
+214,Lobsters,ruby,Ruby programming,I just made Ruby++,https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html
+215,Lobsters,ruby,Ruby programming,Fixing one RuboCop RSpec cop,https://fili.pp.ru/fixing-rspec-subject-stub-cop.html
+216,Lobsters,ruby,Ruby programming,Refactoring from nested loops to enumerators and lambda's,/s/ahpun7/refactoring_from_nested_loops
+217,Lobsters,ruby,Ruby programming,I'm worried about Ruby future,http://katafrakt.me//2019/06/15/im-worried-about-ruby-future/
+218,Lobsters,ruby,Ruby programming,Instance Variable Performance in Ruby,https://tenderlovemaking.com/2019/06/26/instance-variable-performance.html
+219,Lobsters,ruby,Ruby programming,Vacuum after you tidy up,https://dev.to/optoro_engineering/vacuum-after-you-tidy-up-71i
+220,Lobsters,ruby,Ruby programming,Puma 4: New I/O 4 Your Server,https://schneems.com/2019/06/26/puma-4-new-io-4-your-server/
+221,Lobsters,ruby,Ruby programming,Luca Guidi previewing Hanami 2.0 plans,https://vimeo.com/339279205
+222,Lobsters,ruby,Ruby programming,Announcing Square’s New Ruby SDK,http://developer.squareup.com/blog/announcing-square's-new-ruby-sdk
+223,Lobsters,ruby,Ruby programming,ActiveRecord Connection Errors on Heroku - How to Reproduce and Resolve,https://www.youtube.com/watch?v=XOfELjqm188
+224,Lobsters,ruby,Ruby programming,Why is Ruby Slower on Mac? An Early Investigation,http://engineering.appfolio.com/appfolio-engineering/2019/5/20/why-is-ruby-slower-on-mac-an-early-investigation
+225,Lobsters,ruby,Ruby programming,Floating-point Division (recommended approach discussion),https://blog.rubystyle.guide/ruby/2019/06/21/float-division.html
+226,Lobsters,ruby,Ruby programming,"Open-sourcing Sorbet: a fast, powerful type checker for Ruby",https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet
+227,Lobsters,ruby,Ruby programming,Teaching at Bootcamps with Ed Toro,https://www.driftingruby.com/episodes/teaching-at-bootcamps-with-ed-toro
+228,Lobsters,ruby,Ruby programming,Rails Action Cable: the good and the bad,https://www.ably.io/blog/rails-actioncable-the-good-and-the-bad
+229,Lobsters,ruby,Ruby programming,Ruby 2.7: The Pipeline Operator,https://dev.to/baweaver/ruby-2-7-the-pipeline-operator-1b2d
+230,Lobsters,ruby,Ruby programming,Weird Ruby: Zeroing in on a Couple of Numeric Predicates,http://metaredux.com/posts/2019/06/11/weird-ruby-zeroing-in-on-a-couple-of-numeric-predicates.html
+231,Lobsters,ruby,Ruby programming,dry-rb - dry-validation 1.0.0 released,https://dry-rb.org/news/2019/06/10/dry-validation-1-0-0-released/
+232,Lobsters,ruby,Ruby programming,Weird Ruby: Block Comments,http://metaredux.com/posts/2019/06/09/weird-ruby-block-comments.html
+233,Lobsters,ruby,Ruby programming,Scripting Languages to Be Removed,https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/
+234,Lobsters,ruby,Ruby programming,Enumerate your enums,http://blog.testdouble.com/posts/2019-06-03-enumerate-your-enums
+235,Lobsters,ruby,Ruby programming,Checking user passwords against the Have I Been Pwned list offline,https://github.com/DanielHeath/has_unpublished_password
+236,Lobsters,ruby,Ruby programming,Rails are a cult,https://artur-martsinkovskyi.github.io/2019/rails-are-a-cult/
+237,Lobsters,ruby,Ruby programming,Inline Editing Records,https://www.driftingruby.com/episodes/inline-editing-records
+238,Lobsters,ruby,Ruby programming,b - a hidden method from Ruby string class,https://prathamesh.tech/2019/06/02/b-a-hidden-method-from-ruby-string-class.html
+239,Lobsters,ruby,Ruby programming,Object equality in Ruby,https://medium.com/rubycademy/object-equality-in-ruby-667f00c40194
+240,Lobsters,ruby,Ruby programming,From capybara-webkit to Headless Chrome and ChromeDriver,http://www.imaginarycloud.com/blog/from-capybara-webkit-to-headless-chrome-and-chromedriver/
+241,Lobsters,ruby,Ruby programming,Understanding how Ruby initializes objects,https://www.prathamesh.tech/2019/05/26/understanding-how-ruby-initializes-objects.html
+242,Lobsters,ruby,Ruby programming,Measuring Rails Overhead,http://engineering.appfolio.com/appfolio-engineering/2019/4/27/measuring-rails-overhead
+243,Lobsters,ruby,Ruby programming,A Modular RuboCop,http://metaredux.com/posts/2019/05/22/a-modular-rubocop.html
+244,Lobsters,ruby,Ruby programming,Regain control of branches with git rebase --onto,https://headway.io/blog/regain-control-of-branches-with-git-rebase-onto/
+245,Lobsters,ruby,Ruby programming,Automating Postgres Indexing with Dexter & HypoPG,https://headway.io/blog/automating-postgres-indexing-with-dexter-and-hypopg/
+246,Lobsters,ruby,Ruby programming,Weird Ruby: Positive and Negative Strings,http://metaredux.com/posts/2019/05/10/weird-ruby-positive-and-negative-strings.html
+247,Lobsters,ruby,Ruby programming,A Guide to Function Composition in Ruby,https://www.ghostcassette.com/function-composition-in-ruby/
+248,Lobsters,ruby,Ruby programming,Up the Ancestor Chain with method_missing,https://blog.appsignal.com/2019/05/07/method-missing.html
+249,Lobsters,ruby,Ruby programming,“The Tie Between Ruby and Rust.”,https://github.com/danielpclark/rutie
+250,Lobsters,ruby,Ruby programming,RubyKaigi and the Path to Ruby 3,http://developer.squareup.com/blog/rubykaigi-and-the-path-to-ruby-3
+251,Lobsters,ruby,Ruby programming,Nested Forms from Scratch with StimulusJS,https://www.driftingruby.com/episodes/nested-forms-from-scratch-with-stimulusjs
+252,Lobsters,ruby,Ruby programming,How to do reproducible research in Ruby with gKnit,https://medium.com/@rodrigo.a.botafogo/how-to-do-reproducible-research-in-ruby-with-gknit-c26d2684d64e
+253,Lobsters,ruby,Ruby programming,Super Graph an instant GraphQL API service in Go,https://www.youtube.com/watch?v=TGq9wJAj78I
+254,Lobsters,ruby,Ruby programming,The RSpec Style Guide: Reloaded,http://metaredux.com/posts/2019/04/26/rspec-style-guide-reloaded.html
+255,Lobsters,ruby,Ruby programming,SimpleHash,https://localhostdotdev.com/simple_hash
+256,Lobsters,ruby,Ruby programming,Ruby 3 to have optional static type annotations,https://twitter.com/darkdimius/status/1119115657776209920
+257,Lobsters,ruby,Ruby programming,State of Sorbet: A Type Checker for Ruby,https://sorbet.run/talks/RubyKaigi2019/#/
+258,Lobsters,ruby,Ruby programming,Ruby 2.7 Pattern Matching: First Impressions,https://medium.com/@baweaver/ruby-2-7-pattern-matching-first-impressions-cdb93c6246e6
+259,Lobsters,ruby,Ruby programming,Interview with Frank Rietta on Security,https://www.driftingruby.com/episodes/interview-with-frank-rietta
+260,Lobsters,ruby,Ruby programming,Cute Ruby Idiom 2: Paranoid Hashes,/s/jr2c2o/cute_ruby_idiom_2_paranoid_hashes
+261,Lobsters,ruby,Ruby programming,Parsing a DSL in Ruby in less than 30 LoC,https://medium.com/@farsi_mehdi/parsing-a-dsl-in-ruby-in-less-that-30-loc-2c651a3f2e19
+262,Lobsters,ruby,Ruby programming,quick scan through lobsters's source code,https://localhostdotdev.com/lobsters/
+263,Lobsters,ruby,Ruby programming,Bootstrap Sass Backdoor,http://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html
+264,Lobsters,ruby,Ruby programming,RSpec mocks and stubs in plain English,https://www.codewithjason.com/rspec-mocks-stubs-plain-english/
+265,Lobsters,ruby,Ruby programming,Dockerizing a Rails application,https://iridakos.com/tutorials/2019/04/07/dockerizing-a-rails-application.html
+266,Lobsters,ruby,Ruby programming,Building Git with James Coglan,https://www.techdoneright.io/59
+267,Lobsters,ruby,Ruby programming,Creating a chat application from scratch using Rails and WebSockets,https://iridakos.com/tutorials/2019/04/04/creating-chat-application-rails-websockets.html
+268,Lobsters,ruby,Ruby programming,Introduction to Kubernetes,https://www.driftingruby.com/episodes/introduction-to-kubernetes
+269,Lobsters,ruby,Ruby programming,Database seeding task uses inline Active Job adapter in Rails 6,https://blog.bigbinary.com/2019/04/03/database-seeding-task-uses-inline-active-job-adapter-in-rails-6.html
+270,Lobsters,ruby,Ruby programming,My favorite parts of Ruby,https://ilyabylich.svbtle.com/my-favorite-parts-of-ruby
+271,Lobsters,ruby,Ruby programming,Ruby's Creed,http://metaredux.com/posts/2019/04/02/ruby-s-creed.html
+272,Lobsters,ruby,Ruby programming,Cute Ruby Idiom: Recursive Default Proc for Hash Deafults,/s/ahswuf/cute_ruby_idiom_recursive_default_proc
+273,Lobsters,ruby,Ruby programming,"React-style components written in Ruby, running on the client via WebAssembly",https://twitter.com/widdnz/status/1112937763383308289
+274,Lobsters,ruby,Ruby programming,Why I miss Rails,https://chanind.github.io/rails/2019/03/28/why-i-miss-rails.html
+275,Lobsters,ruby,Ruby programming,How to Access Production Data in Rails Migrations,https://www.gregnavis.com/articles/how-to-access-production-data-in-rails-migrations.html
+276,Lobsters,ruby,Ruby programming,Helix: Improve the Performance of Rails with Rust,https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/
+277,Lobsters,ruby,Ruby programming,Why MiniTest is way better than RSpec,https://www.codementor.io/azbshiri/why-minitest-is-way-better-than-rspec-tbn19bp3u
+278,Lobsters,ruby,Ruby programming,Ruby 2.7 - Numbered Parameters,https://medium.com/@baweaver/ruby-2-7-numbered-parameters-3f5c06a55fe4
+279,Lobsters,ruby,Ruby programming,Function/Method look up in Elixir/Ruby,https://dev.to/edisonywh/functionmethod-look-up-in-elixirruby-622
+280,Lobsters,ruby,Ruby programming,Generating a Gopher site with Hugo,https://jfm.carcosa.net/blog/computing/hugo-gopher/
+281,Lobsters,ruby,Ruby programming,Analysis for CVE-2019-5418 File Content Disclosure on Rails,https://chybeta.github.io/2019/03/16/Analysis-for【CVE-2019-5418】File-Content-Disclosure-on-Rails/
+282,Lobsters,ruby,Ruby programming,Interview with Jesus Castello,https://www.driftingruby.com/episodes/interview-with-jesus-castello
+283,Lobsters,ruby,Ruby programming,Scaffold Ruby applications effortlessly with create-ruby-app,/s/s4gusj/scaffold_ruby_applications
+284,Lobsters,ruby,Ruby programming,What causes Ruby memory bloat?,https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html
+285,Lobsters,ruby,Ruby programming,Lamby - Simple Rails & AWS Lambda Integration using Rack,https://technology.customink.com/blog/2019/03/13/rails-on-aws-lambda-with-sam/
+286,Lobsters,ruby,Ruby programming,Guardian - Poor man's basic authentication,https://github.com/azbshiri/guardian
+287,Lobsters,ruby,Ruby programming,Class comparison in Ruby (2014),https://taylor.fausak.me/2014/05/24/class-comparison-in-ruby/
+288,Lobsters,ruby,Ruby programming,RubyGems March 2019 Security Advisories,http://blog.rubygems.org/2019/03/05/security-advisories-2019-03.html
+289,Lobsters,ruby,Ruby programming,Debugging in RubyBusting a Year-old Bug in Sprockets,https://blog.heroku.com/debugging-year-old-sprockets-bug
+290,Lobsters,ruby,Ruby programming,What's New in Rails 6,https://www.driftingruby.com/episodes/what-s-new-in-rails-6
+291,Lobsters,ruby,Ruby programming,Visual trace showing how Rails responds to a request,https://rails-trace.chriszetter.com/
+292,Lobsters,ruby,Ruby programming,Rails 6 unnoticed features,https://drivy.engineering/rails-6-unnoticed-features/
+293,Lobsters,ruby,Ruby programming,Ruby is a Multi-paradigm programming language,https://medium.com/@farsi_mehdi/ruby-is-a-multi-paradigm-programming-language-49c8bc5fca80
+294,Lobsters,ruby,Ruby programming,Moving from Ruby to Rust,https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
+295,Lobsters,ruby,Ruby programming,Why Ruby is an acceptable LISP (2005),http://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/
+296,Lobsters,ruby,Ruby programming,How network programming is represented in Ruby,https://medium.com/@farsi_mehdi/how-network-programming-is-represented-in-ruby-bed554256648
+297,Lobsters,ruby,Ruby programming,How to Protect Individual Resources with Passwords Using Vanilla Rails,https://www.gregnavis.com/articles/how-to-protect-individual-resources-with-passwords.html
+298,Lobsters,ruby,Ruby programming,Avoiding Junk-Drawer Classes in Ruby,https://blog.honeybadger.io/avoiding-junk-drawer-classes/
+299,Lobsters,ruby,Ruby programming,Inheritance on-the-fly with Ruby on Rails,https://medium.com/@farsi_mehdi/inheritance-on-the-fly-with-ruby-on-rails-51f26400781e
+300,Lobsters,ruby,Ruby programming,"Active Record, Sidekiq, pools and threads",https://medium.com/appaloosa-store-engineering/active-record-sidekiq-pools-and-threads-8b11da0c082f
+301,Lobsters,ruby,Ruby programming,The Enumerable module in Ruby: Part I,https://medium.com/rubycademy/the-enumerable-module-in-ruby-part-i-745d561cfebf
+302,Lobsters,ruby,Ruby programming,What the RegEx?,https://www.driftingruby.com/episodes/what-the-regex
+303,Lobsters,ruby,Ruby programming,Create idempotent data migrations,https://medium.com/@ali_11036/create-idempotent-data-migrations-fc5159a449ba
+304,Lobsters,ruby,Ruby programming,Using the Find module to count the LOC of a Rails application,https://medium.com/rubycademy/using-the-find-module-to-count-the-loc-of-a-rails-application-2ec5ca7b1ea6
+305,Lobsters,ruby,Ruby programming,Announcing Hanami v2.0.0.alpha1,http://hanamirb.org/blog/2019/01/30/announcing-hanami-200alpha1.html
+306,Lobsters,ruby,Ruby programming,ValueSemantics—A Gem for Making Value Classes,http://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/
+307,Lobsters,ruby,Ruby programming,Requiring a file or library in Ruby,https://medium.com/rubycademy/requiring-a-file-or-library-in-ruby-29f99e5e2c6a
+308,Lobsters,ruby,Ruby programming,How ActionCable broke Puma,https://medium.com/@plezi_io/how-actioncable-broke-puma-fcfeceac33b0
+309,Lobsters,ruby,Ruby programming,Better Acceptance Tests with Page Objects,https://robots.thoughtbot.com/better-acceptance-tests-with-page-objects
+310,Lobsters,ruby,Ruby programming,The State of Background Jobs in 2019,https://kirshatrov.com/2019/01/03/state-of-background-jobs/
+311,Lobsters,ruby,Ruby programming,Ruby on Rails 6.0 Beta 1 Deprecations,https://blog.driftingruby.com/ruby-on-rails-6-0-beta-1-deprecations/
+312,Lobsters,ruby,Ruby programming,Dynamic ActiveRecord columns,https://engineering.culturehq.com/posts/2019-01-18-dynamic-activerecord-columns
+313,Lobsters,ruby,Ruby programming,The autoload Method in Ruby,https://medium.com/rubycademy/the-autoload-method-in-ruby-11fd079562ef
+314,Lobsters,ruby,Ruby programming,Understanding the Eigenclass in less than 5 minutes,https://medium.com/rubycademy/understanding-the-eigenclass-in-less-than-5-minutes-dcb8ca223eb4
+315,Lobsters,ruby,Ruby programming,How to Reduce Test Interference in Minitest,https://www.gregnavis.com/articles/how-to-reduce-test-interference-in-minitest.html
+316,Lobsters,ruby,Ruby programming,How to make Beautiful Ruby Plots with Galaaz,https://medium.freecodecamp.org/how-to-make-beautiful-ruby-plots-with-galaaz-320848058857
+317,Lobsters,ruby,Ruby programming,The Complete Guide to Create a Copy of an Object in Ruby: Part II,https://medium.com/rubycademy/the-complete-guide-to-create-a-copy-of-an-object-in-ruby-part-ii-cd28a99d58d9
+318,Lobsters,ruby,Ruby programming,Using Action Text in a Rails 5.2 Application,https://www.driftingruby.com/episodes/using-action-text-in-a-rails-5-2-application
+319,Lobsters,ruby,Ruby programming,Numbering Model Copies in Rails Using Enumerators,https://www.gregnavis.com/articles/numering-copies-using-enumerators.html
+320,Lobsters,ruby,Ruby programming,The Complete Guide to Create a Copy of an Object in Ruby: Part I,https://medium.com/rubycademy/the-complete-guide-to-create-a-copy-of-an-object-in-ruby-part-i-91be8b9daafd
+321,Lobsters,ruby,Ruby programming,4 interesting examples using operator precedence in Ruby,https://medium.com/rubycademy/4-interesting-examples-of-high-precedences-operations-in-ruby-bd9e49dba52b
+322,Lobsters,ruby,Ruby programming,A ruby gem for generating log symbols,https://github.com/palash25/log-symbols
+323,Lobsters,ruby,Ruby programming,"A fluent, easy-to-use, object oriented Ruby HTTP/REST",https://github.com/gojektech/wrest
+324,Lobsters,ruby,Ruby programming,Ruby 2.6.0 Released,https://www.ruby-lang.org/en/news/2018/12/25/ruby-2-6-0-released/
+325,Lobsters,ruby,Ruby programming,2018: Review of a year of blogging about Ruby,https://medium.com/@farsi_mehdi/2018-a-year-of-blogging-about-ruby-526a44a67491
+326,Lobsters,ruby,Ruby programming,Kubernetes on Rails - A premium training course on deploying Rails applications using Kubernetes,https://kubernetesonrails.com
+327,Lobsters,ruby,Ruby programming,Setting up Ruby on Rails Development Environment on Mojave 10.14.2,https://blog.driftingruby.com/setting-up-ruby-on-rails-development-environment-on-mojave-10-14-2/
+328,Lobsters,ruby,Ruby programming,How to Reduce Memory Usage by Tuning Gemfile,https://www.gregnavis.com/articles/how-to-reduce-memory-usage-by-tuning-gemfile.html
+329,Lobsters,ruby,Ruby programming,RubyConf Rundown Pt. 1 – Brandon Weaver,https://medium.com/@baweaver/rubyconf-rundown-pt-1-f64d35ddaefd
+330,Lobsters,ruby,Ruby programming,mruby 2.0.0 released,https://mruby.org/releases/2018/12/11/mruby-2.0.0-released.html
+331,Lobsters,ruby,Ruby programming,Elixir/Unix style pipe operations in Ruby [proof of concept],https://github.com/LendingHome/pipe_operator
+332,Lobsters,ruby,Ruby programming,SOLID & Ruby in 5 short examples,https://medium.com/@farsi_mehdi/solid-ruby-in-5-short-examples-353ea22f9b05
+333,Lobsters,ruby,Ruby programming,Modules in Ruby: Part II,https://medium.com/@farsi_mehdi/modules-in-ruby-part-ii-41466945e810
+334,Lobsters,ruby,Ruby programming,Creating a Simple Slack Bot,https://www.driftingruby.com/episodes/creating-a-simple-slack-bot
+335,Lobsters,ruby,Ruby programming,modules in Ruby: Part I,https://medium.com/@farsi_mehdi/modules-in-ruby-part-i-a2cdfaccdb6e
+336,Lobsters,ruby,Ruby programming,Modulation - Explicit Dependency Management for Ruby,https://github.com/ciconia/modulation
+337,Lobsters,ruby,Ruby programming,Bundler is Built Into Ruby 2.6.0preview3,http://engineering.appfolio.com/appfolio-engineering/2018/11/26/bundler-is-built-into-ruby-260preview3
+338,Lobsters,ruby,Ruby programming,How to implement have_many/belong_to RSpec matchers,https://medium.com/@azbshiri/how-to-implement-have-many-belong-to-rspec-matchers-b7410668802f
+339,Lobsters,ruby,Ruby programming,ActiveFacts - Natural language schema definition with fact-based modelling,http://dataconstellation.com/ActiveFacts/examples/
+340,Lobsters,ruby,Ruby programming,The Value of Mutation Testing with Markus Schirp,https://engineering-management.space/post/consultant-interview-markus-schirp/
+341,Lobsters,ruby,Ruby programming,Ruby 3x3 and RubyConf Los Angeles,http://engineering.appfolio.com/appfolio-engineering/2018/11/19/rubyconf-los-angeles-and-ruby-3x3
+342,Lobsters,ruby,Ruby programming,Fibers are the Right Solution,https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solution/index
+343,Lobsters,ruby,Ruby programming,Reducing Enumerable  (Illustrated Novel Version),https://medium.com/@baweaver/reducing-enumerable-part-one-the-journey-begins-ddc1d4108490
+344,Lobsters,ruby,Ruby programming,"Exploring Ruby 2.6 — Enumerator, Hash, and Enumerable Changes",https://medium.com/square-corner-blog/exploring-ruby-2-6-enumerator-hash-and-enumerable-changes-11ffa4b12eb9
+345,Lobsters,ruby,Ruby programming,"Ruby memory, ActiveRecord and Draper",https://medium.com/appaloosa-store-engineering/ruby-memory-activerecord-and-draper-64f06abeeb34
+346,Lobsters,ruby,Ruby programming,Ruby 2.x Universal RCE Deserialization Gadget Chain,https://www.elttam.com.au/blog/ruby-deserialization/
+347,Lobsters,ruby,Ruby programming,Struct-uring your data,http://caiustheory.com/struct-uring-your-data/
+348,Lobsters,ruby,Ruby programming,4 ways to scale on Heroku,https://masteringheroku.substack.com/p/4-ways-to-scale-on-heroku
+349,Lobsters,ruby,Ruby programming,Local SSL for Rails 5 development and tests,https://rossta.net/blog/local-ssl-for-rails-5.html
+350,Lobsters,ruby,Ruby programming,Grab Bag of Ruby and Ruby on Rails Tricks,https://www.driftingruby.com/episodes/grab-bag-of-ruby-and-ruby-on-rails-tricks
+351,Lobsters,ruby,Ruby programming,Cookie-Based Token Storage with Doorkeeper,http://codingitwrong.com/2018/11/02/cookie-based-token-storage-with-doorkeeper.html
+352,Lobsters,ruby,Ruby programming,The super keyword in Ruby,https://medium.com/@farsi_mehdi/the-super-keyword-a75b67f46f05
+353,Lobsters,ruby,Ruby programming,Skip devise trackable module for API calls to avoid users table getting locked,https://blog.bigbinary.com/2018/10/30/skip-devise-trackable-module-for-api-calls.html
+354,Lobsters,ruby,Ruby programming,Ruby on Rails security mistakes folks are still making,https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02
+355,Lobsters,ruby,Ruby programming,Forms—Comparing Django to Rails,http://www.rubypigeon.com/posts/forms-comparing-django-to-rails/
+356,Lobsters,ruby,Ruby programming,Concurrent Ruby with Tasks,https://blog.drewolson.org/concurrent-ruby-with-tasks
+357,Lobsters,ruby,Ruby programming,The short guide to learning how Classes work in Ruby,https://medium.com/@farsi_mehdi/the-short-guide-to-learning-how-classes-work-in-ruby-40e101f86933
+358,Lobsters,ruby,Ruby programming,Summer School With The Rust Compiler,http://patshaughnessy.net/2018/10/24/summer-school-with-the-rust-compiler
+359,Lobsters,ruby,Ruby programming,Announcing: Our Online Learning Platform Upcase is Now Free,https://robots.thoughtbot.com/announcing-upcase-is-free
+360,Lobsters,ruby,Ruby programming,Why the Ruby community encourages Duck Typing,https://medium.com/@farsi_mehdi/why-ruby-community-encourages-duck-typing-2e5fb529fca1
+361,Lobsters,ruby,Ruby programming,Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store,https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store
+362,Lobsters,ruby,Ruby programming,Testing Ruby's CGI,https://www.mikeperham.com/2018/10/12/testing-rubys-cgi/
+363,Lobsters,ruby,Ruby programming,Evolution of Ruby String - from 1.8 to 2.5,https://medium.com/@farsi_mehdi/evolution-of-ruby-string-from-1-8-to-2-5-d47afd3505df
+364,Lobsters,ruby,Ruby programming,Pair With Me: Rubocop Cop that Detects Duplicate Array Allocations,https://schneems.com/2018/10/09/pair-with-me-rubocop-cop-that-detects-duplicate-array-allocations/
+365,Lobsters,ruby,Ruby programming,Please stop using Ruby,https://dev.to/jimsy/please-stop-using-ruby-4lf1
+366,Lobsters,ruby,Ruby programming,Service Objects for API Interactions with Twilio,https://www.driftingruby.com/episodes/service-objects-for-api-interactions-with-twilio
+367,Lobsters,ruby,Ruby programming,Metaprogramming for Generalists [EuRuKo 2018 talk transcript],https://dejimata.com/2018/8/23/transcript-of-my-euruko-2018-talk
+368,Lobsters,ruby,Ruby programming,Ruby Hash and Array Tips,https://medium.com/@farsi_mehdi/5-ruby-tips-you-probably-dont-know-76fee34cfd0c
+369,Lobsters,ruby,Ruby programming,Testing APIs in Ruby: An overview,https://blog.schembri.me/post/testing-apis-in-ruby-with-rspec/
+370,Lobsters,ruby,Ruby programming,Please Stop Abusing NotImplementedError [2016],http://chrisstump.online/2016/03/23/stop-abusing-notimplementederror/
+371,Lobsters,ruby,Ruby programming,A quick overview of what's a class in Ruby,https://www.youtube.com/watch?v=dL_44Tca-eI
+372,Lobsters,ruby,Ruby programming,The Singleton module in Ruby - Part II,https://medium.com/@farsi_mehdi/the-singleton-module-in-ruby-part-ii-91b74366dd00
+373,Lobsters,ruby,Ruby programming,Freeze Your Constants in Ruby,https://kineticdial.github.io/ruby_freeze_your_constants.html
+374,Lobsters,ruby,Ruby programming,Jon Rowe and Sam Phippen are RSpec's new leads,http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/
+375,Lobsters,ruby,Ruby programming,The Singleton module in Ruby - Part I,https://medium.com/@farsi_mehdi/the-singleton-module-in-ruby-part-i-7a26de39319d
+376,Lobsters,ruby,Ruby programming,The ENV object in Ruby,https://medium.com/@farsi_mehdi/the-env-object-6ffa6ed9a63c
+377,Lobsters,ruby,Ruby programming,The return Keyword in Ruby,https://medium.com/@farsi_mehdi/the-return-keyword-in-ruby-df0a7f578fcb
+378,Lobsters,ruby,Ruby programming,The nil value in Ruby,https://medium.com/@farsi_mehdi/the-nil-value-in-ruby-d60e6a3642b9
+379,Lobsters,ruby,Ruby programming,2 quick tips for IRB,https://medium.com/@farsi_mehdi/2-quick-tips-for-irb-360343bb8eb7
+380,Lobsters,ruby,Ruby programming,Alias in Ruby,https://medium.com/@farsi_mehdi/alias-in-ruby-bf89be245f69
+381,Lobsters,ruby,Ruby programming,Ruby Object Model: The book,https://www.kickstarter.com/projects/mehdifarsi/ruby-object-model-the-book
+382,Lobsters,ruby,Ruby programming,Rubygems.org: Upgrading Rails to 5.2,https://td0.io/posts/2018-09-11-rubygems-upgrading-rails.html
+383,Lobsters,ruby,Ruby programming,The redo Keyword in Ruby,https://medium.com/@farsi_mehdi/the-redo-keyword-in-ruby-3f150d69e3c2
+384,Lobsters,ruby,Ruby programming,Understanding Transducers in Ruby,https://medium.com/@baweaver/understanding-transducers-in-ruby-209766372c39
+385,Lobsters,ruby,Ruby programming,Refinement in Ruby: Part I,https://medium.com/@farsi_mehdi/refine-and-using-methods-in-ruby-part-i-2aef6d7a4325
+386,Lobsters,ruby,Ruby programming,These Are Not the K Combinators You Are Looking For,http://memerocket.com/2017/05/25/these-are-not-the-k-combinators-you-are-looking-for
+387,Lobsters,ruby,Ruby programming,Rails Presenters,https://www.driftingruby.com/episodes/rails-presenters
+388,Lobsters,ruby,Ruby programming,Symbol in Ruby,https://medium.com/@farsi_mehdi/symbol-in-ruby-daca5abd4ab2
+389,Lobsters,ruby,Ruby programming,Lobste.rs: Upgrading Rails to 5.2,https://td0.io/posts/2018-08-21-lobsters-upgrading-rails.html
+390,Lobsters,ruby,Ruby programming,Private & Protected in Ruby,https://medium.com/@farsi_mehdi/private-protected-a-matter-of-message-1a88b10acbf2
+391,Lobsters,ruby,Ruby programming,Production Ready Microservices at Scale in Ruby,https://www.youtube.com/watch?v=SJpKo2hz6ws
+392,Lobsters,ruby,Ruby programming,Node.js or Ruby on Rails: which is better?,https://www.imaginarycloud.com/blog/node-vs-rails/
+393,Lobsters,ruby,Ruby programming,The autoload method in Ruby,https://medium.com/@farsi_mehdi/the-autoload-method-in-ruby-11fd079562ef
+394,Lobsters,ruby,Ruby programming,Micro-Optimising in JRuby,https://hur.st/blog/2018/08-26-micro-optimising-jruby/
+395,Lobsters,ruby,Ruby programming,The Yield Keyword in Ruby,https://medium.com/@farsi_mehdi/the-yield-keyword-603a850b8921
+396,Lobsters,ruby,Ruby programming,OpenStruct in Ruby,https://medium.com/@farsi_mehdi/openstruct-in-ruby-ab6ba3aff9a4
+397,Lobsters,ruby,Ruby programming,Ruby's Bitwise Operators,https://medium.com/@farsi_mehdi/ruby-bitwise-operators-da57763fa368
+398,Lobsters,ruby,Ruby programming,Struct in Ruby,https://medium.com/@farsi_mehdi/struct-in-ruby-cac1c7514517
+399,Lobsters,ruby,Ruby programming,Metaprogramming: RUBY HOOK METHODS,https://medium.com/@farsi_mehdi/metaprogramming-ruby-hook-methods-25b279042be5
+400,Lobsters,ruby,Ruby programming,Numbers and Class Hierarchy in Ruby,https://medium.com/rubyinside/numbers-and-class-hierarchy-in-ruby-8c93c4749316
+401,Lobsters,ruby,Ruby programming,Error Handling in Ruby: Part II,https://medium.com/@farsi_mehdi/error-handling-in-ruby-part-ii-f26c6a575c68
+402,Lobsters,ruby,Ruby programming,Context Binding in Ruby,https://medium.com/@farsi_mehdi/context-binding-in-ruby-fa118ea62269
+403,Lobsters,ruby,Ruby programming,Spiking Out a GUI Employee Time Clock with Tk and Square's API,https://medium.com/square-corner-blog/spiking-out-a-gui-employee-time-clock-914a50e465b6
+404,Lobsters,ruby,Ruby programming,Three hundred tasks from interviews. You can stretch your brains out a little,https://www.interviewbit.com/all-problem-list/
+405,Lobsters,ruby,Ruby programming,Changing the Way Ruby Creates Objects,https://blog.appsignal.com/2018/08/07/ruby-magic-changing-the-way-ruby-creates-objects.html
+406,Lobsters,ruby,Ruby programming,Improving Partial Loading Performance,https://www.driftingruby.com/episodes/improving-partial-loading-performance
+407,Lobsters,ruby,Ruby programming,Trolling In Ruby - Implementing JavaScript-like Maths With Implicit Conversion Hijacking,https://karolgalanciak.com/blog/2018/07/29/trolling-in-ruby-implementing-javascript-like-maths-with-implicit-conversion-hijacking
+408,Lobsters,ruby,Ruby programming,Creating “Reducing Enumerable — An Illustrated Adventure”,https://medium.com/@baweaver/creating-reducing-enumerable-an-illustrated-adventure-c6adfcc30d5b
+409,Lobsters,ruby,Ruby programming,Keeping Your Secrets Hidden,https://www.smoothterminal.com/articles/keeping-your-secrets-hidden
+410,Lobsters,ruby,Ruby programming,Fastcat - A Faster `cat` Implementation Using Splice,https://matthias-endler.de/2018/fastcat/
+411,Lobsters,ruby,Ruby programming,Ruby on Rails: send emails with style,http://www.imaginarycloud.com/blog/rails-send-emails-with-style/
+412,Lobsters,ruby,Ruby programming,rutie: A bridge betweeh ruby and rust,https://github.com/danielpclark/rutie
+413,Lobsters,ruby,Ruby programming,"Python vs. Ruby: A Battle to The Death (Gary Bernhardt, 2010)",https://vimeo.com/9471538
+414,Lobsters,ruby,Ruby programming,The 500.000$ release - mruby.sh,https://blog.mruby.sh/201703261726.html
+415,Lobsters,ruby,Ruby programming,Escaping the SPA rabbit hole with modern Rails,https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c
+416,Lobsters,ruby,Ruby programming,TestProf: a good doctor for slow Ruby tests,https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests
+417,Lobsters,ruby,Ruby programming,Embedding ACL2 Models in End-User Applications (2013),http://www.cs.utexas.edu/users/jared/publications/2013-doform-embedding/embedding.pdf
+418,Lobsters,ruby,Ruby programming,Editors,https://www.driftingruby.com/episodes/editors
+419,Lobsters,ruby,Ruby programming,Unbounded Data Model Verification Using SMT Solvers (2012),http://www.cs.ucsb.edu/~bultan/publications/ase12.pdf
+420,Lobsters,ruby,Ruby programming,H2O version 2.3.0-beta1 released,http://blog.kazuhooku.com/2018/06/h2o-version-230-beta1-released.html
+421,Lobsters,ruby,Ruby programming,When should you use DateTime and when should you use Time? (2015),https://gist.github.com/pixeltrix/e2298822dd89d854444b
+422,Lobsters,ruby,Ruby programming,How not to structure your database-backed web applications: a study of performance bugs in the wild,https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+423,Lobsters,ruby,Ruby programming,How to implement a basic ActivityPub server,https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/
+424,Lobsters,ruby,Ruby programming,Challenge - Table of Contents Generator,https://medium.com/square-corner-blog/challenge-table-of-contents-generator-c99171fde831
+425,Lobsters,ruby,Ruby programming,Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760),https://blog.heroku.com/rails-asset-pipeline-vulnerability
+426,Lobsters,ruby,Ruby programming,Making Tests Go Faster,https://ryanbigg.com/2018/06/making-tests-go-faster
+427,Lobsters,ruby,Ruby programming,Elixir at PagerDuty,https://www.pagerduty.com/blog/elixir-at-pagerduty/
+428,Lobsters,ruby,Ruby programming,Next generation template/markup language for fans of Haml and Markdown,https://github.com/inem/hamdown?
+429,Lobsters,ruby,Ruby programming,Applications of Lambda in Ruby,http://jetrockets.pro/blog/lambda
+430,Lobsters,ruby,Ruby programming,Low Overhead Polling For Ruby,http://chrisseaton.com/truffleruby/low-overhead-polling/
+431,Lobsters,ruby,Ruby programming,Hidden jewels of Ruby stdlib,http://katafrakt.me//2018/06/06/hidden-jewels-ruby-stdlib/
+432,Lobsters,ruby,Ruby programming,Improving Ruby Concurrency,https://www.codeotaku.com/journal/2018-06/improving-ruby-concurrency/index
+433,Lobsters,ruby,Ruby programming,A Guide for Web Automation Testing With Ruby Cucumber And Watir,http://www.agiratech.com/web-automation-testing-with-ruby-cucumber-watir/
+434,Lobsters,ruby,Ruby programming,Improving Ruby Fibers,https://www.codeotaku.com/journal/2018-06/improving-ruby-fibers/index
+435,Lobsters,ruby,Ruby programming,User Notifications,https://www.driftingruby.com/episodes/user-notifications
+436,Lobsters,ruby,Ruby programming,Playing with ruby's new JIT: MJIT,https://www.johnhawthorn.com/2018/02/playing-with-ruby-jit-mjit/
+437,Lobsters,ruby,Ruby programming,Http.rb is Great,http://twin.github.io/httprb-is-great/
+438,Lobsters,ruby,Ruby programming,An analysis of memory bloat in Active Record 5.2,https://samsaffron.com/archive/2018/06/01/an-analysis-of-memory-bloat-in-active-record-5-2
+439,Lobsters,ruby,Ruby programming,Railway Oriented programming in Ruby: do notation vs dry-transaction,https://www.morozov.is/2018/05/27/do-notation-ruby.html
+440,Lobsters,ruby,Ruby programming,Sorbet Playground,https://sorbet.run/
+441,Lobsters,ruby,Ruby programming,Using Skylight to Solve Real-World Performance Problems [Part III: Code Triage],http://blog.skylight.io/using-skylight-to-solve-real-world-performance-problems-part-3-code-triage/
+442,Lobsters,ruby,Ruby programming,Arel with Wharel,https://dejimata.com/2018/5/30/arel-with-wharel
+443,Lobsters,ruby,Ruby programming,The NOR Machine,https://pragprog.com/magazines/2012-03/the-nor-machine
+444,Lobsters,ruby,Ruby programming,Do we need dependency injection in Ruby?,http://blog.testdouble.com/posts/2018-05-17-do-we-need-dependency-injection-in-ruby
+445,Lobsters,ruby,Ruby programming,Securing Dependencies for Rails 5.2 Active Storage,https://blog.heroku.com/security-rails-active-storage
+446,Lobsters,ruby,Ruby programming,How to mitigate DDoS using Rack::Attack,https://blog.bigbinary.com/2018/05/15/how-to-mitigate-ddos-using-rack-attack.html
+447,Lobsters,ruby,Ruby programming,Ruby’s New Exception Keyword Arguments,https://medium.com/square-corner-blog/rubys-new-exception-keyword-arguments-4d5bbb504d37
+448,Lobsters,ruby,Ruby programming,Functional Programming in Ruby — State,https://medium.com/@baweaver/functional-programming-in-ruby-state-5e55d40b4e67
+449,Lobsters,ruby,Ruby programming,"Rails 5.2 Active Storage: Previews, Poppler, and Solving Licensing Pitfalls",https://blog.heroku.com/rails-active-storage
+450,Lobsters,ruby,Ruby programming,Ruby on Rails Development with Microsoft Windows 10,https://www.driftingruby.com/episodes/ruby-on-rails-development-with-microsoft-windows-10
+451,Lobsters,ruby,Ruby programming,New Class Naming Rules in Ruby,https://medium.com/square-corner-blog/new-class-naming-rules-in-ruby-bb3b45150c37
+452,Lobsters,ruby,Ruby programming,Ruby MethodFinder is still alive,https://citizen428.net/ruby-methodfinder-is-still-alive-257d0358a823
+453,Lobsters,ruby,Ruby programming,Ruby’s Rack Push: Decoupling the real-time web application from the web,https://bowild.wordpress.com/2018/05/01/rubys-rack-push-decoupling-the-real-time-web-application-from-the-web/
+454,Lobsters,ruby,Ruby programming,How to Implement a Ruby Hash like Grammar in Parslet,https://www.schneems.com/2018/04/30/how-to-implement-a-ruby-hash-like-grammar-in-parslet/
+455,Lobsters,ruby,Ruby programming,slacktyping: script that shows as typing when others are on slack,https://github.com/will/slacktyping
+456,Lobsters,ruby,Ruby programming,Taming Rails memory bloat,https://www.mikeperham.com/2018/04/25/taming-rails-memory-bloat/
+457,Lobsters,ruby,Ruby programming,Rails Hosting Survey 2018,http://rails-hosting.com/2018/
+458,Lobsters,ruby,Ruby programming,Proposal for Ruby pattern matching,https://bugs.ruby-lang.org/issues/14709
+459,Lobsters,ruby,Ruby programming,Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them),https://rollbar.com/blog/top-10-ruby-on-rails-errors/
+460,Lobsters,ruby,Ruby programming,Ruby Coordinator Processes for Fork Servers,http://engineering.appfolio.com/appfolio-engineering/2018/4/20/ruby-coordinators-and-process-groups-for-worker-processes
+461,Lobsters,ruby,Ruby programming,Ruby Concepts - Singleton Classes,https://dev.to/rpalo/ruby-concepts---singleton-classes-oeb
+462,Lobsters,ruby,Ruby programming,Why I'm declining funding from Ruby Together,https://samphippen.com/why-im-declining-funding-from-ruby-together/
+463,Lobsters,ruby,Ruby programming,Ruby’s New Infinite Range Syntax: (0..),https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270
+464,Lobsters,ruby,Ruby programming,Full text searching Linux man pages with Elasticsearch,https://iridakos.com/tutorials/2018/04/12/elasticsearch-linux-man-pages.html
+465,Lobsters,ruby,Ruby programming,Faster Unit Testing in a Legacy JRuby on Rails App,https://www.promptworks.com/blog/faster-unit-tests-for-legacy-jruby-rails-apps
+466,Lobsters,ruby,Ruby programming,Humming along - Analyzing RubyGems stats for 2017,https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2017
+467,Lobsters,ruby,Ruby programming,Separating Data and Code in Rails Architecture,https://medium.com/root-engineering/separating-data-and-code-in-rails-architecture-3a031e17706b
+468,Lobsters,ruby,Ruby programming,How I've Built a Profitable Slack Bot as a Side Project in Rails,https://pawelurbanek.com/profitable-slack-bot-rails
+469,Lobsters,ruby,Ruby programming,Ruby 2.6 and Ahead-Of-Time Compilation,http://engineering.appfolio.com/appfolio-engineering/2018/4/3/ruby-26-and-ahead-of-time-compilation
+470,Lobsters,ruby,Ruby programming,"Rails 5.2.0 FINAL: Active Storage, Redis Cache Store, HTTP/2 Early Hints, CSP, Credentials",http://weblog.rubyonrails.org/2018/4/9/Rails-5-2-0-final/
+471,Lobsters,ruby,Ruby programming,Introduction - Ruby Reference,https://rubyreferences.github.io/rubyref/
+472,Lobsters,ruby,Ruby programming,String Similarity Algorithms Compared,https://medium.com/@appaloosastore/string-similarity-algorithms-compared-3f7b4d12f0ff
+473,Lobsters,ruby,Ruby programming,Ruby is alive and well and thinking about the next 25 years,https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years
+474,Lobsters,ruby,Ruby programming,Ruby PDF Rendering,https://docs.google.com/forms/d/e/1FAIpQLSeGe1XGkkFDQ1EezR6I3-8TYOiRxcGFKX0ze7afdTg45iWKkg/viewform
+475,Lobsters,ruby,Ruby programming,"More yield_self awesomeness - also, a new name proposed",https://zverok.github.io/blog/2018-03-23-yield_self2.html
+476,Lobsters,ruby,Ruby programming,Ruby Memory Usage Vocab Explained,http://daydreamsinruby.com/ruby-memory-usage-terms-explained/
+477,Lobsters,ruby,Ruby programming,Using elasticsearch in a Rails application,https://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial.html
+478,Lobsters,ruby,Ruby programming,ActiveRecord Tricks,https://www.driftingruby.com/episodes/activerecord-tricks
+479,Lobsters,ruby,Ruby programming,A New Ruby Application Server: NGINX Unit,https://www.speedshop.co/2018/03/28/nginx-unit-for-ruby.html
+480,Lobsters,ruby,Ruby programming,"Elapsed time with Ruby, the right way",https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way/
+481,Lobsters,ruby,Ruby programming,Benchmark Driver Designed for Ruby 3x3 – k0kubun,https://medium.com/@k0kubun/benchmark-driver-designed-for-ruby-3x3-6a5eeb1d1494
+482,Lobsters,ruby,Ruby programming,A guide to Ruby in ten lines of code,http://david.quotient.space/blog/2018/03/17/ruby-10/
+483,Lobsters,ruby,Ruby programming,AMP on Rails,https://making.dia.com/amp-on-rails-3f491a06ba3d
+484,Lobsters,ruby,Ruby programming,JSONify your Ruby Translations,https://dejimata.com/2018/3/20/jsonify-your-ruby-translations
+485,Lobsters,ruby,Ruby programming,"How to separate frontend + backend with Rails API, Nuxt.js and Devise-JWT",https://medium.com/@fishpercolator/how-to-separate-frontend-backend-with-rails-api-nuxt-js-and-devise-jwt-cf7dd9da9d16
+486,Lobsters,ruby,Ruby programming,Memoizing in Ruby,http://www.soulcutter.com/articles/memoizing-in-ruby.html
+487,Lobsters,ruby,Ruby programming,Step-by-step guide how to accept bitcoin in Rails website,https://gist.github.com/fishbullet/5583e09a17a22447efdc29bee495e322
+488,Lobsters,ruby,Ruby programming,An overview of Ruby GUI development in 2018,https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/
+489,Lobsters,ruby,Ruby programming,Solving CAPTCHAs with TensorFlow and Ruby,https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c
+490,Lobsters,ruby,Ruby programming,Bayesian Filter Performance in Ruby (2014),http://rurounijones.github.com/blog/2014/08/11/bayesian-filter-performance-in-ruby/
+491,Lobsters,ruby,Ruby programming,Rails is f*cking boring! I love it. (2017),https://medium.com/@timbuchwaldt/rails-is-boring-thats-great-f896e9ab2cb
+492,Lobsters,ruby,Ruby programming,The Local Variable Aversion Antipattern,http://www.soulcutter.com/articles/local-variable-aversion-antipattern.html
+493,Lobsters,ruby,Ruby programming,Why Hanami will never unseat Rails,https://boffinism.com/why-hanami-will-never-unseat-rails/
+494,Lobsters,ruby,Ruby programming,Ruby one liners,https://github.com/learnbyexample/Command-line-text-processing/blob/master/ruby_one_liners.md
+495,Lobsters,ruby,Ruby programming,Take the 2018 Ruby on Rails Survey,http://rails-hosting.com
+496,Lobsters,ruby,Ruby programming,My thoughts on Hanami,https://ryanbigg.com/2018/03/my-thoughts-on-hanami
+497,Lobsters,ruby,Ruby programming,Grpc Tutorial with ruby,http://GustavoCaso.github.io/2018/03/grpc-tutorial-with-ruby/
+498,Lobsters,ruby,Ruby programming,Encrypted Credentials in Rails 5.2,https://www.driftingruby.com/episodes/encrypted-credentials-in-rails-5-2
+499,Lobsters,ruby,Ruby programming,Julia Evans on building a Ruby profiler,https://www.recurse.com/events/localhost-julia-evans
+500,Lobsters,ruby,Ruby programming,Ruby Optimization with a Comment to Freeze Strings,https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/
+501,Lobsters,ruby,Ruby programming,Understanding Dijkstra's Algorithm,https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/
+502,Lobsters,ruby,Ruby programming,You probably don’t need an automatic admin framework,https://www.rorsvort.com/blog/2018/02/11/you-probably-don-t-need-an-automatic-admin-framework.html
+503,Lobsters,ruby,Ruby programming,A comparison of 5 different Rails dev environment on Windows 10,http://cs.mcgill.ca/~mxia3/2018/02/18/Five-different-Rails-development-environment-on-Windows-10-and-their-pros-and-cons/
+504,Lobsters,ruby,Ruby programming,The method JIT compiler for Ruby 2.6,https://medium.com/@k0kubun/the-method-jit-compiler-for-ruby-2-6-388ee0989c13
+505,Lobsters,ruby,Ruby programming,Ruby concurrency: building a timeout queue,https://vaneyckt.io/posts/ruby_concurrency_building_a_timeout_queue/
+506,Lobsters,ruby,Ruby programming,Ruby’s New JIT,https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10
+507,Lobsters,ruby,Ruby programming,When Rollback is not the Solution but the Problem,https://making.dia.com/when-rollback-is-not-the-solution-but-the-problem-25fa490e220a
+508,Lobsters,ruby,Ruby programming,Speeding up Ruby with Shared Strings,https://tenderlovemaking.com/2018/02/12/speeding-up-ruby-with-shared-strings.html
+509,Lobsters,ruby,Ruby programming,"Benchmarking Ruby's Heap: malloc, tcmalloc, jemalloc",http://engineering.appfolio.com/appfolio-engineering/2018/2/1/benchmarking-rubys-heap-malloc-tcmalloc-jemalloc
+510,Lobsters,ruby,Ruby programming,Comparing Persistent with Ecto and ActiveRecord,http://bitemyapp.com//posts/2017-10-06-persistent-ecto-activerecord.html
+511,Lobsters,ruby,Ruby programming,Announcing Skylight for Open Source!,http://blog.skylight.io/announcing-the-skylight-for-open-source-program/
+512,Lobsters,ruby,Ruby programming,Creating a simple GTK+ ToDo application with Ruby,https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby.html
+513,Lobsters,ruby,Ruby programming,Refinement Types in Ruby,https://nikivazou.github.io/static/VMCAI18/paper.pdf
+514,Lobsters,ruby,Ruby programming,Ruby on Rails - Tips and Tricks,https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks
+515,Lobsters,ruby,Ruby programming,Koichi Sasada — 1st Year at Cookpad Q & A,https://sourcediving.com/koichi-sasada-1st-year-at-cookpad-q-a-6cf8b2401ec2
+516,Lobsters,ruby,Ruby programming,Fast JSON API serialization with Ruby on Rails,https://medium.com/netflix-techblog/fast-json-api-serialization-with-ruby-on-rails-7c06578ad17f
+517,Lobsters,ruby,Ruby programming,yield_self is more awesome than you could think,http://zverok.github.io/blog/2018-01-24-yield_self.html
+518,Lobsters,ruby,Ruby programming,How Much Does Meltdown/Spectre Patching Slow Down a Big Rails App?,http://engineering.appfolio.com/appfolio-engineering/2018/1/4/rails-ruby-bench-cruby-and-meltdownspectre
+519,Lobsters,ruby,Ruby programming,Reducing Memory Usage in Ruby,https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html
+520,Lobsters,ruby,Ruby programming,The Modular Monolith: Rails Architecture,https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4
+521,Lobsters,ruby,Ruby programming,"Profiler week 3: refactoring, better testing, and an alpha release!",https://jvns.ca/blog/2018/01/22/profiler-week-3--refactoring--better-testing--and-an-alpha-release/
+522,Lobsters,ruby,Ruby programming,Upgrading a Rails application incrementally,http://www.recursion.org/incremental-rails-upgrade/
+523,Lobsters,ruby,Ruby programming,Dear Ruby (2): The Functional Inherited Hook,https://apotonick.wordpress.com/2018/01/18/dear-ruby-2-the-functional-inherited-hook/
+524,Lobsters,ruby,Ruby programming,Dear Ruby (1): What about Arguments when Inheriting?,https://apotonick.wordpress.com/2018/01/17/dear-ruby-1-what-about-arguments-when-inheriting/
+525,Lobsters,ruby,Ruby programming,Testing Vue.js in Rails with Webpacker and Jest,http://wyeworks.com/blog/2018/1/16/Testing-Vuejs-in-Rails-with-Webpacker-and-Jest
+526,Lobsters,ruby,Ruby programming,Rust with Ruby,http://mildlyinternet.com/code/rust-with-ruby.html
+527,Lobsters,ruby,Ruby programming,Tutorial: deploying a Rails app via AWS Fargate,http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate
+528,Lobsters,ruby,Ruby programming,Ruby on Rails 5.2.0 Changes and New Features,https://www.driftingruby.com/episodes/ruby-on-rails-5-2-0-changes-and-new-features
+529,Lobsters,ruby,Ruby programming,Ruby 2.5 enumerable predicates accept pattern argument,https://blog.bigbinary.com/2018/01/02/ruby-2-5-enumerable-predicates-accept-pattern-argument.html
+530,Lobsters,ruby,Ruby programming,Rails 5.2 adds bootsnap to the app to speed up boot time,https://blog.bigbinary.com/2018/01/01/rails-5-2-adds-bootsnap-to-the-app-to-speed-up-boot-time.html
+531,Lobsters,ruby,Ruby programming,New features in Ruby 2.5.0,http://wyeworks.com/blog/2017/12/28/new-features-in-ruby-2-dot-5-0
+532,Lobsters,ruby,Ruby programming,Whats new in Ruby 2.5,https://blog.redpanthers.co/whats-new-ruby-2-5/
+533,Lobsters,ruby,Ruby programming,Ruby 2.5.0 Released,https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/
+534,Lobsters,ruby,Ruby programming,How are Ruby's headers different from Python's headers?,https://jvns.ca/blog/2017/12/20/how-are-ruby-s-headers-different-from-python-s-headers-/
+535,Lobsters,ruby,Ruby programming,How often do Ruby's stack struct definitions change?,https://jvns.ca/blog/2017/12/19/how-much-does-the-ruby-abi-change-/
+536,Lobsters,ruby,Ruby programming,Ruby Users: Be Wary of Net::HTTP,https://engineering.wework.com/ruby-users-be-wary-of-net-http-f284747288b2
+537,Lobsters,ruby,Ruby programming,How do Ruby & Python profilers work?,https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/
+538,Lobsters,ruby,Ruby programming,Store Your Files on S3 Using the Ruby Shrine Gem: Part 2 - Direct File Uploads,https://www.ironin.it/blog/store-your-files-on-s3-using-the-ruby-shrine-gem-part-2.html
+539,Lobsters,ruby,Ruby programming,Jekyll on Heroku,https://blog.heroku.com/jekyll-on-heroku
+540,Lobsters,ruby,Ruby programming,"Surprises with Nested Transactions, Rollbacks and ActiveRecord",https://pragtob.wordpress.com/2017/12/12/surprises-with-nested-transactions-rollbacks-and-activerecord/
+541,Lobsters,ruby,Ruby programming,10 More New Features in Ruby v2.5,https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/
+542,Lobsters,ruby,Ruby programming,Where do Rubyists go? (Survey about programming languages Ruby programmers are interested in),https://goo.gl/forms/fGzgRPTymQMzu3eu1
+543,Lobsters,ruby,Ruby programming,Malloc Can Double Multi-threaded Ruby Program Memory Usage,https://www.speedshop.co/2017/12/04/malloc-doubles-ruby-memory.html
+544,Lobsters,ruby,Ruby programming,Episode 108 - Tracking Errors with Sentry,https://www.driftingruby.com/episodes/tracking-errors-with-sentry
+545,Lobsters,ruby,Ruby programming,Event Sourcing is a transferable skill,https://blog.arkency.com/event-sourcing-is-a-transferable-skill/
+546,Lobsters,ruby,Ruby programming,Taking a sabbatical to work on Ruby profiling tools,https://jvns.ca/blog/2017/12/02/taking-a-sabbatical-to-work-on-ruby-profiling-tools/
+547,Lobsters,ruby,Ruby programming,Introduction to parser combinators,https://blog.jcoglan.com/2017/07/06/introduction-to-parser-combinators/?
+548,Lobsters,ruby,Ruby programming,Ruby 2.5 added delete_prefix and delete_suffix methods,https://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html
+549,Lobsters,ruby,Ruby programming,How to receive and respond to text messages in Ruby with Hanami and Twilio,https://www.twilio.com/blog/2017/11/how-to-receive-and-respond-to-text-messages-in-ruby-with-hanami-and-twilio.html
+550,Lobsters,ruby,Ruby programming,Session-only cookie corruption in Ruby web apps,https://perlkour.pl/2017/11/ruby-cookie-corruption/
+551,Lobsters,ruby,Ruby programming,Observers in Padrino,https://wikimatze.de/observers-in-padrino/
+552,Lobsters,ruby,Ruby programming,Switching from 1Password to Bitwarden,https://jcs.org/2017/11/17/bitwarden
+553,Lobsters,ruby,Ruby programming,Instrumenting Ruby Methods,http://www.soulcutter.com/articles/instrumenting-ruby-methods.html
+554,Lobsters,ruby,Ruby programming,WTF is a Source Map,https://www.schneems.com/2017/11/14/wtf-is-a-source-map/
+555,Lobsters,ruby,Ruby programming,Cleaning up locally installed Rubies & Gems,http://caiustheory.com/cleaning-up-locally-installed-rubies--gems/
+556,Lobsters,ruby,Ruby programming,Visitor pattern and double dispatch in ruby,https://blog.bigbinary.com/2013/07/07/visitor-pattern-and-double-dispatch.html
+557,Lobsters,ruby,Ruby programming,80% Smaller Rails Page Size With Rack Deflate,https://www.schneems.com/2017/11/08/80-smaller-rails-footprint-with-rack-deflate/
+558,Lobsters,ruby,Ruby programming,Episode 104 - Speeding Up Tests,https://www.driftingruby.com/episodes/speeding-up-tests
+559,Lobsters,ruby,Ruby programming,ownership: code ownership across teams for Rails,https://github.com/ankane/ownership
+560,Lobsters,ruby,Ruby programming,GraphQL + Relay Modern + Rails,https://collectiveidea.com/blog/archives/2017/08/03/graphql-relay-modern-rails
+561,Lobsters,ruby,Ruby programming,Memory Conscious Programming in Ruby,https://gettalong.org/blog/2017/memory-conscious-programming-in-ruby.html
+562,Lobsters,ruby,Ruby programming,Slightly smarter session cookies for Rack 2 apps,https://github.com/mwpastore/rack-session-smart_cookie
+563,Lobsters,ruby,Ruby programming,Enough With the Service Objects Already,https://avdi.codes/service-objects/
+564,Lobsters,ruby,Ruby programming,Episode 103 - Sample Data with Factory Bot and Faker,https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker
+565,Lobsters,ruby,Ruby programming,Creating Configuration Objects in Ruby,https://blog.codeship.com/creating-configuration-objects-in-ruby/
+566,Lobsters,ruby,Ruby programming,Hanami v1.1.0,http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html
+567,Lobsters,ruby,Ruby programming,Episode 102 - Feature Testing with Capybara,https://www.driftingruby.com/episodes/feature-testing-with-capybara
+568,Lobsters,ruby,Ruby programming,Bridging Rails & NodeJS with gRPC,https://product.reverb.com/bridging-rails-nodejs-with-grpc-5cb58e03189c
+569,Lobsters,ruby,Ruby programming,Visualizing Rails logs With Jupyter Notebook,http://blog.scoutapp.com/articles/2017/10/13/visualizing-rails-logs-with-jupyter-notebook
+570,Lobsters,ruby,Ruby programming,Fastest way to profile a method in Ruby,https://samsaffron.com/archive/2017/10/18/fastest-way-to-profile-a-method-in-ruby
+571,Lobsters,ruby,Ruby programming,Exploring Functional Programming with Ruby,https://jasoncharnes.com/functional-programming-ruby/
+572,Lobsters,ruby,Ruby programming,rom-rb 4.0.0 released,http://rom-rb.org/blog/rom-4-0-released/
+573,Lobsters,ruby,Ruby programming,"I know how to code, I can code in anything",https://www.schneems.com/2017/10/17/i-know-how-to-code-i-can-code-in-anything/
+574,Lobsters,ruby,Ruby programming,Rails 5.1's form_with vs. form_tag vs. form_for,https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a
+575,Lobsters,ruby,Ruby programming,Episode 101 - Testing with RSpec,https://www.driftingruby.com/episodes/testing-with-rspec
+576,Lobsters,ruby,Ruby programming,Why Ruby app servers break on macOS High Sierra and what can be done about it,https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/
+577,Lobsters,ruby,Ruby programming,"Configuring Puma, Unicorn and Passenger for Maximum Efficiency",https://www.speedshop.co/2017/10/12/appserver.html
+578,Lobsters,ruby,Ruby programming,ReportsKit – Interactive charts and tables for Ruby on Rails,https://www.reportskit.co/
+579,Lobsters,ruby,Ruby programming,Remote Code Execution on rubygems.org,https://justi.cz/security/2017/10/07/rubygems-org-rce.html
+580,Lobsters,ruby,Ruby programming,Episode 100 - Basic Testing Introduction in Rails,https://www.driftingruby.com/episodes/basic-testing-introduction-in-rails
+581,Lobsters,ruby,Ruby programming,Do. Or do not. There is no Object#try,http://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful
+582,Lobsters,ruby,Ruby programming,Ecto vs ActiveRecord - side by side,https://www.dailydrip.com/blog/ecto-vs-activerecord.html
+583,Lobsters,ruby,Ruby programming,get_schwifty: Render Rails View Partials with ActiveJob and ActionCable,https://github.com/danielwestendorf/get_schwifty
+584,Lobsters,ruby,Ruby programming,Speeding up Rails pages with caching: render_async 1.0 released,https://github.com/renderedtext/render_async
+585,Lobsters,ruby,Ruby programming,Lifelong Rubyist makes some Python code 5x Faster,https://www.schneems.com/2017/10/02/lifelong-rubyist-makes-some-python-code-5x-faster/
+586,Lobsters,ruby,Ruby programming,Visualizing Your Ruby Heap,http://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html
+587,Lobsters,ruby,Ruby programming,What I learned migrating a Rails app to Elixir/Phoenix (2016),https://medium.com/@stueccles/what-i-learned-migrating-a-rails-app-to-elixir-phoenix-f707436749aa
+588,Lobsters,ruby,Ruby programming,When good controllers go bad: getting started with Coach,https://gocardless.com/blog/getting-started-with-coach/
+589,Lobsters,ruby,Ruby programming,Episode 99 - Creating a Basic Gem,https://www.driftingruby.com/episodes/creating-a-basic-gem
+590,Lobsters,ruby,Ruby programming,Ruby's Principle of Too Much Power (2013),https://williamedwardscoder.tumblr.com/post/43394068341/rubys-principle-of-too-much-power
+591,Lobsters,ruby,Ruby programming,Embracing Functional Programming in Ruby,http://kellysutton.com/2017/09/13/embracing-functional-programming-in-ruby.html
+592,Lobsters,ruby,Ruby programming,Composable RSpec matchers,http://blog.arkency.com/composable-rspec-matchers/
+593,Lobsters,ruby,Ruby programming,Episode 98 - Polymorphic Associations,https://www.driftingruby.com/episodes/polymorphic-associations
+594,Lobsters,ruby,Ruby programming,A Puzzle About Ruby Constants,https://engineering.thriveglobal.com/a-puzzle-about-ruby-constants-e958d15dbada
+595,Lobsters,ruby,Ruby programming,Effective Testing with RSpec 3 has been released!,http://rspec.info/blog/2017/09/effective-testing-with-rspec-3-released/
+596,Lobsters,ruby,Ruby programming,Episode 97 - Single Table Inheritance,https://www.driftingruby.com/episodes/single-table-inheritance
+597,Lobsters,ruby,Ruby programming,Enhanced Ruby on Rails Architecture,https://github.com/CodeRocketCo/enhanced-rails-architecture
+598,Lobsters,ruby,Ruby programming,The Structure and Interpretation of Ruby Programs,https://www.nasseri.io/posts/1.html
+599,Lobsters,ruby,Ruby programming,Gem Check,http://gemcheck.evilmartians.io/
+600,Lobsters,ruby,Ruby programming,Understanding the secret_key_base in Ruby on Rails,https://medium.com/@mikeycgto/understanding-the-secret-key-base-in-ruby-on-rails-ce2f6f9968a1
+601,Lobsters,ruby,Ruby programming,Building something besides a chat app with Rails ActionCable,https://blog.jakewilkins.com/2017/08/25/building-something-besides-a-chat-app-with-actioncable/
+602,Lobsters,ruby,Ruby programming,Gemfile's new clothes,https://depfu.com/blog/2017/09/06/gemfiles-new-clothes
+603,Lobsters,ruby,Ruby programming,Episode 96 - Auditing with Paper Trail,https://www.driftingruby.com/episodes/auditing-with-paper-trail
+604,Lobsters,ruby,Ruby programming,Sequel 5.0.0 Released,https://groups.google.com/forum/#!topic/sequel-talk/-2By-YjfGNI
+605,Lobsters,ruby,Ruby programming,"How I lost 17,000 GitHub Auth Tokens in One Night",https://www.schneems.com/2017/08/30/how-i-lost-17000-github-auth-tokens-in-one-night/
+606,Lobsters,ruby,Ruby programming,Careful what you measure: 2.1 times slower to 4.2 times faster – MJIT versus Truffle Ruby,https://pragtob.wordpress.com/2017/08/29/careful-what-you-measure-2-1-times-slower-to-4-2-times-faster-mjit-versus-truffle-ruby/
+607,Lobsters,ruby,Ruby programming,"Introducing We::Call, a Ruby Gem for making HTTP calls awesome",https://engineering.wework.com/introducing-we-call-a-ruby-gem-for-making-http-calls-awesome-4ce3f7e54f46
+608,Lobsters,ruby,Ruby programming,Multiple vulnerabilities in RubyGems,https://www.ruby-lang.org/en/news/2017/08/29/multiple-vulnerabilities-in-rubygems/
+609,Lobsters,ruby,Ruby programming,The Limits of Copy-on-write: How Ruby Allocates Memory,https://brandur.org/ruby-memory
+610,Lobsters,ruby,Ruby programming,Demystifying the IO Monad for Rubyists,https://wuest.me/blog/e/20170528-io-monad-for-rubyists/
+611,Lobsters,ruby,Ruby programming,Episode 95 - ActiveRecord Migrations,https://www.driftingruby.com/episodes/activerecord-migrations
+612,Lobsters,ruby,Ruby programming,Flag arguments are a code smell,http://craftingruby.com/posts/2017/05/04/flag-arguments-are-a-code-smell.html
+613,Lobsters,ruby,Ruby programming,Long Running Benchmarks for Ruby Projects,https://rubybench.org/
+614,Lobsters,ruby,Ruby programming,The Highs & Lows of Crystal - an Introduction to Crystal Lang,https://auth0.com/blog/an-introduction-to-crystal-lang/
+615,Lobsters,ruby,Ruby programming,Facade Pattern as the way to implement Aggregate,http://rubyblog.pro/2017/05/facade-pattern
+616,Lobsters,ruby,Ruby programming,Episode 94 - Recurring Events with FullCalendar,https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar
+617,Lobsters,ruby,Ruby programming,Testing a Feature with Rails and RSpec: A deep dive,https://chrisherring.co/posts/testing-a-feature-with-rails-and-rspec-a-deep-dive
+618,Lobsters,ruby,Ruby programming,Untangling Ruby Threads,https://robots.thoughtbot.com/untangling-ruby-threads
+619,Lobsters,ruby,Ruby programming,The Longest Email I Ever Sent (Programmatically),https://www.schneems.com/2017/08/15/sending-massive-emails-considered-harmful/
+620,Lobsters,ruby,Ruby programming,Advanced Enumeration with Ruby,https://blog.codeship.com/advanced-enumeration-with-ruby/
+621,Lobsters,ruby,Ruby programming,Using React Inside Your Rails Apps,https://blog.codeship.com/using-react-inside-your-rails-apps/
+622,Lobsters,ruby,Ruby programming,Episode 93 - Recurring Events with ice_cube,https://www.driftingruby.com/episodes/recurring-events-with-ice_cube
+623,Lobsters,ruby,Ruby programming,The plugin system of Sequel and Roda [2015],http://twin.github.io/the-plugin-system-of-sequel-and-roda/
+624,Lobsters,ruby,Ruby programming,Realtime with React and Rails,https://blog.codeship.com/realtime-with-react-and-rails/
+625,Lobsters,ruby,Ruby programming,Why it is just lazy to bad-mouth Ruby on Rails,http://www.akitaonrails.com/2017/08/03/why-is-it-just-lazy-to-bad-mouth-ruby-on-rails
+626,Lobsters,ruby,Ruby programming,A Deep Dive into CSRF Protection in Rails,https://medium.com/@mctaylorpants/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef
+627,Lobsters,ruby,Ruby programming,Fix it now,https://www.saturnflyer.com/blog/fix-it-now
+628,Lobsters,ruby,Ruby programming,Simple Functional Strong Params In Ruby,https://martinos.github.com/blog/blog/simple-functional-strong-params-in-ruby/
+629,Lobsters,ruby,Ruby programming,Episode 92 - Restricting Access by IP Address,https://www.driftingruby.com/episodes/restricting-access-by-ip-address
+630,Lobsters,ruby,Ruby programming,... with __dir__ we can restore order in the Universe,https://bogdanvlviv.github.io/posts/ruby/with-__dir__-we-can-restore-order-in-the-universe.html
+631,Lobsters,ruby,Ruby programming,Improving dependency resolution in Bundler,https://dependabot.com/blog/improving-dependency-resolution-in-bundler
+632,Lobsters,ruby,Ruby programming,Riffing on `interpose` implementations in Ruby,http://www.virtuouscode.com/2017/08/02/riffing-on-interpose-in-ruby/
+633,Lobsters,ruby,Ruby programming,A look at how Ruby interprets your code,https://blog.appsignal.com/2017/08/01/ruby-magic-code-interpretation.html
+634,Lobsters,ruby,Ruby programming,Developing Games With Ruby,https://leanpub.com/developing-games-with-ruby/read
+635,Lobsters,ruby,Ruby programming,Is WEBrick Webscale?,https://schneems.com/2017/08/01/is-webrick-webscale/
+636,Lobsters,ruby,Ruby programming,Server Rendering React on Rails,https://blog.codeship.com/server-rendering-react-on-rails/
+637,Lobsters,ruby,Ruby programming,Add Output to Your Long Running Rake Tasks,http://blog.nrowegt.com/add-output-to-long-running-rake-tasks/
+638,Lobsters,ruby,Ruby programming,Sorting your Gemfile with ease using ordinare gem,https://github.com/nikolalsvk/ordinare
+639,Lobsters,ruby,Ruby programming,Episode 91 - Custom Error Pages with Slack Notification,https://www.driftingruby.com/episodes/custom-error-pages-with-slack-notification
+640,Lobsters,ruby,Ruby programming,Working with payments on Rails,https://www.dailydrip.com/blog/working-with-payments-on-rails.html
+641,Lobsters,ruby,Ruby programming,Why You Shouldn't Roll Your Own Authentication (2016),https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/
+642,Lobsters,ruby,Ruby programming,Tips to improve speed of your test suite,https://medium.com/appaloosa-store-engineering/tips-to-improve-speed-of-your-test-suite-8418b485205c
+643,Lobsters,ruby,Ruby programming,Stop Using Case Statements in Ruby,http://www.blackbytes.info/2017/04/stop-using-case-statements-in-ruby/
+644,Lobsters,ruby,Ruby programming,New method Kernel#yield_self (since Ruby 2.5.0),https://bogdanvlviv.github.io/posts/ruby/new-method-kernel-yield_self-since-ruby-2_5_0.html
+645,Lobsters,ruby,Ruby programming,API v2 Architecture and Hanami,https://blog.dnsimple.com/2017/07/api-v2-architecture/
+646,Lobsters,ruby,Ruby programming,Writing a Hypermedia API client in Ruby,https://robots.thoughtbot.com/writing-a-hypermedia-api-client-in-ruby
+647,Lobsters,ruby,Ruby programming,Everything you should know about Ruby Splats,https://alexcastano.com/everything-about-ruby-splats/
+648,Lobsters,ruby,Ruby programming,Single file Rails applications (for fun and bug reporting),https://christoph.luppri.ch/articles/2017/06/26/single-file-rails-applications-for-fun-and-bug-reporting/
+649,Lobsters,ruby,Ruby programming,Episode 90 - Benchmarking and Refactoring the content_for View Helper,https://www.driftingruby.com/episodes/benchmarking-and-refactoring-the-content_for-view-helper
+650,Lobsters,ruby,Ruby programming,Hacking content_for to create a simple display helper,https://blog.driftingruby.com/hacking-content_for-to-create-a-simple-display-helper/
+651,Lobsters,ruby,Ruby programming,Disguising Ruby as Javascript,http://kevinkuchta.com/_site/2017/07/disguising-ruby-as-javascript/
+652,Lobsters,ruby,Ruby programming,"SpreadsheetArchitect lets you turn any ActiveRecord relation or ruby object collection into a XLSX,",https://github.com/westonganger/spreadsheet_architect
+653,Lobsters,ruby,Ruby programming,Keep Ruby Weird 2017,https://2017.keeprubyweird.com
+654,Lobsters,ruby,Ruby programming,How I Reduced my DB Server Load by 80%,https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/
+655,Lobsters,ruby,Ruby programming,Ruby concurrency: in praise of condition variables,https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables/
+656,Lobsters,ruby,Ruby programming,Streaming Data with Ruby Enumerators,http://www.smartly.io/blog/streaming-data-with-ruby-enumerators
+657,Lobsters,ruby,Ruby programming,Episode 89 - Creating Custom Ruby on Rails Generators,https://www.driftingruby.com/episodes/creating-custom-ruby-on-rails-generators
+658,Lobsters,ruby,Ruby programming,Ruby on Rails Code Audits: 8 Steps to Review Your App,http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
+659,Lobsters,ruby,Ruby programming,An alternative to bundle update,https://www.brownwebdesign.com/blog/bundle-update
+660,Lobsters,ruby,Ruby programming,Standard Gems,https://stdgems.org/
+661,Lobsters,ruby,Ruby programming,each_cons - the wise and tall of popular languages,http://realfiction.net/2017/05/22/each_cons-the-wise-and-tall-of-popular-languages/
+662,Lobsters,ruby,Ruby programming,How to convert a Ruby primitive to a custom domain object in two minutes,https://www.rubysteps.com/articles/2017/how-to-convert-a-ruby-primitive-to-a-domain-object-in-two-minutes/
+663,Lobsters,ruby,Ruby programming,Working with UUIDs in Rails,https://www.dailydrip.com/blog/working-with-uuids-in-rails.html
+664,Lobsters,ruby,Ruby programming,Three Database Architectures for a Multi-Tenant Rails-Based SaaS App,https://rubygarage.org/blog/three-database-architectures-for-a-multi-tenant-rails-based-saas-app
+665,Lobsters,ruby,Ruby programming,Episode 88 - Virtual Columns with JSON Data Types,https://www.driftingruby.com/episodes/virtual-columns-with-json-data-types
+666,Lobsters,ruby,Ruby programming,How I test Rails applications,https://m.patrikonrails.com/how-i-test-my-rails-applications-cf150e347a6b
+667,Lobsters,ruby,Ruby programming,yield default object,http://blog.arkency.com/2017/02/yield-default-object/
+668,Lobsters,ruby,Ruby programming,Why you should probably avoid mixins,http://undefined-reference.org/2017/06/10/why-you-should-probably-avoid-mixins.html
+669,Lobsters,ruby,Ruby programming,57 Best Ruby Gems for Every Purpose,https://rubygarage.org/blog/best-ruby-gems-we-use
+670,Lobsters,ruby,Ruby programming,27 Rails Gems I use in almost every project,https://dev.to/rob__race/27-gems-i-use-in-almost-every-project
+671,Lobsters,ruby,Ruby programming,"Core Ruby Tools: Gems, Version Managers, Bundler, and Rake",https://launchschool.com/books/core_ruby_tools
+672,Lobsters,ruby,Ruby programming,Refactoring From Inheritance To Composition To Data,http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/
+673,Lobsters,ruby,Ruby programming,How to make Touch Bar actually useful for web developer,http://nerdblog.pl/post/162620007204/how-to-make-touch-bar-actually-useful-for-web
+674,Lobsters,ruby,Ruby programming,Intro to Middleman,https://www.dailydrip.com/topics/html-css/drips/intro-to-middleman
+675,Lobsters,ruby,Ruby programming,"is_bullshit, a gem to call bullshit",https://github.com/alexford/is_bullshit
+676,Lobsters,ruby,Ruby programming,Functional Architecture for the Practical Rubyist,https://www.icelab.com.au/notes/tim-talks-functional-architecture-at-reddotrubyconf
+677,Lobsters,ruby,Ruby programming,Replacing a Complex Regular Expression with a Simple Parser,http://blog.honeybadger.io/replacing-regular-expressions-with-parsers/
+678,Lobsters,ruby,Ruby programming,How to write a lock free Queue,https://www.schneems.com/2017/06/28/how-to-write-a-lock-free-queue/
+679,Lobsters,ruby,Ruby programming,RailsCasts Pro episodes are now free,http://railscasts.com/announcements/13
+680,Lobsters,ruby,Ruby programming,How to find and fix bug in JRuby and don't go crazy,http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy
+681,Lobsters,ruby,Ruby programming,Pay Attention to your Active Record methods,https://www.dailydrip.com/blog/pay-attention-to-your-active-record-methods.html
+682,Lobsters,ruby,Ruby programming,Rails' CurrentAttributes considered harmful,http://ryanbigg.com/2017/06/current-considered-harmful
+683,Lobsters,ruby,Ruby programming,A Tale of Slow Pagination,https://schneems.com/2017/06/22/a-tale-of-slow-pagination/
+684,Lobsters,ruby,Ruby programming,Exploring infinite sequences,http://www.recursion.org/2017/5/24/exploring-infinite-sequences
+685,Lobsters,ruby,Ruby programming,"Ruby 2.4 has deprecated toplevel constants TRUE, FALSE and NIL",http://blog.bigbinary.com/2017/06/19/ruby-2-4-has-depecated-constants-true-false-and-nil.html
+686,Lobsters,ruby,Ruby programming,How is Ruby Different in Japan?,http://engineering.appfolio.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan
+687,Lobsters,ruby,Ruby programming,Faster Ruby via better IR and JIT,https://github.com/vnmakarov/ruby
+688,Lobsters,ruby,Ruby programming,Speed up bundle install with this one trick,https://philna.sh/blog/2017/06/12/speed-up-bundle-install-with-this-one-trick/
+689,Lobsters,ruby,Ruby programming,"Build a query parser (using Ruby, Parslet, and Elasticsearch)",http://www.recursion.org/query-parser/
+690,Lobsters,ruby,Ruby programming,'Pair With Sum' Problem,http://routetomastery.com/blog/2017/01/08/has-pair-with-some-problem/
+691,Lobsters,ruby,Ruby programming,From Rails to Hanami: Views,https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404
+692,Lobsters,ruby,Ruby programming,Meditations on Writing a Queue,https://schneems.com/2017/06/14/meditations-on-writing-a-queue/
+693,Lobsters,ruby,Ruby programming,The future of the Ruby Toolbox,https://github.com/rubytoolbox/rubytoolbox/issues/1
+694,Lobsters,ruby,Ruby programming,"7 ways to evaluate gems, and 1 crazy idea",https://www.saturnflyer.com/blog/7-ways-to-evaluate-gems-and-1-crazy-idea
+695,Lobsters,ruby,Ruby programming,Rails Helper Testing Made Simple,http://chriskottom.com/blog/2017/06/rails-helper-testing-made-simple
+696,Lobsters,ruby,Ruby programming,Re-Writing BSD 4.4 Shell Commands: echo,https://www.rewritinghistorycasts.com/screencasts/echo
+697,Lobsters,ruby,Ruby programming,Speeding Up Rendering Rails Pages with render_async,https://semaphoreci.com/blog/2017/06/08/speeding-up-rails-pages-with-render-async.html
+698,Lobsters,ruby,Ruby programming,Using Rails asset_sync with webpack generated assets,https://sairam.xyz/post/using-rails-with-webpack-assets/
+699,Lobsters,ruby,Ruby programming,All Rails Conf 2017 videos,http://confreaks.tv/events/railsconf2017
+700,Lobsters,ruby,Ruby programming,A quick intro to writing a parser with Treetop,http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html
+701,Lobsters,ruby,Ruby programming,Writing Ruby gems with Rust and Helix,https://blog.dnsimple.com/2017/05/writing-ruby-gems-with-rust-and-helix/
+702,Lobsters,ruby,Ruby programming,Why write code when more dependencies will do?,https://www.saturnflyer.com/blog/2017/5/30/why-write-code-when-more-dependencies-will-do
+703,Lobsters,ruby,Ruby programming,New method Kernel#yield_self (since Ruby 2.5.0),https://bogdanvlviv.github.io/posts/ruby/new-method-kernel-yield_self-since-ruby-2_5_0.html
+704,Lobsters,ruby,Ruby programming,Ruby Memoization: ||= vs. defined? syntax,http://karolgalanciak.com/blog/2017/05/28/ruby-memoization-%7C%7C-equals-vs-defined-syntax
+705,Lobsters,ruby,Ruby programming,Data Corruption in Rails,https://devchat.tv/ruby-rogues/data-corruption-rails-peter-bhat-harkins
+706,Lobsters,ruby,Ruby programming,The latest dependency version is probably the most secure,https://dependabot.com/blog/the-latest-dependency-version-is-probably-the-most-secure
+707,Lobsters,ruby,Ruby programming,Helix: Build Native Ruby Extensions Without Fear,https://www.youtube.com/watch?v=nq1nNx8-fNQ
+708,Lobsters,ruby,Ruby programming,For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting,http://www.foragoodstrftime.com/
+709,Lobsters,ruby,Ruby programming,Perusing the Rails Source Code - A Beginners Guide,http://confreaks.tv/videos/railsconf2017-perusing-the-rails-source-code-a-beginners-guide
+710,Lobsters,ruby,Ruby programming,Translating with Mobility,http://dejimata.com/2017/3/3/translating-with-mobility
+711,Lobsters,ruby,Ruby programming,The Ruby Module Builder Pattern,http://dejimata.com/2017/5/20/the-ruby-module-builder-pattern
+712,Lobsters,ruby,Ruby programming,What if we organized code by features?,https://www.saturnflyer.com/blog/2017/5/17/what-if-we-organized-code-by-features
+713,Lobsters,ruby,Ruby programming,Ruby Backend Performance Getting Started Guide,http://schneems.com/2017/05/17/ruby-backend-performance-getting-started-guide/
+714,Lobsters,ruby,Ruby programming,Thredded Forums Engine,https://thredded.org
+715,Lobsters,ruby,Ruby programming,How we rewrote our web analytics tracking infrastructure in Go,https://engineering.skroutz.gr/blog/rewriting-web-analytics-tracking-in-go/
+716,Lobsters,ruby,Ruby programming,Building tools and building teams,https://www.saturnflyer.com/blog/2017/3/21/building-tools-and-building-teams
+717,Lobsters,ruby,Ruby programming,Cuckoo Filter: a probabilistic datastructure for set membership queries,https://github.com/pawandubey/cuckoo_filter
+718,Lobsters,ruby,Ruby programming,Elm on Rails 5.1 with Webpacker,https://bendyworks.com/blog/elm-on-rails-5-1-webpacker/
+719,Lobsters,ruby,Ruby programming,Purposes & properties of value objects (2016),https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/
+720,Lobsters,ruby,Ruby programming,Code Simplicity - Value Objects,https://drivy.engineering/code_simplicity_value_objects/
+721,Lobsters,ruby,Ruby programming,rein: database constraint support for ActiveRecord,https://github.com/nullobject/rein
+722,Lobsters,ruby,Ruby programming,"The Good, The Bad & The Ugly — Story of a Rails 5 Upgrade",https://blog.adwyze.com/the-good-the-bad-the-ugly-story-of-a-rails-5-upgrade-c733e727e792
+723,Lobsters,ruby,Ruby programming,Mipsdis: MIPS disassembler in the browser,http://blog.loadzero.com/blog/announcing-mipsdis/
+724,Lobsters,ruby,Ruby programming,Caution when using before_destroy with model association in Rails,https://medium.com/appaloosa-store-engineering/caution-when-using-before-destroy-with-model-association-71600b8bfed2
+725,Lobsters,ruby,Ruby programming,The Fastest Way to Generate a Heap Dump on Heroku,https://www.schneems.com/2017/05/01/the-fastest-way-to-generate-a-heap-dump-on-heroku/
+726,Lobsters,ruby,Ruby programming,Result Objects - Errors Without Exceptions,http://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/
+727,Lobsters,ruby,Ruby programming,Postgres tips for Rails developers,https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/
+728,Lobsters,ruby,Ruby programming,"Rails 5.1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/
+729,Lobsters,ruby,Ruby programming,Decrypting Rails Sessions in Haskell,http://engineers.irisconnect.net/posts/2017-04-25-decrypting-rails-sessions-in-haskell.html
+730,Lobsters,ruby,Ruby programming,Parse Ruby Objects in Haskell,https://filib.io/posts/2017-04-24-parse-ruby-objects-in-haskell.html
+731,Lobsters,ruby,Ruby programming,Instrumenting Sidekiq with InfluxDB and Grafana,https://drivy.engineering/sidekiq-instrumentation/
+732,Lobsters,ruby,Ruby programming,A Variable By any Other Name,https://www.schneems.com/2017/04/24/a-variable-by-any-other-name/
+733,Lobsters,ruby,Ruby programming,Resilience in Ruby,https://johnnunemaker.com/resilience-in-ruby/
+734,Lobsters,ruby,Ruby programming,Canada,https://github.com/vanruby/canada
+735,Lobsters,ruby,Ruby programming,How to profile tests and make them run faster,https://speakerdeck.com/palkan/rubyconfby-minsk-2017-run-test-run
+736,Lobsters,ruby,Ruby programming,When you're trying to understand ruby memory,https://github.com/benoittgt/understand_ruby_memory
+737,Lobsters,ruby,Ruby programming,Make a failing Sidekiq worker call a method after a specific number of retries,https://medium.com/appaloosa-store-engineering/make-a-failing-sidekiq-worker-call-a-method-after-a-specific-number-of-retries-709d7f2cb9f3
+738,Lobsters,ruby,Ruby programming,Jumping Off The Ruby Memory Cliff,https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
+739,Lobsters,ruby,Ruby programming,The Gang of Four is wrong about delegation,https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation
+740,Lobsters,ruby,Ruby programming,Improve your Ruby application's memory usage and performance with jemalloc,https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html
+741,Lobsters,ruby,Ruby programming,FullStack Bulletin — a weekly newsletter for the ambitious FullStack developer,https://fullstackbulletin.com/
+742,Lobsters,ruby,Ruby programming,Hanami v1.0.0,http://hanamirb.org/blog/2017/04/06/announcing-hanami-100.html
+743,Lobsters,ruby,Ruby programming,Scaling Unsplash,https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906
+744,Lobsters,ruby,Ruby programming,Double Ruby Rainbow Bug,https://www.schneems.com/2017/04/04/double-ruby-rainbow-bug/
+745,Lobsters,ruby,Ruby programming,Decorating ActiveRecord,https://robots.thoughtbot.com/decorating-activerecord
+746,Lobsters,ruby,Ruby programming,The 500.000$ release,https://mruby.sh/201703270126.html
+747,Lobsters,ruby,Ruby programming,N+1 Queries or Memory Problems: Why not Solve Both?,https://blog.heroku.com/solving-n-plus-one-queries
+748,Lobsters,ruby,Ruby programming,From Rails to Hanami: Controllers,https://blog.codeminer42.com/from-rails-to-hanami-controllers-ad7ef6d09dd0
+749,Lobsters,ruby,Ruby programming,MiniTest cheatsheet,https://chriskottom.com/freebies/cheatsheets_free.pdf
+750,Lobsters,ruby,Ruby programming,Pack:er and Terra:deploy a JRuby Application [Part 1],https://dcsg.me/articles/pack-er-and-terra-deploy-a-jruby-application-part-1/
+751,Lobsters,ruby,Ruby programming,The New ‘Absent Operator’ in Ruby 2.4.1’s Regular Expressions,https://medium.com/rubyinside/the-new-absent-operator-in-ruby-s-regular-expressions-7c3ef6cd0b99
+752,Lobsters,ruby,Ruby programming,Rails Security Checklist,https://github.com/eliotsykes/rails-security-checklist
+753,Lobsters,ruby,Ruby programming,(m)Ruby on small devices,https://www.youtube.com/watch?v=0q2HRwP7Vzo
+754,Lobsters,ruby,Ruby programming,Why we ended up not using Rails for our new JSON API,https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api
+755,Lobsters,ruby,Ruby programming,Config: Behavior versus Credentials,https://www.schneems.com/2017/03/21/config-behavior-versus-credentials/
+756,Lobsters,ruby,Ruby programming,Finding a Ruby memory leak using a time analysis,https://gist.github.com/wvengen/f1097651c238b2f7f11d
+757,Lobsters,ruby,Ruby programming,"Running Optcarrot, a Ruby NES emulator, at 150 fps with the GUI",http://eregon.me/blog/2016/11/28/optcarrot.html
+758,Lobsters,ruby,Ruby programming,"Ruby 3x3: Matz, Koichi, and Tenderlove on the future of Ruby Performance",https://blog.heroku.com/ruby-3-by-3
+759,Lobsters,ruby,Ruby programming,"Puma, Ports, and Polish",https://www.schneems.com/2017/03/13/puma-ports-and-polish/
+760,Lobsters,ruby,Ruby programming,Providing useful error responses in a Rails API,https://medium.com/@stevenpetryk/providing-useful-error-responses-in-a-rails-api-24c004b31a2e
+761,Lobsters,ruby,Ruby programming,Master Many-to-Many Associations with ActiveRecord,https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/
+762,Lobsters,ruby,Ruby programming,Porting Ruby to Crystal,http://squarism.com/2017/02/25/porting-ruby-to-crystal/
+763,Lobsters,ruby,Ruby programming,Ruby's Dark Corners,http://norswap.com/ruby-dark-corners/
+764,Lobsters,ruby,Ruby programming,From implicit magic to explicit code,https://www.saturnflyer.com/blog/from-implicit-magic-to-explicit-code
+765,Lobsters,ruby,Ruby programming,"Robert Martin - ""What Killed Smalltalk Could Kill Ruby, Too"" (2009)",https://www.youtube.com/watch?v=YX3iRjKj7C0
+766,Lobsters,ruby,Ruby programming,Ruby+OMR JIT Compiler: What’s next?,https://developer.ibm.com/open/2017/03/01/ruby-omr-jit-compiler-whats-next/
+767,Lobsters,ruby,Ruby programming,Bundler Changed Where Your Canonical Ruby Information Lives: What You Need to Know,https://blog.heroku.com/bundler-and-canonical-ruby-version
+768,Lobsters,ruby,Ruby programming,Real-time Rails: Dreams for a Better ActionCable,http://alexmatchneer.com/blog/2017/02/27/realtime-rails/
+769,Lobsters,ruby,Ruby programming,How we've migrated from Ruby to Clojure (for the most part),https://medium.com/intercom-developers/from-ruby-to-clojure-an-intercom-integration-story-e6042806a152#.ykhqzmwqa
+770,Lobsters,ruby,Ruby programming,Towards Faster Ruby Hash Tables,https://developers.redhat.com/blog/2017/02/27/towards-faster-ruby-hash-tables/
+771,Lobsters,ruby,Ruby programming,"Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more",http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/
+772,Lobsters,ruby,Ruby programming,Building a tool that's easy for your team to use,https://www.saturnflyer.com/blog/building-a-tool-thats-easy-for-your-team-to-use
+773,Lobsters,ruby,Ruby programming,The Ultimate Guide to Ruby Timeouts,https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts
+774,Lobsters,ruby,Ruby programming,The Oldest Bug In Ruby - Why Rack::Timeout Might Hose your Server,https://www.schneems.com/2017/02/21/the-oldest-bug-in-ruby-why-racktimeout-might-hose-your-server/
+775,Lobsters,ruby,Ruby programming,Accidentally Quadratic: Ruby `reject!`,http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject
+776,Lobsters,ruby,Ruby programming,Episode 10: Digging into Ruby with Richard Schneems,https://soundcloud.com/import-this/episode-10-digging-into-ruby-with-richard-schneems
+777,Lobsters,ruby,Ruby programming,Profiling MRuby Code,http://log.fundamental-code.com/2017/02/14/profiling-mruby.html
+778,Lobsters,ruby,Ruby programming,Decoupled Puppet Monitoring Module With Automated Discovery,https://jonskarpeteig.blogspot.com/2017/02/decoupled-puppet-monitoring-module-with.html
+779,Lobsters,ruby,Ruby programming,Using HdrHistogram with Ruby,http://bendyworks.com/blog/using-hdr-histogram-in-ruby
+780,Lobsters,ruby,Ruby programming,Object ID in MRI,http://tenderlovemaking.com/2017/02/01/object-id-in-mri.html
+781,Lobsters,ruby,Ruby programming,Relaxo is a transactional document database built on top of git for Ruby,https://github.com/ioquatix/relaxo
+782,Lobsters,ruby,Ruby programming,How To Test Ruby CLI: Console,http://lucaguidi.com/2017/02/08/how-to-test-ruby-cli-console/
+783,Lobsters,ruby,Ruby programming,Ruby debugging magic cheat sheet,http://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
+784,Lobsters,ruby,Ruby programming,Setting up a new Ruby or Rails Project,http://blog.rubygeek.com/2017/02/04/setting-up-new-ruby-project/
+785,Lobsters,ruby,Ruby programming,The Tragedy of Maybe and Ruby,http://bendyworks.com/blog/tragedy-maybe-monad-ruby
+786,Lobsters,ruby,Ruby programming,The JVM is not that heavy,https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/
+787,Lobsters,ruby,Ruby programming,How To Test Ruby CLI: Code Generators,https://lucaguidi.com/2017/02/01/how-to-test-ruby-cli-code-generators/
+788,Lobsters,ruby,Ruby programming,rom 3.0 released with rom-sql 1.0 and rom-repository 1.0,http://rom-rb.org/blog/rom-3-0-released/
+789,Lobsters,ruby,Ruby programming,Why metaprogram when you can program? (2011),https://therealadam.com/2011/12/09/why-metaprogram-when-you-can-program/
+790,Lobsters,ruby,Ruby programming,Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later,https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/
+791,Lobsters,ruby,Ruby programming,Turning a specific solution into a general tool,https://www.saturnflyer.com/blog/turning-a-specific-solution-into-a-general-tool
+792,Lobsters,ruby,Ruby programming,Ruby Coercion Protocols Part 2 - DNSimple Blog,https://blog.dnsimple.com/2017/01/ruby-coercion-protocols-part-2/
+793,Lobsters,ruby,Ruby programming,Meet Phoenix: A Rails-like Framework for Modern Web Apps,https://www.toptal.com/phoenix/phoenix-rails-like-framework-web-apps
+794,Lobsters,ruby,Ruby programming,How To Test Ruby CLI: The Setup,http://lucaguidi.com/2017/01/20/how-to-test-ruby-cli-the-setup/
+795,Lobsters,ruby,Ruby programming,Life After Nil,http://blog.testdouble.com/posts/2017-01-18-life-after-nil.html
+796,Lobsters,ruby,Ruby programming,Fast reverse geocoding with offline-geocoder,http://inaka.net/blog/2017/01/18/fast-reverse-geocoding-with-offline-geocoder/
+797,Lobsters,ruby,Ruby programming,Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016,https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016
+798,Lobsters,ruby,Ruby programming,Simple and Terrifying Encryption Story,https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07
+799,Lobsters,ruby,Ruby programming,How I fixed my biggest mistake with implementing Rails background jobs,https://www.saturnflyer.com/blog/working-later-bridging-your-code-with-the-background
+800,Lobsters,ruby,Ruby programming,Why I don't think Ruby is great,https://gist.github.com/anonymous/f904d724aefd87e3ae5c8b695c987f22
+801,Lobsters,ruby,Ruby programming,Behind the Scenes: Building a Dynamic Instrumentation Agent for Ruby,https://blog.sqreen.io/dynamic-instrumentation-agent-for-ruby/
+802,Lobsters,ruby,Ruby programming,Ruby is still great!,http://hmans.io/posts/2017/01/10/ruby-is-still-great.html
+803,Lobsters,ruby,Ruby programming,wat (2012),https://www.destroyallsoftware.com/talks/wat
+804,Lobsters,ruby,Ruby programming,"Rack web profiler, first release - A profiler for Rack and Rails web applications",http://blog.nicolas-brousse.fr/articles/2017-01-05-rack-web-profiler-first-release/
+805,Lobsters,ruby,Ruby programming,Scale Out Multi-Tenant Apps based on Ruby on Rails,https://www.citusdata.com/blog/2017/01/05/easily-scale-out-multi-tenant-apps/
+806,Lobsters,ruby,Ruby programming,Common Rails Idioms that Kill Database Performance,http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/
+807,Lobsters,ruby,Ruby programming,Rails Hurts - Let's fix that!,http://railshurts.com/
+808,Lobsters,ruby,Ruby programming,"Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding",https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding
+809,Lobsters,ruby,Ruby programming,"The Linux 2.5, Ruby 1.9 and Python 3 release management anti-pattern",http://www.lucas-nussbaum.net/blog/?p=916
+810,Lobsters,ruby,Ruby programming,Ruby 2.4.0 Released,https://www.ruby-lang.org/en/news/2016/12/25/ruby-2-4-0-released/
+811,Lobsters,ruby,Ruby programming,(2013) Parentheses in Ruby - An Argument Against,https://heartmindcode.com/2013/09/05/parentheses-in-ruby/
+812,Lobsters,ruby,Ruby programming,"Sandi Metz Workshop, Procore 2016",http://m3lch.blogspot.com/2016/10/sandi-metz-workshop-procore-2016.html
+813,Lobsters,ruby,Ruby programming,AnyCable: Action Cable on steroids,https://evilmartians.com/chronicles/anycable-actioncable-on-steroids
+814,Lobsters,ruby,Ruby programming,How the F does Sprockets Load an Asset?,http://schneems.com/2016/12/20/how-the-f-does-sprockets-load-an-asset/
+815,Lobsters,ruby,Ruby programming,github-inbox: Take back control of your GitHub Notifications,https://github.com/andrew/github-inbox
+816,Lobsters,ruby,Ruby programming,Rake without Rails,http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html
+817,Lobsters,ruby,Ruby programming,A Rusting Rubyist - Embedding Rust in a Ruby module,https://medium.com/fullstack-labs/a-rubyist-rusting-db6e7e9c8f36
+818,Lobsters,ruby,Ruby programming,Rails 5.1 might be gaining webpack and yarn support out of the box,https://github.com/rails/rails/pull/26836#issuecomment-264242030
+819,Lobsters,ruby,Ruby programming,Rails 5.1: Default Primary Keys Are Now BIGINT,http://www.mccartie.com/2016/12/05/rails-5.1.html
+820,Lobsters,ruby,Ruby programming,Breakfast Gem - Brunch.io Integration with Rails,http://breakfast.devlocker.io/
+821,Lobsters,ruby,Ruby programming,Who Called Git? An Unusual Debugging Story,http://schneems.com/2016/11/28/who-called-git-an-unusual-debugging-story/
+822,Lobsters,ruby,Ruby programming,Taking everlane.com global,https://precompile.com/2016/11/22/taking-everlane-global.html
+823,Lobsters,ruby,Ruby programming,Writing a Rails Feature - Blow by Blow,http://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/
+824,Lobsters,ruby,Ruby programming,How We Made Our React-Rails App 5x Faster,https://blog.progressly.com/how-we-made-our-app-5x-faster-and-set-up-our-dev-team-for-continuous-delivery-193f9b37ff9a
+825,Lobsters,ruby,Ruby programming,Introducing the Ruby+OMR JIT,https://developer.ibm.com/open/2016/11/18/introducing-ruby-jit/
+826,Lobsters,ruby,Ruby programming,Announcing Hanami v0.9.0,http://hanamirb.org/blog/2016/11/15/announcing-hanami-090.html
+827,Lobsters,ruby,Ruby programming,Rails and adapter objects: different implementations in production and tests,http://blog.arkency.com/2016/11/rails-and-adapter-objects-different-implementations-in-production-and-tests/
+828,Lobsters,ruby,Ruby programming,Schrodinger's Ruby array,http://engineering.freeagent.com/2016/11/08/schrodinger-s-ruby-array/
+829,Lobsters,ruby,Ruby programming,I made a gem that adds better man pages support to rubygems,https://github.com/bitboxer/manpages
+830,Lobsters,ruby,Ruby programming,"Thredded: Minimalistic, open-source, and blazing fast forums",https://Thredded.org
+831,Lobsters,ruby,Ruby programming,Half stack web frameworks,http://ane.github.io/2016/11/02/half-stack-web-frameworks.html
+832,Lobsters,ruby,Ruby programming,Ruby meta-hacking: Looking under the hood,https://sankhs.com/2016/10/28/ruby-metahacking/
+833,Lobsters,ruby,Ruby programming,Duck typing vs type safety in Ruby,http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html
+834,Lobsters,ruby,Ruby programming,Keep Ruby Weird Again,http://blog.testdouble.com/posts/2016-10-31-keep-ruby-weird-again.html
+835,Lobsters,ruby,Ruby programming,Using DTrace to measure mutex contention in Ruby,https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby/
+836,Lobsters,ruby,Ruby programming,Rails Is Omakase: A Dramatic Reading,https://www.youtube.com/watch?v=E99FnoYqoII
+837,Lobsters,ruby,Ruby programming,Replacing an Asset Pipeline,http://blog.onfido.com/replacing-an-asset-pipeline/
+838,Lobsters,ruby,Ruby programming,How We Implemented Lazy Registration Using Elasticsearch,https://making.dia.co/how-we-implemented-lazy-registration-using-elasticsearch-72f026899e97
+839,Lobsters,ruby,Ruby programming,The two most common vulnerabilities in Rails (with code)!,https://blog.sqreen.io/the-two-most-common-vulnerabilities-in-rails-with-code/
+840,Lobsters,ruby,Ruby programming,"MiniTest is not ""Just Ruby"", it is ""Just Rails""",http://zverok.github.io/blog/2016-10-09-minitest.html
+841,Lobsters,ruby,Ruby programming,Need a Second Opinion on Your Ruby Code? Ask Crystal,http://patshaughnessy.net/2016/10/7/need-a-second-opinion-on-your-ruby-code-ask-crystal
+842,Lobsters,ruby,Ruby programming,Let The Asset Pipeline Die,http://gilesbowkett.blogspot.com/2016/10/let-asset-pipeline-die.html
+843,Lobsters,ruby,Ruby programming,Bundler's Multiple Source Security Vulnerability,http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/
+844,Lobsters,ruby,Ruby programming,A GNU Social-compatible microblogging server,https://github.com/Gargron/mastodon
+845,Lobsters,ruby,Ruby programming,Writing a text editor from scratch [starts at 12:00],https://www.twitch.tv/gary_bernhardt/v/90796516
+846,Lobsters,ruby,Ruby programming,The Simpsons by the Data,https://github.com/toddwschneider/flim-springfield
+847,Lobsters,ruby,Ruby programming,Minitest Cheat Sheet,http://www.rubypigeon.com/posts/minitest-cheat-sheet/
+848,Lobsters,ruby,Ruby programming,Concurrency in Ruby 3 with Guilds,http://olivierlacan.com/posts/concurrency-in-ruby-3-with-guilds/
+849,Lobsters,ruby,Ruby programming,Adding Elm to a Rails application,https://blog.abevoelker.com/2016-09-05/adding-elm-to-a-rails-application/
+850,Lobsters,ruby,Ruby programming,Testing like the TSA,https://signalvnoise.com/posts/3159-testing-like-the-tsa
+851,Lobsters,ruby,Ruby programming,The Safest Way to Constantize...,http://gavinmiller.io/2016/the-safesty-way-to-constantize/
+852,Lobsters,ruby,Ruby programming,A proposal of new concurrency model for Ruby 3,https://www.youtube.com/watch?v=WIrYh14H9kA
+853,Lobsters,ruby,Ruby programming,Wrote a simple ps clone in ruby,https://github.com/fredrb/ps-clone
+854,Lobsters,ruby,Ruby programming,Using Ruby code in an Elixir project,https://medium.com/@Stephanbv/ruby-code-in-elixir-project-97614a9543d
+855,Lobsters,ruby,Ruby programming,Delegation with BasicObject,https://www.promptworks.com/blog/delegation-with-basicobject
+856,Lobsters,ruby,Ruby programming,Ruby Facets - Weekly Ruby News podcast,http://rubyfacets.com/
+857,Lobsters,ruby,Ruby programming,Homebrew 1.0.0,http://brew.sh/2016/09/21/homebrew-1.0.0/
+858,Lobsters,ruby,Ruby programming,Fibonacci benchmark,http://crystal-lang.org/2016/07/15/fibonacci-benchmark.html
+859,Lobsters,ruby,Ruby programming,Introducing BabySqueel: Elegant queries for Rails.,https://www.promptworks.com/blog/introducing-babysqueel
+860,Lobsters,ruby,Ruby programming,One Base Class to Rule Them All (2011),https://www.destroyallsoftware.com/blog/2011/one-base-class-to-rule-them-all
+861,Lobsters,ruby,Ruby programming,Proposal of a new concurrency model for Ruby 3,http://www.atdot.net/fp_store/f.iu25do/file.2016_rubykaigi.pdf
+862,Lobsters,ruby,Ruby programming,ruby-stacktrace - spy on/profile running ruby programs,https://github.com/jvns/ruby-stacktrace
+863,Lobsters,ruby,Ruby programming,"Good Module, Bad Module",https://blog.codeship.com/good-module-bad-module/
+864,Lobsters,ruby,Ruby programming,Sharp Tools,http://schneems.com/2016/08/16/sharp-tools.html
+865,Lobsters,ruby,Ruby programming,Top Eight Must-Listen Developer Podcasts,https://dev.to/ben/my-eight-must-listen-podcasts
+866,Lobsters,ruby,Ruby programming,The Pure Function As An Object (PFAAO) Pattern,http://www.rubypigeon.com/posts/the-pure-function-as-an-object-pfaao-pattern/
+867,Lobsters,ruby,Ruby programming,Sinatra 2.0,http://zzak.io/log/2016-08-22-sinatra-two-point-oh.html
+868,Lobsters,ruby,Ruby programming,Rubinius takes the fun out of Ruby,https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6
+869,Lobsters,ruby,Ruby programming,Introducing dry-system,http://dry-rb.org/news/2016/08/15/introducing-dry-system/
+870,Lobsters,ruby,Ruby programming,cantino/huginn -- Agent framework for life enrichment?,https://github.com/cantino/huginn
+871,Lobsters,ruby,Ruby programming,Phoenix Channels vs Rails Action Cable,https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable
+872,Lobsters,ruby,Ruby programming,StrongRuby – Optional typing for Ruby,https://github.com/strongruby
+873,Lobsters,ruby,Ruby programming,RDL is a lightweight system for adding contracts to Ruby,https://github.com/plum-umd/rdl
+874,Lobsters,ruby,Ruby programming,The Search For <Class:0x00000027b59290>,https://chrisarcand.com//the-search-for-class0x0000001ab51700/
+875,Lobsters,ruby,Ruby programming,How does gdb work?,http://jvns.ca/blog/2016/08/10/how-does-gdb-work/
+876,Lobsters,ruby,Ruby programming,Debugging stuck Ruby processes,http://www.mikeperham.com/2016/08/05/debugging-stuck-ruby-processes/
+877,Lobsters,ruby,Ruby programming,Kill all the mutants - a deep dive into mutation testing and how the Mutant gem works,http://troessner.svbtle.com/kill-all-the-mutants-a-deep-dive-into-mutation-testing-and-how-the-mutant-gem-works
+878,Lobsters,ruby,Ruby programming,The sad state of streaming in Ruby web applications,http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-02-the-sad-state-of-streaming-in-ruby-web-applications
+879,Lobsters,ruby,Ruby programming,Coursera Programming Languages Course Part A,https://www.coursera.org/learn/programming-languages
+880,Lobsters,ruby,Ruby programming,The Ruby Bibliography,http://rubybib.org/
+881,Lobsters,ruby,Ruby programming,Recover Data from Production Backups with ActiveRecord,https://robots.thoughtbot.com/recover-data-from-production-backups-with-activerecord
+882,Lobsters,ruby,Ruby programming,Use LetsEncrypt and CloudFlare to secure any Heroku app for free,https://github.com/substrakt/letsencrypt-heroku
+883,Lobsters,ruby,Ruby programming,Ruby Web Dev The Other Way,http://rwdtow.stdout.in/
+884,Lobsters,ruby,Ruby programming,New Features in Ruby 2.4,https://blog.blockscore.com/new-features-in-ruby-2-4/
+885,Lobsters,ruby,Ruby programming,thoughtbot - Fundamentals of Test-Driven Development,https://thoughtbot.com/upcase/fundamentals-of-tdd
+886,Lobsters,ruby,Ruby programming,Domain-Driven Design for Rails Developers,http://victorsavkin.com/ddd
+887,Lobsters,ruby,Ruby programming,Faster PostgreSQL Searches with Trigrams,http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity
+888,Lobsters,ruby,Ruby programming,Rails Webconsole DNS Rebinding,http://benmmurphy.github.com/blog/2016/07/11/rails-webconsole-dns-rebinding
+889,Lobsters,ruby,Ruby programming,"Rails 5.0 Released with Action Cable, API mode, and more",http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/
+890,Lobsters,ruby,Ruby programming,Models with Ruby and PostgreSQL,http://mattmoore.io/blog/software-development/models-with-ruby-and-postgresql
+891,Lobsters,ruby,Ruby programming,"In a legacy Rails app, drink every time…",https://www.valent.io/article/legacy-rails-drinking-game/
+892,Lobsters,ruby,Ruby programming,A Review Of Immutability In Ruby,http://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/
+893,Lobsters,ruby,Ruby programming,Behavior changes in Ruby 2.4,http://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4
+894,Lobsters,ruby,Ruby programming,danielpclark/faster_path - Faster Pathname handling for Ruby written in Rust,https://github.com/danielpclark/faster_path
+895,Lobsters,ruby,Ruby programming,Test Driving Sidekiq and Crystal,http://www.mikeperham.com/2016/06/14/test-driving-sidekiq-and-crystal/
+896,Lobsters,ruby,Ruby programming,Make Everything The Same,http://www.sandimetz.com/blog/2016/6/9/make-everything-the-same
+897,Lobsters,ruby,Ruby programming,How do Native Extensions Manage Memory? Part 1: Ruby (MRI),http://blog.reverberate.org/2016/06/12/native-extensions-memory-management-part1-ruby-mri.html
+898,Lobsters,ruby,Ruby programming,How to spy on a Ruby program,http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/
+899,Lobsters,ruby,Ruby programming,Null objects and the Law of Demeter,https://about.futurelearn.com/blog/null-objects-and-the-law-of-demeter/
+900,Lobsters,ruby,Ruby programming,"Announcing Rails 6: An Imagined Keynote - modern front-end asset support, resources, services...",http://naildrivin5.com/blog/2016/05/17/announcing-rails-6-an-imagined-roadmap.html
+901,Lobsters,ruby,Ruby programming,Monitoring Rails: How to Get the Hidden Metrics Out of Your Rails App,http://blog.librato.com/posts/monitoring-rails
+902,Lobsters,ruby,Ruby programming,A conversational introduction to rom-rb,http://icelab.com.au/s/1461
+903,Lobsters,ruby,Ruby programming,Ruby concurrency: in praise of the mutex,https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_the_mutex/
+904,Lobsters,ruby,Ruby programming,3 pleasantly surprising PostgreSQL Indexing tricks,http://blog.scoutapp.com/articles/2016/05/31/3-postgresql-indexing-tricks-that-surprise-everyone
+905,Lobsters,ruby,Ruby programming,sysrandom: Secure random number generation for Ruby using system RNG facilities,https://github.com/cryptosphere/sysrandom
+906,Lobsters,ruby,Ruby programming,Programmer's log: Throttling outgoing requests,http://devblog.synup.com/throttling-outgoing-requests.html
+907,Lobsters,ruby,Ruby programming,Mainstream precludes cool,https://m.signalvnoise.com/mainstream-precludes-cool-506885f5f837
+908,Lobsters,ruby,Ruby programming,The Straight Dope on Deprecations,https://blog.codeship.com/the-straight-dope-on-deprecations/
+909,Lobsters,ruby,Ruby programming,Rails has won: The Elephant in the Room,http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
+910,Lobsters,ruby,Ruby programming,My time with Rails is up,http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html
+911,Lobsters,ruby,Ruby programming,Unit Testing Principles,http://benlakey.com/2016/05/15/unit-testing-principles/
+912,Lobsters,ruby,Ruby programming,RubyGems.org 2016 Push,http://blog.rubygems.org/2016/05/20/rubygems-org-2016-push.html
+913,Lobsters,ruby,Ruby programming,RSpec and Rails Are Mocking Me — Table XI,https://medium.com/table-xi/rspec-and-rails-are-mocking-me-cb72745c33d2
+914,Lobsters,ruby,Ruby programming,A change-positive Ruby web application architecture,http://icelab.com.au/s/1441
+915,Lobsters,ruby,Ruby programming,Why pay for Sidekiq?,https://github.com/mperham/sidekiq/wiki/Why-Pay%3F
+916,Lobsters,ruby,Ruby programming,Ruby has been fast enough for 13 years,https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7
+917,Lobsters,ruby,Ruby programming,Validations Predicates,http://hanamirb.org/blog/2016/05/16/validations-predicates.html
+918,Lobsters,ruby,Ruby programming,Introducing Helix,http://blog.skylight.io/introducing-helix/
+919,Lobsters,ruby,Ruby programming,Rails 5 — ActiveRecord Suppress — a step too far?,https://medium.com/spritle-software/rails-5-activerecord-suppress-a-step-too-far-d7ec2e4ed027
+920,Lobsters,ruby,Ruby programming,Distributed Locking with Redis and Ruby,https://www.mikeperham.com/2016/04/25/distributed-locking/
+921,Lobsters,ruby,Ruby programming,Surviving the Framework Hype Cycle,https://speakerdeck.com/tehviking/surviving-the-framework-hype-cycle
+922,Lobsters,ruby,Ruby programming,Today I accept that Rails is yesterday’s software.,https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39
+923,Lobsters,ruby,Ruby programming,Demeter: It’s not just a good idea. It’s the law.,http://devblog.avdi.org/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/
+924,Lobsters,ruby,Ruby programming,Effective Ruby dependency injection at scale,http://icelab.com.au/s/1429
+925,Lobsters,ruby,Ruby programming,Naming is Abstraction,http://benlakey.com/2016/04/29/naming-is-abstraction/
+926,Lobsters,ruby,Ruby programming,"Case-insensitive querying and Full Text Search on PostgreSQL, MySQL, and SQLite",https://github.com/thredded/db_text_search
+927,Lobsters,ruby,Ruby programming,Why The Lucky Stiff,http://priceonomics.com/why-the-lucky-stiff/
+928,Lobsters,ruby,Ruby programming,Lessons learned from some of the best Ruby codebases (part 1),http://tech.blacklane.com/2016/04/23/lessons-learned-from-some-of-the-best-ruby-codebases-part-1
+929,Lobsters,ruby,Ruby programming,Thredded: A new lightweight forums engine for Rails,https://thredded.org
+930,Lobsters,ruby,Ruby programming,No Need for RVM or Rbenv on OpenBSD (2014),http://frankgroeneveld.nl/2014/03/16/no-need-for-rvm-or-rbenv-on-openbsd
+931,Lobsters,ruby,Ruby programming,Some quick thoughts on input validation,http://devblog.avdi.org/2016/04/21/some-quick-thoughts-on-input-validation/
+932,Lobsters,ruby,Ruby programming,active_record_doctor - create indexes on unindexed foreign keys in your Rails app,https://github.com/gregnavis/active_record_doctor
+933,Lobsters,ruby,Ruby programming,RailsConf 2008 vs 2016,https://medium.com/table-xi/railsconf-2008-vs-2016-391b1fc3dcbc
+934,Lobsters,ruby,Ruby programming,How I hunted the most odd ruby bug,http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
+935,Lobsters,ruby,Ruby programming,Rodauth: Authentication and Account Management Framework for Rack Applications,http://rodauth.jeremyevans.net/
+936,Lobsters,ruby,Ruby programming,Lambdas and a List of Cats: Test-Driving Lambdas (2015),https://www.youtube.com/watch?v=Oq9M1YGpDVI
+937,Lobsters,ruby,Ruby programming,CQRS And You,https://www.youtube.com/watch?v=vfWEkv_X3Ac
+938,Lobsters,ruby,Ruby programming,Don’t you Struct.new(…).new(…),https://pragtob.wordpress.com/2016/04/12/dont-you-struct-new-new/
+939,Lobsters,ruby,Ruby programming,RubyGems.org gem replacement vulnerability and mitigation,http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html
+940,Lobsters,ruby,Ruby programming,A Tale of Security Gone Wrong,http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/
+941,Lobsters,ruby,Ruby programming,Two Dumb Ruby Mistakes - Pat Shaughnessy,http://patshaughnessy.net/2016/4/2/two-dumb-ruby-mistakes
+942,Lobsters,ruby,Ruby programming,Rails 5 ActionCable — The good and bad parts,https://blog.ably.io/rails-5-actioncable-the-good-and-bad-parts-1b56c3b31404
+943,Lobsters,ruby,Ruby programming,Forth Thinking,https://leanpub.com/readevalprintlove003/read
+944,Lobsters,ruby,Ruby programming,It's not Naming That's Hard—It's Types,http://naildrivin5.com/blog/2016/03/15/its-not-naming-its-types.html
+945,Lobsters,ruby,Ruby programming,Announcing dry-rb,http://dry-rb.org/news/2016/03/16/announcing-dry-rb/
+946,Lobsters,ruby,Ruby programming,Is it vulnerable?,https://isitvulnerable.com/
+947,Lobsters,ruby,Ruby programming,mrusty: mruby safe bindings for rust,https://github.com/anima-engine/mrusty
+948,Lobsters,ruby,Ruby programming,The Rails/Merb Merge In Retrospect (2014),http://gilesbowkett.blogspot.com/2014/06/the-railsmerb-merge-in-retrospect.html
+949,Lobsters,ruby,Ruby programming,Surprises in Ruby HTTP libraries,http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/
+950,Lobsters,ruby,Ruby programming,Using anonymous modules and prepend to work with generated code,https://blog.arkency.com/2016/02/using-anonymous-modules-and-prepend-to-work-with-generated-code/
+951,Lobsters,ruby,Ruby programming,How DHH organizes his Rails controllers,http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers
+952,Lobsters,ruby,Ruby programming,UC Berkeley Agile Development Using Ruby on Rails,https://www.edx.org/xseries/agile-development-using-ruby-rails
+953,Lobsters,ruby,Ruby programming,Making GitLab Faster,https://about.gitlab.com/2016/02/25/making-gitlab-faster/?
+954,Lobsters,ruby,Ruby programming,Memoization is a liability,http://thepugautomatic.com//2013/08/memoization-is-a-liability/
+955,Lobsters,ruby,Ruby programming,What I learned building an app in Hanami,https://rossta.net/blog/what-i-learned-about-hanami.html
+956,Lobsters,ruby,Ruby programming,The Ruby Community Code of Conduct,https://www.ruby-lang.org/en/conduct/
+957,Lobsters,ruby,Ruby programming,Slippery exceptions in Clojure and Ruby,http://blog.appcanary.com/2016/slippery-exception-clojure-ruby.html
+958,Lobsters,ruby,Ruby programming,So You Want to Use Pathnames…,http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
+959,Lobsters,ruby,Ruby programming,How to Brick OS X El Capitan Ruby Gem,https://cmcenroe.me/2016/02/16/el-capitan-gem-brick.html
+960,Lobsters,ruby,Ruby programming,An 'in' operator for Ruby?,http://rubyhacker.com/blog2/20151202.html
+961,Lobsters,ruby,Ruby programming,Ruby `parser` gem is accidentally quadratic,http://accidentallyquadratic.tumblr.com/post/139210135602/ruby-parser-gem
+962,Lobsters,ruby,Ruby programming,Projects That Are Making Blazing Fast Ruby a Reality,http://www.sitepoint.com/projects-that-are-making-blazing-fast-ruby-a-reality/
+963,Lobsters,ruby,Ruby programming,Using ActiveSupport::Notifications is harder than it should be,http://kreynolds.com/post/139115313765/using-activesupportnotifications-is-harder-than
+964,Lobsters,ruby,Ruby programming,Ruby Unsafe Reflection Vulnerabilities,https://www.praetorian.com/blog/ruby-unsafe-reflection-vulnerabilities
+965,Lobsters,ruby,Ruby programming,Automatic differentiation in Ruby,http://codon.com/automatic-differentiation-in-ruby
+966,Lobsters,ruby,Ruby programming,I am a puts debuggerer,https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
+967,Lobsters,ruby,Ruby programming,"The Xing Framework: Rails API & Angular.js, Simplified",http://xingframework.com
+968,Lobsters,ruby,Ruby programming,Factories,http://designisrefactoring.com/2016/02/03/factories/
+969,Lobsters,ruby,Ruby programming,"Scientist: Measure Twice, Cut Over Once",http://githubengineering.com/scientist/
+970,Lobsters,ruby,Ruby programming,Trailblazer: Newsletter January 2016,http://trailblazer.to/newsletter/2016-january.html
+971,Lobsters,ruby,Ruby programming,"A Small, Nice Thing",http://codahale.com/a-small-nice-thing/
+972,Lobsters,ruby,Ruby programming,Rails Dynamic Render to RCE (CVE-2016-0752),https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/
+973,Lobsters,ruby,Ruby programming,Upgrading to Ruby on Rails 5.0,http://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0
+974,Lobsters,ruby,Ruby programming,Multiple Ruby on Rails vulnerabilities,https://groups.google.com/forum/#!forum/rubyonrails-security
+975,Lobsters,ruby,Ruby programming,Creating A Safe Filename Sanitization Function,http://gavinmiller.io/2016/creating-a-secure-sanitization-function/
+976,Lobsters,ruby,Ruby programming,Analyzing rubygems stats for 2015,https://infinum.co/the-capsized-eight/articles/analyzing-rubygems-stats-v2015
+977,Lobsters,ruby,Ruby programming,Banning Mr. Nutter For Repeated Harassment,http://rubinius.com/2016/01/15/banning-mr-nutter-for-repeated-harassment/
+978,Lobsters,ruby,Ruby programming,The Rails Doctrine,http://rubyonrails.org/doctrine
+979,Lobsters,ruby,Ruby programming,"Errant: An Error ""Monad"" for Ruby",https://github.com/asthasr/errant
+980,Lobsters,ruby,Ruby programming,David Heinemeier Hansson on the Future of Rails,http://thepracticaldev.com/dhh-on-the-future-of-rails
+981,Lobsters,ruby,Ruby programming,Each form gets its own CSRF token in Rails 5,http://blog.bigbinary.com/2016/01/11/per-form-csrf-token-in-rails-5.html
+982,Lobsters,ruby,Ruby programming,Debugging gems with git bisect,http://blog.testdouble.com/posts/2016-01-12-debugging-dependencies-with-git-bisect.html
+983,Lobsters,ruby,Ruby programming,Improvements to error responses in Rails 5 API mode,http://wyeworks.com/blog/2016/1/12/improvements-to-error-responses-in-rails-5-api-mode
+984,Lobsters,ruby,Ruby programming,On DataFrame datatype in Ruby,http://zverok.github.io/blog/2016-01-10-dataframe.html
+985,Lobsters,ruby,Ruby programming,Rails vs Django: an in-depth technical comparison,https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/
+986,Lobsters,ruby,Ruby programming,Announcing Scenic - Versioned Database Views for Rails,https://robots.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails
+987,Lobsters,ruby,Ruby programming,"Ruby’s ""each_with_object"" vs. ""tap + each""",http://rorbservations.com/post/136975265334/each-with-object-vs-tap-plus-each
+988,Lobsters,ruby,Ruby programming,Contextual validations with form objects,http://blog.sundaycoding.com/blog/2016/01/08/contextual-validations-with-form-objects
+989,Lobsters,ruby,Ruby programming,ActiveRecord stole my data and now I want it back,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163#.45n1vceky
+990,Lobsters,ruby,Ruby programming,Ruby’s “unless X” is processed differently than “if !X”,http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently
+991,Lobsters,ruby,Ruby programming,ActiveRecord stole my data and now I want it back!,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163
+992,Lobsters,ruby,Ruby programming,ROM 1.0.0 Released,http://rom-rb.org/blog/2016/01/06/rom-1-0-0-released/
+993,Lobsters,ruby,Ruby programming,Review of Ruby Static Analysis Tools,http://blog.codacy.com/2015/12/31/review-of-ruby-static-analysis-tools/
+994,Lobsters,ruby,Ruby programming,JRuby+Truffle Update,http://lists.ruby-lang.org/pipermail/jruby/2015-December/000262.html
+995,Lobsters,ruby,Ruby programming,Switching from rbenv to postmodern’s ruby-install and chruby,https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.gv4ydwefw
+996,Lobsters,ruby,Ruby programming,Let's Not (2012),https://robots.thoughtbot.com/lets-not
+997,Lobsters,ruby,Ruby programming,Specialising Dynamic Techniques for Implementing The Ruby Programming Language,http://chrisseaton.com/phd/
+998,Lobsters,ruby,Ruby programming,Ruby 2.3.0 Released,https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/
+999,Lobsters,ruby,Ruby programming,Inline caching in MRI,http://tenderlovemaking.com/2015/12/23/inline-caching-in-mri.html
+1000,Lobsters,ruby,Ruby programming,Asynchronous caching in Ruby/Rails,https://precompile.com/2015/12/21/async-cache.html
+1001,Lobsters,ruby,Ruby programming,Integration API vs. Internal API,http://weblog.jamisbuck.org/2015/12/5/integration-api-vs-internal-api.html
+1002,Lobsters,ruby,Ruby programming,"Riding Rails: Rails 5.0.0.beta1: Action Cable, API mode, Rails command",http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/
+1003,Lobsters,ruby,Ruby programming,Rails 5: Action Cable demo,https://www.youtube.com/watch?v=n0WUjGkDFS0
+1004,Lobsters,ruby,Ruby programming,In-Memory Fake Adapters,http://blog.arkency.com/2015/12/in-memory-fake-adapters/
+1005,Lobsters,ruby,Ruby programming,How to Test Multithreaded Code,http://www.mikeperham.com/2015/12/14/how-to-test-multithreaded-code
+1006,Lobsters,ruby,Ruby programming,Kafka for Rubyists - Part 1,http://www.markphelps.me/2015/12/14/kafka-for-rubyists.html
+1007,Lobsters,ruby,Ruby programming,"25,000+ Req/s for Rack JSON API with MRuby",http://lucaguidi.com/2015/12/09/25000-requests-per-second-for-rack-json-api-with-mruby.html
+1008,Lobsters,ruby,Ruby programming,Why is nobody using Refinements?,http://interblah.net/why-is-nobody-using-refinements
+1009,Lobsters,ruby,Ruby programming,Ask DTrace: Why are my tests so slow?,https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-slow.html
+1010,Lobsters,ruby,Ruby programming,Exception Notification v4.1.2,https://rubygems.org/gems/exception_notification/versions/4.1.2
+1011,Lobsters,ruby,Ruby programming,Building A Tiny Web App,http://cannot.into.computer/2015/11/27/building-a-tiny-web-app.html
+1012,Lobsters,ruby,Ruby programming,Minuteman 2.0 released!,https://github.com/elcuervo/minuteman/releases/tag/v2.0.0
+1013,Lobsters,ruby,Ruby programming,Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle/Graal,https://pragtob.wordpress.com/2015/11/30/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-trufflegraal/
+1014,Lobsters,ruby,Ruby programming,Why Ruby’s Timeout is dangerous (and Thread.raise is terrifying),http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/
+1015,Lobsters,ruby,Ruby programming,The emergent elegance of Elixir scoping,http://thepugautomatic.com//2015/11/elixir-scoping/
+1016,Lobsters,ruby,Ruby programming,Making sure your rails app is thread safe,https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/
+1017,Lobsters,ruby,Ruby programming,The Seven Righteous fights,http://confreaks.tv/videos/rubyconf2015-the-seven-righteous-fights
+1018,Lobsters,ruby,Ruby programming,The Class That Never Ends,https://medium.com/@chancancode/the-class-that-never-ends-282e9e1114ca
+1019,Lobsters,ruby,Ruby programming,How to Stop Hating your Test Suite by Justin Searls,https://www.youtube.com/watch?v=VD51AkG8EZw&list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp&index=11
+1020,Lobsters,ruby,Ruby programming,Lessons Learned from Rust: The Result Monad in Ruby,http://www.codethatgrows.com/lessons-learned-from-rust-the-result-monad/
+1021,Lobsters,ruby,Ruby programming,How to stop hating your tests,http://blog.testdouble.com/posts/2015-11-16-how-to-stop-hating-your-tests.html
+1022,Lobsters,ruby,Ruby programming,Template Haskell Is Not Scary,http://www.parsonsmatt.org/programming/2015/11/15/template_haskell.html
+1023,Lobsters,ruby,Ruby programming,Ragel State Machine Compiler,https://www.colm.net/open-source/ragel/
+1024,Lobsters,ruby,Ruby programming,Sidekiq 4.0!,http://www.mikeperham.com/2015/11/16/sidekiq-4.0
+1025,Lobsters,ruby,Ruby programming,Rails Validations vs Postgres Check Constraints,http://naildrivin5.com/blog/2015/11/15/rails-validations-vs-postgres-check-constraints.html
+1026,Lobsters,ruby,Ruby programming,Unforgettable attributes,http://thepugautomatic.com//2015/11/unforgettable-attributes/
+1027,Lobsters,ruby,Ruby programming,Ruby 2.3.0 changes and features,http://dev.mensfeld.pl/2015/11/ruby-2-3-0-changes-and-features/
+1028,Lobsters,ruby,Ruby programming,How Ruby/Rails Developers Can Keep Updated On Security Alerts,http://gavinmiller.io/2015/staying-up-to-date-with-security-alerts/
+1029,Lobsters,ruby,Ruby programming,Ruby+redis cache with locking,https://github.com/seamusabshere/lock_and_cache
+1030,Lobsters,ruby,Ruby programming,ActiveRecord Dangers Cheat Sheet,https://www.valent.io/article/activerecord-dangers-cheat-sheet/
+1031,Lobsters,ruby,Ruby programming,Little Things: Refactoring with Hashes,http://weblog.jamisbuck.org/2015/11/14/little-things-refactoring-with-hashes.html
+1032,Lobsters,ruby,Ruby programming,Solving Einstein’s Riddle with Ruby,https://medium.com/@sean.handley/solving-einstein-s-riddle-with-ruby-e78ba9ebabe
+1033,Lobsters,ruby,Ruby programming,A Big Ball of Mud | Laurel & Wolf Engineering Blog,http://engineering.laurelandwolf.com/a-big-ball-of-mud/
+1034,Lobsters,ruby,Ruby programming,RefactorCop complains there are 182 offenses with Lobsters,http://www.refactorcop.com/jcs/lobsters
+1035,Lobsters,ruby,Ruby programming,How Ruby Interprets and Runs Your Programs,http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/
+1036,Lobsters,ruby,Ruby programming,Elixir is NOT Ruby,http://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html
+1037,Lobsters,ruby,Ruby programming,How to write better code using mutation testing,https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
+1038,Lobsters,ruby,Ruby programming,Fixing File Access Vulnerabilities in Ruby/Rails - Gavin Miller,http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
+1039,Lobsters,ruby,Ruby programming,Ruby Tricks,https://github.com/franzejr/ruby-tricks
+1040,Lobsters,ruby,Ruby programming,ActiveSupport’s #try might not be doing what you think it’s doing,http://devblog.avdi.org/2015/10/30/activesupports-try-might-not-be-doing-what-you-think-its-doing/
+1041,Lobsters,ruby,Ruby programming,Understanding Ruby Refinements and Lexical Scope,http://blog.honeybadger.io/understanding-ruby-refinements-and-lexical-scope/
+1042,Lobsters,ruby,Ruby programming,Using Resque with Rust,http://julienblanchard.com/2015/using-resque-with-rust/
+1043,Lobsters,ruby,Ruby programming,Digging Into the Finder Object Pattern,http://vaidehijoshi.github.io/blog/2015/10/27/digging-into-the-finder-object-pattern
+1044,Lobsters,ruby,Ruby programming,Anatomy of good service object,http://yukas.by/ruby/design/2015/10/22/anatomy-of-good-service-object/
+1045,Lobsters,ruby,Ruby programming,Testing What You Should Have Written,http://weblog.jamisbuck.org/2015/10/24/testing-what-you-should-have-written.html
+1046,Lobsters,ruby,Ruby programming,Lets Write Some Bad Ruby,http://hashrocket.com/blog/posts/lets-write-some-bad-ruby
+1047,Lobsters,ruby,Ruby programming,"Introduce ""Safe navigation operator""",https://bugs.ruby-lang.org/issues/11537
+1048,Lobsters,ruby,Ruby programming,Rails Development On Docker – Part 2,http://engineering.laurelandwolf.com/rails-development-on-docker-part-2/
+1049,Lobsters,ruby,Ruby programming,The not so low cost of calling dynamically defined methods,https://pragtob.wordpress.com/2015/10/20/the-not-so-low-cost-of-calling-dynamically-defined-methods/
+1050,Lobsters,ruby,Ruby programming,The Dynamic Def,http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
+1051,Lobsters,ruby,Ruby programming,Generating quines in Ruby,http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
+1052,Lobsters,ruby,Ruby programming,Fixing SQL Injection Vulnerabilities,http://gavinmiller.io/2015/fixing-sql-injection-vulnerabilities/
+1053,Lobsters,ruby,Ruby programming,Rust for Rubyists,http://www.youtube.com/watch?v=NaIXIKVxg3M
+1054,Lobsters,ruby,Ruby programming,"Non-Rails Web Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus",https://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/
+1055,Lobsters,ruby,Ruby programming,How to raise any object as a Ruby exception,http://blog.honeybadger.io/how-to-raise-any-object-as-a-ruby-exception/
+1056,Lobsters,ruby,Ruby programming,Canonical factories for testing with factory_girl_api,http://lexi-lambda.github.io/blog/2015/09/23/canonical-factories-for-testing-with-factory-girl-api/
+1057,Lobsters,ruby,Ruby programming,How I spent two weeks hunting a memory leak in Ruby,http://www.be9.io/2015/09/21/memory-leak/
+1058,Lobsters,ruby,Ruby programming,Fixing Command Injection Vulernabilities in Ruby/Rails,http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities
+1059,Lobsters,ruby,Ruby programming,Ditch Your ORM,http://solnic.eu/2015/09/18/ditch-your-orm.html
+1060,Lobsters,ruby,Ruby programming,Rack APIs with Sliver,http://freelancing-gods.com/2015/09/20/rack-apis-with-sliver.html
+1061,Lobsters,ruby,Ruby programming,Default Scopes are an Anti-Pattern,http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
+1062,Lobsters,ruby,Ruby programming,The sad state of web app deployment,http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/
+1063,Lobsters,ruby,Ruby programming,Deploying the Frankenjar,http://hackers.lookout.com/2013/08/deploying-the-frankenjar/
+1064,Lobsters,ruby,Ruby programming,Tell Don't Ask vs The Web,https://tmichel.github.io/2015/09/14/oo-controversies-tell-dont-ask-vs-the-web/
+1065,Lobsters,ruby,Ruby programming,"Hello, declarative world",http://codon.com/hello-declarative-world
+1066,Lobsters,ruby,Ruby programming,Ruby Virtual Machine Internals and Investigating Variable Scope,http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/
+1067,Lobsters,ruby,Ruby programming,Safely evaluating user-defined formulas and computations,https://practicingruby.com/articles/formula-processing?u=dc2ab0f9bb
+1068,Lobsters,ruby,Ruby programming,Rails Development On Docker - Part 1,http://engineering.laurelandwolf.com/rails-development-on-docker-part-1/
+1069,Lobsters,ruby,Ruby programming,Flipper: Insanely Easy Feature Flipping,http://www.railstips.org/blog/archives/2015/08/03/flipper-insanely-easy-feature-flipping/
+1070,Lobsters,ruby,Ruby programming,Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity,http://www.bailis.org/papers/feral-sigmod2015.pdf
+1071,Lobsters,ruby,Ruby programming,Know Your Sidekiq Testing Rights,https://blog.codeship.com/know-your-sidekiq-testing-rights/
+1072,Lobsters,ruby,Ruby programming,Migrating bajillions of database records at Stripe,http://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/
+1073,Lobsters,ruby,Ruby programming,Go at Basecamp,https://signalvnoise.com/posts/3897-go-at-basecamp
+1074,Lobsters,ruby,Ruby programming,Switching from RSpec to Minitest,http://www.3hv.co.uk/2014/02/14/lesson-of-the-day-switching-from-rspec-to-minitest/
+1075,Lobsters,ruby,Ruby programming,Using contracts.ruby With RSpec. Part 2 - waterlink blog,http://waterlink.github.io/blog/2015/08/31/using-contracts-dot-ruby-with-rspec-part-2/
+1076,Lobsters,ruby,Ruby programming,Ruby Together Monthly Update for August 2015,https://rubytogether.org/news/2015-08-18-august-2015-monthly-update
+1077,Lobsters,ruby,Ruby programming,"Designing And Building Stockfighter, Our Programming Game",http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/
+1078,Lobsters,ruby,Ruby programming,In search of performance - how we shaved 200ms off every POST request,https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/
+1079,Lobsters,ruby,Ruby programming,Rails Enum is a Sharp Knife,http://bendyworks.com/rails-enum-sharp-knife/
+1080,Lobsters,ruby,Ruby programming,The Unhappy Lambda,http://devblog.arnebrasseur.net/2014-06-the-unhappy-lambda
+1081,Lobsters,ruby,Ruby programming,Building a modern bridge between Ember 2.0 and Rails 5 with JSON API,http://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+1082,Lobsters,ruby,Ruby programming,Running three hours of Ruby tests in under three minutes,https://stripe.com/blog/distributed-ruby-testing
+1083,Lobsters,ruby,Ruby programming,Application border control with form objects,http://insights.workshop14.io/2015/07/23/application-border-control-with-ruby-form-objects.html
+1084,Lobsters,ruby,Ruby programming,JVMLS 2015 - Multi-Language Runtime,http://www.youtube.com/watch?v=kOnyJurioyw
+1085,Lobsters,ruby,Ruby programming,Mutation Testing in Ruby,http://slides.com/mwest-mdsol/m#/
+1086,Lobsters,ruby,Ruby programming,What it's like to come back to a Ruby project after 6 months,http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/
+1087,Lobsters,ruby,Ruby programming,"Rails patch decreases memory usage by 29%, improves response time 11%",http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance
+1088,Lobsters,ruby,Ruby programming,Getting Testy: Redux,http://randycoulman.com//blog/2015/08/04/getting-testy-redux/
+1089,Lobsters,ruby,Ruby programming,Lessons Learned Building a Git-Based Knowledge Base for my SaaS product,https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product
+1090,Lobsters,ruby,Ruby programming,Ode to Sequel,http://twin.github.io/ode-to-sequel/
+1091,Lobsters,ruby,Ruby programming,RubySpec is Reborn!,http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
+1092,Lobsters,ruby,Ruby programming,Scaling Ruby Apps to 1000 Requests per Minute,http://nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
+1093,Lobsters,ruby,Ruby programming,Skyscrapers and Doghouses,https://www.valent.io/article/skyscrapers-and-doghouses/
+1094,Lobsters,ruby,Ruby programming,"asdf - extendable version manager for Ruby, Elixir, Erlang & Node.js",http://github.com/HashNuke/asdf
+1095,Lobsters,ruby,Ruby programming,JRuby 9000 released,http://blog.jruby.org/2015/07/jruby_9000/
+1096,Lobsters,ruby,Ruby programming,Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching,http://nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html
+1097,Lobsters,ruby,Ruby programming,How I upgraded my Ruby with Contracts,http://julienblanchard.com/2015/contracts-with-ruby/
+1098,Lobsters,ruby,Ruby programming,JRuby - Just Ruby,http://blog.eurucamp.org/2015/07/08/jruby-just-ruby/
+1099,Lobsters,ruby,Ruby programming,Testing an Event Sourced application,http://blog.arkency.com/2015/07/testing-event-sourced-application/
+1100,Lobsters,ruby,Ruby programming,Ruby is defined by terrible tools,http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/
+1101,Lobsters,ruby,Ruby programming,Building a Ruby Gem in 2015,https://mattbrictson.com/building-a-gem-in-2015
+1102,Lobsters,ruby,Ruby programming,A Look at Rails 5,https://blog.engineyard.com/2015/a-look-at-rails-5
+1103,Lobsters,ruby,Ruby programming,How to Build a Rails 5 API Only and Ember Application,http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application
+1104,Lobsters,ruby,Ruby programming,Announcing Lotus v0.4.0,http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html
+1105,Lobsters,ruby,Ruby programming,Sprinkling Some AngularJS on Your Donut Rails App,http://bendyworks.com/angularjs-rails-donuts/
+1106,Lobsters,ruby,Ruby programming,Verifying SSL Connections to Amazon S3 in CentOS 6 via Ruby,http://grahamlyons.com/article/verifying-ssl-connections-to-amazon-s3-in-centos-6-via-ruby
+1107,Lobsters,ruby,Ruby programming,CVE-2015-3900 Request hijacking vulnerability in RubyGems 2.4.6 and earlier,http://blog.rubygems.org/2015/05/14/CVE-2015-3900.html
+1108,Lobsters,ruby,Ruby programming,How We Moved Our API From Ruby to Go and Saved Our Sanity,http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
+1109,Lobsters,ruby,Ruby programming,"Cleaner, safer Ruby API clients with Kleisli",http://thoughts.codegram.com/cleaner-safer-ruby-api-clients-with-kleisli/
+1110,Lobsters,ruby,Ruby programming,Cutting Corners or Why Rails May Kill Ruby,http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html
+1111,Lobsters,ruby,Ruby programming,Demystifying @tenderlove's homeopathic code optimizations,http://nithinbekal.com/posts/homeopathic-code-optimizations/
+1112,Lobsters,ruby,Ruby programming,when a+b+c != c+b+a,http://ruru.name/entries/when-a-plus-b-plus-c-equals-c-plus-b-plus-a/
+1113,Lobsters,ruby,Ruby programming,Mongo BSON Injection: Ruby Regexps Strike Again,http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html
+1114,Lobsters,ruby,Ruby programming,Filterer,https://github.com/dobtco/filterer
+1115,Lobsters,ruby,Ruby programming,Doczar - lightweight documentation system,https://github.com/shenanigans/node-doczar
+1116,Lobsters,ruby,Ruby programming,Inverting Dependencies,https://abernardes.github.io/2014/11/04/inverting-dependencies.html
+1117,Lobsters,ruby,Ruby programming,Using JSON Web Tokens to Authenticate JavaScript Front-Ends on Rails,http://zacstewart.com/2015/05/14/using-json-web-tokens-to-authenticate-javascript-front-ends-on-rails.html
+1118,Lobsters,ruby,Ruby programming,Middleman: Static Sites Aren’t Just for Blogs,https://blog.engineyard.com/2015/middleman-static-sites-arent-just-for-blogs
+1119,Lobsters,ruby,Ruby programming,"On Rails 5, Presenters, And Form Objects.",http://nicksda.apotomo.de/2015/05/on-rails5-presenters-and-form-objects/
+1120,Lobsters,ruby,Ruby programming,Going down the rabbit hole of Ruby's object conversions,https://mauricio.github.io/2014/02/24/ruby-object-conversions.html
+1121,Lobsters,ruby,Ruby programming,The Ruby Community: The Next Version,http://hawkins.io/2015/05/the-ruby-community-the-next-version/
+1122,Lobsters,ruby,Ruby programming,An open letter to Matz on Ruby type systems (2014),http://tonyarcieri.com/an-open-letter-to-matz-on-ruby-type-systems
+1123,Lobsters,ruby,Ruby programming,How Ruby Uses Memory,http://www.sitepoint.com/ruby-uses-memory/
+1124,Lobsters,ruby,Ruby programming,Strong Parameters Are A Weak Schema,http://gilesbowkett.blogspot.com/2015/05/strong-parameters-are-weak-schema.html
+1125,Lobsters,ruby,Ruby programming,Ruby: The Last Eight Years,http://www.informit.com/articles/article.aspx?p=2350703
+1126,Lobsters,ruby,Ruby programming,Timeout: Ruby's Most Dangerous API,http://www.mikeperham.com/2015/05/08/timeout-rubys-most-dangerous-api
+1127,Lobsters,ruby,Ruby programming,"Testing async emails, the Rails 4.2+ way",https://blog.engineyard.com/2015/testing-async-emails-rails-42
+1128,Lobsters,ruby,Ruby programming,Cohesive behaviors with data clumps (in Ruby),http://www.saturnflyer.com/blog/jim/2015/04/30/cohesive-behaviors-with-data-clumps/
+1129,Lobsters,ruby,Ruby programming,Better Persistence with ROM,http://hawkins.io/2015/04/better-persistence-with-rom/
+1130,Lobsters,ruby,Ruby programming,Policy change about gem yank,http://blog.rubygems.org/2015/04/13/permadelete-on-yank.html
+1131,Lobsters,ruby,Ruby programming,Your template language is killing the web.,https://medium.com/@bryanp/your-template-language-is-killing-the-web-33259fd1c3fd
+1132,Lobsters,ruby,Ruby programming,"On Haskell, Ruby, and Cards Against Humanity",http://www.drmaciver.com/2015/04/on-haskell-ruby-and-cards-against-humanity/
+1133,Lobsters,ruby,Ruby programming,What Comes After MVC,http://www.youtube.com/watch?v=pjqXMqHzIZs
+1134,Lobsters,ruby,Ruby programming,Disable dangerous rake tasks in production,http://www.developingandrails.com/2015/01/disable-dangerous-rake-tasks-in.html
+1135,Lobsters,ruby,Ruby programming,The difference between instance_eval and instance_exec,http://www.saturnflyer.com/blog/jim/2015/04/22/the-difference-between-instance_eval-and-instance_exec/
+1136,Lobsters,ruby,Ruby programming,Locality and Cohesion,http://www.saturnflyer.com/blog/jim/2015/04/21/locality-and-cohesion/
+1137,Lobsters,ruby,Ruby programming,Kiba - a lightweight Ruby ETL framework,http://www.kiba-etl.org/
+1138,Lobsters,ruby,Ruby programming,Common pitfalls in the Cuba microframework,http://posts.tonchis.me/common-pitfalls-in-cuba.html
+1139,Lobsters,ruby,Ruby programming,A Ruby Periscope API client,https://github.com/gabrielg/periscope_api
+1140,Lobsters,ruby,Ruby programming,Engine Yard Becomes Founding Corporate Sponsor of Ruby Together,https://blog.engineyard.com/2015/engineyard-ruby-together
+1141,Lobsters,ruby,Ruby programming,Introducing Transproc - functional data transformations for Ruby,http://solnic.eu/2015/04/16/introducing-transproc-functional-data-transformations-for-ruby.html
+1142,Lobsters,ruby,Ruby programming,Testing is Science,http://benlakey.com/2014/05/04/testing-is-science/
+1143,Lobsters,ruby,Ruby programming,You got Haskell in my Ruby! Cleaner Ruby validations using the Either monad and Kleisli gem,https://blog.abevoelker.com/you-got-haskell-in-my-ruby-cleaner-ruby-validations-using-either-monad-kleisli-gem/
+1144,Lobsters,ruby,Ruby programming,Would you like to preview a RailsConf 2015 talk on aging codebases?,/s/j1fbp2/would_you_like_preview_railsconf_2015
+1145,Lobsters,ruby,Ruby programming,Rubype: Gradual type checking for Ruby,https://github.com/gogotanaka/Rubype
+1146,Lobsters,ruby,Ruby programming,Ruby DSL Handbook 50% off today,http://clean-ruby.com/dsl
+1147,Lobsters,ruby,Ruby programming,Ruby global method cache invalidation impact on a single and multithreaded applications,http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/
+1148,Lobsters,ruby,Ruby programming,Introducing Field Notes & Code Safari,http://hawkins.io/2015/04/introducing-field-notes/
+1149,Lobsters,ruby,Ruby programming,Shoulda Matchers - Simple One-Liner Tests for Rails,http://matchers.shoulda.io/
+1150,Lobsters,ruby,Ruby programming,Skinny Models – the DAO pattern for Ruby persistence (2013),https://jdanger.com/skinny-models-the-dao-pattern-for-ruby-persistence.html
+1151,Lobsters,ruby,Ruby programming,"Purifying the Sea of PDF Data, Automatically",http://open.blogs.nytimes.com/2015/04/03/purifying-the-sea-of-pdf-data-automatically/?module=BlogPost-Title&version=Blog+Main&contentCollection=General&action=Click&pgtype=Blogs&region=Body&_r=0
+1152,Lobsters,ruby,Ruby programming,On Ruby,http://hawkins.io/2015/03/on-ruby/
+1153,Lobsters,ruby,Ruby programming,Creating a BBS in 2015,https://jcs.org/notaweblog/2015/04/02/creating_a_bbs_in_2015/
+1154,Lobsters,ruby,Ruby programming,Functional Programming in Ruby with Contracts,http://viget.com/extend/functional-programming-in-ruby-with-contracts
+1155,Lobsters,ruby,Ruby programming,Debugging memory leaks in Ruby,http://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby
+1156,Lobsters,ruby,Ruby programming,Seven Unusual Ruby Datastores,https://blog.engineyard.com/2015/seven-unusual-ruby-datastores
+1157,Lobsters,ruby,Ruby programming,Debugging Stuck Ruby Processes with gdb – What to do Before You Kill -9,http://blog.newrelic.com/2013/04/29/debugging-stuck-ruby-processes-what-to-do-before-you-kill-9/
+1158,Lobsters,ruby,Ruby programming,Random Numbers without Mutation,https://pbrisbin.com/posts/random_numbers_without_mutation/
+1159,Lobsters,ruby,Ruby programming,Decrease Coupling and Increase Cohesion with Publisher-Subscriber,http://www.enotagain.com/essays/how-to-separate-concerns-with-publisher-subscriber.html
+1160,Lobsters,ruby,Ruby programming,Forest Fires and Life After Rails,https://medium.com/@_devbob/forest-fires-and-life-after-rails-5558e848d911
+1161,Lobsters,ruby,Ruby programming,Ruby in Production: Lessons Learned,https://medium.com/@rdsubhas/ruby-in-production-lessons-learned-36d7ab726d99
+1162,Lobsters,ruby,Ruby programming,"Introducing Pakyow UI: Build Realtime, Backend-Driven Web Apps",https://vimeo.com/122983514
+1163,Lobsters,ruby,Ruby programming,Understanding Rack Apps and Middleware,https://blog.engineyard.com/2015/understanding-rack-apps-and-middleware
+1164,Lobsters,ruby,Ruby programming,HTTP request snippet generator for many languages.,https://github.com/Mashape/httpsnippet
+1165,Lobsters,ruby,Ruby programming,Announcing Ruby Together,https://rubytogether.org/news/2015-03-17-announcing-ruby-together
+1166,Lobsters,ruby,Ruby programming,Deploying Ruby on Rails applications with ansible,http://andrey.chernih.me/2015/03/15/deploying-ruby-on-rails-applications-with-ansible/
+1167,Lobsters,ruby,Ruby programming,Life Beyond Rails 2: A Second Look at Alternate Web Frameworks for Ruby,https://blog.engineyard.com/2015/life-beyond-rails-2-second-look-alternate-web-frameworks-ruby
+1168,Lobsters,ruby,Ruby programming,Isomorphic App Development with Ruby and Volt (2014),http://confreaks.tv/videos/rubyconf2014-isomorphic-app-development-with-ruby-and-volt
+1169,Lobsters,ruby,Ruby programming,"Modular, composable Gemfiles",https://medium.com/@szalansky/modular-composable-gemfiles-5545c83b5319
+1170,Lobsters,ruby,Ruby programming,InfraRuby is a compiler and runtime for statically typed Ruby.,http://infraruby.com/blog/infraruby-3-6-released
+1171,Lobsters,ruby,Ruby programming,My Weird Ruby,http://awardwinningfjords.com/2015/03/03/my-weird-ruby.html
+1172,Lobsters,ruby,Ruby programming,The Recipe for the World's Largest Rails Monolith,https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
+1173,Lobsters,ruby,Ruby programming,Hashie Considered Harmful,http://www.schneems.com/2014/12/15/hashie-considered-harmful.html
+1174,Lobsters,ruby,Ruby programming,"From a Ruby monolith to microservices in Go, lessons learned",https://sourcegraph.com/blog/live/gopherconindia/112656568167
+1175,Lobsters,ruby,Ruby programming,Moving from a monolithic Ruby app to microservices in Go,https://sourcegraph.com/blog/live/gopherconindia/112656568167
+1176,Lobsters,ruby,Ruby programming,Hacking S-expressions into Ruby,https://sonnym.github.io/2015/02/26/hacking-s-expressions-into-ruby/
+1177,Lobsters,ruby,Ruby programming,Show Lobster: Express probabilities directly in code. A DSL for querying for probabilities,https://github.com/iamwilhelm/prolly
+1178,Lobsters,ruby,Ruby programming,Why blocks make Ruby methods 439% slower,https://www.omniref.com/ruby/2.2.0/symbols/Proc/yield?#annotation=4087638&line=711
+1179,Lobsters,ruby,Ruby programming,Serving Custom JSON From Your Rails API With ActiveModel::Serializers,https://blog.engineyard.com/2015/active-model-serializers
+1180,Lobsters,ruby,Ruby programming,Using PostgreSQL and jsonb with Ruby on Rails,http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails
+1181,Lobsters,ruby,Ruby programming,Predicting Test Failures,http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html
+1182,Lobsters,ruby,Ruby programming,Rspec::Varys: Generate Contract Tests From Collaboration Tests,https://github.com/ritchiey/rspec-varys
+1183,Lobsters,ruby,Ruby programming,A Monadic Approach to Error Handling in Collection Pipelines,https://michaelfeathers.silvrback.com/a-monadic-approach-to-error-handling-in-collection-pipelines
+1184,Lobsters,ruby,Ruby programming,Getting Started With Ruby Processing,https://blog.engineyard.com/2015/getting-started-with-ruby-processing
+1185,Lobsters,ruby,Ruby programming,"How to Fix ""toplevel constant Foo referenced by Bar::Baz:Foo"" in Rails",http://www.enotagain.com/essays/how-to-fix-toplevel-constant-foo-referenced-by-bar-baz-foo-in-rails.html
+1186,Lobsters,ruby,Ruby programming,Life Beyond Rails: A Brief Look at Alternate Web Frameworks for Ruby,https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby
+1187,Lobsters,ruby,Ruby programming,Test Drive Your Dockerfiles with RSpec and ServerSpec,http://robots.thoughtbot.com/tdd-your-dockerfiles-with-rspec-and-serverspec
+1188,Lobsters,ruby,Ruby programming,I am a hybrid developer,http://notmagic.org/2015/02/15/hybrid
+1189,Lobsters,ruby,Ruby programming,Why Methods Are Sometimes Better than Constants,http://www.enotagain.com/essays/why-methods-are-sometimes-better-than-constants.html
+1190,Lobsters,ruby,Ruby programming,The 4 Rules of East-oriented Code: Rule 1,http://www.saturnflyer.com/blog/jim/2015/02/10/the-4-rules-of-east-oriented-code-rule-1/
+1191,Lobsters,ruby,Ruby programming,Increasing Performance While Decreasing Price: Testing the New T2 Instances From Amazon,https://blog.engineyard.com/2015/increasing-performance-decreasing-price-testing-t2-instances
+1192,Lobsters,ruby,Ruby programming,A Fast Blogging Solution: Building a Simple Jekyll Blog,https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog
+1193,Lobsters,ruby,Ruby programming,"Running Ruby on Rails on IIS8 (or anything else, really) with the new HttpPlatformHandler",http://www.hanselman.com/blog/AnnouncingRunningRubyOnRailsOnIIS8OrAnythingElseReallyWithTheNewHttpPlatformHandler.aspx
+1194,Lobsters,ruby,Ruby programming,Ruby DSL Handbook,http://clean-ruby.com/dsl
+1195,Lobsters,ruby,Ruby programming,Consider static typing,http://codon.com/consider-static-typing
+1196,Lobsters,ruby,Ruby programming,Querying Ruby Objects Using FP,http://cabaltherapy.com/querying-ruby-objects-using-functional-programming/
+1197,Lobsters,ruby,Ruby programming,It's raining gems! - How to build your own Ruby gem,https://blog.engineyard.com/2015/its-raining-gems
+1198,Lobsters,ruby,Ruby programming,I Have No Idea What I’m Doing,http://codon.com/i-have-no-idea-what-im-doing
+1199,Lobsters,ruby,Ruby programming,Very High Performance C Extensions For JRuby + Truffle,http://www.chrisseaton.com/rubytruffle/cext/
+1200,Lobsters,ruby,Ruby programming,6 Gems to Make Rails Development Easier,http://www.enotagain.com/essay/6-gems-to-make-rails-development-easier.html
+1201,Lobsters,ruby,Ruby programming,Getting Started with Sinatra.rb and Ember-CLI,http://bendyworks.com/frank-fire-sinatra-ember-cli/
+1202,Lobsters,ruby,Ruby programming,JRuby 9.0.0.0-pre1 Released,http://jruby.org/2015/01/20/jruby-9-0-0-0-pre1.html
+1203,Lobsters,ruby,Ruby programming,Tuning Ruby's Global Method Cache,https://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache
+1204,Lobsters,ruby,Ruby programming,Ruby Forwardable deep dive,http://www.saturnflyer.com/blog/jim/2015/01/20/ruby-forwardable-deep-dive/
+1205,Lobsters,ruby,Ruby programming,"Instances, Classes, and Modules, Oh My!",https://blog.engineyard.com/2015/instances-classes-and-modules
+1206,Lobsters,ruby,Ruby programming,railsbox.io - Ruby on Rails virtual machines with vagrant and ansible,https://railsbox.io/
+1207,Lobsters,ruby,Ruby programming,Five Ruby Methods You Should Be Using,https://blog.engineyard.com/2015/five-ruby-methods-you-should-be-using#read-more
+1208,Lobsters,ruby,Ruby programming,"Slides of my talk ""Lord of the Code Smells for Padrino"" @rug_b are online",https://speakerdeck.com/wikimatze/lord-of-the-code-smells-for-padrino
+1209,Lobsters,ruby,Ruby programming,Engine Yard Sponsors Bundler,https://blog.engineyard.com/2015/engine-yard-sponsors-bundler
+1210,Lobsters,ruby,Ruby programming,CGI: Ruby's Bare Metal,http://www.mikeperham.com/2015/01/05/cgi-rubys-bare-metal/
+1211,Lobsters,ruby,Ruby programming,Matz's Ruby Developers Don't Use RubySpec and It's Hurting Ruby,http://rubini.us/2014/12/31/matz-s-ruby-developers-don-t-use-rubyspec/
+1212,Lobsters,ruby,Ruby programming,Graph Kit for Ruby: Deployment with Graph Story and Engine Yard,https://blog.engineyard.com/2014/graph-kit-for-ruby-deployment-with-graph-story-engine-yard
+1213,Lobsters,ruby,Ruby programming,Avoiding clever mistakes when displaying data with missing values,http://www.saturnflyer.com/blog/jim/2014/12/30/avoiding-clever-mistakes-when-displaying-data-with-missing-values/
+1214,Lobsters,ruby,Ruby programming,Ruby 2.2.0 Released,https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/
+1215,Lobsters,ruby,Ruby programming,Ruby Isn't Dead,https://blog.engineyard.com/2014/ruby-isnt-dead
+1216,Lobsters,ruby,Ruby programming,Enforcing encapsulation with East-oriented Code,http://www.saturnflyer.com/blog/jim/2014/12/23/enforcing-encapsulation-with-east-oriented-code/
+1217,Lobsters,ruby,Ruby programming,Graph Kit for Ruby: Bootstrapping a Spree Store and Integrating with Neo4j,https://blog.engineyard.com/2014/graph-kit-for-ruby-bootstrapping-a-spree-store-integrating-with-neo4j
+1218,Lobsters,ruby,Ruby programming,Algorithms playground for common questions solved in Ruby syntax,https://github.com/sagivo/algorithms
+1219,Lobsters,ruby,Ruby programming,Rails 4.2,http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/
+1220,Lobsters,ruby,Ruby programming,"The Unified API for Mobile App, Game and Web Testing",http://testdroid.com/testdroid/8718/the-powerful-api-for-your-mobile-app-game-and-web-testing
+1221,Lobsters,ruby,Ruby programming,Preferring value objects or setters and arguments,http://www.saturnflyer.com/blog/jim/2014/12/16/preferring-value-objects-or-setters-and-arguments/
+1222,Lobsters,ruby,Ruby programming,Graph Kit for Ruby: Let’s Build a Recommendation Engine for a Spree Store,https://blog.engineyard.com/2014/graph-kit-for-ruby-lets-build-a-recommendation-engine-for-a-spree-store
+1223,Lobsters,ruby,Ruby programming,"Ruby compiled with Clang is 8% faster than with GCC 4.9, 44% faster than with GCC 4.7.2",http://cirandas.net/brauliobo/blog/ruby-compiled-with-clang-is-8-faster-than-with-gcc-4.9-and-44-faster-than-with-gcc-4.7.2
+1224,Lobsters,ruby,Ruby programming,My first ruby script - what was yours?,http://pragtob.wordpress.com/2014/12/09/my-first-ruby-script/
+1225,Lobsters,ruby,Ruby programming,Seven Reasons I Love Minitest,https://blog.engineyard.com/2014/seven-reasons-i-love-minitest
+1226,Lobsters,ruby,Ruby programming,Managing change using a common interface,http://www.saturnflyer.com/blog/jim/2014/12/09/managing-change-using-a-common-interface/
+1227,Lobsters,ruby,Ruby programming,Traveling Ruby,http://phusion.github.io/traveling-ruby/
+1228,Lobsters,ruby,Ruby programming,Timeout Quickly,https://engineering.heroku.com/blogs/2014-12-05-timeout-quickly
+1229,Lobsters,ruby,Ruby programming,Keeping it Simple: APIs and Sinatra,https://blog.engineyard.com/2014/doing-an-api-mashup-with-sinatra
+1230,Lobsters,ruby,Ruby programming,Eastward Ho! A Clear Path Through Ruby With OO - Ruby Conference 2014 presentation,http://confreaks.com/videos/4825-RubyConf2014-eastward-ho-a-clear-path-through-ruby-with-oo
+1231,Lobsters,ruby,Ruby programming,Have Some (Referential) Integrity with Foreign Keys,http://robots.thoughtbot.com/referential-integrity-with-foreign-keys
+1232,Lobsters,ruby,Ruby programming,Coven - All the news a programmer could ever need. Open sourced Chrome extension,http://www.coven.link
+1233,Lobsters,ruby,Ruby programming,"Forwarding messages with Tell, Don't Ask",http://www.saturnflyer.com/blog/jim/2014/12/02/forwarding-messages-with-tell-dont-ask/
+1234,Lobsters,ruby,Ruby programming,Ruby API Versioning & Enforcement,http://bendyworks.com/caravan-ruby-api-versioning-enforcement/
+1235,Lobsters,ruby,Ruby programming,Speeding up Rails 4.2,http://samsaffron.com/archive/2014/12/01/speeding-up-rails-4-2
+1236,Lobsters,ruby,Ruby programming,"A presentation on how I'm using Sidekiq, Amazon SQS, Golang, Logstash and Elasticsearch at my day jo",http://ryanbrink.com/day-job
+1237,Lobsters,ruby,Ruby programming,"Versioned, Validated API Server example app",https://github.com/bendyworks/caravan
+1238,Lobsters,ruby,Ruby programming,Password Security: The Anatomy of a Hash,https://blog.engineyard.com/2014/password-security-part-3
+1239,Lobsters,ruby,Ruby programming,Deoptimizing Ruby,http://www.chrisseaton.com/rubytruffle/deoptimizing/
+1240,Lobsters,ruby,Ruby programming,Clean Ruby 1.0 is released!,http://www.saturnflyer.com/blog/jim/2014/11/22/clean-ruby-1-0-is-released/
+1241,Lobsters,ruby,Ruby programming,Avoiding errors when forwarding to missing objects,http://www.saturnflyer.com/blog/jim/2014/11/21/avoiding-errors-when-forwarding-to-missing-objects/
+1242,Lobsters,ruby,Ruby programming,"Shorter, simpler code with Forwardable",http://www.saturnflyer.com/blog/jim/2014/11/15/shorter-simpler-code-with-forwardable/
+1243,Lobsters,ruby,Ruby programming,Rubinius 3.0 - Part 3: The Instructions,http://rubini.us/2014/11/12/rubinius-3-0-part-3-the-instructions/
+1244,Lobsters,ruby,Ruby programming,Will Ruby 3.0 be Statically Typed?,https://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/
+1245,Lobsters,ruby,Ruby programming,Writing DSLs in Ruby without monkeypatching Object,http://pragtob.wordpress.com/2014/11/19/writing-dsls-in-ruby-without-monkeypatching-object/
+1246,Lobsters,ruby,Ruby programming,Password Security Part 1: By The Numbers,https://blog.engineyard.com/2014/password-security-part-1
+1247,Lobsters,ruby,Ruby programming,Rubinius 3.0 articles,http://rubini.us/2014/11/14/rubinius-3-0-part-5-the-language/
+1248,Lobsters,ruby,Ruby programming,So You've Decided to Contribute to Ruby,https://blog.engineyard.com/2014/contribute-to-ruby
+1249,Lobsters,ruby,Ruby programming,Ru - Ruby in your shell!,https://github.com/tombenner/ru
+1250,Lobsters,ruby,Ruby programming,Event based response in JavaScript,http://pothibo.com/2014/11/event-based-response-in-javascript

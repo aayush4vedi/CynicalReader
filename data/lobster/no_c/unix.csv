@@ -1,0 +1,1251 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,unix,Unix,Performance and resource usage of shells,https://nixers.net/showthread.php?tid=1526&page=2
+2,Lobsters,unix,Unix,QSN: A Familiar String Interchange Format (draft),http://www.oilshell.org/preview/doc/qsn.html
+3,Lobsters,unix,Unix,Oil Language Idioms (draft),http://www.oilshell.org/preview/doc/idioms.html
+4,Lobsters,unix,Unix,Turn shell commands into APIs,https://github.com/BBVA/kapow
+5,Lobsters,unix,Unix,The Relevance of Classic Fuzz Testing: Have We Solved This One?,https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf
+6,Lobsters,unix,Unix,"File handling in Unix: tips, traps and outright badness",https://rachelbythebay.com/w/2020/08/11/files/
+7,Lobsters,unix,Unix,sh(1) simple combined log analytics for static sites (wip),https://adi.tilde.institute/cbl/
+8,Lobsters,unix,Unix,Where do argc and argv come from?,https://briancallahan.net/blog/20200808.html
+9,Lobsters,unix,Unix,shfm - a tiny file manager written in posix shell,https://github.com/dylanaraps/shfm
+10,Lobsters,unix,Unix,v1.1.2 · Dacav / cRoSSbow,https://gitlab.com/dacav/crossbow/-/releases/v1.1.2
+11,Lobsters,unix,Unix,"termpdf.py - A graphical pdf (and epub and cbz) viewer, written in python, that works inside kitty",https://github.com/dsanson/termpdf.py
+12,Lobsters,unix,Unix,Enhanced Shell Scripting with Ruby,https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
+13,Lobsters,unix,Unix,Dennis Ritchie's Dissertation,https://minnie.tuhs.org/pipermail/tuhs/2020-August/021937.html
+14,Lobsters,unix,Unix,"TAP producing, sh(1) testing library",https://adi.tilde.institute/test.sh/
+15,Lobsters,unix,Unix,When Unix learned to reboot(2),http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html
+16,Lobsters,unix,Unix,Shell Shortcuts,https://justingarrison.com/blog/2020-05-28-shell-shortcuts/
+17,Lobsters,unix,Unix,C's main() is one of the places where Unix's user and kernel APIs differ,https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI
+18,Lobsters,unix,Unix,Oil Summer 2020 Blog Roadmap,http://www.oilshell.org/blog/2020/07/blog-roadmap.html
+19,Lobsters,unix,Unix,Old School UNIX Disk Partitions,https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html
+20,Lobsters,unix,Unix,import - a simple and fast module system for Bash and other Unix shells,https://import.pw/
+21,Lobsters,unix,Unix,Traditional Unix Toolchains,https://bsdimp.blogspot.com/2020/07/traditional-unix-toolchains.html?m=1
+22,Lobsters,unix,Unix,2.11BSD Original Tapes Recreation,http://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html
+23,Lobsters,unix,Unix,How major and minor device numbers worked in V7 Unix,https://utcc.utoronto.ca/~cks/space/blog/unix/V7DeviceNumbersHow
+24,Lobsters,unix,Unix,Trusted Extensions Desktop,https://community.oracle.com/blogs/gfaden/2020/07/08/trusted-extensions-desktop-is-reborn
+25,Lobsters,unix,Unix,Vim's Versatile CLI,https://www.youtube.com/watch?v=pt36X1OJRG4
+26,Lobsters,unix,Unix,Performance and resource usage of shells,https://nixers.net/showthread.php?tid=1526&page=2
+27,Lobsters,unix,Unix,QSN: A Familiar String Interchange Format (draft),http://www.oilshell.org/preview/doc/qsn.html
+28,Lobsters,unix,Unix,Oil Language Idioms (draft),http://www.oilshell.org/preview/doc/idioms.html
+29,Lobsters,unix,Unix,Turn shell commands into APIs,https://github.com/BBVA/kapow
+30,Lobsters,unix,Unix,The Relevance of Classic Fuzz Testing: Have We Solved This One?,https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf
+31,Lobsters,unix,Unix,"File handling in Unix: tips, traps and outright badness",https://rachelbythebay.com/w/2020/08/11/files/
+32,Lobsters,unix,Unix,sh(1) simple combined log analytics for static sites (wip),https://adi.tilde.institute/cbl/
+33,Lobsters,unix,Unix,Where do argc and argv come from?,https://briancallahan.net/blog/20200808.html
+34,Lobsters,unix,Unix,shfm - a tiny file manager written in posix shell,https://github.com/dylanaraps/shfm
+35,Lobsters,unix,Unix,v1.1.2 · Dacav / cRoSSbow,https://gitlab.com/dacav/crossbow/-/releases/v1.1.2
+36,Lobsters,unix,Unix,"termpdf.py - A graphical pdf (and epub and cbz) viewer, written in python, that works inside kitty",https://github.com/dsanson/termpdf.py
+37,Lobsters,unix,Unix,Enhanced Shell Scripting with Ruby,https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
+38,Lobsters,unix,Unix,Dennis Ritchie's Dissertation,https://minnie.tuhs.org/pipermail/tuhs/2020-August/021937.html
+39,Lobsters,unix,Unix,"TAP producing, sh(1) testing library",https://adi.tilde.institute/test.sh/
+40,Lobsters,unix,Unix,When Unix learned to reboot(2),http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html
+41,Lobsters,unix,Unix,Shell Shortcuts,https://justingarrison.com/blog/2020-05-28-shell-shortcuts/
+42,Lobsters,unix,Unix,C's main() is one of the places where Unix's user and kernel APIs differ,https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI
+43,Lobsters,unix,Unix,Oil Summer 2020 Blog Roadmap,http://www.oilshell.org/blog/2020/07/blog-roadmap.html
+44,Lobsters,unix,Unix,Old School UNIX Disk Partitions,https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html
+45,Lobsters,unix,Unix,import - a simple and fast module system for Bash and other Unix shells,https://import.pw/
+46,Lobsters,unix,Unix,Traditional Unix Toolchains,https://bsdimp.blogspot.com/2020/07/traditional-unix-toolchains.html?m=1
+47,Lobsters,unix,Unix,2.11BSD Original Tapes Recreation,http://bsdimp.blogspot.com/2020/07/211bsd-original-tapes-recreation.html
+48,Lobsters,unix,Unix,How major and minor device numbers worked in V7 Unix,https://utcc.utoronto.ca/~cks/space/blog/unix/V7DeviceNumbersHow
+49,Lobsters,unix,Unix,Trusted Extensions Desktop,https://community.oracle.com/blogs/gfaden/2020/07/08/trusted-extensions-desktop-is-reborn
+50,Lobsters,unix,Unix,Vim's Versatile CLI,https://www.youtube.com/watch?v=pt36X1OJRG4
+51,Lobsters,unix,Unix,Help message for shell scripts,https://samizdat.dev/help-message-for-shell-scripts/
+52,Lobsters,unix,Unix,NetBSD Internals,https://www.netbsd.org/docs/internals/en/index.html
+53,Lobsters,unix,Unix,Bach is a Bash testing framework,https://bach.sh/
+54,Lobsters,unix,Unix,Portability of tar features,https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html
+55,Lobsters,unix,Unix,Bill Shannon RIP,https://blog.dshr.org/2020/06/bill-shannon-rip.html
+56,Lobsters,unix,Unix,pkgsrc-2020Q2 released,https://mail-index.netbsd.org/pkgsrc-users/2020/06/30/msg031664.html
+57,Lobsters,unix,Unix,Strategies for Binary Relocation In Functional Build Systems,https://maxmcd.com/posts/strategies-for-binary-relocation/
+58,Lobsters,unix,Unix,Use Unix Pipes to Improve Chromecast Playback,https://alexdelorenzo.dev/linux/2020/03/14/pipes.html
+59,Lobsters,unix,Unix,Real VT102 emulation with MAME,https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html
+60,Lobsters,unix,Unix,The Idea Of Makefile Blog,https://metin.nextc.org/posts/The_Idea_Of_Makefile_Blog.html
+61,Lobsters,unix,Unix,Unix's design issue of device numbers being in stat() results for files,https://utcc.utoronto.ca/~cks/space/blog/unix/FilesystemStatDeviceProblem
+62,Lobsters,unix,Unix,mkws(1) - Added Linux version and updated the website,https://mkws.sh/
+63,Lobsters,unix,Unix,rsync 3.2.0 / 3.2.1 released,https://download.samba.org/pub/rsync/NEWS
+64,Lobsters,unix,Unix,Is it possible to have a DNS name for an individual process?,/s/mvlqgd/is_it_possible_have_dns_name_for
+65,Lobsters,unix,Unix,Terminal Colors (2014),https://gist.github.com/XVilka/8346728
+66,Lobsters,unix,Unix,Discovering Dennis Ritchie’s Lost Dissertation,https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/
+67,Lobsters,unix,Unix,"Postgres, as an App, Part 2 (Now with one-click deploys to AWS + Heroku)",https://bytes.yingw787.com/posts/2020/06/18/postgres_as_app_2/
+68,Lobsters,unix,Unix,Tracing Kernel Functions: How the illumos AMD64 FBT Provider Intercepts Function Calls,https://zinascii.com/2020/the-amd64-fbt-handler.html
+69,Lobsters,unix,Unix,Oil 0.8.pre6 - Pure Bash and C++,http://www.oilshell.org/blog/2020/06/release-0.8.pre6.html
+70,Lobsters,unix,Unix,"Why is there a ""V"" in SIGSEGV Segmentation Fault?",https://idea.popcount.org/2020-06-18-why-is-there-a-v-in-sigsegv-segmentation-fault/
+71,Lobsters,unix,Unix,DomTerm: a terminal emulator based on web technologies,http://domterm.org/
+72,Lobsters,unix,Unix,Postgres...as an App?,https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/
+73,Lobsters,unix,Unix,Comparing zstd/gzip/bzip2/lzma/xz Compression,https://etbe.coker.com.au/2020/06/06/comparing-compression/
+74,Lobsters,unix,Unix,m4 As A Simple Templating System,https://ericscrivner.me/2018/07/m4-as-a-basic-templating-system/
+75,Lobsters,unix,Unix,History of the Finger Protocol,http://www.rajivshah.com/Case_Studies/Finger/Finger.htm
+76,Lobsters,unix,Unix,Can You Trust Trusted Solaris 8? (2001),https://www.drdobbs.com/can-you-trust-trusted-solaris-8/199101312
+77,Lobsters,unix,Unix,Top for NGINX,https://github.com/gsquire/topngx
+78,Lobsters,unix,Unix,Beauty of Unix Pipelines,https://prithu.xyz/posts/unix-pipeline/
+79,Lobsters,unix,Unix,grep- and cut- like filtering with named fields,https://relational-pipes.globalcode.info/v_0/examples-grep-cut-fstab.xhtml
+80,Lobsters,unix,Unix,"9front ""PLAN9-HATERS"" released",http://9front.org/releases/2020/05/28/0/
+81,Lobsters,unix,Unix,poll vs select vs event-based,https://daniel.haxx.se/docs/poll-vs-select.html
+82,Lobsters,unix,Unix,"Accessing SQLite, PostgreSQL and MySQL through ODBC and Relational pipes",https://relational-pipes.globalcode.info/v_0/examples-tr-sql-odbc.xhtml
+83,Lobsters,unix,Unix,Release v0.16 of Relational pipes with ODBC for SQL and JACK MIDI,https://relational-pipes.globalcode.info/v_0/release-v0.16.xhtml
+84,Lobsters,unix,Unix,Hacking the Planet (with Notcurses) - A Guide to TUIs and Character Graphics,https://nick-black.com/htp-notcurses.pdf
+85,Lobsters,unix,Unix,Running Awk in parallel to process 256M records,https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html
+86,Lobsters,unix,Unix,MaXX Interactive Desktop,https://maxxinteractive.com
+87,Lobsters,unix,Unix,What I think OpenSSH 8.2+'s work toward deprecating 'ssh-rsa' means,https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
+88,Lobsters,unix,Unix,History of UNIX Manpages,https://manpages.bsd.lv/history.html
+89,Lobsters,unix,Unix,PowerPC Solaris on the RS/6000,https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/
+90,Lobsters,unix,Unix,5 Types Of ZSH Aliases,https://thorsten-hans.com/5-types-of-zsh-aliases
+91,Lobsters,unix,Unix,Oil 0.8.pre5 - Progress in C++,http://www.oilshell.org/blog/2020/05/translation-progress.html
+92,Lobsters,unix,Unix,Adventures of porting MUSL to PS4,https://dayzerosec.com/posts/adventures-of-porting-musl-to-ps4/
+93,Lobsters,unix,Unix,Biculturalism (2003),https://www.joelonsoftware.com/2003/12/14/biculturalism/
+94,Lobsters,unix,Unix,Sxmo: Simple X Mobile - A Pinephone UI that is simple and suckless,https://sr.ht/~mil/Sxmo/
+95,Lobsters,unix,Unix,"thoughts: a portable, POSIXy pal for putting your thoughts on the internet",https://github.com/marenbeam/thoughts
+96,Lobsters,unix,Unix,Better plumbing in Xorg with plan9port's plumber,https://dataswamp.org/~lich/musings/plumbing.html
+97,Lobsters,unix,Unix,Some zshrc tricks,https://www.arp242.net/zshrc.html
+98,Lobsters,unix,Unix,Structural Regular Expressions (1987),http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf
+99,Lobsters,unix,Unix,Monitoring MIDI messages using JACK and Relational pipes + MT-32 bonus,https://relational-pipes.globalcode.info/v_0/examples-jack-midi-monitoring.xhtml
+100,Lobsters,unix,Unix,notqmail 1.08 released,https://notqmail.org/1.08
+101,Lobsters,unix,Unix,The Deprecated *nix API,https://www.bitquabit.com/post/deprecated-nix-api/
+102,Lobsters,unix,Unix,The state of the AWK,https://lwn.net/SubscriberLink/820829/5bf9bf8bb9d6f2bf/
+103,Lobsters,unix,Unix,Reading the POSIX standard for Unix functions is not straightforward,https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXReadingIsHard
+104,Lobsters,unix,Unix,"Australian Unix Users Group (AUUG) newsletter collection, 1978 to 2005",https://minnie.tuhs.org/Archive/Documentation/AUUGN/
+105,Lobsters,unix,Unix,Common *nix commands written in Rust,https://gcollazo.com/common-nix-commands-written-in-rust/
+106,Lobsters,unix,Unix,Exploring munmap() on page zero and on unmapped address space,https://utcc.utoronto.ca/~cks/space/blog/unix/MunmapPageZero
+107,Lobsters,unix,Unix,"NuShell: the shell where traditional Unix meets modern development, written in Rust",https://notamonadtutorial.com/nushell-the-shell-where-traditional-unix-meets-modern-development-written-in-rust-caf92c2c7c98
+108,Lobsters,unix,Unix,Shell Arithmetic Expansion and Evaluation Abuse,https://research.nccgroup.com/2020/05/12/shell-arithmetic-expansion-and-evaluation-abuse/
+109,Lobsters,unix,Unix,UNIX Text Formatting Using the -ms Macros (1984),https://www.hactrn.net/ietf/rfcgen/textms.html
+110,Lobsters,unix,Unix,One small step for man,https://www.hypomnema.net/one-small-step-for-man
+111,Lobsters,unix,Unix,Gamebridge: Fitting Square Pegs into Round Holes since 2020,https://christine.website/blog/gamebridge-2020-05-09
+112,Lobsters,unix,Unix,Metaphors in man pages,https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/
+113,Lobsters,unix,Unix,Take care editing bash scripts,https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html
+114,Lobsters,unix,Unix,web-knock allows only you to connect to your server,https://github.com/Linkinverse/web-knock
+115,Lobsters,unix,Unix,Rich’s sh (POSIX shell) tricks,http://www.etalabs.net/sh_tricks.html
+116,Lobsters,unix,Unix,Conditional Move For Shell Script Acceleration,http://tom7.org/papers/sigbovik75csh.pdf
+117,Lobsters,unix,Unix,CDE (Common Desktop Environment) on NetBSD ebvarm Pinebook,https://astr0baby.wordpress.com/2020/05/03/cde-common-desktop-environment-on-netbsd-ebvarm-pinebook/
+118,Lobsters,unix,Unix,Rust in an instant,https://fnordig.de/2020/05/02/rust-in-an-instant/
+119,Lobsters,unix,Unix,Time on Unix,https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html
+120,Lobsters,unix,Unix,"So long, and thanks for all the zsh: zsh newbie tips",https://blog.codefor.cash/2020/04/19/so-long-and-thanks-for-all-the-zsh/
+121,Lobsters,unix,Unix,Running PonyOS on real hardware for fun and profit,https://soptik.tech/articles/running-pony-os-for-fun-and-profit.html
+122,Lobsters,unix,Unix,Does anyone use the mouse with terminal applications?,/s/brzfq6/does_anyone_use_mouse_with_terminal
+123,Lobsters,unix,Unix,Shell productivity tips and tricks,https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html
+124,Lobsters,unix,Unix,cx: A directory history utility written in C,https://github.com/colfrog/cx
+125,Lobsters,unix,Unix,Transfer Files over WiFi from Your Computer to Your Mobile Device by Scanning QR Code,https://github.com/claudiodangelis/qrcp
+126,Lobsters,unix,Unix,Unleashed: The Birth (and Death) of an Operating System Fork,https://blahg.josefsipek.net/?p=591
+127,Lobsters,unix,Unix,"The Unix divide over who gets to chown things, and (disk space) quotas",https://utcc.utoronto.ca/~cks/space/blog/unix/ChownDivideAndQuotas
+128,Lobsters,unix,Unix,Two months with Powershell on a UNIX,https://code.joejag.com/2020/a-month-with-powershell.html
+129,Lobsters,unix,Unix,Raspberry Pi Safe Reboot and Shutdown Button,https://learn.sparkfun.com/tutorials/raspberry-pi-safe-reboot-and-shutdown-button/all
+130,Lobsters,unix,Unix,Desed: a debugger for sed,https://github.com/SoptikHa2/desed
+131,Lobsters,unix,Unix,The saddest script I ever wrote,http://blog.snailtext.com/posts/the-saddest-script-i-ever-wrote.html
+132,Lobsters,unix,Unix,"libschrift, a lightweight TrueType font rendering library",https://github.com/tomolt/libschrift
+133,Lobsters,unix,Unix,"gfetch - a fast, lightweight Git fetch utility written in POSIX sh",https://github.com/lptstr/gfetch
+134,Lobsters,unix,Unix,Customizing your shell,https://blog.balthazar-rouberol.com/customizing-your-shell
+135,Lobsters,unix,Unix,Terminal Escape Injection,https://www.infosecmatter.com/terminal-escape-injection/
+136,Lobsters,unix,Unix,golfetch - a super tiny Linux fetch script in 8 lines of bash,https://github.com/dylanaraps/golfetch
+137,Lobsters,unix,Unix,Debugging Bash scripts,https://advancedweb.hu/debugging-bash-scripts/
+138,Lobsters,unix,Unix,Making Unix a little more Plan9-like,https://woozle.org/papers/plan9.html
+139,Lobsters,unix,Unix,"Adams – Ansible killer, written in Common Lisp was released today",https://github.com/cl-adams/adams
+140,Lobsters,unix,Unix,Technical Reasons to Choose FreeBSD over GNU/Linux,https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html
+141,Lobsters,unix,Unix,"Coroutine Prime Number Sieve (Doug McIlroy, 2014)",https://www.cs.dartmouth.edu/~doug/sieve/sieve.pdf
+142,Lobsters,unix,Unix,Three Comics For Understanding Unix Shell,http://www.oilshell.org/blog/2020/04/comics.html
+143,Lobsters,unix,Unix,The curious pitfalls in shell redirections to $((i++)),https://www.vidarholen.net/contents/blog/?p=865
+144,Lobsters,unix,Unix,Announcing the pkgsrc-2020Q1 release,https://mail-index.netbsd.org/pkgsrc-users/2020/04/06/msg030838.html
+145,Lobsters,unix,Unix,Unleashed 1.4 Released (final release),http://lists.31bits.net/archives/devel/2020-April/000059.html
+146,Lobsters,unix,Unix,Software Distributions And Their Roles Today,https://venam.nixers.net/blog/unix/2020/03/29/distro-pkgs.html
+147,Lobsters,unix,Unix,Review of The UNIX and Linux System Administration Handbook (2017),http://www.mooreds.com/wordpress/archives/2538
+148,Lobsters,unix,Unix,Learning The Command Line: By Learning About K-Pop,https://www.youtube.com/watch?v=ZhVRnlg2i8o
+149,Lobsters,unix,Unix,Lessons from the Unix stdio ABI: 40 Years Later,https://fingolfin.org/blog/20200327/stdio-abi.html
+150,Lobsters,unix,Unix,CVE-2020-8816 – Pi-hole Remote Code Execution,https://natedotred.wordpress.com/2020/03/28/cve-2020-8816-pi-hole-remote-code-execution/
+151,Lobsters,unix,Unix,dte - text editor,https://craigbarnes.gitlab.io/dte/index.html
+152,Lobsters,unix,Unix,OpenBSD's 'spinning' CPU time category,https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDCpuSpinTime
+153,Lobsters,unix,Unix,Read your own .note.gnu.build-id,https://github.com/mattst88/build-id
+154,Lobsters,unix,Unix,Taking You Down To Tilde Town,https://thedorkweb.substack.com/p/tales-from-the-dork-web-5
+155,Lobsters,unix,Unix,Crossbow 0.9.0,https://gitlab.com/dacav/crossbow/-/releases
+156,Lobsters,unix,Unix,Oil 0.8.pre3 - A Line Editor and a Continuous Build,http://www.oilshell.org/blog/2020/03/release-0.8.pre3.html
+157,Lobsters,unix,Unix,How are Unix pipes implemented?,https://toroid.org/unix-pipe-implementation
+158,Lobsters,unix,Unix,mit-pdos/xv6-riscv - Xv6 for RISC-V,https://github.com/mit-pdos/xv6-riscv
+159,Lobsters,unix,Unix,Cshell is punk rock,http://blog.snailtext.com/posts/cshell-is-punk-rock.html
+160,Lobsters,unix,Unix,Writing Your First PAM Module,https://rkeene.org/projects/info/wiki/222
+161,Lobsters,unix,Unix,A declarative process manager-agnostic deployment framework based on Nix tooling,http://sandervanderburg.blogspot.com/2020/02/a-declarative-process-manager-agnostic.html
+162,Lobsters,unix,Unix,Understanding X mouse cursors (and their several layers of history),https://utcc.utoronto.ca/~cks/space/blog/unix/XMouseCursors
+163,Lobsters,unix,Unix,Continuous testing for a new project,/s/dw4sdb/continuous_testing_for_new_project
+164,Lobsters,unix,Unix,NsCDE: Not So Common Desktop Environment,https://github.com/NsCDE/NsCDE
+165,Lobsters,unix,Unix,The Blit - The first Unix graphical multi-programming terminal,https://www.youtube.com/watch?v=emh22gT5e9k
+166,Lobsters,unix,Unix,What is fsck up to now?,https://toroid.org/what-is-fsck-up-to-now
+167,Lobsters,unix,Unix,Text processing in the shell,https://blog.balthazar-rouberol.com/text-processing-in-the-shell
+168,Lobsters,unix,Unix,The most surprising Unix programs,https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html
+169,Lobsters,unix,Unix,zoxide: a new cd command written in Rust that learns your habits,https://github.com/ajeetdsouza/zoxide
+170,Lobsters,unix,Unix,Null Terminated Lists of Things in Bash,https://lambdapapers.com/2020/01/29/null-terminated-lists-bash.html
+171,Lobsters,unix,Unix,"Xv6, a simple Unix-like teaching operating system",https://pdos.csail.mit.edu/6.828/2019/xv6.html
+172,Lobsters,unix,Unix,Coherent operating system,https://www.autometer.de/unix4fun/coherent/
+173,Lobsters,unix,Unix,"Bus errors, core dumps, and binaries on NFS",https://rachelbythebay.com/w/2018/03/15/core/
+174,Lobsters,unix,Unix,birch - an IRC client written in bash,https://github.com/dylanaraps/birch
+175,Lobsters,unix,Unix,Nushell,https://github.com/nushell/
+176,Lobsters,unix,Unix,The Command Line Philosophy or Command Line Programs for the Blind,http://www.eklhad.net/philosophy.html
+177,Lobsters,unix,Unix,My new favorite vim/tmux bug (2014),http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/
+178,Lobsters,unix,Unix,The growth of command line options,https://danluu.com/cli-complexity/
+179,Lobsters,unix,Unix,Oil's Parser is 160x to 200x Faster Than It Was 2 Years Ago,http://www.oilshell.org/blog/2020/01/parser-benchmarks.html
+180,Lobsters,unix,Unix,Use Docker to simplify development workflows,https://bytes.yingw787.com/posts/2020/02/27/docker_as_vagrant/
+181,Lobsters,unix,Unix,Charlie &,https://jpmens.net/2020/02/28/charlie/
+182,Lobsters,unix,Unix,Full name of root account in BSD,https://www.geeklan.co.uk/?p=2457
+183,Lobsters,unix,Unix,Can You Use FreeBSD for a Developer Machine in 2020?,https://www.hackernoon.com/can-you-use-freebsd-for-a-developer-machine-in-2020-fc653bk5
+184,Lobsters,unix,Unix,Unix Toolbox,http://cb.vu/unixtoolbox.xhtml
+185,Lobsters,unix,Unix,"With sudo, complex argument validation is best in cover scripts",https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SudoersAndCoverScripts
+186,Lobsters,unix,Unix,chacha20.sh -- an implementation of ChaCha20 in Bash script,https://git.zx2c4.com/chacha20.sh/tree/chacha20.sh
+187,Lobsters,unix,Unix,Rob Landley about the /usr split,https://blog.w1r3.net/2018/01/06/rob-landley-about-usr-split.html
+188,Lobsters,unix,Unix,UNIX History Timeline,https://www.levenez.com/unix/
+189,Lobsters,unix,Unix,FOSDEM 2020 - The Hidden Early History of Unix,https://fosdem.org/2020/schedule/event/early_unix/
+190,Lobsters,unix,Unix,Finding palindrome dates in the Linux command line - explained,https://iridakos.com/programming/2020/02/06/shell-palindrome-dates
+191,Lobsters,unix,Unix,AWS GetCallerIdentity in POSIX Shell,https://gitlab.com/snippets/1934948
+192,Lobsters,unix,Unix,determine shell in script during runtime,https://unix.stackexchange.com/questions/71121/determine-shell-in-script-during-runtime
+193,Lobsters,unix,Unix,Unix as IDE (2012),https://sanctum.geek.nz/arabesque/series/unix-as-ide/
+194,Lobsters,unix,Unix,Interprocess Communication in the Ninth Edition Unix System (1990),https://www.bell-labs.com/usr/dmr/www/spe.pdf
+195,Lobsters,unix,Unix,Release v0.15 of Relational pipes,https://relational-pipes.globalcode.info/v_0/release-v0.15.xhtml
+196,Lobsters,unix,Unix,The Missing Semester of Your CS Education (MIT course),https://missing.csail.mit.edu/
+197,Lobsters,unix,Unix,"Geometry: A minimalistic, fully customizable ZSH theme",https://github.com/geometry-zsh/geometry
+198,Lobsters,unix,Unix,shlide—a slide deck presentation tool written in pure bash,https://github.com/icyphox/shlide
+199,Lobsters,unix,Unix,Unix Heritage Wiki,https://wiki.tuhs.org/doku.php
+200,Lobsters,unix,Unix,Writing Safe Shell Scripts,https://sipb.mit.edu/doc/safe-shell/
+201,Lobsters,unix,Unix,TTY-Exit: terminal exit codes for humans and machines,https://github.com/piotrmurach/tty-exit
+202,Lobsters,unix,Unix,Powerlevel10k: A Zsh theme,https://github.com/romkatv/powerlevel10k
+203,Lobsters,unix,Unix,Finding out what directories exist with only basic shell builtins (a Unix shell trick),https://utcc.utoronto.ca/~cks/space/blog/unix/FilteringPATHWithBuiltins
+204,Lobsters,unix,Unix,A Pythonista's Review of Haskell,https://bytes.yingw787.com/posts/2020/01/30/a_review_of_haskell/
+205,Lobsters,unix,Unix,suckless conference 2019,https://suckless.org/conferences/2019/
+206,Lobsters,unix,Unix,"RECC, The Robert Elder Compiler (and emulator and microkernel) Collection",https://recc.robertelder.org/
+207,Lobsters,unix,Unix,pledge() and unveil() in SerenityOS,https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/
+208,Lobsters,unix,Unix,Customizing the sudo lecture: Sudowoodo reminding you to be careful when using sudo,https://audreyxie.com/2020/sudowoodo-reminding-you-to-be-careful-when-using-sudo/
+209,Lobsters,unix,Unix,Unix Quiz,https://commandcenter.blogspot.com/2020/01/unix-quiz.html
+210,Lobsters,unix,Unix,Why Learn AWK?,https://blog.jpalardy.com/posts/why-learn-awk/
+211,Lobsters,unix,Unix,2038 is already here (tweet thread),https://twitter.com/jxxf/status/1219009308438024200?s=21
+212,Lobsters,unix,Unix,A Political History of X,https://www.youtube.com/watch?v=cj02_UeUnGQ
+213,Lobsters,unix,Unix,What UNIX Cost Us,https://www.youtube.com/watch?v=9-IWMbJXoLM
+214,Lobsters,unix,Unix,Simplicity isn't simple (2015),https://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple/
+215,Lobsters,unix,Unix,What my QC25s taught me about designing long-lasting interfaces,https://bytes.yingw787.com/posts/2020/01/15/qc25s/
+216,Lobsters,unix,Unix,Writing Software to Last 50 Years,https://bytes.yingw787.com/posts/2020/01/13/50years/
+217,Lobsters,unix,Unix,Introduction to the Linux goto shell utility,https://opensource.com/article/20/1/directories-autocomplete-linux
+218,Lobsters,unix,Unix,Announcing the pkgsrc-2019Q4 release,https://mail-index.netbsd.org/pkgsrc-users/2020/01/06/msg030130.html
+219,Lobsters,unix,Unix,PaperWM: tiled window management for GNOME,https://jvns.ca/blog/2020/01/05/paperwm/
+220,Lobsters,unix,Unix,Benchmarking shell pipelines and the Unix “tools” philosophy,https://blog.plover.com/Unix/tools.html
+221,Lobsters,unix,Unix,"“Use Dumb Shell, don’t Reinvent the Wheel”",https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/
+222,Lobsters,unix,Unix,Commentary on the Sixth Edition UNIX Operating System,http://www.lemis.com/grog/Documentation/Lions/index.php
+223,Lobsters,unix,Unix,How job control made the SIGCHLD signal useful for (BSD) Unix,https://utcc.utoronto.ca/~cks/space/blog/unix/SIGCHLDAndJobControl
+224,Lobsters,unix,Unix,Chesterton’s shell script,https://petewarden.com/2020/01/01/chestertons-shell-script/
+225,Lobsters,unix,Unix,The good and bad of errno in a traditional Unix environment,https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoGoodBad
+226,Lobsters,unix,Unix,A retrospective on our OmniOS ZFS-based NFS fileservers,https://utcc.utoronto.ca/~cks/space/blog/solaris/OmniOSFileserverRetrospective
+227,Lobsters,unix,Unix,The Joys of UNIX Keyboards,https://donatstudios.com/UNIX-Keyboards
+228,Lobsters,unix,Unix,Fuzz Revisited: A Re-examination of the Reliability of UNIX Utilities and Services (1995),http://ftp.cs.wisc.edu/pub/paradyn/technical_papers/fuzz-revisited.pdf
+229,Lobsters,unix,Unix,AWKing through a XML file using Relational pipes,https://relational-pipes.globalcode.info/v_0/examples-awk-through-xml.xhtml
+230,Lobsters,unix,Unix,The story of the Multics Operating system,https://www.multicians.org/
+231,Lobsters,unix,Unix,"age is a simple, modern and secure file encryption tool",https://github.com/FiloSottile/age
+232,Lobsters,unix,Unix,The Unix C library API can only be reliably used from C,https://utcc.utoronto.ca/~cks/space/blog/unix/CLibraryAPIRequiresC
+233,Lobsters,unix,Unix,Reproducible MirageOS unikernel builds,https://hannes.nqsb.io/Posts/ReproducibleOPAM
+234,Lobsters,unix,Unix,mkws(1) - Made a website for it,https://mkws.sh/
+235,Lobsters,unix,Unix,My tmux setup,https://mh9.codes/posts/my-tmux-setup/
+236,Lobsters,unix,Unix,jann - Configuration deployment utility (alternative to GNU Stow),https://github.com/jgbyrne/jann
+237,Lobsters,unix,Unix,Password Security: A Case History (1979),http://www.cs.unibo.it/~montreso/doc/papers/Morris-PasswordSecurity.pdf
+238,Lobsters,unix,Unix,Oil Example: Recognizing Python Integer Literals,http://www.oilshell.org/blog/2019/12/22.html
+239,Lobsters,unix,Unix,The maximum length of arguments for a new process,https://www.in-ulm.de/~mascheck/various/argmax/
+240,Lobsters,unix,Unix,citop: Monitor CI pipelines from the command line,https://github.com/nbedos/citop
+241,Lobsters,unix,Unix,What You Probably Didn’t Know About Sudo,https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo/
+242,Lobsters,unix,Unix,Undocumented Catalina file access change,https://lapcatsoftware.com/articles/macl.html
+243,Lobsters,unix,Unix,Finding all public IPv4 and IPv6 addresses in a UNIX shell script w/ GNU Parallel,https://serverfault.com/q/995605
+244,Lobsters,unix,Unix,Convert file I/O into pipe I/O with /dev/fd,https://www.spinellis.gr/blog/20191214/
+245,Lobsters,unix,Unix,How Unix Works: Become a Better Software Engineer,https://neilkakkar.com/unix.html
+246,Lobsters,unix,Unix,Manage Contacts the UNIX Way,https://vermaden.wordpress.com/2019/12/13/manage-contacts-the-unix-way/
+247,Lobsters,unix,Unix,"uni: Query the Unicode database from the commandline, with good support for emojis",https://github.com/arp242/uni
+248,Lobsters,unix,Unix,Better UX when reading from stdin,https://www.arp242.net/read-stdin.html
+249,Lobsters,unix,Unix,Oil 0.7.pre9 and a Fast Shell Parser,http://www.oilshell.org/blog/2019/12/09.html
+250,Lobsters,unix,Unix,Netdata system monitor embeds spyware,https://github.com/netdata/netdata/issues/7366
+251,Lobsters,unix,Unix,Security Wrappers and Bernstein Chaining (2003),http://www.catb.org/%7Eesr/writings/taoup/html/ch06s06.html
+252,Lobsters,unix,Unix,make website - a preview,https://adi.tilde.institute/mkws/
+253,Lobsters,unix,Unix,JSON Support in Oil Shell,http://www.oilshell.org/preview/doc/json.html
+254,Lobsters,unix,Unix,A fast reimplementation of Powerlevel9k ZSH theme,https://github.com/romkatv/powerlevel10k
+255,Lobsters,unix,Unix,Zsh prompt with asynchronous Git status,https://vincent.bernat.ch/en/blog/2019-zsh-async-vcs-info
+256,Lobsters,unix,Unix,sysget: A single front end for every unix package manager,https://github.com/emilengler/sysget
+257,Lobsters,unix,Unix,9front usage,/s/fhkvw2/9front_usage
+258,Lobsters,unix,Unix,How do you organize your $HOME directory?,/s/zpw6py/how_do_you_organize_your_home_directory
+259,Lobsters,unix,Unix,"ZFS sync/async + ZIL/SLOG, explained",https://jrs-s.net/2019/05/02/zfs-sync-async-zil-slog/
+260,Lobsters,unix,Unix,Bash Errexit Inconsistency,https://stratus3d.com/blog/2019/11/29/bash-errexit-inconsistency
+261,Lobsters,unix,Unix,Shell Has a Forth-like Quality (2017),http://www.oilshell.org/blog/2017/01/13.html
+262,Lobsters,unix,Unix,People should aim to make “badly written” code “just work” (2009),https://lwn.net/Articles/326505/
+263,Lobsters,unix,Unix,Beware of shell globs,https://soptik.tech/articles/beware-of-shell-globs.html
+264,Lobsters,unix,Unix,pash: a simple password manager using GPG written in POSIX sh,https://github.com/dylanaraps/pash
+265,Lobsters,unix,Unix,Rebase on the World: personal shell choice,https://blog.jessitron.com/2019/11/27/rebase-on-the-world-personal-shell-choice/
+266,Lobsters,unix,Unix,How to use pkgsrc on Linux,https://opensource.com/article/19/11/pkgsrc-netbsd-linux
+267,Lobsters,unix,Unix,Today I discovered /dev/full. Let's talk about more not well-know Linux features,https://en.wikipedia.org/wiki//dev/full
+268,Lobsters,unix,Unix,Don Libes' Expect: A Surprisingly Underappreciated Unix Automation Tool,https://blog.robertelder.org/don-libes-expect-unix-automation-tool/
+269,Lobsters,unix,Unix,The fading out of multi-architecture Unix environments,https://utcc.utoronto.ca/~cks/space/blog/unix/FadingMultiArchUnixSetups
+270,Lobsters,unix,Unix,NO_COLOR: disabling ANSI color output in various Unix commands,https://no-color.org/
+271,Lobsters,unix,Unix,How to port an awk script to Python,https://opensource.com/article/19/11/awk-to-python
+272,Lobsters,unix,Unix,Console Do Not Track,https://consoledonottrack.com/
+273,Lobsters,unix,Unix,Moar Pager,https://github.com/walles/moar
+274,Lobsters,unix,Unix,Safely Creating And Using Temporary Files,https://www.netmeister.org/blog/mktemp.html
+275,Lobsters,unix,Unix,"Mutt, calendars and such",https://dacav.roundhousecode.com/blog/2019-11/09-mutt-calendar-and-such.html
+276,Lobsters,unix,Unix,Unix for Poets,https://www.cs.upc.edu/~padro/Unixforpoets.pdf
+277,Lobsters,unix,Unix,Bash Automated Testing System,https://github.com/bats-core/bats-core
+278,Lobsters,unix,Unix,Indexing and searching the filesystem – Relational pipes,https://relational-pipes.globalcode.info/v_0/examples-in-filesystem-tr-sql-indexing.xhtml
+279,Lobsters,unix,Unix,"Really fast Markov chains in ~20 lines of sh, grep, cut and awk",https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/
+280,Lobsters,unix,Unix,A History of UNIX before Berkeley: UNIX Evolution: 1975-1984 (1984),http://www.darwinsys.com/history/hist.html
+281,Lobsters,unix,Unix,Unix Today and Tomorrow: The Languages,https://www.youtube.com/watch?v=xnCgoEyz31M
+282,Lobsters,unix,Unix,WordGrinder - A terminal only text editor,http://cowlark.com/wordgrinder/index.html
+283,Lobsters,unix,Unix,What shell do you use?,/s/tjjfnz/what_shell_do_you_use
+284,Lobsters,unix,Unix,Unix: A History and a Memoir,https://www.cs.princeton.edu/~bwk/
+285,Lobsters,unix,Unix,Convergence of AIX and 4.3BSD (1989),https://technologists.com/sauer/Convergence_of_AIX_and_4.3BSD.pdf
+286,Lobsters,unix,Unix,Relational pipes,https://relational-pipes.globalcode.info/v_0/
+287,Lobsters,unix,Unix,Piping output to a pager,https://samrat.me/posts/2019-10-28-git-style-pager/
+288,Lobsters,unix,Unix,An Illustrated Guide to Some Useful Command Line Tools,https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+289,Lobsters,unix,Unix,Practical Reusable Unix Software,http://web.archive.org/web/20031215023357/http://www.research.att.com/~gsf/publications/prus-1995-1.pdf
+290,Lobsters,unix,Unix,Evolution of Unix History (Gource visualization),https://www.youtube.com/watch?v=S7JB0mhrGCQ
+291,Lobsters,unix,Unix,"Userland, a dataflow environment for end-users",https://twitter.com/hisham_hm/status/1186611068099010560
+292,Lobsters,unix,Unix,The Most Expensive One-byte Mistake (2011),https://queue.acm.org/detail.cfm?id=2010365
+293,Lobsters,unix,Unix,Lesser Known Coding Fonts,https://vfoley.xyz/lesser-known-coding-fonts/
+294,Lobsters,unix,Unix,gdb-colour-filter: Colorify gdb backtrace,https://github.com/daskol/gdb-colour-filter
+295,Lobsters,unix,Unix,The Earliest Unix Code: An Anniversary Source Code Release,https://computerhistory.org/blog/the-earliest-unix-code-an-anniversary-source-code-release/
+296,Lobsters,unix,Unix,Unix V6 operating system for Soviet personal computer BK-0010/0011M,https://github.com/sergev/bkunix
+297,Lobsters,unix,Unix,kill tail(1) when sh exits,https://dacav.roundhousecode.com/blog/2019-10/17-kill-tail-1-when-sh-exits.html
+298,Lobsters,unix,Unix,Stupid Unix Tricks,https://sneak.berlin/20191011/stupid-unix-tricks/
+299,Lobsters,unix,Unix,The UNIX Game,https://www.unixgame.io/unix50
+300,Lobsters,unix,Unix,Faces of Open Source,http://www.facesofopensource.com/
+301,Lobsters,unix,Unix,Bell Labs: Celebrating 50 Years of Unix,https://www.bell-labs.com/var/articles/celebrating-50-years-unix/
+302,Lobsters,unix,Unix,"Using pseudo-terminals to control interactive programs, pty, pdip",http://rachid.koucha.free.fr/tech_corner/pty_pdip.html
+303,Lobsters,unix,Unix,Ken Thompson's Unix password,https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html
+304,Lobsters,unix,Unix,"Resurrecting Ancient Operating Systems on Debian, Raspberry Pi, and Docker",https://changelog.complete.org/archives/10031-resurrecting-ancient-operating-systems-on-debian-raspberry-pi-and-docker
+305,Lobsters,unix,Unix,You Can Now Try the Oil Language,http://www.oilshell.org/blog/2019/10/04.html
+306,Lobsters,unix,Unix,Hiding from cats,https://ura.d3npa.dev/posts/hiding-from-cats.md
+307,Lobsters,unix,Unix,Managing passwords using ed and gpg2,https://dataswamp.org/~solene/2019-10-02-passwords-ed.html
+308,Lobsters,unix,Unix,pkgsrc-2019Q3 release announcement,https://mail-index.netbsd.org/pkgsrc-users/2019/10/03/msg029485.html
+309,Lobsters,unix,Unix,More shell inconsistencies,https://dacav.roundhousecode.com/blog/2019-10/02-more-shell-inconsistencies.html
+310,Lobsters,unix,Unix,History of UNIX Design and Interfaces,https://github.com/penberg/unix-history
+311,Lobsters,unix,Unix,An Oral History of Unix,https://www.princeton.edu/~hos/Mahoney/unixhistory
+312,Lobsters,unix,Unix,Egg Expressions (Oil Regexes),https://github.com/oilshell/oil/blob/master/doc/regex-manual.md
+313,Lobsters,unix,Unix,"Dream Deploys: Atomic, Zero-Downtime Deployments (2015)",http://alangrow.com/blog/dream-deploys-atomic-zero-downtime-deployments
+314,Lobsters,unix,Unix,What does your shell prompt look like?,/s/skoapt/what_does_your_shell_prompt_look_like
+315,Lobsters,unix,Unix,The Vim-Inspired Editor with a Linguistic Twist,https://cosine.blue/2019-09-06-kakoune.html
+316,Lobsters,unix,Unix,"meli email client v0.3.0 release - now with IMAP, xbiff support",https://meli.delivery/posts/2019-09-16-v0.3.0-release.html
+317,Lobsters,unix,Unix,Chaosnet for Unix,https://github.com/LM-3/chaos
+318,Lobsters,unix,Unix,GNOME 3.34 Released,https://www.gnome.org/news/2019/09/gnome-3-34-released/
+319,Lobsters,unix,Unix,Rash shell: From Reckless Interactions to Reliable Programs,http://willghatch.net/publications/rash-gpce-2018-preprint.pdf
+320,Lobsters,unix,Unix,"Directories, Configuration Files and Configurations Files as Directories",https://zge.us.to/dirconf.html
+321,Lobsters,unix,Unix,Visualising Operating System Derivation,https://bitcannon.net/post/visualising-os-derivation/
+322,Lobsters,unix,Unix,soso: A Simple Unix-like Operating System,https://github.com/ozkl/soso
+323,Lobsters,unix,Unix,Vinod Khosla and Sun Microsystems - Preliminary Business Plan (1982),https://www.khoslaventures.com/wp-content/uploads/SunMicrosystem_bus_plan.pdf
+324,Lobsters,unix,Unix,Magritte: A Language for Pipe-Based Programming,http://files.jneen.net/academic/thesis.pdf
+325,Lobsters,unix,Unix,Unix at 50: How the OS that powered smartphones started from failure,https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers/
+326,Lobsters,unix,Unix,In praise of xlogo,https://simont.dreamwidth.org/242297.html
+327,Lobsters,unix,Unix,Morph: a NixOS deployment tool,https://github.com/DBCDK/morph
+328,Lobsters,unix,Unix,Oil Language Design Notes #1,http://www.oilshell.org/blog/2019/08/22.html
+329,Lobsters,unix,Unix,cRoSSbow - Cron friendly RSS monitor,https://gitlab.com/dacav/crossbow
+330,Lobsters,unix,Unix,fish: Design document,https://fishshell.com/docs/current/design.html
+331,Lobsters,unix,Unix,The Stumpwm Experience (2007),https://www.youtube.com/watch?v=tKt_rVO960Q
+332,Lobsters,unix,Unix,Oil's Stricter Semantics Solve Real Problems,http://www.oilshell.org/blog/2019/08/16.html
+333,Lobsters,unix,Unix,to - a plain dumb wrapper to dtach,https://github.com/tmcb/to
+334,Lobsters,unix,Unix,"Cool, but obscure X11 tools",https://cyber.dabamos.de/unix/x11/
+335,Lobsters,unix,Unix,CPU and PCH Temperature Sensors in illumos,http://dtrace.org/blogs/rm/2019/08/14/cpu-and-pch-temperature-sensors-in-illumos/
+336,Lobsters,unix,Unix,List of Suckless patches,https://gunther.suckless.org/patches/
+337,Lobsters,unix,Unix,Resurrecting simnet,https://zinascii.com/2019/resurrecting-simnet.html
+338,Lobsters,unix,Unix,Bryan Cantrill on tail -f (2013),https://www.youtube.com/watch?v=vm1GJMp0QN4&t=2460
+339,Lobsters,unix,Unix,A colouring api that doesn't suck,https://lists.gnu.org/archive/html/bug-ncurses/2019-08/msg00019.html
+340,Lobsters,unix,Unix,changing defaults and removing options,https://flak.tedunangst.com/post/changing-defaults-and-removing-options
+341,Lobsters,unix,Unix,Use raw ZFS volume for VirtualBox guest,https://dev.to/mnohime/use-raw-zfs-volume-for-virtualbox-guest-45jg
+342,Lobsters,unix,Unix,"ASCII table and history (or, why does Ctrl+i insert a Tab in my terminal?)",https://bestasciitable.com
+343,Lobsters,unix,Unix,Twenty Years of Berkeley Unix (1999),https://www.oreilly.com/openbook/opensources/book/kirkmck.html
+344,Lobsters,unix,Unix,"How to make compressed file quines, step by step",https://blog.matthewbarber.io//2019/07/22/how-to-make-compressed-file-quines.html
+345,Lobsters,unix,Unix,The Legion Parallel Programming System,https://legion.stanford.edu/
+346,Lobsters,unix,Unix,Batsh - A language that compiles to Bash and Windows Batch,https://github.com/BYVoid/Batsh/blob/master/README.md
+347,Lobsters,unix,Unix,The truth about Unix (1981),http://www.ceri.memphis.edu/people/smalley/ESCI7205_misc_files/The_truth_about_Unix_cleaned.pdf
+348,Lobsters,unix,Unix,Release of Oil Shell 0.7.pre1,http://www.oilshell.org/blog/2019/07/19.html
+349,Lobsters,unix,Unix,How to Install and Configure Graylog2 for Log Management on Debian and Ubuntu,https://calendarific.com/blog/how-to-install-and-configure-graylog2-for-log-management-on-debian-and-ubun
+350,Lobsters,unix,Unix,Personal do(n)tfiles - managing dotfiles with (just) git,https://github.com/tomekw/dontfiles
+351,Lobsters,unix,Unix,Global state & unstable ABI in ld breaks linker replacement dryad (2016),https://github.com/m4b/dryad/issues/5
+352,Lobsters,unix,Unix,sblg: static blog utility,https://kristaps.bsd.lv/sblg/
+353,Lobsters,unix,Unix,Simple usage of GNU parallel,https://vfoley.xyz/parallel/
+354,Lobsters,unix,Unix,/etc/rc.d/init.d/pants,http://www.kfish.org/~conrad/scripts/pants.html
+355,Lobsters,unix,Unix,Executable formal semantics for the POSIX shell,https://arxiv.org/abs/1907.05308
+356,Lobsters,unix,Unix,The PDP-7 Where Unix Began,http://bsdimp.blogspot.com/2019/07/the-pdp-7-where-unix-began.html
+357,Lobsters,unix,Unix,Illumos makes me nostalgic,https://nanxiao.me/en/illumos-makes-me-nostalgic/
+358,Lobsters,unix,Unix,"Pista - a simple {bash, zsh} prompt written in rust",https://github.com/nerdypepper/pista
+359,Lobsters,unix,Unix,Announcing the pkgsrc-2019Q2 release,https://mail-index.netbsd.org/pkgsrc-users/2019/07/08/msg028948.html
+360,Lobsters,unix,Unix,"meli, a new mail client for the terminal - pre-alpha release",https://meli.delivery/posts/2019-06-15-pre-alpha.html
+361,Lobsters,unix,Unix,My experience learning make,https://blog.neon.moe/2019/07/06/make.html
+362,Lobsters,unix,Unix,Mach386: MACH and BERKELEY UNIX for i386,https://virtuallyfun.com/wordpress/2019/07/02/mach386-mach-and-berkeley-unix-for-i386/
+363,Lobsters,unix,Unix,"The Day ""/proc"" Died",https://rkeene.org/projects/info/wiki/173
+364,Lobsters,unix,Unix,eva - a simple calculator repl written in rust,https://github.com/NerdyPepper/eva
+365,Lobsters,unix,Unix,A Fun Saturday Survey: UNIX Pronunciation,/s/eyhoev/fun_saturday_survey_unix_pronunciation
+366,Lobsters,unix,Unix,"Red Hat Expecting X.Org To ""Go Into Hard Maintenance Mode Fairly Quickly""",https://www.phoronix.com/scan.php?page=news_item&px=X.Org-Maintenance-Mode-Quickly
+367,Lobsters,unix,Unix,The history of readdir() (2008),https://utcc.utoronto.ca/~cks/space/blog/unix/ReaddirHistory
+368,Lobsters,unix,Unix,Tricking the tricksters with a next level fork bomb,https://www.vidarholen.net/contents/blog/?p=766
+369,Lobsters,unix,Unix,An instant REPL for any command,https://github.com/icyphox/repl
+370,Lobsters,unix,Unix,Desktop Institute,https://desktop.institute/
+371,Lobsters,unix,Unix,pp - a sh preprocessor,https://adi.tilde.institute/pp/
+372,Lobsters,unix,Unix,RSoC: Implementing ptrace for Redox OS - part 0,https://www.redox-os.org/news/rsoc-ptrace-0/
+373,Lobsters,unix,Unix,parsyncfp - a parallel rsync wrapper for large data transfers,http://moo.nac.uci.edu/~hjm/parsync/
+374,Lobsters,unix,Unix,Draw image on Github contribution graph,https://devform.netlify.com/draw-image-in-git-contribution-graph/
+375,Lobsters,unix,Unix,Tcpdump little book,https://github.com/NanXiao/tcpdump-little-book
+376,Lobsters,unix,Unix,Celebrate UNIX50 and SDF32,https://sdf.org/sdf32/
+377,Lobsters,unix,Unix,What does your shell prompt look like?,/s/x5ioqm/what_does_your_shell_prompt_look_like
+378,Lobsters,unix,Unix,"Oil FAQ, 2019 Edition (and AMA tomorrow 6/17 on reddit.com/r/linux)",http://www.oilshell.org/blog/2019/06/17.html
+379,Lobsters,unix,Unix,Presenting the Eshell,http://www.howardism.org/Technical/Emacs/eshell-present.html
+380,Lobsters,unix,Unix,A zsh prompt framework written in Nim,https://github.com/icyphox/nicy
+381,Lobsters,unix,Unix,PaperWM: Tiled scrollable window management for Gnome Shell,https://github.com/paperwm/PaperWM
+382,Lobsters,unix,Unix,"pkgsrcCon 2019 in Cambridge, UK",http://www.pkgsrc.org/pkgsrcCon/2019/
+383,Lobsters,unix,Unix,Oil Shell: What's Happened Since February?,http://www.oilshell.org/blog/2019/06/13.html
+384,Lobsters,unix,Unix,"Ranger, a console file manager with VI keybindings",https://ranger.github.io/
+385,Lobsters,unix,Unix,Manage Photography the UNIX Way,https://vermaden.wordpress.com/2019/06/12/manage-photography-the-unix-way/
+386,Lobsters,unix,Unix,Using AWK and R to parse 25tb,https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
+387,Lobsters,unix,Unix,Tiny Yarn -- scenario testing tool for unix utilities,https://git.sr.ht/~richardipsum/tinyyarn
+388,Lobsters,unix,Unix,Xz format inadequate for long-term archiving,http://lzip.nongnu.org/xz_inadequate.html
+389,Lobsters,unix,Unix,Maintaining bzip2,https://people.gnome.org/~federico/blog/maintaining-bzip2.html
+390,Lobsters,unix,Unix,cointop – an interactive terminal based app for tracking cryptocurrencies,https://github.com/miguelmota/cointop
+391,Lobsters,unix,Unix,A Tiling Desktop Environment,https://bitcannon.net/post/pro-desktop/
+392,Lobsters,unix,Unix,A history of S_IFMT – Lubutu,http://www.lubutu.com/soso/a-history-of-sifmt
+393,Lobsters,unix,Unix,Zhmenu -- A lightweight adaptable dmenu-like pinyin-to-chinese input menu. Depends only on Xorg,https://gitlab.com/finnoleary/zhmenu
+394,Lobsters,unix,Unix,The Tar Pipe,https://blog.extracheese.org/2010/05/the-tar-pipe.html
+395,Lobsters,unix,Unix,WinBtrfs - Windows driver for the next-generation Linux filesystem Btrfs,https://github.com/maharmstone/btrfs
+396,Lobsters,unix,Unix,C11 compiler based on QBE,https://git.sr.ht/~mcf/cc
+397,Lobsters,unix,Unix,Remove duplicate lines from files keeping the original order (one-liner explained),https://iridakos.com/how-to/2019/05/16/remove-duplicate-lines-preserving-order-linux.html
+398,Lobsters,unix,Unix,There and Back Again: Or How I Saved My Site With Pipes,https://puhrez.com/things/articles/there-and-back-again.html
+399,Lobsters,unix,Unix,Recursive mutexes,http://www.zaval.org/resources/library/butenhof1.html
+400,Lobsters,unix,Unix,No itch to scratch,http://blog.snailtext.com/posts/no-itch-to-scratch.html
+401,Lobsters,unix,Unix,Brian Kernighan interviews Ken Thompson at Vintage Computer Festival East 2019,https://www.youtube.com/watch?v=EY6q5dv_B-o
+402,Lobsters,unix,Unix,Clean-room reimplementation of ZFS in Python,https://github.com/alcarithemad/zfsp
+403,Lobsters,unix,Unix,Es: A shell with higher-order functions (1993),https://wryun.github.io/es-shell/paper.html
+404,Lobsters,unix,Unix,Network Redirections in Bash,https://www.anmolsarma.in/post/bash-net-redirections/
+405,Lobsters,unix,Unix,eBPF can't count?,https://blog.cloudflare.com/ebpf-cant-count/
+406,Lobsters,unix,Unix,Related Projects - OSTree,https://ostree.readthedocs.io/en/latest/manual/related-projects/
+407,Lobsters,unix,Unix,…and in the end there will be the command line (2015),https://www.sicpers.info/2015/01/and-in-the-end-there-will-be-the-command-line/
+408,Lobsters,unix,Unix,Directed graph shell,https://www.spinellis.gr/sw/dgsh/
+409,Lobsters,unix,Unix,ACME-SAC an editor using the Inferno virtual machine (2006),https://github.com/caerwynj/acme-sac
+410,Lobsters,unix,Unix,Hull: An alternative to shell that I'll never have time to implement,http://250bpm.com/blog:153
+411,Lobsters,unix,Unix,How FZF and ripgrep improved my workflow,https://medium.com/@sidneyliebrand/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861
+412,Lobsters,unix,Unix,Unix Considered Harmful,http://zge.us.to/txt/unix-harmful.html
+413,Lobsters,unix,Unix,"fh: file history with ed(1), diff(1), awk(1), sed(1) and sh(1)",https://github.com/xorhash/fh
+414,Lobsters,unix,Unix,Unleashed 1.3 Released,http://lists.31bits.net/archives/devel/2019-April/000052.html
+415,Lobsters,unix,Unix,Gawk 5.0.0 released,https://lists.gnu.org/archive/html/info-gnu/2019-04/msg00002.html
+416,Lobsters,unix,Unix,Recommended Reading: ``The Art of UNIX Programming'' and ``The UNIX-HATERS Handbook'',http://verisimilitudes.net/2019-04-15
+417,Lobsters,unix,Unix,Messing with telnet,https://jott.live/markdown/telnet_writeup
+418,Lobsters,unix,Unix,Jailbreaking Subaru StarLink,https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md
+419,Lobsters,unix,Unix,Using seccomp to limit the kernel attack surface,http://man7.org/conf/lpc2015/limiting_kernel_attack_surface_with_seccomp-LPC_2015-Kerrisk.pdf
+420,Lobsters,unix,Unix,Announcing the pkgsrc-2019Q1 release,http://mail-index.netbsd.org/pkgsrc-users/2019/04/10/msg028308.html
+421,Lobsters,unix,Unix,Why vi Rocks,https://why-vi.rocks
+422,Lobsters,unix,Unix,"A shell script that deleted a database, and how ShellCheck could have helped",https://www.vidarholen.net/contents/blog/?p=746
+423,Lobsters,unix,Unix,Creators Admit UNIX and C Were a Hoax,http://www.gshotts.com/HUMOR/cisahoax.htm
+424,Lobsters,unix,Unix,Before Unix: An Early History of Timesharing Systems (2016),https://www.youtube.com/watch?v=UYb6WqWBTE0
+425,Lobsters,unix,Unix,UUCP Manifesto,https://uucp.dataforge.tk/manifesto.html
+426,Lobsters,unix,Unix,LVM Linear vs Striped Logical Volumes,https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes
+427,Lobsters,unix,Unix,Fuchsia OS Introduction,https://bzdww.com/article/163937/
+428,Lobsters,unix,Unix,Baxx – Unix-friendly backup service,https://txt.black/~jack/baxx-dev.txt
+429,Lobsters,unix,Unix,lnav - the Log File Navigator,http://lnav.org/
+430,Lobsters,unix,Unix,Continuous Unix commit history from 1970 until today,https://github.com/dspinellis/unix-history-repo
+431,Lobsters,unix,Unix,AsiaBSDCon 2019 Proceedings,https://2019.asiabsdcon.org/proc-body-2019.pdf
+432,Lobsters,unix,Unix,bpkg is a bash package manager,https://www.bpkg.sh/
+433,Lobsters,unix,Unix,Conditional expansion of commands parameters,https://dacav.roundhousecode.com/blog/2019-03/18-conditional-expansion-of-commands-parameters.html
+434,Lobsters,unix,Unix,OSH (Oil Shell) 0.6.pre16 Now Available In AUR,https://aur.archlinux.org/packages/osh/
+435,Lobsters,unix,Unix,Communication Files: Interprocess IO before Pipes (2017),https://www.cs.dartmouth.edu/~doug/DTSS/commfiles.pdf
+436,Lobsters,unix,Unix,Ghost in the Shell - Part 4,https://vermaden.wordpress.com/2019/03/15/ghost-in-the-shell-part-4/
+437,Lobsters,unix,Unix,Alice 4 - A dedicated tablet for running 80s SGI demos,http://lkesteloot.github.io/alice/alice4/
+438,Lobsters,unix,Unix,Solene's percent %,https://dataswamp.org/~solene/
+439,Lobsters,unix,Unix,GNOME 3.32 Released,https://www.gnome.org/news/2019/03/gnome-3-32-released/
+440,Lobsters,unix,Unix,An Intro to zsh-utils,https://coded.io/2019/03/an-intro-to-zsh-utils/
+441,Lobsters,unix,Unix,Using Chez Scheme as a Shell,https://forum.hunterpraska.com/b/blog/5
+442,Lobsters,unix,Unix,"Fixing Unix/Linux/POSIX Filenames: Control Characters (such as Newline), Leading Dashes, and Other Problems",https://dwheeler.com/essays/fixing-unix-linux-filenames.html
+443,Lobsters,unix,Unix,Coherent 3.0 on 286,https://github.com/retrohun/blog/tree/master/dt/coherent30on286
+444,Lobsters,unix,Unix,What should be the output of this command? (echo red; echo green 1>&2) | echo blue,http://www.gibney.de/the_output_of_linux_pipes_can_be_indeter
+445,Lobsters,unix,Unix,"What you need may be ""pipeline +Unix commands"" only",https://nanxiao.me/en/what-you-need-may-be-pipeline-unix-commands-only/
+446,Lobsters,unix,Unix,Richer command line interfaces,http://ballingt.com/rich-terminal-applications-2/
+447,Lobsters,unix,Unix,xclip-for-mac: an executable with a xclip-compatible for shell script compatibility,https://github.com/siers/xclip-for-mac
+448,Lobsters,unix,Unix,The Joy in Csh & Vi,http://blog.obligd.com/posts/the-joy-in-csh-and-vi.html
+449,Lobsters,unix,Unix,Normalizing man page section numbers in Solaris 11.4,https://blogs.oracle.com/solaris/normalizing-man-page-section-numbers-in-solaris-114-v2
+450,Lobsters,unix,Unix,Notes on the 3rd Edition Plan 9 Kernel Source,http://lsub.org/who/nemo/9.pdf
+451,Lobsters,unix,Unix,A simple GNU info replacement which isn't terrible,https://github.com/carpetsmoker/info
+452,Lobsters,unix,Unix,OSH 0.6.pre15 Does Not Crave Chaos and Destruction,http://www.oilshell.org/blog/2019/02/18.html
+453,Lobsters,unix,Unix,Threadless mode in Mitogen 0.3,https://sweetness.hmmz.org/2019-02-16-mitogen-threadless.html
+454,Lobsters,unix,Unix,"pkgsrcCon 2019 - 13th - 14th of July 2019, Cambridge, UK",https://mail-index.netbsd.org/pkgsrc-users/2019/02/15/msg028059.html
+455,Lobsters,unix,Unix,Drinking coffee with AWK,https://opensource.com/article/19/2/drinking-coffee-awk
+456,Lobsters,unix,Unix,A proof that Unix utility sed is Turing complete,https://catonmat.net/proof-that-sed-is-turing-complete
+457,Lobsters,unix,Unix,mu 1.0 released (2018),https://github.com/djcb/mu/releases/tag/v1.0
+458,Lobsters,unix,Unix,Acme Process Management,https://otremblay.com/posts/acme-process-management/
+459,Lobsters,unix,Unix,Why Static (Plan 9 wiki),https://9p.io/wiki/plan9/why_static/index.html
+460,Lobsters,unix,Unix,February UNIX historians meetup,https://www.meetup.com/UNIX-historians/events/258503014/
+461,Lobsters,unix,Unix,How to Parse Shell Like a Programming Language,http://www.oilshell.org/blog/2019/02/07.html
+462,Lobsters,unix,Unix,Our operating systems are incorrectly factored,https://eighty-twenty.org/2016/05/05/unix-is-incorrectly-factored
+463,Lobsters,unix,Unix,International Workshop on Plan 9 (2007),http://lsub.org/iwp92007/
+464,Lobsters,unix,Unix,Trusted Xenix 4.0 Evaluation Report (1994) (PostScript),http://webapp1.dlib.indiana.edu/virtual_disk_library/index.cgi/1347159/FID1806/library/fers/csc-epl-92-001-a.ps
+465,Lobsters,unix,Unix,Ternimal: Simulate a lifeform in the terminal,https://github.com/p-e-w/ternimal
+466,Lobsters,unix,Unix,xsecurelock — X11 screen lock utility with security in mind,https://github.com/google/xsecurelock
+467,Lobsters,unix,Unix,OpenBoot PROM (2011),http://www.brendangregg.com/Sun/obp.html
+468,Lobsters,unix,Unix,Oil: Success With the Interactive Shell,http://www.oilshell.org/blog/2019/02/05.html
+469,Lobsters,unix,Unix,MIT Hacker Tools: a lecture series on programmer tools,https://hacker-tools.github.io/
+470,Lobsters,unix,Unix,dwm 6.2 and dmenu 4.9 released,https://lists.suckless.org/dev/1902/33214.html
+471,Lobsters,unix,Unix,Dotfile madness,https://0x46.net/thoughts/2019/02/01/dotfile-madness/
+472,Lobsters,unix,Unix,websocketd,http://websocketd.com/
+473,Lobsters,unix,Unix,Fsync Errors,https://wiki.postgresql.org/wiki/Fsync_Errors
+474,Lobsters,unix,Unix,Swiss Army knife for Unix permissions,https://github.com/ehmicky/unix-permissions
+475,Lobsters,unix,Unix,"EuroBSDcon 2019 – Lillehammer September 19-22, 2019",https://2019.eurobsdcon.org/
+476,Lobsters,unix,Unix,BiDi in Terminal Emulators,https://terminal-wg.pages.freedesktop.org/bidi/
+477,Lobsters,unix,Unix,AppFS: Old and New Package Management,http://appfs.rkeene.org/
+478,Lobsters,unix,Unix,dhcpcd-7.1.0 released,https://roy.marples.name/blog/dhcpcd-7-1-0-released
+479,Lobsters,unix,Unix,For the Love of Pipes,https://blog.jessfraz.com/post/for-the-love-of-pipes/
+480,Lobsters,unix,Unix,Adding a getentropy() interface to POSIX,http://austingroupbugs.net/view.php?id=1134
+481,Lobsters,unix,Unix,Inside the C Standard Library,https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html
+482,Lobsters,unix,Unix,Decoded: GNU coreutils,http://www.maizure.org/projects/decoded-gnu-coreutils/index.html
+483,Lobsters,unix,Unix,"History, Evolution and Future of Public Access Unix Systems",https://cmccabe.sdf.org/files/pubax_unix.pdf
+484,Lobsters,unix,Unix,"kitty - the fast, featureful, GPU based terminal emulator",https://sw.kovidgoyal.net/kitty/
+485,Lobsters,unix,Unix,Thirty-five–year-old vulnerability found in scp,https://sintonen.fi/advisories/scp-client-multiple-vulnerabilities.txt
+486,Lobsters,unix,Unix,Xenix tales,https://github.com/retrohun/blog/tree/master/dt/xenixtales
+487,Lobsters,unix,Unix,"The Art of Unix Programming, reformatted",https://arp242.net/weblog/the-art-of-unix-programming.html
+488,Lobsters,unix,Unix,Why Order Matters: Turing Equivalence in Automated Systems Administration (2002),http://www.infrastructures.org/papers/turing/turing.html
+489,Lobsters,unix,Unix,"I'm Speaking About the Oil Shell this Thursday in San Jose, California",http://www.oilshell.org/blog/2019/01/14.html
+490,Lobsters,unix,Unix,SyncTERM connecting to lobste.rs [2017],https://vimeo.com/210009561
+491,Lobsters,unix,Unix,"aphelia: A light, single-file, minimalist window manager for X11",https://github.com/vardy/aphelia
+492,Lobsters,unix,Unix,"Machines and systems of past, present, future",http://oshug.org/event/71
+493,Lobsters,unix,Unix,Learning the Linux Kernel with tracing,https://www.youtube.com/watch?v=JRyrhsx-L5Y
+494,Lobsters,unix,Unix,International Obfuscated C Code Contest Best of show,https://www.ioccc.org/2018/mills/hint.html
+495,Lobsters,unix,Unix,Get lobste.rs stories with finger(1),/s/3xpycv/get_lobste_rs_stories_with_finger_1
+496,Lobsters,unix,Unix,QED Archive,https://github.com/arnoldrobbins/qed-archive
+497,Lobsters,unix,Unix,Adding Glue To a Desktop Environment,https://venam.nixers.net/blog/unix/2019/01/07/win-automation.html
+498,Lobsters,unix,Unix,"A Distributed, Secure System (Extended Abstract) (1983)",http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.4421&rep=rep1&type=pdf
+499,Lobsters,unix,Unix,Roman Zolotarev,https://www.romanzolotarev.com
+500,Lobsters,unix,Unix,POSIX Shell and Utilities Quick Reference,https://shellhaters.org/
+501,Lobsters,unix,Unix,CLI tool for generating HTML (or markdown) tables on the command line?,/s/id3yrb/cli_tool_for_generating_html_markdown
+502,Lobsters,unix,Unix,"Languages, Levels, Libraries, and Longevity - ACM Queue",https://queue.acm.org/detail.cfm?id=1039532
+503,Lobsters,unix,Unix,"Alternative to rsync ""batch mode"" for storing incremental backups?",/s/y4myxv/alternative_rsync_batch_mode_for_storing
+504,Lobsters,unix,Unix,pkgsrc-2018Q4 branch announcement,http://mail-index.netbsd.org/pkgsrc-users/2018/12/30/msg027871.html
+505,Lobsters,unix,Unix,Anatomy of a shell,https://drewdevault.com/2018/12/28/Anatomy-of-a-shell.html
+506,Lobsters,unix,Unix,Unleashed 1.2 Released,http://lists.31bits.net/archives/devel/2018-December/000033.html
+507,Lobsters,unix,Unix,The restoration of early UNIX artifacts,https://www.usenix.org/legacy/event/usenix09/tech/full_papers/toomey/toomey.pdf
+508,Lobsters,unix,Unix,One year of flying with the Raven: Ready for the Desktop?,https://eerielinux.wordpress.com/2018/11/30/one-year-of-flying-with-the-raven-ready-for-the-desktop/
+509,Lobsters,unix,Unix,A Survey of $RANDOM,https://nullprogram.com/blog/2018/12/25/
+510,Lobsters,unix,Unix,A Critique of the GNU Hurd Multi-Server Operating System (2007),http://walfield.org/papers/200707-walfield-critique-of-the-GNU-Hurd.pdf
+511,Lobsters,unix,Unix,Dev Log #9: Progress on Oil Subprojects,http://www.oilshell.org/blog/2018/12/16.html
+512,Lobsters,unix,Unix,Wabi Cpu Emulation,https://www.hotchips.org/wp-content/uploads/hc_archives/hc08/2_Mon/HC8.S2/HC8.2.1.pdf
+513,Lobsters,unix,Unix,2 years of Unix newsletters,https://newsletter.nixers.net/entries.php#104
+514,Lobsters,unix,Unix,Oil Dev Log #8: Shell Protocol Designs,http://www.oilshell.org/blog/2018/12/05.html
+515,Lobsters,unix,Unix,Contain yourself! A look at ways to restrict Unix processes,https://www.netmeister.org/blog/restricting-processes.html
+516,Lobsters,unix,Unix,CS631 - Advanced Programming in the UNIX Environment,https://stevens.netmeister.org/631/lecture14.pdf
+517,Lobsters,unix,Unix,Cookie Is a Template-Based File Generator for Linux,https://github.com/bbugyi200/cookie
+518,Lobsters,unix,Unix,Easily download all your files from the Flickr Data export with wget and parallel,https://blog.dalanmiller.com/2018/12/02/easily-removing-all-your-files-from-flickr/
+519,Lobsters,unix,Unix,So You Want To Write A Linux Userland,http://tilde.town/~elly/userland.txt
+520,Lobsters,unix,Unix,"Makefiles, Best Practices",https://danyspin97.org/blog/makefiles-best-practices/
+521,Lobsters,unix,Unix,"Simple, Fast, Easy Parallelism in Shell Pipelines",http://catern.com/posts/pipes.html
+522,Lobsters,unix,Unix,But is it atomic?,https://pluspora.com/posts/654da0f0d6120136b4f6005056264835
+523,Lobsters,unix,Unix,Why BSD/OS is the best candidate for being the only tested legally open UNIX,https://virtuallyfun.com/wordpress/2018/11/26/why-bsd-os-is-the-best-candidate-for-being-the-only-tested-legally-open-unix/
+524,Lobsters,unix,Unix,Experiences with the Cray X/MP (2000),https://www.bell-labs.com/usr/dmr/www/cray.html
+525,Lobsters,unix,Unix,Mutt 1.11 Released,http://www.mutt.org/relnotes/1.11/
+526,Lobsters,unix,Unix,Celebrating 50 years of Unix,https://unix50.org/
+527,Lobsters,unix,Unix,"Funky - Easier, Flexible, and more Interactive Shell Functions",https://github.com/bbugyi200/funky
+528,Lobsters,unix,Unix,Computing History at Bell Labs,https://research.swtch.com/bell-labs
+529,Lobsters,unix,Unix,FreeBSD 12 Release Engineering Branch Created,https://svnweb.freebsd.org/base/releng/12.0/
+530,Lobsters,unix,Unix,Simplicity awakes,http://jehanne.io/2018/11/15/simplicity-awakes.html
+531,Lobsters,unix,Unix,Oil Dev Log #7: Hollowing Out the Python Interpreter,http://www.oilshell.org/blog/2018/11/15.html
+532,Lobsters,unix,Unix,mtime comparison considered harmful,https://apenwarr.ca/log/20181113
+533,Lobsters,unix,Unix,Raw Tty Input: Then And Now,https://utcc.utoronto.ca/~cks/space/blog/unix/RawTtyInputThenAndNow
+534,Lobsters,unix,Unix,howto: create your own time zone,http://joeyh.name/blog/entry/howto_create_your_own_time_zone/
+535,Lobsters,unix,Unix,How to Mount S3/Wasabi/Digital Ocean Storage Bucket on CentOS and Ubuntu using S3FS,https://dotlayer.com/how-to-mount-s3-wasabi-digital-ocean-storage-bucket-on-centos-and-ubuntu-using-s3fs/
+536,Lobsters,unix,Unix,"The History of Unix, Rob Pike",https://www.youtube.com/watch?v=_2NI6t2r_Hs
+537,Lobsters,unix,Unix,Linux Sucks. Forever,https://www.youtube.com/watch?v=TVHcdgrqbHE
+538,Lobsters,unix,Unix,Trivial Bug in X.Org Gives Root Permission on Linux and BSD Systems,https://www.bleepingcomputer.com/news/security/trivial-bug-in-xorg-gives-root-permission-on-linux-and-bsd-systems/
+539,Lobsters,unix,Unix,Friendly Interactive ZSHell,https://github.com/zsh-users/fizsh
+540,Lobsters,unix,Unix,termtosvg - Record terminal sessions as SVG animations,https://github.com/nbedos/termtosvg
+541,Lobsters,unix,Unix,Revisiting the Unix philosophy in 2018,https://opensource.com/article/18/11/revisiting-unix-philosophy-2018
+542,Lobsters,unix,Unix,Elvish Shell,https://elv.sh
+543,Lobsters,unix,Unix,Code Review: On Signals,http://delyan.me/code-review-signals/
+544,Lobsters,unix,Unix,Getting started with execline scripting,https://danyspin97.org/blog/getting-started-with-execline-scripting/
+545,Lobsters,unix,Unix,Writing a console replacement using Arcan,https://arcan-fe.com/2018/10/31/walkthrough-writing-a-kmscon-console-like-window-manager-using-arcan/
+546,Lobsters,unix,Unix,What 'dependency' means in Unix init systems is underspecified,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InitDependencyUnclear
+547,Lobsters,unix,Unix,"Cambridge UNIX historians (Cambridge, United Kingdom)",https://www.meetup.com/UNIX-historians/
+548,Lobsters,unix,Unix,cespare/reflex (tool to run a command when files change),https://github.com/cespare/reflex
+549,Lobsters,unix,Unix,Unix in East Germany (1990),https://groups.google.com/forum/m/#!topic/comp.unix.wizards/QX_dxElrVNs
+550,Lobsters,unix,Unix,Restyling apps at scale,https://blogs.gnome.org/tbernard/2018/10/15/restyling-apps-at-scale/
+551,Lobsters,unix,Unix,Legion of lobotomized unices,http://czep.net/17/legion-of-lobotomized-unices.html
+552,Lobsters,unix,Unix,Release of OSH 0.6.pre5,http://www.oilshell.org/blog/2018/10/11.html
+553,Lobsters,unix,Unix,Dotted Canonical S-expressions,https://gist.github.com/rain-1/a253e47b939fc0769524d8716541c96e
+554,Lobsters,unix,Unix,Running Bash Completion Scripts with OSH,http://www.oilshell.org/blog/2018/10/10.html
+555,Lobsters,unix,Unix,The benefits and costs of writing a POSIX kernel in a high-level language,https://www.usenix.org/conference/osdi18/presentation/cutler
+556,Lobsters,unix,Unix,Daemonize - a Tiny C Library for Programming the UNIX Daemons,https://chaoticlab.io/c/c++/unix/2018/10/01/daemonize.html
+557,Lobsters,unix,Unix,Announcing the pkgsrc-2018Q3 release,https://mail-index.netbsd.org/tech-pkg/2018/10/05/msg020326.html
+558,Lobsters,unix,Unix,Fonts on Unix (2017),https://venam.nixers.net/blog/unix/2017/06/04/fonts-on-unix.html
+559,Lobsters,unix,Unix,A Brief History of the BSD Fast Filesystem (2016),https://www.youtube.com/watch?v=uF_J-itJDwM
+560,Lobsters,unix,Unix,Unleashed 1.1 Released,http://lists.31bits.net/archives/devel/2018-September/000029.html
+561,Lobsters,unix,Unix,Deploying Anycast DNS using OpenBSD and BGP,https://jonwillia.ms/2018/09/23/anycast-dns-openbsd
+562,Lobsters,unix,Unix,Announcing Oracle Solaris 11.4 SRU1,https://blogs.oracle.com/solaris/announcing-oracle-solaris-114-sru1
+563,Lobsters,unix,Unix,How the GNU coreutils are tested,http://www.pixelbeat.org/docs/coreutils-testing.html
+564,Lobsters,unix,Unix,spawn() of Satan,https://tavianator.com/spawn-of-satan/
+565,Lobsters,unix,Unix,Apple File System Reference,https://developer.apple.com/support/apple-file-system/Apple-File-System-Reference.pdf
+566,Lobsters,unix,Unix,trunkmaster/nextspace - NeXTSTEP-like desktop environment for Linux,https://github.com/trunkmaster/nextspace
+567,Lobsters,unix,Unix,Ghost in the Shell - Part 3,https://vermaden.wordpress.com/2018/09/15/ghost-in-the-shell-part-3/
+568,Lobsters,unix,Unix,"Today in History, Brought to You by UNIX",https://akr.am/blog/posts/today-in-history-brought-to-you-by-unix
+569,Lobsters,unix,Unix,Survey: What shell completion scripts do you use?,/s/z96uyr/survey_what_shell_completion_scripts_do
+570,Lobsters,unix,Unix,LEARN — Computer-Aided Instruction on UNIX (1979),http://a.papnet.eu/UNIX/v7/files/doc/07_learn.pdf
+571,Lobsters,unix,Unix,So you want to make a TUI…,https://p.janouch.name/article-tui.html
+572,Lobsters,unix,Unix,OpenSMTPD for the Real World (2016),https://www.bsdcan.org/2016/schedule/events/691.en.html
+573,Lobsters,unix,Unix,How bad is the Windows command line really?,http://blog.nullspace.io/batch.html
+574,Lobsters,unix,Unix,"Let’s start at the very beginning… 801, ROMP, RT/PC, AIX versions (2017)",https://notes.technologists.com/notes/2017/03/08/lets-start-at-the-very-beginning-801-romp-rtpc-aix-versions/
+575,Lobsters,unix,Unix,Stabbing yourself with a fork() in a multiprocessing.Pool full of sharks,https://codewithoutrules.com/2018/09/04/python-multiprocessing/
+576,Lobsters,unix,Unix,Minimalist website and command line tool for saving and sharing public notes,https://github.com/bwasti/jott
+577,Lobsters,unix,Unix,A little bit of the one-time MacOS version still lingers in ZFS,https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSDTypeAndMacOS
+578,Lobsters,unix,Unix,Test your sysadmin skills,https://github.com/trimstray/test-your-sysadmin-skills
+579,Lobsters,unix,Unix,IBM TSM (Spectrum Protect) on Veritas Cluster Server,https://vermaden.wordpress.com/2018/08/23/ibm-tsm-spectrum-protect-on-veritas-cluster-server/
+580,Lobsters,unix,Unix,Killing Processes that Don’t Want to be Killed,https://blog.xenproject.org/2018/08/01/killing-processes-that-dont-want-to-be-killed/
+581,Lobsters,unix,Unix,Oil Shell: Summer Vacation is Over,http://www.oilshell.org/blog/2018/08/15.html
+582,Lobsters,unix,Unix,AsiaBSDCon 2019,http://2019.asiabsdcon.org
+583,Lobsters,unix,Unix,Independent Online Communities: History and Future of Public Access Unix Systems,http://tilde.town/~cmccabe/online-communities.html
+584,Lobsters,unix,Unix,tinywm - a minimalist window manager in 50 lines of C,http://incise.org/tinywm.html
+585,Lobsters,unix,Unix,Pure Bash Bible: A collection of pure bash alternatives to external binaries,https://github.com/dylanaraps/pure-bash-bible#pure-bash-bible
+586,Lobsters,unix,Unix,How I slashed a SQL query runtime from 380 hours to 12 with two Unix commands,https://www.spinellis.gr/blog/20180805/
+587,Lobsters,unix,Unix,Vim for Plan 9,https://vmsplice.net/9vim.html
+588,Lobsters,unix,Unix,Michael MacInnis: Oh a new Unix shell - BSDCan 2018,https://www.youtube.com/watch?v=v1m-WEZz46U
+589,Lobsters,unix,Unix,Scraping and Parsing Sitemaps in Bash,https://intoli.com/blog/sitemaps-in-bash/
+590,Lobsters,unix,Unix,An Introduction to Verifiedexec in NetBSD (2012),https://www.youtube.com/watch?v=KcECjEA1lBI
+591,Lobsters,unix,Unix,"Detecting the use of ""curl | bash"" server side (2016)",https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+592,Lobsters,unix,Unix,A lobste.rs mirror on gopher,http://gopher.floodgap.com/gopher/gw?gopher://sdf.org:70/1/users/julienxx/Lobste.rs/
+593,Lobsters,unix,Unix,XMPP Echo Bot written in Sed/Bash and OpenSSL,https://github.com/horazont/xmpp-echo-bot
+594,Lobsters,unix,Unix,NixOS on prgmr and Failing to Learn Nix,https://push.cx/2018/nixos
+595,Lobsters,unix,Unix,OSH 0.5 - A Release with Many Contributors,http://www.oilshell.org/blog/2018/07/23.html
+596,Lobsters,unix,Unix,Hidden gems of xterm,https://lukas.zapletalovi.com/2013/07/hidden-gems-of-xterm.html
+597,Lobsters,unix,Unix,Oil Shell Summer Blog Topics,http://www.oilshell.org/blog/2018/07/22.html
+598,Lobsters,unix,Unix,Announcing NetBSD 8.0,https://www.netbsd.org/releases/formal-8/NetBSD-8.0.html
+599,Lobsters,unix,Unix,Oil Shell Summer Status Update,http://www.oilshell.org/blog/2018/07/21.html
+600,Lobsters,unix,Unix,Tribblix - minimal plus pkgsrc,http://ptribble.blogspot.com/2018/07/tribblix-minimal-plus-pkgsrc.html
+601,Lobsters,unix,Unix,mutt 1.10.1 released,http://www.mutt.org/download.html
+602,Lobsters,unix,Unix,"Nanix: an idea for a modern, small, UNIX-like operating system",https://zebmccorkle.u.asymptote.club/blog/nanix-an-idea-for-a-modern-small-unix-like-operating-system/
+603,Lobsters,unix,Unix,PipesFS: Fast Linux I/O in the Unix Tradition (2008),https://www.cs.vu.nl/~herbertb/papers/osreview2008-2.pdf
+604,Lobsters,unix,Unix,The everything-is-a-file principle (2002),https://yarchive.net/comp/linux/everything_is_file.html
+605,Lobsters,unix,Unix,Unix system programming in OCaml,https://ocaml.github.io/ocamlunix/index.html
+606,Lobsters,unix,Unix,pkgsrcCon 2018 in Berlin - Videos,https://pkgsrc.org/pkgsrcCon/2018/talks.html
+607,Lobsters,unix,Unix,Handy one-liners for AWK (2003),http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt
+608,Lobsters,unix,Unix,Ghost in the Shell - Part 2,https://vermaden.wordpress.com/2018/07/08/ghost-in-the-shell-part-2/
+609,Lobsters,unix,Unix,Where GREP Came From,https://www.youtube.com/watch?v=NTfOnGZUZDk
+610,Lobsters,unix,Unix,A yak shave with SGI's EFS,https://blog.pizzabox.computer/posts/sgi-efs-yakshave/
+611,Lobsters,unix,Unix,Asymptote Club,https://asymptote.club/
+612,Lobsters,unix,Unix,Unix as IDE,https://sanctum.geek.nz/arabesque/series/unix-as-ide/?
+613,Lobsters,unix,Unix,Designing the software specification [for 386BSD],https://386bsd.org/releases/porting-unix-to-the-386-a-practical-approach-designing-the-software-specification-article
+614,Lobsters,unix,Unix,If only more writers knew about the power of Unix...,/s/ynm8nz/if_only_more_writers_knew_about_power_unix
+615,Lobsters,unix,Unix,The Influence of the UNIX® Operating System on the Development of Two Video Games.,http://www.langston.com/Papers/vidgam.pdf
+616,Lobsters,unix,Unix,"diffoscope: in-depth comparison of files, archives, and directories",https://diffoscope.org/
+617,Lobsters,unix,Unix,"PDP-11 legacy, C and modern architectures",https://minnie.tuhs.org/pipermail/tuhs/2018-June/014191.html
+618,Lobsters,unix,Unix,The Unleashed Operating System,http://unleashed-os.org/
+619,Lobsters,unix,Unix,The Evolution of the Unix Time-sharing System,https://www.bell-labs.com/usr/dmr/www/hist.html
+620,Lobsters,unix,Unix,Laminar - Lightweight Continuous Integration,https://laminar.ohwg.net/
+621,Lobsters,unix,Unix,Back To The Future: Unix Wildcards Gone Wild,http://seclists.org/fulldisclosure/2014/Jun/136
+622,Lobsters,unix,Unix,The Power of CTRL+T,https://blog.danielisz.org/2018/06/21/the-power-of-ctrlt/
+623,Lobsters,unix,Unix,The Strange Birth and Long Life of Unix,https://spectrum.ieee.org/tech-history/cyberspace/the-strange-birth-and-long-life-of-unix
+624,Lobsters,unix,Unix,What does {some strange unix command name} stand for?,http://www.unixguide.net/unix/faq/1.3.shtml
+625,Lobsters,unix,Unix,A collection of Bash one liner gems,http://www.bashoneliners.com/
+626,Lobsters,unix,Unix,Bill Joy’s Law: 2^(Year-1984) Million Instructions per Second,https://medium.com/@donhopkins/bill-joys-law-2-year-1984-million-instructions-per-second-3a8c92165cfe
+627,Lobsters,unix,Unix,memory management in the Bourne shell,https://www.in-ulm.de/~mascheck/bourne/segv.html
+628,Lobsters,unix,Unix,More Hints for Writing Unix Tools,http://www.mariocampos.io/blog/more-unix-tools-hints/
+629,Lobsters,unix,Unix,Advanced Bash-Scripting Guide,https://www.tldp.org/LDP/abs/html/abs-guide.html
+630,Lobsters,unix,Unix,"Solaris 11.4: 10 Good-to-Know Features, Enhancements or Changes",https://blogs.oracle.com/solaris/solaris-114%3a-10-good-to-know-features%2c-enhancements-or-changes
+631,Lobsters,unix,Unix,The UNIX Philosophy and a Fear of Pixels,http://prog21.dadgum.com/159.html
+632,Lobsters,unix,Unix,Speeding up Zsh and Oh-My-Zsh,https://blog.jonlu.ca/posts/speeding-up-zsh
+633,Lobsters,unix,Unix,"There is only one OS, and it’s been obsolete for decades",https://programmingmadecomplicated.wordpress.com/2017/08/12/there-is-only-one-os-and-its-been-obsolete-for-decades/
+634,Lobsters,unix,Unix,Radio E-Mail in West Africa (2002),https://www.linuxjournal.com/article/6062
+635,Lobsters,unix,Unix,Comparing files line by line with diff,https://monades.roperzh.com/weekly-command-comparing-files-line-by-line-with-diff/
+636,Lobsters,unix,Unix,Revisiting the Arcan Project,https://arcan-fe.com/2018/05/31/revisiting-the-arcan-project/
+637,Lobsters,unix,Unix,Rash: The Reckless Racket Shell,https://docs.racket-lang.org/rash/index.html
+638,Lobsters,unix,Unix,Introducing Mono on AIX and IBM i,http://www.mono-project.com/news/2018/05/29/mono-on-aix-and-ibm-i/
+639,Lobsters,unix,Unix,"rw(1), a dd(1) replacement",https://sortix.org/rw/
+640,Lobsters,unix,Unix,Network Security Audit,https://blog.netbsd.org/tnf/entry/network_security_audit
+641,Lobsters,unix,Unix,Proposal for turning off standard I/O buffering,https://blog.plover.com/Unix/stdio-buffering.html
+642,Lobsters,unix,Unix,Hints for writing Unix tools,https://monkey.org/~marius/unix-tools-hints.html
+643,Lobsters,unix,Unix,Learning Nix by Example: Building FFmpeg 4.0,https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/
+644,Lobsters,unix,Unix,dgsh — directed graph shell,https://www2.dmst.aueb.gr/dds/sw/dgsh/
+645,Lobsters,unix,Unix,Command-line Tools can be 235x Faster than your Hadoop Cluster,https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+646,Lobsters,unix,Unix,IRIX Network Home,http://irix.cc/
+647,Lobsters,unix,Unix,Weekly Command: inspecting network usage with iftop,https://monades.roperzh.com/weekly-command-inspecting-network-traffic-with-iftop/
+648,Lobsters,unix,Unix,A Docker Image in Less Than 1000 Bytes,https://zwischenzugs.com/2018/05/22/a-docker-image-in-less-than-1000-bytes/
+649,Lobsters,unix,Unix,How to calculate the process resident set size?,https://github.com/NanXiao/getRSS
+650,Lobsters,unix,Unix,TheRouter - a software packet router based on DPDK and NPF libraries,http://therouter.net/
+651,Lobsters,unix,Unix,Mini review: The Acme editor on Debian on Windows,http://www.donationcoder.com/forum/index.php?topic=45547
+652,Lobsters,unix,Unix,Managing processes with htop,https://monades.roperzh.com/weekly-command-managing-processes-with-htop/
+653,Lobsters,unix,Unix,"Deconstructing the ""Unix philosophy""",http://www.tedinski.com/2018/05/08/case-study-unix-philosophy.html
+654,Lobsters,unix,Unix,"Introducing scdoc, a man page generator",http://sircmpwn.github.io/2018/05/13/scdoc.html
+655,Lobsters,unix,Unix,Draining the manual-page swamp,http://esr.ibiblio.org/?p=7998
+656,Lobsters,unix,Unix,GCC optimization (Gentoo Wiki),https://wiki.gentoo.org/wiki/GCC_optimization
+657,Lobsters,unix,Unix,Batch editing files with ed,https://jvns.ca/blog/2018/05/11/batch-editing-files-with-ed/
+658,Lobsters,unix,Unix,"Types of WM, Drawables, Regions, Compositing, Unredirecting, etc..",https://venam.nixers.net/blog/unix/2018/05/10/reparenting-redirecting-composition-rendering.html
+659,Lobsters,unix,Unix,Evolution of C Programming Practices Study of UNIX Operating System (2016),https://www2.dmst.aueb.gr/dds/pubs/conf/2016-ICSE-ProgEvol/html/SLK16.pdf
+660,Lobsters,unix,Unix,X server pointer acceleration analysis,http://who-t.blogspot.com/2018/05/x-server-pointer-acceleration-analysis-part1.html
+661,Lobsters,unix,Unix,eshell as a main shell,https://ambrevar.bitbucket.io/emacs-eshell/
+662,Lobsters,unix,Unix,GNU Readline,https://en.wikipedia.org/wiki/GNU_Readline
+663,Lobsters,unix,Unix,"ZSH, tmux, Emacs and SSH: A copy-paste story",https://blog.d46.us/zsh-tmux-emacs-copy-paste/
+664,Lobsters,unix,Unix,Redirecting stderr of a running process,http://sircmpwn.github.io/2018/05/04/Redirecitng-stderr-of-running-process.html
+665,Lobsters,unix,Unix,Minimal Binary Generator for *Nix Operating Systems,https://github.com/faemiyah/dnload
+666,Lobsters,unix,Unix,Release of OSH 0.5.alpha3,http://www.oilshell.org/blog/2018/04/30.html
+667,Lobsters,unix,Unix,A Fast File System for Unix (1984),https://docs.freebsd.org/44doc/smm/05.fastfs/paper.pdf
+668,Lobsters,unix,Unix,ocochard/graphpath - Graphpath generates an ASCII network diagram from the route table,https://github.com/ocochard/graphpath
+669,Lobsters,unix,Unix,Fuzzy finding everything with fzf,https://monades.roperzh.com/fuzzy-finding-everything-with-fzf/
+670,Lobsters,unix,Unix,Practical UNIX Manuals: mdoc,https://manpages.bsd.lv/mdoc.html
+671,Lobsters,unix,Unix,Call for Papers | EuroBSDcon 2018,https://2018.eurobsdcon.org/call-for-papers/
+672,Lobsters,unix,Unix,oil-dev is moving to Zulip,http://www.oilshell.org/blog/2018/04/26.html
+673,Lobsters,unix,Unix,The Sourceware Operating System Proposal (1993),http://www.landley.net/history/mirror/unix/srcos.html
+674,Lobsters,unix,Unix,afio 2.5.2-prelease,https://github.com/kholtman/afio
+675,Lobsters,unix,Unix,Xz format inadequate for long-term archiving,https://www.nongnu.org/lzip/xz_inadequate.html
+676,Lobsters,unix,Unix,Weekly Command: going over Git history with tig,https://monades.roperzh.com/weekly-command-going-over-git-history-with-tig/
+677,Lobsters,unix,Unix,"So, why Plan 9?",https://www.mail-archive.com/9fans@9fans.net/msg17067.html
+678,Lobsters,unix,Unix,sigaction: see who killed you (and more),http://rachelbythebay.com/w/2018/04/16/signal/
+679,Lobsters,unix,Unix,Like du but more intuitive,https://github.com/bootandy/dust#overview
+680,Lobsters,unix,Unix,MirBSD Korn Shell on Jehanne,http://www.mirbsd.org/permalinks/wlog-10_e20180415-tg.htm
+681,Lobsters,unix,Unix,Weekly Command: jumping directories with z,https://monades.roperzh.com/weekly-command-jumping-directories-with-z/
+682,Lobsters,unix,Unix,Fuchsia is not Linux,https://fuchsia.googlesource.com/docs/+/master/the-book/
+683,Lobsters,unix,Unix,UCLA Secure UNIX (1977-1979),https://pdfs.semanticscholar.org/55f7/e4d8719cbdfe8cdc9fa77ed7a5f62bfba784.pdf
+684,Lobsters,unix,Unix,Switched from Jekyll to a shell script (rsync + lowdown + entr + httpd),https://www.romanzolotarev.com/ssg.html
+685,Lobsters,unix,Unix,Review: Sortix 1.0,https://www.distrowatch.com/weekly.php?issue=20180409#sortix
+686,Lobsters,unix,Unix,"patch runs ed, and ed can run anything",http://rachelbythebay.com/w/2018/04/05/bangpatch/
+687,Lobsters,unix,Unix,Weekly Command: processing JSON with jq,https://monades.roperzh.com/weekly-command-processing-json-with-jq/
+688,Lobsters,unix,Unix,Announcing the pkgsrc-2018Q1 release,http://mail-index.netbsd.org/pkgsrc-users/2018/04/05/msg026461.html
+689,Lobsters,unix,Unix,"OpenSSH 7.7 released April 3, 2018",http://www.openssh.com/txt/release-7.7
+690,Lobsters,unix,Unix,Beep Security Update for Debian 7 LTS,http://www.linuxcompatible.org/news/story/beep_security_update_for_debian_7_lts.html
+691,Lobsters,unix,Unix,Memories of writing a parser for man pages,https://monades.roperzh.com/memories-writing-parser-man-pages/
+692,Lobsters,unix,Unix,A Pure Python GNU Find Like Utility (2013),https://meitham.com/2013/01/05/pure-python-find-utility/
+693,Lobsters,unix,Unix,cd is Wasting Your Time,https://olivierlacan.com/posts/cd-is-wasting-your-time/
+694,Lobsters,unix,Unix,I'm Attending Recurse Center this Summer,http://www.oilshell.org/blog/2018/03/25.html
+695,Lobsters,unix,Unix,Alerting or notifying on SSH logins,https://jpmens.net/2018/03/25/alerting-on-ssh-logins/
+696,Lobsters,unix,Unix,Setuid Demystified (2002),https://people.eecs.berkeley.edu/~daw/papers/setuid-usenix02.pdf
+697,Lobsters,unix,Unix,Into the Void – Void Linux description and review from maintainer's POV,https://michaelwashere.net/void/linux/culture/2017/09/18/into-the-void.html
+698,Lobsters,unix,Unix,Email Configuration for plan9 Acme on OpenBSD,http://akpoff.com/archive/2018/email_config_plan9_acme_openbsd.html
+699,Lobsters,unix,Unix,Nix: A Reproducible Setup for Linux and macOS,http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html
+700,Lobsters,unix,Unix,Odd Comments and Strange Doings in Unix,http://orkinos.cmpe.boun.edu.tr/~kosar/odd.html
+701,Lobsters,unix,Unix,The history of documented Unix facilities,https://dspinellis.github.io/unix-history-man/
+702,Lobsters,unix,Unix,Commentary on the Sixth Edition UNIX Operating System,http://www.lemis.com/grog/Documentation/Lions/
+703,Lobsters,unix,Unix,Turbocharging ZFS Data Recovery,https://www.delphix.com/blog/openzfs-pool-import-recovery
+704,Lobsters,unix,Unix,Sudo Science: A brief tour of how Unix enables regular users to gain super (user) powers,https://rcoh.me/posts/sudo-science/
+705,Lobsters,unix,Unix,ed(1) is Turing-Complete,https://nixwindows.wordpress.com/2018/03/13/ed1-is-turing-complete/
+706,Lobsters,unix,Unix,Lock-in-Pop: Securing Privileged Operating System Kernels by Keeping on the Beaten Path,https://www.usenix.org/system/files/conference/atc17/atc17-li_yiwen.pdf
+707,Lobsters,unix,Unix,Unix folklore: using multiple sync commands (2005),https://utcc.utoronto.ca/~cks/space/blog/unix/TheLegendOfSync
+708,Lobsters,unix,Unix,Actually using ed (2012),https://sanctum.geek.nz/arabesque/actually-using-ed/
+709,Lobsters,unix,Unix,LLDB restoration and return to ptrace(2),https://blog.netbsd.org/tnf/entry/lldb_restoration_and_return_to
+710,Lobsters,unix,Unix,A week of NetBSD #1,https://www.geeklan.co.uk/?p=2256
+711,Lobsters,unix,Unix,Building Oil with the OPy Bytecode Compiler,http://www.oilshell.org/blog/2018/03/04.html
+712,Lobsters,unix,Unix,wmutils - a unix style approach to window management,https://github.com/wmutils
+713,Lobsters,unix,Unix,Creating a bash completion script,https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html
+714,Lobsters,unix,Unix,Doom as a tool for system administration [1999],https://www.cs.unm.edu/~dlchao/flake/doom/
+715,Lobsters,unix,Unix,"Sortix: A Small, Self-Hosted, POSIX-compliant, Operating System",https://sortix.org
+716,Lobsters,unix,Unix,Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD,https://fosdem.org/2018/schedule/event/unix_evolution/
+717,Lobsters,unix,Unix,fread and fwrite demystified: stdio on UNIX V7 | Fun with virtualization,https://virtuallyfun.com/2018/03/01/fread-and-fwrite-demystified-stdio-on-unix-v7/
+718,Lobsters,unix,Unix,A potential way to have spaces in filenames and not break the Unix command line,http://boston.conman.org/2018/02/28.2
+719,Lobsters,unix,Unix,ed(1) on Seventh Edition UNIX: an editor in 1762 lines,http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/ed.c
+720,Lobsters,unix,Unix,Adding Colors to man,https://russellparker.me/2018/02/23/adding-colors-to-man/
+721,Lobsters,unix,Unix,A long two months,https://blog.cooperi.net/a-long-two-months
+722,Lobsters,unix,Unix,Rob Pike on /bin/true,https://twitter.com/rob_pike/status/966896123548872705
+723,Lobsters,unix,Unix,futures of distributions,http://joeyh.name/blog/entry/futures_of_distributions/
+724,Lobsters,unix,Unix,"32b/docker-get - ""pull"" docker images from git repositories",https://github.com/32b/docker-get
+725,Lobsters,unix,Unix,Chomper - An Internet Blocker for Linux,https://github.com/aniketpanjwani/chomper
+726,Lobsters,unix,Unix,"CommonMark is a Useful, High-Quality Project",http://www.oilshell.org/blog/2018/02/14.html
+727,Lobsters,unix,Unix,Unix: Building a Development Environment from Scratch,http://minnie.tuhs.org/Y5/wkt_hapop_paper.pdf
+728,Lobsters,unix,Unix,Reflecting on ppbert,https://vfoley.xyz/ppbert/
+729,Lobsters,unix,Unix,An Empirical Study on the Reliability of UNIX Utilities (1989),http://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz.pdf
+730,Lobsters,unix,Unix,modernish: a shell moderniser library,https://github.com/modernish/modernish
+731,Lobsters,unix,Unix,Introduction to POSIX shell,http://sircmpwn.github.io/2018/02/05/Introduction-to-POSIX-shell.html
+732,Lobsters,unix,Unix,X's network transparency has wound up mostly being a failure,https://utcc.utoronto.ca/~cks/space/blog/unix/XNetworkTransparencyFailure
+733,Lobsters,unix,Unix,SunPCI: Run x86 Applications on a Solaris/SPARC Box,https://docs.oracle.com/cd/E19085-01/pci1.card/805-6058-11/6j5nc881r/index.html
+734,Lobsters,unix,Unix,OSH 0.4 - A Shell Language That's Nearly Feature-Complete,http://www.oilshell.org/blog/2018/02/03.html
+735,Lobsters,unix,Unix,Avoid workspaces,http://blog.z3bra.org/2014/11/avoid-workspaces.html
+736,Lobsters,unix,Unix,Oil: Popular Posts with Many Comments,http://www.oilshell.org/blog/2018/01/31.html
+737,Lobsters,unix,Unix,Why Create a New Unix Shell?,http://www.oilshell.org/blog/2018/01/28.html
+738,Lobsters,unix,Unix,The history of NetBSD/atari and support for ATARI compatible Milan,https://speakerdeck.com/tsutsui/osc2018osaka
+739,Lobsters,unix,Unix,The Setenv Fiasco (2015),http://www.club.cc.cmu.edu/~cmccabe/blog_the_setenv_fiasco.html
+740,Lobsters,unix,Unix,Date and Time on UNIX V7,https://virtuallyfun.com/2018/01/28/date-and-time-on-unix-v7/
+741,Lobsters,unix,Unix,Moving efficiently in the CLI,https://clementc.github.io/blog/2018/01/25/moving_cli/
+742,Lobsters,unix,Unix,Chmod and the mysterious first octet,https://major.io/2007/02/13/chmod-and-the-mysterious-first-octet/
+743,Lobsters,unix,Unix,Rediscovering make: automatic variables,https://monades.roperzh.com/rediscovering-make-automatic-variables/
+744,Lobsters,unix,Unix,Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace,http://nullprogram.com/blog/2018/01/17/
+745,Lobsters,unix,Unix,Hyperkernel: Push-Button Verification of an OS Kernel (2017),https://homes.cs.washington.edu/~helgi/papers/hyperkernel.pdf
+746,Lobsters,unix,Unix,grep your way to freedom,https://anniecherkaev.com/grep-your-way-to-freedom
+747,Lobsters,unix,Unix,Rediscovering make: the power behind rules,https://monades.roperzh.com/rediscovering-make-power-behind-rules/
+748,Lobsters,unix,Unix,Teaching an Almost 40-year Old UNIX about Backspace,https://virtuallyfun.com/2018/01/17/teaching_an_almost_40-year_old_unix_about_backspace/
+749,Lobsters,unix,Unix,Announcing the pkgsrc-2017Q4 release,http://mail-index.netbsd.org/pkgsrc-users/2018/01/04/msg026073.html
+750,Lobsters,unix,Unix,"Oil: Success with Aboriginal, Alpine, and Debian",http://www.oilshell.org/blog/2018/01/15.html
+751,Lobsters,unix,Unix,How to sleep a million years,https://idea.popcount.org/2013-07-19-how-to-sleep-a-million-years/
+752,Lobsters,unix,Unix,Life in UNIX® V7: an attempt at a simple task,https://virtuallyfun.com/2018/01/10/life-in-unix-v7-an-attempt-at-a-simple-task/
+753,Lobsters,unix,Unix,Papers I've Read in 2017,http://blog.felipe.rs/2017/12/30/papers-ive-read-in-2017/
+754,Lobsters,unix,Unix,V7/x86 – x86 port of Unix V7,http://www.nordier.com/v7x86/
+755,Lobsters,unix,Unix,A Brief History of sed,https://blog.sourcerer.io/a-brief-history-of-sed-6eaf00302ed
+756,Lobsters,unix,Unix,Jehanne in 2017,http://jehanne.io/2018/01/06/jehanne-in-2017.html
+757,Lobsters,unix,Unix,fork is not my favorite syscall,http://sircmpwn.github.io/2018/01/02/The-case-against-fork.html
+758,Lobsters,unix,Unix,Using ptrace to call a userspace method (2016),https://eklitzke.org/ptrace
+759,Lobsters,unix,Unix,History of UNIX Manpages (2011),https://manpages.bsd.lv/history.html
+760,Lobsters,unix,Unix,Unix and Beyond: An Interview with Ken Thompson,http://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson.html
+761,Lobsters,unix,Unix,"OSH 0.3 - Optimization, Benchmarks, and Bug Fixes",http://www.oilshell.org/blog/2017/12/22.html
+762,Lobsters,unix,Unix,manweb — Web framework witch display webpage like a nice unix manpage,https://fauvenoir.github.io/manweb/
+763,Lobsters,unix,Unix,jschauma/cs631apue - CS631 Advanced Programming in the UNIX Environment,https://github.com/jschauma/cs631apue
+764,Lobsters,unix,Unix,learn: Ancient troff sources vs. modern-day groff,https://virtuallyfun.com/2017/12/22/learn-ancient-troff-sources-vs-modern-day-groff/
+765,Lobsters,unix,Unix,Tar and Curl Come to Windows!,https://blogs.technet.microsoft.com/virtualization/2017/12/19/tar-and-curl-come-to-windows/
+766,Lobsters,unix,Unix,OpenBSD 6.2 + CDE,http://jamesdeagle.blogspot.com/2017/12/openbsd-62-cde.html
+767,Lobsters,unix,Unix,Oil: When Are Lexer Modes Useful?,http://www.oilshell.org/blog/2017/12/17.html
+768,Lobsters,unix,Unix,The Oil Lexer: Introduction and Recap,http://www.oilshell.org/blog/2017/12/15.html
+769,Lobsters,unix,Unix,Scheme For NuttX,https://keithp.com/blogs/nuttx-scheme/
+770,Lobsters,unix,Unix,52 weeks of Unix Newsletter,https://newsletter.nixers.net/entries.php
+771,Lobsters,unix,Unix,The anatomy of tee program on OpenBSD,http://nanxiao.me/en/the-anatomy-of-tee-program-on-openbsd/
+772,Lobsters,unix,Unix,[TUHS] What UNIX Artifacts Are Still Missing?,http://minnie.tuhs.org/pipermail/tuhs/2017-December/012156.html
+773,Lobsters,unix,Unix,Understanding CPU Steal Time: when should you be worried?,http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried
+774,Lobsters,unix,Unix,Oil Blog Retrospective #3,http://www.oilshell.org/blog/2017/11/30.html
+775,Lobsters,unix,Unix,UNIX Programmer's Manual (1971),http://www.bitsavers.org/pdf/bellLabs/unix/UNIX_ProgrammersManual_Nov71.pdf
+776,Lobsters,unix,Unix,"Yes, Eshell is my main shell",https://www.reddit.com/r/emacs/comments/6y3q4k/yes_eshell_is_my_main_shell/
+777,Lobsters,unix,Unix,Fish-like autosuggestions in eshell,http://whyarethingsthewaytheyare.com/fishlike-autosuggestions-in-eshell/
+778,Lobsters,unix,Unix,AT&T 3B2 400 emulated,https://virtuallyfun.com/2017/11/24/att-3b2-400-emulated/
+779,Lobsters,unix,Unix,The first Unix port (1998),http://bitsavers.informatik.uni-stuttgart.de/bits/Interdata/32bit/unix/univWollongong_v6/miller.pdf
+780,Lobsters,unix,Unix,Plan 9 Operating System for the Raspberry Pi - ported by Richard Miller (2012),https://www.youtube.com/watch?v=O7ZELOUIyvw
+781,Lobsters,unix,Unix,Run the First Edition of Unix (1972) with Docker,https://nickjanetakis.com/blog/run-the-first-edition-of-unix-1972-with-docker
+782,Lobsters,unix,Unix,Reviving the 1973 Unix Programmer's Manual,https://www.spinellis.gr/blog/20171119/
+783,Lobsters,unix,Unix,Analog and Digital TV Signal Generation,https://bellard.org/dvbt/
+784,Lobsters,unix,Unix,Terminal Recorders: A Comprehensive Guide,https://intoli.com/blog/terminal-recorders/
+785,Lobsters,unix,Unix,AMIX History,http://amix.failsure.net/AMIX+History
+786,Lobsters,unix,Unix,OSH 0.2 - Parsing One Million Lines of Shell,http://www.oilshell.org/blog/2017/11/10.html
+787,Lobsters,unix,Unix,Interview with Dennis Ritchie (2003),https://anders.unix.se/2015/10/26/interview-with-dennis-ritchie-2003/
+788,Lobsters,unix,Unix,Apollo Domain/OS Brochure (July 1988),http://bitsavers.org/pdf/apollo/brochures/Apollo_DomainOS_Brochure_Jul88.pdf
+789,Lobsters,unix,Unix,"Surface Book, Windows 10, and WSL: A year in review from a UNIX Geek",https://geekyschmidt.com/2017/11/05/a-year-of-microsoft-in-review
+790,Lobsters,unix,Unix,App Container Spec,https://github.com/appc/spec
+791,Lobsters,unix,Unix,4.2BSD on SIMH vax with networking,http://plover.net/~agarvin/4.2bsd.html
+792,Lobsters,unix,Unix,OpenZFS Developer Summit 2017,http://www.open-zfs.org/wiki/OpenZFS_Developer_Summit_2017
+793,Lobsters,unix,Unix,"awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos",https://github.com/alebcay/awesome-shell
+794,Lobsters,unix,Unix,Writing a 9P server from scratch,https://blog.aqwari.net/9p/
+795,Lobsters,unix,Unix,os-test,https://sortix.org/os-test/
+796,Lobsters,unix,Unix,Replacing a dead NVRAM chip,https://blog.pizzabox.computer/posts/dead-vram/
+797,Lobsters,unix,Unix,EuroBSDcon: System Performance Analysis Methodologies,http://www.brendangregg.com/blog/2017-10-28/bsd-performance-analysis-methodologies.html
+798,Lobsters,unix,Unix,OSH (Oil Shell) Now Available In AUR,https://aur.archlinux.org/packages/osh/
+799,Lobsters,unix,Unix,"More Taste, Less Greed (Sending Unix to the Fat Farm)",http://www.terzarima.net/doc/taste.pdf
+800,Lobsters,unix,Unix,Giant list of GNU AWK examples,https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md
+801,Lobsters,unix,Unix,"Oil: Comments About Shell, Awk, and Make",http://www.oilshell.org/blog/2017/10/25.html
+802,Lobsters,unix,Unix,Oil Status Update: Parser Correctness and Performance,http://www.oilshell.org/blog/2017/10/24.html
+803,Lobsters,unix,Unix,"Extended attributes: the good, the not so good, the bad. (2014)",https://www.lesbonscomptes.com/pages/extattrs.html
+804,Lobsters,unix,Unix,An ode to pack: gzip’s forgotten decompressor,http://www.vidarholen.net/contents/blog/?p=691
+805,Lobsters,unix,Unix,IronForge the NetBSD Toaster,http://www.instructables.com/id/IronForge-the-NetBSD-Toaster/
+806,Lobsters,unix,Unix,Wargames - learn and practice security concepts,http://overthewire.org/wargames/
+807,Lobsters,unix,Unix,The basic ontology of a C program,http://pp.feeb.dog/c_program_ontology.txt
+808,Lobsters,unix,Unix,Building shells with a grain of salt,http://www.cipht.net/2017/10/17/build-your-own-shell.html
+809,Lobsters,unix,Unix,OpenBSD Jumpstart - updated!,http://www.openbsdjumpstart.org/
+810,Lobsters,unix,Unix,Kernel Recipes 2017 - Performance Analysis with BPF - Brendan Gregg,https://www.youtube.com/watch?v=nhxq6jLGc_w
+811,Lobsters,unix,Unix,Xorg 1.19.5 is out fixing a dozen security vulnerabilities,https://lists.x.org/archives/xorg-devel/2017-October/054871.html
+812,Lobsters,unix,Unix,A Little Story About the `yes` Unix Command,https://matthias-endler.de/2017/yes/
+813,Lobsters,unix,Unix,Kernel ASLR on amd64,http://blog.netbsd.org/tnf/entry/kernel_aslr_on_amd64
+814,Lobsters,unix,Unix,Installing and Using Research Unix Version 7 In the SimH PDP-11/45 and 11/70 Emulators,https://drive.google.com/file/d/0B1_Jn6Hlzym-Zmx1TjR3TENDQTA/view
+815,Lobsters,unix,Unix,Fosdem 2018 BSD Devroom Call for Participation,https://people.freebsd.org/~rodrigo/fosdem18/
+816,Lobsters,unix,Unix,rat: Compose shell commands to build interactive terminal applications,https://github.com/ericfreese/rat
+817,Lobsters,unix,Unix,"EuroBSDcon 2017: ""travel notes"" after the conference",https://blog.netbsd.org/tnf/entry/eurobsdcon_2017_travel_notes_after
+818,Lobsters,unix,Unix,Origins and History of Unix,http://www.catb.org/esr/writings/taoup/html/ch02s01.html
+819,Lobsters,unix,Unix,"Roadmap #5: Why Oil, and Why OSH?",http://www.oilshell.org/blog/2017/10/06.html
+820,Lobsters,unix,Unix,"OpenSSH 7.6 released October 3, 2017 (delete SSH protocol version 1)",http://www.openssh.com/txt/release-7.6
+821,Lobsters,unix,Unix,The anatomy of ldd program on OpenBSD,http://nanxiao.me/en/the-anatomy-of-ldd-program-on-openbsd/
+822,Lobsters,unix,Unix,The Sourceware Operating System Proposal (1993),http://www.mcvoy.com/lm/bitmover/lm/papers/freeos.pdf
+823,Lobsters,unix,Unix,Simple and efficient way to show information about Memcache,https://github.com/hyperia-sk/memcache-info
+824,Lobsters,unix,Unix,Apple Open Sources XNU Kernel,https://github.com/apple/darwin-xnu
+825,Lobsters,unix,Unix,Git Log in HTML: A Harder Problem and A Safe Solution,http://www.oilshell.org/blog/2017/09/29.html
+826,Lobsters,unix,Unix,Everything you never wanted to know about file locking (2010),http://chris.improbable.org/2010/12/16/everything-you-never-wanted-to-know-about-file-locking/
+827,Lobsters,unix,Unix,The basics of Client/Server socket programming,http://nanxiao.me/en/the-basics-of-clientserver-socket-programming/
+828,Lobsters,unix,Unix,Wheel (Unix term) - Wikipedia,https://en.wikipedia.org/wiki/Wheel_(Unix_term)
+829,Lobsters,unix,Unix,The tale of “aux.c”,http://heirloom.sourceforge.net/mailx_aux_c.html
+830,Lobsters,unix,Unix,A clever way of killing groups of processes,https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessKillingTrick
+831,Lobsters,unix,Unix,Parallel processing with unix tools,http://www.pixelbeat.org/docs/unix-parallel-tools.html
+832,Lobsters,unix,Unix,Hello World: Compiling Executables for the Classic POSIX Subsystem on Windows,https://blog.ret2.io/2017/09/20/subsystem-posix/
+833,Lobsters,unix,Unix,How to Quickly and Correctly* Generate a Git Log in HTML,http://www.oilshell.org/blog/2017/09/19.html
+834,Lobsters,unix,Unix,Minoca OS commits fixes to enable booting on x64/UEFI,https://github.com/minoca/os/commit/3feb1c49b4db633674b8d81184f615c0c812d88b
+835,Lobsters,unix,Unix,[TUHS] X and NeWS history (long),http://minnie.tuhs.org/pipermail/tuhs/2017-September/010471.html
+836,Lobsters,unix,Unix,Malloc in <200 lines (from V7 Unix),http://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/libc/gen/malloc.c
+837,Lobsters,unix,Unix,"More shell, less egg - All this",http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/
+838,Lobsters,unix,Unix,"Mitogen, an infrastructure code baseline that sucks less",http://pythonsweetness.tumblr.com/post/165366346547/mitogen-an-infrastructure-code-baseline-that
+839,Lobsters,unix,Unix,The Origins of Malloc,https://www.spinellis.gr/blog/20170914/
+840,Lobsters,unix,Unix,*THE* classic Unix horror story,http://www.lug.wsu.edu/node/414
+841,Lobsters,unix,Unix,NGINX Unit,http://unit.nginx.org/docs-nginx-unit.html
+842,Lobsters,unix,Unix,What's So Bad About POSIX I/O?,https://www.nextplatform.com/2017/09/11/whats-bad-posix-io/
+843,Lobsters,unix,Unix,Inbox-zero via shell mail,http://blog.ikura.co/posts/inbox-zero-via-shell-mail.html
+844,Lobsters,unix,Unix,Please Try the OSH 0.1 Release,http://www.oilshell.org/blog/2017/09/09.html
+845,Lobsters,unix,Unix,About the Ravenports Universal Package System,http://ravenports.ironwolf.systems/
+846,Lobsters,unix,Unix,GNU Daemon Shepherd - an alternative init system,https://www.gnu.org/software/shepherd/
+847,Lobsters,unix,Unix,Solaris to Linux Migration 2017,http://brendangregg.com/blog/2017-09-05/solaris-to-linux-2017.html
+848,Lobsters,unix,Unix,"Bye Bye Solaris, it seems.",http://hackaday.com/2017/09/05/bye-bye-solaris-it-seems/
+849,Lobsters,unix,Unix,Illumos at 6 by Peter Tribble,https://www.youtube.com/watch?v=29yGVdtaN_0
+850,Lobsters,unix,Unix,The sudden death and eternal life of Solaris,http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/
+851,Lobsters,unix,Unix,Oracle Finally Killed Sun,https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/
+852,Lobsters,unix,Unix,Instant +100% command line productivity boost,https://dev.to/sobolevn/instant-100-command-line-productivity-boost
+853,Lobsters,unix,Unix,Problems With Shell's test Builtin: What Does -a Mean?,http://www.oilshell.org/blog/2017/08/31.html
+854,Lobsters,unix,Unix,A Brief History of Solaris (SunOS) Ports (2009),http://rabbs.com/uuasc/SOLARIS_PPC
+855,Lobsters,unix,Unix,"GSoC 2017 Reports: Add SUBPACKAGES support to pkgsrc, part 1",https://blog.netbsd.org/tnf/entry/gsoc_2017_reports_add_code
+856,Lobsters,unix,Unix,Commandline Challenge,https://cmdchallenge.com/
+857,Lobsters,unix,Unix,The Return of the Cray files (2013-2016),http://www.modularcircuits.com/blog/articles/the-return-of-the-cray-files/
+858,Lobsters,unix,Unix,"Repology, the packaging hub",https://repology.org
+859,Lobsters,unix,Unix,On the MOTD,https://gist.github.com/MakeItGreatAgain/68dd92442c1f427f2edecc6c3135c892#file-motd-md
+860,Lobsters,unix,Unix,Next DFly release will have an initial HAMMER2 implementation,http://lists.dragonflybsd.org/pipermail/users/2017-August/313558.html
+861,Lobsters,unix,Unix,A Tutorial on Portable Makefiles,http://nullprogram.com/blog/2017/08/20/
+862,Lobsters,unix,Unix,"UNIX Hater's Handbook, Reconsidered (2008)",http://esr.ibiblio.org/?p=538
+863,Lobsters,unix,Unix,Afraid of Makefiles? Don't be!,https://matthias-endler.de/2017/makefiles/
+864,Lobsters,unix,Unix,High-process-count support added to master,http://lists.dragonflybsd.org/pipermail/users/2017-August/313552.html
+865,Lobsters,unix,Unix,Watchdogs: Extending UNIX Filesystem,https://www.usenix.org/legacy/publications/compsystems/1988/spr_bershad.pdf
+866,Lobsters,unix,Unix,Portals in 4.4BSD (1995),https://www.usenix.org/legacy/publications/library/proceedings/neworl/full_papers/stevens.a
+867,Lobsters,unix,Unix,Avoid Directly Manipulating File Descriptors in Shell Scripts,http://www.oilshell.org/blog/2017/08/12.html
+868,Lobsters,unix,Unix,Introduction To The uNIX Operating System by S. M. Walters (January 1982) [Z-80],http://bitsavers.trailing-edge.com/pdf/uNIX/uNIX_Jan82.pdf
+869,Lobsters,unix,Unix,radio(6),https://docs.oracle.com/cd/E19455-01/806-0635/6j9vp3r72/index.html
+870,Lobsters,unix,Unix,hoc7 — (high-order calculator) [interactive floating-point language],http://ftp.math.utah.edu/pub/hoc/hoc-7.0.6.beta.pdf
+871,Lobsters,unix,Unix,Unearthing The PDP-15’s Operating Systems,http://simh.trailing-edge.com/docs/advmonsys.pdf
+872,Lobsters,unix,Unix,Morrow Micronix Operating System User's Manual (1983),https://ia801902.us.archive.org/19/items/bitsavers_morrowdecingSystem1.61Jun83_20848042/Micronix_Operating_System_1.61_Jun83.pdf
+873,Lobsters,unix,Unix,exa - A modern replacement for ls,https://the.exa.website/
+874,Lobsters,unix,Unix,It came from... the HOLD SPACE (2012),http://blog.plover.com/Unix/holdspace.html
+875,Lobsters,unix,Unix,Insane calculations in bash (2012),http://blog.plover.com/prog/spark.html
+876,Lobsters,unix,Unix,Oil Shell: Post-Release Blog Topics,http://www.oilshell.org/blog/2017/07/31.html
+877,Lobsters,unix,Unix,Oil: Review of Roadmap #4,http://www.oilshell.org/blog/2017/07/29.html
+878,Lobsters,unix,Unix,The Long Slog Through the Shell (abridged),http://www.oilshell.org/blog/2017/07/28.html
+879,Lobsters,unix,Unix,The future of education is plain text,https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/
+880,Lobsters,unix,Unix,Please Try the First OSH Release,http://www.oilshell.org/blog/2017/07/23.html
+881,Lobsters,unix,Unix,CLI Magic presentation in Prague,https://www.youtube.com/watch?v=4kckdHN908A
+882,Lobsters,unix,Unix,NeoMutt - Mutt with added features,https://www.neomutt.org/
+883,Lobsters,unix,Unix,Eternal Terminal,http://mistertea.github.io/EternalTCP/
+884,Lobsters,unix,Unix,"Countdown to Unix Time 1,500,000,000",https://www.epochconverter.com/countdown
+885,Lobsters,unix,Unix,​OmniOS Community Edition,http://www.omniosce.org/
+886,Lobsters,unix,Unix,The Dawn of a new Command Line Interface,https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/
+887,Lobsters,unix,Unix,"Add horizontal CLI scrolling using the 'most' pager, great for log files",https://en.wikipedia.org/wiki/Most_(Unix)
+888,Lobsters,unix,Unix,TERM is terminally broken,https://www.facebook.com/notes/daniel-colascione/term-is-terminally-broken/10154219967001102/
+889,Lobsters,unix,Unix,Seashells – Pipe output from CLI apps to the web in real time,https://seashells.io/
+890,Lobsters,unix,Unix,Announcing the pkgsrc-2017Q2 release,http://mail-index.netbsd.org/pkgsrc-users/2017/07/10/msg025237.html
+891,Lobsters,unix,Unix,pkgsrcCon 2017 report,http://blog.netbsd.org/tnf/entry/pkgsrccon_2017_report
+892,Lobsters,unix,Unix,Privileged Ports Cause Climate Change,http://adamierymenko.com/privileged-ports-are-causing-climate-change/
+893,Lobsters,unix,Unix,Pretty and fast shell,https://medium.com/@NikitaVoloboev/pretty-and-fast-shell-97ea870f2805
+894,Lobsters,unix,Unix,PulseAudio-compatible rump kernel translator for GNU Hurd,https://github.com/dm0-/hurd-rump-audio
+895,Lobsters,unix,Unix,Buffers and windows: The mystery of ‘ssh’ and ‘while read’ in excessive detail,http://www.vidarholen.net/contents/blog/?p=632
+896,Lobsters,unix,Unix,OSH Runs Real Shell Programs,http://www.oilshell.org/blog/2017/07/02.html
+897,Lobsters,unix,Unix,"9FRONT ""MARITIME ENGINEERING STANDARDS"" RELEASED",http://9front.org/releases/2017/05/04/0/
+898,Lobsters,unix,Unix,Assembling the history of Unix,https://lwn.net/Articles/725297/
+899,Lobsters,unix,Unix,GNU sed,https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_sed.md
+900,Lobsters,unix,Unix,"Set the WABAC to 1984: Henry Spencer getopt, and the roots of open source",http://esr.ibiblio.org/?p=7552
+901,Lobsters,unix,Unix,How I Plan to Use Tests: Transforming OSH,http://www.oilshell.org/blog/2017/06/24.html
+902,Lobsters,unix,Unix,Scraping a Subreddit With a One-Liner,https://unnikked.ga/scraping-a-subreddit-with-a-one-liner-6322f74134df
+903,Lobsters,unix,Unix,Building and Installing Software in $HOME,http://nullprogram.com/blog/2017/06/19/
+904,Lobsters,unix,Unix,Oil Shell: How I Use Tests,http://www.oilshell.org/blog/2017/06/22.html
+905,Lobsters,unix,Unix,Debugging SmartOS: Finding Lock Inversions with DTrace,https://zinascii.com/2017/dbg-sos-001.html
+906,Lobsters,unix,Unix,Working Toward an OSH Release,http://www.oilshell.org/blog/2017/06/19.html
+907,Lobsters,unix,Unix,The Stack Clash,https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt
+908,Lobsters,unix,Unix,Debian GNU/Hurd 2017 released!,https://lists.debian.org/debian-hurd/2017/06/msg00017.html
+909,Lobsters,unix,Unix,curl doesn’t spew binary anymore,https://daniel.haxx.se/blog/2017/06/17/curl-doesnt-spew-binary-anymore/
+910,Lobsters,unix,Unix,Switching to the Mutt Email Client,http://nullprogram.com/blog/2017/06/15/
+911,Lobsters,unix,Unix,How is GNU's `yes` so fast?,https://www.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/
+912,Lobsters,unix,Unix,secmodel_sandbox : An application sandbox for NetBSD,http://www.bsdcan.org/2017/schedule/attachments/404_smherwig-sandbox-bsdcan2017.pdf
+913,Lobsters,unix,Unix,"Using pseudo-terminals to control interactive programs, pty, pdip (2014)",http://rachid.koucha.free.fr/tech_corner/pty_pdip.html
+914,Lobsters,unix,Unix,"Harvey OS, a descendent of Plan9",https://github.com/Harvey-OS/harvey
+915,Lobsters,unix,Unix,How Torch broke ls and made me vulnerable (or the hidden dangers of LD_LIBRARY_PATH),https://joshumax.github.io/general/2017/06/08/how-torch-broke-ls.html
+916,Lobsters,unix,Unix,pkgsrcCon 2017 in London,http://pkgsrc.org/pkgsrcCon/2017/
+917,Lobsters,unix,Unix,The MaXX Desktop,http://www.maxxinteractive.com/site/
+918,Lobsters,unix,Unix,Improving the FreeBSD SMP implementation (2001),https://www.usenix.org/legacy/event/usenix01/freenix01/full_papers/lehey/lehey_html/
+919,Lobsters,unix,Unix,Oil Shell: Project Metrics,http://www.oilshell.org/blog/2017/06/02.html
+920,Lobsters,unix,Unix,How to set your $PATH,http://zork.net/~st/jottings/How_to_set_your_PATH.html
+921,Lobsters,unix,Unix,Oil Shell: Post-Vacation Update and Build System Observations,http://www.oilshell.org/blog/2017/05/31.html
+922,Lobsters,unix,Unix,Why Linux's Filesystem Recovery Beat Other Unixes,http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html
+923,Lobsters,unix,Unix,Tribblix SPARC progress,http://ptribble.blogspot.com/2017/05/tribblix-sparc-progress.html
+924,Lobsters,unix,Unix,Introducing RunBSD.info,https://www.geeklan.co.uk/?p=2233
+925,Lobsters,unix,Unix,Talks & Schedule published | EuroBSDcon 2017,https://2017.eurobsdcon.org/2017/05/26/talks-schedule-published/
+926,Lobsters,unix,Unix,Tracking down a segfault in grep,http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/
+927,Lobsters,unix,Unix,The Unix Heritage Society,http://www.tuhs.org/
+928,Lobsters,unix,Unix,How to improve ZFS performance,https://icesquare.com/wordpress/how-to-improve-zfs-performance/
+929,Lobsters,unix,Unix,The Unix Webserver,https://github.com/tjgillies/unix-web
+930,Lobsters,unix,Unix,pigshell - unix the web,http://pigshell.com/v/0.6.4/usr/doc/about.html
+931,Lobsters,unix,Unix,kshvmdn/fsql -- Search through your file system with SQL-esque queries.,https://github.com/kshvmdn/fsql
+932,Lobsters,unix,Unix,commit regarding boot-time rng,http://marc.info/?l=openbsd-tech&m=149483572402438&w=2
+933,Lobsters,unix,Unix,Re-Writing BSD 4.4 Shell Commands: cat,https://www.youtube.com/watch?v=MCuzvy79WWQ
+934,Lobsters,unix,Unix,Updates to man-k.org,http://mail-index.netbsd.org/netbsd-users/2017/05/12/msg019549.html
+935,Lobsters,unix,Unix,My journey into Nix,https://adelbertc.github.io/posts/2017-04-03-nix-journey.html
+936,Lobsters,unix,Unix,Unix Architecture Evolution Diagrams,https://www.spinellis.gr/blog/20170510/
+937,Lobsters,unix,Unix,jrmarino/Ravenports - Universal package builder system,https://github.com/jrmarino/Ravenports
+938,Lobsters,unix,Unix,sctd: a minimal 'daemon' for sct,/s/stlowv/sctd_minimal_daemon_for_sct
+939,Lobsters,unix,Unix,find(1) revisited (2002),http://marc.info/?l=9fans&m=111558860617239&w=2
+940,Lobsters,unix,Unix,Find is a beautiful tool,https://www.eriwen.com/productivity/find-is-a-beautiful-tool/
+941,Lobsters,unix,Unix,2038: only 21 years away,https://www.viva64.com/en/b/0505/
+942,Lobsters,unix,Unix,Oil Shell: Rewriting Python's Build System From Scratch,http://www.oilshell.org/blog/2017/05/05.html
+943,Lobsters,unix,Unix,Building a “real” Linux distro,http://sircmpwn.github.io/2017/05/05/Building-a-real-Linux-distro.html
+944,Lobsters,unix,Unix,MapSCII - Braille & ASCII map renderer for your console,https://github.com/rastapasta/mapscii
+945,Lobsters,unix,Unix,UNIX System Programming with Standard ML (2001),http://mlton.org/References.attachments/Shipman02.pdf
+946,Lobsters,unix,Unix,LLDB: NetBSD Process Plugin enhancements,http://blog.netbsd.org/tnf/entry/lldb_netbsd_process_plugin_enhancements
+947,Lobsters,unix,Unix,Why GNU Autotools is not my favorite build system (2011),http://voices.canonical.com/jussi.pakkanen/2011/09/13/autotools/
+948,Lobsters,unix,Unix,terminal emulators' processing of escape sequences,http://openwall.com/lists/oss-security/2017/05/01/13
+949,Lobsters,unix,Unix,pkgsrcCon 2017 CFT,https://mail-index.netbsd.org/netbsd-advocacy/2017/05/01/msg000735.html
+950,Lobsters,unix,Unix,Practical File System Design with the Be File System (1999),http://www.nobius.org/~dbg/practical-file-system-design.pdf
+951,Lobsters,unix,Unix,OVM will be a Slice of the CPython VM,http://www.oilshell.org/blog/2017/04/25.html
+952,Lobsters,unix,Unix,PATH_MAX Is Tricky,https://eklitzke.org/path-max-is-tricky
+953,Lobsters,unix,Unix,Addition of HTML style anchor links to terminal emulators,https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda
+954,Lobsters,unix,Unix,"NNCP, a collection of utilities simplifying secure store-and-forward files and mail exchanging",http://www.nncpgo.org/
+955,Lobsters,unix,Unix,The OPy Front End is Working,http://www.oilshell.org/blog/2017/04/23.html
+956,Lobsters,unix,Unix,GCC 6 and the status of compilers in OpenIndiana,https://www.openindiana.org/2017/04/23/gcc-6-and-the-status-of-compilers-in-openindiana/
+957,Lobsters,unix,Unix,The fish shell is awesome,https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/
+958,Lobsters,unix,Unix,"Code for the Shunting Yard Algorithm, and More",http://www.oilshell.org/blog/2017/04/22.html
+959,Lobsters,unix,Unix,Oil Blog Retrospective #2,http://www.oilshell.org/blog/2017/04/21.html
+960,Lobsters,unix,Unix,The Future of OmniOS,http://lists.omniti.com/pipermail/omnios-discuss/2017-April/008699.html
+961,Lobsters,unix,Unix,An implementation of a log-structured file system for UNIX,https://www.usenix.org/legacy/publications/library/proceedings/sd93/seltzer.pdf
+962,Lobsters,unix,Unix,"Oil Blog: Switching to ""Twitter Mode""",http://www.oilshell.org/blog/2017/04/20.html
+963,Lobsters,unix,Unix,64-bit inodes (ino64) Status Update and Call for Testing,https://lists.freebsd.org/pipermail/freebsd-current/2017-April/065687.html
+964,Lobsters,unix,Unix,FuzixOS - A Unix-like OS for Z80 processors,https://github.com/EtchedPixels/FUZIX
+965,Lobsters,unix,Unix,The Elements Of Style: UNIX As Literature (1998),http://theody.net/elements.html
+966,Lobsters,unix,Unix,/dev/null Follies,http://blog.plover.com/2017/04/02/
+967,Lobsters,unix,Unix,OpenBSD 6.1,https://www.openbsd.org/61.html
+968,Lobsters,unix,Unix,An Unexpected Solution: Cobbling Together a Python Interpreter,http://www.oilshell.org/blog/2017/04/09.html
+969,Lobsters,unix,Unix,A POSIX Queue Implementation,https://zinascii.com/2014/a-posix-queue-implementation.html
+970,Lobsters,unix,Unix,Oil Shell: The Riskiest Part of the Project,http://www.oilshell.org/blog/2017/04/08.html
+971,Lobsters,unix,Unix,Internet scavenger hunt III,https://nixers.net/showthread.php?tid=2074
+972,Lobsters,unix,Unix,Robert Mustacchi: Excerpts from The Soft Ring Cycle #1,https://www.youtube.com/watch?v=vnD10WQ2930
+973,Lobsters,unix,Unix,Russian Hackers Are Still Using a Backdoor From the 90s,https://www.wired.com/2017/04/russian-hackers-used-backdoor-two-decades/
+974,Lobsters,unix,Unix,System emulation using QEMU,https://gmplib.org/~tege/qemu.html
+975,Lobsters,unix,Unix,"libsixel: encoder/decoder implementation for DEC SIXEL graphics, and some converter programs.",https://github.com/saitoha/libsixel
+976,Lobsters,unix,Unix,Why start a shell command with a backslash?,http://stackoverflow.com/questions/15691977/why-start-a-shell-command-with-a-backslash
+977,Lobsters,unix,Unix,pkgsrc-2017Q1 released,https://mail-index.netbsd.org/netbsd-announce/2017/04/04/msg000265.html
+978,Lobsters,unix,Unix,NetBSD: the first BSD introducing a modern process plugin framework in LLDB,http://blog.netbsd.org/tnf/entry/netbsd_the_first_bsd_introducing
+979,Lobsters,unix,Unix,Creators Admit UNIX and C Were A Hoax,https://www.gnu.org/fun/jokes/unix-hoax.html
+980,Lobsters,unix,Unix,Pratt Parsing Index and Updates,http://www.oilshell.org/blog/2017/03/31.html
+981,Lobsters,unix,Unix,A *nix cross-platform (OS agnostic) supervisor,https://immortal.run/
+982,Lobsters,unix,Unix,posh - a modular shell (not the Debian one),https://github.com/mikebolt/posh
+983,Lobsters,unix,Unix,"Release of 8th, 9th and 10th Editions Unix Source Code",http://minnie.tuhs.org/pipermail/tuhs/2017-March/009354.html
+984,Lobsters,unix,Unix,DragonFlyBSD 4.8 released,https://www.dragonflybsd.org/release48/
+985,Lobsters,unix,Unix,killbelow(2) - Condemned RFC manual page,https://hadrianw.github.io/condemned-rfc/killbelow.2.html
+986,Lobsters,unix,Unix,Bash quirks,https://jvns.ca/blog/2017/03/26/bash-quirks/
+987,Lobsters,unix,Unix,Distributing the News - UUCP to UUNET (2015),https://www.usenix.org/system/files/login/articles/login_aug15_09_salus.pdf
+988,Lobsters,unix,Unix,Oil Shell: Measuring Progress with Tests,http://www.oilshell.org/blog/2017/03/23.html
+989,Lobsters,unix,Unix,"OpenSSH 7.5 released March 20, 2017",http://www.openssh.com/txt/release-7.5
+990,Lobsters,unix,Unix,The Cult of dd,https://eklitzke.org/the-cult-of-dd
+991,Lobsters,unix,Unix,Call for testing: OpenSSH 7.5p1,http://marc.info/?l=openssh-unix-dev&m=148948810223933&w=2
+992,Lobsters,unix,Unix,lonetwin/colorize -- Colorize columns in the shell,https://github.com/lonetwin/colorize
+993,Lobsters,unix,Unix,10 years with DragonFlyBSD network stack,https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf
+994,Lobsters,unix,Unix,dwatch - Watch processes as they enter a particular DTrace probe,https://fraubsd.org/dl/dwatch/
+995,Lobsters,unix,Unix,SSH Escape Sequences (aka Kill Dead SSH Sessions) (2011),https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/
+996,Lobsters,unix,Unix,saucelabs/kioskwm - minimalist window manager for kiosks,https://github.com/saucelabs/kioskwm
+997,Lobsters,unix,Unix,Tales From the Xenix Crypt,http://www.os2museum.com/wp/tales-from-the-xenix-crypt/
+998,Lobsters,unix,Unix,Simulate a UUCP network with 4.2BSD SimH images,https://github.com/DoctorWkt/4bsd-uucp
+999,Lobsters,unix,Unix,Unix System Call Timeouts,https://eklitzke.org/unix-system-call-timeouts
+1000,Lobsters,unix,Unix,Holding onto things in a multiprocessor world,https://www.netbsd.org/~riastradh/asiabsdcon2017/mp-refs-paper.pdf
+1001,Lobsters,unix,Unix,Oil-dev is Alive!,http://www.oilshell.org/blog/2017/03/09.html
+1002,Lobsters,unix,Unix,NVME M.2 card road tests,http://lists.dragonflybsd.org/pipermail/users/2017-March/313261.html
+1003,Lobsters,unix,Unix,"diffoscope: in-depth comparison of files, archives, and directories",https://diffoscope.org/
+1004,Lobsters,unix,Unix,/usr/bin/time: not the command you think you know,https://hackernoon.com/usr-bin-time-not-the-command-you-think-you-know-34ac03e55cc3
+1005,Lobsters,unix,Unix,Recovering a partial LUKS passphrase with GNU parallel,http://www.nmattia.com/posts/2017-03-05-crack-luks-stutter-gnu-parallel.html
+1006,Lobsters,unix,Unix,"UNIX Programmer's Manual (7th Edition, Vol. 2, 1983)",http://www.livingcomputers.org/Discover/Online-Systems/User-Documentation/Unix-v7-(1)/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.aspx/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.aspx
+1007,Lobsters,unix,Unix,Oil Shell: Help Needed (If you have Debian/Ubuntu and Five Minutes),http://www.oilshell.org/blog/2017/03/04.html
+1008,Lobsters,unix,Unix,NetBSDfr/sailor - Wannabe portable container system,https://github.com/NetBSDfr/sailor
+1009,Lobsters,unix,Unix,List of UNIX Alternatives With Desirable Capabilities,http://pastebin.com/BQh3e1ug
+1010,Lobsters,unix,Unix,The Unix-Haters handbook (1994),http://web.mit.edu/~simsong/www/ugh.pdf
+1011,Lobsters,unix,Unix,meaningful short names,http://www.tedunangst.com/flak/post/shrt-nms-fr-clrty
+1012,Lobsters,unix,Unix,The Collapse of the UNIX Philosophy,https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/
+1013,Lobsters,unix,Unix,Oil Shell: Project Roadmap #4,http://www.oilshell.org/blog/2017/03/01.html
+1014,Lobsters,unix,Unix,Make files not war: makefiles on my own terms,https://fabianstumpf.de/articles/makefiles.htm
+1015,Lobsters,unix,Unix,.SUNW_cap arcana,http://lethargy.org/~jesus/writes/sunw_cap-arcana/
+1016,Lobsters,unix,Unix,Oil Shell: Review of Roadmap #3,http://www.oilshell.org/blog/2017/02/27.html
+1017,Lobsters,unix,Unix,Exploring the exec system call with Go,https://groob.io/posts/golang-execve/
+1018,Lobsters,unix,Unix,Oil Shell Status Update and Blog Backlog,http://www.oilshell.org/blog/2017/02/26.html
+1019,Lobsters,unix,Unix,The Harris HCX-9 aka TAHOE platform,https://virtuallyfun.superglobalmegacorp.com/2017/02/24/the-harris-hcx-9-aka-tahoe-platform/
+1020,Lobsters,unix,Unix,A draft glibc year-2038 design document,https://sourceware.org/glibc/wiki/Y2038ProofnessDesign?rev=115
+1021,Lobsters,unix,Unix,"The Cantrillogy, three Bryan Cantrill interviews on BSD Now",https://www.youtube.com/watch?v=wTVfAMRj-7E
+1022,Lobsters,unix,Unix,mandoc-1.14.1 released,http://undeadly.org/cgi?action=article&sid=20170221140445
+1023,Lobsters,unix,Unix,Shell from vi,https://sanctum.geek.nz/arabesque/shell-from-vi/
+1024,Lobsters,unix,Unix,"Custom ELF program headers—what, why and how",http://www.cl.cam.ac.uk/~srk31/blog/2017/02/14/
+1025,Lobsters,unix,Unix,My mono porting adventure [to Haiku],http://minisoc.xyz/HaikuMono/
+1026,Lobsters,unix,Unix,From AST to Lossless Syntax Tree,http://www.oilshell.org/blog/2017/02/11.html
+1027,Lobsters,unix,Unix,Posix Has Become Outdated (2016),http://www.cs.columbia.edu/~vatlidak/resources/POSIXmagazine.pdf
+1028,Lobsters,unix,Unix,Convincing a Linux guy to use FreeBSD,https://www.youtube.com/watch?v=cofKxtIO3Is
+1029,Lobsters,unix,Unix,"Translating Shell to Oil, Part Two",http://www.oilshell.org/blog/2017/02/06.html
+1030,Lobsters,unix,Unix,Are there tools that you use heavily without any configuration?,/s/cgvi5j/are_there_tools_you_use_heavily_without
+1031,Lobsters,unix,Unix,Translating Shell to Oil,http://www.oilshell.org/blog/2017/02/05.html
+1032,Lobsters,unix,Unix,How Unix erases things when you type a backspace while entering text,https://utcc.utoronto.ca/~cks/space/blog/unix/HowUnixBackspaces
+1033,Lobsters,unix,Unix,"Systemd should be better than it is, but it is still our best init system",https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdShouldBeBetter
+1034,Lobsters,unix,Unix,The curious case of NextStep on AIX,http://www.osnews.com/story/29649/The_curious_case_of_NextStep_on_AIX
+1035,Lobsters,unix,Unix,appenv: per application & per directory shell environments,https://github.com/sebastien/appenv
+1036,Lobsters,unix,Unix,Archive of the Unix-Hater's Mailing List,http://www.mindspring.com/~blackhart/
+1037,Lobsters,unix,Unix,Bernstein Chaining of ssh and su,http://www.oilshell.org/blog/2017/01/31.html
+1038,Lobsters,unix,Unix,Four Column ASCII,https://garbagecollected.org/2017/01/31/four-column-ascii/
+1039,Lobsters,unix,Unix,The Challenges of Integrating the Unix and Mac OS Environments (2000),https://www.usenix.org/legacy/event/usenix2000/invitedtalks/sanchez_html/
+1040,Lobsters,unix,Unix,Plumbing and other utlities,https://pdfs.semanticscholar.org/e227/a848f605342960beedf9e2e731c9449923ae.pdf
+1041,Lobsters,unix,Unix,"Be careful with todo.txt, or: Dropbox isn't the solution to every problem",https://unterwaditzer.net/2017/todo-txt.html
+1042,Lobsters,unix,Unix,1.1 Billion Taxi Rides on kdb+/q & 4 Xeon Phi CPUs,http://tech.marksblogg.com/billion-nyc-taxi-kdb.html
+1043,Lobsters,unix,Unix,Oracle Solaris Moving to a Continuous Delivery Model,https://blogs.oracle.com/solaris/entry/oracle_solaris_moving_to_a
+1044,Lobsters,unix,Unix,Internal memo on quality problems in IRIX 5.1 and what went wrong,http://www.sgistuff.net/software/irixintro/documents/irix-5.1.txt
+1045,Lobsters,unix,Unix,"Guilty SPARC: Oracle euthanizes Solaris 12, expunging it from roadmap",http://arstechnica.com/information-technology/2017/01/oracle-sort-of-confirms-demise-of-solaris-12-effort/
+1046,Lobsters,unix,Unix,The TTY demystified,http://www.linusakesson.net/programming/tty/
+1047,Lobsters,unix,Unix,Csh Programming Considered Harmful (1996),http://faqs.cs.uu.nl/na-dir/unix-faq/shell/csh-whynot.html
+1048,Lobsters,unix,Unix,"Odd Comments and Strange Doings in Unix [Dennis Ritchie, 2002]",https://www.bell-labs.com/usr/dmr/www/odd.html
+1049,Lobsters,unix,Unix,codyd51/axle - a UNIX-like kernel + userspace,https://github.com/codyd51/axle
+1050,Lobsters,unix,Unix,"Pipelines Support Vectorized, Point-Free, and Imperative Style",http://www.oilshell.org/blog/2017/01/15.html
+1051,Lobsters,unix,Unix,Shell Has a Forth-like Quality,http://www.oilshell.org/blog/2017/01/13.html
+1052,Lobsters,unix,Unix,dgsh — directed graph shell,http://www.dmst.aueb.gr/dds/sw/dgsh/
+1053,Lobsters,unix,Unix,The reason why I can’t use GNU/Linux (for now),https://medium.com/@mratmartinez/the-reason-why-i-cant-use-gnu-linux-for-now-918bc8225eea
+1054,Lobsters,unix,Unix,dd is not a disk writing tool,http://www.vidarholen.net/contents/blog/?p=479
+1055,Lobsters,unix,Unix,What is oheap?,http://www.oilshell.org/blog/2017/01/09.html
+1056,Lobsters,unix,Unix,hstr - Bash and Zsh shell history suggest box,https://github.com/dvorka/hstr
+1057,Lobsters,unix,Unix,A year with Jehanne (A plan9 based operating system),http://jehanne.io/2017/01/06/a-year-with-jehanne.html
+1058,Lobsters,unix,Unix,select(2) is fundamentally broken,https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
+1059,Lobsters,unix,Unix,pkgsrc-2016Q4 released,http://mail-index.netbsd.org/tech-pkg/2017/01/04/msg017673.html
+1060,Lobsters,unix,Unix,2017 starts with some cursing!,http://roy.marples.name/blog/blog/2017-starts-with-some-cursing
+1061,Lobsters,unix,Unix,"Really, POSIX? Really? memset() isn't async-signal-safe? How is it not safe? … oh … that's why",http://boston.conman.org/2016/12/17.1
+1062,Lobsters,unix,Unix,"Logs Are Streams, Not Files (2011)",http://adam.herokuapp.com/past/2011/4/1/logs_are_streams_not_files/
+1063,Lobsters,unix,Unix,How fast are Unix domain sockets?,https://blog.myhro.info/2017/01/how-fast-are-unix-domain-sockets
+1064,Lobsters,unix,Unix,"Why does ""cd //"" in bash set the path to ""//""?",https://lists.gnu.org/archive/html/bug-bash/2011-08/msg00294.html
+1065,Lobsters,unix,Unix,Questions about Superoptimization,http://www.oilshell.org/blog/2016/12/30.html
+1066,Lobsters,unix,Unix,How to transfer large amounts of data via network.,http://moo.nac.uci.edu/~hjm/HOWTO_move_data.html
+1067,Lobsters,unix,Unix,Signalfd Is Useless [2015],https://ldpreload.com/blog/signalfd-is-useless?reposted-on-request
+1068,Lobsters,unix,Unix,From Micro-Services to Monoliths,https://iwantmyname.com/blog/from-micro-services-to-monoliths
+1069,Lobsters,unix,Unix,"Teleport - How to write a small, useful command line application in Haskell",https://bollu.github.io/teleport/
+1070,Lobsters,unix,Unix,"Unix Admin. Horror Story Summary, version 1.0",http://www-uxsup.csx.cam.ac.uk/misc/horror.txt
+1071,Lobsters,unix,Unix,V7/usr/games/lib/fortunes,http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/games/lib/fortunes
+1072,Lobsters,unix,Unix,How Unix made it to the top,http://minnie.tuhs.org/pipermail/tuhs/2016-December/007519.html
+1073,Lobsters,unix,Unix,Detexify: LaTeX handwritten symbol recognition,http://detexify.kirelabs.org/classify.html
+1074,Lobsters,unix,Unix,The Rule of Silence,http://www.linfo.org/rule_of_silence.html
+1075,Lobsters,unix,Unix,Welcome to NTPsec,https://www.ntpsec.org/
+1076,Lobsters,unix,Unix,Making getaddrinfo Concurrent in Python On Mac OS and BSD,https://emptysqua.re/blog/getaddrinfo-cpython-mac-and-bsd/
+1077,Lobsters,unix,Unix,Configuring iTerm2 for mosh: URLs,https://boinkor.net/2016/12/configuring-iterm2-for-mosh-urls/
+1078,Lobsters,unix,Unix,"Solaris being canned, at least 50% of teams to be RIF'd in short term",https://www.thelayoff.com/t/KBEVoB1
+1079,Lobsters,unix,Unix,A Problem with Type Checking (in Python and oil shell),http://www.oilshell.org/blog/2016/11/30.html
+1080,Lobsters,unix,Unix,Computer Science from the Bottom Up (2004-2016),https://www.bottomupcs.com/
+1081,Lobsters,unix,Unix,Browsix: Unix in the browser tab,https://browsix.org/
+1082,Lobsters,unix,Unix,"The good thing about Unix, is when it screws up, it does so very quickly (2011)",http://unixhorrorstories.blogspot.com/2011/08/unix-horror-stories-good-thing-about.html
+1083,Lobsters,unix,Unix,Thirteen Incorrect Ways and Two Awkward Ways to Use Arrays,http://www.oilshell.org/blog/2016/11/06.html
+1084,Lobsters,unix,Unix,Drawings About Computers,http://jvns.ca/blog/2016/11/27/more-linux-drawings/
+1085,Lobsters,unix,Unix,Interactive filter: a new standard tool.,/s/squpog/interactive_filter_new_standard_tool
+1086,Lobsters,unix,Unix,Unix History Repository,https://github.com/dspinellis/unix-history-make
+1087,Lobsters,unix,Unix,Humble Book Bundle: Unix presented by O'Reilly,https://www.humblebundle.com/books/unix-book-bundle
+1088,Lobsters,unix,Unix,Scripting in Haskell,https://www.youtube.com/watch?v=UVek-DEc_pQ
+1089,Lobsters,unix,Unix,Bioinformatics is a disorganised disaster and I am too. So I made a shell.,https://samnicholls.net/2016/11/16/disorganised-disaster/
+1090,Lobsters,unix,Unix,Switching to Ubuntu (from Apple),http://support.system76.com/articles/switch/
+1091,Lobsters,unix,Unix,Using Rust Instead of Python for scripting,http://www.chriskrycho.com/2016/using-rust-for-scripting.html
+1092,Lobsters,unix,Unix,"Nuxi CloudABI: Towards secure, maintainable and testable software",https://nuxi.nl/
+1093,Lobsters,unix,Unix,PyParallel - How We Removed the GIL and Exploited All Cores (2013),https://vimeo.com/79539317
+1094,Lobsters,unix,Unix,Oral History of Ken Thompson,http://archive.computerhistory.org/resources/text/Oral_History/Thompson_Ken/thompson.oral_history_transcript.2005.102657921.pdf
+1095,Lobsters,unix,Unix,A brief history of select(2),https://idea.popcount.org/2016-11-01-a-brief-history-of-select2/
+1096,Lobsters,unix,Unix,PDP2011 (Recreation of the PDP-11 in VHDL),http://pdp2011.sytse.net/wordpress/pdp-11/
+1097,Lobsters,unix,Unix,Minoca OS: A new open source operating system,https://blog.minocacorp.com/minoca-os-a-new-open-source-operating-system-4bb7998df3a7
+1098,Lobsters,unix,Unix,A Navigator for UNIX (1989),https://vimeo.com/120204812
+1099,Lobsters,unix,Unix,What Am Container,https://glyph.twistedmatrix.com/2016/10/what-am-container.html
+1100,Lobsters,unix,Unix,"Named pipes, process substitution and tee",https://kaushikghose.wordpress.com/2016/10/27/named-pipes-process-substitution-and-tee/
+1101,Lobsters,unix,Unix,task_t considered harmful,https://googleprojectzero.blogspot.com/2016/10/taskt-considered-harmful.html
+1102,Lobsters,unix,Unix,Biculturalism (2003),http://www.joelonsoftware.com/articles/Biculturalism.html
+1103,Lobsters,unix,Unix,When Your Screen Breaks (In The Himalayas),http://tombh.co.uk/when-your-screen-breaks-in-the-himalayas
+1104,Lobsters,unix,Unix,Goodbye World! The perils of relying on output streams in C [2011],https://www.gnu.org/ghm/2011/paris/slides/jim-meyering-goodbye-world.pdf
+1105,Lobsters,unix,Unix,illumos now supports ASLR and other forms of exploit mitigation,https://www.listbox.com/member/archive/182179/2016/10/sort/time_rev/page/1/entry/0:162/20161015183813:0CAE0A88-9328-11E6-B5D5-B7004FCF1B41/
+1106,Lobsters,unix,Unix,Racing to remove the last Nix [2012],http://zxq9.com/archives/535
+1107,Lobsters,unix,Unix,History Of Xenix — Microsoft's Forgotten Unix-based Operating System,https://fossbytes.com/xenix-history-microsoft-unix-operating-system/
+1108,Lobsters,unix,Unix,The 101 of ELF Binaries on Linux: Understanding and Analysis,https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+1109,Lobsters,unix,Unix,SVLUG Comparative Operating Systems Discussion - Hour 1 (2012),https://www.youtube.com/watch?v=MdfAIsrcLPI
+1110,Lobsters,unix,Unix,386bsd/386bsd - Upgrade to 386BSD 2.0,https://github.com/386bsd/386bsd/commit/dc8b130e648dff87e8863d7ac5c903fbb63fc313
+1111,Lobsters,unix,Unix,Announcing the pkgsrc-2016Q3 release,https://mail-index.netbsd.org/pkgsrc-users/2016/10/03/msg023817.html
+1112,Lobsters,unix,Unix,Video Troubleshooting with Keyframes,http://curi.us/1907-video-troubleshooting-with-keyframes
+1113,Lobsters,unix,Unix,The Container Revolution: Reflections After the First Decade,https://www.youtube.com/watch?v=xXWaECk9XqM
+1114,Lobsters,unix,Unix,Deploying modern Python apps to ancient infrastructure with pkgsrc,http://pythonsweetness.tumblr.com/post/150466265417/deploying-modern-python-apps-to-ancient
+1115,Lobsters,unix,Unix,EuroBSDCon 2016 - Synchronisation of userland source code amongst the BSDs,https://www.geeklan.co.uk/files/eurobsdcon2016.pdf
+1116,Lobsters,unix,Unix,Systems We Love,https://www.joyent.com/blog/systems-we-love
+1117,Lobsters,unix,Unix,suckless conference 2016,http://suckless.org/conferences/2016
+1118,Lobsters,unix,Unix,midipix: no-compromise POSIX programming on Windows,http://www.midipix.org/
+1119,Lobsters,unix,Unix,Exploring Unix processes in illumos,https://kyleisom.net/blog/2016/09/17/illumos-processes/
+1120,Lobsters,unix,Unix,Bash-4.4 Release available,http://lists.gnu.org/archive/html/bug-bash/2016-09/msg00018.html
+1121,Lobsters,unix,Unix,Tribblix Milestone 18,http://ptribble.blogspot.com/2016/09/tribblix-milestone-18.html
+1122,Lobsters,unix,Unix,Turtles on the Wire: Understanding how the OS uses the Modern NIC,https://www.joyent.com/blog/virtualizing-nics
+1123,Lobsters,unix,Unix,"The #! magic, details about the shebang/hash-bang mechanism on various Unix flavours",http://www.in-ulm.de/~mascheck/various/shebang/
+1124,Lobsters,unix,Unix,Installing 386BSD on BOCHS,http://gunkies.org/wiki/Installing_386BSD_on_BOCHS
+1125,Lobsters,unix,Unix,UUHEC.NET | The Hobbyists UUCP Choice,http://www.uuhec.net/
+1126,Lobsters,unix,Unix,Sun announces 4.2BSD release (1983),https://groups.google.com/d/msg/net.works/4q3zx-B4Ikc/6ezyxMRnHjsJ
+1127,Lobsters,unix,Unix,The Restoration of Early UNIX Artifacts (2009),https://www.usenix.org/legacy/events/usenix09/tech/full_papers/toomey/toomey.pdf
+1128,Lobsters,unix,Unix,user340/fdgw2 - One Floppy NetBSD Distribution,https://github.com/user340/fdgw2
+1129,Lobsters,unix,Unix,Final update on the ARPANET TCP/IP migration of 1983,https://nlnog.net/static/nlnogday2016/10_InternetHistory-RonBroersma-NLNOG.pdf
+1130,Lobsters,unix,Unix,TurboCharge Your UNIX Environment (1992),https://www.youtube.com/watch?v=gYtMWfyYWIU
+1131,Lobsters,unix,Unix,Unix Text Processing (Hayden Books),http://www.oreilly.com/openbook/utp/
+1132,Lobsters,unix,Unix,Advancing in the Bash Shell,http://samrowe.com/wordpress/advancing-in-the-bash-shell/
+1133,Lobsters,unix,Unix,The Computer Chronicles: UNIX,https://www.youtube.com/watch?v=Yas19evqcT8
+1134,Lobsters,unix,Unix,Evolution of shells in Linux: From Bourne to Bash and beyond,http://www.ibm.com/developerworks/library/l-linux-shells/index.html
+1135,Lobsters,unix,Unix,Epoch Zero,http://markfrimston.co.uk/articles/34/epoch-zero
+1136,Lobsters,unix,Unix,Alsa lisp in Alsa-lib [2013],https://zpcat.blogspot.com/2013/01/alsa-lisp-in-alsa-lib.html
+1137,Lobsters,unix,Unix,Bash Infinity Framework - A modern boilerplate for bash,https://invent.life/project/bash-infinity-framework
+1138,Lobsters,unix,Unix,"more, less, and a story of typical Unix fossilization",https://utcc.utoronto.ca/~cks/space/blog/unix/MoreAndUnixFossilization
+1139,Lobsters,unix,Unix,DOS as a Mach 3.0 Application (1991),https://www.usenix.org/legacy/publications/library/proceedings/mach91/malan.pdf
+1140,Lobsters,unix,Unix,The UNIX Evolution: An History of Innovation Reaches a 20-Year Milestone,http://www.briefingsdirecttranscriptsblogs.com/2016/04/the-unix-evolution-history-of.html
+1141,Lobsters,unix,Unix,Mainframes as a lifestyle choice,http://wozniak.ca/mainframes-as-a-lifestyle-choice
+1142,Lobsters,unix,Unix,"SHILL - A Secure, SHELL, Scripting Language (2014)",https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-moore.pdf
+1143,Lobsters,unix,Unix,From Zero to Application Delivery with NixOS,https://www.infoq.com/presentations/nixos
+1144,Lobsters,unix,Unix,Use Haskell for shell scripting,https://github.com/Gabriel439/Haskell-Turtle-Library
+1145,Lobsters,unix,Unix,bartender - a tool to manage (a)synchronous input to standalone bars,https://github.com/ibabushkin/bartender
+1146,Lobsters,unix,Unix,with: Command line prefixing for single-tool workflows,https://github.com/mchav/with
+1147,Lobsters,unix,Unix,Thyme: a human CPU profiler to boost your productivity,https://text.sourcegraph.com/thyme-a-simple-cli-to-measure-human-time-and-focus-577b87337b9c
+1148,Lobsters,unix,Unix,"Extracting data from Wikipedia using curl, grep, cut and other bash commands",http://loige.co/extracting-data-from-wikipedia-using-curl-grep-cut-and-other-bash-commands/
+1149,Lobsters,unix,Unix,My first professional bug,https://borkwarellc.wordpress.com/2011/04/03/my-first-professional-bug/
+1150,Lobsters,unix,Unix,endrazine/wcc - The Witchcraft Compiler Collection,https://github.com/endrazine/wcc
+1151,Lobsters,unix,Unix,new shadow passwd functions,http://www.tedunangst.com/flak/post/new-shadow-passwd-functions
+1152,Lobsters,unix,Unix,shoop: scp has a run-in with mosh,https://github.com/mcginty/shoop
+1153,Lobsters,unix,Unix,A Deep Dive into the SIGTTIN / SIGTTOU Terminal Access Control Mechanism in Linux,http://curiousthing.org/sigttin-sigttou-deep-dive-linux
+1154,Lobsters,unix,Unix,gdb Debugging Full Example (Tutorial): ncurses,http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+1155,Lobsters,unix,Unix,An Updated Version of sam,http://www.deadpixi.com/an-updated-version-of-sam
+1156,Lobsters,unix,Unix,Terminals Are Weird,https://catern.com/posts/terminal_quirks.html
+1157,Lobsters,unix,Unix,cha(rs): a commandline tool to display information about unicode code points,https://github.com/antifuchs/chars
+1158,Lobsters,unix,Unix,DragonFlyBSD is unlikely (Annoucning DragonFly BSD! (sic)) (2003),https://lists.freebsd.org/pipermail/freebsd-current/2003-July/006917.html
+1159,Lobsters,unix,Unix,DragonFlyBSD 4.6 released,https://www.dragonflybsd.org/release46/
+1160,Lobsters,unix,Unix,ngrep: grep your network!,https://twitter.com/b0rk/status/759758932181147648
+1161,Lobsters,unix,Unix,John Carmack's .plan file,https://www.scribd.com/doc/14192/John-Carmack-Archive-plan-1998
+1162,Lobsters,unix,Unix,"Minimal Solaris: Meet v9os, a minimalist illumos-based SPARC distro",http://alexeremin.blogspot.com/2016/07/meet-v9os-minimalist-illumos-based.html
+1163,Lobsters,unix,Unix,bsdtalk: bsdtalk127 - Why I like the CLI [2007],http://bsdtalk.blogspot.com/2007/08/bsdtalk127-why-i-like-cli.html
+1164,Lobsters,unix,Unix,Lumail: console mail client with Lua scripting,https://lumail.org/
+1165,Lobsters,unix,Unix,Richer command line interfaces,http://ballingt.com/rich-terminal-applications-2
+1166,Lobsters,unix,Unix,Fix Terminals - Please,http://www.leonerd.org.uk/hacks/fixterms/
+1167,Lobsters,unix,Unix,Which unheard-of tools do you use and recommend?,/s/1qo7rb/which_unheard_tools_do_you_use_recommend
+1168,Lobsters,unix,Unix,The Long View: Building Photoshop,http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2013/3/30_Building_Photoshop.html
+1169,Lobsters,unix,Unix,Spawn your shell like it's 90s again!,http://akat1.pl/?id=2
+1170,Lobsters,unix,Unix,piknik - Copy/paste anything over the network,https://github.com/jedisct1/piknik
+1171,Lobsters,unix,Unix,An Oral History of UNIX,http://gromnitsky.users.sourceforge.net/lit/an-oral-history-of-unix/
+1172,Lobsters,unix,Unix,Announcing the pkgsrc-2016Q2 release,http://mail-index.netbsd.org/pkgsrc-users/2016/07/12/msg023513.html
+1173,Lobsters,unix,Unix,The Process File System and Process Model in UNIX System V,https://www.usenix.org/sites/default/files/usenix_winter91_faulkner.pdf
+1174,Lobsters,unix,Unix,"In Memorium: Roger Faulkner, UNIX pioneer",https://www.usenix.org/memoriam-roger-faulkner
+1175,Lobsters,unix,Unix,The Design and Implementation of the Anykernel and Rump Kernels (Second edition),http://www.fixup.fi/misc/rumpkernel-book/
+1176,Lobsters,unix,Unix,Why You Should Try tmux Instead of screen (2010),http://dominik.honnef.co/posts/2010/10/why_you_should_try_tmux_instead_of_screen/
+1177,Lobsters,unix,Unix,"Twenty Years of Free Software, Part 6: moreutils",https://joeyh.name/blog/entry/twenty_years_of_free_software_--_part_6_moreutils/
+1178,Lobsters,unix,Unix,How should I make this small program's interface UNIXy?,/s/fdzyio/how_should_i_make_this_small_program_s
+1179,Lobsters,unix,Unix,brexit(3): perform normal programme termination and remove the binary from the disc,https://twitter.com/mbalmer/status/746387347823071232
+1180,Lobsters,unix,Unix,Unikernels Will Create More Security Problems Than They Solve,http://thenewstack.io/unikernels-will-create-security-problems-solve/
+1181,Lobsters,unix,Unix,CloudABI's POSIX threads support: hierarchical futexes,https://nuxi.nl/blog/2016/06/22/cloudabi-futexes.html
+1182,Lobsters,unix,Unix,Talk and ytalk nostalgia,http://www.cambus.net/talk-and-ytalk-nostalgia/
+1183,Lobsters,unix,Unix,APFS in Detail: Overview,http://dtrace.org/blogs/ahl/2016/06/19/apfs-part1/
+1184,Lobsters,unix,Unix,Matt Ahrens - Lecture on OpenZFS read and write code paths,https://www.youtube.com/watch?v=ptY6-K78McY
+1185,Lobsters,unix,Unix,Using GNU Stow to manage your dotfiles [2012],http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+1186,Lobsters,unix,Unix,easymake - A handy makefile for simple C/C++ applications,https://github.com/roxma/easymake
+1187,Lobsters,unix,Unix,Samsung acquires Joyent: A CTO’s perspective,https://www.joyent.com/blog/samsung-acquires-joyent-a-ctos-perspective
+1188,Lobsters,unix,Unix,ZFS: Apple’s New Filesystem That Wasn’t,http://dtrace.org/blogs/ahl/2016/06/15/apple_and_zfs/
+1189,Lobsters,unix,Unix,Should you be scared of Unix signals?,http://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/
+1190,Lobsters,unix,Unix,Homebrew Dupes,https://github.com/Homebrew/homebrew-dupes
+1191,Lobsters,unix,Unix,The UNIX System: Making Computers More Productive (1982),https://www.youtube.com/watch?v=tc4ROCJYbm0
+1192,Lobsters,unix,Unix,anecdotes:pipes [Unix Heritage Wiki],http://wiki.tuhs.org/doku.php?id=anecdotes:pipes
+1193,Lobsters,unix,Unix,xkcd: Man Page,http://xkcd.com/1692/
+1194,Lobsters,unix,Unix,"Usenet, updated in real time as it was thirty years ago",http://olduse.net/
+1195,Lobsters,unix,Unix,Subgraph OS: Adversary resistant computing platform,https://subgraph.com/sgos/index.en.html
+1196,Lobsters,unix,Unix,Manipulating command-line arguments in a shell-script,https://tanguy.ortolo.eu/blog/article150/shell-process-arguments
+1197,Lobsters,unix,Unix,pkgsrc 50th release interviews - Ryo ONODERA,http://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_ryo
+1198,Lobsters,unix,Unix,pkgsrc 50th release interviews - Jonathan Perkin,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_jonathan
+1199,Lobsters,unix,Unix,Tubesock: STDIN to WebSocket,http://mkndrsn.com/2014/12/12/tubesock/
+1200,Lobsters,unix,Unix,autoclave: a pressure cooker for nondeterministic programs,https://github.com/silentbicycle/autoclave
+1201,Lobsters,unix,Unix,What's present in libc on illumos?,http://ptribble.blogspot.com/2016/06/whats-present-in-libc-on-illumos.html
+1202,Lobsters,unix,Unix,pkgsrc 50th release interviews - Benny Siegert,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_benny
+1203,Lobsters,unix,Unix,Reptyr: Changing a Process's Controlling Terminal (2011),https://blog.nelhage.com/2011/02/changing-ctty/
+1204,Lobsters,unix,Unix,illumos: want per-process exploit mitigation features (secflags),https://www.listbox.com/member/archive/182179/2016/06/sort/time_rev/page/1/entry/0:33/20160603092730:E8EF970E-298E-11E6-8766-E8AEEF10038B/
+1205,Lobsters,unix,Unix,neomutt: gathering all the patches against Mutt,https://github.com/neomutt/neomutt
+1206,Lobsters,unix,Unix,pkgsrc 50th release interviews - Thomas Klausner,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_thomas
+1207,Lobsters,unix,Unix,"""Liberating the Smalltalk lurking in C and Unix"" by Stephen Kell",https://www.youtube.com/watch?v=LwicN2u6Dro
+1208,Lobsters,unix,Unix,pkgsrc 50th release interviews - Sevan Janiyan,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interviews_sevan
+1209,Lobsters,unix,Unix,Twenty Years of Berkeley Unix From AT&T-Owned to Freely Redistributable (1999),http://www.oreilly.com/openbook/opensources/book/kirkmck.html
+1210,Lobsters,unix,Unix,pkgsrc 50th release interviews - Joerg Sonnenberg,https://blog.netbsd.org/tnf/entry/pkgsrc_50th_release_interview_with
+1211,Lobsters,unix,Unix,Things UNIX can do atomically (2010),https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html
+1212,Lobsters,unix,Unix,Microservices Weekly (Issue #27): Game On,http://www.microservicesweekly.com/issue/27
+1213,Lobsters,unix,Unix,The Plan-9 Effect or why you should not fix it if it ain't broken,http://www.di.unipi.it/~nids/docs/the_plan-9_effect.html
+1214,Lobsters,unix,Unix,Relocatable PostgreSQL Builds,https://begriffs.com/posts/2016-05-21-relocatable-postgresql.html
+1215,Lobsters,unix,Unix,9front Frequently Questioned Answers: An introduction to using a maintained Plan 9 distribution.,http://fqa.9front.org/
+1216,Lobsters,unix,Unix,Whither Plan 9? History and Motivation,http://pub.gajendra.net/2016/05/plan9part1
+1217,Lobsters,unix,Unix,Comfort On The Command Line - A primer,https://www.cotcli.com
+1218,Lobsters,unix,Unix,C* Music Player,https://cmus.github.io/
+1219,Lobsters,unix,Unix,Apropos - A Search Tool For Unix Man Pages,https://man-k.org
+1220,Lobsters,unix,Unix,Introducing fac: A new build system by David Roundy (of darcs fame),http://physics.oregonstate.edu/~roundyd/fac/introducing-fac.html
+1221,Lobsters,unix,Unix,Using ed(1) as a password manager,http://tim.thechases.com/posts/cli/using-ed1-as-a-password-manager/
+1222,Lobsters,unix,Unix,"xonsh: a Python-ish, BASHwards-looking shell language and command prompt",http://xon.sh/
+1223,Lobsters,unix,Unix,"BSD Unix: Power to the people, from the code (2000)",https://www.salon.com/2000/05/16/chapter_2_part_one/
+1224,Lobsters,unix,Unix,pkgsrc-2016Q1 - the Fiftieth pkgsrc Release,http://blog.netbsd.org/tnf/entry/pkgsrc_2016q1_the_fiftieth_pkgsrc
+1225,Lobsters,unix,Unix,TMSU: Tag-based filesystem,http://tmsu.org/
+1226,Lobsters,unix,Unix,Cron best practices,https://sanctum.geek.nz/arabesque/cron-best-practices/
+1227,Lobsters,unix,Unix,milter-greylist 4.6 is available,http://permalink.gmane.org/gmane.mail.sendmail.milter.greylist/3889
+1228,Lobsters,unix,Unix,Running FreeBSD / OpenBSD / NetBSD as a virtualised guest on Online.net,https://www.geeklan.co.uk/?p=2109
+1229,Lobsters,unix,Unix,Microservices Weekly (Issue #25): A jorney into the madness of microservices,http://microservicesweekly.com/issue/25
+1230,Lobsters,unix,Unix,The illumos SYSCALL Handler,http://zinascii.com/2016/the-illumos-syscall-handler.html
+1231,Lobsters,unix,Unix,"No More Secrets: recreate the ""Sneakers"" decryption visual effect",https://github.com/bartobri/no-more-secrets
+1232,Lobsters,unix,Unix,Clarification regarding the status of Identity Management for Unix (IDMU) & NIS Server Role in Windows Server 2016 and beyond,https://blogs.technet.microsoft.com/activedirectoryua/2016/02/09/identity-management-for-unix-idmu-is-deprecated-in-windows-server/
+1233,Lobsters,unix,Unix,.NET framework ported to NetBSD,https://github.com/dotnet/coreclr/pull/4504/files
+1234,Lobsters,unix,Unix,Shill: Scripting with Least Privilege - Open Projects,http://shill.seas.harvard.edu/projects.html
+1235,Lobsters,unix,Unix,Bryan Cantrill on Debugging Docker in Production,https://vimeo.com/165120806
+1236,Lobsters,unix,Unix,FreeBSD Quarterly Status Report (2016-Q1),http://www.freebsd.org/news/status/report-2016-01-2016-03.html
+1237,Lobsters,unix,Unix,a prog by any other name,http://www.tedunangst.com/flak/post/a-prog-by-any-other-name
+1238,Lobsters,unix,Unix,On Shells and Static Paths,http://deftly.net/posts/2016-04-26-on-shells-and-static-paths.html
+1239,Lobsters,unix,Unix,Where did we all go wrong? And why doesn't anyone remember?,http://liam-on-linux.livejournal.com/48669.html
+1240,Lobsters,unix,Unix,"Oh, a UNIX shell built around Scheme",https://github.com/michaelmacinnis/oh
+1241,Lobsters,unix,Unix,"The Daemon, the GNU & the Penguin: a history of UNIX",http://www.groklaw.net/staticpages/index.php?page=20051013231901859
+1242,Lobsters,unix,Unix,The BSD family of operating systems,https://www.geeklan.co.uk/?p=2061
+1243,Lobsters,unix,Unix,curlbash: locally save and checksum/review before curl | bash-ing,https://github.com/silentbicycle/curlbash
+1244,Lobsters,unix,Unix,"Detecting the use of ""curl | bash"" server side",https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+1245,Lobsters,unix,Unix,The Operating System is the Target,http://blog.appliedcompscilab.com/os_is_target/index.html
+1246,Lobsters,unix,Unix,Unix's file durability problem,https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem
+1247,Lobsters,unix,Unix,Learn how to write man pages for UNIX,http://manpages.bsd.lv/
+1248,Lobsters,unix,Unix,Rust + nix = easier unix systems programming,http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/
+1249,Lobsters,unix,Unix,A quick console ruler in Python,http://jugad2.blogspot.com/2016/04/a-quick-console-ruler-in-python.html
+1250,Lobsters,unix,Unix,"Brian Kernighan on the typesetting of ""The Go Programming Language"" book",https://rkrishnan.org/posts/2016-03-07-how-is-gopl-typeset.html

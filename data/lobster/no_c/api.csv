@@ -1,0 +1,1008 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,api,API,A tool that monitors GraphQL APIs,https://gitlab.com/dee-see/graphql-api-monitor
+2,Lobsters,api,API,HTTP and WebSocket API Gateway,https://www.retransmit.io
+3,Lobsters,api,API,Turn shell commands into APIs,https://github.com/BBVA/kapow
+4,Lobsters,api,API,A new location database for the Internet,https://blog.ipfire.org/post/a-new-location-database-for-the-internet
+5,Lobsters,api,API,Announcing the Consortium for Python Data API Standards,https://data-apis.org/blog/announcing_the_consortium/
+6,Lobsters,api,API,Dear Google Cloud: Your Deprecation Policy is Killing You,https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc
+7,Lobsters,api,API,Binding Bindlessly,http://alextardif.com/Bindless.html
+8,Lobsters,api,API,3rd-party API-Key Leaks (and the Broker),https://blog.thinkst.com/2020/08/3rd-party-api-key-leaks-and-broker.html
+9,Lobsters,api,API,Rusty's API Design Manifesto,http://sweng.the-davies.net/Home/rustys-api-design-manifesto
+10,Lobsters,api,API,Building a REST API in GoLang,https://www.juststeveking.uk/building-a-rest-api-in-go-lang-part-1/
+11,Lobsters,api,API,TensorFlow Datasets: The Bad Parts,https://determined.ai/blog/tf-dataset-the-bad-parts/
+12,Lobsters,api,API,Multi-Threading in C/C++: Implications on Software Library Design,https://www.karlrupp.net/2016/03/multithreading-software-library-design/
+13,Lobsters,api,API,JavaScript Date,https://www.natano.net/blog/2020-08-01-javascript-date/
+14,Lobsters,api,API,SLOs That Lie,https://blog.last9.io/slos-that-lie/
+15,Lobsters,api,API,Stop Abusing Semver,https://samver.org/
+16,Lobsters,api,API,The Postman Always Pings Twice: a postman tutorial,https://www.functionize.com/blog/the-postman-always-pings-twice/
+17,Lobsters,api,API,Security questions regarding the Git project I'm working on,/s/ffohlz/security_questions_regarding_git
+18,Lobsters,api,API,C's main() is one of the places where Unix's user and kernel APIs differ,https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI
+19,Lobsters,api,API,Backwards Compatibility,https://alexwood.codes/operations/2020/07/22/backwards-compatibility.html
+20,Lobsters,api,API,GraphQL Architect: Build Low-Code GraphQL APIs Powered By Neo4j,https://medium.com/neo4j/introducing-graphql-architect-19b0f2035e21
+21,Lobsters,api,API,How to Write Your First AsyncAPI Specification,https://nordicapis.com/how-to-write-your-first-asyncapi-specification/
+22,Lobsters,api,API,"What we talk about when we're talking about ""Webmentions""",https://martymcgui.re/2020/07/15/what-we-talk-about-when-were-talking-about-webmentions/
+23,Lobsters,api,API,An offensive guide to the Authorization Code grant,https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/
+24,Lobsters,api,API,A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem,https://blog.heroku.com/rate-throttle-api-client
+25,Lobsters,api,API,DarkLang source code is available,https://github.com/darklang/dark
+26,Lobsters,api,API,A tool that monitors GraphQL APIs,https://gitlab.com/dee-see/graphql-api-monitor
+27,Lobsters,api,API,HTTP and WebSocket API Gateway,https://www.retransmit.io
+28,Lobsters,api,API,Turn shell commands into APIs,https://github.com/BBVA/kapow
+29,Lobsters,api,API,A new location database for the Internet,https://blog.ipfire.org/post/a-new-location-database-for-the-internet
+30,Lobsters,api,API,Announcing the Consortium for Python Data API Standards,https://data-apis.org/blog/announcing_the_consortium/
+31,Lobsters,api,API,Dear Google Cloud: Your Deprecation Policy is Killing You,https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc
+32,Lobsters,api,API,Binding Bindlessly,http://alextardif.com/Bindless.html
+33,Lobsters,api,API,3rd-party API-Key Leaks (and the Broker),https://blog.thinkst.com/2020/08/3rd-party-api-key-leaks-and-broker.html
+34,Lobsters,api,API,Rusty's API Design Manifesto,http://sweng.the-davies.net/Home/rustys-api-design-manifesto
+35,Lobsters,api,API,Building a REST API in GoLang,https://www.juststeveking.uk/building-a-rest-api-in-go-lang-part-1/
+36,Lobsters,api,API,TensorFlow Datasets: The Bad Parts,https://determined.ai/blog/tf-dataset-the-bad-parts/
+37,Lobsters,api,API,Multi-Threading in C/C++: Implications on Software Library Design,https://www.karlrupp.net/2016/03/multithreading-software-library-design/
+38,Lobsters,api,API,JavaScript Date,https://www.natano.net/blog/2020-08-01-javascript-date/
+39,Lobsters,api,API,SLOs That Lie,https://blog.last9.io/slos-that-lie/
+40,Lobsters,api,API,Stop Abusing Semver,https://samver.org/
+41,Lobsters,api,API,The Postman Always Pings Twice: a postman tutorial,https://www.functionize.com/blog/the-postman-always-pings-twice/
+42,Lobsters,api,API,Security questions regarding the Git project I'm working on,/s/ffohlz/security_questions_regarding_git
+43,Lobsters,api,API,C's main() is one of the places where Unix's user and kernel APIs differ,https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI
+44,Lobsters,api,API,Backwards Compatibility,https://alexwood.codes/operations/2020/07/22/backwards-compatibility.html
+45,Lobsters,api,API,GraphQL Architect: Build Low-Code GraphQL APIs Powered By Neo4j,https://medium.com/neo4j/introducing-graphql-architect-19b0f2035e21
+46,Lobsters,api,API,How to Write Your First AsyncAPI Specification,https://nordicapis.com/how-to-write-your-first-asyncapi-specification/
+47,Lobsters,api,API,"What we talk about when we're talking about ""Webmentions""",https://martymcgui.re/2020/07/15/what-we-talk-about-when-were-talking-about-webmentions/
+48,Lobsters,api,API,An offensive guide to the Authorization Code grant,https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/
+49,Lobsters,api,API,A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem,https://blog.heroku.com/rate-throttle-api-client
+50,Lobsters,api,API,DarkLang source code is available,https://github.com/darklang/dark
+51,Lobsters,api,API,"The Difference Between HTTP Auth, API Keys, and OAuth",https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/
+52,Lobsters,api,API,Extreme Identifiers (for use in URIs),https://blog.adamretter.org.uk/extreme-identifiers-for-uri/
+53,Lobsters,api,API,Rethinking the futex API,https://lwn.net/Articles/823513/
+54,Lobsters,api,API,Roy Fielding's Misappropriated REST Dissertation,https://twobithistory.org/2020/06/28/rest.html
+55,Lobsters,api,API,Create a Tube Status home-screen Widget for iOS 14,https://medium.com/@oliverbinns/create-a-tube-status-home-screen-widget-for-ios-14-7f25f7a0a7e1
+56,Lobsters,api,API,"Hardcoded secrets, unverified tokens, and other common JWT mistakes",https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/
+57,Lobsters,api,API,Unix's design issue of device numbers being in stat() results for files,https://utcc.utoronto.ca/~cks/space/blog/unix/FilesystemStatDeviceProblem
+58,Lobsters,api,API,AWS API Gateway HTTP APIs - Cheaper and Faster REST APIs?,https://cloudonaut.io/review-api-gateway-http-apis/
+59,Lobsters,api,API,Archival Identifiers for Digital Files,https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/
+60,Lobsters,api,API,The best way to completely purge a Varnish cache,https://info.varnish-software.com/blog/best-way-to-completely-purge-a-varnish-cache
+61,Lobsters,api,API,Writing tests for external API calls,https://www.cosmicpython.com/blog/2020-01-25-testing_external_api_calls.html
+62,Lobsters,api,API,Robust APIs Are Weird,https://www.aviskase.com/articles/2020/06/18/robust-apis-are-weird/
+63,Lobsters,api,API,OAuth 2.0 and OpenID Connect for existing APIs and Web Applications (2017),https://hanszandbelt.wordpress.com/2017/09/21/oauth-2-0-and-openid-connect-for-existing-apis-and-web-applications/
+64,Lobsters,api,API,Will WebSocket survive HTTP/2?,https://www.infoq.com/articles/websocket-and-http2-coexist/
+65,Lobsters,api,API,GraphQL Security: Automated Security Testing of GraphQL Backed Applications,https://www.stackhawk.com/blog/automated-graphql-security-testing/
+66,Lobsters,api,API,Testing Warranties - Managing API use across an organization,https://michaelfeathers.silvrback.com/testing-warranties
+67,Lobsters,api,API,Generating a full-stack application from a database,https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html
+68,Lobsters,api,API,"Contracts, Undefined Behavior, and Defensive Programming",http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1743r0.pdf
+69,Lobsters,api,API,Functional Code is Honest Code,https://michaelfeathers.silvrback.com/functional-code-is-honest-code
+70,Lobsters,api,API,"Fetch API wrapper with easy file upload, which aims to merely build upon Fetch",https://github.com/WebsiteBeaver/far-fetch
+71,Lobsters,api,API,poll vs select vs event-based,https://daniel.haxx.se/docs/poll-vs-select.html
+72,Lobsters,api,API,Building a Secure Signed JWT,https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt
+73,Lobsters,api,API,"Batch, batch, batch: Respect the classics",https://scalibq.wordpress.com/2020/06/02/batch-batch-batch-respect-the-classics/
+74,Lobsters,api,API,Introduction to OpenBinder and Interview with Dianne Hackborn (2006),https://www.osnews.com/story/13674/introduction-to-openbinder-and-interview-with-dianne-hackborn/
+75,Lobsters,api,API,"Generate a Go REST API from a PostgreSQL database with pagination, sorting, filtering, and auth",https://eatonphil.github.io/dbcore/
+76,Lobsters,api,API,How to build a WebSocket server with Rust,https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/
+77,Lobsters,api,API,Mastodon: Add end-to-end encryption API,https://github.com/tootsuite/mastodon/pull/13820
+78,Lobsters,api,API,What is REST – Learn to create timeless REST APIs,https://restfulapi.net/
+79,Lobsters,api,API,gRPC-cache,https://github.com/knrt10/gRPC-cache
+80,Lobsters,api,API,Postel's law in development,https://flak.tedunangst.com/post/Postels-law-in-development
+81,Lobsters,api,API,The curl / libcurl user survey 2020,https://daniel.haxx.se/blog/2020/05/18/help-curl-the-user-survey-2020/
+82,Lobsters,api,API,Insomnia - a web API development tool,https://insomnia.rest/
+83,Lobsters,api,API,Revoking JWTs & JWT Expiration,https://fusionauth.io/learn/expert-advice/tokens/revoking-jwts
+84,Lobsters,api,API,libspng v0.6.0-rc1 - C99 PNG library with progressive read support,https://github.com/randy408/libspng/releases/tag/v0.6.0-rc1
+85,Lobsters,api,API,The Easiest Way To Start Using Swagger in Node.js,https://medium.com/@Grantlyk/the-easiest-way-to-start-using-swagger-in-node-js-54326864e74f
+86,Lobsters,api,API,Lord of the io_uring,https://unixism.net/loti/
+87,Lobsters,api,API,TileDB 2.0 and the Future of Data Science,https://medium.com/tiledb/tiledb-2-0-and-the-future-of-data-science-929cdcfe95ed
+88,Lobsters,api,API,"HATEOS, HAL and Coral : web sites for programs with a small vocabulary",/s/8okudv/hateos_hal_coral_web_sites_for_programs
+89,Lobsters,api,API,A Comparison of Modern Graphics APIs,https://alain.xyz/blog/comparison-of-modern-graphics-apis
+90,Lobsters,api,API,The Wayland Protocol,https://git.sr.ht/~sircmpwn/wayland-book
+91,Lobsters,api,API,API Security Best Practices MegaGuide,https://expeditedsecurity.com/api-security-best-practices-megaguide/
+92,Lobsters,api,API,PyTorch 1.5 released,https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/
+93,Lobsters,api,API,How to Build a REST API in Rust — A Step-by-Step Guide,https://medium.com/better-programming/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0
+94,Lobsters,api,API,Malleable Systems Collective: Software must be as easy to change as it is to use it,https://malleable.systems/
+95,Lobsters,api,API,What color is your function?,https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+96,Lobsters,api,API,Porting to TypeScript Solved Our API Woes,https://www.executeprogram.com/blog/porting-to-typescript-solved-our-api-woes
+97,Lobsters,api,API,Platform Nuts & Bolts : Flexible decision-making with Rule Engines,https://www.kislayverma.com/post/platform-nuts-bolts-flexible-decision-making-with-rule-engines
+98,Lobsters,api,API,HTTP 555: User-Defined Resource Error,https://httptoolkit.tech/blog/new-http-status-code-555
+99,Lobsters,api,API,GraphQL ResolveInfo Deep Dive,https://blog.grandstack.io/graphql-resolveinfo-deep-dive-1b3144075866
+100,Lobsters,api,API,Reverse engineering Blind’s API and client side encryption,https://blog.jldc.me/posts/decrypting-blind
+101,Lobsters,api,API,Simplify: move code into database functions,https://sivers.org/pg
+102,Lobsters,api,API,Human Programming Interface: python interface to my life,https://beepb00p.xyz/hpi.html
+103,Lobsters,api,API,Actually Using Wasm,https://wiki.alopex.li/ActuallyUsingWasm
+104,Lobsters,api,API,Building a Memex,https://www.youtube.com/watch?v=DFWxvQn4cf8
+105,Lobsters,api,API,The Only Type of API Services I'll Use,https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/
+106,Lobsters,api,API,Writing an efficient Vulkan renderer,https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
+107,Lobsters,api,API,Building a Blazing Fast Object Mapper with C# .NET Core 3.1,https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core
+108,Lobsters,api,API,Socratic vs. Euclidean Forms of API Documentation,http://highscalability.com/blog/2020/2/24/socratic-vs-euclidean-forms-of-api-documentation.html
+109,Lobsters,api,API,Thoughts On Cloud Compatibility,https://shaunverch.com/compatibility/open-source/2020/02/21/thoughts-on-cloud-compatibility.html
+110,Lobsters,api,API,How to Build a Streaming API Using gRPC,https://www.programmableweb.com/news/how-to-build-streaming-api-using-grpc/how-to/2020/02/21
+111,Lobsters,api,API,Gopher's Rise and Fall Shows How Much We Lost When Monopolists Stole the Net,https://tech.slashdot.org/story/20/02/21/2240222/gophers-rise-and-fall-shows-how-much-we-lost-when-monopolists-stole-the-net
+112,Lobsters,api,API,sokol_gfx.h Backend Tour: OpenGL,https://floooh.github.com/2020/02/17/sokol-gfx-backend-tour-gl.html
+113,Lobsters,api,API,Building data liberation infrastructure,https://beepb00p.xyz/exports.html
+114,Lobsters,api,API,Data on the Outside versus Data on the Inside,http://cidrdb.org/cidr2005/papers/P12.pdf
+115,Lobsters,api,API,Interprocess Communication in the Ninth Edition Unix System (1990),https://www.bell-labs.com/usr/dmr/www/spe.pdf
+116,Lobsters,api,API,Multitenant GraphQL With Neo4j 4.0,https://blog.grandstack.io/multitenant-graphql-with-neo4j-4-0-4a1b2b4dada4
+117,Lobsters,api,API,Building a Slack Bot in PureScript,https://blog.drewolson.org/building-a-slack-bot-in-purescript
+118,Lobsters,api,API,Time Accounting (Time Tracker),/s/vikpob/time_accounting_time_tracker
+119,Lobsters,api,API,Against unnecessary databases,https://beepb00p.xyz/unnecessary-db.html
+120,Lobsters,api,API,Over-documenting TTM_RELAYEVENT and why it results in a one-second periodic timer running as long as the tooltip is visible,https://devblogs.microsoft.com/oldnewthing/20200110-00/?p=103316
+121,Lobsters,api,API,How To Write Shared Libraries (2011),https://www.akkadia.org/drepper/dsohowto.pdf
+122,Lobsters,api,API,An Opinionated Post on Modern Rendering Abstraction Layers,http://alextardif.com/RenderingAbstractionLayers.html
+123,Lobsters,api,API,Working With Spatial Data In Neo4j GraphQL In The Cloud,https://blog.grandstack.io/working-with-spatial-data-in-neo4j-graphql-in-the-cloud-eee2bf1afad
+124,Lobsters,api,API,Why API responses should be signed,https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed/
+125,Lobsters,api,API,Simplicity isn't simple (2015),https://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple/
+126,Lobsters,api,API,AWS ARN services,https://github.com/mhausenblas/arn.services
+127,Lobsters,api,API,"What data on myself I collect, how and why?",https://beepb00p.xyz/my-data.html
+128,Lobsters,api,API,How Azure Application Insights cost our company 4k USD in a couple of weeks,https://www.gustavwengel.dk/application-insights-costs-lots-of-money
+129,Lobsters,api,API,Saying Goodbye to my Favorite 5 Minute P1,https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
+130,Lobsters,api,API,Adding CGI support to my gopher server,http://boston.conman.org/2020/01/06.1
+131,Lobsters,api,API,Optimized for Change,https://overreacted.io/optimized-for-change/
+132,Lobsters,api,API,Google calendar cli,https://github.com/insanum/gcalcli
+133,Lobsters,api,API,Oracle copied Amazon’s API - was that copyright infringement?,https://arstechnica.com/tech-policy/2020/01/oracle-copied-amazons-api-was-that-copyright-infringement/
+134,Lobsters,api,API,"Copying data is wasteful, mutating data is dangerous",https://pythonspeed.com/articles/minimizing-copying/
+135,Lobsters,api,API,Uniform GraphQL schema from gRPC microservices,https://rejoiner.io/
+136,Lobsters,api,API,Performance testing HTTP/1.1 vs HTTP/2 vs HTTP/2 + Server Push for REST APIs,https://evertpot.com/h2-parallelism/
+137,Lobsters,api,API,API Practices If You Hate Your Customers,https://queue.acm.org/detail.cfm?id=3375635
+138,Lobsters,api,API,A personal API,https://blog.webb.page/2019/a-personal-api
+139,Lobsters,api,API,Writing a Chrome Plugin with Elm,https://www.dev-log.me/writing_a_chrome_pluging_with_elm/
+140,Lobsters,api,API,Implementing WebGPU in Gecko,https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu.html
+141,Lobsters,api,API,Designing and Evaluating Reusable Components,https://www.youtube.com/watch?v=ZQ5_u8Lgvyk
+142,Lobsters,api,API,API Design: Granularity,https://gist.github.com/vurtun/192cac1f1818417d7b4067d60e4fe921
+143,Lobsters,api,API,"Node.js boilerplate / REST API / Authentication from scratch - (express, mongodb)",https://github.com/watscho/express-mongodb-rest-api-boilerplate
+144,Lobsters,api,API,Dissecting Linux Kernel Code,https://finnoleary.net/kernel-code.html
+145,Lobsters,api,API,Designing APIs for cache friendliness,https://www.fastly.com/blog/optimise-api-cache-improved-performance
+146,Lobsters,api,API,"Node.js boilerplate / Authentication from scratch - (express, graphql, mongodb)",https://github.com/watscho/express-graphql-mongodb-boilerplate
+147,Lobsters,api,API,Agner's Software Optimization resources,https://www.agner.org/optimize/?e=0#0
+148,Lobsters,api,API,"W3C Recommends WebAssembly to push the limits for speed, efficiency and responsiveness",https://www.w3.org/blog/news/archives/8123
+149,Lobsters,api,API,Google API Linter,https://linter.aip.dev/
+150,Lobsters,api,API,Why we wrote yet another parser compiler,https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler
+151,Lobsters,api,API,"E2E Encrypted Chat Tutorial with Stream, Virgil, and Dialogflow",https://getstream.io/blog/building-an-end-to-end-encrypted-chatbot-with-stream-react-chat-virgil-security-and-google-dialogflow/
+152,Lobsters,api,API,Third-party Web APIs you've actually enjoyed using?,/s/285mg9/third_party_web_apis_you_ve_actually
+153,Lobsters,api,API,Obfuscation via Encryption: Real-World Reverse Engineering of APIs,https://lucasbaizer.dev/blog/0
+154,Lobsters,api,API,Growing Beyond The System Tray,https://www.youtube.com/watch?v=fPFdV-Z69Lo
+155,Lobsters,api,API,Motion for leave to file brief of amici curiae computer scientists,https://www.supremecourt.gov/DocketPDF/18/18-956/89487/20190225134131839_18-956_Oracle_v__Google_Computer_Scientists_Amicus_Motion_Brief_FILE.pdf
+156,Lobsters,api,API,Creating a Slack App in Python on GCP,https://lethain.com//creating-slack-app-python/
+157,Lobsters,api,API,Generating API clients based on OpenAPI v3 specifications,https://98elements.com/blog/generating-api-clients-based-on-openapi-v3-specifications/
+158,Lobsters,api,API,Creating Sockets on Linux,https://idea.popcount.org/2019-11-06-creating-sockets/
+159,Lobsters,api,API,Beware Middleware,http://twitchard.github.io/posts/2019-11-01-beware-middleware.html
+160,Lobsters,api,API,New Ghost 3.0 and how to use it with GraphQL (Gatsby),https://blog.graphqleditor.com/ghost-gatsby-graphql/
+161,Lobsters,api,API,"Apple, Your Developer Documentation is… Missing",https://v4.chriskrycho.com/2019/apple-your-developer-documentation-is-garbage.html
+162,Lobsters,api,API,Owning My Step Count,https://www.jvt.me/posts/2019/10/27/owning-step-count/
+163,Lobsters,api,API,Why We Don’t See Many Public GraphQL APIs,https://medium.com/@__xuorig__/why-we-dont-see-many-public-graphql-apis-ad972bcb201e
+164,Lobsters,api,API,Talks: Authentication & authorization in GraphQL from Berlin Meetup,https://blog.graphqleditor.com/talks-from-graphql-berlin-meetup/
+165,Lobsters,api,API,Buf · A new way of working with Protocol Buffers,https://buf.build/
+166,Lobsters,api,API,A survey of Apple developer documentation,https://nooverviewavailable.com/
+167,Lobsters,api,API,CMS for docs?,/s/sqgp4k/cms_for_docs
+168,Lobsters,api,API,How to communicate your Microservices?,https://blog.softwaremill.com/how-to-communicate-your-microservices-6542cb4f98c7
+169,Lobsters,api,API,How Multiplexing Changes Your HTTP APIs,https://www.mnot.net/blog/2019/10/13/h2_api_multiplexing
+170,Lobsters,api,API,Designing a COM library for Rust,https://msrc-blog.microsoft.com/2019/10/08/designing-a-com-library-for-rust/
+171,Lobsters,api,API,flask-swagger-types: effortless swagger specs for flask apps,https://github.com/plainas/flask-swagger-types
+172,Lobsters,api,API,GraphQL & Caching: The Elephant in the Room,https://apisyouwonthate.com/blog/graphql-and-caching-the-elephant-in-the-room
+173,Lobsters,api,API,"API, ABI, and system call",https://dev.to/satoru_takeuchi/api-abi-and-system-call-19i0
+174,Lobsters,api,API,APIs and Breaking Change: How Implementing APIs Forces Important Business Decisions,https://dzone.com/articles/apis-and-breaking-change-how-implementing-apis-for
+175,Lobsters,api,API,JSON Meta Application Protocol Specification (JMAP),https://jmap.io/index.html
+176,Lobsters,api,API,Fail Fast and Fail Often: Handling API Errors at Scale,https://dev.to/akshaynathan/fail-fast-and-fail-often-handling-api-errors-at-scale-17mb
+177,Lobsters,api,API,OWASP API Security Project,https://www.owasp.org/index.php/OWASP_API_Security_Project
+178,Lobsters,api,API,Public IP Address API with two lines of Nginx config,https://www.ecalamia.com/blog/show-ip-api-nginx/
+179,Lobsters,api,API,Update on OpenAPI and JSON Schema,https://phil.tech/2019/09/07/update-openapi-json-schema/
+180,Lobsters,api,API,Tribe Commerce - Open Source On-Demand Services & E-Commerce Platform,https://github.com/tribehq/platform
+181,Lobsters,api,API,Go library nhooyr.io/websocket: v1.6.2 released with WASM support,https://github.com/nhooyr/websocket
+182,Lobsters,api,API,Writing a File Monitor with Apple's Endpoint Security Framework,https://objective-see.com/blog/blog_0x48.html
+183,Lobsters,api,API,What Food Service Taught Me About Software Architecture,https://dev.to/dealeron/what-food-service-taught-me-about-software-architecture-3a77
+184,Lobsters,api,API,When TCP sockets refuse to die,https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/
+185,Lobsters,api,API,Overview of RESTful API Description Languages,https://en.wikipedia.org/wiki/Overview_of_RESTful_API_Description_Languages
+186,Lobsters,api,API,Why are large companies so difficult to rescue (regarding bad internal technology),http://www.smashcompany.com/business/why-are-large-companies-so-difficult-to-rescue-regarding-bad-internal-technology
+187,Lobsters,api,API,Everything You Need To Know About API Rate Limiting,https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/
+188,Lobsters,api,API,PKCE vs Proxy,https://apisyouwonthate.com/blog/pkce-vs-proxy
+189,Lobsters,api,API,SQS FIFO Queues: Message Ordering and Exactly-Once Processing Guaranteed?,https://www.ably.io/blog/sqs-fifo-queues-message-ordering-and-exactly-once-processing-guaranteed/
+190,Lobsters,api,API,Got microservices? Service mesh management might not be enough,https://cloud.google.com/blog/products/api-management/got-microservices-service-mesh-management-might-not-be-enough
+191,Lobsters,api,API,Types for Python HTTP APIs: An Instagram Story,https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7
+192,Lobsters,api,API,API testing for developers,https://dev.to/gayanhewa/api-testing-for-serious-developers-393i
+193,Lobsters,api,API,Mix and Matching your API Flavours,https://chrisphillips-cminion.github.io/api/2019/05/28/APIFlavours.html
+194,Lobsters,api,API,"Using Slack, AWS, and GitHub to find my commits",https://www.transposit.com/blog/2019.09.06-find-my-commits?c=lob
+195,Lobsters,api,API,Browse API Swagger Definitions,https://APIs.guru/browse-apis/
+196,Lobsters,api,API,Bypassing LinkedIn Search Limit by Playing With API,https://habr.com/en/post/466801/
+197,Lobsters,api,API,Connection management tool for google APIs with Python,https://github.com/elmoiv/goco
+198,Lobsters,api,API,Multiple Ways of API Integration in your JAMStack,https://www.raymondcamden.com/2019/07/25/multiple-ways-of-api-integration-in-your-jamstack
+199,Lobsters,api,API,"Design And Generate A REST API From Swagger / OpenAPI In Java, Python, C# And More",https://simply-how.com/design-and-generate-api-code-from-openapi
+200,Lobsters,api,API,Ballerina 1.0 released. New programming language for integration,https://v1-0.ballerina.io/
+201,Lobsters,api,API,Building authentication and authorization for RESTful APIs,https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/
+202,Lobsters,api,API,Microservice API Patterns,https://microservice-api-patterns.org/
+203,Lobsters,api,API,AsyncAPI vs OpenAPI: What's The Difference?,https://nordicapis.com/asyncapi-vs-openapi-whats-the-difference/
+204,Lobsters,api,API,Enums & APIs,https://dev.to/timothymcgrath/enums-apis-15n4
+205,Lobsters,api,API,Stevey's Google Platforms Rant (2011),https://gist.github.com/chitchcock/1281611
+206,Lobsters,api,API,SQL for APIs: limiting the filter or filtering the limit?,https://www.transposit.com/blog/2019.07.30-limiting-the-filter-or-filtering-the-limit/?c=lob
+207,Lobsters,api,API,A Practical Approach to API Design (book),https://leanpub.com/restful-api-design
+208,Lobsters,api,API,JMAP: New Email Open Standard,https://fastmail.blog/2019/08/16/jmap-new-email-open-standard/
+209,Lobsters,api,API,Why JWTs Suck as Session Tokens (2017),https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
+210,Lobsters,api,API,API Improvement Proposals,https://aip.dev/
+211,Lobsters,api,API,mini-django - Single file Django project for instant gratification,https://github.com/readevalprint/mini-django
+212,Lobsters,api,API,Full fake REST API with zero coding,https://github.com/typicode/json-server
+213,Lobsters,api,API,Roll your own comment system (for a static site),https://www.taniarascia.com/add-comments-to-static-site/
+214,Lobsters,api,API,Koios – Database-free file tags using extended attributes,https://gitlab.com/finnoleary/koios/blob/master/README
+215,Lobsters,api,API,Making OpenAPI / Swagger Bearable With Your Own DSL,http://developer.squareup.com/blog/making-openapi-swagger-bearable-with-your-own-dsl
+216,Lobsters,api,API,Postgres 12 highlight - SQL/JSON path,https://paquier.xyz/postgresql-2/postgres-12-jsonpath/
+217,Lobsters,api,API,"Lorem Picsum, death by a million pixel-gigabits",https://dmarby.se/blog/lorem-picsum/
+218,Lobsters,api,API,The OpenBSD Ada Library,http://verisimilitudes.net/2019-07-27
+219,Lobsters,api,API,"Porting wine to amd64 on NetBSD, second evaluation report",https://blog.netbsd.org/tnf/entry/porting_wine_to_amd64_on2
+220,Lobsters,api,API,Beginner tutorial for GraphQL (interactive & visual),https://app.graphqleditor.com/?category=tutorial&visibleMenu=code
+221,Lobsters,api,API,APIs are about Policy,https://acko.net/blog/apis-are-about-policy/
+222,Lobsters,api,API,JFastText v0.5.0,https://github.com/carschno/JFastText
+223,Lobsters,api,API,VARLINK,https://varlink.org/
+224,Lobsters,api,API,Using React Hooks to Wrap Connectors to Live Data Sources,https://medium.com/perlin-network/using-react-hooks-to-wrap-connectors-to-live-data-sources-3d97a934a38f
+225,Lobsters,api,API,Thoughts on Layer's API shutdown,https://getstream.io/blog/thoughts-on-layers-api-shutdown/
+226,Lobsters,api,API,Why development teams are adopting GraphQL?,https://blog.graphqleditor.com/why-companies-adopt-graphql/
+227,Lobsters,api,API,Weather.gov's Free Weather API,https://www.weather.gov/documentation/services-web-api
+228,Lobsters,api,API,Getting started with Webmentions in Gatsby,https://www.knutmelvaer.no/blog/2019/06/getting-started-with-webmentions-in-gatsby/
+229,Lobsters,api,API,WebSequenceDiagrams - Draw sequence diagrams online in seconds,https://www.websequencediagrams.com/
+230,Lobsters,api,API,RFC 8620 - The JSON Meta Application Protocol (JMAP),https://tools.ietf.org/html/rfc8620
+231,Lobsters,api,API,Autocomplete client library with strong GraphQL typed queries,https://github.com/graphql-editor/graphql-zeus
+232,Lobsters,api,API,Start a new project with an Event Sourcing Architecture,https://keith-mifsud.me/blog/start-a-new-project-with-an-event-sourcing-architecture
+233,Lobsters,api,API,"Deep Dive into MQTT: History, Functionality, Future",https://www.ably.io/concepts/mqtt
+234,Lobsters,api,API,A Tale of Two Spellcheckers,https://bentsukun.ch/posts/pkgsrccon-2019/
+235,Lobsters,api,API,Introduction to envoy proxy load balancing concepts,https://devform.netlify.com/introduction-to-envoy-proxy-load-balancing/
+236,Lobsters,api,API,Kubernetes Universal Declarative Operator (KUDO) v0.3.0 released,https://kudo.dev/posts/announcing-kudo-0.3.0/
+237,Lobsters,api,API,Postman now supports GraphQL,https://blog.graphqleditor.com/graphql-postman/
+238,Lobsters,api,API,A REST web server and optmization framework for solving geospatial graph problems,https://github.com/fhk/link_src
+239,Lobsters,api,API,"(2013) Google Autocomplete ""API""",https://shreyaschand.com/blog/2013/01/03/google-autocomplete-api/
+240,Lobsters,api,API,ImgPush – Minimalist Self-Hosted Image Upload Service for Your App,https://github.com/hauxir/imgpush
+241,Lobsters,api,API,The SHUT-IT-DOWN Common Lisp Library,http://verisimilitudes.net/2017-12-30
+242,Lobsters,api,API,The state of GraphQL by Reddit,https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
+243,Lobsters,api,API,Building robust REST APIs with Python (Pyramid),https://github.com/pylons/pyramid_openapi3
+244,Lobsters,api,API,Overview: Serenity WindowServer,https://www.youtube.com/watch?v=umJgJGY6NrA
+245,Lobsters,api,API,Upcoming: Spotify Playlists for Your Favorite Venues,https://kyleconroy.com/upcoming
+246,Lobsters,api,API,A highly opinionated guide to learning about ActivityPub,https://tinysubversions.com/notes/reading-activitypub/
+247,Lobsters,api,API,Scaling to 1M active GraphQL subscriptions on Postgres,https://github.com/hasura/graphql-engine/blob/master/architecture/live-queries.md
+248,Lobsters,api,API,Using Data Validation for Robust APIs,https://www.ecalamia.com/blog/data-validation-robust-apis/
+249,Lobsters,api,API,Building a stateless API proxy,https://blog.thea.codes/building-a-stateless-api-proxy/
+250,Lobsters,api,API,GraphQL Predictions 2019+,https://blog.graphqleditor.com/graphql-predictions-2019+/
+251,Lobsters,api,API,New system calls for memory management,https://lwn.net/SubscriberLink/789153/b21b94232f0c84fc/
+252,Lobsters,api,API,Missing in Action: Information Hiding (1996),https://stevemcconnell.com/articles/missing-in-action-information-hiding/
+253,Lobsters,api,API,Defining Data Models with IDOL,https://tech.affirm.com/defining-data-models-with-idol-a31093cd0707
+254,Lobsters,api,API,drcmda/react-three-fiber -- A React-renderer for Three.js,https://github.com/drcmda/react-three-fiber
+255,Lobsters,api,API,IT runs on Java 8,https://veekaybee.github.io/2019/05/10/java8/
+256,Lobsters,api,API,Best resources to learn React & GraphQL,https://dev.to/robmatyszewski/best-resources-to-learn-react-graphql-5dkk
+257,Lobsters,api,API,The State of GraphQL,https://blog.graphqleditor.com/the-state-of-graphql/
+258,Lobsters,api,API,Microsoft announces WSL 2,https://devblogs.microsoft.com/commandline/announcing-wsl-2/
+259,Lobsters,api,API,Make your own GeoIP API,https://www.ecalamia.com/blog/make-your-own-geoip-api/
+260,Lobsters,api,API,Inferring GraphQL Type Definitions From An Existing Database,https://blog.grandstack.io/inferring-graphql-type-definitions-from-an-existing-neo4j-database-dadca2138b25
+261,Lobsters,api,API,Looking for Entropy in All the Wrong Places,https://nullprogram.com/blog/2019/04/30/
+262,Lobsters,api,API,Top 3 python libraries for graphql,https://blog.graphqleditor.com/top-3-python-libraries-for-graphql/
+263,Lobsters,api,API,WebSockets: A Conceptual Deep-Dive,https://www.ably.io/concepts/websockets
+264,Lobsters,api,API,Graphiti: Stylish Graph APIs,https://www.graphiti.dev
+265,Lobsters,api,API,OAuth2 Flows,https://otremblay.com/posts/oauth2-flows/
+266,Lobsters,api,API,Complex GraphQL Filtering With neo4j-graphql.js,https://blog.grandstack.io/complex-graphql-filtering-with-neo4j-graphql-js-aef19ad06c3e
+267,Lobsters,api,API,Can you expose your microservices with an API gateway in Kubernetes?,https://learnk8s.io/kubernetes-ingress-api-gateway/
+268,Lobsters,api,API,Serverless IndieAuth,https://piperswe.me/posts/serverless-indieauth/
+269,Lobsters,api,API,MySQL/MariaDB Query for Counting API Requests per Day,https://calendarific.com/blog/mysql-mariadb-query-for-counting-api-requests-per-day
+270,Lobsters,api,API,Insidious Optimizations II: Machine Text,http://verisimilitudes.net/2018-06-06
+271,Lobsters,api,API,Control and effort in API design,https://flpvsk.com/blog/2019-03-08-control-effort-in-api-design/
+272,Lobsters,api,API,Exactly once semantics – idempotency with globally distributed systems,https://www.ably.io/concepts/idempotency
+273,Lobsters,api,API,Recommended Reading: ``The Art of UNIX Programming'' and ``The UNIX-HATERS Handbook'',http://verisimilitudes.net/2019-04-15
+274,Lobsters,api,API,Create a RESTful API with Rust,https://dev.to/gruberb/web-development-with-rust-03-x-create-a-rest-api-3i82
+275,Lobsters,api,API,Using seccomp to limit the kernel attack surface,http://man7.org/conf/lpc2015/limiting_kernel_attack_surface_with_seccomp-LPC_2015-Kerrisk.pdf
+276,Lobsters,api,API,Chat API Tour,https://getstream.io/chat/get_started/
+277,Lobsters,api,API,DirectX-Specs,https://microsoft.github.io/DirectX-Specs/
+278,Lobsters,api,API,Tools for writing cross-platform Node.js,https://github.com/bcoe/awesome-cross-platform-nodejs
+279,Lobsters,api,API,Rethinking race-free process signaling,https://lwn.net/SubscriberLink/784831/fa8d23ee11a7524e/
+280,Lobsters,api,API,Cleaning your GitHub profile with a simple Bash script,https://www.codesections.com/blog/cleaning-github-with-a-simple-bash-script/
+281,Lobsters,api,API,Hypebot is the hype man who never lets me down,https://blog.transposit.com/hypebot-is-the-hype-man-who-never-lets-me-down-cbc47d08dd66
+282,Lobsters,api,API,A Surface Standard,https://autodesk.github.io/standard-surface/
+283,Lobsters,api,API,Designing Your GraphQL Schema With Neo4j-GraphQL,https://grandstack.io/docs/guide-schema.html
+284,Lobsters,api,API,Steamworks SDK v1.44 - New Networking APIs,https://steamcommunity.com/groups/steamworks#announcements/detail/1791775741704351698
+285,Lobsters,api,API,Easily Impossible: One approach to designing a great API,https://hackernoon.com/easily-impossible-one-approach-to-designing-a-great-api-16fc02e42d
+286,Lobsters,api,API,"libspng 0.4.4 - modern alternative to libpng, single source/header pair",https://libspng.org/
+287,Lobsters,api,API,Enforcing Single Responsibility Principle in Python,https://sobolevn.me/2019/03/enforcing-srp
+288,Lobsters,api,API,"Stop Wasting Connections, Use HTTP Keep-Alive",https://lob.com/blog/use-http-keep-alive
+289,Lobsters,api,API,Sometimes its better for tests to hit the real API,https://www.codewithjason.com/sometimes-better-tests-hit-real-api/
+290,Lobsters,api,API,"To Create An Evolvable API, Stop Thinking About URLs",https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e
+291,Lobsters,api,API,Containers as kernel objects again,https://lwn.net/SubscriberLink/780364/0afe2c9de5a08b01/
+292,Lobsters,api,API,"Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt",https://www.youtube.com/watch?v=37wFVVVZlVU
+293,Lobsters,api,API,PlasticSCM/FuseSharp: FUSE wrapper in .NET Standard for macOS,https://github.com/PlasticSCM/FuseSharp
+294,Lobsters,api,API,Here be dragons,http://simonrodriguez.fr/dragon/
+295,Lobsters,api,API,Ledger's Advanced Side Channel Analysis Repository,https://github.com/Ledger-Donjon/lascar
+296,Lobsters,api,API,SOCKMAP - TCP splicing of the future,https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/
+297,Lobsters,api,API,New io_uring API For Linux IO,http://git.kernel.dk/cgit/linux-block/commit/?h=for-next&id=8923ebc04818fcb506829591aa8704baefd661ec
+298,Lobsters,api,API,Principled GraphQL,http://www.principledgraphql.com/
+299,Lobsters,api,API,Google Docs gets an API for task automation,https://techcrunch.com/2019/02/11/google-docs-gets-an-api-for-task-automation/
+300,Lobsters,api,API,virtio: Towards a De-Facto Standard For Virtual I/O Devices,https://www.ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
+301,Lobsters,api,API,gRPC and Protocol Buffers as an alternative to JSON REST APIs,https://www.smoothterminal.com/articles/grpc-and-protocol-buffers-as-an-alternative-to-json-rest-apis
+302,Lobsters,api,API,Git as a Package Registry,https://github.com/LoopPerfect/buckaroo/wiki/Git-as-a-Package-Registry
+303,Lobsters,api,API,A collective list of free APIs for use in software and web development,https://github.com/toddmotto/public-apis
+304,Lobsters,api,API,"How to setup a powerful API with GraphQL, Koa and MongoDB -- scalability and testing",https://www.strilliant.com/2019/01/31/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-iii/
+305,Lobsters,api,API,"How to setup a powerful API with GraphQL, Koa and MongoDB -- CRUD actions",https://www.strilliant.com/2019/01/30/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-mutatations-fields-resolvers/
+306,Lobsters,api,API,"How to setup a powerful API with GraphQL, Koa and MongoDB",https://www.strilliant.com/2019/01/27/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb/
+307,Lobsters,api,API,Google asks Supreme Court to overrule disastrous ruling on API copyrights,https://arstechnica.com/tech-policy/2019/01/google-asks-supreme-court-to-overrule-disastrous-ruling-on-api-copyrights/
+308,Lobsters,api,API,VVC stakeholders meet to avoid another tragedy of the commons,http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/A-Video-Codec-Licensing-Update-129386.aspx
+309,Lobsters,api,API,Common API mistakes and how to avoid them,https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b
+310,Lobsters,api,API,"What the Hell is REST, anyway?",https://programmingisterrible.com/post/181841346708/what-the-hell-is-rest-anyway
+311,Lobsters,api,API,"write APIs using direct SQL queries with no hassle, let's rethink about SQL",https://github.com/alash3al/sqler
+312,Lobsters,api,API,io_submit: The epoll alternative you've never heard about,https://blog.cloudflare.com/io_submit-the-epoll-alternative-youve-never-heard-about/
+313,Lobsters,api,API,"Matrix, the current status and year to date",https://media.ccc.de/v/35c3-9400-matrix_the_current_status_and_year_to_date
+314,Lobsters,api,API,API using GraphQL and NodeJs,https://medium.com/programming-society-gazette/part-1-api-using-graphql-and-node-js-3423a6004b96
+315,Lobsters,api,API,How I accidentally found a clickjacking “feature” in Facebook,https://malfind.com/index.php/2018/12/21/how-i-accidentaly-found-clickjacking-in-facebook/
+316,Lobsters,api,API,Publicly accessible .ENV files exposing Keys/Tokens,https://blog.binaryedge.io/2018/12/19/publicly-accessible-env-files/
+317,Lobsters,api,API,Using Native DateTime Types With GRANDstack - Leverage Neo4j’s Temporal Types In Your GraphQL Schema,https://blog.grandstack.io/using-native-datetime-types-with-grandstack-e126728fb2a0
+318,Lobsters,api,API,Kubernetes clusters being hijacked to mine cryptocurrencies,https://blog.binaryedge.io/2018/12/06/kubernetes-being-hijacked-worldwide/
+319,Lobsters,api,API,Type-Safe & Composable GraphQL in Elm,https://medium.com/open-graphql/type-safe-composable-graphql-in-elm-b3378cc8d021
+320,Lobsters,api,API,CNAB: Cloud Native Application Bundles,https://cnab.io
+321,Lobsters,api,API,JSON:API 1.1 RC1 released,https://jsonapi.org/format/1.1/
+322,Lobsters,api,API,API Evolution the Right Way,https://emptysqua.re/blog/api-evolution-the-right-way/
+323,Lobsters,api,API,GraphQL API Configuration With neo4j-graphql.js,https://blog.grandstack.io/graphql-api-configuration-with-neo4j-graphql-js-bf7a1331c793
+324,Lobsters,api,API,libspng 0.4.0 - First stable release,https://libspng.org
+325,Lobsters,api,API,GraphQL: A Retrospective,https://verve.co/engineering/graphql-a-retrospective/
+326,Lobsters,api,API,Internal and External Parameter Names in JavaScript and TypeScript,https://www.chriskrycho.com/2018/internal-and-external-parameter-names-in-javascript-and-typescript.html
+327,Lobsters,api,API,A trip through the Graphics Pipeline (2011),https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
+328,Lobsters,api,API,Post-REST,https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST
+329,Lobsters,api,API,A hammer you can only hold by the handle,https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html
+330,Lobsters,api,API,Reverse engineering the ChefSteps Joule (and making a chrome extension),https://medium.com/@_dennisli/reverse-engineering-the-chefsteps-joule-and-making-a-chrome-extension-fa09c78bd87f
+331,Lobsters,api,API,The Kafka API Battle: Producer vs Consumer vs Kafka Connect vs Kafka Streams vs KSQL,https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e
+332,Lobsters,api,API,Stubbex - stub and validate with ease,https://github.com/yawaramin/stubbex
+333,Lobsters,api,API,Authorization In GraphQL Using Custom Schema Directives,https://medium.com/@lyonwj/authorization-in-graphql-using-custom-schema-directives-eafa6f5b4658
+334,Lobsters,api,API,GraphQL is not OData,https://jeffhandley.com/2018-09-13/graphql-is-not-odata
+335,Lobsters,api,API,OpenBSD's unveil(),https://lwn.net/Articles/767137/
+336,Lobsters,api,API,A simple way to manage and start your api mock server on your local platform,https://github.com/LanceGin/Mockman
+337,Lobsters,api,API,The interesting ideas in Datasette,https://simonwillison.net/2018/Oct/4/datasette-ideas/
+338,Lobsters,api,API,NetBSD curses ripoffline improvements,https://roy.marples.name/blog/netbsd-curses-ripoffline-improvements
+339,Lobsters,api,API,Verifying request signatures in Elixir/Phoenix,https://www.userinterfacing.com/verifying-request-signatures-in-elixir-phoenix
+340,Lobsters,api,API,Twitter's New Dev Rules Suck for Curious Coders (A Rant),https://reading.supply/@avibagla/twitters-new-dev-rules-suck-for-curious-coders-a-rant-qr2WSl
+341,Lobsters,api,API,Babel 7 Node API Starter base,https://gitlab.com/halfmanhalfdonut/node-api-starter
+342,Lobsters,api,API,Building a finance tracking REST API using Go with TDD - Part 2,https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-tdd---part-2-1i70
+343,Lobsters,api,API,Lazy Interfaces in Python,https://github.com/bwasti/lazy
+344,Lobsters,api,API,"Chromium Intent to Implement Display Locking, an API to stop layout while the DOM is being updated",https://docs.google.com/document/d/1mSQhTtaYFNy0qv5KifopEYm-ZKAZULnHyNcmKL8J4e0/mobilebasic
+345,Lobsters,api,API,Build a Simple CRUD App with ASP.NET Core and Vue,https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+346,Lobsters,api,API,How I Hacked BlackHat 2018,https://ninja.style/post/bcard/
+347,Lobsters,api,API,libcurl gets a URL API,https://daniel.haxx.se/blog/2018/09/09/libcurl-gets-a-url-api/
+348,Lobsters,api,API,LipSurf: Control the Browser with your Voice while you Eat/Multitask,https://docs.lipsurf.com
+349,Lobsters,api,API,Building a finance tracking REST API using Go with TDD - Part 1,https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-test-driven-development---part-1-16o8
+350,Lobsters,api,API,Multilingual Latent Dirichlet Allocation (LDA) for text clustering,https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA
+351,Lobsters,api,API,MQTT. An Implementer’s Perspective (2014),http://vasters.com/archive/MQTT-An-Implementers-Perspective.html
+352,Lobsters,api,API,Building Trending Activity Feeds Using GraphQL And Neo4j,https://medium.com/@lyonwj/building-trending-activity-feeds-using-graphql-and-neo4j-e62ee790238e
+353,Lobsters,api,API,A Portable Cloud Experiment: SFTP Cloud Storage Sync,http://www.evanjones.ca/portable-cloud-experiment.html
+354,Lobsters,api,API,SpaceX REST API on GitHub,https://github.com/r-spacex/SpaceX-API
+355,Lobsters,api,API,Introduction to GraphQL,https://fullstack-developer.academy/introduction-to-graphql/
+356,Lobsters,api,API,All you need to know about the Web Audio API,https://medium.com/@wesharehoodies/all-you-need-to-know-about-the-web-audio-api-3df170559378
+357,Lobsters,api,API,Managing TLS connections using Lua and Lua coroutines,http://boston.conman.org/2018/07/23.1
+358,Lobsters,api,API,Secure an ASP.NET Core Web Api using Cookies,https://www.blinkingcaret.com/2018/07/18/secure-an-asp-net-core-web-api-using-cookies/
+359,Lobsters,api,API,The everything-is-a-file principle (2002),https://yarchive.net/comp/linux/everything_is_file.html
+360,Lobsters,api,API,JumboSmash: a technical retrospective,https://bernsteinbear.com/blog/jumbosmash-a-technical-retrospective/
+361,Lobsters,api,API,How to drop 10 million packets per second,https://blog.cloudflare.com/how-to-drop-10-million-packets/
+362,Lobsters,api,API,Comparing 8 Commercial IP Geolocation APIs,https://medium.com/@ipdata_co/what-is-the-best-commercial-ip-geolocation-api-d8195cda7027
+363,Lobsters,api,API,Why filesystems have loose-coupling and your protocol doesn't,https://programmingisterrible.com/post/67568917018/why-filesystems-have-loose-coupling-and-your
+364,Lobsters,api,API,Exceptions are the norm!,http://epic.tesio.it/2012/12/05/exceptions-are-the-norm.html
+365,Lobsters,api,API,Supercharging Kafka — Enable Realtime Web Streaming by Adding Pushpin,https://hackernoon.com/supercharging-kafka-enable-realtime-web-streaming-by-adding-pushpin-fd62a9809d94
+366,Lobsters,api,API,HashiCorp Consul 1.2: Service Mesh,https://www.hashicorp.com/blog/consul-1-2-service-mesh
+367,Lobsters,api,API,How to build powerful REST APIs blazingly fast with Node.js,https://resthapi.com/blog/2018/06/26/How-To-Build-Powerful-APIs-Blazingly-Fast-With-Nodejs.html
+368,Lobsters,api,API,How to implement a basic ActivityPub server,https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/
+369,Lobsters,api,API,Hacking Amazon's #1 Smart Pet Food Dispenser,https://lethalbit.com/furbo/
+370,Lobsters,api,API,"Forget reusability, aim for perfection: New lessons from mandoc",https://www.openbsd.org/papers/bsdcan18-mandoc.pdf
+371,Lobsters,api,API,"Living APIs, and the Case for GraphQL",https://brandur.org/graphql
+372,Lobsters,api,API,libcsi - Crypto Simplified Interface,http://undeadly.org/cgi?action=article;sid=20180603140623
+373,Lobsters,api,API,"How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger — Part II",https://medium.com/@wesharehoodies/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac
+374,Lobsters,api,API,"How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger",https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649?source=user_profile---------4-------------------
+375,Lobsters,api,API,Androzoo APK Search: a search service of meta-data related to Android malware,https://androzoo.uni.lu/apksearch
+376,Lobsters,api,API,"It ain't about the callbacks, it's about the flow control",https://idea.popcount.org/2013-09-05-it-aint-about-the-callbacks/
+377,Lobsters,api,API,Centrifuge: a reliable system for delivering billions of events per day,https://segment.com/blog/introducing-centrifuge/
+378,Lobsters,api,API,Connect your Service Discovery to Envoy,https://blog.turbinelabs.io/connect-your-service-discovery-to-envoy-6fbcd1dd0d2a
+379,Lobsters,api,API,"Building a YouTube MP3 Downloader with Exodus, FFmpeg, and AWS Lambda",https://intoli.com/blog/youtube-mp3-downloader/
+380,Lobsters,api,API,Open Sourcing Zuul 2 – Netflix TechBlog,https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3
+381,Lobsters,api,API,Creating an Interactive Instant Message eCommerce Chatbot,https://medium.com/square-corner-blog/creating-a-chatbot-with-square-checkout-and-twilio-studio-750c8bddb1f5
+382,Lobsters,api,API,The End of Third-Party Twitter Clients?,https://daringfireball.net/2018/05/the_end_of_third_party_twitter_clients
+383,Lobsters,api,API,Describing animations,https://blog.asrpo.com/animation
+384,Lobsters,api,API,Beyond REST: Using WebSockets for two-way communication in your React app,https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5
+385,Lobsters,api,API,🏎Create fake REST API in one sec.,https://github.com/cooldrip/jhop
+386,Lobsters,api,API,Ask: how do you monitor non-prod servers?,/s/bnn7vo/ask_how_do_you_monitor_non_prod_servers
+387,Lobsters,api,API,Powering Your App With A Realtime Messaging CDN,https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3
+388,Lobsters,api,API,sigaction: see who killed you (and more),http://rachelbythebay.com/w/2018/04/16/signal/
+389,Lobsters,api,API,ReactOS 0.4.8 released!!,https://reactos.org/project-news/reactos-048-released
+390,Lobsters,api,API,Let’s Replace JavaScript with Something Better,https://john.ankarstrom.se/english/texts/replacing-javascript/
+391,Lobsters,api,API,GraphQL Best Practices,https://jsjaspreet.com/blog/graphql-best-practices
+392,Lobsters,api,API,Starting with GraphQL: Schema — Part 2,http://www.oscarfunes.com/2018/04/10/graphql-part-2/
+393,Lobsters,api,API,Why does Twitter allow third-party clients?,http://blog.zarfhome.com/2018/04/why-does-twitter-allow-third-party.html
+394,Lobsters,api,API,How ipdata serves 25M API calls from 10 infinitely scalable global endpoints for $150 a month,http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html
+395,Lobsters,api,API,Apps of a Feather,http://apps-of-a-feather.com/
+396,Lobsters,api,API,Free Gmail Alternatives that are developer friendly,/s/seohxt/free_gmail_alternatives_are_developer
+397,Lobsters,api,API,The Snake and the Horse: How Wallaroo's Python API Works With Pony,https://blog.wallaroolabs.com/2018/04/the-snake-and-the-horse-how-wallaroos-python-api-works-with-pony/
+398,Lobsters,api,API,Executing commands in Pods using K8s API,https://blog.openshift.com/executing-commands-in-pods-using-k8s-api/
+399,Lobsters,api,API,Starting with GraphQL: Caveats — Part 1,http://www.oscarfunes.com/2018/04/03/graphql-part-one/
+400,Lobsters,api,API,Neo4j-GraphQL: Expose A GraphQL Endpoint From Neo4j Without Implementing Resolvers,https://blog.grandstack.io/using-the-neo4j-graphql-plugin-in-neo4j-desktop-c8a60aa014d9
+401,Lobsters,api,API,React Slack Clone,https://github.com/pusher/react-slack-clone
+402,Lobsters,api,API,GeoLite Legacy Database Discontinuted,https://support.maxmind.com/geolite-legacy-discontinuation-notice/
+403,Lobsters,api,API,Who will steal Android from Google?,https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e
+404,Lobsters,api,API,"Hydra, Java network framework (looking for feedback)",https://github.com/DataSecs/Hydra
+405,Lobsters,api,API,"DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together",https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+406,Lobsters,api,API,GraphQL at Braintree,http://www.braintreepayments.com/blog/graphql-at-braintree/
+407,Lobsters,api,API,"A complete introduction to Apollo, the GraphQL toolkit",https://flaviocopes.com/apollo/
+408,Lobsters,api,API,System boundaries: the focus of design,http://www.tedinski.com/2018/02/06/system-boundaries.html
+409,Lobsters,api,API,Why you should follow the robustness principle in your APIs,https://jlordiales.me/2017/03/25/postel-law-api/
+410,Lobsters,api,API,DuckRails - A development tool to quickly & dynamically mock API endpoints,https://github.com/iridakos/duckrails
+411,Lobsters,api,API,Breaking and Mending Compatibility,https://michaelfeathers.silvrback.com/breaking-and-mending-compatibility
+412,Lobsters,api,API,How to Deploy Django apps on AWS Lambda,http://blog.apcelent.com/deploy-django-app-aws-lambda.html
+413,Lobsters,api,API,Computational Geometry Tutorial,http://wykobi.com/tutorial0.html
+414,Lobsters,api,API,Hyrum's Law,http://www.hyrumslaw.com/
+415,Lobsters,api,API,Extending CircleCI's API with a Custom Microservice on AWS Lambda,https://intoli.com/blog/circleci-artifacts/
+416,Lobsters,api,API,Adopting OpenAPI to describe DNSimple API v2,https://blog.dnsimple.com/2018/02/openapi/
+417,Lobsters,api,API,JSON Meta Application Protocol Specification (JMAP),http://jmap.io/
+418,Lobsters,api,API,Rage agaist the APIs,http://www.charlesetc.com/rage-against-apis.html
+419,Lobsters,api,API,When Rollback is not the Solution but the Problem,https://making.dia.com/when-rollback-is-not-the-solution-but-the-problem-25fa490e220a
+420,Lobsters,api,API,"Tough love, or stultifying ossification? I don't know",http://boston.conman.org/2018/02/12.1
+421,Lobsters,api,API,Implementation of a robust no-fit polygon generation in a C++ library (github.com),https://github.com/kallaballa/libnfp.git
+422,Lobsters,api,API,We Are Morons: a quick look at the Win2k source (2004),http://atdt.freeshell.org/k5/story_2004_2_15_71552_7795.html
+423,Lobsters,api,API,Fast JSON API serialization with Ruby on Rails,https://medium.com/netflix-techblog/fast-json-api-serialization-with-ruby-on-rails-7c06578ad17f
+424,Lobsters,api,API,UnQLite - An Embedded Transactional Database Engine,https://github.com/symisc/unqlite
+425,Lobsters,api,API,Serverless WebSockets with AWS Lambda & Fanout,https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354
+426,Lobsters,api,API,/proc/<pid>/stat is broken,/s/fjyy12/proc_pid_stat_is_broken
+427,Lobsters,api,API,To 30 Billion and Beyond,https://www.rdegges.com/2018/to-30-billion-and-beyond/
+428,Lobsters,api,API,REST is the new SOAP,https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d
+429,Lobsters,api,API,Discomfort as a Tool for Change,https://testing.googleblog.com/2017/02/discomfort-as-tool-for-change.html
+430,Lobsters,api,API,Microservices in Java? Never.,https://codeburst.io/microservices-in-java-never-a7f3a2540dbb
+431,Lobsters,api,API,A Response to REST is the new SOAP,https://philsturgeon.uk/api/2017/12/18/rest-confusion-explained/
+432,Lobsters,api,API,Introducing Pointed: Mock backends as a service,https://blog.pointed.io/introducing-pointed/
+433,Lobsters,api,API,User experience design for APIs,https://blog.keras.io/user-experience-design-for-apis.html
+434,Lobsters,api,API,IRC Client Protocol,https://modern.ircdocs.horse/
+435,Lobsters,api,API,Introducing Twitter premium APIs,https://blog.twitter.com/developer/en_us/topics/tools/2017/introducing-twitter-premium-apis.html
+436,Lobsters,api,API,Holiday Ping: how we implemented our first open source app with Erlang and Clojurescript,https://notamonadtutorial.com/holiday-ping-how-we-implemented-our-first-open-source-app-with-erlang-and-clojurescript-fad5b66fc325
+437,Lobsters,api,API,"Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL",http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/
+438,Lobsters,api,API,Best Practices for your REST API,https://solidgeargroup.com/best-practices-rest-api
+439,Lobsters,api,API,Built to Flex: View-based RESTful APIs,https://medium.com/aaptiv-engineering/built-to-flex-view-based-restful-apis-c5ad690f558c
+440,Lobsters,api,API,Constraint based APIs for async/await,https://medium.com/@mikeal/constraint-based-apis-for-async-await-a07a4005ea5d
+441,Lobsters,api,API,GraphQL at massive scale: GraphQL as the glue in a microservice architecture,https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/
+442,Lobsters,api,API,GraphQL + Relay Modern + Rails,https://collectiveidea.com/blog/archives/2017/08/03/graphql-relay-modern-rails
+443,Lobsters,api,API,How Facebook uses GraphQL Subscriptions for Live-Updating Features,https://about.sourcegraph.com/graphql/full-stack-subscriptions/
+444,Lobsters,api,API,How To Design A Linux Kernel API,https://www.youtube.com/watch?v=DOZZOLHQpd0
+445,Lobsters,api,API,How APIs work — An Analogy For Dummies,https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b
+446,Lobsters,api,API,Pragmatic design with JSON API,https://jeremiahlee.com/blog/2017/10/10/pragmatic-design-with-json-api/
+447,Lobsters,api,API,Pathie C++ Unicode Pathname library,https://www.guelkerdev.de/projects/pathie/
+448,Lobsters,api,API,Implementing Stripe-like Idempotency Keys in Postgres,https://brandur.org/idempotency-keys
+449,Lobsters,api,API,API design: Choosing between names and identifiers in URLs,https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html
+450,Lobsters,api,API,Open source sets sights on killing WhatsApp and Slack,https://www.theregister.co.uk/2017/10/12/openxchange_imap_chat_killer_app/
+451,Lobsters,api,API,"CLI to download, convert and send youtube videos to several devices using Pushbullet",https://github.com/Parth-Vader/MobOff
+452,Lobsters,api,API,"By 2020, 50% of Managed APIs Projected to be Event-Driven",https://realtimeapi.io/2020-50-percent-managed-apis-projected-event-driven/
+453,Lobsters,api,API,Rebuilding Netflix's API gateway to be non-blocking,https://youtu.be/2oXqbLhMS_A
+454,Lobsters,api,API,Adding An HTTP reverse proxy for realtime,https://realtimeapi.io/hub/http-reverse-proxy-realtime/
+455,Lobsters,api,API,Send StatHat alerts to Keybase team chat channels | StatHat Blog,https://blog.stathat.com/2017/09/28/send_alerts_to_keybase_team_chat.html
+456,Lobsters,api,API,Book of the Runtime,https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md
+457,Lobsters,api,API,When good controllers go bad: getting started with Coach,https://gocardless.com/blog/getting-started-with-coach/
+458,Lobsters,api,API,Relicensing the GraphQL specification – Lee Byron,https://medium.com/@leeb/relicensing-the-graphql-specification-e7d07a52301b
+459,Lobsters,api,API,Getting Started with Building Realtime API Infrastructure,https://realtimeapi.io/getting-started-with-building-realtime-api-infrastructure/
+460,Lobsters,api,API,"Apache Arrow and the ""10 Things I Hate About pandas""",http://wesmckinney.com/blog/apache-arrow-pandas-internals/
+461,Lobsters,api,API,Calling Webhooks asynchronously with Zurl,http://blog.fanout.io/2014/10/03/calling-webhooks-asynchronously-with-zurl/
+462,Lobsters,api,API,API Design - Moving from polling to long-polling,https://realtimeapi.io/hub/moving-polling-long-polling/
+463,Lobsters,api,API,PulseAudio under the hood,http://gavv.github.io/blog/pulseaudio-under-the-hood/
+464,Lobsters,api,API,3 Creative Techniques for Writing Modular Code,https://www.linkedin.com/pulse/creative-techniques-writing-modular-code-christian-maioli-mackeprang
+465,Lobsters,api,API,Payment Request API —Now Being Implemented in All Major Browsers,https://www.w3.org/blog/wpwg/2017/09/14/payment-request-api-now-being-implemented-in-all-major-browsers-advances-on-the-recommendation-track/
+466,Lobsters,api,API,Catalog of Patterns of Enterprise Application Architecture [2004],https://martinfowler.com/eaaCatalog/
+467,Lobsters,api,API,"Java Reflection, 1000x Faster",http://norswap.com/fast-java-reflection/
+468,Lobsters,api,API,I don’t know who the Web Audio API is designed for,http://blog.mecheye.net/2017/09/i-dont-know-who-the-web-audio-api-is-designed-for/
+469,Lobsters,api,API,Reliable Server-Sent Events for Django,http://blog.fanout.io/2017/08/03/reliable-server-sent-events-for-django/
+470,Lobsters,api,API,What's So Bad About POSIX I/O?,https://www.nextplatform.com/2017/09/11/whats-bad-posix-io/
+471,Lobsters,api,API,Using atomic transactions in Postgres to power an idempotent API,https://brandur.org/http-transactions
+472,Lobsters,api,API,Story of retry,https://blog.chib.me/story-of-retry/
+473,Lobsters,api,API,Pushpin - a reverse proxy for real-time web services,http://pushpin.org/
+474,Lobsters,api,API,Easy XMPP: The Challenges,https://xmpp.org/2017/08/easy-xmpp-the-challenges/
+475,Lobsters,api,API,How ACH works: A developer perspective - Part 1,http://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/
+476,Lobsters,api,API,React and Redux are a joke right?,https://games.greggman.com/game/react-and-redux-are-a-joke-right/
+477,Lobsters,api,API,no stable api nonsense,https://dri.freedesktop.org/docs/drm/process/stable-api-nonsense.html#stable-kernel-source-interfaces
+478,Lobsters,api,API,The X-Windows Disaster,http://www.art.net/~hopkins/Don/unix-haters/x-windows/disaster.html
+479,Lobsters,api,API,How Java 9 Incubator Modules Will Transform New Java Features,http://blog.takipi.com/how-java-9-incubator-modules-will-change-the-future-of-java/
+480,Lobsters,api,API,APIs as infrastructure: future-proofing Stripe with versioning,https://stripe.com/blog/api-versioning
+481,Lobsters,api,API,The BitTorrent Protocol Specification v2,http://bittorrent.org/beps/bep_0052.html
+482,Lobsters,api,API,Understanding Vulkan objects,http://gpuopen.com/understanding-vulkan-objects/
+483,Lobsters,api,API,How I reverse-engineered Hacker News,https://swizec.com/blog/reverse-engineered-hacker-news/swizec/7741
+484,Lobsters,api,API,The user is an API,https://medium.com/@miguelrochefort/the-user-is-an-api-cf5701bb1b21
+485,Lobsters,api,API,khusnetdinov/phoenix_gon,https://github.com/khusnetdinov/phoenix_gon
+486,Lobsters,api,API,RESTful DOOM,http://1amstudios.com/2017/08/01/restful-doom/
+487,Lobsters,api,API,Building a simple GraphQL server with Neo4j,https://www.oreilly.com/learning/building-a-simple-graphql-server-with-neo4j
+488,Lobsters,api,API,opentracing.io,http://opentracing.io/
+489,Lobsters,api,API,Image load time optimization,https://blog.uploadcare.com/accelerate-your-images-by-9x-with-image-cdn-6b63aa27e639
+490,Lobsters,api,API,Re: [SLUG] Ximian / Gnome and Xalf,http://lists.slug.org.au/archives/slug-chat/2001/July/msg00054.html
+491,Lobsters,api,API,Boobies on the Blockchain [a practical experiment] (~NSFW),https://boobies.surge.sh/
+492,Lobsters,api,API,kosua20/herebedragons -- Same scene built with 10 rendering APIs,https://github.com/kosua20/herebedragons
+493,Lobsters,api,API,API v2 Architecture and Hanami,https://blog.dnsimple.com/2017/07/api-v2-architecture/
+494,Lobsters,api,API,Bright City: A Highly Insecure Police and Municipal Government App,https://randywestergren.com/bright-city-highly-insecure-police-municipal-government-app/
+495,Lobsters,api,API,Writing a Hypermedia API client in Ruby,https://robots.thoughtbot.com/writing-a-hypermedia-api-client-in-ruby
+496,Lobsters,api,API,Potree | WebGL pointcloud renderer,http://potree.org/wp/
+497,Lobsters,api,API,"gRPC in Production, Alan Shreve at GopherCon 2017",https://about.sourcegraph.com/go/grpc-in-production-alan-shreve
+498,Lobsters,api,API,Inside the Algolia Search Engine Part 8: Handling Advanced Search Use Cases,https://blog.algolia.com/inside-the-engine-part-8-handling-advanced-search-use-cases/
+499,Lobsters,api,API,Erlang: Migrating from Cowboy 1.0 to 2.0,https://github.com/ninenines/cowboy/blob/master/doc/src/guide/migrating_from_1.0.asciidoc
+500,Lobsters,api,API,Lambda@Edge now Generally Available,https://aws.amazon.com/about-aws/whats-new/2017/07/lambda-at-edge-now-generally-available/
+501,Lobsters,api,API,Cloud CMS - How to manage menus,https://www.gitbook.com/book/idealley/cloud-cms-how-to-manage-menus
+502,Lobsters,api,API,Capture screenshot of a single DOM node via API,/s/kbn0st/capture_screenshot_single_dom_node_via
+503,Lobsters,api,API,Vedis - An Embedded Implementation of Redis,http://vedis.symisc.net/
+504,Lobsters,api,API,Reverse-engineering the Starbucks ordering API,https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
+505,Lobsters,api,API,Announcing Babylon.js 3.0,https://blogs.windows.com/buildingapps/2017/07/12/announcing-babylon-js-3-0/
+506,Lobsters,api,API,Mimic Snapchat Filters Programmatically,https://blog.pixlab.io/2017/07/mimic-snapchat-filters
+507,Lobsters,api,API,"Amid Unprecedented controversy, W3C Greenlights DRM for the Web",https://www.eff.org/deeplinks/2017/07/amid-unprecedented-controversy-w3c-greenlights-drm-web
+508,Lobsters,api,API,Pixel-Art Avatar Placeholder with JS- and HTTP-API,https://github.com/DiceBear/avatars
+509,Lobsters,api,API,Notes on moving from etcd2 to etcd3,https://medium.com/@mhausenblas/notes-on-moving-from-etcd2-to-etcd3-dedb26057b90
+510,Lobsters,api,API,A guide to RESTful API design: 35+ of the most-recommended resources,https://techbeacon.com/guide-restful-api-design-35-must-reads
+511,Lobsters,api,API,Petya Ransomware: Live Counter of Ransom Dollars Paid,https://franciskim.co/petya-ransomware-live-counter-ransom-dollars-paid/
+512,Lobsters,api,API,GraphQL NoSQL Injection Through JSON Types,https://medium.com/@east5th/graphql-nosql-injection-through-json-types-a1a0a310c759
+513,Lobsters,api,API,NoSQL Injection and GraphQL,http://blog.east5th.co/blog/2016/06/13/nosql-injection-and-graphql/
+514,Lobsters,api,API,Explain like I’m 5: Kerberos,http://www.roguelynn.com/words/explain-like-im-5-kerberos/
+515,Lobsters,api,API,Sapient – Security Toolkit for HTTP-Based APIs,https://github.com/paragonie/sapient
+516,Lobsters,api,API,AWS Security Primer,https://cloudonaut.io/aws-security-primer/
+517,Lobsters,api,API,Discord: Rise Of The Bot Wars,https://blackhole12.blogspot.com/2017/06/discord-rise-of-bot-wars.html
+518,Lobsters,api,API,GitHub API Authentication using OAuth 2.0 within Insomnia,https://insomnia.rest/blog/oauth2-github-api/
+519,Lobsters,api,API,"How we got 1,500 GitHub stars by mixing time-tested technology with a fresh UI",https://medium.freecodecamp.com/how-we-got-1-500-github-stars-by-mixing-time-tested-technology-with-a-fresh-ui-b310551cba22
+520,Lobsters,api,API,POST != Create and PUT != UpdatePOST,http://www.eq8.eu/blogs/37-post-create-and-put-update
+521,Lobsters,api,API,"Project Oberon: The Design of an Operating System, a Compiler, and a Computer",https://www.inf.ethz.ch/personal/wirth/ProjectOberon/PO.System.pdf
+522,Lobsters,api,API,babelouest/ulfius -- Web Framework for REST API in C,https://github.com/babelouest/ulfius
+523,Lobsters,api,API,From GraphQL to CSV: the story of API accessibility,https://blog.apis.guru/from-graphql-to-csv-6df5e5462793
+524,Lobsters,api,API,On the duality of operating system structures,https://blog.acolyer.org/2014/12/08/on-the-duality-of-operating-system-structures/
+525,Lobsters,api,API,New C++ library makes it easy to plot cool 2D looking charts,https://github.com/madplotlib/madplotlib
+526,Lobsters,api,API,Calçado's Microservices Prerequisites,http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html
+527,Lobsters,api,API,Financial SMS processing API,http://developer.mtrakr.in
+528,Lobsters,api,API,You can't handle the truth,https://github.com/zxombie/libtrue
+529,Lobsters,api,API,REST APIs  —  Back to Basics,https://restful.io/rest-api-back-to-basics-c64f282d972
+530,Lobsters,api,API,The next step for realtime data in GraphQL: subscriptions,https://dev-blog.apollodata.com/the-next-step-for-realtime-data-in-graphql-b564b72eb07b
+531,Lobsters,api,API,Erlang GraphQL Tutorial,https://shopgun.github.io/graphql-erlang-tutorial/#_why_graphql
+532,Lobsters,api,API,"Universal API for Realtime was not so “universal”, so we forked it",https://blog.ably.io/relaunching-the-universal-api-for-realtime-ab36ed749378
+533,Lobsters,api,API,Why edge cases matter for product success - extremely large CSV files,http://weared4.com/blog/why-edge-cases-matter/
+534,Lobsters,api,API,Dig Out Relevant Text Elements with Entity Extraction API,http://blog.paralleldots.com/technology/dig-relevant-text-elements-entity-extraction-api/
+535,Lobsters,api,API,Use AWS Lambda for ETL and Custom Functions on Keen IO Event Streams,https://blog.keen.io/using-aws-lambda-for-custom-functions-on-keen-io-event-streams-82087274cac
+536,Lobsters,api,API,PostgREST Starter Kit – Boilerplate and Tooling for Authoring REST APIs,https://github.com/subzerocloud/postgrest-starter-kit
+537,Lobsters,api,API,Is GraphQL the Next Frontier for Web APIs?,https://brandur.org/api-paradigms
+538,Lobsters,api,API,How my car insurance exposed my position,https://www.andreascarpino.it/posts/how-my-car-insurance-exposed-my-position.html
+539,Lobsters,api,API,Insomnia Is Now Open Source,https://insomnia.rest/blog/open-source-announcement/
+540,Lobsters,api,API,Automated Text Classification Using Machine Learning,http://blog.paralleldots.com/text-analytics/automated-text-classification-using-machine-learning/
+541,Lobsters,api,API,Architectural Styles and the Design of Network-based Software Architectures,http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+542,Lobsters,api,API,How Emotion Detection Technology Can Make Marketing More Effective,http://blog.paralleldots.com/technology/changing-marketing-with-emotion-detection-technology/
+543,Lobsters,api,API,"Analyzing A Local Startup Ecosystem With Mattermark, GraphQL, Apollo Client, and Neo4j",http://www.lyonwj.com/2017/04/27/mattermark-api-graphql-neo4j-startup-funding/
+544,Lobsters,api,API,Emotion Detection Using Machine Learning,http://blog.paralleldots.com/technology/deep-learning/emotion-detection-using-machine-learning/
+545,Lobsters,api,API,gRPC-Web: Moving past REST+JSON towards type-safe Web APIs,https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis
+546,Lobsters,api,API,"Roy Fielding on Versioning, Hypermedia, and REST [2014]",https://www.infoq.com/articles/roy-fielding-on-versioning/
+547,Lobsters,api,API,"API Star: A fast and expressive API framework, designed for Python 3",https://github.com/tomchristie/apistar
+548,Lobsters,api,API,Quick tips for reducing the cognitive load of your code | Codementor,https://www.codementor.io/christianmaioli/quick-tips-for-reducing-the-cognitive-load-of-your-code-70esp51yh
+549,Lobsters,api,API,"Finally, NASA has its universe of images in one happy, searchable place",https://arstechnica.com/science/2017/04/finally-nasa-has-its-universe-of-images-in-one-happy-searchable-place/
+550,Lobsters,api,API,Understanding REST And RPC For HTTP APIs (2016),https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+551,Lobsters,api,API,gRPC Errors,http://avi.im/grpc-errors/
+552,Lobsters,api,API,Studio Ghibli API,https://ghibliapi.herokuapp.com/
+553,Lobsters,api,API,Scaling your API with rate limiters,https://stripe.com/blog/rate-limiters
+554,Lobsters,api,API,Building Realtime APIs in Rust,https://lord.io/blog/2017/backtalk/
+555,Lobsters,api,API,Some New Interesting Deep Learning Datasets for Data Scientists - ParallelDots,http://blog.paralleldots.com/data-scientist/new-deep-learning-datasets-data-scientists/
+556,Lobsters,api,API,killbelow(2) - Condemned RFC manual page,https://hadrianw.github.io/condemned-rfc/killbelow.2.html
+557,Lobsters,api,API,Platforms vs. Products,https://blog.keen.io/platforms-vs-products-8994f4d726c7#.fqjjmhmj9
+558,Lobsters,api,API,Introducing the Periscope Producer API,https://blog.twitter.com/2017/introducing-the-periscope-producer-api
+559,Lobsters,api,API,Why we ended up not using Rails for our new JSON API,https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api
+560,Lobsters,api,API,Epoll is fundamentally broken 2/2,https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
+561,Lobsters,api,API,Render Pipelines desing in C++,http://www.marti.works/render-pipelines-desing-in-c/
+562,Lobsters,api,API,Patent US9038075 - Batch execution of system calls in an operating system,https://www.google.com/patents/US9038075
+563,Lobsters,api,API,Web application test strategy,https://blog.scottnonnenberg.com/web-application-test-strategy/
+564,Lobsters,api,API,Early draft: On the Design of Distributed Programming Models,https://arxiv.org/abs/1701.07615
+565,Lobsters,api,API,Solving reCAPTCHA with WebdriverIO and Clarifai,https://franciskim.co/solving-recaptcha-webdriverio-clarifai/
+566,Lobsters,api,API,Wikileaks reveals CIA Hacking Tools,https://wikileaks.org/ciav7p1/index.html
+567,Lobsters,api,API,Rest api in Haskell,http://maciek.io/rest-api-in-haskell/
+568,Lobsters,api,API,How Do I Make This Hard to Misuse? (2008),http://ozlabs.org/~rusty/index.cgi/tech/2008-03-30.html
+569,Lobsters,api,API,"RESTful APIs, the big lie",https://mmikowski.github.io/the_lie/
+570,Lobsters,api,API,Why Messaging Queues Suck,https://www.programmableweb.com/news/why-messaging-queues-suck/analysis/2017/02/13
+571,Lobsters,api,API,So You Want To Write Your Own CSV code?,http://tburette.github.io/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/
+572,Lobsters,api,API,Unplugg: An automated Forecasting API for timeseries data,http://unplu.gg/test_api.html
+573,Lobsters,api,API,A Guide Through The Linux Sound API Jungle,http://0pointer.de/blog/projects/guide-to-sound-apis.html
+574,Lobsters,api,API,Epoll is fundamentally broken 1/2,https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
+575,Lobsters,api,API,"uber-cli: Uber, at your fingertips",https://github.com/jaebradley/uber-cli
+576,Lobsters,api,API,Designing robust and predictable APIs with idempotency,https://stripe.com/blog/idempotency
+577,Lobsters,api,API,spotify's music recommendation api,https://developer.spotify.com/web-api/get-recommendations/#tablepress-220
+578,Lobsters,api,API,API Design Guide,https://cloud.google.com/apis/design/
+579,Lobsters,api,API,"Geekmarks: an Open-Source, API-Driven, Geeky Bookmarking Service",https://dmitryfrank.com/projects/geekmarks/article
+580,Lobsters,api,API,Short introduction to GraphQL,http://alexandrutopliceanu.ro/post/introduction-to-graphql/
+581,Lobsters,api,API,Guaranteeing Consistent API Performance with Apache Storm,https://keen.io/blog/140219557931/guaranteeing-consistent-api-performance-with?s=lbst
+582,Lobsters,api,API,Oracle refuses to accept pro-Google “fair use” verdict in API battle,https://arstechnica.com/tech-policy/2017/02/oracle-refuses-to-accept-pro-google-fair-use-verdict-in-api-battle/
+583,Lobsters,api,API,Reactive Extensions for Go,https://github.com/ReactiveX/RxGo
+584,Lobsters,api,API,Tidy data,http://tidyr.tidyverse.org/articles/tidy-data.html
+585,Lobsters,api,API,The trouble of separate module atexit-stacks,http://www.luke1410.de/blog/?p=95
+586,Lobsters,api,API,Protecting APIs from the DDoS attacks by signing the resource identifiers,https://hackernoon.com/protecting-apis-from-the-ddos-attacks-by-signing-the-pks-c1eca7cc7725
+587,Lobsters,api,API,— Kinto 5.3.0 documentation,http://kinto.readthedocs.io/en/stable/
+588,Lobsters,api,API,Plumbing and other utlities,https://pdfs.semanticscholar.org/e227/a848f605342960beedf9e2e731c9449923ae.pdf
+589,Lobsters,api,API,AWS IoT FUSE Client,https://github.com/awslabs/aws-iot-fuse
+590,Lobsters,api,API,Reliable Collections,https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-reliable-collections
+591,Lobsters,api,API,Tutorial: Protecting JAX-RS Resources with RBAC and Apache Shiro (with stormtroopers),https://stormpath.com/blog/protecting-jax-rs-resources-rbac-apache-shiro
+592,Lobsters,api,API,Remote-control your Slack bots with JSON,http://blog.jasonette.com/2016/01/17/build-a-slackbot-with-jasonette/
+593,Lobsters,api,API,"Ballast, a library for talking to Shipwire",http://alexeyzabelin.com/haskell-api-wrapper
+594,Lobsters,api,API,Morbid bindings,http://rant.gulbrandsen.priv.no/programming/morbid-bindings
+595,Lobsters,api,API,How we built the foundations of Finnish national Netflix with microservices,https://www.reaktor.com/blog/a-story-of-a-microservice/
+596,Lobsters,api,API,HTTP API Design,https://www.gitbook.com/book/geemus/http-api-design/details
+597,Lobsters,api,API,What is oheap?,http://www.oilshell.org/blog/2017/01/09.html
+598,Lobsters,api,API,Ammo.js (Bullet Physics) compiled to WebAssembly,https://gist.github.com/sasha240100/1e0c0894b2dd98623ef68f89d4ef87ab
+599,Lobsters,api,API,Open source divers: libdivecomputer now has manpages!,https://divelog.blue/blog.html?entryid=55
+600,Lobsters,api,API,Librsvg 2.41.0 is released (now requires Rust),https://mail.gnome.org/archives/desktop-devel-list/2017-January/msg00001.html
+601,Lobsters,api,API,Building a Solar Proposal Bot,http://higher.team/blog/2017/january/building-a-solar-proposal-bot
+602,Lobsters,api,API,OpenSSL 1.1 API migration path (or the lack thereof...),https://www.mail-archive.com/tech@openbsd.org/msg36437.html
+603,Lobsters,api,API,Standard File - your data home forever.,http://standardfile.org/
+604,Lobsters,api,API,Signalfd Is Useless [2015],https://ldpreload.com/blog/signalfd-is-useless?reposted-on-request
+605,Lobsters,api,API,Writing an API Client in Go,https://blog.gopheracademy.com/advent-2016/http-client/
+606,Lobsters,api,API,simeji/jid: JSON incremental digger,https://github.com/simeji/jid
+607,Lobsters,api,API,DNSimple API v2 is now Generally Available,https://blog.dnsimple.com/2016/12/api-v2-stable/
+608,Lobsters,api,API,Welcome to NTPsec,https://www.ntpsec.org/
+609,Lobsters,api,API,search slack data locally via grep,https://github.com/andrewarrow/localsdata
+610,Lobsters,api,API,HTML for Microservices,https://blog.gladwell.me/html-microservices.html
+611,Lobsters,api,API,"Node.js, TC-39, and Modules",https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e
+612,Lobsters,api,API,VirtualMouse of Whitestorm framework. Picking objects in 3D apps,https://medium.com/whitestormjs-framework/virtualmouse-of-whitestorm-framework-picking-objects-in-3d-apps-15f7b785d867#.lnpb71dwg
+613,Lobsters,api,API,Being ‘Protocol Agnostic’ at Ably realtime,https://blog.ably.io/being-protocol-agnostic-at-ably-eb36342a644c
+614,Lobsters,api,API,Engineering a Sort Function,http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=263E4A520295B82C8A3FA99C98F6A8D3?doi=10.1.1.14.8162&rep=rep1&type=pdf
+615,Lobsters,api,API,Jasonette - Native App over HTTP,http://jasonette.com/
+616,Lobsters,api,API,Anatomy of a Program in Memory,http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory
+617,Lobsters,api,API,Announcing pydoc.io beta,http://blog.readthedocs.com/announcing-pydoc-io/
+618,Lobsters,api,API,Debugging SSL in Java using mitmproxy,http://blog.packagecloud.io/eng/2016/11/14/debugging-ssl-in-java-using-mitmproxy/
+619,Lobsters,api,API,the malloc challenge,http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html
+620,Lobsters,api,API,Thinktecture RelayServer – Open Source SignalR Based API-Relay,https://github.com/thinktecture/relayserver
+621,Lobsters,api,API,The Passport: A Tool for Better Metrics,https://eng.fitbit.com/the-passport-a-tool-for-better-metrics/
+622,Lobsters,api,API,An API Client that’s Faster than the API,https://kev.inburke.com/kevin/logrole-api-client-speed/?lobsters
+623,Lobsters,api,API,Introducing FlyWeb,https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html
+624,Lobsters,api,API,I have ported XScreenSaver to the iPhone. (2012),https://www.jwz.org/blog/2012/06/i-have-ported-xscreensaver-to-the-iphone/
+625,Lobsters,api,API,Parsing JSON is a Minefield ?,http://seriot.ch/parsing_json.html
+626,Lobsters,api,API,JSONApi is a blessing for offline ready apps,http://www.birbit.com/jsonapi-is-a-blessing-for-offline-ready-apps/
+627,Lobsters,api,API,buffering in standard streams,http://www.pixelbeat.org/programming/stdio_buffering/
+628,Lobsters,api,API,Oracle denied new trial in copyright dispute with Google over Java,http://www.pcworld.com/article/3125113/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html
+629,Lobsters,api,API,JMESPath — a query language for JSON,http://jmespath.org/
+630,Lobsters,api,API,GraphQL: A query language for APIs,http://graphql.org/
+631,Lobsters,api,API,"How to read web specs Part I – Or: WebVR, how do you work?",https://surma.link/things/reading-specs/
+632,Lobsters,api,API,Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal.,https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/#.V_pNbpzrDZ8.reddit
+633,Lobsters,api,API,Erlang Dirty Scheduler Overhead,https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7
+634,Lobsters,api,API,Messaging: Why Would You Do This?,http://zxq9.com/archives/1274
+635,Lobsters,api,API,Release 11 of Vibur DBCP is now out; many new features and improvements since release 9; check ...,https://github.com/vibur/vibur-dbcp/blob/master/CHANGELOG#L1
+636,Lobsters,api,API,Introducing .NET Standard,https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+637,Lobsters,api,API,IRCv3,http://ircv3.net/
+638,Lobsters,api,API,How to Break an API?,http://breakingapis.org/
+639,Lobsters,api,API,"Function Naming In Swift 3, by Pablo Villar",http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/
+640,Lobsters,api,API,The GitHub GraphQL API,http://githubengineering.com/the-github-graphql-api/
+641,Lobsters,api,API,Using clojure.spec to declaratively parse http query parameters,https://www.bevuta.com/en/blog/declaratively-parse-query-params-using-clojure-spec/
+642,Lobsters,api,API,Elixir Native Interoperability – Ports vs. NIFs,https://spin.atomicobject.com/2015/03/16/elixir-native-interoperability-ports-vs-nifs/
+643,Lobsters,api,API,Developing a Street Basketball Game (Part 3: Level Selecting and Stats) - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-lll-level
+644,Lobsters,api,API,Erlang REST Server Stack,http://inaka.net/blog/2016/09/06/erlang-rest-server-stack/
+645,Lobsters,api,API,"New docs for WhitestormJS framework. (webgl, 3D physics in javasript, THREE.JS)",http://whitestormjs.xyz/
+646,Lobsters,api,API,"WhitestormJS r11: modularity, optimization for webpack, softbody cloth and more!",https://github.com/WhitestormJS/whitestorm.js
+647,Lobsters,api,API,I Don't Need No Stinking API - Web Scraping in 2016 and Beyond,https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/
+648,Lobsters,api,API,[Tutorial] 3D basketball game made in browser. You can make it too! (Part 3),https://medium.com/whitestormjs-framework/developing-a-street-basketball-game-part-lll-level-selecting-and-stats-b076747b13b3#.6qcqj6bxz
+649,Lobsters,api,API,Google Intrusion Detection Problems,http://www.fredtrotter.com/2016/08/22/google-intrusion-detection-problems/
+650,Lobsters,api,API,Liberal JSON,http://softwaremaniacs.org/blog/2016/08/20/liberal-json/en/
+651,Lobsters,api,API,Making a 3D game in browser in a few easy steps - DZone Web Dev,https://dzone.com/articles/developing-a-street-basketball-game-part-ll-throw
+652,Lobsters,api,API,The S stands for Simple,http://harmful.cat-v.org/software/xml/soap/simple
+653,Lobsters,api,API,"Introducing `stack`, a CLI and SDK for multi-language streaming microservices",https://github.com/Stackvana/stack
+654,Lobsters,api,API,Even better APIs using Rust's Type System (Follow-Up),https://blog.tarn-vedra.de/posts/safe-apis-followup.html
+655,Lobsters,api,API,Constructing Exocortices with Huginn and Halo,https://drwho.virtadpt.net/archive/2016-08-02/video-from-my-hope-xi-talk-is-now-online
+656,Lobsters,api,API,Specify Your API,http://blog.drewolson.org/specify-your-api/
+657,Lobsters,api,API,"hitchhiker-tree: B+ tree, append-only log and functional persistent datastructure three in one",https://github.com/datacrypt-project/hitchhiker-tree/blob/master/doc/hitchhiker.adoc
+658,Lobsters,api,API,The Expression Problem [1998],http://www.daimi.au.dk/~madst/tool/papers/expression.txt
+659,Lobsters,api,API,The Process File System and Process Model in UNIX System V,https://www.usenix.org/sites/default/files/usenix_winter91_faulkner.pdf
+660,Lobsters,api,API,Rust and Rest,http://lucumr.pocoo.org/2016/7/10/rust-rest/
+661,Lobsters,api,API,Why do we keep building rotten foundations? (a.k.a. GTK versioning),https://davmac.wordpress.com/2016/07/05/why-do-we-keep-building-rotten-foundations/
+662,Lobsters,api,API,Making a RESTful JSON API in Go (2014),http://thenewstack.io/make-a-restful-json-api-go/
+663,Lobsters,api,API,API for Human Labor,http://www.scaleapi.com/
+664,Lobsters,api,API,"Iliad's Online.net launch C14, the new cloud archive service for 0,002€ per GB",https://www.online.net/en/c14
+665,Lobsters,api,API,Best Practices for Designing a Pragmatic RESTful API,http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+666,Lobsters,api,API,Node streams - a fractal of weird design,https://gist.github.com/spion/ecdc92bc5de5b381da30
+667,Lobsters,api,API,Comma Separated JSON,http://www.kirit.com/Comma%20Separated%20JSON
+668,Lobsters,api,API,"Automatic pair programmer — realtime code usage examples in your editor, as you type",https://text.sourcegraph.com/code-usage-examples-in-your-editor-as-you-type-f7fc89d894dd
+669,Lobsters,api,API,"Interesting Comment on ""My Increasing Frustration With Clojure""",https://www.reddit.com/r/Clojure/comments/4nlhgn/my_increasing_frustration_with_clojure/d4543dt
+670,Lobsters,api,API,Gtk 4.0 is not Gtk 4,https://blogs.gnome.org/desrt/2016/06/13/gtk-4-0-is-not-gtk-4/
+671,Lobsters,api,API,JIRA REST API OAuth authentication in Node.js,https://devup.co/jira-rest-api-oauth-authentication-in-node-js-2f8d226a493a
+672,Lobsters,api,API,Microservices Weekly (Issue #28): HTTP vs. Thrift,http://microservicesweekly.com/issue/28
+673,Lobsters,api,API,External API Caching with Varnish & Nginx,http://blog.runnable.com/post/144975295096/external-api-caching-with-varnish-nginx
+674,Lobsters,api,API,Microservices Weekly (Issue #27): Game On,http://www.microservicesweekly.com/issue/27
+675,Lobsters,api,API,Op-ed: Oracle attorney says Google’s court victory might kill the GPL,http://arstechnica.com/tech-policy/2016/05/op-ed-oracle-attorney-says-googles-court-victory-might-kill-the-gpl/
+676,Lobsters,api,API,The verdict is in: Android is “fair use” as Google beats Oracle,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
+677,Lobsters,api,API,Kubernetes: Hypernetes: Bringing Security and Multi-tenancy to Kubernetes,http://blog.kubernetes.io/2016/05/hypernetes-security-and-multi-tenancy-in-kubernetes.html
+678,Lobsters,api,API,The Straight Dope on Deprecations,https://blog.codeship.com/the-straight-dope-on-deprecations/
+679,Lobsters,api,API,"Jai: Demo: Iterators, (Overloading x Polymorphism)",https://www.youtube.com/watch?v=COQKyOCAxOQ
+680,Lobsters,api,API,KoduStore a Minimal ORM for UWP Using LevelDB and BSON,https://github.com/maxpert/KoduStore
+681,Lobsters,api,API,Swagger – The World's Most Popular Framework for APIs.,http://swagger.io/
+682,Lobsters,api,API,node.cobol,https://github.com/IonicaBizau/node.cobol
+683,Lobsters,api,API,Monotonic Versioning Manifesto 1.0,http://blog.appliedcompscilab.com/monotonic_versioning_manifesto/index.html
+684,Lobsters,api,API,"Oracle v. Google, and the end of programming as we know it",http://www.computerworld.com/article/3070001/application-development/oracle-v-google-and-the-end-of-programming-as-we-know-it.html
+685,Lobsters,api,API,JSON API — A specification for building APIs in JSON,http://jsonapi.org/
+686,Lobsters,api,API,Microservices Weekly (Issue #26): Vert.x Microservices Toolbox,http://www.microservicesweekly.com/issue/26
+687,Lobsters,api,API,"POSIX Abstractions in Modern OSes: The Old, The New, The Missing",http://www.cs.columbia.edu/~vatlidak/POSIXpaper.pdf
+688,Lobsters,api,API,Locking in WebKit,https://webkit.org/blog/6161/locking-in-webkit/
+689,Lobsters,api,API,Microservices Weekly (Issue #25): A jorney into the madness of microservices,http://microservicesweekly.com/issue/25
+690,Lobsters,api,API,OZorkAuth - Learn OAuth2 + Spring Boot The Fun Way!,https://stormpath.com/blog/ozorkauth-learn-oauth2-spring-boot-fun-way
+691,Lobsters,api,API,"rickover - a job queue/scheduler available over HTTP, written in Go, and backed by Postgres",https://github.com/Shyp/rickover
+692,Lobsters,api,API,"OpenMP 3.1 Summary Card C/C++ (2011) (supported since GCC 4.7, LLVM/Clang 3.7)",http://openmp.org/mp-documents/OpenMP3.1-CCard.pdf
+693,Lobsters,api,API,Slack bot token leakage exposing business critical information,https://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/
+694,Lobsters,api,API,Jam API: a service that allows you to turn any site into a JSON accessible api using CSS selectors,http://www.jamapi.xyz/
+695,Lobsters,api,API,Microservices Weekly (Issue #24): Deep Dive on Microservices,http://microservicesweekly.com/issue/24
+696,Lobsters,api,API,Microservices Weekly (Issue #23): This week's news/articles on microservice,http://www.microservicesweekly.com/issue/23
+697,Lobsters,api,API,libressl - more vague promises,http://www.tedunangst.com/flak/post/libressl-more-vague-promises
+698,Lobsters,api,API,vurtun/nuklear -- small C gui library,https://github.com/vurtun/nuklear
+699,Lobsters,api,API,The future of .NET class libraries,https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md
+700,Lobsters,api,API,Unix's file durability problem,https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem
+701,Lobsters,api,API,OpenBR: Open Source Biometric Recognition,http://openbiometrics.org/
+702,Lobsters,api,API,ABI Compliance Checker,http://lvc.github.io/abi-compliance-checker/
+703,Lobsters,api,API,Microservices Weekly (Issue #22): This week's news/articles on microservices,http://microservicesweekly.com/issue/22
+704,Lobsters,api,API,Type safe Polyvariadic functions in Haskell,http://cs-syd.eu/posts/2016-04-09-typesafe-polyvariadic-functions-in-haskell.html
+705,Lobsters,api,API,"Dialogue's Guiding Principles, or a Healthy Hatred of OOP",https://bythehilt.com/articles/dialogues-guiding-principles-or-a-healthy-hatred-of-oop
+706,Lobsters,api,API,"chartd - responsive, retina-compatible charts with just an img tag",http://chartd.co
+707,Lobsters,api,API,Microservices Weekly (Issue #20): This week's news/articles on microservices,http://microservicesweekly.com/issue/20
+708,Lobsters,api,API,API management and rate limiting using ApiAxle with a demo in Docker,https://mapzen.com/blog/apiaxle
+709,Lobsters,api,API,My Heroic and Lazy Stand Against IFTTT,https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/
+710,Lobsters,api,API,Microservices Weekly (Issue #19): Ants vs elephants,http://www.microservicesweekly.com/issue/19
+711,Lobsters,api,API,Microservices Weekly (Issue #18): This week's news/articles on microservices,http://www.microservicesweekly.com/issue/18
+712,Lobsters,api,API,Four Strategies for Organizing Code,https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33
+713,Lobsters,api,API,GraphQL/Relay as Change-Enabling Architecture,https://gist.github.com/idibidiart/49a095b6bc528638f34f
+714,Lobsters,api,API,"Fleet on CoreOS, Part One",https://deis.com/blog/2016/fleet-coreos-pt-1
+715,Lobsters,api,API,Microservices Weekly - Issue #17,http://microservicesweekly.com/issue/17
+716,Lobsters,api,API,Why RESTful communication between microservices can be perfectly fine,https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/
+717,Lobsters,api,API,Postman App for testing rest APIs has a native mac app now,https://www.getpostman.com/apps
+718,Lobsters,api,API,"Lenses, Folds, and Traversals",https://www.youtube.com/watch?v=cefnmjtAolY
+719,Lobsters,api,API,Microservices Weekly - Issue #16,http://microservicesweekly.com/issue/16
+720,Lobsters,api,API,Venmo Kills Off Developer API With Zero Warning,http://techcrunch.com/2016/02/26/how-not-to-run-a-platform/
+721,Lobsters,api,API,An Introduction to IPFS,https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0
+722,Lobsters,api,API,The API Churn/Security Trade-off,http://intercoolerjs.org/2016/02/17/api-churn-vs-security.html
+723,Lobsters,api,API,"Google Cloud Vision API enters Beta, open to all to try!",http://googlecloudplatform.blogspot.com/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html
+724,Lobsters,api,API,AllOrigins – Pull content from any page as JSON,http://allorigins.pw/
+725,Lobsters,api,API,"Kimono service shutting down on February 29, 2016",https://www.kimonolabs.com/
+726,Lobsters,api,API,An Open Source Wit.ai Alternative for Natural Language Processing,https://source.id.hn/diffusion/NLPI/
+727,Lobsters,api,API,Lumberyard + Amazon GameLift + Twitch for Games on AWS,https://aws.amazon.com/blogs/aws/lumberyard-amazon-gamelift-twitch-for-games-on-aws/
+728,Lobsters,api,API,"REST is accused to be simple, but it's not...",http://blog.maveonair.io/rest-is-not-simple-it-is-hard
+729,Lobsters,api,API,"The Xing Framework: Rails API & Angular.js, Simplified",http://xingframework.com
+730,Lobsters,api,API,Lelylan. Open Source Internet of Things,http://www.lelylan.com/
+731,Lobsters,api,API,"""Testing Python-Requests with Betamax"" Tutorial on Semaphore CI",https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
+732,Lobsters,api,API,Controlling Sound with OSC Messages,http://joearms.github.io/2016/01/29/Controlling-Sound-with-OSC-Messages.html
+733,Lobsters,api,API,Jon Moore on Hypermedia APIs and Distributed Monotonic Clocks,http://www.infoq.com/interviews/moore-apis-clocks
+734,Lobsters,api,API,Parse is shutting down,http://blog.parse.com/announcements/moving-on/
+735,Lobsters,api,API,"After being sued for $3m, I'm moving on from torrents.",http://blog.getstrike.net/post/138192622233/were-moving-away-from-torrents-so-whats-next
+736,Lobsters,api,API,Immutability Changes Everything,http://queue.acm.org/detail.cfm?id=2884038
+737,Lobsters,api,API,Better filters for gmail with google apps scripts,https://boinkor.net/2016/01/better-filters-for-gmail-with-google-apps-scripts/
+738,Lobsters,api,API,Building An Infinitely Scaleable Online Recording Campaign For David Guetta,https://serverlesscode.com/post/david-guetta-online-recording-with-lambda/
+739,Lobsters,api,API,Rescuing REST From the API Winter,http://intercoolerjs.org/2016/01/18/rescuing-rest.html
+740,Lobsters,api,API,Validating Data in Elixir with ExJsonSchema,https://engineering.appcues.com/2016/01/20/ex-json-schema.html
+741,Lobsters,api,API,Just Return One Error,https://kev.inburke.com/kevin/just-return-one-error/
+742,Lobsters,api,API,ActiveRecord stole my data and now I want it back!,https://medium.com/@yammereng/activerecord-stole-my-data-and-now-i-want-it-back-3041ac4eb163
+743,Lobsters,api,API,HTTP Status Cats API,https://http.cat/
+744,Lobsters,api,API,"Improving Your API Conversations with Hypermedia, ETags, and Real-Time APIs",http://launchany.com/extending-your-api-conversations/
+745,Lobsters,api,API,Choosing an HTTP Status Code — Stop Making It Hard,http://racksburg.com/choosing-an-http-status-code/
+746,Lobsters,api,API,WebApi - Lightweight framework to build Web APIs in Haskell,http://byteally.github.io/webapi/
+747,Lobsters,api,API,Systems Esthetics (1968),http://www.arts.ucsb.edu/faculty/jevbratt/readings/burnham_se.html
+748,Lobsters,api,API,InstagramUploader - Upload images to instagram without needing the app.,https://github.com/Codeusa/InstagramUploader
+749,Lobsters,api,API,Google confirms next Android version won’t use Oracle’s proprietary Java APIs,http://venturebeat.com/2015/12/29/google-confirms-next-android-version-wont-use-oracles-proprietary-java-apis/
+750,Lobsters,api,API,Querying online datasets (reddit and stackoverflow),http://blog.garage-coding.com/2015/12/28/query-online-datasets.html
+751,Lobsters,api,API,An Introduction To OpenResty,http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/
+752,Lobsters,api,API,Integration API vs. Internal API,http://weblog.jamisbuck.org/2015/12/5/integration-api-vs-internal-api.html
+753,Lobsters,api,API,What RESTful actually means,https://codewords.recurse.com/issues/five/what-restful-actually-means
+754,Lobsters,api,API,Microservices Weekly: Weekly Newsletter on microservices news and articles from around the community,http://www.microservicesweekly.com/
+755,Lobsters,api,API,Crawling APIs Using Neo4j - Building The Star Wars Graph,http://www.lyonwj.com/2015/12/14/crawling-public-api-neo4j/
+756,Lobsters,api,API,HL7 Message Format Information,http://www.mexi.be/documents/hl7/httoc.htm
+757,Lobsters,api,API,Paypyrus - physical bills for electronic money transfer with Venmo API & SVGs,https://github.com/cydrobolt/paypyrus
+758,Lobsters,api,API,arg.h - A suckless alternative to getopt(),http://git.suckless.org/sbase/plain/arg.h
+759,Lobsters,api,API,Requests in Batches,http://blog.stylefruits.tech/posts/2015-12-01-requests-in-batches.html
+760,Lobsters,api,API,A Q&A with Dan Gebhardt on JSON API,https://dzone.com/articles/a-qa-with-dan-gebhardt-on-json-api
+761,Lobsters,api,API,Upload files to S3 and generate previews using Laravel,http://jpadilla.com/post/134064167552/upload-files-to-s3-and-generate-previews-using
+762,Lobsters,api,API,Pattern: Backends For Frontends,http://samnewman.io/patterns/architectural/bff/
+763,Lobsters,api,API,The rise of API first applications,http://travistidwell.com/presentations/apifirst/
+764,Lobsters,api,API,Decommissioning a free public API,http://www.cambus.net/decommissioning-a-free-public-api/
+765,Lobsters,api,API,Introducing sd-event,http://0pointer.net/blog/introducing-sd-event.html
+766,Lobsters,api,API,Asynchronous Everything,http://joeduffyblog.com/2015/11/19/asynchronous-everything/
+767,Lobsters,api,API,"How to Build an API in 10 Minutes, with Amazon API Gateway and Lambda",http://readwrite.com/2015/11/16/how-to-build-an-api-amazon-lambda
+768,Lobsters,api,API,Why Kubernetes needs a package manager,https://deis.com/blog/2015/why-kubernetes-needs-helm
+769,Lobsters,api,API,We need less powerful languages,http://lukeplant.me.uk/blog/posts/less-powerful-languages/
+770,Lobsters,api,API,Build a Data Mining Automation Bot Using Node.js & Your Browser,https://franciskim.co/2015/06/23/how-to-data-collection-automation-bot-using-node-js-your-browser/
+771,Lobsters,api,API,Adventures in running a free public API,http://www.cambus.net/adventures-in-running-a-free-public-api/
+772,Lobsters,api,API,What MongoDB got Right,https://blog.nelhage.com/2015/11/what-mongodb-got-right
+773,Lobsters,api,API,Embracing conway's law,https://wingolog.org/archives/2015/11/09/embracing-conways-law
+774,Lobsters,api,API,WP REST API: Merge Proposal,https://make.wordpress.org/core/2015/09/21/wp-rest-api-merge-proposal/
+775,Lobsters,api,API,History of Chat,https://cdn.sameroom.io/chat-timeline.pdf
+776,Lobsters,api,API,"After Combining My API Plans, Pricing, And Rating Research I See Hints Of An API Industry Economic Engine",http://apievangelist.com/2015/10/31/after-combining-my-api-plans-pricing-and-rating-research-i-see-hints-of-an-api-industry-economic-engine/
+777,Lobsters,api,API,Managing [API] Change Behind the Scenes with Continuous Regression Testing,http://blog.runscope.com/posts/managing-change-behind-the-scenes-with-continuous-regression-testing-for-a-seamless-customer-experience
+778,Lobsters,api,API,From OSGi to Jigsaw,http://branchandbound.net/blog/java/2015/10/osgi-to-jigsaw/
+779,Lobsters,api,API,ASCII Art as a Service,https://www.asky.io/
+780,Lobsters,api,API,MemeGen.link: API to generate memes from URLs,https://github.com/jacebrowning/memegen
+781,Lobsters,api,API,Facebook Relay: An Evil And/Or Incompetent Attack On REST,https://www.pandastrike.com/posts/20151015-rest-vs-relay
+782,Lobsters,api,API,The More Things Change,http://bitquabit.com/post/the-more-things-change/
+783,Lobsters,api,API,string interfaces,http://www.tedunangst.com/flak/post/string-interfaces
+784,Lobsters,api,API,Profiling Python in Production: How We Reduced CPU Usage by 80% through Python Profiling,https://nylas.com/blog/performance/
+785,Lobsters,api,API,"MathBox² — ""PowerPoint Must Die""",http://acko.net/blog/mathbox2/
+786,Lobsters,api,API,The Architecture of Open Source Applications (Volume 2): Open MPI,http://aosabook.org/en/openmpi.html
+787,Lobsters,api,API,Clever Cloud releases an API and a CLI tool for its PaaS,https://www.clever-cloud.com/blog/features/2015/09/21/Public-API-available/
+788,Lobsters,api,API,Common API Testing Mistakes,http://blog.runscope.com/posts/6-common-api-testing-mistakes-and-how-to-avoid-them
+789,Lobsters,api,API,I hope WebDAV dies,https://unterwaditzer.net/2015/kill-webdav.html
+790,Lobsters,api,API,How we ended up with microservices.,http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+791,Lobsters,api,API,Diffy: Testing services without writing tests,https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests
+792,Lobsters,api,API,"Resources, Not Data",http://www.windley.com/archives/2015/08/resources_not_data.shtml
+793,Lobsters,api,API,In search of performance - how we shaved 200ms off every POST request,https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/
+794,Lobsters,api,API,"Yes, The Appeals Court Got Basically Everything Wrong In Deciding API's Are Covered By Copyright",https://www.techdirt.com/articles/20150817/11362131983/yes-appeals-court-got-basically-everything-wrong-deciding-apis-are-covered-copyright.shtml
+795,Lobsters,api,API,Practical Insights when Designing an API from Scratch,http://www.infoq.com/presentations/api-design-saasu
+796,Lobsters,api,API,Future JSON API's,http://blog.redradix.com/future-json-apis/
+797,Lobsters,api,API,What software do you use to run your RESTful API?,/s/xav2dr/what_software_do_you_use_run_your_restful
+798,Lobsters,api,API,Snowsuit Zine // issue 08 - The Age of Some Automation,http://snowsuit.io/issue08.html
+799,Lobsters,api,API,Demand-Driven Architecture by Kovas Boguta & David Nolen,http://www.infoq.com/presentations/domain-driven-architecture
+800,Lobsters,api,API,Open Location Code: personal postcodes for anywhere,http://openlocationcode.com/
+801,Lobsters,api,API,Project IceStorm - An Open Source reverse engineered FPGA bitstream tool,http://www.clifford.at/icestorm/
+802,Lobsters,api,API,"a language-neutral, platform-neutral, open source, remote procedure call (RPC) system",http://www.grpc.io/docs/
+803,Lobsters,api,API,Day One with the Amazon API Gateway,https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html
+804,Lobsters,api,API,The Story Behind metahunt.co,http://seb.st/the-story-behind-metahunt/
+805,Lobsters,api,API,Is there any Lobsters API?,/s/rxql4k/is_there_any_lobsters_api
+806,Lobsters,api,API,The Harmful Consequences of Postel's Maxim,https://tools.ietf.org/html/draft-thomson-postel-was-wrong-00
+807,Lobsters,api,API,Writing Microservices in Go,http://nordicapis.com/writing-microservices-in-go/
+808,Lobsters,api,API,Shiva 0.10.0 released,https://github.com/tooxie/shiva-server/releases/tag/v0.10.0
+809,Lobsters,api,API,How to Build a Rails 5 API Only and Ember Application,http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application
+810,Lobsters,api,API,Design of Neovim's New Smart UI Protocol,https://tarruda.github.io/articles/neovim-smart-ui-protocol/
+811,Lobsters,api,API,GraphQL Introduction,http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html
+812,Lobsters,api,API,Should Every Company Consider Providing an API?,http://nordicapis.com/should-every-company-consider-providing-an-api/
+813,Lobsters,api,API,Paw – The ultimate REST client for Mac,https://luckymarmot.com/paw
+814,Lobsters,api,API,Siesta - RESTful Services Made Simple in Go,https://vividcortex.com/blog/2015/06/01/siesta/
+815,Lobsters,api,API,RedditStorage,https://github.com/Rossem/RedditStorage
+816,Lobsters,api,API,JSON Graph: Reactive REST at Netflix,http://www.youtube.com/watch?v=hOE6nVVr14c
+817,Lobsters,api,API,REST: One Thousand Inconsequential Decisions (2012),http://www.brandonbloom.name/blog/2012/02/26/rest-one-thousand-inconsequential-decisions
+818,Lobsters,api,API,"numbers.today – track your daily routine, learn from data.",https://numbers.today
+819,Lobsters,api,API,Pearls of Algebraic Effects and Handlers,http://kcsrk.info/ocaml/multicore/effects/2015/05/27/more-effects/
+820,Lobsters,api,API,Asynchronous IO in OCaml in direct-style (as opposed to CPS or Monadic style) using algebraic effect,https://github.com/kayceesrk/ocaml-eff-example/blob/master/aio.ml
+821,Lobsters,api,API,autoapi - automated api generation from SQL schema,https://git.is-a-dev.com/is-a-dev.com/autoapi
+822,Lobsters,api,API,Impedance (mis)matching,https://medium.com/building-timehop/throughput-impedance-mis-matching-282766cb8828
+823,Lobsters,api,API,Multi-Repository Development,http://googletesting.blogspot.com/2015/05/multi-repository-development.html
+824,Lobsters,api,API,Do you really know why you prefer REST over RPC?,http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/
+825,Lobsters,api,API,Hurl.it,https://www.hurl.it/about
+826,Lobsters,api,API,Beyond Decoupling: The Inherent Virtues of an API,https://www.lullabot.com/blog/article/beyond-decoupling-inherent-virtues-api
+827,Lobsters,api,API,How *not* to secure an HTTP API,/s/poajwf/how_not_secure_http_api
+828,Lobsters,api,API,HTTP Responder: debug and stub webhooks like a pro.,http://httpresponder.com/
+829,Lobsters,api,API,Building HTTP/2 services with gRPC,http://lwn.net/Articles/636129/
+830,Lobsters,api,API,NASA API Catalog,https://data.nasa.gov/developer
+831,Lobsters,api,API,Replacing Absolute Paging and Related Properties,https://www.twilio.com/engineering/2015/04/16/replacing-absolute-paging-with-relative-paging
+832,Lobsters,api,API,A Ruby Periscope API client,https://github.com/gabrielg/periscope_api
+833,Lobsters,api,API,Namespacing Variants in ML,http://keleshev.com/namespacing-variants-in-ml
+834,Lobsters,api,API,How many HTTP status codes should your API use?,https://blogs.dropbox.com/developers/2015/04/how-many-http-status-codes-should-your-api-use/
+835,Lobsters,api,API,Remotely send Chrome and Node.js into infinite loops via this one weird OSX kernel bug,https://blog.sandstorm.io/news/2015-04-08-osx-security-bug.html
+836,Lobsters,api,API,Nameko for Microservices,http://lucumr.pocoo.org/2015/4/8/microservices-with-nameko/
+837,Lobsters,api,API,"HPC is dying, and MPI is killing it",http://dursi.ca/hpc-is-dying-and-mpi-is-killing-it/
+838,Lobsters,api,API,Tracking keywords accross the web,http://blog.superfeedr.com/tracking-feeds/
+839,Lobsters,api,API,Experimenting with HHVM at Etsy,https://codeascraft.com/2015/04/06/experimenting-with-hhvm-at-etsy/
+840,Lobsters,api,API,Simplicity isn't simple,http://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple/
+841,Lobsters,api,API,REST lesson learned: Avoid 204 responses,http://blog.ploeh.dk/2013/04/30/rest-lesson-learned-avoid-204-responses/
+842,Lobsters,api,API,Helium + Webmachine = Airship,http://blog.helium.com/helium/2015/04/01/helium-webmachine-airship.html
+843,Lobsters,api,API,Relational eXpression Map (???),https://bitbucket.org/djarvis/rxm
+844,Lobsters,api,API,Why I Love Basic Auth,http://www.rdegges.com/why-i-love-basic-auth/
+845,Lobsters,api,API,View what people are torrenting all over the world in real time,https://getstrike.net/torrents/live/
+846,Lobsters,api,API,Appdash: open-source Go clone of Google Dapper (for Go & Python app perf tracing),https://sourcegraph.com/sourcegraph/appdash
+847,Lobsters,api,API,HTTP request snippet generator for many languages.,https://github.com/Mashape/httpsnippet
+848,Lobsters,api,API,Decentralization within the Session Layer,https://hackerbots.net/decentralization-within-the-session-layer.html
+849,Lobsters,api,API,DNSChain 0.5 Released: HTTPS + Openname Resolver API + More!,https://blog.okturtles.com/2015/03/dnschain-0-5-released-https-openname-resolver-api-more/
+850,Lobsters,api,API,Who cares about GET vs POST? NoREST!,http://swaxblog.tumblr.com/post/112611863175/who-cares-about-get-vs-post-norest
+851,Lobsters,api,API,"Dropbox starts using POST, and why this is poor API design.",http://evertpot.com/dropbox-post-api/
+852,Lobsters,api,API,Building an OCR server with Python,https://realpython.com/blog/python/setting-up-a-simple-ocr-server/
+853,Lobsters,api,API,Mailpile: More thoughts on working with GnuPG,http://www.mailpile.is/blog/2015-02-26_Revisiting_the_GnuPG_discussion.html
+854,Lobsters,api,API,Pebble Releases SDK 3.0 for Pebble Time Smartwatch,http://developer.getpebble.com/sdk/whats-new/
+855,Lobsters,api,API,ECMAScript 6,http://rauchg.com/2015/ecmascript-6/
+856,Lobsters,api,API,Microservices - an ESB anti-pattern,http://blog.soa.com/microservices-esb-anti-pattern/
+857,Lobsters,api,API,Changes to LinkedIn Developer Program,https://developer.linkedin.com/blog/posts/2015/developer-program-changes
+858,Lobsters,api,API,Haplo - open source platform for information applications,http://haplo.org
+859,Lobsters,api,API,Who fetches our blog feed,http://blog.superfeedr.com/wh-fetches-our-blog-feed/
+860,Lobsters,api,API,"Matrix | Eventually consistent, distributed, persistent data fabric",http://matrix.org/
+861,Lobsters,api,API,Next generation of OpenGL called glNext is being presented at GDC this year by Valve,http://schedule.gdconf.com/session/glnext-the-future-of-high-performance-graphics-presented-by-valve
+862,Lobsters,api,API,Refactor or Fail — How We Rebuilt FullContact from the Ground Up,https://medium.com/programmers-stories/refactor-or-fail-how-we-rebuilt-fullcontact-from-the-ground-up-419ea2675f40
+863,Lobsters,api,API,OpenID Connect,http://openid.net/connect/
+864,Lobsters,api,API,"Where, oh where, does the API key go?",http://www.bizcoder.com/where-oh-where-does-the-api-key-go
+865,Lobsters,api,API,new Mozilla Persona advocacy mailing list,http://librelist.com/browser//persona.advocacy/2015/1/24/the-mozilla-persona-advocacy-mailing-list/
+866,Lobsters,api,API,Moonpig vulnerability,http://www.ifc0nfig.com/moonpig-vulnerability/
+867,Lobsters,api,API,Automatic REST API for any Postgres Database,https://github.com/begriffs/postgrest
+868,Lobsters,api,API,Some Gripes About NaCl,http://www.tedunangst.com/flak/post/some-gripes-about-nacl
+869,Lobsters,api,API,Open Sourcing a Haskell API Server,http://bendyworks.com/haskell-api-server-4/
+870,Lobsters,api,API,"FastMail announces JMAP, an open JSON API for mail",http://blog.fastmail.com/2014/12/23/jmap-a-better-way-to-email/
+871,Lobsters,api,API,Ghost Inspector Joins Runscope on Quest for Better Software,http://blog.runscope.com/posts/ghost-inspector-joins-runscope-on-quest-for-better-software
+872,Lobsters,api,API,"The Unified API for Mobile App, Game and Web Testing",http://testdroid.com/testdroid/8718/the-powerful-api-for-your-mobile-app-game-and-web-testing
+873,Lobsters,api,API,Guarantee Authentication via Haskell's Type System,http://bendyworks.com/authentication-via-haskell/
+874,Lobsters,api,API,Writing a Haskell API Server (Part 2),http://bendyworks.com/haskell-api-server-2/
+875,Lobsters,api,API,API Design Best Practices (series),http://blogs.mulesoft.org/api-best-practices-series-intro/
+876,Lobsters,api,API,Introducing .NET Core,http://blogs.msdn.com/b/dotnet/archive/2014/12/04/introducing-net-core.aspx
+877,Lobsters,api,API,Keeping it Simple: APIs and Sinatra,https://blog.engineyard.com/2014/doing-an-api-mashup-with-sinatra
+878,Lobsters,api,API,Why the data center needs an operating system,http://radar.oreilly.com/2014/12/why-the-data-center-needs-an-operating-system.html
+879,Lobsters,api,API,Habitat – Home Automation for Products You Already Own (my First KS),https://www.kickstarter.com/projects/652024705/habitat-home-automation-for-products-you-already-o
+880,Lobsters,api,API,Ruby API Versioning & Enforcement,http://bendyworks.com/caravan-ruby-api-versioning-enforcement/
+881,Lobsters,api,API,"Versioned, Validated API Server example app",https://github.com/bendyworks/caravan
+882,Lobsters,api,API,Are Your Cache-Control Directives Doing What They Are Supposed to Do?,http://techblog.thescore.com/2014/11/19/are-your-cache-control-directives-doing-what-they-are-supposed-to-do/
+883,Lobsters,api,API,Snowplow 0.9.11 released with support for webhooks,http://snowplowanalytics.com/blog/2014/11/10/snowplow-0.9.11-released-with-webhook-support/
+884,Lobsters,api,API,Building APIs: lessons learned the hard way,https://gocardless.com/blog/building-apis/
+885,Lobsters,api,API,Mesos: The Operating System for Your Cluster,https://www.youtube.com/watch?v=LQxnuPcRl4s
+886,Lobsters,api,API,Building APIs: lessons learned the hard way,https://gocardless.com/blog/lessons-learned-building-apis/
+887,Lobsters,api,API,"Invoke: declare a function on a server, then directly use it in a browser",https://github.com/asvd/invoke
+888,Lobsters,api,API,Transducers Explained: Part 1,http://simplectic.com/blog/2014/transducers-explained-1/
+889,Lobsters,api,API,Designing successful Web app load tests (best practices from Tomás Senart),http://dotgo.sourcegraph.com/post/99636152128/tomas-senart-designing-successful-web-app-load-tests
+890,Lobsters,api,API,Recipe Fiddle - Recipe book generator,http://recipefiddle.com/blog
+891,Lobsters,api,API,"Move fast, don't break your API",http://amberonrails.com/move-fast-dont-break-your-api/
+892,Lobsters,api,API,Rest - Building APIs Easily,https://skillsmatter.com/skillscasts/5403-rest-building-apis-easily
+893,Lobsters,api,API,How to architect a version-less API,http://urthen.github.io/2013/05/16/ways-to-version-your-api-part-2/
+894,Lobsters,api,API,"CppCon 2014: Mike Acton ""Data-Oriented Design and C++"" - YouTube",https://www.youtube.com/watch?v=rX0ItVEVjHc
+895,Lobsters,api,API,Hacking the GMail API - Part 1: Connecting Your Rails App Using OAuth,https://www.twilio.com/blog/2014/09/gmail-api-oauth-rails.html
+896,Lobsters,api,API,Using Services to Keep Your Rails Controllers Clean and DRY,https://blog.engineyard.com/2014/keeping-your-rails-controllers-dry-with-services
+897,Lobsters,api,API,HTTP API design guide extracted from work on the Heroku Platform API,https://github.com/interagent/http-api-design
+898,Lobsters,api,API,A Decentralized API to Personal Information,http://blog.zorinaq.com/?e=76
+899,Lobsters,api,API,Clearly Failing: The Parable Of The Perfect Connection,https://blogs.janestreet.com/clearly-failing/
+900,Lobsters,api,API,Converging API Governance and SOA Governance,http://www.infoq.com/articles/converging-api-soa-governance
+901,Lobsters,api,API,The S in REST,http://teddziuba.github.io/2014/08/18/the-s-in-rest/
+902,Lobsters,api,API,Interview with Adam Ernst on functional approaches for iOS applications,http://www.infoq.com/interviews/adam-ernst-facebook-ios
+903,Lobsters,api,API,Microservices and the First Law of Distributed Objects,http://martinfowler.com/articles/distributed-objects-microservices.html
+904,Lobsters,api,API,The Worst API Ever Made,http://mollyrocket.com/casey/stream_0029.html
+905,Lobsters,api,API,ESPN shutting down its sports API,http://developer.espn.com/blog/read/publicretirement
+906,Lobsters,api,API,What are the top 150 most used Go functions?,https://sourcegraph.com/blog/top-150-most-used-golang-functions
+907,Lobsters,api,API,"Object Lifecycles, birth, childhood, adulthood - Registry Pattern vs Pupa Pattern",/s/taqtai/object_lifecycles_birth_childhood
+908,Lobsters,api,API,Github Buttons,https://github.com/lauris/github-buttons
+909,Lobsters,api,API,A Tour of Transit,http://cognitect.github.io/transit-tour/
+910,Lobsters,api,API,VecTcl - A numerical array extension for Tcl,https://auriocus.github.io/VecTcl/
+911,Lobsters,api,API,3 secrets to build web APIs in Go,https://speakerdeck.com/matt_aimonetti/3-secrets-to-build-web-apis-in-go
+912,Lobsters,api,API,"Google I/O 2014 talk: Building Sourcegraph, a large-scale code search engine in Go",https://sourcegraph.com/blog/google-io-2014-building-sourcegraph-a-large-scale-code-search-engine-in-go
+913,Lobsters,api,API,Principles of designing Go APIs with channels,https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/
+914,Lobsters,api,API,When REST Gets Messy,https://zapier.com/engineering/when-rest-gets-messy/
+915,Lobsters,api,API,California Startup PokitDok Launches Healthcare Price API,http://www.additiveanalytics.com/blog/california-startup-pokitdok-launches-healthcare-price-api/
+916,Lobsters,api,API,Error Handling Styles For API Servers,http://yellerapp.com/posts/2014-06-27-api-error-handling.html
+917,Lobsters,api,API,"Go, REST APIs, and Pointers",https://willnorris.com/2014/05/go-rest-apis-and-pointers
+918,Lobsters,api,API,Web APIs and the n+1 Problem,http://www.infoq.com/articles/N-Plus-1
+919,Lobsters,api,API,How to Create a self hosted API for Local Development,http://www.jeremymorgan.com/blog/programming/how-to-create-asp-self-hosted-api/
+920,Lobsters,api,API,Design and Validation of Protocols,http://user.informatik.uni-goettingen.de/~fu/design_principles.htm
+921,Lobsters,api,API,Distributed Systems and the End of the API,http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/
+922,Lobsters,api,API,Replaying user interactions from keen.io data,http://zoetrope.io/tech-blog/replaying-user-interactions-keenio-data
+923,Lobsters,api,API,An API to generate image previews and metadata for almost any kind of file,http://filepreviews.io/
+924,Lobsters,api,API,High Performance Browser Networking,http://chimera.labs.oreilly.com/books/1230000000545/index.html
+925,Lobsters,api,API,What is an API? [beginner's guide],http://jocellyn.cz/2014/05/01/what-is-api.html
+926,Lobsters,api,API,"Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures designed",http://concurrencykit.org/
+927,Lobsters,api,API,Konfect | Social Network Connection Manager,http://www.konfect.com
+928,Lobsters,api,API,OpenSSL is written by monkeys,https://www.peereboom.us/assl/assl/html/openssl.html
+929,Lobsters,api,API,Analyzing 8 years of my music history with SQL and Last.fm,http://kesdev.com/analyzing-8-years-of-my-music-history-with-sql/
+930,Lobsters,api,API,Speedtest.net interface using Factor,http://re-factor.blogspot.com/2014/04/speedtest.html
+931,Lobsters,api,API,Uploadcare on Social Networks and Cloud Servers Security,http://blog.uploadcare.com/post/81579175736/uploadcare-on-social-networks-and-cloud-servers
+932,Lobsters,api,API,SnowShoe: Create magic with a touch of plastic,http://beta.snowshoestamp.com
+933,Lobsters,api,API,Attach server-side pagination to anything (AngularJS),https://github.com/begriffs/angular-paginate-anything
+934,Lobsters,api,API,OpenWeatherMap free weather API,http://openweathermap.org/API
+935,Lobsters,api,API,"Understanding Practical API Design, Static Typing and Functional Programming",http://blog.tmorris.net/posts/understanding-practical-api-design-static-typing-and-functional-programming/index.html
+936,Lobsters,api,API,How not to write an API,http://ghost.teario.com/how-not-to-write-an-api/
+937,Lobsters,api,API,This Simple Data-Scraping Tool Could Change How Apps Are Made,http://www.wired.com/design/2014/03/kimono/
+938,Lobsters,api,API,Q - A Data Language,http://www.q-lang.io
+939,Lobsters,api,API,Tor Instant Messaging Bundle,https://trac.torproject.org/projects/tor/wiki/org/sponsors/SponsorO/TIMB
+940,Lobsters,api,API,JSON.fr : an online JSON Validator and formatter,http://www.json.fr
+941,Lobsters,api,API,Analytics at GitHub: building the traffic graph and other stats collection systems,http://johnnunemaker.com/analytics-at-github/
+942,Lobsters,api,API,How I was able to track the location of any Tinder user,http://blog.includesecurity.com/2014/02/how-i-was-able-to-track-location-of-any.html
+943,Lobsters,api,API,API Embedded Resources Considered Harmful,http://blog.begriffs.com/2014/02/api-embedded-resources-considered.html
+944,Lobsters,api,API,Making API Errors More Transparent,https://www.twilio.com/engineering/2014/02/05/better-error-messages
+945,Lobsters,api,API,Rethinking Web Development: Non-RESTful APIs,http://www.doxsey.net/blog/rethinking-web-development--non-restful-apis/
+946,Lobsters,api,API,API pagination the way RFC2616 intended it.,https://github.com/begriffs/angular-paginated-resource
+947,Lobsters,api,API,A RESTful Micro-Framework In Go,http://dougblack.io/words/a-restful-micro-framework-in-go.html
+948,Lobsters,api,API,Hypermedia APIs - a session at Øredev (2010),http://oredev.org/2010/sessions/hypermedia-apis
+949,Lobsters,api,API,Hull : social infrastructure for modern apps,http://hull.io
+950,Lobsters,api,API,On the matter of strlcpy/strlcat acceptance by industry,http://marc.info/?l=openbsd-tech&m=138733933417096&w=2
+951,Lobsters,api,API,Host a Personal Data API on Heroku,http://www.longren.org/host-a-personal-api-on-heroku/
+952,Lobsters,api,API,Web API Versioning Smackdown,http://www.mnot.net/blog/2011/10/25/web_api_versioning_smackdown
+953,Lobsters,api,API,Building Hypermedia APIs with HTML,http://www.infoq.com/presentations/web-api-html
+954,Lobsters,api,API,Dylan: Eliminating Copies in C-FFI,http://dylanfoundry.org/2013/12/08/eliminating-copies-in-c-ffi/
+955,Lobsters,api,API,"So, you want to write an HTTP Client",https://www.twilio.com/engineering/2013/11/04/http-client
+956,Lobsters,api,API,Best Practices for Designing a Pragmatic RESTful API,http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+957,Lobsters,api,API,Phillips releases light bulbs with an API,http://www.meethue.com/en-US
+958,Lobsters,api,API,Use gitcanvas to draw with your GitHub history,http://gitcanvas.herokuapp.com/
+959,Lobsters,api,API,DataFart - graph data from the command line,http://datafart.com/
+960,Lobsters,api,API,How to Create a Cloud Service with Windows Azure,http://www.jeremymorgan.com/tutorials/windows-azure/how-to-create-a-cloud-service-with-azure/
+961,Lobsters,api,API,Tesla Model S REST API Authentication Flaws,http://programming.oreilly.com/2013/08/tesla-model-s-rest-api-authentication-flaws.html
+962,Lobsters,api,API,Telize : a JSON IP address geolocation (GeoIP) REST API built on Nginx and Lua,http://www.telize.com
+963,Lobsters,api,API,BitTorrent Protocol Part 1: Torrents and Trackers,http://blog.jeregrine.com/2013/08/18/understanding-bittorrent-torrents-and-trackers.html
+964,Lobsters,api,API,"OAuth is awesome, OAuth is horrible.",http://blog.epanastasi.com/post/56919440376/oauth-is-awesome-oauth-is-horrible
+965,Lobsters,api,API,Persona: A login that matches your site,http://identity.mozilla.com/post/55796551587/persona-a-login-that-matches-your-site
+966,Lobsters,api,API,Web API performance: profiling Django REST framework,http://dabapps.com/blog/api-performance-profiling-django-rest-framework/
+967,Lobsters,api,API,Building an API with Go at Microco.sm,https://speakerdeck.com/mattcottingham/building-an-api-with-go-at-microco-dot-sm
+968,Lobsters,api,API,RRDA : a REST API written in Go allowing to perform DNS queries over HTTP,https://github.com/fcambus/rrda
+969,Lobsters,api,API,Debugging the Stripe API using Runscope,http://blog.epanastasi.com/post/53374577584/debugging-the-stripe-api-using-runscope
+970,Lobsters,api,API,Statically Recompiling NES Games into Native Executables with LLVM and Go,http://andrewkelley.me/post/jamulator.html#custom-abi
+971,Lobsters,api,API,"Show Lobsters: Scalabitz, content discovery through Bit.ly's API",http://branchandbound.net/blog/scala/2013/05/launching-scalabitz
+972,Lobsters,api,API,How to Write Documentation for People That Don't Read [video],http://www.confreaks.com/videos/2468-railsconf2013-how-to-write-documentation-for-people-that-don-t-read
+973,Lobsters,api,API,Indicating Problems in HTTP APIs,http://www.mnot.net/blog/2013/05/15/http_problem
+974,Lobsters,api,API,Google Glass' The Mirror API - How It Works,http://www.i-programmer.info/news/91-hardware/5726-google-glass-the-mirror-api-how-it-works.html
+975,Lobsters,api,API,"Show Lobsters: Yardbase, free and open API of local, community-based data",http://yardbase.org
+976,Lobsters,api,API,Hypermedia API for Industrial Applications,http://projexsys.com/demos/intro/
+977,Lobsters,api,API,Ask Lobsters: What is the general consensus on the best API authentication these days?,/s/widcs3/ask_lobsters_what_is_general_consensus_on
+978,Lobsters,api,API,Multilocation DNS Looking Glass (DNS over HTTP),http://www.dns-lg.com
+979,Lobsters,api,API,"OAuth1, OAuth2, OAuth...?",http://homakov.blogspot.com/2013/03/oauth1-oauth2-oauth.html
+980,Lobsters,api,API,A Guide to Designing API Client Libraries,http://kev.inburke.com/kevin/client-library-design/
+981,Lobsters,api,API,"A Rest DNS API allowing to perform DNS queries over HTTP, outputting JSON",http://www.statdns.com/api/
+982,Lobsters,api,API,Optimizing the Netflix API,http://techblog.netflix.com/2013/01/optimizing-netflix-api.html
+983,Lobsters,api,API,Should HTTP clients include a default user agent?,https://github.com/joyent/node/issues/4552
+984,Lobsters,api,API,Notes on the USE paradigm for API design,http://hjr3.tumblr.com/post/37753764586/notes-on-the-use-paradigm-for-api-design
+985,Lobsters,api,API,How I learned to stop worrying and love REST,http://mikemayo.org/2012/how-i-learned-to-stop-worrying-and-love-rest/
+986,Lobsters,api,API,The Universal Client: Hacking the future of the internet,http://situnayake.tumblr.com/post/36524542808/the-universal-client-hacking-the-future-of-the
+987,Lobsters,api,API,Hypermedia is the new REST,http://static.matthewlmcclure.com/s/2012/11/24/hypermedia-is-the-new-rest.html
+988,Lobsters,api,API,When REST isn't good enough,https://www.braintreepayments.com/braintrust/when-rest-isnt-good-enough
+989,Lobsters,api,API,Using Unicode to play chess over SMS,http://www.twilio.com/engineering/2012/11/08/adventures-in-unicode-sms
+990,Lobsters,api,API,Exploring SQLite Internals Part I: the Virtual Database Engine,http://coderweekly.com/articles/exploring-sqlites-virtual-database-engine.html
+991,Lobsters,api,API,MediaWiki Platform Development: More than Wikipedia,http://robertelwell.info/blog/mediawiki-more-than-wikipedia/
+992,Lobsters,api,API,OAuth 2.0 finalized,http://dickhardt.org/2012/10/oauth-2-0/
+993,Lobsters,api,API,Piping into and out of the cloud with skypipe :: Jeff Lindsay,http://progrium.com/blog/2012/09/30/piping-into-and-out-of-the-cloud-with-skypipe/
+994,Lobsters,api,API,Restful API framework for Flask / MongoEngine,https://github.com/elasticsales/flask-mongorest
+995,Lobsters,api,API,Introducing Gith - GitHub WebHooks For Node,http://weblog.bocoup.com/introducing-gith-github-webhooks-for-node
+996,Lobsters,api,API,Amazon Maps API,http://www.amazonappstoredev.com/2012/09/amazon-maps-api.html
+997,Lobsters,api,API,Binary instrumentation library for QEMU,https://projects.gso.ac.upc.edu/projects/qemu-dbi/wiki
+998,Lobsters,api,API,Stripe Blog: New Recurring Billing Features,https://stripe.com/blog/new-recurring-billing-features
+999,Lobsters,api,API,"RSS in JSON, for real?",http://scripting.com/stories/2012/09/10/rssInJsonForReal.html
+1000,Lobsters,api,API,4chan gets real about software,http://boingboing.net/2012/09/06/4chan-is-getting-real-about-so.html
+1001,Lobsters,api,API,Current status: API v1.1 | Twitter Developers,https://dev.twitter.com/blog/current-status-api-v1.1
+1002,Lobsters,api,API,Lambda Labs Releases Face Recognition API βeta,http://api.lambdal.com/
+1003,Lobsters,api,API,RESTful or not? Here comes trouble! [mca blog],http://amundsen.com/blog/archives/1136
+1004,Lobsters,api,API,OAuth2: One access_token To Rule Them All,http://homakov.blogspot.com/2012/08/oauth2-one-accesstoken-to-rule-them-all.html
+1005,Lobsters,api,API,Google Kills Weather API,http://thenextweb.com/google/2012/08/28/did-google-just-quietly-kill-private-weather-api/
+1006,Lobsters,api,API,Ripping OAuth tokens (or other secrets) out of Twitter clients,http://timetobleed.com/ripping-oauth-tokens-or-other-secrets-out-of-tweetdeck-twitter-app-and-other-apps/
+1007,Lobsters,api,API,Twitter API Changes Set Maximum User Cap for 3rd Parties,http://thenextweb.com/twitter/2012/08/17/twitter-4/

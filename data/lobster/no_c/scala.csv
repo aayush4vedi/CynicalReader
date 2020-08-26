@@ -1,0 +1,394 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,scala,Scala programming,ZIO 1.0 Released,https://ziverge.com/blog/zio-1.0/
+2,Lobsters,scala,Scala programming,Cross-Platform Language Design - Sébastien Doeraene - Ph.D. thesis,http://lampwww.epfl.ch/~doeraene/thesis/
+3,Lobsters,scala,Scala programming,Notifications over Websockets with Http4s and Skunk,http://www.azavea.com/blog/2020/05/20/notifications-over-websockets-with-http4s-and-skunk/
+4,Lobsters,scala,Scala programming,Configuration as Code with Ciris,https://lewisjkl.com/config-as-code/
+5,Lobsters,scala,Scala programming,Lazy sequences in the Scala standard library,https://www.toromtomtom.com/blog/2020/05/16/laziness-in-scala.html
+6,Lobsters,scala,Scala programming,Serializers for Classes in Spark Datasets,https://www.fullcontact.com/blog/2020/04/09/serializers-for-classes-in-datasets/
+7,Lobsters,scala,Scala programming,Functional GraphQL library for Scala,https://ghostdogpr.github.io/caliban/
+8,Lobsters,scala,Scala programming,The Death of Hype: What's Next for Scala,http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html
+9,Lobsters,scala,Scala programming,Cats Effect Ref,https://lewisjkl.com/cats-effect-ref/
+10,Lobsters,scala,Scala programming,Building a Super Easy Rate Limiter with ZIO,https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776
+11,Lobsters,scala,Scala programming,Scala Implicits are Everywhere: A large-scale study of the use of Implicits in the wild (2019),https://arxiv.org/abs/1908.07883
+12,Lobsters,scala,Scala programming,What Could Possibly Go Wrong: Polyglot Party with Nextjournal,https://www.innoq.com/en/blog/what-could-possibly-go-wrong/
+13,Lobsters,scala,Scala programming,"LambdaConf 2020 Call for Proposals: Scala, Haskell, Kotlin, Purescript, Rust, Elm, Elixir, F#",https://lambdaconf.zohobackstage.com/LambdaConf2020#/cfp?lang=en
+14,Lobsters,scala,Scala programming,A Glossary of Functional Programming,http://degoes.net/articles/fp-glossary
+15,Lobsters,scala,Scala programming,Beyond Liskov: Type Safe Equality in Scala,http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html
+16,Lobsters,scala,Scala programming,Require is an Anti-Pattern,https://lewisjkl.com/require-anti-pattern/
+17,Lobsters,scala,Scala programming,Use := for Assignment (Scala 3),https://github.com/lampepfl/dotty/issues/7598
+18,Lobsters,scala,Scala programming,Scala Notes: Case Classes and Case Objects,https://www.jowanza.com/blog/2019/11/17/scala-notes-case-classes-and-case-objects
+19,Lobsters,scala,Scala programming,Working with HTTP in Polynote,https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f
+20,Lobsters,scala,Scala programming,"Unit, Functional, Integration? You are doing it wrong",https://blog.7mind.io/constructive-test-taxonomy.html
+21,Lobsters,scala,Scala programming,Laziness and Streams - Part 2,https://jjmalina.github.io/posts/laziness-and-streams-pt-2/
+22,Lobsters,scala,Scala programming,"sttp — an open-source library with simple, type-safe API for defining HTTP requests",https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762
+23,Lobsters,scala,Scala programming,Kleisli Category — From theory to Cats,https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e
+24,Lobsters,scala,Scala programming,"Scala application lifecycle, from pure Scala to FS2",https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603
+25,Lobsters,scala,Scala programming,How to structure your Scala application?,https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827
+26,Lobsters,scala,Scala programming,ZIO 1.0 Released,https://ziverge.com/blog/zio-1.0/
+27,Lobsters,scala,Scala programming,Cross-Platform Language Design - Sébastien Doeraene - Ph.D. thesis,http://lampwww.epfl.ch/~doeraene/thesis/
+28,Lobsters,scala,Scala programming,Notifications over Websockets with Http4s and Skunk,http://www.azavea.com/blog/2020/05/20/notifications-over-websockets-with-http4s-and-skunk/
+29,Lobsters,scala,Scala programming,Configuration as Code with Ciris,https://lewisjkl.com/config-as-code/
+30,Lobsters,scala,Scala programming,Lazy sequences in the Scala standard library,https://www.toromtomtom.com/blog/2020/05/16/laziness-in-scala.html
+31,Lobsters,scala,Scala programming,Serializers for Classes in Spark Datasets,https://www.fullcontact.com/blog/2020/04/09/serializers-for-classes-in-datasets/
+32,Lobsters,scala,Scala programming,Functional GraphQL library for Scala,https://ghostdogpr.github.io/caliban/
+33,Lobsters,scala,Scala programming,The Death of Hype: What's Next for Scala,http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html
+34,Lobsters,scala,Scala programming,Cats Effect Ref,https://lewisjkl.com/cats-effect-ref/
+35,Lobsters,scala,Scala programming,Building a Super Easy Rate Limiter with ZIO,https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776
+36,Lobsters,scala,Scala programming,Scala Implicits are Everywhere: A large-scale study of the use of Implicits in the wild (2019),https://arxiv.org/abs/1908.07883
+37,Lobsters,scala,Scala programming,What Could Possibly Go Wrong: Polyglot Party with Nextjournal,https://www.innoq.com/en/blog/what-could-possibly-go-wrong/
+38,Lobsters,scala,Scala programming,"LambdaConf 2020 Call for Proposals: Scala, Haskell, Kotlin, Purescript, Rust, Elm, Elixir, F#",https://lambdaconf.zohobackstage.com/LambdaConf2020#/cfp?lang=en
+39,Lobsters,scala,Scala programming,A Glossary of Functional Programming,http://degoes.net/articles/fp-glossary
+40,Lobsters,scala,Scala programming,Beyond Liskov: Type Safe Equality in Scala,http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html
+41,Lobsters,scala,Scala programming,Require is an Anti-Pattern,https://lewisjkl.com/require-anti-pattern/
+42,Lobsters,scala,Scala programming,Use := for Assignment (Scala 3),https://github.com/lampepfl/dotty/issues/7598
+43,Lobsters,scala,Scala programming,Scala Notes: Case Classes and Case Objects,https://www.jowanza.com/blog/2019/11/17/scala-notes-case-classes-and-case-objects
+44,Lobsters,scala,Scala programming,Working with HTTP in Polynote,https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f
+45,Lobsters,scala,Scala programming,"Unit, Functional, Integration? You are doing it wrong",https://blog.7mind.io/constructive-test-taxonomy.html
+46,Lobsters,scala,Scala programming,Laziness and Streams - Part 2,https://jjmalina.github.io/posts/laziness-and-streams-pt-2/
+47,Lobsters,scala,Scala programming,"sttp — an open-source library with simple, type-safe API for defining HTTP requests",https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762
+48,Lobsters,scala,Scala programming,Kleisli Category — From theory to Cats,https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e
+49,Lobsters,scala,Scala programming,"Scala application lifecycle, from pure Scala to FS2",https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603
+50,Lobsters,scala,Scala programming,How to structure your Scala application?,https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827
+51,Lobsters,scala,Scala programming,An open-source Scala library for describing HTTP API endpoints,https://blog.softwaremill.com/an-open-source-scala-library-for-describing-http-api-endpoints-2955dfc929ac
+52,Lobsters,scala,Scala programming,GCP Goodies Part 8— Stackdriver debugging,https://blog.softwaremill.com/gcp-goodies-part-8-stackdriver-debugging-f4a8af6cec14
+53,Lobsters,scala,Scala programming,Websockets in Scala using sttp,https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb
+54,Lobsters,scala,Scala programming,My Way to Scala — part 1,https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a
+55,Lobsters,scala,Scala programming,Monorepo or Multirepo? – Role-Based Repositories,https://blog.7mind.io/role-based-repositories.html
+56,Lobsters,scala,Scala programming,The Hollywood Principle: Functors are Frameworks,https://www.toromtomtom.com/blog/2019/10/01/hollywood.html
+57,Lobsters,scala,Scala programming,sttp2: an overview of proposed changes,https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f
+58,Lobsters,scala,Scala programming,Painlessly passing message context through Akka Streams,https://blog.softwaremill.com/painlessly-passing-message-context-through-akka-streams-1615b11efc2c
+59,Lobsters,scala,Scala programming,"From @Transactional to type-safe, reasonable transactions",https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e
+60,Lobsters,scala,Scala programming,Human-readable case class diffs,https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2
+61,Lobsters,scala,Scala programming,Fixtures in Scala — three simple ways to reduce your test code boilerplate,https://blog.softwaremill.com/fixtures-in-scala-three-simple-ways-to-reduce-your-test-boilerplate-5eb60ffe883
+62,Lobsters,scala,Scala programming,Scala War Stories with Paul Phillips (2013),https://www.youtube.com/watch?v=v1wrWQcqLpo
+63,Lobsters,scala,Scala programming,Functional Scala 2019 — London Edition: A free 2-day conference for all things Scala,https://www.eventbrite.com/e/functional-scala-2019-london-edition-tickets-71645713257
+64,Lobsters,scala,Scala programming,Squeezing extra productivity out of Ammonite Scala REPL,https://blog.softwaremill.com/squeezing-extra-productivity-out-of-ammonite-scala-repl-b4e4001cca07
+65,Lobsters,scala,Scala programming,Easy Parallel Programming with Scala Futures,http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html
+66,Lobsters,scala,Scala programming,CloudState - Towards Serverless 2.0,https://cloudstate.io
+67,Lobsters,scala,Scala programming,dotty scala3 adoption report: easy so far,http://appddeevvmeanderings.blogspot.com/2019/08/scala3-dotty-report-easy-to-adopt.html
+68,Lobsters,scala,Scala programming,Scala Almost Succeeded,https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5
+69,Lobsters,scala,Scala programming,Bootzooka 2019: functional Scala and React,https://blog.softwaremill.com/bootzooka-2019-functional-scala-and-react-3cf8c1a0f1c2
+70,Lobsters,scala,Scala programming,Lightweight runtime reflection for Scala and Scala.js and the uncertain Future of TypeTag in Dotty,https://blog.7mind.io/lightweight-reflection.html
+71,Lobsters,scala,Scala programming,In Defence of (0/:l)(_+_) in Scala (2008),http://rickyclarkson.blogspot.com/2008/01/in-defence-of-0l-in-scala.html
+72,Lobsters,scala,Scala programming,When do you need Akka Cluster?,https://blog.softwaremill.com/when-do-you-need-akka-cluster-5885d43e901b
+73,Lobsters,scala,Scala programming,The lift programming language,https://github.com/lift-project/lift
+74,Lobsters,scala,Scala programming,Functional Highlighting for Functional Programming,https://blog.jetbrains.com/scala/2019/07/02/functional-highlighting-for-functional-programming/
+75,Lobsters,scala,Scala programming,Counting to infinity at compile time,https://medium.com/swlh/counting-to-infinity-at-compile-time-2bbdd6446329
+76,Lobsters,scala,Scala programming,tAPIr’s Endpoint meets ZIO’s IO,https://blog.softwaremill.com/tapirs-endpoint-meets-zio-s-io-3278099c5e10
+77,Lobsters,scala,Scala programming,"Program for Summer BOB Conference (Aug 21, Berlin) is out",https://bobkonf.de/2019-summer/
+78,Lobsters,scala,Scala programming,Thread shifting in cats-effect and ZIO,https://blog.softwaremill.com/thread-shifting-in-cats-effect-and-zio-9c184708067b
+79,Lobsters,scala,Scala programming,"Constraints Liberate, Liberties Constrain (2015)",https://www.youtube.com/watch?v=GqmsQeSzMdw
+80,Lobsters,scala,Scala programming,"Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml",http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
+81,Lobsters,scala,Scala programming,"sttp, curl, request logging and functional programming",https://blog.softwaremill.com/sttp-curl-request-logging-and-functional-programming-7d290ef3b9a0
+82,Lobsters,scala,Scala programming,The Interpreter Pattern Revisited (2015),https://www.youtube.com/watch?v=hmX2s3pe_qk
+83,Lobsters,scala,Scala programming,The Evolution of a Scala Programmer,https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f
+84,Lobsters,scala,Scala programming,Breaking @tailrec,https://jasonfil.wordpress.com/2019/06/06/breaking-tailrec/
+85,Lobsters,scala,Scala programming,Scala 2.13,https://github.com/scala/scala/releases/tag/v2.13.0
+86,Lobsters,scala,Scala programming,6 reasons why not to use Akka Cluster for interservice communication in a microservice architecture,https://blog.softwaremill.com/6-reasons-why-not-to-use-akka-cluster-for-interservice-communication-in-a-microservice-architecture-2736d5223573
+87,Lobsters,scala,Scala programming,"ZIO adds asynchronous stack traces, full execution traces & fiber ancestry traces",https://www.slideshare.net/jdegoes/error-management-future-vs-zio
+88,Lobsters,scala,Scala programming,First Beta Release of an In-Memory Machine Learning Software in Scala,https://picnicml.github.io
+89,Lobsters,scala,Scala programming,"Renaissance Suite, a benchmark suite for the JVM",https://renaissance.dev/
+90,Lobsters,scala,Scala programming,Linkerd's design principles,https://linkerd.io/2019/04/29/linkerd-design-principles/
+91,Lobsters,scala,Scala programming,No More Orphans,https://blog.7mind.io/no-more-orphans.html
+92,Lobsters,scala,Scala programming,Did Functional Programming get it wrong?,https://medium.com/@reinman/monoids-to-groupoids-492c35105113
+93,Lobsters,scala,Scala programming,Scala 2.13.0-RC1,https://github.com/scala/scala/releases/tag/v2.13.0-RC1
+94,Lobsters,scala,Scala programming,Scalar 2019 whiteboard voting results,https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7
+95,Lobsters,scala,Scala programming,38 lines of code towards better data validation in Scala,https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76
+96,Lobsters,scala,Scala programming,Fun with mutually-recursive typeclass resolution,https://medium.com/permutive/fun-with-mutually-recursive-typeclass-resolution-85934995197c
+97,Lobsters,scala,Scala programming,Final Tagless seen alive,https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d
+98,Lobsters,scala,Scala programming,"Beautiful, Simple, Testable Functional Effects for Scala",http://degoes.net/articles/zio-environment
+99,Lobsters,scala,Scala programming,The Death of Tagless-Final,https://skillsmatter.com/skillscasts/13247-scala-matters
+100,Lobsters,scala,Scala programming,Tapir – a Scala library for creating typed API descriptions,https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0
+101,Lobsters,scala,Scala programming,Closing the Gap Between Specification and Programming: VDM++ and Scala,http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF73DD3EB3173C356B7F9C793235CFBA?doi=10.1.1.432.1999&rep=rep1&type=pdf
+102,Lobsters,scala,Scala programming,Scala with Explicit Nulls,https://gist.github.com/abeln/9f79774bac111d99b3ae2cb9016a33e6
+103,Lobsters,scala,Scala programming,"Serverless Model Serving: OpenWhisk, Apache Spark and MLeap",https://www.jowanza.com/blog/2018/11/11/serverless-machine-learning-openwhisk-mleap
+104,Lobsters,scala,Scala programming,Security in Scala: Refined Typed and Object Capabilities,https://wsargent.github.io/ocaps/slides/#1
+105,Lobsters,scala,Scala programming,"Cross-Platform, Language Design",http://lampwww.epfl.ch/~doeraene/thesis/doeraene-thesis-2018-cross-platform-language-design.pdf
+106,Lobsters,scala,Scala programming,CoSMeDis: Distributed Social Media with Formally-Verified Confidentiality,https://www.ieee-security.org/TC/SP2017/papers/201.pdf
+107,Lobsters,scala,Scala programming,Concurrent Data Representation Synthesis (2012),http://cse.iitd.ernet.in/~sbansal/csl862-soft/readings/concurrent_data_representation_synthesis.pdf
+108,Lobsters,scala,Scala programming,Exploring Tagless Final pattern for extensive and readable Scala code (2017),https://blog.scalac.io/exploring-tagless-final.html
+109,Lobsters,scala,Scala programming,Scala Programming - A Skeptic's Journey,https://www.skedulo.com/tech-blog/technology-scala-programming/
+110,Lobsters,scala,Scala programming,Functional Programming for Mortals,https://leanpub.com/fpmortals/read
+111,Lobsters,scala,Scala programming,Futures in Scala 2.12 (part 2): Missing canonical combinators: zipWith,http://viktorklang.com/blog/Futures-in-Scala-2.12-part-2.html
+112,Lobsters,scala,Scala programming,Imitating Scala Futures with Go channels (in Go and Clojure),http://tindaloscode.blogspot.com/2017/03/imitating-scala-futures-with-go.html
+113,Lobsters,scala,Scala programming,Futures in Scala 2.12 (part 1): Missing canonical combinators: flatten,http://viktorklang.com/blog/Futures-in-Scala-2.12-part-1.html
+114,Lobsters,scala,Scala programming,"""Scala 3 as a new Programming Language"" – departure of yet another Scala contributor",https://medium.com/@fommil/scala-3-considered-as-a-new-programming-language-a335ff67e075
+115,Lobsters,scala,Scala programming,Your Server as a Function (2013),https://monkey.org/~marius/funsrv.pdf
+116,Lobsters,scala,Scala programming,Rolling Your Own Monad To Deal With Nested Monads In Scala,http://www.geekabyte.io/2018/07/rolling-your-own-monad-to-deal-with.html
+117,Lobsters,scala,Scala programming,The Last Hope for Scala's Infinity War,https://www.youtube.com/watch?v=v8IQ-X2HkGE
+118,Lobsters,scala,Scala programming,Introducing Accessible Scala,https://www.scala-lang.org/blog/2018/06/14/accessible-scala.html
+119,Lobsters,scala,Scala programming,"Comparing Languages for Engineering Server Software: Erlang, Go, and Scala with Akka",http://www.dcs.gla.ac.uk/~trinder/papers/sac-18.pdf
+120,Lobsters,scala,Scala programming,Thoughts On Working With Nested Monad Within The Future Monad In Scala,http://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html
+121,Lobsters,scala,Scala programming,Bifunctor IO: A Step Away from Dynamically-Typed Error Handling,http://degoes.net/articles/bifunctor-io
+122,Lobsters,scala,Scala programming,EvilPlot — A combinator based plotting library for Scala,https://medium.com/@CiboEng/evilplot-a-combinator-based-plotting-library-for-scala-4531f00208
+123,Lobsters,scala,Scala programming,Towards Scala 3,http://www.scala-lang.org/blog/2018/04/19/scala-3.html
+124,Lobsters,scala,Scala programming,Design and Implementation of Optimizing Type-centric Compiler for High-Level Language (2017),https://infoscience.epfl.ch/record/232671/files/EPFL_TH7979.pdf?version=1
+125,Lobsters,scala,Scala programming,Scala Native 0.3.7 released,https://github.com/scala-native/scala-native/releases/tag/v0.3.7
+126,Lobsters,scala,Scala programming,Unifying Analytic and Statically-Typed Quasiquotes,https://infoscience.epfl.ch/record/232427/files/[v.2.10]%20qq_unif_popl18.pdf
+127,Lobsters,scala,Scala programming,Helper code to mimic Clojure fns in Scala,http://www.elangocheran.com/blog/2018/03/helper-code-to-mimic-clojure-fns-in-scala/
+128,Lobsters,scala,Scala programming,LMS-Verify: Abstraction without Regret for Verified Systems Programming (2017),http://lampwww.epfl.ch/~amin/pub/lms-verify.pdf
+129,Lobsters,scala,Scala programming,"Squid: Type-Safe, Hygienic, and Reusable Quasiquotes (2017)",https://infoscience.epfl.ch/record/231700/files/scala17main-scala17main16-p-bdc7425-34084-final.pdf
+130,Lobsters,scala,Scala programming,Beginning Functional Programming,https://www.grokacademy.com/lessons/beginning-functional-programming/
+131,Lobsters,scala,Scala programming,Rocking Functional Combinators,https://www.grokacademy.com/lessons/rocking-functional-combinators/
+132,Lobsters,scala,Scala programming,"Isolated Actors for Race-free, Concurrent Programming (2010)",https://infoscience.epfl.ch/record/151999/files/EPFL_TH4874.pdf
+133,Lobsters,scala,Scala programming,Typesafe Abstractions for Tensor Operations (2017),https://www.cs.jhu.edu/~tongfei/paper/17-typesafe-tensors.pdf
+134,Lobsters,scala,Scala programming,In Defense of OOFP,https://alexn.org/blog/2018/02/12/in-defense-oofp.html
+135,Lobsters,scala,Scala programming,Humble Book Bundle: Functional Programming,https://www.humblebundle.com/books/functional-programming-books
+136,Lobsters,scala,Scala programming,When types are eating away your sanity,http://narkisr.com/posts/04-02-2018-types-mismatch/
+137,Lobsters,scala,Scala programming,Unification of Compile-Time and Runtime Metaprogramming in Scala (2017),https://infoscience.epfl.ch/record/226166/files/EPFL_TH7159.pdf
+138,Lobsters,scala,Scala programming,Genetic Programming + Proof Search = Automatic Improvement (2015),https://link.springer.com/content/pdf/10.1007%2Fs10817-017-9409-5.pdf
+139,Lobsters,scala,Scala programming,LambdaConf 2018: Call for Proposals,https://lambdaconf2018.dryfta.com/en/abstract-submission
+140,Lobsters,scala,Scala programming,Stainless Scala - verification framework,https://github.com/epfl-lara/stainless
+141,Lobsters,scala,Scala programming,Reducing Microservice Complexity with Kafka and Reactive Streams,https://www.youtube.com/watch?v=k_Y5ieFHGbs
+142,Lobsters,scala,Scala programming,Scala at Duolingo with Andre Kenji Horie,https://softwareengineeringdaily.com/2017/12/14/scala-at-duolingo-with-andre-kenji-horie/
+143,Lobsters,scala,Scala programming,"Constraints are for methods, not data",https://brianmckenna.org/blog/constraints_are_for_methods
+144,Lobsters,scala,Scala programming,"So, what's wrong with SBT?",http://www.lihaoyi.com/post/SowhatswrongwithSBT.html
+145,Lobsters,scala,Scala programming,Effekt: Extensible Algebraic Effects in Scala,http://files.b-studios.de/effekt.pdf
+146,Lobsters,scala,Scala programming,Bootstrapping the Web with Scala Native (Part 1),http://www.spantree.net/blog/2017/08/29/bootstrapping-web-scala-native.html
+147,Lobsters,scala,Scala programming,Tour of Eta,https://tour.eta-lang.org/
+148,Lobsters,scala,Scala programming,Why I'm Excited About Scalaz 8,http://degoes.net/articles/scalaz8-is-the-future
+149,Lobsters,scala,Scala programming,Rise and fall of JVM languages,https://blog.frankel.ch/rise-fall-jvm-languages/
+150,Lobsters,scala,Scala programming,"Domain models, Algebraic laws and Unit tests",http://debasishg.blogspot.com/2017/06/domain-models-algebraic-laws-and-unit.html
+151,Lobsters,scala,Scala programming,Twitter forks Scala,https://github.com/twitter/reasonable-scala
+152,Lobsters,scala,Scala programming,sbt 1.0.0,http://www.scala-sbt.org/1.0/docs/sbt-1.0-Release-Notes.html
+153,Lobsters,scala,Scala programming,Integrating Eta into your Scala projects,https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0
+154,Lobsters,scala,Scala programming,"Scala Vector operations aren't ""Effectively Constant"" time",http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html
+155,Lobsters,scala,Scala programming,Stackless Function Composition,https://mpilquist.github.io/blog/2017/03/11/stackless-function-composition/
+156,Lobsters,scala,Scala programming,Scala Design Success: Generics,http://soc.github.io/lessons-learned/generics.html
+157,Lobsters,scala,Scala programming,Extending Safe C Support in Leon (2017),https://infoscience.epfl.ch/record/227942/files/Extending%20Safe%20C%20Support%20In%20Leon.pdf
+158,Lobsters,scala,Scala programming,Using cats with reactive-kafka,http://www.iravid.com/posts/using-cats-with-reactive-kafka.html
+159,Lobsters,scala,Scala programming,What the heck is a parser-combinator?,http://www.kimpel.com/2017/02/28/what-the-heck-is-a-parser-combinator/
+160,Lobsters,scala,Scala programming,Underscore open-sourced all their Scala books,http://underscore.io/books/
+161,Lobsters,scala,Scala programming,"Announcing Dotty 0.1.2-RC1, a major step towards Scala 3",http://www.scala-lang.org/blog/2017/05/31/first-dotty-milestone-release.html
+162,Lobsters,scala,Scala programming,Scala: Tribulations of CanBuildFrom,http://www.scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html
+163,Lobsters,scala,Scala programming,Rust: A Scala Engineer's Perspective,https://beachape.com/blog/2017/05/24/rust-from-scala/
+164,Lobsters,scala,Scala programming,Warts of the Scala Programming Language,http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
+165,Lobsters,scala,Scala programming,Leaving Scala After Six Years of Development,http://soc.github.io/six-years-of-scala-development/departure.html
+166,Lobsters,scala,Scala programming,Scala Design Failure: Implicit Numeric Conversions,http://soc.github.io/lessons-learned/implicit-numeric-conversions.html
+167,Lobsters,scala,Scala programming,When the Scala compiler doesn't help,http://latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help/
+168,Lobsters,scala,Scala programming,Introduction to programming with dependent types in Scala,https://stepik.org/course/ThCS-Introduction-to-programming-with-dependent-types-in-Scala-2294/
+169,Lobsters,scala,Scala programming,Building Scala Projects: Maven vs. SBT,http://www.hammerlab.org/2017/04/06/scala-build-tools/
+170,Lobsters,scala,Scala programming,There are more types than classes,http://typelevel.org/blog/2017/02/13/more-types-than-classes.html
+171,Lobsters,scala,Scala programming,Scala Native v0.1 is here!,https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html
+172,Lobsters,scala,Scala programming,"Contraband, an alternative to case class",http://eed3si9n.com/contraband-an-alternative-to-case-class
+173,Lobsters,scala,Scala programming,LambdaConf Winter Retreat Videos Released,/s/hbuhgh/lambdaconf_winter_retreat_videos
+174,Lobsters,scala,Scala programming,The myth of using Scala as a better Java,http://appliedscala.com/blog/2017/myth-of-scala-as-better-java/
+175,Lobsters,scala,Scala programming,Scala Collections: Why Not? (2014),https://www.youtube.com/watch?v=uiJycy6dFSQ
+176,Lobsters,scala,Scala programming,CodaHale email to Martin Odersky about Scala (2011),https://codahale.com/downloads/email-to-donald.txt
+177,Lobsters,scala,Scala programming,Rewriting Duolingo's engine in Scala,http://making.duolingo.com/rewriting-duolingos-engine-in-scala
+178,Lobsters,scala,Scala programming,There's Immutable And Then There's Immutable,http://blog.jenkster.com/2017/01/theres-immutable-and-then-theres-immutable.html
+179,Lobsters,scala,Scala programming,"Making the move from Scala to Go, and why we're not going back",https://movio.co/blog/migrate-Scala-to-Go/
+180,Lobsters,scala,Scala programming,Becoming More Functional,http://m50d.github.io/2017/01/23/becoming-more-functional.html
+181,Lobsters,scala,Scala programming,Compiling Scala For Performance (2010),https://infoscience.epfl.ch/record/150270/files/EPFL_TH4820.pdf
+182,Lobsters,scala,Scala programming,A Beginner-Friendly Tour through Functional Programming in Scala,http://degoes.net/articles/easy-monads
+183,Lobsters,scala,Scala programming,The Man Who Knew Infinity: Coding Ramanujan’s Taxi,https://medium.freecodecamp.com/the-man-who-knew-infinity-coding-ramanujans-taxi-52e4c3696e53
+184,Lobsters,scala,Scala programming,Experiment using Scala code for configuration - didn't quite work,http://robey.lag.net/2012/03/26/why-config.html
+185,Lobsters,scala,Scala programming,Introducing the Scala Platform Process,http://www.scala-lang.org/blog/2016/11/28/spp.html
+186,Lobsters,scala,Scala programming,Typelevel in 2016,https://www.youtube.com/watch?v=ZSbn3XMg6oQ
+187,Lobsters,scala,Scala programming,The Neophyte's Guide to Scala Part 11: Currying and partially applied functions,http://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html
+188,Lobsters,scala,Scala programming,Java and Scala's Type Systems are Unsound,http://io.livecode.ch/learn/namin/unsound
+189,Lobsters,scala,Scala programming,Scala 2.12 – extended release notes,http://get-scala.org/2.12
+190,Lobsters,scala,Scala programming,"""Why I quit working on Scala documentation""",https://groups.google.com/d/msg/scala-internals/r2GnzCFc3TY/x3PmIq4cAgAJ
+191,Lobsters,scala,Scala programming,Subtype type classes don't work,http://typelevel.org/blog/2016/09/30/subtype-typeclasses.html
+192,Lobsters,scala,Scala programming,Modern Functional Programming: Part 2,http://degoes.net/articles/modern-fp-part-2
+193,Lobsters,scala,Scala programming,"Compose Conference Melbourne, 2016",https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5
+194,Lobsters,scala,Scala programming,From first principles: Why I bet on Scala.js,http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html
+195,Lobsters,scala,Scala programming,Comparing Scala to F#,http://mikhail.io/2016/08/comparing-scala-to-fsharp/
+196,Lobsters,scala,Scala programming,Practical Limitations of Scala,https://www.youtube.com/watch?v=hzf3hTUKk8U
+197,Lobsters,scala,Scala programming,"Martin Odersky, Spark -- the Ultimate Scala Collections",https://www.youtube.com/watch?v=NW5h8d_ZyOs
+198,Lobsters,scala,Scala programming,Dotty - A next generation compiler for Scala,http://dotty.epfl.ch/
+199,Lobsters,scala,Scala programming,"Understand and implement laziness with examples in Scala, JavaScript, Swift and Racket",http://matt.might.net/articles/implementing-laziness/
+200,Lobsters,scala,Scala programming,Parallel Programming,https://www.coursera.org/learn/parprog1/
+201,Lobsters,scala,Scala programming,"Freek, a freaky simple Free to combine your DSL seamlessly",https://github.com/ProjectSeptemberInc/freek
+202,Lobsters,scala,Scala programming,Scala-native,https://github.com/scala-native/scala-native
+203,Lobsters,scala,Scala programming,Odersky: Scala – The Road Ahead,http://www.slideshare.net/Odersky/scala-days-nyc-2016
+204,Lobsters,scala,Scala programming,Linearizability Testing Manual,http://www.cs.ox.ac.uk/people/gavin.lowe/LinearizabiltyTesting/manual.pdf
+205,Lobsters,scala,Scala programming,Strategic Scala Style: Practical Type Safety,http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html
+206,Lobsters,scala,Scala programming,Scala vs. Node.js as a RESTful backend server,http://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/
+207,Lobsters,scala,Scala programming,"Scala Native coming ""soon""",http://www.scala-native.org/
+208,Lobsters,scala,Scala programming,Scala-bility: Scala.js and React: Building an Application for the Web,http://scala-bility.blogspot.com/2015/05/scalajs-and-react-building-application.html
+209,Lobsters,scala,Scala programming,Scala API for Google Cloud Dataflow,https://github.com/spotify/scio
+210,Lobsters,scala,Scala programming,Scala.js is Important for Cloud Services,http://underscore.io/blog/posts/2016/03/21/serverless-scale-summit.html
+211,Lobsters,scala,Scala programming,How Many Websites Provide RSS / Web Syndication Feeds,https://vhf.github.io/blog/2016/03/21/rss-usage-on-the-web/
+212,Lobsters,scala,Scala programming,Publishing scala.js libraries on Sonatype,https://www.querki.net/u/jducoeur/scala-notes/#!Creating-a-Scalajs-Open-Source-Project
+213,Lobsters,scala,Scala programming,Getting into Scaladoc Development,http://www.scala-lang.org/blog/2016/03/17/getting-into-scaladoc-dev.html
+214,Lobsters,scala,Scala programming,Announcing Scala.js 0.6.8,https://www.scala-js.org/news/2016/03/18/announcing-scalajs-0.6.8/
+215,Lobsters,scala,Scala programming,Scala.js for large and complex frontend apps,https://www.youtube.com/watch?v=NPWDKEQLjpI
+216,Lobsters,scala,Scala programming,Announcing The Scala Center,http://www.scala-lang.org/blog/2016/03/14/announcing-the-scala-center.html
+217,Lobsters,scala,Scala programming,[Survey] Functional Programming Paradigm,http://goo.gl/forms/rkOshVDDZE
+218,Lobsters,scala,Scala programming,Deploy Playframework (Play!) to AWS Elastic Beanstalk with Jenkins,https://www.davemaple.com/articles/deploy-playframework-elastic-beanstalk-jenkins/
+219,Lobsters,scala,Scala programming,Scala interactive types map,http://ruivieira.org/blog/post/5
+220,Lobsters,scala,Scala programming,Scala+LLVM,http://greedy.github.io/scala-llvm/
+221,Lobsters,scala,Scala programming,Getting started with Shapeless,http://jto.github.io/articles/getting-started-with-shapeless/
+222,Lobsters,scala,Scala programming,"Of Algebirds, Monoids, Monads, and other Bestiary for Large-Scale Data Analytics (2013)",http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/
+223,Lobsters,scala,Scala programming,Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird,https://www.youtube.com/watch?v=_-I_X-k3D8A
+224,Lobsters,scala,Scala programming,Martin Odersky: Scala in 2016,http://files.meetup.com/18712511/Scala2016.pdf
+225,Lobsters,scala,Scala programming,Pipe |> Operator in Scala,https://medium.com/@anicolaspp/operator-in-scala-cbca7b939fc0
+226,Lobsters,scala,Scala programming,ScalaDays schedule hints at upcoming native backend including AOT compiler and runtime for Scala,http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7571
+227,Lobsters,scala,Scala programming,Martin Odersky: Scaling DOT to Scala – Soundness,http://scala-lang.org/blog/2016/02/17/scaling-dot-soundness.html
+228,Lobsters,scala,Scala programming,Type all the things!,http://jto.github.io/articles/type-all-the-things/
+229,Lobsters,scala,Scala programming,"A Small, Nice Thing",http://codahale.com/a-small-nice-thing/
+230,Lobsters,scala,Scala programming,Talk Proposals for the Northeast Scala Symposium 2016,https://github.com/nescalas/proposals-2016
+231,Lobsters,scala,Scala programming,LambdaConf 2015,https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS
+232,Lobsters,scala,Scala programming,A Modern Architecture for FP,http://degoes.net/articles/modern-fp/
+233,Lobsters,scala,Scala programming,Puzzle to unlock all LambdaConf 2015 videos on functional programming,https://twitter.com/lambda_conf/status/679031128284467200
+234,Lobsters,scala,Scala programming,Moving a team from Scala to Golang,http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/
+235,Lobsters,scala,Scala programming,Rock-solid Shell Scripting in Scala,https://vimeo.com/148552858
+236,Lobsters,scala,Scala programming,Quill: Compile-time Language Integrated Query for Scala,http://getquill.io/
+237,Lobsters,scala,Scala programming,Introduction to Property-based Testing using ScalaCheck,https://blog.codecentric.de/en/2015/11/introduction-to-property-based-testing-using-scalacheck-2/
+238,Lobsters,scala,Scala programming,An asynchronous programming facility for Scala,https://github.com/scala/async
+239,Lobsters,scala,Scala programming,"Scala's Creator Odersky: Proposal to Add Records to Dotty, the Next-Gen Scala Compiler",https://github.com/lampepfl/dotty/issues/964
+240,Lobsters,scala,Scala programming,Call for Presentations: Compose 2016,https://mail.haskell.org/pipermail/haskell-cafe/2015-November/122245.html
+241,Lobsters,scala,Scala programming,My Five Years of Scala,http://m50d.github.io/2015/11/16/my-five-years.html
+242,Lobsters,scala,Scala programming,5 years of Scala and Counting – Debunking some myths about the language and its environment,http://manuel.bernhardt.io/2015/11/13/5-years-of-scala-and-counting-debunking-some-myths-about-the-language-and-its-environment/
+243,Lobsters,scala,Scala programming,Beginners Guide: Apache Spark Machine Learning,http://fullstackml.com/2015/10/29/beginners-guide-apache-spark-machine-learning-scenario-with-a-large-input-dataset/
+244,Lobsters,scala,Scala programming,Dotty Compiler for Scala Bootstraps,https://github.com/lampepfl/dotty/blob/master/docs/2015-10-23-dotty-compiler-bootstraps.md
+245,Lobsters,scala,Scala programming,What Haskell can learn from Scala,https://skillsmatter.com/skillscasts/6592-what-haskell-can-learn-from-scala
+246,Lobsters,scala,Scala programming,Akka without the Actors,http://eng.localytics.com/akka-streams-akka-without-the-actors/
+247,Lobsters,scala,Scala programming,Review of Scala Static Analysis Tools,http://blog.codacy.com/2015/10/02/review-of-scala-static-analysis-tools/
+248,Lobsters,scala,Scala programming,Scala Creator Martin Odersky: Strawman Proposals for New Collections Architecture Wanted,https://github.com/lampepfl/dotty/issues/818
+249,Lobsters,scala,Scala programming,We're Doing It All Wrong (2013),http://www.youtube.com/watch?v=TS1lpKBMkgg
+250,Lobsters,scala,Scala programming,"Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.",http://www.gigamonkeys.com/flowers/
+251,Lobsters,scala,Scala programming,Learn implicits: Type classes,http://engineering.monsanto.com/2015/09/23/implicits-typeclasses/
+252,Lobsters,scala,Scala programming,A millisecond isn't fast,http://jvns.ca/blog/2015/09/10/a-millisecond-isnt-fast-and-how-we-fixed-it/
+253,Lobsters,scala,Scala programming,"Ammonite-Shell, a shell running on the JVM",http://lihaoyi.github.io/Ammonite/#Ammonite-Shell
+254,Lobsters,scala,Scala programming,spm - Scala Package Manager,https://github.com/FGRibreau/spm
+255,Lobsters,scala,Scala programming,MCMC notifications,http://ruivieira.org/blog/post/3
+256,Lobsters,scala,Scala programming,"Automated reasoning in F#, Scala, Haskell, C++, and Julia",https://phdp.github.io/posts/2015-04-05-automated-reasoning.html
+257,Lobsters,scala,Scala programming,Testing without mocking in Scala,http://engineering.monsanto.com/2015/07/28/avoiding-mocks/
+258,Lobsters,scala,Scala programming,Optimistic Future Composition,http://semisafe.com/coding/2015/07/14/play_basics_optimistic_future_composition.html
+259,Lobsters,scala,Scala programming,Managing concurrent state with Akka and Play,http://semisafe.com/coding/2015/06/22/play_basics_async_futures_and_actors.html
+260,Lobsters,scala,Scala programming,Easy Performance Wins With Scalaz,http://runarorama.github.com/blog/2015/06/18/easy-performance-wins-with-scalaz/
+261,Lobsters,scala,Scala programming,Writing AWS Lambda Functions in Scala,https://aws.amazon.com/blogs/compute/writing-aws-lambda-functions-in-scala/
+262,Lobsters,scala,Scala programming,Scala School,https://twitter.github.io/scala_school/
+263,Lobsters,scala,Scala programming,Learning Slick 3.0 and Evolutions with Play Framework 2.4,http://semisafe.com/coding/2015/06/12/play_basics_database_access.html
+264,Lobsters,scala,Scala programming,Everything You Ever Wanted to Know About Sealed Traits in Scala,http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html
+265,Lobsters,scala,Scala programming,First experiments with Apache Spark at Snowplow,http://snowplowanalytics.com/blog/2015/05/21/first-experiments-with-apache-spark/
+266,Lobsters,scala,Scala programming,Indiegogo: Record All LambdaConf 2015 Talks,https://www.indiegogo.com/projects/record-all-lambdaconf-2015-talks
+267,Lobsters,scala,Scala programming,Effects,http://m50d.github.io/2015/04/21/effects.html
+268,Lobsters,scala,Scala programming,Introduction to scalaz-stream,https://gist.github.com/djspiewak/d93a9c4983f63721c41c
+269,Lobsters,scala,Scala programming,"Scala: Where it came from, Where it's going",http://www.slideshare.net/Odersky/scala-days-san-francisco-45917092
+270,Lobsters,scala,Scala programming,Verified TimSort Sketch,http://m50d.github.io/2015/03/01/verified-timsort-sketch.html
+271,Lobsters,scala,Scala programming,16 Months of Functional Programming,http://www.vasinov.com/blog/16-months-of-functional-programming/
+272,Lobsters,scala,Scala programming,Scala.js no longer experimental!,http://scala-lang.org/news/2015/02/05/scala-js-no-longer-experimental.html
+273,Lobsters,scala,Scala programming,First C# 7 Design Notes,https://github.com/dotnet/roslyn/issues/98
+274,Lobsters,scala,Scala programming,"Early bird registration opens for LambdaConf 2015 (May 22 - 24, Boulder CO)",http://degoesconsulting.com/lambdaconf-2015
+275,Lobsters,scala,Scala programming,PayPal Scala Style Guidelines,https://github.com/paypal/scala-style-guide/blob/develop/README.md
+276,Lobsters,scala,Scala programming,On Currying and Partial Function Application,http://www.vasinov.com/blog/on-currying-and-partial-function-application/
+277,Lobsters,scala,Scala programming,Remotely is a purely functional remoting library for reasonable people,http://oncue.github.io/remotely/
+278,Lobsters,scala,Scala programming,Reactive Streams v1.0.0.RC1 release,https://github.com/reactive-streams/reactive-streams/blob/v1.0.0.RC1/README.md
+279,Lobsters,scala,Scala programming,wrote a lobste.rs twitter bot that tweets stories with score greater than 10,https://twitter.com/lobstersbot
+280,Lobsters,scala,Scala programming,Scala: the global ExecutionContext makes your life easier,http://blog.jessitron.com/2014/02/scala-global-executioncontext-makes.html
+281,Lobsters,scala,Scala programming,ScalaZ - Getting to grips with the Free Monad,http://polygonalhell.blogspot.com/2014/12/scalaz-getting-to-grips-free-monad.html
+282,Lobsters,scala,Scala programming,Systems Programming at Twitter,http://monkey.org/~marius/talks/twittersystems/#1
+283,Lobsters,scala,Scala programming,"LambdaConf, May 22-24: Call for Proposals Now Open",http://degoesconsulting.com/lambdaconf-2015/
+284,Lobsters,scala,Scala programming,An example of functional design,http://futurice.com/blog/an-example-of-functional-design
+285,Lobsters,scala,Scala programming,A farewell note to a programming language,http://matthiasnehlsen.com/blog/2014/12/04/Farewell-Scala/
+286,Lobsters,scala,Scala programming,Effective Scala,http://twitter.github.io/effectivescala/
+287,Lobsters,scala,Scala programming,Scala OOP Galore,http://www.vasinov.com/blog/scala-oop-galore/
+288,Lobsters,scala,Scala programming,Operating Apache Samza at Scale,http://engineering.linkedin.com/samza/operating-apache-samza-scale
+289,Lobsters,scala,Scala programming,Colossus: I/O and Microservice library for Scala,http://tumblr.github.io/colossus/
+290,Lobsters,scala,Scala programming,colossus - I/O and Microservice library,https://github.com/tumblr/colossus
+291,Lobsters,scala,Scala programming,Type-safe transducers in Clojure. And Scala. And Haskell.,http://blog.podsnap.com/ducers2.html
+292,Lobsters,scala,Scala programming,Letting Curry-Howard Code for Me,http://io.pellucid.com/blog/letting-curry-howard-code-for-me
+293,Lobsters,scala,Scala programming,Reactive Streams & Akka HTTP: Connect to the World,http://spray.io/msug/#/
+294,Lobsters,scala,Scala programming,"Talk by @tixxit about Framian, a Scala library for ""small data""",http://io.pellucid.com/blog/manipulating-data-with-framian
+295,Lobsters,scala,Scala programming,Thoughts On Five Years of Emerging Languages,https://al3x.net/2014/09/16/thoughts-on-five-years-of-emerging-languages.html
+296,Lobsters,scala,Scala programming,Everything I Ever Learned about JVM Performance Tuning @twitter,http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter
+297,Lobsters,scala,Scala programming,Paul P's fork of scala,https://github.com/paulp/policy
+298,Lobsters,scala,Scala programming,Scala Implicits : Type Classes Here I Come,http://debasishg.blogspot.se/2010/06/scala-implicits-type-classes-here-i.html
+299,Lobsters,scala,Scala programming,Typesafe’s Commitment to the Scala Ecosystem,http://typesafe.com/blog/typesafes-commitment-to-the-scala-ecosystem
+300,Lobsters,scala,Scala programming,Typelevel Scala and the future of the Scala ecosystem,http://typelevel.org/blog/2014/09/02/typelevel-scala.html
+301,Lobsters,scala,Scala programming,Why Datazenit went Reactive,https://typesafe.com/blog/code-size-is-down-performance-is-up--why-datazenit-went-reactive-
+302,Lobsters,scala,Scala programming,Awesome Scala,http://lauris.github.io/scala/2014/08/27/awesome-scala/
+303,Lobsters,scala,Scala programming,Guide to Dependency Injection in Scala,http://di-in-scala.github.io/
+304,Lobsters,scala,Scala programming,"Scala's Either, Try and the M word",http://mauricio.github.io/2014/02/17/scala-either-try-and-the-m-word.html
+305,Lobsters,scala,Scala programming,Scala in Vim,http://lauris.github.io/vim/2014/08/21/scala-in-vim/
+306,Lobsters,scala,Scala programming,A URL shortener service in 45 lines of Scala,http://grasswire-engineering.tumblr.com/post/94043813041/a-url-shortener-service-in-45-lines-of-scala
+307,Lobsters,scala,Scala programming,George Orwell’s six rules for Scala programmers,http://hilton.org.uk/blog/george-orwell-rules-scala
+308,Lobsters,scala,Scala programming,Scala’s Modular Roots,http://blog.pellucid.com/post/94532532890/scalas-modular-roots-by-dan-james-earlier-this
+309,Lobsters,scala,Scala programming,"Types of `map` function in Haskell, Scala, and Clojure",http://missingfaktor.blogspot.de/2014/08/types-of-map-function-in-haskell-scala.html
+310,Lobsters,scala,Scala programming,Creek: A Vector Co-processor written in CHISEL,http://zhehaomao.com/project/2014/08/03/creek.html
+311,Lobsters,scala,Scala programming,Awesome Big Data A Curated List,https://github.com/onurakpolat/awesome-bigdata
+312,Lobsters,scala,Scala programming,Scala: Next Steps,http://scala-lang.org/news/roadmap-next
+313,Lobsters,scala,Scala programming,To Kill a Mockingtest,http://techblog.realestate.com.au/to-kill-a-mockingtest/
+314,Lobsters,scala,Scala programming,"Awesome Scala - A curated list of awesome Scala frameworks, libraries and software.",https://github.com/lauris/awesome-scala
+315,Lobsters,scala,Scala programming,Java vs. Scala: Divided We Fail (Cross-Language Benchmarks),http://shipilev.net/blog/2014/java-scala-divided-we-fail/
+316,Lobsters,scala,Scala programming,Argonaut: Purely Functional JSON in Scala,http://argonaut.io
+317,Lobsters,scala,Scala programming,DOT (Dependent Object Types) calculus and Scala,http://www.parleys.com/play/53a7d2d0e4b0543940d9e569/chapter0/about
+318,Lobsters,scala,Scala programming,Scala 2.12 Roadmap,http://scala-lang.org/news/2.12-roadmap
+319,Lobsters,scala,Scala programming,Mapping Sets,http://typelevel.org/blog/2014/06/22/mapping-sets.html
+320,Lobsters,scala,Scala programming,GraphX - graph programming on top of Spark,https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html
+321,Lobsters,scala,Scala programming,Building Products at SoundCloud: Microservices in Scala and Finagle,http://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle
+322,Lobsters,scala,Scala programming,Building Products at SoundCloud —Part I: Dealing with the Monolith,http://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith
+323,Lobsters,scala,Scala programming,The Neophyte's Guide to Scala Part 1: Extractors,http://danielwestheide.com/blog/2012/11/21/the-neophytes-guide-to-scala-part-1-extractors.html
+324,Lobsters,scala,Scala programming,"What kind of things are easy in Haskell and hard in Scala, and vice-versa?",https://tonymorris.github.io/blog/posts/what-kind-of-things-are-easy-in-haskell-and-hard-in-scala-and-vice-versa/index.html
+325,Lobsters,scala,Scala programming,Date based compiler warnings & errors for FIXMEs,https://github.com/tysonjh/fixme/
+326,Lobsters,scala,Scala programming,Quirks of Scala Specialization,http://axel22.github.io/2013/11/03/specialization-quirks.html
+327,Lobsters,scala,Scala programming,Datazenit is moving to Scala,http://datazenit.com/blog/2014/05/19/datazenit-scala/
+328,Lobsters,scala,Scala programming,Alternatives to GADTs in Scala,https://pchiusano.github.io/2014-05-20/scala-gadts.html
+329,Lobsters,scala,Scala programming,Typesafe Activator - An Update and Roadmap Preview,http://typesafe.com/blog/typesafe-activator---an-update-and-roadmap-preview
+330,Lobsters,scala,Scala programming,Building Scala at Scale,http://www.sumologic.com/blog/company/building-scala-at-scale
+331,Lobsters,scala,Scala programming,Scala - The Simple Parts,http://www.slideshare.net/Odersky/flatmap-oslo-presentation-slides
+332,Lobsters,scala,Scala programming,Scala Collections: Why Not?,http://youtu.be/uiJycy6dFSQ
+333,Lobsters,scala,Scala programming,Monads in Scala,https://github.com/earldouglas/scala-scratchpad/tree/master/category-theory/monads#monads-in-scala
+334,Lobsters,scala,Scala programming,eventsourced: A library for building event-sourced applications in scala,https://github.com/eligosource/eventsourced
+335,Lobsters,scala,Scala programming,Papa Carlo — Scala library for contructing incremental parsers,http://lakhin.com/projects/papa-carlo/
+336,Lobsters,scala,Scala programming,Functional Patterns in Domain Modeling - Immutable Aggregates and Functional Updates,http://debasishg.blogspot.com/2014/04/functional-patterns-in-domain-modeling.html
+337,Lobsters,scala,Scala programming,Scala 2.11.0 is now available,http://scala-lang.org/news/2014/04/21/release-notes-2.11.0.html
+338,Lobsters,scala,Scala programming,Welcome to Scala 2.11 with Jason Zaugg,https://www.youtube.com/watch?v=ByDPifJMSvQ
+339,Lobsters,scala,Scala programming,The Dark Side of Scala,http://nurkiewicz.github.io/talks/2014/scalar/
+340,Lobsters,scala,Scala programming,Connect a Scala REPL to running JVM processes without any prior setup,https://github.com/ngocdaothanh/scalive
+341,Lobsters,scala,Scala programming,Scala’s Types of Types,http://ktoso.github.io/scala-types-of-types/
+342,Lobsters,scala,Scala programming,Transitioning to Scala,https://medium.com/p/d1818f25b2b7
+343,Lobsters,scala,Scala programming,Introductory Guide to Akka,http://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka
+344,Lobsters,scala,Scala programming,Coding Scala with Vim,http://derekwyatt.org/2013/12/31/coding-scala-with-vim.html
+345,Lobsters,scala,Scala programming,Using Scala Will Make You Less Productive,http://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html
+346,Lobsters,scala,Scala programming,"Scala vs Idris: Dependent Types, Now and in the Future",http://www.infoq.com/presentations/scala-idris
+347,Lobsters,scala,Scala programming,Type Programming: Recursive types,http://proseand.co.nz/2014/03/10/type-programming-recursive-types/
+348,Lobsters,scala,Scala programming,Type programming: Shifting from values to types,http://proseand.co.nz/2014/02/17/type-programming-shifting-from-values-to-types/
+349,Lobsters,scala,Scala programming,How do I error handle thee? Let me count the ways,http://typelevel.org/blog/2014/02/21/error-handling.html
+350,Lobsters,scala,Scala programming,The Trouble With Types,http://www.infoq.com/presentations/data-types-issues
+351,Lobsters,scala,Scala programming,"Dotty open-sourced, research platform for new language concepts and compiler technologies for Scala",https://groups.google.com/forum/#!msg/scala-internals/6HL6lVLI3bQ/IY4gEyOwFhoJ
+352,Lobsters,scala,Scala programming,Why we love Scala at Coursera - Coursera Technology,http://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/
+353,Lobsters,scala,Scala programming,Actors are overly nondeterminstic,http://pchiusano.blogspot.com/2013/09/actors-are-overly-nondeterminstic.html
+354,Lobsters,scala,Scala programming,Scala Collections: Why Not?,https://thenewcircle.com/s/post/1568/scala_collections_why_not_paul_phillips_video
+355,Lobsters,scala,Scala programming,Spark Release 0.9.0 | Apache Spark,https://spark.incubator.apache.org/releases/spark-release-0-9-0.html
+356,Lobsters,scala,Scala programming,Scala Days 2013 Videos,http://www.parleys.com/channel/51ae1022e4b01033a7e4b6ca/presentations?sort=date&state=public
+357,Lobsters,scala,Scala programming,"EvenOdd in Agda, Idris, Haskell, Scala",http://brianmckenna.org/blog/evenodd_agda_idris_haskell_scala
+358,Lobsters,scala,Scala programming,Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing,http://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf
+359,Lobsters,scala,Scala programming,Apache Spark: The Next Big Data Thing?,http://blog.mikiobraun.de/2014/01/apache-spark.html
+360,Lobsters,scala,Scala programming,A Scala Corrections Library,http://www.slideshare.net/extempore/a-scala-corrections-library
+361,Lobsters,scala,Scala programming,fogus: Scala: sharp and gets things cut,http://blog.fogus.me/2013/10/07/scala-sharp-and-gets-things-cut/
+362,Lobsters,scala,Scala programming,Announcing Scala.js v0.1,http://www.scala-lang.org/news/2013/11/29/announcing-scala-js-v0.1.html
+363,Lobsters,scala,Scala programming,ScalaCheck: Property based testing for scala,http://www.scalacheck.org
+364,Lobsters,scala,Scala programming,Scrap Your Cake Pattern Boilerplate: Dependency Injection Using the Reader Monad,http://blog.originate.com/blog/2013/10/21/reader-monad-for-dependency-injection/
+365,Lobsters,scala,Scala programming,Erlang Style Actors Are All About Shared State (2009),http://james-iry.blogspot.com/2009/04/erlang-style-actors-are-all-about.html
+366,Lobsters,scala,Scala programming,New tool for linting Scala,http://brianmckenna.org/blog/wartremover_point_four
+367,Lobsters,scala,Scala programming,Bringing Erlang's Fault Tolerance and Distribution to Java with Akka and Erjang,http://www.infoq.com/interviews/jonasboner-krestenkrabthorup-erlang-jvm
+368,Lobsters,scala,Scala programming,Quine Relay,https://github.com/mame/quine-relay
+369,Lobsters,scala,Scala programming,"Show Lobsters: Scalabitz, content discovery through Bit.ly's API",http://branchandbound.net/blog/scala/2013/05/launching-scalabitz
+370,Lobsters,scala,Scala programming,What's New in Scala 2.10,http://marakana.com/s/post/1461/what_is_new_in_scala_2_10_adriaan_moors_video
+371,Lobsters,scala,Scala programming,Advanced routing in Play Framework,https://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html
+372,Lobsters,scala,Scala programming,"A Simple, Functional, Merkle Tree Implementation in Scala",http://blog.adelbertc.com/post/48389747897/a-simple-functional-merkle-tree-implementation-in
+373,Lobsters,scala,Scala programming,Why I Don't Like Akka Actors,http://noelwelsh.com/programming/2013/03/04/why-i-dont-like-akka-actors/
+374,Lobsters,scala,Scala programming,Storehaus is a library that makes it easy to work with asynchronous key value stores,https://github.com/twitter/storehaus
+375,Lobsters,scala,Scala programming,Quickstart for using SBT (Scala) to generate your IntelliJ IDEA project for you (Gist),https://gist.github.com/sam/5223921
+376,Lobsters,scala,Scala programming,typelevel.scala | Powerful libraries for Scala,http://typelevel.org/
+377,Lobsters,scala,Scala programming,A new backend and optimizer for scalac,http://magarciaepfl.github.com/scala/
+378,Lobsters,scala,Scala programming,What Makes Spark Exciting,http://dev.bizo.com/2013/01/what-makes-spark-exciting.html
+379,Lobsters,scala,Scala programming,The Neophyte's Guide to Scala Part 10: Staying DRY with higher-order functions,http://danielwestheide.com/blog/2013/01/23/the-neophytes-guide-to-scala-part-10-staying-dry-with-higher-order-functions.html
+380,Lobsters,scala,Scala programming,Play Framework - async by default,https://groups.google.com/forum/#!topic/play-framework-dev/30MqnKDp0Fs/discussion
+381,Lobsters,scala,Scala programming,Overview of Reflection in Scala 2.10,http://docs.scala-lang.org/overviews/reflection/overview.html
+382,Lobsters,scala,Scala programming,Where Akka Came From,http://letitcrash.com/post/40599293211/where-akka-came-from
+383,Lobsters,scala,Scala programming,Scala 2.10.0 now available!,http://www.scala-lang.org/node/27499
+384,Lobsters,scala,Scala programming,A new way to compile - IntelliJ Scala plugin,http://blog.jetbrains.com/scala/2012/12/28/a-new-way-to-compile/
+385,Lobsters,scala,Scala programming,Slick 1.0.0-RC1 released (Scala database query API),http://slick.typesafe.com/news/2012/12/21/slick-1.0.0-RC1-released.html
+386,Lobsters,scala,Scala programming,"Experimental optimizer does closure-inlining, and strips unused private class members",https://groups.google.com/d/msg/scala-internals/5DO64yeHEBE/R-FBX5xM1IMJ
+387,Lobsters,scala,Scala programming,Iteratees for imperative programmers,http://jazzy.id.au/default/2012/11/06/iteratees_for_imperative_programmers.html
+388,Lobsters,scala,Scala programming,Systems Programming at Twitter,http://monkey.org/~marius/talks/twittersystems
+389,Lobsters,scala,Scala programming,What scaling has to do with language design,http://jazzy.id.au/default/2012/11/02/scaling_scala_vs_java.html
+390,Lobsters,scala,Scala programming,Ctrie - A Lock-Free Concurrent Hash Array Mapped Trie,https://github.com/axel22/Ctries
+391,Lobsters,scala,Scala programming,Understanding Play2 Iteratees for Normal Humans,http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/
+392,Lobsters,scala,Scala programming,Dependency Management Flow — sbt Documentation,http://www.scala-sbt.org/release/docs/Detailed-Topics/Dependency-Management-Flow.html
+393,Lobsters,scala,Scala programming,"Show Lobsters: pirate, a Scala DSL for parsing CLI arrrrguments",https://github.com/mosesn/pirate

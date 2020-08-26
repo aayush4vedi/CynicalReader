@@ -1,0 +1,1251 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,go,Golang programming,Implementing traceroute in Go,https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/
+2,Lobsters,go,Golang programming,Go: Should I Use a Pointer instead of a Copy of my Struct?,https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
+3,Lobsters,go,Golang programming,Early Impressions of Go from a Rust Programmer,https://www.ncameron.org/blog/early-impressions-of-go-from-a-rust-programmer/
+4,Lobsters,go,Golang programming,Golang Learning Notes,https://marcfawzi.wixsite.com/borrrrrring/post/go-tchas-for-js-typescript-ers
+5,Lobsters,go,Golang programming,Piccolo: Strong Othello AI With GUI Written in Go and Published in WASM,https://piccolo.click
+6,Lobsters,go,Golang programming,Speeding up json processing in go,https://klotzandrew.com/blog/speeding-up-json-processing-in-go
+7,Lobsters,go,Golang programming,Searching code with Sourcegraph,https://lwn.net/SubscriberLink/828748/846c0800e1587f25/
+8,Lobsters,go,Golang programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+9,Lobsters,go,Golang programming,comparative unsafety,https://flak.tedunangst.com/post/comparative-unsafety
+10,Lobsters,go,Golang programming,Proposal: Register-based Go calling convention,https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
+11,Lobsters,go,Golang programming,Lessons from Go: Keep Calm and Use the Byte Array,https://preslav.me/2020/08/12/lessons-from-golang-keep-calm-and-use-the-byte-array/
+12,Lobsters,go,Golang programming,How Go 1.15 improved converting small integer values to interfaces,https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
+13,Lobsters,go,Golang programming,Go 1.15 is released,https://blog.golang.org/go1.15
+14,Lobsters,go,Golang programming,Distributed in-memory data structures in Go. Embeddable or independent service,https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=
+15,Lobsters,go,Golang programming,Building a REST API in GoLang,https://www.juststeveking.uk/building-a-rest-api-in-go-lang-part-1/
+16,Lobsters,go,Golang programming,A simple example on implementing progress bar in GoLang,https://www.pixelstech.net/article/1596946473-A-simple-example-on-implementing-progress-bar-in-GoLang
+17,Lobsters,go,Golang programming,lucasepe/jumble,https://github.com/lucasepe/jumble
+18,Lobsters,go,Golang programming,Generics for Go,https://lwn.net/Articles/824716/
+19,Lobsters,go,Golang programming,Introducing Open Service Mesh,https://openservicemesh.io/blog/introducing-open-service-mesh/
+20,Lobsters,go,Golang programming,File System Interfaces for Go — Draft Design,https://go.googlesource.com/proposal/+/master/design/draft-iofs.md
+21,Lobsters,go,Golang programming,How to Parse JSON That Varies Between an Array or a Single Item With Go,https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
+22,Lobsters,go,Golang programming,Go vs Rust: Writing a CLI tool,https://cuchi.me/posts/go-vs-rust
+23,Lobsters,go,Golang programming,Break The Golang Context Chain,https://rodaine.com/2020/07/break-context-cancellation-chain/
+24,Lobsters,go,Golang programming,Go: How to Reduce Lock Contention with the Atomic Package,https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
+25,Lobsters,go,Golang programming,pkg.go.dev is more concerned with Google’s interests than good engineering,https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
+26,Lobsters,go,Golang programming,Implementing traceroute in Go,https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/
+27,Lobsters,go,Golang programming,Go: Should I Use a Pointer instead of a Copy of my Struct?,https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
+28,Lobsters,go,Golang programming,Early Impressions of Go from a Rust Programmer,https://www.ncameron.org/blog/early-impressions-of-go-from-a-rust-programmer/
+29,Lobsters,go,Golang programming,Golang Learning Notes,https://marcfawzi.wixsite.com/borrrrrring/post/go-tchas-for-js-typescript-ers
+30,Lobsters,go,Golang programming,Piccolo: Strong Othello AI With GUI Written in Go and Published in WASM,https://piccolo.click
+31,Lobsters,go,Golang programming,Speeding up json processing in go,https://klotzandrew.com/blog/speeding-up-json-processing-in-go
+32,Lobsters,go,Golang programming,Searching code with Sourcegraph,https://lwn.net/SubscriberLink/828748/846c0800e1587f25/
+33,Lobsters,go,Golang programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+34,Lobsters,go,Golang programming,comparative unsafety,https://flak.tedunangst.com/post/comparative-unsafety
+35,Lobsters,go,Golang programming,Proposal: Register-based Go calling convention,https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
+36,Lobsters,go,Golang programming,Lessons from Go: Keep Calm and Use the Byte Array,https://preslav.me/2020/08/12/lessons-from-golang-keep-calm-and-use-the-byte-array/
+37,Lobsters,go,Golang programming,How Go 1.15 improved converting small integer values to interfaces,https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
+38,Lobsters,go,Golang programming,Go 1.15 is released,https://blog.golang.org/go1.15
+39,Lobsters,go,Golang programming,Distributed in-memory data structures in Go. Embeddable or independent service,https://github.com/buraksezer/olric/releases/tag/v0.3.0-beta.1#=
+40,Lobsters,go,Golang programming,Building a REST API in GoLang,https://www.juststeveking.uk/building-a-rest-api-in-go-lang-part-1/
+41,Lobsters,go,Golang programming,A simple example on implementing progress bar in GoLang,https://www.pixelstech.net/article/1596946473-A-simple-example-on-implementing-progress-bar-in-GoLang
+42,Lobsters,go,Golang programming,lucasepe/jumble,https://github.com/lucasepe/jumble
+43,Lobsters,go,Golang programming,Generics for Go,https://lwn.net/Articles/824716/
+44,Lobsters,go,Golang programming,Introducing Open Service Mesh,https://openservicemesh.io/blog/introducing-open-service-mesh/
+45,Lobsters,go,Golang programming,File System Interfaces for Go — Draft Design,https://go.googlesource.com/proposal/+/master/design/draft-iofs.md
+46,Lobsters,go,Golang programming,How to Parse JSON That Varies Between an Array or a Single Item With Go,https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
+47,Lobsters,go,Golang programming,Go vs Rust: Writing a CLI tool,https://cuchi.me/posts/go-vs-rust
+48,Lobsters,go,Golang programming,Break The Golang Context Chain,https://rodaine.com/2020/07/break-context-cancellation-chain/
+49,Lobsters,go,Golang programming,Go: How to Reduce Lock Contention with the Atomic Package,https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
+50,Lobsters,go,Golang programming,pkg.go.dev is more concerned with Google’s interests than good engineering,https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
+51,Lobsters,go,Golang programming,Go filesystems and file embedding,https://lwn.net/SubscriberLink/827215/15c1862e96bedf01/
+52,Lobsters,go,Golang programming,Different approaches to HTTP routing in Go,https://benhoyt.com/writings/go-routing/
+53,Lobsters,go,Golang programming,Let's build a Full-Text Search engine,https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+54,Lobsters,go,Golang programming,Kyber-K2SO: Go Implementation of the Kyber v2 Post-Quantum KEM,https://github.com/SymbolicSoft/kyber-k2so
+55,Lobsters,go,Golang programming,"xmake v2.3.6 released, Support fortran compilation and go/dlang package dependences","https://github.com/xmake-io/xmake/wiki/xmake-v2.3.6-released,-Support-fortran-compilation-and-go-dlang-package-dependences"
+56,Lobsters,go,Golang programming,Boids in WebAssembly Using Go,https://healeycodes.com/boids-flocking-simulation/
+57,Lobsters,go,Golang programming,Go command support for embedded static assets (files) — Draft Design,https://go.googlesource.com/proposal/+/master/design/draft-embed.md
+58,Lobsters,go,Golang programming,LDAP authentication server for developers,https://github.com/glauth/glauth
+59,Lobsters,go,Golang programming,mutable strings in go (2019),https://spacetime.dev/mutable-strings-go
+60,Lobsters,go,Golang programming,Life without line numbers,https://commaok.xyz/post/no-line-numbers/
+61,Lobsters,go,Golang programming,Go draft design proposal for file system interfaces and embedding files,/s/8lezbe/go_draft_design_proposal_for_file_system
+62,Lobsters,go,Golang programming,Important (go) Reading,https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
+63,Lobsters,go,Golang programming,Optimizing a code intelligence backend,https://about.sourcegraph.com/blog/optimizing-a-code-intel-backend
+64,Lobsters,go,Golang programming,Two linters I'll always add to new Go projects: errcheck and ineffassign,http://rski.github.io/2020/07/17/golangci-lint.html
+65,Lobsters,go,Golang programming,How I Structure Go Packages,http://bencane.com/stories/2020/07/06/how-i-structure-go-packages/
+66,Lobsters,go,Golang programming,Go's History in Code,https://seh.dev/go-legacy/
+67,Lobsters,go,Golang programming,Go Generics and Parentheses,https://groups.google.com/g/golang-nuts/c/7t-Q2vt60J8
+68,Lobsters,go,Golang programming,"OpenDiablo 2: Open source Diablo 2 engine, written in golang",https://github.com/OpenDiablo2/OpenDiablo2
+69,Lobsters,go,Golang programming,Going Driverless: How we developed a CAN library for Go,https://www.youtube.com/watch?v=IbggJHJUv0U
+70,Lobsters,go,Golang programming,PopCount on ARM64 in Go Assembler,https://barakmich.dev/posts/popcnt-arm64-go-asm/
+71,Lobsters,go,Golang programming,Error handling patterns in Go (2017),https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/
+72,Lobsters,go,Golang programming,"""Interface smuggling"", a Go design pattern for expanding APIs",https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfaceSmuggling
+73,Lobsters,go,Golang programming,Why Go’s Error Handling is Awesome,https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html
+74,Lobsters,go,Golang programming,Hugo: a static-site generator,https://lwn.net/SubscriberLink/825507/77df07d41cec68c4/
+75,Lobsters,go,Golang programming,A Go lesson learned: sometimes I don't want to use goroutines if possible,https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines
+76,Lobsters,go,Golang programming,"A Journey building a fast JSON parser and full JSONPath, Oj for Go",https://github.com/ohler55/ojg/blob/master/design.md
+77,Lobsters,go,Golang programming,I came for the easy concurrency I stayed for the easy composition (2014),https://www.youtube.com/watch?v=woCg2zaIVzQ
+78,Lobsters,go,Golang programming,AnyCable 1.0: Four years of real-time web with Ruby and Go —,https://evilmartians.com/chronicles/anycable-1-0-four-years-of-real-time-web-with-ruby-and-go
+79,Lobsters,go,Golang programming,Generics for Go,https://lwn.net/SubscriberLink/824716/ee9bbbfad58cef3d/
+80,Lobsters,go,Golang programming,go:build design draft,https://www.youtube.com/watch?v=AgR_mdC4Rs4
+81,Lobsters,go,Golang programming,Debugging an evil Go runtime bug (2017),https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+82,Lobsters,go,Golang programming,gcassert - Assert your Go code is inlined and bounds-check eliminated,https://github.com/jordanlewis/gcassert
+83,Lobsters,go,Golang programming,Abstracting away correctness,https://fasterthanli.me/articles/abstracting-away-correctness
+84,Lobsters,go,Golang programming,Writing an SNI Proxy in 105 Lines of Go,https://www.agwa.name/blog/post/writing_an_sni_proxy_in_go
+85,Lobsters,go,Golang programming,Performance improvements in Sourcegraph's precise code intelligence backend,https://about.sourcegraph.com/blog/performance-improvements-in-precise-code-intel
+86,Lobsters,go,Golang programming,"In Go, the compiler needs to know the types of things when copying values",https://utcc.utoronto.ca/~cks/space/blog/programming/GoValueCopyIsTyped
+87,Lobsters,go,Golang programming,Evolution of the precise code intel backend,https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend
+88,Lobsters,go,Golang programming,Building a CLI app with the Device Code grant and golang,https://fusionauth.io/blog/2020/06/17/building-cli-app-with-device-grant-and-golang
+89,Lobsters,go,Golang programming,robpike/lisp,https://github.com/robpike/lisp
+90,Lobsters,go,Golang programming,The Next Step for Generics,https://blog.golang.org/generics-next-step
+91,Lobsters,go,Golang programming,Generating a full-stack application from a database,https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html
+92,Lobsters,go,Golang programming,phony: A ponylang-inspired actor model library for Go,https://github.com/Arceliar/phony
+93,Lobsters,go,Golang programming,High Availability Load Balancers with Maglev,https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/
+94,Lobsters,go,Golang programming,An introduction to Go for non-Go developers,https://benhoyt.com/writings/go-intro/
+95,Lobsters,go,Golang programming,Highly Configurable Terminal Dashboard for Developers,https://github.com/Phantas0s/devdash
+96,Lobsters,go,Golang programming,The VS Code Go extension joins the Go project,https://blog.golang.org/vscode-go
+97,Lobsters,go,Golang programming,Featherweight Go,https://www.youtube.com/watch?v=Dq0WFigax_c
+98,Lobsters,go,Golang programming,Inlined defers in Go,https://rakyll.org/inlined-defers/
+99,Lobsters,go,Golang programming,The cache replacement problem,http://alexandrutopliceanu.ro/post/cache-replacement-problem/
+100,Lobsters,go,Golang programming,srv: minimalist alternative to python -m http.server,https://github.com/joshuarli/srv
+101,Lobsters,go,Golang programming,The Go compiler needs to be smarter,https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/
+102,Lobsters,go,Golang programming,"Codesearch: fast, indexed regexp search over large file trees",https://github.com/google/codesearch
+103,Lobsters,go,Golang programming,A subtle trap when formatting Go time.Time values,https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeHasLocation
+104,Lobsters,go,Golang programming,"v0.6 of immudb, the open source, high-speed immutable database, is released",https://github.com/codenotary/immudb
+105,Lobsters,go,Golang programming,Featherweight Go,https://arxiv.org/abs/2005.11710
+106,Lobsters,go,Golang programming,"Generate a Go REST API from a PostgreSQL database with pagination, sorting, filtering, and auth",https://eatonphil.github.io/dbcore/
+107,Lobsters,go,Golang programming,Getting Hands-on with io_uring using Go,https://developers.mattermost.com/blog/hands-on-iouring-go/
+108,Lobsters,go,Golang programming,Diving into Go by building a CLI application,https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html
+109,Lobsters,go,Golang programming,Mocking time and testing event loops in Go,https://dmitryfrank.com/articles/mocking_time_in_go
+110,Lobsters,go,Golang programming,maybedoer: the Maybe Monoid for Go,https://christine.website/blog/maybedoer-2020-05-23
+111,Lobsters,go,Golang programming,rtr7/router7 - pure-Go small home internet router,https://github.com/rtr7/router7
+112,Lobsters,go,Golang programming,"9pi update, Raspberry Pi 4, and go",https://marc.info/?l=9fans&m=159015648319936&w=2
+113,Lobsters,go,Golang programming,OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go,https://github.com/ory/hydra
+114,Lobsters,go,Golang programming,Three bugs in the Go MySQL Driver,https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/
+115,Lobsters,go,Golang programming,gRPC-cache,https://github.com/knrt10/gRPC-cache
+116,Lobsters,go,Golang programming,Cryptographic Addition Chain Generation in Go,https://github.com/mmcloughlin/addchain
+117,Lobsters,go,Golang programming,Gettings started with LDAP in Go,https://cybernetist.com/2020/05/18/getting-started-with-go-ldap/
+118,Lobsters,go,Golang programming,Improving the Secure Boot user experience,https://linderud.dev/blog/improving-the-secure-boot-user-experience/
+119,Lobsters,go,Golang programming,Write your own Go static analysis tool,https://about.houqp.me/posts/write-your-own-go-static-analysis-tool/
+120,Lobsters,go,Golang programming,Building Uber’s Go Monorepo with Bazel,https://eng.uber.com/go-monorepo-bazel/
+121,Lobsters,go,Golang programming,Embeddable root file system intended to be placed in a flash device as part of the firmware image,https://u-root.org/
+122,Lobsters,go,Golang programming,What's coming in Go 1.15,https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
+123,Lobsters,go,Golang programming,How the Go runtime implements maps efficiently (without generics) (2018),https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics
+124,Lobsters,go,Golang programming,Git clone over gRPC,https://encore.dev/blog/git-clone-grpc
+125,Lobsters,go,Golang programming,Ensmallening Go Binaries by Prohibiting Comparisons,https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons
+126,Lobsters,go,Golang programming,Web Wormhole,https://webwormhole.io/
+127,Lobsters,go,Golang programming,Writing a SQL database from scratch in Go: 4. a database/sql driver,https://notes.eatonphil.com/database-basics-a-database-sql-driver.html
+128,Lobsters,go,Golang programming,How to check whether a struct implements an interface in GoLang,https://www.pixelstech.net/article/1588481241-How-to-check-whether-a-struct-implements-an-interface-in-GoLang
+129,Lobsters,go,Golang programming,yubikey-agent: an easy to use Go ssh-agent for YubiKeys,https://github.com/FiloSottile/yubikey-agent
+130,Lobsters,go,Golang programming,Go: How Does defer Statement Work?,https://medium.com/a-journey-with-go/go-how-does-defer-statement-work-1a9492689b6e
+131,Lobsters,go,Golang programming,Building a Graph of Kubernetes API Objects in Go,https://cybernetist.com/2020/05/05/build-a-graph-of-kubernetes-api-objects-in-go/
+132,Lobsters,go,Golang programming,Making rust as fast as go,https://www.christianfscott.com/making-rust-as-fast-as-go/
+133,Lobsters,go,Golang programming,What will this print?,https://play.golang.org/p/KpXrgRb3XZL
+134,Lobsters,go,Golang programming,Microsoft: Why we used programming language Rust over Go for WebAssembly on Kubernetes app,https://www.zdnet.com/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/
+135,Lobsters,go,Golang programming,Modern and Cross Platform Stack for WebRTC,https://github.com/pion
+136,Lobsters,go,Golang programming,Rob Pike interview for Evrone: “Go has become the language of cloud infrastructure”,https://evrone.com/rob-pike-interview
+137,Lobsters,go,Golang programming,Proposal: improve UX for major module versions,https://github.com/golang/go/issues/38762
+138,Lobsters,go,Golang programming,A journey optimizing the Go Compiler,https://segflow.github.io/post/go-compiler-optimization/
+139,Lobsters,go,Golang programming,I think you should generally be using the latest version of Go,https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionsMyView
+140,Lobsters,go,Golang programming,Packaging LXD for Arch Linux,https://linderud.dev/blog/packaging-lxd-for-arch-linux/
+141,Lobsters,go,Golang programming,What's coming in Go 1.15,https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit
+142,Lobsters,go,Golang programming,Inlining optimisations in Go,https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go
+143,Lobsters,go,Golang programming,How to Manage Database Timeouts and Cancellations in Go,https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go
+144,Lobsters,go,Golang programming,Cancelable Reads in Go,https://benjamincongdon.me/blog/2020/04/23/Cancelable-Reads-in-Go/
+145,Lobsters,go,Golang programming,Writing Custom Terraform Providers,https://www.terraform.io/docs/extend/writing-custom-providers.html
+146,Lobsters,go,Golang programming,Paketo Buildpacks,https://paketo.io/
+147,Lobsters,go,Golang programming,Data Logging with Golang: How to Store Customer Details Securely,https://medium.com/pipedrive-engineering/data-logging-with-golang-how-to-store-customer-details-securely-14d49f2cf992
+148,Lobsters,go,Golang programming,Go Developer Survey 2019 Results,https://blog.golang.org/survey2019-results
+149,Lobsters,go,Golang programming,Debugging with Delve,https://tpaschalis.github.io/delve-debugging/
+150,Lobsters,go,Golang programming,How to deploy side projects as web services for free,https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free/
+151,Lobsters,go,Golang programming,"eBPF based request traces, metrics & events auto-capture",https://github.com/pixie-labs/pixie
+152,Lobsters,go,Golang programming,Thanos coding style guide,https://thanos.io/contributing/coding-style-guide.md/
+153,Lobsters,go,Golang programming,netscanner - TCP/UDP scanner to find open or closed ports,https://github.com/R4yGM/netscanner
+154,Lobsters,go,Golang programming,Brotli-compressed static file embedding in Go,https://github.com/aletheia-icu/broccoli
+155,Lobsters,go,Golang programming,How Thanos Would Program in Go,https://bwplotka.dev/2020/how-thanos-would-program-in-go/
+156,Lobsters,go,Golang programming,"Andrei Alexandrescu on D, Go, and Rust",https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why
+157,Lobsters,go,Golang programming,Docker 101: A basic web-server displaying hello world,https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/
+158,Lobsters,go,Golang programming,Statically compiling Go programs,https://www.arp242.net/static-go.html
+159,Lobsters,go,Golang programming,Terminal multiplexer inspired by i3,https://github.com/aaronjanse/3mux/
+160,Lobsters,go,Golang programming,minio/sidekick,https://github.com/minio/sidekick
+161,Lobsters,go,Golang programming,"Tube: video sharing app w/ MP4 h265 AAC, collections, and RSS",https://github.com/prologic/tube
+162,Lobsters,go,Golang programming,Understanding bytes in Go by building a TCP protocol,https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/
+163,Lobsters,go,Golang programming,Free libre simple URL shortener written in Go (MIT license),https://codeberg.org/jlelse/GoShort
+164,Lobsters,go,Golang programming,Running Golang on the browser with WebAssembly and TinyGo,https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/
+165,Lobsters,go,Golang programming,Rust from Golang's Perspective,https://www.youtube.com/watch?v=eQjPvsmfIts
+166,Lobsters,go,Golang programming,Go Quirks,https://blog.sbstp.ca/go-quirks/
+167,Lobsters,go,Golang programming,Understand unsafe in GoLang,https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
+168,Lobsters,go,Golang programming,pa'i Benchmarks,https://christine.website/blog/pahi-benchmarks-2020-03-26
+169,Lobsters,go,Golang programming,Quickly Find Rust Program Bottlenecks Online Using a Go Tool,https://pingcap.com/blog/quickly-find-rust-program-bottlenecks-online-using-a-go-tool/
+170,Lobsters,go,Golang programming,Discord Incident Report (March 16 Outage),https://status.discordapp.com/incidents/62gt9cgjwdgf
+171,Lobsters,go,Golang programming,Sorting out Go's 'for ... = range ..' and when it copies things,https://utcc.utoronto.ca/~cks/space/blog/programming/GoRangeCopying
+172,Lobsters,go,Golang programming,Run Your First Chaos Experiment in 10 Minutes,https://pingcap.com/blog/run-first-chaos-experiment-in-ten-minutes/
+173,Lobsters,go,Golang programming,Why you shouldn't use func main in Go,https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer
+174,Lobsters,go,Golang programming,Batching operations in Go,https://pace.dev/blog/2020/02/13/batching-operations-in-go-by-mat-ryer
+175,Lobsters,go,Golang programming,Template repository for starting a project on Go + Docker + Google cloud stack,https://github.com/ashishb/golang-template-repo
+176,Lobsters,go,Golang programming,Some tricks and tips for using for range in GoLang,https://www.pixelstech.net/article/1583648868-Some-tricks-and-tips-for-using-for-range-in-GoLang
+177,Lobsters,go,Golang programming,SFTPGo: a Golang performance story and some questions,https://groups.google.com/forum/#!topic/golang-nuts/wLRJHQ9ydrk
+178,Lobsters,go,Golang programming,Database basics: writing a SQL database from scratch in Go,http://notes.eatonphil.com/database-basics.html
+179,Lobsters,go,Golang programming,"How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team",https://www.theregister.co.uk/2020/03/09/monzo_microservices/
+180,Lobsters,go,Golang programming,Elixir-Style Actors in Go,https://preslav.me/2020/03/07/elixir-style-actors-in-golang/
+181,Lobsters,go,Golang programming,Go programming language: my totally unprompted opinions,https://hodapple.com/blag/posts/2018-04-13-opinions-go.html
+182,Lobsters,go,Golang programming,Implementing Raft in Go (4 blog posts),https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
+183,Lobsters,go,Golang programming,More or less what versions of Go support what OpenBSD releases (as of March 2020),https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhatOpenBSDs-2020-03
+184,Lobsters,go,Golang programming,Testing Perl Clients and Go Servers,https://blog.afoolishmanifesto.com/posts/testing-perl-clients-golang-servers/
+185,Lobsters,go,Golang programming,A new Go API for Protocol Buffers,https://blog.golang.org/a-new-go-api-for-protocol-buffers
+186,Lobsters,go,Golang programming,Network namespaces from Go,https://confidentialinterval.com/posts/network-namespaces-from-go/
+187,Lobsters,go,Golang programming,"Fully concurrent, non-IO blocking Logger for Go",https://github.com/benjivesterby/alog
+188,Lobsters,go,Golang programming,di-tui Terminal UI player for di.fm,https://github.com/acaloiaro/di-tui
+189,Lobsters,go,Golang programming,Signing JWTs with Go's crypto/ed25519,https://blainsmith.com/articles/signing-jwts-with-gos-crypto-ed25519/
+190,Lobsters,go,Golang programming,I want off Mr. Golang's Wild Ride,https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/
+191,Lobsters,go,Golang programming,Debugging a bad assumption,https://groob.io/posts/debugging-assumption/
+192,Lobsters,go,Golang programming,Early Impressions of Go from a Rust Programmer,https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/
+193,Lobsters,go,Golang programming,Go 1.14 is released,https://blog.golang.org/go1.14
+194,Lobsters,go,Golang programming,ashishb/outbound-link-checker,https://github.com/ashishb/outbound-link-checker
+195,Lobsters,go,Golang programming,Expr dumps ANTLR and rewrites parser from scratch,https://github.com/antonmedv/expr
+196,Lobsters,go,Golang programming,Command line meta-interpreter for Go,https://gitlab.com/ianbruene/kommandant
+197,Lobsters,go,Golang programming,Reposurgeon defeats all monsters,http://esr.ibiblio.org/?p=8607
+198,Lobsters,go,Golang programming,Why Go gets exceptions right (2012),https://dave.cheney.net/2012/01/18/why-go-gets-exceptions-right
+199,Lobsters,go,Golang programming,Programming metaphors for theological concepts,https://shaungallagher.pressbin.com/blog/metaphors.html
+200,Lobsters,go,Golang programming,"The ""Go"" Language Comes to Elements",https://blogs.remobjects.com/2020/02/20/the-go-language-comes-to-elements-announcing-remobjects-gold/
+201,Lobsters,go,Golang programming,Testing in Go: Clean Tests Using t.Cleanup,https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/
+202,Lobsters,go,Golang programming,Padding is hard (2015),https://dave.cheney.net/2015/10/09/padding-is-hard
+203,Lobsters,go,Golang programming,"gocat, a 21st-century multi-purpose relay from source to destination",https://medium.com/@syndbg/gocat-a-21st-century-multi-purpose-relay-from-source-to-destination-5d9026f6cdb
+204,Lobsters,go,Golang programming,"Koushin, a simple and extensible webmail client written in Go",https://git.sr.ht/~emersion/koushin
+205,Lobsters,go,Golang programming,Implementing indexed joins,https://www.dolthub.com/blog/2020-02-14-implementing-indexed-joins/
+206,Lobsters,go,Golang programming,Writing Bazel rules: simple binary rule,http://www.jayconrod.com/posts/106/writing-bazel-rules--simple-binary-rule
+207,Lobsters,go,Golang programming,Go compared to Python for small scale system administration scripts and tools,https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SysadminGoVsPython
+208,Lobsters,go,Golang programming,"LISTEN, NOTIFY, and the sketch",https://confidentialinterval.com/posts/listen-notify-and-the-sketch/
+209,Lobsters,go,Golang programming,llgo removed from LLVM,https://github.com/llvm/llvm-project/commit/372bfc65deb
+210,Lobsters,go,Golang programming,A Go Module Testbed,https://nullprogram.com/blog/2020/02/13/
+211,Lobsters,go,Golang programming,Go for Cloud,https://rakyll.org/go-cloud/
+212,Lobsters,go,Golang programming,Let's Give It a Go,https://www.natano.net/blog/2020-02-11-lets-give-it-a-go/
+213,Lobsters,go,Golang programming,Understanding Kubernetes’ tools/cache package,https://lairdnelson.wordpress.com/2018/01/07/understanding-kubernetes-tools-cache-package-part-0/
+214,Lobsters,go,Golang programming,The Zen of Go,https://the-zen-of-go.netlify.com/
+215,Lobsters,go,Golang programming,Notes on the Go translation of Reposurgeon,https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc
+216,Lobsters,go,Golang programming,tailscale - Private WireGuard networks made easy,https://github.com/tailscale/tailscale
+217,Lobsters,go,Golang programming,"Reflecting on My Experience With Go, One Year After",https://preslav.me/2020/01/17/reflecting-on-my-experience-with-go-one-year-after/
+218,Lobsters,go,Golang programming,A Crystal in Go’s World,https://preslav.me/2020/01/26/a-crystal-in-go-s-world/
+219,Lobsters,go,Golang programming,Embedding sync.Mutex in Go,https://twitter.com/martinrue/status/1225859931154284549
+220,Lobsters,go,Golang programming,Running Go CLI programs in the browser,https://www.arp242.net/wasm-cli.html
+221,Lobsters,go,Golang programming,Why Discord is switching from Go to Rust,https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+222,Lobsters,go,Golang programming,Asobiba - A Go playground in WebAssembly,https://asobiba-go-playground.web.app/
+223,Lobsters,go,Golang programming,Star - Go but in Python?,https://www.embly.run/star/
+224,Lobsters,go,Golang programming,How Are Loops Translated to Assembly?,https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3
+225,Lobsters,go,Golang programming,Opinionated ls rewrite,https://github.com/antonmedv/ll
+226,Lobsters,go,Golang programming,Leaving Google,https://bradfitz.com/2020/01/27/leaving-google
+227,Lobsters,go,Golang programming,"Make resilient Go net/http servers using timeouts, deadlines and context cancellation",https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+228,Lobsters,go,Golang programming,Why I've come to like that Go's type inference is limited,https://utcc.utoronto.ca/~cks/space/blog/programming/GoLimitedTypeInferenceLike
+229,Lobsters,go,Golang programming,Inlined defers in Go,https://rakyll.org/opencoded-defers/
+230,Lobsters,go,Golang programming,Go's Tooling is an Undervalued Technology,https://nullprogram.com/blog/2020/01/21/
+231,Lobsters,go,Golang programming,distri: 20x faster initramfs (initrd) from scratch,https://michael.stapelberg.ch/posts/2020-01-21-initramfs-from-scratch-golang/
+232,Lobsters,go,Golang programming,Go is on a trajectory to become the next enterprise programming language (2019),https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e
+233,Lobsters,go,Golang programming,AWS ARN services,https://github.com/mhausenblas/arn.services
+234,Lobsters,go,Golang programming,yabfig: a gdb-like debugger for Brainfuck,https://humaidq.ae/projects/yabfig/
+235,Lobsters,go,Golang programming,Go fearless SQL,https://github.com/houqp/sqlvet
+236,Lobsters,go,Golang programming,uuidfmt – small CLI utility to format UUID into the canonical form and back/reverse,https://github.com/zshamrock/uuidfmt
+237,Lobsters,go,Golang programming,"Dynocsv – CLI Tool to Export DynamoDB Table into CSV, supports query, limits, and projections (Go)",https://github.com/zshamrock/dynocsv
+238,Lobsters,go,Golang programming,Lyft Batch Compute Platform,https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59
+239,Lobsters,go,Golang programming,Webserver Benchmark: Erlang vs Go vs Java vs NodeJS,https://stressgrid.com/blog/webserver_benchmark/
+240,Lobsters,go,Golang programming,CodeQL-like analyzer for Go,https://github.com/quasilyte/go-ruleguard
+241,Lobsters,go,Golang programming,Building a BitTorrent client from the ground up in Go,https://blog.jse.li/posts/torrent/
+242,Lobsters,go,Golang programming,Chaos Mesh: A cloud-native Chaos Engineering platform,https://github.com/pingcap/chaos-mesh
+243,Lobsters,go,Golang programming,Things I've stopped using in GNU Emacs for working on Go,https://utcc.utoronto.ca/~cks/space/blog/programming/GoEmacsDroppedTools
+244,Lobsters,go,Golang programming,Strategies for Working with Message Queues,https://www.doxsey.net/blog/strategies-for-working-with-message-queues
+245,Lobsters,go,Golang programming,mvdan/sh: POSIX shell in Go,https://github.com/mvdan/sh
+246,Lobsters,go,Golang programming,Beginner's guide to networking w/ Golang?,/s/tlaav0/beginner_s_guide_networking_w_golang
+247,Lobsters,go,Golang programming,"age is a simple, modern and secure file encryption tool",https://github.com/FiloSottile/age
+248,Lobsters,go,Golang programming,glow: a stylish markdown viewer for the CLI,https://github.com/charmbracelet/glow
+249,Lobsters,go,Golang programming,Some reasons for Go to not make system calls through the standard C library,https://utcc.utoronto.ca/~cks/space/blog/programming/GoCLibraryAPIIssues
+250,Lobsters,go,Golang programming,Start your journey with Go,https://talkoverflow.com/posts/learn-golang-basics/
+251,Lobsters,go,Golang programming,"Java JIT vs Java AOT vs Go for small, short-lived processes",http://macias.info/entry/201912201300_graal_aot.md
+252,Lobsters,go,Golang programming,A mini post on GoLang context,https://www.pixelstech.net/article/1576317821-A-mini-post-on-GoLang-context
+253,Lobsters,go,Golang programming,Go + Services = One Goliath Project,https://engineering.khanacademy.org/posts/goliath.htm
+254,Lobsters,go,Golang programming,citop: Monitor CI pipelines from the command line,https://github.com/nbedos/citop
+255,Lobsters,go,Golang programming,Evolving Languages (5 Steps to Go),https://www.geeklan.co.uk/files/ossg-evolving-languages.pdf
+256,Lobsters,go,Golang programming,Golang for Node.js Developers,https://github.com/miguelmota/golang-for-nodejs-developers
+257,Lobsters,go,Golang programming,Go on not so small hardware,https://embeddedgo.github.io/2019/11/16/go_on_not_so_small_hardware.html
+258,Lobsters,go,Golang programming,Storage Combinators in Go,https://github.com/xoba/sc
+259,Lobsters,go,Golang programming,Parsing 18 billion lines JSON with Go,https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2
+260,Lobsters,go,Golang programming,Go test utility: Setup/teardown and reusable fixtures,https://github.com/houqp/gtest
+261,Lobsters,go,Golang programming,Introducing sqlc - Compile SQL queries to type-safe Go,https://conroy.org/introducing-sqlc
+262,Lobsters,go,Golang programming,cdr/slog: Minimal structured logging library for Go,https://github.com/cdr/slog
+263,Lobsters,go,Golang programming,The Go runtime scheduler's clever way of dealing with system calls,https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls
+264,Lobsters,go,Golang programming,Better x86 Assembly Generation with Go,https://www.youtube.com/watch?v=6Y5CZ7_tyA4
+265,Lobsters,go,Golang programming,olaris / olaris-server,https://gitlab.com/olaris/olaris-server
+266,Lobsters,go,Golang programming,go regexp.Replace notes,https://flak.tedunangst.com/post/go-regexpReplace-notes
+267,Lobsters,go,Golang programming,Go memory ballast,https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+268,Lobsters,go,Golang programming,syscall call-from verification,https://marc.info/?l=openbsd-tech&m=157488907117170&w=2
+269,Lobsters,go,Golang programming,Reimplementation of Unix watch command in Go with support for aliases,https://github.com/antonmedv/watch
+270,Lobsters,go,Golang programming,Building a language server for Muon,https://nickmqb.github.io/2019/11/24/building-a-language-server-for-muon.html
+271,Lobsters,go,Golang programming,Go Developer Survey 2019,https://google.qualtrics.com/jfe/form/SV_b1xqnBCMpZAhJZ3
+272,Lobsters,go,Golang programming,Go’s features of last resort,https://www.arp242.net/go-last-resort.html
+273,Lobsters,go,Golang programming,Beating C with 70 Lines of Go,https://ajeetdsouza.github.io/blog/posts/beating-c-with-70-lines-of-go/
+274,Lobsters,go,Golang programming,JSON unmarshal in GoLang,https://www.pixelstech.net/article/1573355516-JSON-unmarshal-in-GoLang
+275,Lobsters,go,Golang programming,The Value in Go's Simplicity,https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/
+276,Lobsters,go,Golang programming,Maintain multiple versions of Go in one single environment,https://www.pixelstech.net/article/1573366500-Maintain-multiple-versions-of-Go-in-one-single-environment
+277,Lobsters,go,Golang programming,Go.dev: a new hub for Go developers,https://blog.golang.org/go.dev
+278,Lobsters,go,Golang programming,How BigCache avoids expensive GC cycles and speeds up concurrent access in Go,https://dev.to/douglasmakey/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go-12bb
+279,Lobsters,go,Golang programming,Moar Pager,https://github.com/walles/moar
+280,Lobsters,go,Golang programming,Twitoderm: wean yourself off addicting websites by making them slightly more frustrating,https://github.com/jtolds/twitoderm
+281,Lobsters,go,Golang programming,Let's Create a Simple Load Balancer With Go,https://kasvith.github.io/posts/lets-create-a-simple-lb-go/
+282,Lobsters,go,Golang programming,Go Turns 10,https://blog.golang.org/10years
+283,Lobsters,go,Golang programming,Security assessment techniques for Go projects,https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/
+284,Lobsters,go,Golang programming,Go Modules: v2 and Beyond,https://blog.golang.org/v2-go-modules
+285,Lobsters,go,Golang programming,TiDB in the Browser: Running a Golang Database on WebAssembly,https://pingcap.com/blog/tidb-in-the-browser-running-a-golang-database-on-webassembly/
+286,Lobsters,go,Golang programming,CockroachDB's Vectorized SQL Engine,https://www.cockroachlabs.com/blog/how-we-built-a-vectorized-sql-engine/
+287,Lobsters,go,Golang programming,Async Programming Go vs Zig: Factorial Example,https://github.com/andrewrk/zig-async-demo/tree/master/factorial
+288,Lobsters,go,Golang programming,An Evening on Modern Programming Languages (2019-11-21),https://ossg.bcs.org/blog/event/modern-languages/
+289,Lobsters,go,Golang programming,Very simple fast static blog generator,https://github.com/freetonik/underblog
+290,Lobsters,go,Golang programming,I'll take pkg over internal,https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/
+291,Lobsters,go,Golang programming,Go is the new Ruby,https://00f.net/2019/10/28/go-is-the-new-ruby/
+292,Lobsters,go,Golang programming,"Get Going: Hello, World",https://christine.website/blog/get-going-hello-world-2019-10-28
+293,Lobsters,go,Golang programming,Faster ZIP Decompression,https://tech.marksblogg.com/faster-zip-decompression-unzip-deflate-zlib-crc32-adler32-7zip-archiver.html
+294,Lobsters,go,Golang programming,"Speeding Up Our Build Pipelines (or ""why we created an open source build server in Go"")",https://engineering.skroutz.gr/blog/speeding-up-build-pipelines-with-mistry/
+295,Lobsters,go,Golang programming,fudge: a lightweight Git WebUI written in Go,https://github.com/bovarysme/fudge
+296,Lobsters,go,Golang programming,Why Do We Need Our Own Bytecode Machine?,https://www.youtube.com/watch?v=Ly1YFAme_Vc
+297,Lobsters,go,Golang programming,Unoon is a desktop tool to monitor processes with network connections,https://github.com/kushaldas/unoon/
+298,Lobsters,go,Golang programming,Buf · A new way of working with Protocol Buffers,https://buf.build/
+299,Lobsters,go,Golang programming,Working with Errors in Go 1.13,https://blog.golang.org/go1.13-errors
+300,Lobsters,go,Golang programming,go-git-dir: simple git hosting with a built-in SSH server,https://github.com/belak/go-git-dir
+301,Lobsters,go,Golang programming,Go Micro - A Go microservices framework to simplify distributed systems development,https://github.com/micro/go-micro
+302,Lobsters,go,Golang programming,Release 1.3.0 of Expr expression evaluation library,https://github.com/antonmedv/expr
+303,Lobsters,go,Golang programming,Compiling linear and static channels in Go,http://ctp.di.fct.unl.pt/~mgiunti/preprints/inforum.pdf
+304,Lobsters,go,Golang programming,gijit: a just-in-time trace-compiled golang REPL,https://github.com/gijit/gi
+305,Lobsters,go,Golang programming,Interpreting Go,http://notes.eatonphil.com/interpreting-go.html
+306,Lobsters,go,Golang programming,The Uber Go Style Guide,https://github.com/uber-go/guide
+307,Lobsters,go,Golang programming,How to Build a Custom Kubernetes Ingress Controller in Go,http://www.doxsey.net/blog/how-to-build-a-custom-kubernetes-ingress-controller-in-go
+308,Lobsters,go,Golang programming,Stateful Stream Processing with Kafka and Go,http://mux.com/blog/stateful-stream-processing-with-kafka-and-go/
+309,Lobsters,go,Golang programming,Be careful about printing error as string in GoLang,https://www.pixelstech.net/article/1548254196-Be-careful-about-printing-error-as-string-in-GoLang
+310,Lobsters,go,Golang programming,Litmus is the toolset for Kubernetes SREs to practice chaos engineering,https://github.com/litmuschaos/litmus
+311,Lobsters,go,Golang programming,"Introduction to slides, a Clean Presentation Tool",https://zge.us.to/slides.html
+312,Lobsters,go,Golang programming,Building an API for Tranco,https://blog.sigterm.se/posts/building-an-api-for-tranco/
+313,Lobsters,go,Golang programming,Go & SQLite,https://crawshaw.io/blog/go-and-sqlite
+314,Lobsters,go,Golang programming,"Go interfaces, the tricky parts",https://timr.co/go-interfaces-the-tricky-parts
+315,Lobsters,go,Golang programming,COPY Relocations,https://crawshaw.io/blog/2016-04-17
+316,Lobsters,go,Golang programming,Tribe Commerce - Open Source On-Demand Services & E-Commerce Platform,https://github.com/tribehq/platform
+317,Lobsters,go,Golang programming,Go library nhooyr.io/websocket: v1.6.2 released with WASM support,https://github.com/nhooyr/websocket
+318,Lobsters,go,Golang programming,Introducing Ristretto: A High-Performance Go Cache,https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/
+319,Lobsters,go,Golang programming,Why Go and not Rust?,https://kristoff.it/blog/why-go-and-not-rust/
+320,Lobsters,go,Golang programming,Go internals: capturing loop variables in closures,https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
+321,Lobsters,go,Golang programming,Building a better Go linker,http://golang.org/s/better-linker
+322,Lobsters,go,Golang programming,Programming with errors,https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html
+323,Lobsters,go,Golang programming,humungus — an hg server,https://humungus.tedunangst.com/r/humungus
+324,Lobsters,go,Golang programming,honk — federated status conveyance,https://humungus.tedunangst.com/r/honk
+325,Lobsters,go,Golang programming,"9 best open-source findings, August 2019",https://dev.to/sobolevn/9-best-open-source-findings-august-2019-31m8
+326,Lobsters,go,Golang programming,Please do not attempt to simplify this code. Keep the space shuttle flying,https://github.com/kubernetes/kubernetes/blob/ec2e767e59395376fa191d7c56a74f53936b7653/pkg/controller/volume/persistentvolume/pv_controller.go
+327,Lobsters,go,Golang programming,Go 1.13 Release Notes,https://golang.org/doc/go1.13
+328,Lobsters,go,Golang programming,BFS in a few lines of code using Go standard library,https://cybernetist.com/2019/03/09/breadth-first-search-using-go-standard-library/
+329,Lobsters,go,Golang programming,A Memory Safety Research Agenda,https://alexgaynor.net/2019/sep/02/memory-safety-research-agenda/
+330,Lobsters,go,Golang programming,kxd: Key exchange daemon,https://blitiri.com.ar/p/kxd/
+331,Lobsters,go,Golang programming,Go Module Mirror and Checksum Database Launched,https://blog.golang.org/module-mirror-launch
+332,Lobsters,go,Golang programming,A Golang Triple Store,https://github.com/spy16/fabric
+333,Lobsters,go,Golang programming,"a free, modern, platform independent and distributed network scanner",https://nray-scanner.org/
+334,Lobsters,go,Golang programming,Directory Bookmarks for CMD.EXE,https://idea.junglecoder.com/view/idea/274
+335,Lobsters,go,Golang programming,.htpasswd Basic Authentication for ZIET Now serverless functions,https://github.com/photogabble/now-htpasswd
+336,Lobsters,go,Golang programming,"An Introduction to ""go tool trace""",https://www.youtube.com/watch?v=V74JnrGTwKA
+337,Lobsters,go,Golang programming,Vim as a Go (Golang) IDE using LSP and vim-go,https://octetz.com/posts/vim-as-go-ide
+338,Lobsters,go,Golang programming,TinyGo - Go on Microcontrollers and WASM,https://tinygo.org/
+339,Lobsters,go,Golang programming,Finding Dependable Go Packages,https://www.youtube.com/watch?v=zCragLHzP1Y
+340,Lobsters,go,Golang programming,Contributors Summit 2019,https://blog.golang.org/contributors-summit-2019
+341,Lobsters,go,Golang programming,distri: a Linux distribution to research fast package management,https://michael.stapelberg.ch/posts/2019-08-17-introducing-distri/
+342,Lobsters,go,Golang programming,A simple DNS service,https://github.com/ehazlett/atlas
+343,Lobsters,go,Golang programming,Software Tracing with Go,http://www.doxsey.net/blog/software-tracing-with-go
+344,Lobsters,go,Golang programming,WebAssembly on the Server: System Calls,https://christine.website/blog/webassembly-talk-video-posted-2019-08-15
+345,Lobsters,go,Golang programming,"phpgrep: syntax-aware grep for PHP code, written in Go",https://github.com/quasilyte/phpgrep
+346,Lobsters,go,Golang programming,gopher.vim: A simpler Vim plugin for the Go programming language,https://github.com/arp242/gopher.vim
+347,Lobsters,go,Golang programming,Using PostgreSQL Full Text Search With Golang (2016),https://www.opsdash.com/blog/postgres-full-text-search-golang.html
+348,Lobsters,go,Golang programming,"A tool for shell commands execution, visualization and alerting",https://github.com/sqshq/sampler
+349,Lobsters,go,Golang programming,"Experiment, Simplify, Ship",https://blog.golang.org/experiment
+350,Lobsters,go,Golang programming,Why Generics?,https://blog.golang.org/why-generics
+351,Lobsters,go,Golang programming,"Cron Email is Dead, Long Live Cron Email",https://www.stackallocated.com/blog/2019/stop-using-smtp/
+352,Lobsters,go,Golang programming,Implementing DESede/ECB/NoPadding cipher algorithm in GoLang,https://www.pixelstech.net/article/1564398187-Implementing-DESede-ECB-NoPadding-cipher-algorithm-in-GoLang
+353,Lobsters,go,Golang programming,"chasquid: SMTP server with a focus on simplicity, security, and ease of operation",https://blitiri.com.ar/p/chasquid/
+354,Lobsters,go,Golang programming,"Go Contracts draft, aka Generics",https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
+355,Lobsters,go,Golang programming,Announcing Yaegi,https://blog.containo.us/announcing-yaegi-263a1e2d070a
+356,Lobsters,go,Golang programming,Faster XML stream processing in Go,https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/
+357,Lobsters,go,Golang programming,Writing delightful HTTP middlewares in Go,https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/
+358,Lobsters,go,Golang programming,"Models of Generics and Metaprogramming: Go, Rust, Swift, D and More",http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/
+359,Lobsters,go,Golang programming,Was Go's Try Proposal a False Flag?,http://www.doxsey.net/blog/was-go-s-try-proposal-a-false-flag-
+360,Lobsters,go,Golang programming,Passing callbacks and pointers to Cgo,https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
+361,Lobsters,go,Golang programming,Easily and securely send things from one computer to another,https://github.com/schollz/croc
+362,Lobsters,go,Golang programming,an attempt at a simple password hashing package in go,https://git.sr.ht/~eau/passwd
+363,Lobsters,go,Golang programming,Library to work with ebpf from Go,https://github.com/dropbox/goebpf
+364,Lobsters,go,Golang programming,High Efficiency Reliable Access to data stores,https://github.com/paypal/hera
+365,Lobsters,go,Golang programming,Clear is better than clever,https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+366,Lobsters,go,Golang programming,Simple job queues for Go,https://github.com/thoas/bokchoy
+367,Lobsters,go,Golang programming,Ale is a Lisp-1 for Go runtime,https://www.ale-lang.org/
+368,Lobsters,go,Golang programming,Go compiler internals: adding a new statement to Go - Part 1,https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/
+369,Lobsters,go,Golang programming,Kubernetes Universal Declarative Operator (KUDO) v0.3.0 released,https://kudo.dev/posts/announcing-kudo-0.3.0/
+370,Lobsters,go,Golang programming,expr v2.0.0 released with up to 10x performance improvements (in some cases),https://github.com/antonmedv/expr/releases/tag/v2.0.0
+371,Lobsters,go,Golang programming,"One Program Written in Python, Go, and Rust",http://nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
+372,Lobsters,go,Golang programming,Go Slices are Fat Pointers,https://nullprogram.com/blog/2019/06/30/
+373,Lobsters,go,Golang programming,The h Programming Language,https://christine.website/blog/h-language-2019-06-30
+374,Lobsters,go,Golang programming,"An open ledger for writing scalable, mission-critical, decentralized WebAssembly applications",https://wavelet.perlin.net
+375,Lobsters,go,Golang programming,Next steps toward Go 2,https://blog.golang.org/go2-next-steps
+376,Lobsters,go,Golang programming,Time For Some Function Recovery,https://lekstu.ga/posts/pclntab-function-recovery/
+377,Lobsters,go,Golang programming,Introducing CIRCL: An Advanced Cryptographic Library,https://blog.cloudflare.com/introducing-circl/
+378,Lobsters,go,Golang programming,Porting Go to netbsd/arm64,https://www.youtube.com/watch?v=brhzfN80LzE
+379,Lobsters,go,Golang programming,Ten Reasons Why I Don't Like Golang (2016),https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html
+380,Lobsters,go,Golang programming,Teaching a cheap ethernet switch new tricks,https://blog.benjojo.co.uk/post/dell-switch-hacking
+381,Lobsters,go,Golang programming,Google Go: Fischer Price’s My First Programming Language,https://elfsternberg.com/2018/01/11/google-fischer-prices-programming-language/
+382,Lobsters,go,Golang programming,Why no max/min function for integer in GoLang,https://www.pixelstech.net/article/1559993656-Why-no-max-min-function-for-integer-in-GoLang
+383,Lobsters,go,Golang programming,Migrating to go mod in just 3 steps,https://medium.com/@ivan.corrales.solera/migrating-to-go-mod-in-just-3-steps-6b6a07a04640
+384,Lobsters,go,Golang programming,Implementing a resumable exception system in Go,https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
+385,Lobsters,go,Golang programming,Check for Go Errors,http://sigusr2.net/check-for-go-errors.html
+386,Lobsters,go,Golang programming,Thought Experiment: Flutter in Go ·,https://divan.dev/posts/flutter_go/
+387,Lobsters,go,Golang programming,RabbitMQ Cluster on FreeBSD Containers,https://vermaden.wordpress.com/2019/06/05/rabbitmq-cluster-on-freebsd-containers/
+388,Lobsters,go,Golang programming,cointop – an interactive terminal based app for tracking cryptocurrencies,https://github.com/miguelmota/cointop
+389,Lobsters,go,Golang programming,Adding support for in-memory encryption of secrets,https://github.com/awnumar/memguard/releases/tag/v0.16.0
+390,Lobsters,go,Golang programming,Upcoming: Spotify Playlists for Your Favorite Venues,https://kyleconroy.com/upcoming
+391,Lobsters,go,Golang programming,Go expression evaluation performance comparison,https://github.com/antonmedv/golang-expression-evaluation-comparison
+392,Lobsters,go,Golang programming,Expr is package to evaluate expressions using bytecode virtual machine,https://github.com/antonmedv/expr
+393,Lobsters,go,Golang programming,Cortex – machine learning infrastructure for developers,https://cortex.dev/
+394,Lobsters,go,Golang programming,Open-sourcing VictoriaMetrics,https://medium.com/@valyala/open-sourcing-victoriametrics-f31e34485c2b
+395,Lobsters,go,Golang programming,"Go is Google's language, not ours",https://utcc.utoronto.ca/~cks/space/blog/programming/GoIsGooglesLanguage
+396,Lobsters,go,Golang programming,Eye to Sky - Pay attention to niche markets,https://blog.notbad.software/post/eye_to_sky/
+397,Lobsters,go,Golang programming,I don't know how CPUs work so I simulated one in code,https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
+398,Lobsters,go,Golang programming,Understanding real-world concurrency bugs in Go,https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
+399,Lobsters,go,Golang programming,Quicktest: wrap *testing.T for fun and profit,https://rogpeppe.wordpress.com/2019/05/15/quicktest-wrap-testing-t-for-fun-and-profit/
+400,Lobsters,go,Golang programming,"GopenPGP, an open source encryption library from ProtonMail",https://protonmail.com/blog/openpgp-golang/
+401,Lobsters,go,Golang programming,Why Go? – Key advantages you may have overlooked,https://yourbasic.org/golang/advantages-over-java-python/
+402,Lobsters,go,Golang programming,Heimdall: Advanced HTTP Client in Go,https://github.com/gojektech/heimdall
+403,Lobsters,go,Golang programming,Encrypting Streams with the Go standard library,https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107
+404,Lobsters,go,Golang programming,Supporting Go Modules in pkgsrc (Part 2),https://bentsukun.ch/posts/go-mod-support-2/
+405,Lobsters,go,Golang programming,Garbage Collection In Go : Part I - Semantics,https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+406,Lobsters,go,Golang programming,Context Deadlines and How to Set Them,https://engineering.grab.com/context-deadlines-and-how-to-set-them
+407,Lobsters,go,Golang programming,to slice or not to slice,https://spacetime.dev/to-slice-or-not-to-slice
+408,Lobsters,go,Golang programming,Linkerd's design principles,https://linkerd.io/2019/04/29/linkerd-design-principles/
+409,Lobsters,go,Golang programming,Why are my Go executable files so large?,https://www.cockroachlabs.com/blog/go-file-size/
+410,Lobsters,go,Golang programming,A specialized database server for linear algebra and machine learning,https://github.com/evilsocket/sum
+411,Lobsters,go,Golang programming,Go modules services,https://proxy.golang.org/
+412,Lobsters,go,Golang programming,Golang Modules Mirror now available in alpha,https://groups.google.com/forum/m/#!topic/golang-dev/go6_lZqew6g
+413,Lobsters,go,Golang programming,nhooyr.io/websocket: A minimal and idiomatic WebSocket library for Go,https://github.com/nhooyr/websocket
+414,Lobsters,go,Golang programming,Can two new objects point to the same memory address in GoLang?,https://www.pixelstech.net/article/1554529174-Can-two-new-objects-point-to-the-same-memory-address-in-GoLang
+415,Lobsters,go,Golang programming,Super Graph an instant GraphQL API service in Go,https://www.youtube.com/watch?v=TGq9wJAj78I
+416,Lobsters,go,Golang programming,pbdb - A key/value database inspired by Designing Data-Intensive Applications,https://github.com/kineticdial/pbdb
+417,Lobsters,go,Golang programming,Linkerd 2.3: towards Zero-Touch Zero-Trust Networking for Kubernetes,https://linkerd.io/2019/04/16/announcing-linkerd-2.3/
+418,Lobsters,go,Golang programming,"App that helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendat",https://github.com/infracloudio/botkube
+419,Lobsters,go,Golang programming,Go memory ballast: How I learnt to stop worrying and love the heap,https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
+420,Lobsters,go,Golang programming,How Uber Halved Our Metrics Ingestion Latency by (Briefly) Forking the Go Compiler,https://eng.uber.com/optimizing-m3/
+421,Lobsters,go,Golang programming,Go Concurrency from the Ground Up,http://www.doxsey.net/blog/go-concurrency-from-the-ground-up
+422,Lobsters,go,Golang programming,spilled.ink: a new take on open source email infrastructure,https://github.com/spilled-ink/spilld
+423,Lobsters,go,Golang programming,glibc getaddrinfo(3) and greener pastures,https://jrl.ninja/etc/2
+424,Lobsters,go,Golang programming,removing array duplicates,https://flak.tedunangst.com/post/removing-array-duplicates
+425,Lobsters,go,Golang programming,"A performance modeling tool implemented as a Haskell DSL, exposing a Golang like API",https://github.com/github/deli
+426,Lobsters,go,Golang programming,"shizaru - a minimalistic, opinionated web server",https://tildegit.org/solderpunk/shizaru/
+427,Lobsters,go,Golang programming,Lessons learned porting 50k loc from Java to Go,https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html
+428,Lobsters,go,Golang programming,Error Handling in Go - Rob Pike Reinvented Monads,https://www.innoq.com/en/blog/golang-errors-monads/
+429,Lobsters,go,Golang programming,Micro the microservices toolkit 1.0 release and beyond,https://micro.mu/blog/2019/04/01/micro-version-1-and-beyond.html
+430,Lobsters,go,Golang programming,A Go implementation of Poly1305 that makes sense,https://blog.filippo.io/a-literate-go-implementation-of-poly1305/
+431,Lobsters,go,Golang programming,Why are my Go executable files so large?,https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html
+432,Lobsters,go,Golang programming,Go Micro - a microservice framework,https://github.com/micro/go-micro
+433,Lobsters,go,Golang programming,Radio is a library for creating RESP (REdis Serialization Protocol) comaptible services,https://github.com/spy16/radio
+434,Lobsters,go,Golang programming,watch tool rewritten in go,https://github.com/antonmedv/watch
+435,Lobsters,go,Golang programming,Red – terminal log analysis tools,https://github.com/antonmedv/red
+436,Lobsters,go,Golang programming,AsiaBSDCon 2019 Proceedings,https://2019.asiabsdcon.org/proc-body-2019.pdf
+437,Lobsters,go,Golang programming,Stripping dependency bloat in VictoriaMetrics Docker image,https://medium.com/@valyala/stripping-dependency-bloat-in-victoriametrics-docker-image-983fb5912b0d
+438,Lobsters,go,Golang programming,Gopher Konstructor,http://quasilyte.dev/gopherkon/
+439,Lobsters,go,Golang programming,Terminal countdown timer,https://github.com/antonmedv/countdown
+440,Lobsters,go,Golang programming,Ring-buffers in go without interface{},https://github.com/antifuchs/o
+441,Lobsters,go,Golang programming,Simple logger for Go programs. Allows custom formats for messages,https://github.com/apsdehal/go-logger
+442,Lobsters,go,Golang programming,rewriting everything in go,https://flak.tedunangst.com/post/rewriting-everything-in-go
+443,Lobsters,go,Golang programming,Queuesim: A simple bounded queue simulator,https://github.com/gunnihinn/queuesim
+444,Lobsters,go,Golang programming,Understanding Real-World Concurrency Bugs in Go,https://songlh.github.io/paper/go-study.pdf
+445,Lobsters,go,Golang programming,PHP linter that is written in Go,https://github.com/VKCOM/noverify
+446,Lobsters,go,Golang programming,Go 1.12 is released - The Go Blog,https://blog.golang.org/go1.12
+447,Lobsters,go,Golang programming,Key Value storage based on Ranged LSM tree,https://github.com/sch00lb0y/aran
+448,Lobsters,go,Golang programming,Practical Go: Real world advice for writing maintainable Go programs,https://dave.cheney.net/practical-go/presentations/qcon-china.html
+449,Lobsters,go,Golang programming,Tiles: Report on Programmatic Code Generation,http://250bpm.com/blog:147
+450,Lobsters,go,Golang programming,Go-style concurrency in C,https://github.com/sustrik/libmill
+451,Lobsters,go,Golang programming,Go is a Pretty Average Language,https://blog.chewxy.com/2019/02/20/go-is-average
+452,Lobsters,go,Golang programming,A simple GNU info replacement which isn't terrible,https://github.com/carpetsmoker/info
+453,Lobsters,go,Golang programming,Writing type parametric functions in Go (2013),https://blog.burntsushi.net/type-parametric-functions-golang/
+454,Lobsters,go,Golang programming,Generics arent ready for Go,https://drewdevault.com/2019/02/18/Generics-arent-ready-for-Go.html
+455,Lobsters,go,Golang programming,Go package to make lightweight ASCII line graph in command line apps with no other dependencies,https://github.com/guptarohit/asciigraph
+456,Lobsters,go,Golang programming,1M Concurrent Websockets With Go,https://github.com/eranyanay/1m-go-websockets
+457,Lobsters,go,Golang programming,An Advanced HTTP Reverse Proxy with Dynamic Sharding Strategies,https://github.com/gojektech/weaver
+458,Lobsters,go,Golang programming,griping about go,http://www.tedunangst.com/flak/post/griping-about-go
+459,Lobsters,go,Golang programming,"Coming to Golang in 2019: Modules, Generics, Better Error-Handling",https://thenewstack.io/whats-coming-to-golang-in-2019-modules-generics-better-error-handling/
+460,Lobsters,go,Golang programming,Benchmarking Go vs Node vs Elixir,https://stressgrid.com/blog/benchmarking_go_vs_node_vs_elixir/
+461,Lobsters,go,Golang programming,Git CLI Explorer in Go,https://github.com/isacikgoz/gitin
+462,Lobsters,go,Golang programming,Weighted Random Draws in Go,https://cybernetist.com/2019/01/24/random-weighted-draws-in-go/
+463,Lobsters,go,Golang programming,Learn Go With Test-Driven Development,https://github.com/quii/learn-go-with-tests
+464,Lobsters,go,Golang programming,AST normalization for Go programs analysis,https://github.com/Quasilyte/astnorm
+465,Lobsters,go,Golang programming,ASCII movies over HTTP,https://github.com/martinraison/ascii-tv
+466,Lobsters,go,Golang programming,Go client for Travis CI API,https://github.com/shuheiktgw/go-travis
+467,Lobsters,go,Golang programming,The Go type system for newcomers,https://rakyll.org/typesystem/
+468,Lobsters,go,Golang programming,toying with gomacro,http://www.tedunangst.com/flak/post/toying-with-gomacro
+469,Lobsters,go,Golang programming,tengo: embeddable script language for Go,https://github.com/d5/tengo
+470,Lobsters,go,Golang programming,"Apollo program, Kalman filter and go-filter library",https://cybernetist.com/2019/01/13/apollo-kalman-filter-and-go-filter/
+471,Lobsters,go,Golang programming,Optimising startup time of Prometheus 2.6.0 with pprof,https://www.robustperception.io/optimising-startup-time-of-prometheus-2-6-0-with-pprof
+472,Lobsters,go,Golang programming,Generate x86 Assembly with Go,https://github.com/mmcloughlin/avo
+473,Lobsters,go,Golang programming,"write APIs using direct SQL queries with no hassle, let's rethink about SQL",https://github.com/alash3al/sqler
+474,Lobsters,go,Golang programming,Multithreaded-Sorting,https://easyprog.app/blog/sort_par.html
+475,Lobsters,go,Golang programming,Syncthing graduation day,https://forum.syncthing.net/t/syncthing-graduation-day/12617
+476,Lobsters,go,Golang programming,Beware of copying mutexes in Go,https://eli.thegreenplace.net/2018/beware-of-copying-mutexes-in-go/
+477,Lobsters,go,Golang programming,Gotalk (2015): making it easy for programs to talk with one another over the internet,https://rsms.me/gotalk
+478,Lobsters,go,Golang programming,"Supporting Go Modules in pkgsrc, a Proposal",https://bentsukun.ch/posts/go-mod-support/
+479,Lobsters,go,Golang programming,An enhanced HTTP client for Go,https://github.com/gojektech/heimdall
+480,Lobsters,go,Golang programming,"""Space shuttle style"" programming",https://github.com/kubernetes/kubernetes/blob/ec2e767e59395376fa191d7c56a74f53936b7653/pkg/controller/volume/persistentvolume/pv_controller.go#L54
+481,Lobsters,go,Golang programming,How I write Go HTTP services after seven years,https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
+482,Lobsters,go,Golang programming,Go Modules in 2019,https://blog.golang.org/modules2019
+483,Lobsters,go,Golang programming,Let’s Make an NTP Client in Go,https://medium.com/learning-the-go-programming-language/lets-make-an-ntp-client-in-go-287c4b9a969f
+484,Lobsters,go,Golang programming,Introducing NGS,https://hackernoon.com/introducing-ngs-d3d216d0daef
+485,Lobsters,go,Golang programming,Announcing Yggdrasil Network v0.3,https://yggdrasil-network.github.io/2018/12/12/announcing-v0-3.html
+486,Lobsters,go,Golang programming,PHP was never meant to die,https://blog.spiralscout.com/php-was-never-meant-to-die-830de87915ee
+487,Lobsters,go,Golang programming,"Go 2, here we come",https://blog.golang.org/go2-here-we-come
+488,Lobsters,go,Golang programming,Adventures in Cgo Performance,https://www.youtube.com/watch?v=71ggzBeHdmA
+489,Lobsters,go,Golang programming,Reposurgeon's Excellent Journey and the Waning of Python,http://esr.ibiblio.org/?p=8161
+490,Lobsters,go,Golang programming,Golang made teeny-tiny: Go compiler for microcontrollers,https://jaxenter.com/go-tinygo-microcontrollers-152348.html
+491,Lobsters,go,Golang programming,"GoAWK, an AWK interpreter written in Go",https://benhoyt.com/writings/goawk/
+492,Lobsters,go,Golang programming,Microsoft released an implementation of Lua 5.3 in Go,https://github.com/Azure/golua
+493,Lobsters,go,Golang programming,RTCTunnel: Building a WebRTC Proxy with Go,http://www.doxsey.net/blog/rtctunnel--building-a-webrtc-proxy-with-go
+494,Lobsters,go,Golang programming,Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications,https://www.youtube.com/watch?v=RIvL2ONhFBI
+495,Lobsters,go,Golang programming,Linter for making your Go programs more consistent,https://github.com/Quasilyte/go-consistent
+496,Lobsters,go,Golang programming,de - A Programmer's Text Editor,https://github.com/driusan/de
+497,Lobsters,go,Golang programming,CockroachDB internship project: Speeding up some interleaved table deletes by a factor of 10 billion,https://emsal.me/blog/5
+498,Lobsters,go,Golang programming,"Write.as source code published, self-hostable",https://blog.writefreely.org/
+499,Lobsters,go,Golang programming,Nine years of Go,https://blog.golang.org/9years
+500,Lobsters,go,Golang programming,AmiPiBorg - extending an Amiga by pairing it with a Raspberry Pi,https://github.com/adkennan/AmiPiBorg-amiga
+501,Lobsters,go,Golang programming,Participate in the 2018 Go User Survey,https://blog.golang.org/survey2018
+502,Lobsters,go,Golang programming,Sort json records with coreutils sort,https://github.com/andrewchambers/jsonsort
+503,Lobsters,go,Golang programming,Using Structs to Facilitate Dependency Injection with Go,https://blog.dnsimple.com/2018/11/using-structs-to-facilitate-dependency-injection-with-go
+504,Lobsters,go,Golang programming,Writing Network Drivers in Go,https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf
+505,Lobsters,go,Golang programming,GoBoy: Gameboy Color Emulator in Go,https://humpheh.github.io/goboy/
+506,Lobsters,go,Golang programming,Pathologies of Go package management,https://leozhang.me/post/2018/10/22/pathologies-of-go-package-management/
+507,Lobsters,go,Golang programming,Proposal: Go 2 transition,https://github.com/golang/proposal/blob/master/design/28221-go2-transitions.md
+508,Lobsters,go,Golang programming,Structured go concurrency with garbage collected goroutines,https://github.com/andrewchambers/bundle
+509,Lobsters,go,Golang programming,yeetgif - command-line GIF effects (Go rewrite),https://github.com/sgreben/yeetgif
+510,Lobsters,go,Golang programming,Open Policy Agent: Policy-based control for cloud native environments,https://www.openpolicyagent.org/
+511,Lobsters,go,Golang programming,"pixiecore: Single binary, all-in-one PXE daemon",https://github.com/google/netboot/tree/master/pixiecore
+512,Lobsters,go,Golang programming,"Roll all instances within a kubernetes cluster, using a zero-downtime strategy",https://github.com/dmathieu/dice
+513,Lobsters,go,Golang programming,The success of Go heralds that of Rust,https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500
+514,Lobsters,go,Golang programming,Compile-time Dependency Injection With Go Cloud's Wire,https://blog.golang.org/wire
+515,Lobsters,go,Golang programming,Biscuit research OS,https://github.com/mit-pdos/biscuit
+516,Lobsters,go,Golang programming,Go 1.11 got me to stop ignoring Go,https://drewdevault.com/2018/10/08/Go-1.11.html
+517,Lobsters,go,Golang programming,The benefits and costs of writing a POSIX kernel in a high-level language,https://www.usenix.org/conference/osdi18/presentation/cutler
+518,Lobsters,go,Golang programming,Edge computing with Go and Movidius Neural Compute Stick,https://mlexplore.org/2018/10/07/edge-computing-with-go-and-intel-movidius-neural-compute-stick/
+519,Lobsters,go,Golang programming,A deep dive into the OS memory use of a simple Go program,https://utcc.utoronto.ca/~cks/space/blog/programming/GoProgramMemoryUse
+520,Lobsters,go,Golang programming,Found this load testing framework in Go while browsing through Github,https://github.com/gophercarrot/carrot
+521,Lobsters,go,Golang programming,A UDP server and client in Go,https://ops.tips/blog/udp-client-and-server-in-go/
+522,Lobsters,go,Golang programming,How a Go Program Compiles down to Machine Code,https://getstream.io/blog/how-a-go-program-compiles-down-to-machine-code/
+523,Lobsters,go,Golang programming,Go Interface Mocking Tool,https://github.com/percolate/charlatan
+524,Lobsters,go,Golang programming,I ported my Gameboy Color emulator to WebAssembly,https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/
+525,Lobsters,go,Golang programming,Program for AVX-512 instructions frequency impact evaluation,https://github.com/intel-go/avx512counters
+526,Lobsters,go,Golang programming,Learn Go with Seam Carving and Rockets,https://getstream.io/blog/go-1-11-rocket-tutorial/
+527,Lobsters,go,Golang programming,Get Programming with Go is now available in print,/s/3l2vue/get_programming_with_go_is_now_available
+528,Lobsters,go,Golang programming,Building a finance tracking REST API using Go with TDD - Part 2,https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-tdd---part-2-1i70
+529,Lobsters,go,Golang programming,Curated list of Golang conference and meetup videos from 2018 (Q1 edition),https://blog.meetupfeed.com/golang-conference-and-meetup-videos-from-2018-q1-digest/
+530,Lobsters,go,Golang programming,Request-level configuration invariance in Go,http://magnusson.io/misc/go-state-channel.html
+531,Lobsters,go,Golang programming,GopherCon 2018: Hunter Loftis - Painting with Light,https://www.youtube.com/watch?v=4X06yu9GzDo
+532,Lobsters,go,Golang programming,GopherCon 2018 videos,http://www.youtube.com/playlist?list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM
+533,Lobsters,go,Golang programming,ASCII convert in Go,https://github.com/knrt10/asciiConvert
+534,Lobsters,go,Golang programming,Our experience designing and building production gRPC services,https://blog.bugsnag.com/using-grpc-in-production/
+535,Lobsters,go,Golang programming,Building a finance tracking REST API using Go with TDD - Part 1,https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-test-driven-development---part-1-16o8
+536,Lobsters,go,Golang programming,Go says Wat,https://about.sourcegraph.com/go/gophercon-2018-go-says-wat/
+537,Lobsters,go,Golang programming,On the road to pure Go X11 GUIs,https://p.janouch.name/article-xgb.html
+538,Lobsters,go,Golang programming,Go2 Contracts Go Too Far,https://npf.io/2018/09/go2-contracts-go-too-far/
+539,Lobsters,go,Golang programming,Go Report Card | Go project code quality report cards,https://goreportcard.com/
+540,Lobsters,go,Golang programming,Maybe adding generics to Go IS about syntax after all,https://dave.cheney.net/2018/09/03/maybe-adding-generics-to-go-is-about-syntax-after-all
+541,Lobsters,go,Golang programming,godoc Tricks,https://godoc.org/github.com/fluhus/godoc-tricks
+542,Lobsters,go,Golang programming,Implementing a Network Protocol in Go,https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go
+543,Lobsters,go,Golang programming,Notes on the Go2 Generics Draft,http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
+544,Lobsters,go,Golang programming,Computer Vision Using Go and OpenCV 3,https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3/
+545,Lobsters,go,Golang programming,The pain that minimal version selection solves,https://about.sourcegraph.com/blog/the-pain-that-minimal-version-selection-solves/
+546,Lobsters,go,Golang programming,Braid: a functional language that compiles to Go,https://github.com/joshsharp/braid
+547,Lobsters,go,Golang programming,Edge case in Go's windows exec package,https://golang.org/src/os/exec_windows.go?s=1263:1301#L38
+548,Lobsters,go,Golang programming,A deep dive into the Go memory allocator and garbage collector,https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/
+549,Lobsters,go,Golang programming,Shrinking Go Binaries,http://blog.johnford.org/2018/08/shrinking-go-binaries.html
+550,Lobsters,go,Golang programming,Go 2 Draft Designs,https://go.googlesource.com/proposal/+/master/design/go2draft.md
+551,Lobsters,go,Golang programming,Go 1.11 and Beyond (Presentation),https://docs.google.com/presentation/d/1EwuJhEHR5Trr2aXBPQajZ2Hcoh29tm_LQCpgfrCnuRk/preview?slide=id.g33148270ac_0_143
+552,Lobsters,go,Golang programming,Go 1.11 is released,https://blog.golang.org/go1.11
+553,Lobsters,go,Golang programming,Geohash in Golang Assembly: Lessons in absurd optimization,https://mmcloughlin.com/posts/geohash-assembly
+554,Lobsters,go,Golang programming,Whiteboard problems in pure Lambda Calculus,https://www.jtolio.com/2017/03/whiteboard-problems-in-pure-lambda-calculus/
+555,Lobsters,go,Golang programming,A tale of two sessions,https://blog.abraithwaite.net/2018/08/14/two-sessions/
+556,Lobsters,go,Golang programming,Imitating Scala Futures with Go channels (in Go and Clojure),http://tindaloscode.blogspot.com/2017/03/imitating-scala-futures-with-go.html
+557,Lobsters,go,Golang programming,Remote laptop power management using Intel AMT and Dropbear (initramfs) SSH,https://medium.com/@milanaleksic/remote-laptop-power-management-using-intel-amt-and-dropbear-initramfs-ssh-9b727fa6d58e
+558,Lobsters,go,Golang programming,tzconv - Time converter with timezone fuzzy search,https://github.com/alexdzyoba/tzconv
+559,Lobsters,go,Golang programming,The X-Files: Avoiding Concurrency Boilerplate With golang.org/x/sync,https://rodaine.com/2018/08/x-files-sync-golang/
+560,Lobsters,go,Golang programming,The Paperback Edition of Writing A Compiler In Go,https://thorstenball.com/blog/2018/08/14/paperback-writing-a-compiler-in-go/
+561,Lobsters,go,Golang programming,The Robustness of Go (GOTO 2018),https://www.youtube.com/watch?v=40d26ZGfhR8
+562,Lobsters,go,Golang programming,"M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus",https://eng.uber.com/m3/
+563,Lobsters,go,Golang programming,"Typegram: Blogging, publishing, commenting platform",https://github.com/recoilme/tgram
+564,Lobsters,go,Golang programming,as/a - An ACME clone written in go,https://github.com/as/a
+565,Lobsters,go,Golang programming,lazygit: A TUI application for managing git repos,https://github.com/jesseduffield/lazygit
+566,Lobsters,go,Golang programming,"Life: A secure, blazing-fast, cross-platform WebAssembly VM in Go",https://medium.com/perlin-network/life-a-secure-blazing-fast-cross-platform-webassembly-vm-in-go-ea3b31fa6e09
+567,Lobsters,go,Golang programming,Writing A Compiler In Go is now available,https://compilerbook.com
+568,Lobsters,go,Golang programming,"Should C Programmers learn C++, Go or Rust?",http://ds9a.nl/articles/posts/cpp-rust-go/
+569,Lobsters,go,Golang programming,A response about dep and vgo,https://peter.bourgon.org/blog/2018/07/27/a-response-about-dep-and-vgo.html
+570,Lobsters,go,Golang programming,Portable Cloud Programming with Go Cloud - The Go Blog,https://blog.golang.org/go-cloud
+571,Lobsters,go,Golang programming,Go for Industrial Programming,https://peter.bourgon.org/go-for-industrial-programming/
+572,Lobsters,go,Golang programming,jsoniter - faster than Go’s json,http://jsoniter.com/migrate-from-go-std.html
+573,Lobsters,go,Golang programming,Getting to Go,https://blog.golang.org/ismmkeynote
+574,Lobsters,go,Golang programming,Introducing prose v2.0.0: Bringing NLP to Go,https://medium.com/@errata.ai/introducing-prose-v2-0-0-bringing-nlp-to-go-a1f0c121e4a5
+575,Lobsters,go,Golang programming,Contributing to Go with go-critic,https://medium.com/@olegkovalov/contributing-to-go-with-go-critic-88a25e162bf6
+576,Lobsters,go,Golang programming,Bare Metal K8s Clustering at Chick-fil-A Scale,https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541
+577,Lobsters,go,Golang programming,Using Go mobile on iOS for real,https://blog.nobugware.com/post/2016/go_mobile_ios_real_usage/
+578,Lobsters,go,Golang programming,A fast geo database with Google S2 take #2,https://blog.nobugware.com/post/2016/geo_db_s2_geohash_database/
+579,Lobsters,go,Golang programming,How to minify and bundle assets using Hugo,https://ops.tips/blog/minifying-and-bundling-assets-using-hugo/
+580,Lobsters,go,Golang programming,Systems Languages: An Experience Report,https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628
+581,Lobsters,go,Golang programming,Actually Archiving Your Entire Twitter Account,https://kyleconroy.com/archiving-twitter
+582,Lobsters,go,Golang programming,Go with WebAssembly Early Examples,https://blog.lazyhacker.com/2018/06/go-with-webassembly-early-examples.html
+583,Lobsters,go,Golang programming,A Rusty Go at Channels,https://gsquire.github.io/static/post/a-rusty-go-at-channels/
+584,Lobsters,go,Golang programming,Rush Hour - Puzzle Solver & Generator,https://github.com/fogleman/rush
+585,Lobsters,go,Golang programming,Compiler Explorer (think CodePen for C(++)/D/Go/Rust/Swift/Haskell disassembly),https://gcc.godbolt.org/
+586,Lobsters,go,Golang programming,Welcome go-critic,https://medium.com/@olegkovalov/welcome-go-critic-a26b6e30f1c6
+587,Lobsters,go,Golang programming,"Comparing Languages for Engineering Server Software: Erlang, Go, and Scala with Akka",http://www.dcs.gla.ac.uk/~trinder/papers/sac-18.pdf
+588,Lobsters,go,Golang programming,A theory of modern Go,https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html
+589,Lobsters,go,Golang programming,Fixing the billion dollar mistake in Go by borrowing from Rust,https://getstream.io/blog/fixing-the-billion-dollar-mistake-in-go-by-borrowing-from-rust/
+590,Lobsters,go,Golang programming,"Yggdrasil, a proof-of-concept scaleable E2E encrypted mesh network, reaches v0.2",https://yggdrasil-network.github.io
+591,Lobsters,go,Golang programming,PHP Parser Written in Go,https://github.com/z7zmey/php-parser
+592,Lobsters,go,Golang programming,How to write bulletproof code in Go: a workflow for servers that can’t fail,https://medium.freecodecamp.org/how-to-write-bulletproof-code-in-go-a-workflow-for-servers-that-cant-fail-10a14a765f22
+593,Lobsters,go,Golang programming,Keep passwords and secrets out of your logs with Go,https://hackernoon.com/keep-passwords-and-secrets-out-of-your-logs-with-go-a2294a9546ce
+594,Lobsters,go,Golang programming,A Stupid CLI for Fuck Off As A Service,https://github.com/palash25/foaas-cli
+595,Lobsters,go,Golang programming,"Go & Versioning, Part 9: What is Software Engineering?",https://research.swtch.com/vgo-eng
+596,Lobsters,go,Golang programming,The vgo proposal is accepted. Now what?,https://research.swtch.com/vgo-accepted
+597,Lobsters,go,Golang programming,"Failure Modes, dep author's view of vgo",https://sdboyer.io/vgo/failure-modes/
+598,Lobsters,go,Golang programming,Go2 Wiki,https://github.com/golang/go/wiki/Go2
+599,Lobsters,go,Golang programming,Updating the Go Code of Conduct,https://blog.golang.org/conduct-2018
+600,Lobsters,go,Golang programming,A retrospective on moving from Go to Clojure - [27:15 video],https://www.youtube.com/watch?v=3y7xzH8jB8A
+601,Lobsters,go,Golang programming,the vgo proposal has been accepted,https://github.com/golang/go/issues/24301#issuecomment-390766926
+602,Lobsters,go,Golang programming,A Step-by-Step Guide to Go Internationalization (i18n) & Localization (l10n),https://phraseapp.com/blog/posts/internationalization-i18n-go/
+603,Lobsters,go,Golang programming,Dependency Injection in Go,http://blog.drewolson.org/dependency-injection-in-go/
+604,Lobsters,go,Golang programming,An Analysis of vgo,https://sdboyer.io/vgo/intro/
+605,Lobsters,go,Golang programming,Transcribe Japanese using Go and Machine Learning APIs,https://medium.com/@enocom/transcribe-japanese-using-go-and-machine-learning-apis-3ccc74f6c800
+606,Lobsters,go,Golang programming,XMPP Server written in golang,https://github.com/ortuman/jackal
+607,Lobsters,go,Golang programming,iota: Elegant Constants in Golang,https://splice.com/blog/iota-elegant-constants-golang/
+608,Lobsters,go,Golang programming,Dynamic Nginx Router... in Go!,http://relistan.com/dynamic-nginx-router-in-go/
+609,Lobsters,go,Golang programming,How to Create Bitrise Step in Go – Flutter Example,https://www.thedroidsonroids.com/blog/how-to-create-bitrise-step-in-go-flutter-example
+610,Lobsters,go,Golang programming,GopherCon Singapore 2018 Videos,https://engineers.sg/conference/gopherconsg-2018
+611,Lobsters,go,Golang programming,"Open-sourcing gVisor, a sandboxed container runtime",https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html
+612,Lobsters,go,Golang programming,🏎Create fake REST API in one sec.,https://github.com/cooldrip/jhop
+613,Lobsters,go,Golang programming,Securely logging & tracing HTTP requests in Go,https://zvelo.com/securely-logging-tracing-http-requests-go/
+614,Lobsters,go,Golang programming,Five worst things in AWS CloudFormation,https://appliscale.io/five-worst-things-aws-cloudformation/
+615,Lobsters,go,Golang programming,Go on very small hardware (Part 2),https://ziutek.github.io/2018/04/14/go_on_very_small_hardware2.html
+616,Lobsters,go,Golang programming,Go's New Brand,https://blog.golang.org/go-brand
+617,Lobsters,go,Golang programming,Adventures with cgo: Part 2- Locks and other things that go bump in the night,https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-2--locks-and-other-things-that-go-bump-in-the-night/
+618,Lobsters,go,Golang programming,Transcript of Russ Cox Interview on GoTime,https://github.com/thechangelog/transcripts/blob/master/gotime/go-time-77.md
+619,Lobsters,go,Golang programming,Interactive Go programming with Jupyter,https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
+620,Lobsters,go,Golang programming,Adventures with cgo: Part 1- The Pointering,https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/
+621,Lobsters,go,Golang programming,Announcing duit: developer ui toolkit,https://www.ueber.net/who/mjl/blog/p/duit-developer-ui-toolkit/
+622,Lobsters,go,Golang programming,Sloc Cloc and Code - What happened on the way to faster Cloc,https://boyter.org/posts/sloc-cloc-code/
+623,Lobsters,go,Golang programming,Should we use mocking libraries for go testing?,https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/
+624,Lobsters,go,Golang programming,Writing Advanced Web Applications with Go,https://www.jtolio.com/2017/01/writing-advanced-web-applications-with-go/
+625,Lobsters,go,Golang programming,Building Real Time Analytics APIs at Scale,https://blog.algolia.com/building-real-time-analytics-apis/
+626,Lobsters,go,Golang programming,"Go: the Good, the Bad and the Ugly",https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/
+627,Lobsters,go,Golang programming,We saved $50k/y with a tiny Go microservice coded in a Hackathon,https://movio.co/en/blog/saving-money-with-Hackathon-project/
+628,Lobsters,go,Golang programming,Don't lock around I/O,https://commandercoriander.net/blog/2018/04/10/dont-lock-around-io/
+629,Lobsters,go,Golang programming,Awesomenes: a NES emulator written in Go,https://github.com/rbaron/awesomenes
+630,Lobsters,go,Golang programming,Go at Google: Language Design in the Service of Software Engineering,https://talks.golang.org/2012/splash.article
+631,Lobsters,go,Golang programming,Go's native blockchain support,https://go-review.googlesource.com/c/go/+/103862
+632,Lobsters,go,Golang programming,Host your own DNS-Over-HTTPS server for Firefox,https://github.com/st3fan/tinydoh
+633,Lobsters,go,Golang programming,A Note on Using Go Interfaces Well,https://commandercoriander.net/blog/2018/03/30/go-interfaces/
+634,Lobsters,go,Golang programming,Go on very small hardware,https://ziutek.github.io/2018/03/30/go_on_very_small_hardware.html
+635,Lobsters,go,Golang programming,A Resilient Git Dependency Algorithm,https://hypirion.com/musings/a-resilient-git-dependency-algorithm
+636,Lobsters,go,Golang programming,A Proposal for Package Versioning in Go - The Go Blog,https://blog.golang.org/versioning-proposal
+637,Lobsters,go,Golang programming,Quick intro to go assembly,https://blog.hackercat.ninja/post/quick_intro_to_go_assembly/
+638,Lobsters,go,Golang programming,On Go (2009),http://cowlark.com/2009-11-15-go/
+639,Lobsters,go,Golang programming,jp - simple terminal plots from JSON data,https://github.com/sgreben/jp
+640,Lobsters,go,Golang programming,"Go Talk recordings from meetups and conferences during Q4 2017: GothamGo, DotGo and GoSydney",https://blog.meetupfeed.com/go-talk-recordings-meetups-conferences-q4-2017/
+641,Lobsters,go,Golang programming,Integration of a Go service with systemd: socket activation,https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation
+642,Lobsters,go,Golang programming,How to write Go middleware,https://kev.inburke.com/kevin/how-to-write-go-middleware/?lobsters
+643,Lobsters,go,Golang programming,Building Resiliency in Distributed Systems at Scale,https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4
+644,Lobsters,go,Golang programming,An introduction to LLVM in Go,https://felixangell.com/blog/an-introduction-to-llvm-in-go
+645,Lobsters,go,Golang programming,"Go Is Amazing, So Here's What I Don't Like About It",https://www.evilsocket.net/2018/03/14/Go-is-amazing-so-here-s-what-i-don-t-like-about-it/#.WqnQuUFrskc.twitter
+646,Lobsters,go,Golang programming,Time-series histograms with Rothko — Observability for IoT,https://innovation.vivint.com/time-series-histograms-with-rothko-observability-for-iot-ce39a09c35fc
+647,Lobsters,go,Golang programming,Get Programming with Go,https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821
+648,Lobsters,go,Golang programming,Type-Safe Mypy Stub Generator for Protocol Buffers,https://github.com/arachnys/protostub
+649,Lobsters,go,Golang programming,The Cost and Complexity of Cgo,https://www.cockroachlabs.com/blog/the-cost-and-complexity-of-cgo/
+650,Lobsters,go,Golang programming,A Gopher's Reading List,https://github.com/enocom/gopher-reading-list
+651,Lobsters,go,Golang programming,Heimdall: An Enhanced HTTP Client in Go,https://github.com/gojektech/heimdall
+652,Lobsters,go,Golang programming,Go 2017 Survey Results,https://blog.golang.org/survey2017-results
+653,Lobsters,go,Golang programming,"research!rsc: Defining Go Modules (Go and Versioning, Part 6)",https://research.swtch.com/vgo-module
+654,Lobsters,go,Golang programming,Dissecting Kubernetes Deployments,https://blog.heroku.com/dissecting-kubernetes-deployments
+655,Lobsters,go,Golang programming,"research!rsc: Reproducible, Verifiable, Verified Builds (Go & Versioning, Part 5)",https://research.swtch.com/vgo-repro
+656,Lobsters,go,Golang programming,"Dissecting golang's HandlerFunc, Handle and DefaultServeMux",http://echorand.me/dissecting-golangs-handlerfunc-handle-and-defaultservemux.html
+657,Lobsters,go,Golang programming,I Do Not Like Go,https://grimoire.ca/dev/go
+658,Lobsters,go,Golang programming,"research!rsc: Minimal Version Selection (Go & Versioning, Part 4)",https://research.swtch.com/vgo-mvs
+659,Lobsters,go,Golang programming,"research!rsc: Semantic Import Versioning (Go & Versioning, Part 3)",https://research.swtch.com/vgo-import
+660,Lobsters,go,Golang programming,Go & Versioning,https://research.swtch.com/vgo
+661,Lobsters,go,Golang programming,Tags in Golang,https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e
+662,Lobsters,go,Golang programming,Building a Go Web App in 2017,http://grisha.org/blog/2017/04/27/simplistic-go-web-app
+663,Lobsters,go,Golang programming,Go 1.10 is released,https://blog.golang.org/go1.10
+664,Lobsters,go,Golang programming,Fidelius – Access private GitHub repos in docker build,https://medium.com/verloop-engineering/fidelius-e4b2d8b6b1df
+665,Lobsters,go,Golang programming,Verification of Goroutines Using Why3 (2016),http://www.ru.nl/publish/pages/769526/marc_schoolderman.pdf
+666,Lobsters,go,Golang programming,Extending GopherJS,http://www.doxsey.net/blog/extending-gopherjs
+667,Lobsters,go,Golang programming,Scheduling in Kubernetes,http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/
+668,Lobsters,go,Golang programming,Instrumenting Go service for Prometheus,https://alex.dzyoba.com/blog/go-prometheus-service/
+669,Lobsters,go,Golang programming,How it works: Compiler Explorer,https://xania.org/201609/how-compiler-explorer-runs-on-amazon
+670,Lobsters,go,Golang programming,fhs/9upspinfs - 9P file server for Upspin,https://github.com/fhs/9upspinfs
+671,Lobsters,go,Golang programming,Alternatives to sum types in Go,https://making.pusher.com/alternatives-to-sum-types-in-go/
+672,Lobsters,go,Golang programming,All about Go's Stringer interface,http://musse.cc/blog/stringer-golang
+673,Lobsters,go,Golang programming,tj - stdin line timestamps,https://github.com/sgreben/tj
+674,Lobsters,go,Golang programming,Using Go 1.10 new trace features to debug an integration test,https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d
+675,Lobsters,go,Golang programming,How a fix in Go 1.9 sped up our Gitaly service by 30x,https://about.gitlab.com/2018/01/23/how-a-fix-in-go-19-sped-up-our-gitaly-service-by-30x/
+676,Lobsters,go,Golang programming,Building 8-bit Emulator in Golang,https://engineering.wpengine.com/building-8-bit-emulator-in-golang/
+677,Lobsters,go,Golang programming,What even is error handling?,https://blog.merovius.de/2018/01/21/what_even_is_error_handling.html
+678,Lobsters,go,Golang programming,5 More Gotchas and Tricks of Defer in Go — Part III,https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1
+679,Lobsters,go,Golang programming,Stream & Go: News feeds for over 300 million users,https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users
+680,Lobsters,go,Golang programming,"Go Go, Go! Stream Processing for Go",https://blog.wallaroolabs.com/2018/01/go-go-go-stream-processing-for-go/
+681,Lobsters,go,Golang programming,Twirp: a sweet new RPC framework for Go,https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f
+682,Lobsters,go,Golang programming,The Why of Go,https://www.infoq.com/presentations/go-concurrency-gc
+683,Lobsters,go,Golang programming,Go’s hidden #pragmas,https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
+684,Lobsters,go,Golang programming,Monads for Go Programmers,https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/
+685,Lobsters,go,Golang programming,Autocomplete engine in Go: let's build it,https://alediaferia.com/2018/01/06/autocomplete-engine-go/
+686,Lobsters,go,Golang programming,Learn Go Programming - Yearly Cap,https://blog.learngoprogramming.com/2017-yearly-recap-5349f6d7d67b
+687,Lobsters,go,Golang programming,Making PISC faster: Exercises in de-stupiding code,http://www.andy-rambles.com/post/PISC-Perf-2017/#second-overhead-anchor
+688,Lobsters,go,Golang programming,What I learned in 2017 Writing Go,https://www.commandercoriander.net/blog/2017/12/31/writing-go/
+689,Lobsters,go,Golang programming,Microservices in Java? Never.,https://codeburst.io/microservices-in-java-never-a7f3a2540dbb
+690,Lobsters,go,Golang programming,Fork-like behaviour in Go,https://blog.0xfb.me/2017/12/27/fork-like-behaviour-in-go/
+691,Lobsters,go,Golang programming,Write a Kubernetes-ready service from zero step-by-step,https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/
+692,Lobsters,go,Golang programming,"Fireworq - A lightweight, high-performance, language-independent job queue system",https://github.com/fireworq/fireworq
+693,Lobsters,go,Golang programming,Advanced Testing Techniques in Go,https://segment.com/blog/5-advanced-testing-techniques-in-go/
+694,Lobsters,go,Golang programming,5 More Gotchas of Defer in Go — Part II,https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa
+695,Lobsters,go,Golang programming,Scraping Framework for Golang,http://go-colly.org/
+696,Lobsters,go,Golang programming,Diagnostics,https://tip.golang.org/doc/diagnostics.html
+697,Lobsters,go,Golang programming,Dubsmash's road to 200 million users with 3 engineers,https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers
+698,Lobsters,go,Golang programming,Server-side I/O Performance: Node vs. PHP vs. Java vs. Go,https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
+699,Lobsters,go,Golang programming,Introducing the Joy Compiler,https://mat.tm/joy/
+700,Lobsters,go,Golang programming,Moving from PHP to GO and back again,https://medium.com/@ivanjaros/moving-from-php-to-go-and-back-again-9ea1f57018c4
+701,Lobsters,go,Golang programming,A Tour of Go in Haskell,https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html
+702,Lobsters,go,Golang programming,Go 1.10 Beta 1 is released,https://groups.google.com/forum/#!msg/golang-nuts/HRUF1_DIn58/xxrhj3kMCAAJ
+703,Lobsters,go,Golang programming,5 Gotchas of Defer in Go— Part I,https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01
+704,Lobsters,go,Golang programming,Error handling in Upspin,https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html
+705,Lobsters,go,Golang programming,Rob Pike on upspin at Sydney Golang November Meetup,https://www.youtube.com/watch?v=H74R1eNsAHY
+706,Lobsters,go,Golang programming,Cgo: When and (Usually) When Not to Use it,http://relistan.com/cgo-when-and-when-not-to-use-it/
+707,Lobsters,go,Golang programming,easy gopher-lua bridge,http://www.tedunangst.com/flak/post/easy-gopher-lua-bridge
+708,Lobsters,go,Golang programming,Debugging an evil Go runtime bug,https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+709,Lobsters,go,Golang programming,A DIY Dashboard with Grafana,https://appliedgo.net/diydashboard/
+710,Lobsters,go,Golang programming,In Go 1.10 failfast flag is coming - Stops the tests after the first failing test,/s/jpshs2/go_1_10_failfast_flag_is_coming_stops_tests
+711,Lobsters,go,Golang programming,Automating Go development with Make,https://blog.gopheracademy.com/advent-2017/make/?lobsters
+712,Lobsters,go,Golang programming,Memory Security in Go,https://cryptolosophy.org/memory-security-go/
+713,Lobsters,go,Golang programming,gobuster: Directory/file & DNS busting tool written in Go,https://github.com/OJ/gobuster
+714,Lobsters,go,Golang programming,Go profiling tools and blogposts,/s/tucrj3/go_profiling_tools_blogposts
+715,Lobsters,go,Golang programming,Go Defer Simplified with Practical Visuals,https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff
+716,Lobsters,go,Golang programming,Moving away from Go to Node.js - Raspchat,https://github.com/maxpert/raspchat/releases/tag/v1.0.0-alpha
+717,Lobsters,go,Golang programming,How Discord Resizes 150 Million Images Every Day with Go and C++,https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d
+718,Lobsters,go,Golang programming,"Go, don't collect my garbage",http://blog.cloudflare.com/go-dont-collect-my-garbage/
+719,Lobsters,go,Golang programming,Eight years of Go,https://blog.golang.org/8years
+720,Lobsters,go,Golang programming,The Zoo of Go Functions - Learn Go Programming,https://blog.learngoprogramming.com/go-functions-overview-anonymous-closures-higher-order-deferred-concurrent-6799008dde7b
+721,Lobsters,go,Golang programming,Guide to JSON - Pocket Gophers,https://pocketgophers.com/guide-to-json/
+722,Lobsters,go,Golang programming,Learning Go by porting a medium-sized web backend from Python,http://benhoyt.com/writings/learning-go/
+723,Lobsters,go,Golang programming,G.E.R.T : Golang Embedded Run-Time,https://github.com/ycoroneos/G.E.R.T
+724,Lobsters,go,Golang programming,Fast event loop networking for Go,https://github.com/tidwall/evio
+725,Lobsters,go,Golang programming,Handling errors in gRPC and go-kit services,https://hackernoon.com/handling-errors-in-golang-grpc-and-go-kit-services-d0fa0a112449
+726,Lobsters,go,Golang programming,Do you think that Go might support accepting the other types into variadic funcs w/ empty-interface,/s/jb8xil/do_you_think_go_might_support_accepting
+727,Lobsters,go,Golang programming,Ultimate Guide to Go Variadic Funcs,https://blog.learngoprogramming.com/ultimate-guide-to-go-variadic-funcs-dc866d8a3c5b
+728,Lobsters,go,Golang programming,Writing a 9P server from scratch,https://blog.aqwari.net/9p/
+729,Lobsters,go,Golang programming,"boltdb, an embedded Key/Value store for Go",https://github.com/boltdb/bolt
+730,Lobsters,go,Golang programming,Why would anyone choose Docker over fat binaries?,http://www.smashcompany.com/technology/why-would-anyone-choose-docker-over-fat-binaries
+731,Lobsters,go,Golang programming,"A hilarious, not too serious collection of facts about Go",https://twitter.com/pasiphae_goals/status/923821586213457920
+732,Lobsters,go,Golang programming,Go Funcs — Baby-Gopher’s Visual Guide,https://blog.learngoprogramming.com/golang-funcs-params-named-result-values-types-pass-by-value-67f4374d9c0a
+733,Lobsters,go,Golang programming,Gogs and Gitea,http://jpmens.net/2017/10/25/gogs-and-gitea/
+734,Lobsters,go,Golang programming,Implementing Go's defer keyword in C++,https://oded.blog/2017/10/05/go-defer-in-cpp/
+735,Lobsters,go,Golang programming,Ultimate Visual Guide to Go Enums,https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3
+736,Lobsters,go,Golang programming,Why we switched from Python to Go,https://getstream.io/blog/switched-python-go/
+737,Lobsters,go,Golang programming,"Welcome to aah, the web framework for Go",https://aahframework.org/
+738,Lobsters,go,Golang programming,Live streaming Cryptopals,https://blog.filippo.io/live-streaming-cryptopals/
+739,Lobsters,go,Golang programming,Help us Choose a Name for our Go IDE,https://blog.jetbrains.com/go/2017/10/13/help-us-choose-a-name-for-our-go-ide/
+740,Lobsters,go,Golang programming,Cthulhu: Organizing Go Code in a Scalable Repo,https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
+741,Lobsters,go,Golang programming,Building a Neural Net from Scratch in Go,http://www.datadan.io/building-a-neural-net-from-scratch-in-go/
+742,Lobsters,go,Golang programming,rat: Compose shell commands to build interactive terminal applications,https://github.com/ericfreese/rat
+743,Lobsters,go,Golang programming,Learn Go: Constants — Visual Examples,https://blog.learngoprogramming.com/learn-golang-typed-untyped-constants-70b4df443b61
+744,Lobsters,go,Golang programming,Subnet - Encrypted VPN in 2k lines of Go,https://github.com/twitchyliquid64/subnet
+745,Lobsters,go,Golang programming,Colly: Fast and Elegant Scraping Framework for Golang,https://github.com/asciimoo/colly
+746,Lobsters,go,Golang programming,Mini Rulebook for Go short declarations,https://blog.learngoprogramming.com/golang-short-variable-declaration-rules-6df88c881ee
+747,Lobsters,go,Golang programming,I love Go,https://dmitryfrank.com/articles/i_love_go
+748,Lobsters,go,Golang programming,A visual how to guide to Go variables,https://blog.learngoprogramming.com/learn-go-lang-variables-visual-tutorial-and-ebook-9a061d29babe
+749,Lobsters,go,Golang programming,DCLua: Go Lua Compiler and VM,https://github.com/milochristiansen/lua
+750,Lobsters,go,Golang programming,Go testing at Stream,https://getstream.io/blog/how-we-test-go-at-stream/
+751,Lobsters,go,Golang programming,About Go Language — An Overview,https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c
+752,Lobsters,go,Golang programming,The Manifest Episode 4: Go dep with Sam Boyer,http://manifest.fm/4
+753,Lobsters,go,Golang programming,Run go programs directly on the Xen hypervisor,https://github.com/atmanos/atmanos
+754,Lobsters,go,Golang programming,Strange Loop - So You Wanna Go Fast?,https://www.youtube.com/watch?v=DJ4d_PZ6Gns
+755,Lobsters,go,Golang programming,Picrypt Encryption Library,https://github.com/tjgillies/picrypt/blob/master/demo/main.go
+756,Lobsters,go,Golang programming,Things to know about HTTP in Go,https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/
+757,Lobsters,go,Golang programming,Jaeger - a Distributed Tracing System,https://github.com/jaegertracing/jaeger
+758,Lobsters,go,Golang programming,Why Use Pointers?,https://pocketgophers.com/why-use-pointers/
+759,Lobsters,go,Golang programming,Profiling Go programs with pprof,https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
+760,Lobsters,go,Golang programming,Go: Ten years and climbing,https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html
+761,Lobsters,go,Golang programming,Allocation Efficiency in High-Performance Go Services,https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+762,Lobsters,go,Golang programming,TCP servers that run like clockwork,https://sahilm.com/tcp-servers-that-run-like-clockwork/
+763,Lobsters,go,Golang programming,The ultimate guide to writing a Go tool,https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/
+764,Lobsters,go,Golang programming,Use cases for persistent logs with NATS Streaming,https://dev.to/byronruth/use-cases-for-persistent-logs-with-nats-streaming
+765,Lobsters,go,Golang programming,The new kid in town — Go’s sync.Map,https://medium.com/@deckarep/the-new-kid-in-town-gos-sync-map-de24a6bf7c2c
+766,Lobsters,go,Golang programming,Playing with kernel TLS in Linux 4.13 and Go,https://blog.filippo.io/playing-with-kernel-tls-in-linux-4-13-and-go/
+767,Lobsters,go,Golang programming,Building Blockchain in Go,https://jeiwan.cc/posts/building-blockchain-in-go-part-1/
+768,Lobsters,go,Golang programming,Go does not inline functions when it should,https://lemire.me/blog/2017/09/05/go-does-not-inline-functions-when-it-should/
+769,Lobsters,go,Golang programming,Understanding Go's type aliases,https://www.youtube.com/watch?v=Vg603e9C-Vg
+770,Lobsters,go,Golang programming,Go Assembly by Example,http://davidwong.fr/goasm/
+771,Lobsters,go,Golang programming,SIDH in Go for quantum-resistant TLS 1.3,http://blog.cloudflare.com/sidh-go/
+772,Lobsters,go,Golang programming,How to test Go HTTPS Services,https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/
+773,Lobsters,go,Golang programming,An adventure in trying to optimize math.Atan2 with Go assembly,http://agniva.me/go/2017/08/27/fun-with-go-assembly.html
+774,Lobsters,go,Golang programming,Go 1.9 is released,https://blog.golang.org/go1.9
+775,Lobsters,go,Golang programming,Time Series with Go and PostgreSQL,http://grisha.org/blog/2017/03/22/tgres-0-dot-10-dot-0b-time-series-with-go-and-postgresql
+776,Lobsters,go,Golang programming,Latency matters,https://blog.bethselamin.de/posts/latency-matters.html
+777,Lobsters,go,Golang programming,5 things about programming I learned with Go,http://mjk.space/5-things-about-programming-learned-with-go/
+778,Lobsters,go,Golang programming,Why Go is my favorite programming language,http://michael.stapelberg.de/Artikel/golang_favorite
+779,Lobsters,go,Golang programming,rustgo: calling Rust from Go with near-zero overhead,https://blog.filippo.io/rustgo/
+780,Lobsters,go,Golang programming,Ways to limit concurrent resource use,https://pocketgophers.com/limit-concurrent-use/
+781,Lobsters,go,Golang programming,Typed nils in Go 2,https://dave.cheney.net/2017/08/09/typed-nils-in-go-2
+782,Lobsters,go,Golang programming,Lexical Scanning in Go - Rob Pike,https://www.youtube.com/watch?v=HxaD_trXwRE
+783,Lobsters,go,Golang programming,A use case for Go Generics in a Go compiler,https://dr2chase.wordpress.com/2017/08/09/a-use-case-for-go-generics-in-a-go-compiler/
+784,Lobsters,go,Golang programming,How over 100 Go programmers became Go contributors in under two hours,https://blog.golang.org/contributor-workshop
+785,Lobsters,go,Golang programming,A Farewell To Go,https://www.churchwood.at/posts/a-farewell-to-go/
+786,Lobsters,go,Golang programming,"Go, Mental Models, and Side Effects – Production Ready",https://medium.com/production-ready/go-mental-models-and-side-effects-2ee60e638c5b
+787,Lobsters,go,Golang programming,A Million WebSockets and Go,https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb
+788,Lobsters,go,Golang programming,Context should go away for Go 2,https://faiface.github.io/post/context-should-go-away-go2/
+789,Lobsters,go,Golang programming,"The Tale of a Go Resource Leak, Square Engineering",https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da
+790,Lobsters,go,Golang programming,Experience porting 4.5k loc of C to Go (Facebook's CSS flexbox implementation Yoga),https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html
+791,Lobsters,go,Golang programming,Introduction to Reed-Solomon and Berlekamp-Welch for error correction (+ Go library),https://innovation.vivint.com/introduction-to-reed-solomon-bc264d0794f8
+792,Lobsters,go,Golang programming,Creating a Custom Serialization Format in Go (Scott Mansfield at GopherCon),https://about.sourcegraph.com/go/creating-a-custom-serialization-format
+793,Lobsters,go,Golang programming,Faster command line tools with Haskell,https://codygman.github.io/posts/2017-07-30-faster-command-line-tools-with-haskell.html
+794,Lobsters,go,Golang programming,Cherry picking commits & shell scripting in golang,https://jvns.ca/blog/2017/07/30/a-couple-useful-ideas-from-google/
+795,Lobsters,go,Golang programming,Faster command line tools with Go,https://aadrake.com/posts/2017-05-29-faster-command-line-tools-with-go.html
+796,Lobsters,go,Golang programming,"Advanced Testing in Go, Mitchell Hashimoto at GopherCon",https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto
+797,Lobsters,go,Golang programming,"Gophercon 2017 slides, code and video links for main talks and lightning talks",https://github.com/gophercon/2017-talks
+798,Lobsters,go,Golang programming,Operability in Go,https://about.sourcegraph.com/go/operability-in-go
+799,Lobsters,go,Golang programming,Idiomatic Go,https://about.sourcegraph.com/go/idiomatic-go
+800,Lobsters,go,Golang programming,Adventures in bit arrays/SIMD,http://engineering.rain.services/2017/07/adventures-in-bit-arrayssimd-go.html
+801,Lobsters,go,Golang programming,Are We There Yet: The Go Generics Debate,http://bravenewgeek.com/are-we-there-yet-the-go-generics-debate/
+802,Lobsters,go,Golang programming,Gophercon 2017 videos,https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9
+803,Lobsters,go,Golang programming,The future of latency profiling in Go,https://rakyll.org/latency-profiling/
+804,Lobsters,go,Golang programming,Forward Compatible Go Code,https://about.sourcegraph.com/go/forward-compatible-go-code
+805,Lobsters,go,Golang programming,Testing Certificate Chains in Go,https://chrisshort.net/testing-certificate-chains-in-go/
+806,Lobsters,go,Golang programming,Using Hilbert Curves to 100% Zelda,https://blog.merovius.de/2017/07/22/using-hilbert-curves-to-100-zelda.html
+807,Lobsters,go,Golang programming,Should Go 2.0 support generics?,https://dave.cheney.net/2017/07/22/should-go-2-0-support-generics
+808,Lobsters,go,Golang programming,"Go at the DARPA Cyber Grand Challenge, Will Hawkins @ GopherCon 2017",https://about.sourcegraph.com/go/go-at-the-darpa-cyber-grand-challenge-will-hawkins
+809,Lobsters,go,Golang programming,"The New Era of Go Package Management, Sam Boyer at GopherCon 2017",https://about.sourcegraph.com/go/the-new-era-of-go-package-management
+810,Lobsters,go,Golang programming,Pure Go implementation of NaCL,https://github.com/kevinburke/nacl
+811,Lobsters,go,Golang programming,"gRPC in Production, Alan Shreve at GopherCon 2017",https://about.sourcegraph.com/go/grpc-in-production-alan-shreve
+812,Lobsters,go,Golang programming,Ideas on generics in Go,https://gist.github.com/faiface/340cf2870ca8ac194b5d7269a89e5741
+813,Lobsters,go,Golang programming,Go Reliability and Durability at Dropbox (Tammy Butow's keynote at GopherCon 2017),https://about.sourcegraph.com/go/go-reliability-and-durability-at-dropbox-tammy-butow
+814,Lobsters,go,Golang programming,"Valuable Lessons in Over-Engineering Kubernetes kops, Kris Nova at GopherCon 2017",https://about.sourcegraph.com/go/valuable-lessons-in-over-engineering-the-core-of-kubernetes-kops
+815,Lobsters,go,Golang programming,How to be proactive about performance,https://pocketgophers.com/proactive-performance/
+816,Lobsters,go,Golang programming,Go's work-stealing scheduler,https://rakyll.org/scheduler/
+817,Lobsters,go,Golang programming,Strace in 60 lines of Go,https://medium.com/@lizrice/strace-in-60-lines-of-go-b4b76e3ecd64
+818,Lobsters,go,Golang programming,Toward Go 2 - The Go Blog,https://blog.golang.org/toward-go2
+819,Lobsters,go,Golang programming,"Go Pry, a REPL for Go",https://github.com/d4l3k/go-pry
+820,Lobsters,go,Golang programming,"On Showers, Golang, and Creativity",https://medium.com/engineering-livestream/on-showers-golang-and-creativity-2230b0b97d78
+821,Lobsters,go,Golang programming,A FUSE filesystem for WEBDAV shares,https://github.com/miquels/webdavfs
+822,Lobsters,go,Golang programming,Why You Should Not Use checkErr,https://pocketgophers.com/checkErr/
+823,Lobsters,go,Golang programming,Survey of Rounding Implementations in Go,https://www.cockroachlabs.com/blog/rounding-implementations-in-go/
+824,Lobsters,go,Golang programming,Go Tooling in Action,https://www.youtube.com/watch?v=uBjoTxosSys
+825,Lobsters,go,Golang programming,Position Independant Source Code(PISC) Online Playground,https://pisc.junglecoder.com/playground/
+826,Lobsters,go,Golang programming,Notes on moving from etcd2 to etcd3,https://medium.com/@mhausenblas/notes-on-moving-from-etcd2-to-etcd3-dedb26057b90
+827,Lobsters,go,Golang programming,The Lost Chapter: A Macro System For Monkey,https://thorstenball.com/blog/2017/06/28/the-lost-chapter-a-macro-system-for-monkey/
+828,Lobsters,go,Golang programming,How to not use an http-router in go,http://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html
+829,Lobsters,go,Golang programming,3D Packing for SLS Printing (How many 3DBenchy boats can the Fuse 1 print?),https://www.michaelfogleman.com/pack3d/
+830,Lobsters,go,Golang programming,"ActiveGo, a New Commercial Go Distribution From ActiveState",https://thenewstack.io/activestate-reveals-commercial-go-distribution-activego/
+831,Lobsters,go,Golang programming,3D Packing for SLS Printing,https://www.michaelfogleman.com/sls/
+832,Lobsters,go,Golang programming,Minio - s3 compatible object store written in go,https://minio.io
+833,Lobsters,go,Golang programming,achilleasa/gopher-os,https://github.com/achilleasa/gopher-os
+834,Lobsters,go,Golang programming,Blocking Go Readers and Writers,https://dmathieu.com/articles/development/go-blocking-reader-writer/
+835,Lobsters,go,Golang programming,lafikl/consistent: A Golang library for Consistent Hashing With Bounded Loads,https://github.com/lafikl/consistent
+836,Lobsters,go,Golang programming,Don’t defer Close() on writable files,https://joeshaw.org/dont-defer-close-on-writable-files/
+837,Lobsters,go,Golang programming,c2goasm: C to Go Assembly,https://github.com/minio/c2goasm
+838,Lobsters,go,Golang programming,Go Concurrency Patterns: Pipelines and cancellation (2014),https://blog.golang.org/pipelines
+839,Lobsters,go,Golang programming,Golang ASLR,https://rain-1.github.io/golang-aslr.html
+840,Lobsters,go,Golang programming,Virtualgo sneak preview,https://github.com/GetStream/vg
+841,Lobsters,go,Golang programming,Linux Namespaces and Go Don't Mix,https://www.weave.works/blog/linux-namespaces-and-go-don-t-mix
+842,Lobsters,go,Golang programming,Why I’m So Frustrated With Go,https://medium.com/@kurtisnusbaum/why-im-so-frustrated-with-go-97c0c4ae214e
+843,Lobsters,go,Golang programming,A library for configuration management,https://github.com/damnever/cc
+844,Lobsters,go,Golang programming,LLVM IR generation for LLVM-based go compiler,https://go.googlesource.com/gollvm/
+845,Lobsters,go,Golang programming,Go and a not tiny amount of memory,https://hackernoon.com/go-and-a-not-tiny-amount-of-memory-a7a9430d4d22
+846,Lobsters,go,Golang programming,Go parser for SSH config files,https://github.com/kevinburke/ssh_config
+847,Lobsters,go,Golang programming,The X-Files: Exploring the Golang Standard Library Sub-Repositories,http://rodaine.com/2017/05/x-files-intro/
+848,Lobsters,go,Golang programming,Upspin: A Global Namespace For Data,https://www.youtube.com/watch?v=giUatBmmb_Y#t=1h19m17s
+849,Lobsters,go,Golang programming,How we rewrote our web analytics tracking infrastructure in Go,https://engineering.skroutz.gr/blog/rewriting-web-analytics-tracking-in-go/
+850,Lobsters,go,Golang programming,LSM tree based key value store in Go,https://open.dgraph.io/post/badger/
+851,Lobsters,go,Golang programming,CockroachDB 1.0,https://www.cockroachlabs.com/blog/cockroachdb-1-0-release/
+852,Lobsters,go,Golang programming,Announcing kurly v1.0.0,http://davidjpeacock.ca/post/announcing-kurly
+853,Lobsters,go,Golang programming,There is no pass-by-reference in Go,https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go
+854,Lobsters,go,Golang programming,Visualizing Concurrency in Go,http://divan.github.io/posts/go_concurrency_visualize/
+855,Lobsters,go,Golang programming,Golang SSH Redux,https://bridge.grumpy-troll.org/2017/04/golang-ssh-redux/
+856,Lobsters,go,Golang programming,"NNCP, a collection of utilities simplifying secure store-and-forward files and mail exchanging",http://www.nncpgo.org/
+857,Lobsters,go,Golang programming,Reproducing Go binaries byte-by-byte,https://blog.filippo.io/reproducing-go-binaries-byte-by-byte/
+858,Lobsters,go,Golang programming,Using Go dep as a project maintainer,https://medium.com/@mhausenblas/using-go-dep-as-a-project-maintainer-641d1f3006d7
+859,Lobsters,go,Golang programming,DBX: A neat codegen-based ORM written in Go,https://github.com/spacemonkeygo/dbx
+860,Lobsters,go,Golang programming,periph,https://periph.io/
+861,Lobsters,go,Golang programming,goof: Go object finder (runtime binary introspection),https://github.com/zeebo/goof
+862,Lobsters,go,Golang programming,Moving from PHP (Laravel) to Go,https://dannyvankooten.com/laravel-to-golang/
+863,Lobsters,go,Golang programming,"Hyper Func, Docker serverless platform, any language, no max runtime",https://docs.hyper.sh/Feature/container/func.html
+864,Lobsters,go,Golang programming,Golang SSH Security,https://bridge.grumpy-troll.org/2017/04/golang-ssh-security/
+865,Lobsters,go,Golang programming,Building a Bank with Go,https://www.infoq.com/presentations/bank-go
+866,Lobsters,go,Golang programming,Web Development in Go,https://kev.inburke.com/kevin/go-web-development/
+867,Lobsters,go,Golang programming,ponzu: HTTP Server Framework and CMS written in Go,https://github.com/ponzu-cms/ponzu
+868,Lobsters,go,Golang programming,Golang to the rescue: Saving DevOps from TLS turmoil,https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program
+869,Lobsters,go,Golang programming,go tool trace: Golang's trace visualiser,https://making.pusher.com/go-tool-trace/
+870,Lobsters,go,Golang programming,JustForFunc - Golang oriented instructional YouTube channel,https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
+871,Lobsters,go,Golang programming,HTTP/2 Server Push,https://blog.golang.org/h2push
+872,Lobsters,go,Golang programming,Dancing with Go’s Mutexes,https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf
+873,Lobsters,go,Golang programming,How to complain about Go [2015],https://divan.github.io/posts/go_complain_howto/
+874,Lobsters,go,Golang programming,"3.5 Years, 500k Lines of Go (Part 1)",https://npf.io/2017/03/3.5yrs-500k-lines-of-go/
+875,Lobsters,go,Golang programming,Hopfield networks in Go,http://mlexplore.org/2017/03/12/hopfield-networks-in-go/
+876,Lobsters,go,Golang programming,golang now has native support for OpenBSD's pledge(2),http://undeadly.org/cgi?action=article&sid=20170323042425
+877,Lobsters,go,Golang programming,"Building a Bank with Golang, Microservices and Containers",https://www.infoq.com/news/2017/03/monzo-bank-golang
+878,Lobsters,go,Golang programming,One Year Using Go,https://bugfender.com/one-year-using-go
+879,Lobsters,go,Golang programming,How I Start - A quick intro. to Go (2014),http://howistart.org/posts/go/1/
+880,Lobsters,go,Golang programming,FaaS – Serverless functions framework for Docker,https://github.com/alexellis/faas
+881,Lobsters,go,Golang programming,The 1960's elegance behind go's regexp,https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.gcb9a0b074_1_0
+882,Lobsters,go,Golang programming,Intro to gRPC - Protocol Buffers,http://mycodesmells.com/post/intro-to-grpc---protocol-buffers
+883,Lobsters,go,Golang programming,Changes I would make to Go,http://sitr.us/2017/02/21/changes-i-would-make-to-go.html
+884,Lobsters,go,Golang programming,"A utility for running exhaustiveness checks on ""sum types"" in Go",https://github.com/BurntSushi/go-sumtype
+885,Lobsters,go,Golang programming,Three Months of Go (from a Haskeller's perspective),https://www.barrucadu.co.uk/posts/etc/2016-08-25-three-months-of-go.html
+886,Lobsters,go,Golang programming,"OpenGL & Go Tutorial Part 1: Hello, OpenGL",https://kylewbanks.com/blog/tutorial-opengl-with-golang-part-1-hello-opengl
+887,Lobsters,go,Golang programming,ladon - A Go Library for Better Access Control,https://github.com/ory/ladon
+888,Lobsters,go,Golang programming,"If you code in Go, don't forget to vet",https://www.spreadsheetdb.io/blog/2017/03/if-you-code-in-go-dont-forget-to-vet
+889,Lobsters,go,Golang programming,Rendering Proteins in Go,https://github.com/fogleman/ribbon
+890,Lobsters,go,Golang programming,Finite state transducers in Go,https://github.com/couchbaselabs/vellum
+891,Lobsters,go,Golang programming,"Go doesn't support exception, in syntax. Go has many exceptions, in syntax.",http://www.tapirgames.com/blog/golang-syntax-sugars-and-exceptions
+892,Lobsters,go,Golang programming,Go and Rust are bloody enemies!,http://byrd.im/go-vs-rust/
+893,Lobsters,go,Golang programming,G3N - Go 3D Game Engine,https://github.com/g3n/engine
+894,Lobsters,go,Golang programming,A Roadmap to Merging 'dep' into the Go Toolchain,https://github.com/golang/dep/wiki/Roadmap
+895,Lobsters,go,Golang programming,"Zif, peer-to-peer torrent indexing in Go",https://github.com/zif/zif
+896,Lobsters,go,Golang programming,Self-referential functions and the design of options [2014],https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
+897,Lobsters,go,Golang programming,Mid-stack inlining in the Go compiler,https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.p
+898,Lobsters,go,Golang programming,Position Independent Source Code,https://pisc.junglecoder.com/home/apps/fossil/PISC.fossil/home
+899,Lobsters,go,Golang programming,Go 2016 Survey Results,https://blog.golang.org/survey2016-results
+900,Lobsters,go,Golang programming,"xmake v2.1.1 released, support golang, dlang and rust languages",http://www.tboox.org/2017/03/04/update-v2.1.1/
+901,Lobsters,go,Golang programming,gokrazy - a pure-Go userland for your Raspberry Pi 3 appliances,https://gokrazy.github.io/
+902,Lobsters,go,Golang programming,Lead - Roadmap 1,https://lead-scm.org/news/roadmap-1.html
+903,Lobsters,go,Golang programming,Usql: universal command-line interface for SQL databases,https://github.com/knq/usql
+904,Lobsters,go,Golang programming,"We’ve broken Go’s automated memory management, here’s what happened",https://www.cossacklabs.com/blog/investigating-go-memory-leaks.html
+905,Lobsters,go,Golang programming,Configuring Go Apps with TOML,http://benaiah.me/posts/configuring-go-apps-with-toml/
+906,Lobsters,go,Golang programming,Exploring the exec system call with Go,https://groob.io/posts/golang-execve/
+907,Lobsters,go,Golang programming,comment free codex,http://www.tedunangst.com/flak/post/comment-free-codex
+908,Lobsters,go,Golang programming,"Geekmarks: an Open-Source, API-Driven, Geeky Bookmarking Service",https://dmitryfrank.com/projects/geekmarks/article
+909,Lobsters,go,Golang programming,Making Code Intelligence “just work”,https://text.sourcegraph.com/part-2-how-sourcegraph-scales-with-the-language-server-protocol-73b86175f38b
+910,Lobsters,go,Golang programming,Writing An Interpreter In Go: The Paperback Edition,https://thorstenball.com/blog/2017/02/22/writing-an-interpreter-in-go-the-paperback-edition/
+911,Lobsters,go,Golang programming,Go Range Loop Internals,https://garbagecollected.org/2017/02/22/go-range-loop-internals/
+912,Lobsters,go,Golang programming,Upspin - easier file sharing from Go core contributors,https://upspin.io/doc/overview.md
+913,Lobsters,go,Golang programming,How I Ruined Office Productivity With a Face-Replacing Slack Bot,http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/
+914,Lobsters,go,Golang programming,Introducing Minio: Run you own S3 compatible cloud storage on Hyper.sh,https://blog.hyper.sh/introducing-minio.html
+915,Lobsters,go,Golang programming,Go 1.8 is released - The Go Blog,https://blog.golang.org/go1.8
+916,Lobsters,go,Golang programming,The problem of Code Intelligence and the need for an open standard,https://text.sourcegraph.com/how-sourcegraph-scales-with-the-language-server-protocol-a4e8fd3fbae5#.sgsbebh9r
+917,Lobsters,go,Golang programming,awless - The Mighty CLI for AWS,https://github.com/wallix/awless
+918,Lobsters,go,Golang programming,See how many people use your library,https://text.sourcegraph.com/see-how-many-people-use-your-library-with-sourcegraph-badges-9750e56e7b2f#.jhdta08h8
+919,Lobsters,go,Golang programming,medium rare,http://www.tedunangst.com/flak/post/medium-rare
+920,Lobsters,go,Golang programming,Beehive – An open source IFTTT powered by Go's templating engine,https://github.com/muesli/beehive
+921,Lobsters,go,Golang programming,Bit Hacking with Go,https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827
+922,Lobsters,go,Golang programming,dep 101,https://medium.com/i-can-haz-downtime/dep-101-c85e8ab6ed45
+923,Lobsters,go,Golang programming,Reactive Extensions for Go,https://github.com/ReactiveX/RxGo
+924,Lobsters,go,Golang programming,Pitfalls of context values and how to avoid or mitigate them in Go,https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/
+925,Lobsters,go,Golang programming,Modern garbage collection,https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+926,Lobsters,go,Golang programming,Go Web Examples,https://gowebexamples.github.io/
+927,Lobsters,go,Golang programming,Go is Not Good,https://github.com/ksimka/go-is-not-good
+928,Lobsters,go,Golang programming,20% slowdown in HTTP benchmarks in Go 1.8 RC3,https://github.com/golang/go/issues/18964
+929,Lobsters,go,Golang programming,"Logging, interfaces, and allocation",http://commaok.xyz/post/interface-allocs/
+930,Lobsters,go,Golang programming,Grappling with Go,https://blog.ntpsec.org/2017/02/07/grappling-with-go.html
+931,Lobsters,go,Golang programming,Voxel Rendering Techniques,https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca
+932,Lobsters,go,Golang programming,The State of Go,https://talks.golang.org/2017/state-of-go.slide
+933,Lobsters,go,Golang programming,A curated list of awesome Go storage projects and libraries,https://github.com/gostor/awesome-go-storage
+934,Lobsters,go,Golang programming,time.Now() in Go now uses a monotonic clock if you are adding/subtracting times,https://github.com/golang/go/commit/0e3355903d2ebcf5ee9e76096f51ac9a116a9dbb
+935,Lobsters,go,Golang programming,Actors for Go and .NET,http://proto.actor/
+936,Lobsters,go,Golang programming,Fencing off Go: Liveness and safety for channel-based programming,https://blog.acolyer.org/2017/02/02/fencing-off-go-liveness-and-safety-for-channel-based-programming/
+937,Lobsters,go,Golang programming,TCP/IP Networking: working at the TCP socket level from Go,https://appliedgo.net/networking/
+938,Lobsters,go,Golang programming,Announcing gopass - The 'pass' compatible password manager for teams,https://www.justwatch.com/blog/post/announcing-gopass/
+939,Lobsters,go,Golang programming,Should you containerize your Go code?,https://www.oreilly.com/ideas/should-you-containerize-your-go-code
+940,Lobsters,go,Golang programming,Building a Performant API using Go and Cassandra,http://blog.getstream.io/building-a-performant-api-using-go-and-cassandra/
+941,Lobsters,go,Golang programming,Comparing Elixir and Go,https://blog.codeship.com/comparing-elixir-go/
+942,Lobsters,go,Golang programming,"Big Sourcegraph update: new code browsing UI, cross-repository references, inline blame",https://text.sourcegraph.com/go-code-intelligence-on-sourcegraph-now-in-general-availability-ga-e2ebcddc7f45
+943,Lobsters,go,Golang programming,"Making the move from Scala to Go, and why we're not going back",https://movio.co/blog/migrate-Scala-to-Go/
+944,Lobsters,go,Golang programming,Go dep team laments lack of comment-preserving configuration parsers,https://github.com/golang/dep/issues/119
+945,Lobsters,go,Golang programming,"dep - prototype of ""official"" Go vendoring solution",https://github.com/golang/dep
+946,Lobsters,go,Golang programming,Optimising Go allocations using pprof,https://www.robustperception.io/optimising-go-allocations-using-pprof/
+947,Lobsters,go,Golang programming,"template-compiler - compile Go templates to Go source code, 20x speedup",https://github.com/mh-cbon/template-compiler
+948,Lobsters,go,Golang programming,Parallelizing Enjarify in Go and Rust,https://medium.com/@robertgrosse/parallelizing-enjarify-in-go-and-rust-21055d64af7e
+949,Lobsters,go,Golang programming,"errgroup - Run code in threads, return an error / cancel all the others if any thread fails",https://godoc.org/golang.org/x/sync/errgroup
+950,Lobsters,go,Golang programming,<wbr>github.com/cloudflare/hellogop<wbr>her – just “git clone” and “make” any Go project</wbr></wbr>,https://github.com/cloudflare/hellogopher
+951,Lobsters,go,Golang programming,Building a Kafka that doesn’t depend on ZooKeeper in Golang,https://medium.com/the-hoard/building-a-kafka-that-doesnt-depend-on-zookeeper-2c4701b6e961
+952,Lobsters,go,Golang programming,"Concurrency, Goroutines and GOMAXPROCS",https://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html
+953,Lobsters,go,Golang programming,Go vs. Swift,https://github.com/jakerockland/go-vs-swift/blob/master/go-vs-swift.pdf
+954,Lobsters,go,Golang programming,Rust vs. Go,https://blog.ntpsec.org/2017/01/18/rust-vs-go.html
+955,Lobsters,go,Golang programming,Go's Resolutions for 2017,https://research.swtch.com/go2017
+956,Lobsters,go,Golang programming,Self-organizing Maps in Go | Machine Learning Explorations,http://mlexplore.org/2017/01/13/self-organizing-maps-in-go/
+957,Lobsters,go,Golang programming,fchan: Fast Channels in Go,https://github.com/google/fchan-go
+958,Lobsters,go,Golang programming,Buffalo - The Go Web Framework,http://gobuffalo.io/
+959,Lobsters,go,Golang programming,JetBrains Gogland: Up and Coming Go IDE,https://www.jetbrains.com/go/
+960,Lobsters,go,Golang programming,Writing Advanced Web Applications with Go,http://www.jtolds.com/writing/2017/01/writing-advanced-web-applications-with-go/
+961,Lobsters,go,Golang programming,Go 1.8 RC 1 released,https://groups.google.com/forum/m/#!topic/golang-nuts/tr2ZKSQ42zE
+962,Lobsters,go,Golang programming,Go and Dogma,https://research.swtch.com/dogma
+963,Lobsters,go,Golang programming,Go is TIOBE's programming language of 2016,http://www.tiobe.com/tiobe-index/
+964,Lobsters,go,Golang programming,Fix corruption crash/race between select and stack growth - interesting commit,https://github.com/golang/go/commit/b902a63ade47cf69218c9b38c9a783fc8cfc3041
+965,Lobsters,go,Golang programming,OpenEBS — The containerized storage,https://blog.openebs.io/openebs-the-containerized-storage-f76e394a9543
+966,Lobsters,go,Golang programming,Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go - Uber Engineering Blog,https://eng.uber.com/cherami/
+967,Lobsters,go,Golang programming,Grumpy: A Python Runtime For Go,https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html
+968,Lobsters,go,Golang programming,go garbage collector and liveness,http://www.tedunangst.com/flak/post/go-garbage-collector-and-liveness
+969,Lobsters,go,Golang programming,A Virtual Brainfuck Machine In Go,https://thorstenball.com/blog/2017/01/04/a-virtual-brainfuck-machine-in-go/
+970,Lobsters,go,Golang programming,Getting Past C,http://blog.ntpsec.org/2017/01/03/getting-past-c.html
+971,Lobsters,go,Golang programming,Building a Solar Proposal Bot,http://higher.team/blog/2017/january/building-a-solar-proposal-bot
+972,Lobsters,go,Golang programming,burry: BackUp & RecoveRY tool for cloud native infrastructure services,http://burry.sh
+973,Lobsters,go,Golang programming,Countish: a library for approximate frequency counting,https://whitane.com/post/how-to-countish/
+974,Lobsters,go,Golang programming,So you want to expose Go on the Internet,http://blog.cloudflare.com/exposing-go-on-the-internet/
+975,Lobsters,go,Golang programming,Writing an API Client in Go,https://blog.gopheracademy.com/advent-2016/http-client/
+976,Lobsters,go,Golang programming,Channels in Golang,http://www.tapirgames.com/blog/golang-channel
+977,Lobsters,go,Golang programming,Performance overhead when calling assembly from Go,http://lemire.me/blog/2016/12/21/performance-overhead-when-calling-assembly-from-go/
+978,Lobsters,go,Golang programming,Advanced Encoding and Decoding Techniques in Go,https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/
+979,Lobsters,go,Golang programming,SOLID Go Design,https://dave.cheney.net/2016/08/20/solid-go-design
+980,Lobsters,go,Golang programming,Standard Package Layout,https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
+981,Lobsters,go,Golang programming,AnyCable: Action Cable on steroids,https://evilmartians.com/chronicles/anycable-actioncable-on-steroids
+982,Lobsters,go,Golang programming,Go Walkthrough,https://medium.com/go-walkthrough
+983,Lobsters,go,Golang programming,Using Go's 'context' library for making your logs make sense,https://blog.gopheracademy.com/advent-2016/context-logging/
+984,Lobsters,go,Golang programming,Thinking about $GOPATH,https://dave.cheney.net/2016/12/20/thinking-about-gopath
+985,Lobsters,go,Golang programming,Modern garbage collection,https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e
+986,Lobsters,go,Golang programming,So you want to expose Go on the Internet,https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/
+987,Lobsters,go,Golang programming,"Position Independent Source Code: A small, stack based programming language",https://pisc.junglecoder.com/home/apps/fossil/PISC.fossil/index
+988,Lobsters,go,Golang programming,Reversing GO binaries like a pro,https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
+989,Lobsters,go,Golang programming,New libvirt project Go language bindings,https://www.berrange.com/posts/2016/12/15/announce-new-libvirt-project-go-language-bindings/
+990,Lobsters,go,Golang programming,godb - a Go query builder and struct mapper,https://github.com/samonzeweb/godb
+991,Lobsters,go,Golang programming,A lisp built for extending go,https://github.com/glycerine/zygomys
+992,Lobsters,go,Golang programming,joker - Small interpreted dialect of Clojure written in Go,https://github.com/candid82/joker
+993,Lobsters,go,Golang programming,Some Tools For Go That You Might Not Know Yet,https://blog.gopheracademy.com/advent-2016/some-tools-for-go-that-you-might-not-know-yet/
+994,Lobsters,go,Golang programming,"Simple SCSI Target framework, built for performance and density",https://github.com/gostor/gotgt
+995,Lobsters,go,Golang programming,oklog/ulid: Universally Unique Lexicographically Sortable Identifier in Go,https://github.com/oklog/ulid
+996,Lobsters,go,Golang programming,"konfd - Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",https://github.com/kelseyhightower/konfd
+997,Lobsters,go,Golang programming,Unofficial Instagram API written in Golang,https://github.com/ahmdrz/goinsta
+998,Lobsters,go,Golang programming,Codebase Refactoring (with help from Go),https://talks.golang.org/2016/refactor.article
+999,Lobsters,go,Golang programming,Golang's Real-time GC in Theory and Practice,https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/
+1000,Lobsters,go,Golang programming,Go GC pauses - from 300ms in Go 1.4 to under 1ms in Go 1.8,https://twitter.com/brianhatfield/status/804355831080751104
+1001,Lobsters,go,Golang programming,Why I Wrote a Book About Interpreters,http://thorstenball.com/blog/2016/11/30/why-i-wrote-a-book-about-interpreters/
+1002,Lobsters,go,Golang programming,Open Source at DigitalOcean: Introducing go-qemu and go-libvirt,https://www.digitalocean.com/company/blog/introducing-go-qemu-and-go-libvirt/
+1003,Lobsters,go,Golang programming,Making the Switch from Node.js to Golang,http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang
+1004,Lobsters,go,Golang programming,Go fonts,https://blog.golang.org/go-fonts
+1005,Lobsters,go,Golang programming,"Golang Internals, Part 1: Main Concepts and Project Structure",https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html
+1006,Lobsters,go,Golang programming,Do not fear first class functions,https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions
+1007,Lobsters,go,Golang programming,Qt binding for Go with support for all major operating systems,https://github.com/therecipe/qt
+1008,Lobsters,go,Golang programming,Seven years of Go,https://blog.golang.org/7years
+1009,Lobsters,go,Golang programming,bloaty: Measure the size of your Go program,https://github.com/google/bloaty
+1010,Lobsters,go,Golang programming,Go’s alias proposal and all my concerns of Google controlling Go,https://hackernoon.com/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa
+1011,Lobsters,go,Golang programming,Hyper is Docker Done the Right Way,http://thenewstack.io/hyper-docker-done-right-way/
+1012,Lobsters,go,Golang programming,"Gaining technical depth via compare and contrast: resource cleanup in Python, Go and C++",https://codewithoutrules.com/2016/03/10/compare-contrast/
+1013,Lobsters,go,Golang programming,The benchmark reports of coroutine,http://tboox.org/2016/10/28/benchbox-coroutine/
+1014,Lobsters,go,Golang programming,netstack: a network stack written in Go,https://github.com/google/netstack
+1015,Lobsters,go,Golang programming,Eliminate STW (stop the world) stack re-scanning,https://github.com/golang/proposal/blob/master/design/17503-eliminate-rescan.md
+1016,Lobsters,go,Golang programming,convert large java projects to a more golang like structure,https://github.com/andrewarrow/traot
+1017,Lobsters,go,Golang programming,Netflix opensources chaosmonkey,https://github.com/Netflix/chaosmonkey
+1018,Lobsters,go,Golang programming,Go 1.8 vs go 1.7 performance improvements,https://www.reddit.com/r/golang/comments/58b4ep/go_18_vs_go_17_performance_improvements/
+1019,Lobsters,go,Golang programming,"WTF Was Wrong With My Go Code, Part 2",https://medium.com/@lestrrat/wtf-was-wrong-with-my-go-code-part-2-75b1bb7297fe
+1020,Lobsters,go,Golang programming,A Quick Guide to Testing in Golang,https://caitiem.com/2016/08/18/a-quick-guide-to-testing-in-golang/
+1021,Lobsters,go,Golang programming,is go an acceptable cml?,http://wingolog.org/archives/2016/09/21/is-go-an-acceptable-cml
+1022,Lobsters,go,Golang programming,Introducing HTTP Tracing,https://blog.golang.org/http-tracing
+1023,Lobsters,go,Golang programming,Sourcegraph: the best way to read code just got better,https://text.sourcegraph.com/sourcegraph-the-best-way-to-read-code-just-got-better-2094def0e553
+1024,Lobsters,go,Golang programming,patter: `go test -v` as TAP output,https://github.com/apg/patter
+1025,Lobsters,go,Golang programming,envjson: Config Checking for 12 Factor Apps,http://sigusr2.net/envjson.html
+1026,Lobsters,go,Golang programming,Quickhook: a new Git hook manager,https://precompile.com/2016/09/21/quickhook-git-hook-manager.html
+1027,Lobsters,go,Golang programming,What is the best free Docker hosting? - Quora,https://www.quora.com/What-is-the-best-free-Docker-hosting
+1028,Lobsters,go,Golang programming,HashiConf 2016,https://www.youtube.com/watch?v=Ww4aZFeqGAQ&list=PL81sUbsFNc5bDS1lH0HPJFyBnAP8Iv4t0
+1029,Lobsters,go,Golang programming,vim-go v1.9 is released,https://github.com/fatih/vim-go/blob/master/CHANGELOG.md#19-september-13-2016
+1030,Lobsters,go,Golang programming,Golang concepts from an OOP point of view,https://github.com/luciotato/golang-notes/blob/master/OOP.md
+1031,Lobsters,go,Golang programming,The Challenges of Writing a Massive and Complex Go Application,https://www.youtube.com/watch?v=hWNwI5q01gI
+1032,Lobsters,go,Golang programming,7 Common Mistakes in Go,http://www.slideshare.net/spf13/7-common-mistakes-in-go-2015
+1033,Lobsters,go,Golang programming,"Go framework for robotics, physical computing, and the Internet of Things",https://gobot.io/
+1034,Lobsters,go,Golang programming,An introduction to LLVM in Go,http://blog.felixangell.com/blog/an-introduction-to-llvm-in-go
+1035,Lobsters,go,Golang programming,"50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs",http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+1036,Lobsters,go,Golang programming,Announcing First-Class Go Support - Backtrace I/O,http://backtrace.io/blog/blog/2016/07/21/go-support
+1037,Lobsters,go,Golang programming,I Love Go; I Hate Go,https://medium.com/@ahl/i-love-go-i-hate-go-3356ee6b169c
+1038,Lobsters,go,Golang programming,"gRPC: ""a true internet-scale RPC framework is now 1.0 and ready for production deployments""",https://cloudplatform.googleblog.com/2016/08/gRPC-a-true-Internet-scale-RPC-framework-is-now-1-and-ready-for-production-deployments.html
+1039,Lobsters,go,Golang programming,Build You Own Web Framework In Go (2014),https://www.nicolasmerouze.com/build-web-framework-golang/
+1040,Lobsters,go,Golang programming,What Golang Is and Is Not,http://danmux.com/posts/what_golang_isnt/
+1041,Lobsters,go,Golang programming,Rob Pike - The Design of the Go Assembler,https://www.youtube.com/watch?v=KINIAgRpkDA
+1042,Lobsters,go,Golang programming,Tasty: My First Go Program,http://blog.leahhanson.us/post/recursecenter2016/tasty.html
+1043,Lobsters,go,Golang programming,Thyme: a human CPU profiler to boost your productivity,https://text.sourcegraph.com/thyme-a-simple-cli-to-measure-human-time-and-focus-577b87337b9c
+1044,Lobsters,go,Golang programming,Less is exponentially more (2012),https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
+1045,Lobsters,go,Golang programming,Ranking 4 Million Quake Live duels in 1.5 seconds [2015],https://medium.com/@jlouis666/ranking-4-million-quake-live-duels-in-1-5-seconds-fc84750aad1f
+1046,Lobsters,go,Golang programming,Learn Go has been updated,https://yng.mn/learngolang
+1047,Lobsters,go,Golang programming,Looking at your program’s structure in Go 1.7,https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html
+1048,Lobsters,go,Golang programming,Go 1.7 is released - The Go Blog,https://blog.golang.org/go1.7
+1049,Lobsters,go,Golang programming,"Hyper_, the container-native cloud, is now generally available",https://hyper.sh
+1050,Lobsters,go,Golang programming,RaspChat a chat system that can handle hundreds of parallel users on Raspberry Pi,http://beta.raspchat.com
+1051,Lobsters,go,Golang programming,Why scaling and parallelism remain hard even with new tools and languages,https://www.erlang-solutions.com/blog/the-continuing-headaches-of-distributed-programming.html
+1052,Lobsters,go,Golang programming,Distributed K/V store library (Go) built with raft and SSH,https://github.com/fabian-z/distkv
+1053,Lobsters,go,Golang programming,Vendoring Dependencies in Go,https://www.meta.sc/tech/govendoring/
+1054,Lobsters,go,Golang programming,Go Time - podcast,https://changelog.com/gotime/
+1055,Lobsters,go,Golang programming,noms: a decentralized database based on ideas from Git,https://github.com/attic-labs/noms
+1056,Lobsters,go,Golang programming,git gofmt pre-commit hook,https://golang.org/misc/git/pre-commit
+1057,Lobsters,go,Golang programming,<wbr>webapp-with-golang-anti-textbo<wbr>ok</wbr></wbr>,https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/
+1058,Lobsters,go,Golang programming,"Checkup: simple, self-hosted health checks and uptime status pages",https://sourcegraph.github.io/checkup
+1059,Lobsters,go,Golang programming,I Love Go; I Hate Go,http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go/
+1060,Lobsters,go,Golang programming,A gentle overview of the common ways to tackle the problem of distributed sequential IDs.,https://github.com/teh-cmc/seq
+1061,Lobsters,go,Golang programming,LexVec: State-of-the-art natural language processing,https://github.com/alexandres/lexvec
+1062,Lobsters,go,Golang programming,Flynn 1.0 - open source Platform as a Service,https://flynn.io/blog/one-point-oh
+1063,Lobsters,go,Golang programming,HOPE XI - The Code Archive,http://livestream.com/internetsociety2/hopeconf/videos/130613964
+1064,Lobsters,go,Golang programming,clay - A git backed wiki/personal notebook in golang,/s/sqxgfi/clay_git_backed_wiki_personal_notebook
+1065,Lobsters,go,Golang programming,piknik - Copy/paste anything over the network,https://github.com/jedisct1/piknik
+1066,Lobsters,go,Golang programming,gotrace: 3D concurrency modeler/tracer,https://github.com/divan/gotrace
+1067,Lobsters,go,Golang programming,Apcera NATS Moves to Real-time Message Streaming with Persistence,http://thenewstack.io/apcera-nats-moves-real-time-message-stream-brokering/
+1068,Lobsters,go,Golang programming,Snickers: Open Source HTTP API for Media Encoding,http://blog.flavioribeiro.com/snickers-open-source-api-for-media-encoding/
+1069,Lobsters,go,Golang programming,"HTTP_PROXY security vulnerability in Go, PHP, Python CGI environments",https://httpoxy.org/
+1070,Lobsters,go,Golang programming,Asciinema 1.3 Switches from Go Back to Python,http://blog.asciinema.org/post/and-now-for-something-completely-different/
+1071,Lobsters,go,Golang programming,Defer Teardown,http://sigusr2.net/defer-teardown.html
+1072,Lobsters,go,Golang programming,Effective Health Checks in Go,https://opsee.com/guides/gochecks/
+1073,Lobsters,go,Golang programming,Timeseries charting for golang,https://github.com/wcharczuk/go-chart
+1074,Lobsters,go,Golang programming,Terraform by HashiCorp,https://www.terraform.io/
+1075,Lobsters,go,Golang programming,Go’s march to low-latency GC,https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7
+1076,Lobsters,go,Golang programming,Real Life Go Benchmarking,https://kev.inburke.com/kevin/real-life-go-benchmarking/
+1077,Lobsters,go,Golang programming,Making a RESTful JSON API in Go (2014),http://thenewstack.io/make-a-restful-json-api-go/
+1078,Lobsters,go,Golang programming,Go's TLS cannot find root certs in 1.6.2-alpine,https://github.com/docker-library/golang/issues/97#issuecomment-229212677
+1079,Lobsters,go,Golang programming,Transaction Oriented Collector (TOC) Algorithm,https://docs.google.com/document/d/1gCsFxXamW8RRvOe5hECz98Ftk-tcRRJcDFANj2VwCB0/edit
+1080,Lobsters,go,Golang programming,Monkit: Tracing and metrics library for Go,https://github.com/spacemonkeygo/monkit/
+1081,Lobsters,go,Golang programming,Deis Workflow: Migrating from fleet to Kubernetes,https://deis.com/blog/2016/deis-workflow-migrating-fleet-kubernetes/
+1082,Lobsters,go,Golang programming,Hacking the Winkhub [2015],https://mattcarrier.com/post/hacking-the-winkhub-part-1/
+1083,Lobsters,go,Golang programming,Gone Full Unikernel,https://deferpanic.com/blog/gone-full-unikernel/
+1084,Lobsters,go,Golang programming,Cleaning up Parallel Tests in Go 1.7,https://kev.inburke.com/kevin/go-1-7-parallel-tests/
+1085,Lobsters,go,Golang programming,"Automatic pair programmer — realtime code usage examples in your editor, as you type",https://text.sourcegraph.com/code-usage-examples-in-your-editor-as-you-type-f7fc89d894dd
+1086,Lobsters,go,Golang programming,Buford v0.7.0 Apple Push Notifications for Go 1.6 and HTTP/2,https://groups.google.com/forum/#!topic/golang-nuts/KfTMCYt-c2w
+1087,Lobsters,go,Golang programming,Rewriting pkglint.go in a portable language (2016-03),http://mail-index.netbsd.org/tech-pkg/2016/03/23/msg016621.html
+1088,Lobsters,go,Golang programming,Program your next server in Go,https://talks.golang.org/2016/applicative.slide#1
+1089,Lobsters,go,Golang programming,Hacking with Andrew and Brad: an HTTP/2 client in Go,https://www.youtube.com/watch?v=yG-UaBJXZ80
+1090,Lobsters,go,Golang programming,Microservices Weekly (Issue #28): HTTP vs. Thrift,http://microservicesweekly.com/issue/28
+1091,Lobsters,go,Golang programming,Go 1.7 Beta 1 released,https://groups.google.com/forum/#!msg/golang-nuts/zndSPkE2DVE/bcOu35-OBwAJ
+1092,Lobsters,go,Golang programming,"Browse GitHub like an IDE — jump-to-def, doc tooltips, cross-refs (Sourcegraph Chrome extension)",https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9
+1093,Lobsters,go,Golang programming,Presenting Torus: A modern distributed storage system by CoreOS,https://coreos.com/blog/torus-distributed-storage-by-coreos.html
+1094,Lobsters,go,Golang programming,Rendering the Grand Canyon,https://www.michaelfogleman.com/articles/2016-05-06/grand-canyon/
+1095,Lobsters,go,Golang programming,"Micro, a terminal text editor written in go with syntax highlighting and lua api",https://github.com/zyedidia/micro
+1096,Lobsters,go,Golang programming,Microservices Weekly (Issue #27): Game On,http://www.microservicesweekly.com/issue/27
+1097,Lobsters,go,Golang programming,Running Go on a Chromebook in Developer Mode (without installing Linux),http://blog.dantup.com/2016/05/go-on-a-chromebook-without-linux/
+1098,Lobsters,go,Golang programming,Kubernetes: Hypernetes: Bringing Security and Multi-tenancy to Kubernetes,http://blog.kubernetes.io/2016/05/hypernetes-security-and-multi-tenancy-in-kubernetes.html
+1099,Lobsters,go,Golang programming,Achieving a Perfect SSL Labs Score with Go,https://blog.bracelab.com/achieving-perfect-ssl-labs-score-with-go
+1100,Lobsters,go,Golang programming,"Todolist: The perfect command-line task management app. Fast, simple, GTD.",http://todolist.site
+1101,Lobsters,go,Golang programming,"Apex – ""Serverless"" infrastructure management (by @tjholowaychuk)",http://apex.run/
+1102,Lobsters,go,Golang programming,3D Mesh Simplification in Go,https://github.com/fogleman/simplify
+1103,Lobsters,go,Golang programming,"Gorilla: A fast, scalable, in-memory time series database",https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/
+1104,Lobsters,go,Golang programming,"rickover - a job queue/scheduler available over HTTP, written in Go, and backed by Postgres",https://github.com/Shyp/rickover
+1105,Lobsters,go,Golang programming,"Go best practices, six years in",https://peter.bourgon.org/go-best-practices-2016/
+1106,Lobsters,go,Golang programming,Go bindings to Rust's regex library,https://github.com/BurntSushi/rure-go
+1107,Lobsters,go,Golang programming,A simple way to limit the number of simultaneous clients of a Go net/http server,https://www.pauladamsmith.com/blog/2016/04/max-clients-go-net-http.html
+1108,Lobsters,go,Golang programming,"Oh, a UNIX shell built around Scheme",https://github.com/michaelmacinnis/oh
+1109,Lobsters,go,Golang programming,The Stack That Helped Medium Drive 2.6 Millennia of Reading Time,https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492
+1110,Lobsters,go,Golang programming,WIP - go compiler/toolchain written in rust,https://github.com/yberreby/rgo
+1111,Lobsters,go,Golang programming,Shrink your Go binaries,https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/
+1112,Lobsters,go,Golang programming,"Reddit Golang: ""Visual Studio Code for Go programming : real good""",https://www.reddit.com/r/golang/comments/4ewxjo/visual_studio_code_for_go_programming_real_good/
+1113,Lobsters,go,Golang programming,Proposal: Go should have generics,https://github.com/golang/proposal/blob/master/design/15292-generics.md
+1114,Lobsters,go,Golang programming,"Brian Kernighan on the typesetting of ""The Go Programming Language"" book",https://rkrishnan.org/posts/2016-03-07-how-is-gopl-typeset.html
+1115,Lobsters,go,Golang programming,privacysco.re,https://privacysco.re/
+1116,Lobsters,go,Golang programming,Go Proverbs - Rob Pike,https://www.youtube.com/watch?v=PAAkCSZUG1c
+1117,Lobsters,go,Golang programming,Rob Pike - Simplicity is Complicated,https://www.youtube.com/watch?v=rFejpH_tAHM
+1118,Lobsters,go,Golang programming,"SGo, a dialect of Go that avoids nil-related panics with optionals",https://github.com/tcard/sgo
+1119,Lobsters,go,Golang programming,10M - goroutines,http://goroutines.com/10m
+1120,Lobsters,go,Golang programming,Go Concurrency for Javascript Developers,https://kev.inburke.com/kevin/go-concurrency-for-js-devs/
+1121,Lobsters,go,Golang programming,An Implementation and Analysis of a Kernel Network Stack in Go with the CSP Style,http://arxiv.org/abs/1603.05636
+1122,Lobsters,go,Golang programming,Go 1.7 toolchain improvements,http://dave.cheney.net/2016/04/02/go-1-7-toolchain-improvements
+1123,Lobsters,go,Golang programming,Notes on Go,https://brandur.org/go
+1124,Lobsters,go,Golang programming,Go Pipelines,https://gist.github.com/brandur/0ed11ad9480809aad0dacecfcac41790
+1125,Lobsters,go,Golang programming,Writing a very fast cache service with millions of entries in Go,http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html
+1126,Lobsters,go,Golang programming,The Way of the Gopher,https://medium.com/@theflapjack103/the-way-of-the-gopher-6693db15ae1f
+1127,Lobsters,go,Golang programming,A look at Go from a newbie's perspective,http://julio.meroh.net/blog/2016/03/22/golang-review.html
+1128,Lobsters,go,Golang programming,pmcctv - poor man's CCTV system using ffmpeg and ImageMagick,https://github.com/laurent22/pmcctv
+1129,Lobsters,go,Golang programming,Microservices Weekly (Issue #18): This week's news/articles on microservices,http://www.microservicesweekly.com/issue/18
+1130,Lobsters,go,Golang programming,Making a program 70% faster by avoiding common mistakes,http://blog.fmpwizard.com/blog/go_making_a_program_70_faster_by_avoiding_common_mistakes
+1131,Lobsters,go,Golang programming,"Go Learn - Some rookie Go mistakes we made building Teamwork Desk, and what we learned from them",http://engineroom.teamwork.com/go-learn/
+1132,Lobsters,go,Golang programming,An introduction to LLVM in Go,http://blog.felixangell.com/an-introduction-to-llvm-in-go/
+1133,Lobsters,go,Golang programming,Brian Kernighan book on Go Language,https://www.princeton.edu/main/news/archive/S45/61/59I61/index.xml
+1134,Lobsters,go,Golang programming,SIGSEGV with fault address 0xb01dfacedebac1e,https://go.googlesource.com/go/+/17f9423
+1135,Lobsters,go,Golang programming,Error handling in Go(lang). Whats about it?,https://medium.com/@merten.vg/error-handling-in-go-lang-whats-about-it-4131c0f039e9
+1136,Lobsters,go,Golang programming,"Connecting Docker Containers, Part Two",https://deis.com/blog/2016/connecting-docker-containers-2
+1137,Lobsters,go,Golang programming,Book Review: The Go Programming Language,http://www.onebigfluke.com/2016/03/book-review-go-programming-language.html
+1138,Lobsters,go,Golang programming,vscode-go: Go support for Visual Studio Code,https://github.com/Microsoft/vscode-go
+1139,Lobsters,go,Golang programming,Go channels are bad and you should feel bad,http://www.jtolds.com/writing/2016/03/go-channels-are-bad-and-you-should-feel-bad/
+1140,Lobsters,go,Golang programming,walle/lll - Line length linter,https://github.com/walle/lll
+1141,Lobsters,go,Golang programming,The Oden Programming Language,http://oden-lang.org/
+1142,Lobsters,go,Golang programming,"Go In 5 Minutes - Short, helpful screencasts for professional Go developers",http://www.goin5minutes.com/screencasts/index.html
+1143,Lobsters,go,Golang programming,Go Versions and the Open-Closed Principle,https://jeremywsherman.com/blog/2016/02/24/go-versions-and-the-open-closed-principle
+1144,Lobsters,go,Golang programming,So You Wanna Go Fast?,http://bravenewgeek.com/so-you-wanna-go-fast/
+1145,Lobsters,go,Golang programming,NUID – An entropy friendly and highly performant unique identifier generator,https://github.com/nats-io/nuid
+1146,Lobsters,go,Golang programming,Uber's Highest QPS Service in Go,https://eng.uber.com/go-geofence/
+1147,Lobsters,go,Golang programming,Causal Profiling for Go,https://morsmachine.dk/causalprof
+1148,Lobsters,go,Golang programming,Handling JSONB in Go Structs,http://coussej.github.io/2016/02/16/Handling-JSONB-in-Go-Structs/
+1149,Lobsters,go,Golang programming,Simple command-line utilities for Redis pubsub,https://github.com/AndrewGuenther/rpubsub
+1150,Lobsters,go,Golang programming,Introducing Go 1.6 - GopherconIndia,https://docs.google.com/presentation/d/1JsCKdK_AvDdn8EkummMNvpo7ntqteWQfynq9hFTCkhQ/preview?slide=id.p
+1151,Lobsters,go,Golang programming,Go 1.6 is released,https://blog.golang.org/go1.6
+1152,Lobsters,go,Golang programming,go-git: A low level and highly extensible git client library,https://github.com/src-d/go-git
+1153,Lobsters,go,Golang programming,Progress So Far - Genesis Digital Audio Workstation Development Blog,http://genesisdaw.org/post/progress-so-far.html
+1154,Lobsters,go,Golang programming,Language and Locale Matching in Go,https://blog.golang.org/matchlang
+1155,Lobsters,go,Golang programming,socat-lite with letsencrypt support,https://github.com/jtolds/lecat
+1156,Lobsters,go,Golang programming,Unhelpful abstractions,http://dave.cheney.net/2016/02/06/unhelpful-abstractions
+1157,Lobsters,go,Golang programming,The State of Go,https://talks.golang.org/2016/state-of-go.slide
+1158,Lobsters,go,Golang programming,"A Small, Nice Thing",http://codahale.com/a-small-nice-thing/
+1159,Lobsters,go,Golang programming,MeshBird - distributed private networking,http://meshbird.com/
+1160,Lobsters,go,Golang programming,google/seesaw,https://github.com/google/seesaw
+1161,Lobsters,go,Golang programming,Visualizing Concurrency in Go,https://divan.github.io/posts/go_concurrency_visualize/
+1162,Lobsters,go,Golang programming,Distributed website load testing using AWS Lambdas,https://github.com/gophergala2016/goad
+1163,Lobsters,go,Golang programming,"Search Google, GitHub, Stack Overflow, and other sites from the terminal",https://github.com/zquestz/s
+1164,Lobsters,go,Golang programming,The factory method pattern in Go.,http://matthewbrown.io/2016/01/23/factory-pattern-in-golang/
+1165,Lobsters,go,Golang programming,cgo is not Go,http://dave.cheney.net/2016/01/18/cgo-is-not-go
+1166,Lobsters,go,Golang programming,Apex log - Structured & centralized logging for Go,https://medium.com/@tjholowaychuk/apex-log-e8d9627f4a9a#.kmjjqp7pm
+1167,Lobsters,go,Golang programming,Go 1.5.3 is released,https://groups.google.com/forum/#!topic/golang-announce/MEATuOi_ei4
+1168,Lobsters,go,Golang programming,Go on IBM Z,https://github.com/linux-on-ibm-z/go
+1169,Lobsters,go,Golang programming,Encrypted overlay filesystem [FUSE] written in Go,https://github.com/rfjakob/gocryptfs
+1170,Lobsters,go,Golang programming,Symmetric API Testing,https://blog.gopheracademy.com/advent-2015/symmetric-api-testing-in-go/
+1171,Lobsters,go,Golang programming,Pome - A Postgres Metrics Dashboard,https://github.com/rach/pome
+1172,Lobsters,go,Golang programming,rakyll/gom - A visual interface to work with runtime profiling data for Go,https://github.com/rakyll/gom
+1173,Lobsters,go,Golang programming,Interview with Jesper Louis Andersen,https://medium.com/@unbalancedparen/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd
+1174,Lobsters,go,Golang programming,Raspchat a Raspberry Pi web chat server.,http://raspchat.ngrok.io/
+1175,Lobsters,go,Golang programming,Moving a team from Scala to Golang,http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/
+1176,Lobsters,go,Golang programming,Go 1.6 HTTP/2 provider for Apple Push Notification Service,https://github.com/RobotsAndPencils/buford
+1177,Lobsters,go,Golang programming,Go 1.6 Beta 1 is released,https://groups.google.com/forum/#!topic/golang-nuts/24zV9JeBoEE
+1178,Lobsters,go,Golang programming,git-appraise - a Distributed Code Review tool,https://github.com/google/git-appraise
+1179,Lobsters,go,Golang programming,A curated list of articles complaining about golang,https://github.com/ksimka/go-is-not-good
+1180,Lobsters,go,Golang programming,Go vs Node vs Rust vs Swift,https://grigio.org/go-vs-node-vs-rust-vs-swift/
+1181,Lobsters,go,Golang programming,Replacing Sawzall — a case study in domain-specific language migration,http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html
+1182,Lobsters,go,Golang programming,Go 1.5.2 is released,https://groups.google.com/forum/#!topic/golang-announce/UHWEEFnocxE
+1183,Lobsters,go,Golang programming,Avoiding Reflection (And Such) In Go,http://www.jerf.org/iri/post/2945
+1184,Lobsters,go,Golang programming,Proposal: Rules for passing pointers between Go and C,https://github.com/golang/proposal/blob/master/design/12416-cgo-pointers.md
+1185,Lobsters,go,Golang programming,Simplicity is Complicated,http://www.thedotpost.com/2015/11/rob-pike-simplicity-is-complicated
+1186,Lobsters,go,Golang programming,A whirlwind tour of Go’s runtime environment variables,http://dave.cheney.net/2015/11/29/a-whirlwind-tour-of-gos-runtime-environment-variables
+1187,Lobsters,go,Golang programming,How to Optimize Garbage Collection in Go,http://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/
+1188,Lobsters,go,Golang programming,"Sourcegraph, a new self-hosted Git service with semantic code navigation, search, and review",https://src.sourcegraph.com/sourcegraph@b1af2ab4761618930f6f7e44eb775e08fac3f38e/.tree/README.md
+1189,Lobsters,go,Golang programming,Go Proverbs,http://go-proverbs.github.io/
+1190,Lobsters,go,Golang programming,Stable APIs for the Go language,http://labix.org/gopkg.in
+1191,Lobsters,go,Golang programming,Hugo :: A fast and modern static website engine,http://gohugo.io/
+1192,Lobsters,go,Golang programming,Developing a Real Time Bidder in Go(lang),http://www.aychedee.com/2015/09/18/writing-a-real-time-bidder-with-go/
+1193,Lobsters,go,Golang programming,The Legacy of Go,http://dave.cheney.net/2015/11/15/the-legacy-of-go
+1194,Lobsters,go,Golang programming,fval - Simple go library for validating file and directory existence,https://github.com/walle/fval
+1195,Lobsters,go,Golang programming,Interface Upgrades in Go,http://avtok.com/2014/11/05/interface-upgrades.html
+1196,Lobsters,go,Golang programming,Oden Lang,https://oden-lang.github.io/
+1197,Lobsters,go,Golang programming,For Better or For Worse,http://jmoiron.net/blog/for-better-or-for-worse/
+1198,Lobsters,go,Golang programming,Go's Error Handling is Elegant,http://davidnix.io/post/error-handling-in-go/
+1199,Lobsters,go,Golang programming,fzf - a command-line fuzzy-finder written in Go,https://github.com/junegunn/fzf
+1200,Lobsters,go,Golang programming,Six years of Go,https://blog.golang.org/6years
+1201,Lobsters,go,Golang programming,Explaining Go error handling,https://medium.com/@divan/explaining-go-error-handling-44099bcd2b1f
+1202,Lobsters,go,Golang programming,Implementing a BDD Workflow in Go,http://blog.codeship.com/implementing-a-bdd-workflow-in-go/
+1203,Lobsters,go,Golang programming,Let’s talk about logging,http://dave.cheney.net/2015/11/05/lets-talk-about-logging
+1204,Lobsters,go,Golang programming,Why Go Was the Right Choice for CockroachDB,http://www.cockroachlabs.com/blog/why-go-was-the-right-choice-for-cockroachdb/
+1205,Lobsters,go,Golang programming,Use FlatBuffers in Go,https://rwinslow.com/posts/use-flatbuffers-in-golang/
+1206,Lobsters,go,Golang programming,Language choice,https://honza.ca/2015/11/language-choice
+1207,Lobsters,go,Golang programming,Why Go is a poorly designed language,https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2
+1208,Lobsters,go,Golang programming,devd: a web daemon for developers,http://corte.si/posts/devd/intro/index.html
+1209,Lobsters,go,Golang programming,Interfaces and Composition for Effective Unit Testing in Golang,http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/
+1210,Lobsters,go,Golang programming,"Get ready, get set, Go",https://nathany.com/learn-go/
+1211,Lobsters,go,Golang programming,From Python to Go and Back Again,https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1#slide=id.g70b0035b2_1_168
+1212,Lobsters,go,Golang programming,Learn Go - a beginners guide to Go,https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821
+1213,Lobsters,go,Golang programming,Golang Tripping Hazards,https://github.com/monsooncommerce/golang-tripping-hazards
+1214,Lobsters,go,Golang programming,Ten Useful Techniques in Go,https://medium.com/@farslan/ten-useful-techniques-in-go-ddd94296c21b
+1215,Lobsters,go,Golang programming,"wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia",https://github.com/walle/wiki
+1216,Lobsters,go,Golang programming,Mattermost: Open source self-hosted Slack-alternative reaches 1.0,http://www.mattermost.org/open-source-slack-alternative-reaches-1-0/
+1217,Lobsters,go,Golang programming,Go maps don't appear to be O(1),https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf
+1218,Lobsters,go,Golang programming,A Pattern for Optimizing Go,http://blog.signalfx.com/a-pattern-for-optimizing-go
+1219,Lobsters,go,Golang programming,Proposal: Dense mark bits and sweep-free allocation,https://github.com/golang/proposal/blob/master/design/12800-sweep-free-alloc.md
+1220,Lobsters,go,Golang programming,Nomad,https://hashicorp.com/blog/nomad.html
+1221,Lobsters,go,Golang programming,Surprises in GopherJS Performance,http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/
+1222,Lobsters,go,Golang programming,cfg - Simple read/write and commentable config files for go,https://github.com/walle/cfg
+1223,Lobsters,go,Golang programming,"/dev/dump: On Go, Portability, and System Interfaces",http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html
+1224,Lobsters,go,Golang programming,(2014) Jonathan Blow - Ideas about a new programming language for games,https://www.youtube.com/watch?v=TH9VCN6UkyQ
+1225,Lobsters,go,Golang programming,TiDB is a distributed SQL database compatible with MySQL protocol.,https://github.com/pingcap/tidb
+1226,Lobsters,go,Golang programming,Go 1.6 will Make its Garbage Collector Faster,http://www.infoq.com/news/2015/09/go-16-garbage-collection
+1227,Lobsters,go,Golang programming,WaGo - A powerful watch & build tool designed for server applications,https://github.com/JonahBraun/wago
+1228,Lobsters,go,Golang programming,macgyver: an ssh agent for chromebooks using the TPM,https://github.com/stripe/macgyver
+1229,Lobsters,go,Golang programming,From Python to Go: migrating our entire API,http://blog.repustate.com/migrating-entire-api-go-python/
+1230,Lobsters,go,Golang programming,Best practices for a new Go developer,https://medium.com/@IndianGuru/best-practices-for-a-new-go-developer-8660384302fc
+1231,Lobsters,go,Golang programming,Go at Basecamp,https://signalvnoise.com/posts/3897-go-at-basecamp
+1232,Lobsters,go,Golang programming,Go GC: Prioritizing low latency and simplicity,https://blog.golang.org/go15gc
+1233,Lobsters,go,Golang programming,Deploying Go Apps to Heroku with Docker,http://icanhazdowntime.org/post/deploying-go-heroku-docker/
+1234,Lobsters,go,Golang programming,Profiling & Optimizing in Go,https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md
+1235,Lobsters,go,Golang programming,libmill - Go-style concurrency in C,http://libmill.org/
+1236,Lobsters,go,Golang programming,"Designing And Building Stockfighter, Our Programming Game",http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/
+1237,Lobsters,go,Golang programming,Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang,http://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/
+1238,Lobsters,go,Golang programming,A terminal Space Invaders game,https://github.com/asib/spaceinvaders
+1239,Lobsters,go,Golang programming,Gotty – Share your terminal as a web application,http://github.com/yudai/gotty
+1240,Lobsters,go,Golang programming,Go as a teaching language for young programmers,https://groups.google.com/forum/m/#!topic/golang-nuts/FIRSDBehb3g
+1241,Lobsters,go,Golang programming,Building Resilient Services with Go,http://blog.fogcreek.com/building-resilient-services-with-go-tech-talk/
+1242,Lobsters,go,Golang programming,Gzip Performance for Go Webservers,http://blog.klauspost.com/gzip-performance-for-go-webservers/
+1243,Lobsters,go,Golang programming,"DNS parser, meet Go fuzzer",https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
+1244,Lobsters,go,Golang programming,Go 1.5 Release Notes,http://tip.golang.org/doc/go1.5
+1245,Lobsters,go,Golang programming,Backwards compatibility in go,http://blog.merovius.de/2015/07/29/backwards-compatibility-in-go.html
+1246,Lobsters,go,Golang programming,The anatomy of a Go project,http://darian.af/post/the-anatomy-of-a-golang-project/
+1247,Lobsters,go,Golang programming,Sum Types in Go (2014),https://news.ycombinator.com/item?id=8797590
+1248,Lobsters,go,Golang programming,Don't abuse math.Max / math.Min,http://mrekucci.blogspot.com/2015/07/dont-abuse-mathmax-mathmin.html
+1249,Lobsters,go,Golang programming,"Unprivileged containers in Go, Part2: UTS namespace",http://lk4d4.darth.io/posts/unpriv2/
+1250,Lobsters,go,Golang programming,"Go, Open Source, Community",http://blog.golang.org/open-source

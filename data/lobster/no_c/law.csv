@@ -1,0 +1,1032 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,law,"Law, patents, and licensing",The Anti-Capitalist Software License,https://anticapitalist.software/
+2,Lobsters,law,"Law, patents, and licensing",<wbr>bitlaw-jp/the-constitution-of-<wbr>japan: The Constitution of Japan in Prolog</wbr></wbr>,https://github.com/bitlaw-jp/the-constitution-of-japan
+3,Lobsters,law,"Law, patents, and licensing",Aspect-Oriented Programming,https://patents.google.com/patent/US6467086B1/en
+4,Lobsters,law,"Law, patents, and licensing",You May Finally Use JSHint for Evil,http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/
+5,Lobsters,law,"Law, patents, and licensing",EFF's Recommendations for Consumer Data Privacy Laws (2019),https://www.eff.org/deeplinks/2019/06/effs-recommendations-consumer-data-privacy-laws
+6,Lobsters,law,"Law, patents, and licensing",The falsehoods of anti-AGPL propaganda,https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html
+7,Lobsters,law,"Law, patents, and licensing",Bug Bounty Platforms vs. GDPR: A Case Study,https://www.rcesecurity.com/2020/07/Bug-Bounty-Platforms-vs-GDPR-A-Case-Study/
+8,Lobsters,law,"Law, patents, and licensing",The CNIL publishes a GDPR guide for developers,https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers
+9,Lobsters,law,"Law, patents, and licensing",FPGA vendor Lattice acknowledges value of open source community,https://ossg.bcs.org/blog/2020/06/28/fpga-vendor-lattice-acknowledges-value-of-open-source-community/
+10,Lobsters,law,"Law, patents, and licensing",There’s now an even worse anti-encryption bill than EARN IT,https://cyberlaw.stanford.edu/blog/2020/06/there’s-now-even-worse-anti-encryption-bill-earn-it-doesn’t-make-earn-it-bill-ok
+11,Lobsters,law,"Law, patents, and licensing","Removing ""Annoying"" Windows 10 Features is a DMCA Violation, Microsoft Says",https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/
+12,Lobsters,law,"Law, patents, and licensing",Lattice Drops EULA Clause Forbidding FPGA Bitstream Reverse Engineering,https://hackaday.com/2020/06/06/lattice-drops-eula-clause-forbidding-fpga-bitstream-reverse-engineering/
+13,Lobsters,law,"Law, patents, and licensing","The Decentralized Web Has Plans, if Not Solutions, for the Misinformation Nightmare",https://www.coindesk.com/the-decentralized-web-has-plans-if-not-solutions-to-the-misinformation-nightmare
+14,Lobsters,law,"Law, patents, and licensing",Lawsuit over online book lending could bankrupt Internet Archive,https://arstechnica.com/tech-policy/2020/06/publishers-sue-internet-archive-over-massive-digital-lending-program/
+15,Lobsters,law,"Law, patents, and licensing",Reverse engineering oracle protocol,http://noss.github.io/2009/04/28/reverse-engineering-oracle-protocol.html
+16,Lobsters,law,"Law, patents, and licensing",Patent case against GNOME resolved,https://www.gnome.org/news/2020/05/patent-case-against-gnome-resolved/
+17,Lobsters,law,"Law, patents, and licensing","Which FSF- or OSI-approved licenses limit corporate usage in spirit, but not in letter?",https://opensource.stackexchange.com/questions/9747/which-fsf-or-osi-approved-licenses-limit-corporate-usage-in-spirit-but-not-in
+18,Lobsters,law,"Law, patents, and licensing","Names, Legal Names, and Fractally Deferred Responsibility",https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/
+19,Lobsters,law,"Law, patents, and licensing",The Original Cookie specification from 1997 was GDPR compliant,https://baekdal.com/thoughts/the-original-cookie-specification-from-1997-was-gdpr-compliant/
+20,Lobsters,law,"Law, patents, and licensing","No cookie consent walls — and no, scrolling isn’t consent, says EU data protection body",https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/
+21,Lobsters,law,"Law, patents, and licensing",Keygen - a dead-simple product and app licensing API built for developers,https://keygen.sh/
+22,Lobsters,law,"Law, patents, and licensing",The Challenge of Software Liability,https://www.lawfareblog.com/challenge-software-liability
+23,Lobsters,law,"Law, patents, and licensing",The Initiative for Software Choice,https://web.archive.org/web/20061107202717/http://www.softwarechoice.org/
+24,Lobsters,law,"Law, patents, and licensing",Qt and Open Source,https://www.qt.io/blog/qt-and-open-source
+25,Lobsters,law,"Law, patents, and licensing",Business Source License Adoption,https://blog.adamretter.org.uk/business-source-license-adoption/
+26,Lobsters,law,"Law, patents, and licensing",The Anti-Capitalist Software License,https://anticapitalist.software/
+27,Lobsters,law,"Law, patents, and licensing",<wbr>bitlaw-jp/the-constitution-of-<wbr>japan: The Constitution of Japan in Prolog</wbr></wbr>,https://github.com/bitlaw-jp/the-constitution-of-japan
+28,Lobsters,law,"Law, patents, and licensing",Aspect-Oriented Programming,https://patents.google.com/patent/US6467086B1/en
+29,Lobsters,law,"Law, patents, and licensing",You May Finally Use JSHint for Evil,http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/
+30,Lobsters,law,"Law, patents, and licensing",EFF's Recommendations for Consumer Data Privacy Laws (2019),https://www.eff.org/deeplinks/2019/06/effs-recommendations-consumer-data-privacy-laws
+31,Lobsters,law,"Law, patents, and licensing",The falsehoods of anti-AGPL propaganda,https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html
+32,Lobsters,law,"Law, patents, and licensing",Bug Bounty Platforms vs. GDPR: A Case Study,https://www.rcesecurity.com/2020/07/Bug-Bounty-Platforms-vs-GDPR-A-Case-Study/
+33,Lobsters,law,"Law, patents, and licensing",The CNIL publishes a GDPR guide for developers,https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers
+34,Lobsters,law,"Law, patents, and licensing",FPGA vendor Lattice acknowledges value of open source community,https://ossg.bcs.org/blog/2020/06/28/fpga-vendor-lattice-acknowledges-value-of-open-source-community/
+35,Lobsters,law,"Law, patents, and licensing",There’s now an even worse anti-encryption bill than EARN IT,https://cyberlaw.stanford.edu/blog/2020/06/there’s-now-even-worse-anti-encryption-bill-earn-it-doesn’t-make-earn-it-bill-ok
+36,Lobsters,law,"Law, patents, and licensing","Removing ""Annoying"" Windows 10 Features is a DMCA Violation, Microsoft Says",https://torrentfreak.com/removing-annoying-windows-10-features-is-a-dmca-violation-microsoft-says-200611/
+37,Lobsters,law,"Law, patents, and licensing",Lattice Drops EULA Clause Forbidding FPGA Bitstream Reverse Engineering,https://hackaday.com/2020/06/06/lattice-drops-eula-clause-forbidding-fpga-bitstream-reverse-engineering/
+38,Lobsters,law,"Law, patents, and licensing","The Decentralized Web Has Plans, if Not Solutions, for the Misinformation Nightmare",https://www.coindesk.com/the-decentralized-web-has-plans-if-not-solutions-to-the-misinformation-nightmare
+39,Lobsters,law,"Law, patents, and licensing",Lawsuit over online book lending could bankrupt Internet Archive,https://arstechnica.com/tech-policy/2020/06/publishers-sue-internet-archive-over-massive-digital-lending-program/
+40,Lobsters,law,"Law, patents, and licensing",Reverse engineering oracle protocol,http://noss.github.io/2009/04/28/reverse-engineering-oracle-protocol.html
+41,Lobsters,law,"Law, patents, and licensing",Patent case against GNOME resolved,https://www.gnome.org/news/2020/05/patent-case-against-gnome-resolved/
+42,Lobsters,law,"Law, patents, and licensing","Which FSF- or OSI-approved licenses limit corporate usage in spirit, but not in letter?",https://opensource.stackexchange.com/questions/9747/which-fsf-or-osi-approved-licenses-limit-corporate-usage-in-spirit-but-not-in
+43,Lobsters,law,"Law, patents, and licensing","Names, Legal Names, and Fractally Deferred Responsibility",https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/
+44,Lobsters,law,"Law, patents, and licensing",The Original Cookie specification from 1997 was GDPR compliant,https://baekdal.com/thoughts/the-original-cookie-specification-from-1997-was-gdpr-compliant/
+45,Lobsters,law,"Law, patents, and licensing","No cookie consent walls — and no, scrolling isn’t consent, says EU data protection body",https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/
+46,Lobsters,law,"Law, patents, and licensing",Keygen - a dead-simple product and app licensing API built for developers,https://keygen.sh/
+47,Lobsters,law,"Law, patents, and licensing",The Challenge of Software Liability,https://www.lawfareblog.com/challenge-software-liability
+48,Lobsters,law,"Law, patents, and licensing",The Initiative for Software Choice,https://web.archive.org/web/20061107202717/http://www.softwarechoice.org/
+49,Lobsters,law,"Law, patents, and licensing",Qt and Open Source,https://www.qt.io/blog/qt-and-open-source
+50,Lobsters,law,"Law, patents, and licensing",Business Source License Adoption,https://blog.adamretter.org.uk/business-source-license-adoption/
+51,Lobsters,law,"Law, patents, and licensing",EARN IT is a direct attack on end-to-end encryption,https://blog.cryptographyengineering.com/2020/03/06/earn-it-is-an-attack-on-encryption/
+52,Lobsters,law,"Law, patents, and licensing",A requirements spec for voting,https://blog.erratasec.com/2020/03/a-requirements-spec-for-voting.html
+53,Lobsters,law,"Law, patents, and licensing",Gopher's Rise and Fall Shows How Much We Lost When Monopolists Stole the Net,https://tech.slashdot.org/story/20/02/21/2240222/gophers-rise-and-fall-shows-how-much-we-lost-when-monopolists-stole-the-net
+54,Lobsters,law,"Law, patents, and licensing",What usage restrictions can we place in a free software license?,https://mjg59.dreamwidth.org/54709.html
+55,Lobsters,law,"Law, patents, and licensing",How did/do you find and evaluate employment lawyers?,/s/5hop5y/how_did_do_you_find_evaluate_employment
+56,Lobsters,law,"Law, patents, and licensing",The coming IP war over facts derived from books,https://abe-winter.github.io/2020/02/11/books-facts-ip.html
+57,Lobsters,law,"Law, patents, and licensing",Copyrighting all the melodies to avoid accidental infringement,https://www.youtube.com/watch?v=sJtm0MoOgiU
+58,Lobsters,law,"Law, patents, and licensing",Every Melody Has Been Copyrighted (and they're all on this hard drive),https://www.youtube.com/watch?v=sfXn_ecH5Rw
+59,Lobsters,law,"Law, patents, and licensing",The Future of Internet Regulation at the European Parliament,https://ar.al/2019/11/29/the-future-of-internet-regulation-at-the-european-parliament/
+60,Lobsters,law,"Law, patents, and licensing",The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It,https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it
+61,Lobsters,law,"Law, patents, and licensing",Less Love for FOSS Qt Users,https://www.embeddeduse.com/2020/02/02/less-love-for-foss-qt-users/
+62,Lobsters,law,"Law, patents, and licensing",US court fully legalized website scraping and technically prohibited it,https://parsers.me/us-court-fully-legalized-website-scraping-and-technically-prohibited-it/
+63,Lobsters,law,"Law, patents, and licensing","To catch a thief, go to Google with a geofence warrant – and it will give you all the details",https://www.theregister.co.uk/2020/01/18/google_geofence_warrant/
+64,Lobsters,law,"Law, patents, and licensing",Qt offering changes 2020,https://www.qt.io/blog/qt-offering-changes-2020
+65,Lobsters,law,"Law, patents, and licensing",A Political History of X,https://www.youtube.com/watch?v=cj02_UeUnGQ
+66,Lobsters,law,"Law, patents, and licensing","This Is Why You Always Review Your Dependencies, AGPL Edition",https://www.agwa.name/blog/post/always_review_your_dependencies
+67,Lobsters,law,"Law, patents, and licensing","Abbott Labs kills free tool that lets you own the blood-sugar data from your glucose monitor, saying it violates copyright law",https://boingboing.net/2019/12/12/they-literally-own-you.html
+68,Lobsters,law,"Law, patents, and licensing",Oracle copied Amazon’s API - was that copyright infringement?,https://arstechnica.com/tech-policy/2020/01/oracle-copied-amazons-api-was-that-copyright-infringement/
+69,Lobsters,law,"Law, patents, and licensing",Apple Is Bullying a Security Company with a Dangerous DMCA Lawsuit,https://www.ifixit.com/News/apple-is-bullying-a-security-company-with-a-dangerous-dmca-lawsuit
+70,Lobsters,law,"Law, patents, and licensing",Safe-Guarding the (L)GPL Future of Qt,https://www.embeddeduse.com/2019/12/21/safe-guarding-the-lgpl-future-of-qt/
+71,Lobsters,law,"Law, patents, and licensing",California Bill Threatens Consultants,https://insight.ieeeusa.org/articles/california-bill-ab-5-threatens-consultants/
+72,Lobsters,law,"Law, patents, and licensing",The Original Sin of Free Software,https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fascraeus.org%2F0%2Fentries%2Foriginal-sin.txt
+73,Lobsters,law,"Law, patents, and licensing",The Cathedral and the Bizarre,http://marktarver.com/thecathedralandthebizarre.html
+74,Lobsters,law,"Law, patents, and licensing",Rambler Group claims exclusive rights to Nginx,https://meduza.io/en/feature/2019/12/13/what-s-yours-is-ours
+75,Lobsters,law,"Law, patents, and licensing",Nginx Moscow office is being raided by police,https://twitter.com/AntNesterov/status/1205086129504104460
+76,Lobsters,law,"Law, patents, and licensing",osxfuse is no longer open source,https://colatkinson.site/macos/fuse/2019/09/29/osxfuse/
+77,Lobsters,law,"Law, patents, and licensing","Wave Computing Closes its MIPS Open Initiative with Immediate Effect, Zero Warning",https://www.hackster.io/news/wave-computing-closes-its-mips-open-initiative-with-immediate-effect-zero-warning-e88b0df9acd0
+78,Lobsters,law,"Law, patents, and licensing",Germany forces Apple to let other mobile wallet services use iPhone’s NFC chip,https://9to5mac.com/2019/11/15/use-nfc-chip/
+79,Lobsters,law,"Law, patents, and licensing",Supreme Court to Hear Google and Oracle Copyright Case,https://www.nytimes.com/2019/11/15/us/supreme-court-google-oracle.html
+80,Lobsters,law,"Law, patents, and licensing",Motion for leave to file brief of amici curiae computer scientists,https://www.supremecourt.gov/DocketPDF/18/18-956/89487/20190225134131839_18-956_Oracle_v__Google_Computer_Scientists_Amicus_Motion_Brief_FILE.pdf
+81,Lobsters,law,"Law, patents, and licensing",Re-Licensing Sentry,https://blog.sentry.io/2019/11/06/relicensing-sentry
+82,Lobsters,law,"Law, patents, and licensing",Understanding Domino's v Robles,http://georgemauer.net/2019/11/04/dominos-v-robles.html
+83,Lobsters,law,"Law, patents, and licensing","The Trillion Dollar Lawsuit, Part One",https://danco.substack.com/p/the-trillion-dollar-lawsuit-part
+84,Lobsters,law,"Law, patents, and licensing",Apple’s great GPL purge (2012-),http://meta.ath0.com/2012/02/05/apples-great-gpl-purge/
+85,Lobsters,law,"Law, patents, and licensing",AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the DoD,https://admin.govexec.com/media/dib_ai_principles_-_supporting_document_-_embargoed_copy_(oct_2019).pdf
+86,Lobsters,law,"Law, patents, and licensing",On the GPL to BSL Transition,https://www.zerotier.com/on-the-gpl-to-bsl-transition/
+87,Lobsters,law,"Law, patents, and licensing",Calling all Tesla owners: let's discuss the source code for the GPLed parts of your car,https://sfconservancy.org/blog/2019/oct/30/calling-all-tesla-owners/
+88,Lobsters,law,"Law, patents, and licensing",Comcast Is Lobbying Against Encrypted DNS in the Browser,https://www.vice.com/en_us/article/9kembz/comcast-lobbying-against-doh-dns-over-https-encryption-browsing-data
+89,Lobsters,law,"Law, patents, and licensing",GNOME files defense against patent troll,https://www.gnome.org/news/2019/10/gnome-files-defense-against-patent-troll/
+90,Lobsters,law,"Law, patents, and licensing",Open-Source Needs a Reckoning,https://medium.com/@greg_p_kennedy/open-source-needs-a-reckoning-58a8d97223e0
+91,Lobsters,law,"Law, patents, and licensing",Good luck backdooring encryption without banning github,https://abe-winter.github.io/2019/10/12/cancel-github.html
+92,Lobsters,law,"Law, patents, and licensing",Microsoft's LinkedIn loses appeal over access to user profiles,https://www.reuters.com/article/us-microsoft-linkedin-profiles-idUSKCN1VU21W
+93,Lobsters,law,"Law, patents, and licensing",What's going on with WhatFreeWords?,https://justpaste.it/39hat
+94,Lobsters,law,"Law, patents, and licensing",Supreme Court allows the blind to sue over inaccessible websites,https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled
+95,Lobsters,law,"Law, patents, and licensing","The Open Letter from the Governments of US, UK, and Australia to Facebook is An All-Out Attack on Encryption",https://www.eff.org/deeplinks/2019/10/open-letter-governments-us-uk-and-australia-facebook-all-out-attack-encryption
+96,Lobsters,law,"Law, patents, and licensing",Cross-License Collaboratives: Decentralizing contributor license agreements,https://writing.kemitchell.com/2019/10/05/XLC.html
+97,Lobsters,law,"Law, patents, and licensing",The Hippocratic License: An Ethical Open Source License,https://firstdonoharm.dev/
+98,Lobsters,law,"Law, patents, and licensing","The MIT License, Line by Line",https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html
+99,Lobsters,law,"Law, patents, and licensing","Swiss Copyright Law: Downloading Stays Legal, No Site Blocking",https://torrentfreak.com/swiss-copyright-law-downloading-stays-legal-no-site-blocking/
+100,Lobsters,law,"Law, patents, and licensing","Lavabit founder, under gag order, speaks out about shutdown decision (2013)",https://arstechnica.com/tech-policy/2013/08/lavabit-founder-under-gag-order-speaks-out-about-shut-down-decision/
+101,Lobsters,law,"Law, patents, and licensing",End Software Patents,http://endsoftpatents.org/
+102,Lobsters,law,"Law, patents, and licensing",DMVs Are Selling Your Data to Private Investigators,https://www.vice.com/en_us/article/43kxzq/dmvs-selling-data-private-investigators-making-millions-of-dollars
+103,Lobsters,law,"Law, patents, and licensing","Polyform Project – simple, standard, plain-language software licenses",https://polyformproject.org/
+104,Lobsters,law,"Law, patents, and licensing",But You Said I Could,https://blog.licensezero.com/2019/08/26/but-you-said.html
+105,Lobsters,law,"Law, patents, and licensing","On the opening of the Power ISA, and the chilling effects of proprietary ISAs",https://www.devever.net/~hl/opening-power
+106,Lobsters,law,"Law, patents, and licensing",The Extortion Economy: How Insurance Companies Are Fueling a Rise in Ransomware Attacks,https://www.propublica.org/article/the-extortion-economy-how-insurance-companies-are-fueling-a-rise-in-ransomware-attacks
+107,Lobsters,law,"Law, patents, and licensing",Book publishers sue Audible to stop new speech-to-text feature,https://arstechnica.com/tech-policy/2019/08/book-publishers-sue-audible-to-stop-new-speech-to-text-feature/
+108,Lobsters,law,"Law, patents, and licensing","IBM hears the RISC-V kids partying next door, decides it will make its Power CPU ISA free, too",https://www.theregister.co.uk/2019/08/20/ibm_openpower_isa/
+109,Lobsters,law,"Law, patents, and licensing",The bug that led to strike action,https://code.joejag.com/2019/the-bug-that-led-to-strike-action.html
+110,Lobsters,law,"Law, patents, and licensing",A Framework for Moderation,https://stratechery.com/2019/a-framework-for-moderation/
+111,Lobsters,law,"Law, patents, and licensing",Terminating Service for 8Chan,https://blog.cloudflare.com/terminating-service-for-8chan/
+112,Lobsters,law,"Law, patents, and licensing",Domino’s takes its case for non-accessible design to the Supreme Court,https://arstechnica.com/tech-policy/2019/08/dominos-takes-its-case-for-non-accessible-design-to-the-supreme-court/
+113,Lobsters,law,"Law, patents, and licensing",Why we fight for crypto,https://blog.erratasec.com/2019/07/why-we-fight-for-crypto.html
+114,Lobsters,law,"Law, patents, and licensing",‘My GitHub account has been restricted due to US sanctions as I live in Crimea.’,https://github.com/tkashkin/GameHub/issues/289
+115,Lobsters,law,"Law, patents, and licensing",How is it like to be a dev in Iran,https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran
+116,Lobsters,law,"Law, patents, and licensing",A Chapter from the FBI's History with OpenBSD and an OpenSSH Vuln,https://twitter.com/RooneyMcNibNug/status/1152327783055601664
+117,Lobsters,law,"Law, patents, and licensing",HTTP 451: Unavailable for Legal Reasons,https://en.wikipedia.org/wiki/HTTP_451
+118,Lobsters,law,"Law, patents, and licensing",Why was the Rust language chosen? (Congressional Hearing on Facebook Digital Currency),https://www.c-span.org/video/?c4808083/rust-language-chosen
+119,Lobsters,law,"Law, patents, and licensing",The Dawn of Robot Surveillance,https://www.aclu.org/report/dawn-robot-surveillance
+120,Lobsters,law,"Law, patents, and licensing",GDPR Enforcement Tracker,http://www.enforcementtracker.com/
+121,Lobsters,law,"Law, patents, and licensing",One year under GDPR,https://www.accessnow.org/cms/assets/uploads/2019/06/One-Year-Under-GDPR.pdf
+122,Lobsters,law,"Law, patents, and licensing",SSPL Was Not Commons Clause,https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html
+123,Lobsters,law,"Law, patents, and licensing",My personal journey from MIT to GPL,https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html
+124,Lobsters,law,"Law, patents, and licensing",Petronomicon,https://medium.com/@jillcarlson/pandoras-protocols-2ae674de603e
+125,Lobsters,law,"Law, patents, and licensing",The New Wilderness,https://idlewords.com/2019/06/the_new_wilderness.htm
+126,Lobsters,law,"Law, patents, and licensing",Blender is Free Software,https://code.blender.org/2019/06/blender-is-free-software/
+127,Lobsters,law,"Law, patents, and licensing",Today's random discovery: The PS1 game Spongebob Squarepants: Supersponge violates the GPL,https://twitter.com/foone/status/1137120829005750272
+128,Lobsters,law,"Law, patents, and licensing","Confessional Passphrases, Password Disclosure, and the Fifth Amendment",/s/defwu7/confessional_passphrases_password
+129,Lobsters,law,"Law, patents, and licensing",Why We're Relicensing CockroachDB,https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/
+130,Lobsters,law,"Law, patents, and licensing",Lack of leadership in open source results in source-available licenses,https://techcrunch.com/2019/05/30/lack-of-leadership-in-open-source-results-in-source-available-licenses/
+131,Lobsters,law,"Law, patents, and licensing","Polyform Project: project to publish simple, standard, plain-language licenses",https://writing.kemitchell.com/2019/05/30/Polyform.html
+132,Lobsters,law,"Law, patents, and licensing",The Privatizations of the Internet Backbone Network and the Domain Name System,https://openscholarship.wustl.edu/law_lawreview/vol79/iss1/2/
+133,Lobsters,law,"Law, patents, and licensing",Memorandum of Understanding Between W3C and WHATWG,https://www.w3.org/2019/04/WHATWG-W3C-MOU.html
+134,Lobsters,law,"Law, patents, and licensing",American Civil Liberties Union FOIA request to DOJ on facial recognition,https://www.aclu.org/sites/default/files/field_document/doj_face_recognition_foia_final_1.18.19.pdf
+135,Lobsters,law,"Law, patents, and licensing","US Executive Order Banning Computer Equipment & Services From ""Foreign Adversaries""",https://www.whitehouse.gov/presidential-actions/executive-order-securing-information-communications-technology-services-supply-chain/
+136,Lobsters,law,"Law, patents, and licensing",Facebook and Google Must Be Regulated Now,https://www.theamericanconservative.com/articles/facebook-and-google-must-be-regulated-now/
+137,Lobsters,law,"Law, patents, and licensing",An update on spline licensing,https://raphlinus.github.io/curves/2019/05/10/spline-licensing-update.html
+138,Lobsters,law,"Law, patents, and licensing",Privacy Rights and Data Collection in a Digital Economy,https://www.banking.senate.gov/imo/media/doc/Ceglowski%20Testimony%205-7-19.pdf
+139,Lobsters,law,"Law, patents, and licensing",Stupid Patent of the Month: Veripath Patents Following Privacy Laws,https://www.eff.org/deeplinks/2019/02/stupid-patent-month-patent-following-privacy-laws
+140,Lobsters,law,"Law, patents, and licensing",The mysterious history of the MIT License,https://opensource.com/article/19/4/history-mit-license
+141,Lobsters,law,"Law, patents, and licensing",What is the incentive for curl to release the library for free?,https://stackoverflow.com/questions/55884514/what-is-the-incentive-for-curl-to-release-the-library-for-free/55885729?stw=2#55885729
+142,Lobsters,law,"Law, patents, and licensing",Machine Learning In The Judicial System Is Mostly Just Hype,https://palladiummag.com/2019/03/29/machine-learning-in-the-judicial-system-is-mostly-just-hype/
+143,Lobsters,law,"Law, patents, and licensing",GDPR Today,https://www.gdprtoday.org/
+144,Lobsters,law,"Law, patents, and licensing",Sisvel Launches Patent Pools for VP9 and AV1,https://www.streamingmedia.com/Articles/News/Online-Video-News/Sisvel-Launches-Patent-Pools-for-VP9-and-AV1-130840.aspx
+145,Lobsters,law,"Law, patents, and licensing",EU backs controversial copyright law,https://www.bbc.com/news/technology-47708144
+146,Lobsters,law,"Law, patents, and licensing",Cars are regulated for safety – why not information technology?,http://theconversation.com/cars-are-regulated-for-safety-why-not-information-technology-111415
+147,Lobsters,law,"Law, patents, and licensing",German Wikipedia shuts down for 24 hours protesting EU Copyright Directive,https://de.wikipedia.org/wiki/Wikipedia:Hauptseite
+148,Lobsters,law,"Law, patents, and licensing",ALPR compliance issues,https://www.eff.org/deeplinks/2019/03/heres-why-you-cant-trust-what-cops-and-companies-claim-about-automated-license
+149,Lobsters,law,"Law, patents, and licensing",License Utopia,https://writing.kemitchell.com/2019/03/17/License-Utopia.html
+150,Lobsters,law,"Law, patents, and licensing",Deprecation Notice: MIT and BSD,https://writing.kemitchell.com/2019/03/09/Deprecation-Notice.html
+151,Lobsters,law,"Law, patents, and licensing",Principles of Technology Leadership,https://www.youtube.com/watch?v=9QMGAtxUlAc
+152,Lobsters,law,"Law, patents, and licensing",The Internet Won’t Kill Gun Control By Itself,https://palladiummag.com/2019/03/04/the-internet-wont-kill-gun-control-by-itself/
+153,Lobsters,law,"Law, patents, and licensing",Protect freedom on radio devices: raise your voice today,https://blog.mehl.mx/2019/protect-freedom-on-radio-devices-raise-your-voice-today/
+154,Lobsters,law,"Law, patents, and licensing",Dojo4 Becomes a Coop,https://dojo4.com/blog/on-the-lip-of-shared-ownership-dojo4-becomes-a-co-op-series-number-4
+155,Lobsters,law,"Law, patents, and licensing",Pledge 2019: Against EU Copyright reform Uploadfilter,https://pledge2019.eu
+156,Lobsters,law,"Law, patents, and licensing",Patent exhaustion and open source,https://lwn.net/SubscriberLink/780078/e3ed9f6202d4b116/
+157,Lobsters,law,"Law, patents, and licensing",The Second Amendment and Cyber Weapons,https://arxiv.org/ftp/arxiv/papers/1807/1807.11041.pdf
+158,Lobsters,law,"Law, patents, and licensing",Redis Labs Modules License Changes,https://redislabs.com/blog/redis-labs-modules-license-changes/
+159,Lobsters,law,"Law, patents, and licensing",The Final Version of the EU's Copyright Directive Is the Worst One Yet,https://www.eff.org/deeplinks/2019/02/final-version-eus-copyright-directive-worst-one-yet
+160,Lobsters,law,"Law, patents, and licensing",GNU Health moves from MongoDB to PostgreSQL due to license change,https://savannah.gnu.org/forum/forum.php?forum_id=9366
+161,Lobsters,law,"Law, patents, and licensing",System and method for patching software in a target computer system device,https://patents.google.com/patent/US20170300317A1/en
+162,Lobsters,law,"Law, patents, and licensing","If Software Is Funded from a Public Source, Its Code Should Be Open Source",https://www.linuxjournal.com/content/if-software-funded-public-source-its-code-should-be-open-source
+163,Lobsters,law,"Law, patents, and licensing","Article 13 is back on and it got worse, not better",https://juliareda.eu/2019/02/article-13-worse/
+164,Lobsters,law,"Law, patents, and licensing",How are you complying with GDPR?,/s/jos5ui/how_are_you_complying_with_gdpr
+165,Lobsters,law,"Law, patents, and licensing",Google asks Supreme Court to overrule disastrous ruling on API copyrights,https://arstechnica.com/tech-policy/2019/01/google-asks-supreme-court-to-overrule-disastrous-ruling-on-api-copyrights/
+166,Lobsters,law,"Law, patents, and licensing",Mendeley (by Elsevier) blocks db import by Zotero research tool,https://www.zotero.org/support/kb/mendeley_import
+167,Lobsters,law,"Law, patents, and licensing",License Zero,https://licensezero.com/
+168,Lobsters,law,"Law, patents, and licensing",Big Win for Web Accessibility in Domino's Pizza Case,https://www.lflegal.com/2019/01/dominos-ninth-circuit/
+169,Lobsters,law,"Law, patents, and licensing","After 27 Years, Reporter Who Exposed ECHELON Finds Vindication in Snowden Archive",https://theintercept.com/2015/08/03/17-years-reporter-exposed-echelon-finds-vindication-snowden-archive/
+170,Lobsters,law,"Law, patents, and licensing","AWS, MongoDB, and the Economic Realities of Open Source",https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/
+171,Lobsters,law,"Law, patents, and licensing","New Amazon DocumentDB (with MongoDB Compatibility): Fast, Scalable, and Highly Available",https://aws.amazon.com/blogs/aws/new-amazon-documentdb-with-mongodb-compatibility-fast-scalable-and-highly-available/
+172,Lobsters,law,"Law, patents, and licensing",H.R.4174 - 115th Congress (2017-2018): Foundations for Evidence-Based Policymaking Act of 2017,https://www.congress.gov/bill/115th-congress/house-bill/4174/text
+173,Lobsters,law,"Law, patents, and licensing",Public Domain Day Is Here,http://www.openculture.com/2019/01/public-domain-day-is-coming.html
+174,Lobsters,law,"Law, patents, and licensing",Utility Ghost: Gamified redistricting with partisan symmetry,https://arxiv.org/pdf/1812.07377.pdf
+175,Lobsters,law,"Law, patents, and licensing",Tragedy of the Commons Clause,https://redmonk.com/sogrady/2018/09/10/tragedy-of-the-commons-clause/
+176,Lobsters,law,"Law, patents, and licensing","Copyleft and community licenses are not without merit, but they are a dead end",https://www.influxdata.com/blog/copyleft-and-community-licenses-are-not-without-merit-but-they-are-a-dead-end/
+177,Lobsters,law,"Law, patents, and licensing",It’s time for a Bill of Data Rights,https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/
+178,Lobsters,law,"Law, patents, and licensing",A EULA in FOSS clothing?,http://dtrace.org/blogs/bmc/2018/12/16/a-eula-in-foss-clothing/
+179,Lobsters,law,"Law, patents, and licensing",Open source confronts its midlife crisis,http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/
+180,Lobsters,law,"Law, patents, and licensing","Antitrust, the App Store, and Apple",https://stratechery.com/2018/antitrust-the-app-store-and-apple/
+181,Lobsters,law,"Law, patents, and licensing",Encryption Law Fears In Australia,https://tendaily.com.au/news/australia/a181206zli/if-encryption-laws-go-through-australia-may-lose-apple-20181206
+182,Lobsters,law,"Law, patents, and licensing",Company Tried to Patent My Work After a Job Interview,https://patentpandas.org/stories/company-patented-my-idea
+183,Lobsters,law,"Law, patents, and licensing",Appeal Moving Forward in GPL Compliance Suit Against VMware,https://sfconservancy.org/news/2018/nov/29/gplappeal/
+184,Lobsters,law,"Law, patents, and licensing",Why BSD/OS is the best candidate for being the only tested legally open UNIX,https://virtuallyfun.com/wordpress/2018/11/26/why-bsd-os-is-the-best-candidate-for-being-the-only-tested-legally-open-unix/
+185,Lobsters,law,"Law, patents, and licensing",The US could regulate AI in the name of national security,https://qz.com/1469008/the-us-could-regulate-ai-in-the-name-of-national-security/
+186,Lobsters,law,"Law, patents, and licensing",The Burning of Library.nu (2014),https://knowledgeutopia.wordpress.com/2014/01/22/the-burning-of-library-nu/
+187,Lobsters,law,"Law, patents, and licensing","The Snowden Legacy, part one: What’s changed, really?",https://arstechnica.com/tech-policy/2018/11/the-snowden-legacy-part-one-whats-changed-really/
+188,Lobsters,law,"Law, patents, and licensing",A verified email address will be required to publish to crates.io starting on 2019-02-28,https://users.rust-lang.org/t/a-verified-email-address-will-be-required-to-publish-to-crates-io-starting-on-2019-02-28/22425
+189,Lobsters,law,"Law, patents, and licensing",6 core falsehoods about the digital sphere,https://tante.cc/2018/11/17/6-core-falsehoods-about-the-digital-sphere/
+190,Lobsters,law,"Law, patents, and licensing",What you need to know about the GPL Cooperation Commitment,https://opensource.com/article/18/11/gpl-cooperation-commitment
+191,Lobsters,law,"Law, patents, and licensing",The History of the GNU General Public License,http://www.free-soft.org/gpl_history/
+192,Lobsters,law,"Law, patents, and licensing",What does the GPL say about translating some code to a different programming language?,https://www.gnu.org/licenses/gpl-faq.html#TranslateCode
+193,Lobsters,law,"Law, patents, and licensing",FSF: Recent licensing updates,https://www.fsf.org/blogs/licensing/recent-licensing-updates
+194,Lobsters,law,"Law, patents, and licensing",EU’s proposed link tax would [still] harm Creative Commons licensors,https://creativecommons.org/2018/11/07/eus-proposed-link-tax-would-still-harm-creative-commons-licensors/
+195,Lobsters,law,"Law, patents, and licensing",The Copyleft Bust Up,https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html
+196,Lobsters,law,"Law, patents, and licensing",The Case Against Patents,https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.1.3
+197,Lobsters,law,"Law, patents, and licensing",Making the GPL more scary,https://lwn.net/Articles/768670/
+198,Lobsters,law,"Law, patents, and licensing",It’s not okay to pretend your software is open source,https://drewdevault.com/2018/10/30/Its-not-okay-to-pretend-youre-open-source.html
+199,Lobsters,law,"Law, patents, and licensing",Caselaw Access Project,https://case.law/
+200,Lobsters,law,"Law, patents, and licensing",Copyright Office Ruling Issues Sweeping Right to Repair Reforms,https://ifixit.org/blog/11951/1201-copyright-final-rule/
+201,Lobsters,law,"Law, patents, and licensing",MongoDB's Server Side Public License is fatally flawed,https://www.processmechanics.com/2018/10/18/the-server-side-public-license-is-flawed/
+202,Lobsters,law,"Law, patents, and licensing","Toward Community-Oriented, Public & Transparent Copyleft Policy Planning",https://sfconservancy.org/blog/2018/oct/16/mongodb-copyleft-drafting/
+203,Lobsters,law,"Law, patents, and licensing",Did Uber Steal Google’s Intellectual Property?,https://www.newyorker.com/magazine/2018/10/22/did-uber-steal-googles-intellectual-property
+204,Lobsters,law,"Law, patents, and licensing",Initial thoughts on MongoDB's new Server Side Public License,https://mjg59.dreamwidth.org/51230.html
+205,Lobsters,law,"Law, patents, and licensing",MongoDB now released under the Server Side Public License,https://mongodb.com/blog/blog/post/mongodb-now-released-under-the-server-side-public-license
+206,Lobsters,law,"Law, patents, and licensing",The Moral Character of Cryptographic Work,http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf
+207,Lobsters,law,"Law, patents, and licensing",​Microsoft open-sources its patent portfolio,https://www.zdnet.com/article/microsoft-open-sources-its-entire-patent-portfolio/
+208,Lobsters,law,"Law, patents, and licensing",Wallaroo goes full Apache 2.0,https://blog.wallaroolabs.com/2018/10/wallaroo-goes-full-apache-2.0/
+209,Lobsters,law,"Law, patents, and licensing",Why you can't have privacy on the internet,https://www.chrisstucchio.com/blog/2018/the_price_of_privacy.html
+210,Lobsters,law,"Law, patents, and licensing",The Fair Share Clause,https://blog.erlend.sh/the-fair-share-clause-d891c5c2dc30
+211,Lobsters,law,"Law, patents, and licensing","Linux developers threaten to pull ""kill switch""",https://lulz.com/linux-devs-threaten-killswitch-coc-controversy-1252/
+212,Lobsters,law,"Law, patents, and licensing",GnuPG can now be used to perform notarial acts in the state of Washington,https://lists.gnupg.org/pipermail/gnupg-users/2018-September/060987.html
+213,Lobsters,law,"Law, patents, and licensing",You Think the Visual Studio Code binary you use is a Free Software? Think again,https://carlchenet.com/you-think-the-visual-studio-code-binary-you-use-is-a-free-software-think-again/
+214,Lobsters,law,"Law, patents, and licensing",License Zero: Against the Two Party System,https://blog.licensezero.com/2018/09/16/two-party.html
+215,Lobsters,law,"Law, patents, and licensing","EU approves controversial internet copyright law, including ‘link tax’ and ‘upload filter’",https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved
+216,Lobsters,law,"Law, patents, and licensing",The Commons Clause doesn't help the commons,https://mjg59.dreamwidth.org/51177.html
+217,Lobsters,law,"Law, patents, and licensing",Copyright Law Could Stop 3-D Printed Guns. Should It?,https://www.lawfareblog.com/copyright-law-could-stop-3-d-printed-guns-should-it
+218,Lobsters,law,"Law, patents, and licensing",FCK DRM,https://fckdrm.com/
+219,Lobsters,law,"Law, patents, and licensing",Labor Board Backs Startup Engineers Fired for Unionizing,https://www.wired.com/story/labor-board-backs-startup-engineers-fired-unionizing/
+220,Lobsters,law,"Law, patents, and licensing",Bye bye BetterSlack,https://g3rv4.com//2018/08/bye-bye-betterslack
+221,Lobsters,law,"Law, patents, and licensing",lerna adds text to MIT License banning ICE collaborators,https://github.com/lerna/lerna/pull/1616
+222,Lobsters,law,"Law, patents, and licensing",The Manifest Podcast Episode 10: Licensing with Kate Stewart,http://manifest.fm/10
+223,Lobsters,law,"Law, patents, and licensing",Court has confirmed coordinated raids of Zwiebelfreunde in Germany were illegal,https://blog.torservers.net/20180704/coordinated-raids-of-zwiebelfreunde-at-various-locations-in-germany.html#update
+224,Lobsters,law,"Law, patents, and licensing",International Day Against DRM 2018 - September 18th,https://www.defectivebydesign.org/dayagainstdrm
+225,Lobsters,law,"Law, patents, and licensing",Software Freedom Ensures the True Software Commons,http://ebb.org/bkuhn/blog/2018/08/22/commons-clause.html
+226,Lobsters,law,"Law, patents, and licensing","Intel Publishes Microcode Security Patches, No Benchmarking Or Comparison Allowed",https://perens.com/2018/08/22/new-intel-microcode-license-restriction-is-not-acceptable/
+227,Lobsters,law,"Law, patents, and licensing",Commons Clause: New Redis Labs license,https://redislabs.com/community/commons-clause/
+228,Lobsters,law,"Law, patents, and licensing",Mozilla files arguments against the FCC – latest step in fight to save net neutrality,https://blog.mozilla.org/blog/2018/08/20/mozilla-files-arguments-against-the-fcc-latest-step-in-fight-to-save-net-neutrality/
+229,Lobsters,law,"Law, patents, and licensing","GDPR is eroding our privacy, not protecting it",https://thenextweb.com/contributors/2018/08/05/gdpr-privacy-eroding-bad/
+230,Lobsters,law,"Law, patents, and licensing","Gitlab may not be accessible any longer from Crimea, Cuba, Iran, North Korea, Sudan, and Syria",https://about.gitlab.com/2018/07/19/gcp-move-update/
+231,Lobsters,law,"Law, patents, and licensing",Is HTTP 451 suitable for GDPR blocking?,https://shkspr.mobi/blog/2018/06/is-http-451-suitable-for-gdpr-blocking/
+232,Lobsters,law,"Law, patents, and licensing",DefCAD Triggers HTTP 451,https://hackaday.com/2018/08/01/defcad-triggers-http-451/
+233,Lobsters,law,"Law, patents, and licensing",Stop Another Expansion of Copyright: Tell the Senate to Vote No on S. 2823,https://act.eff.org/action/stop-another-expansion-of-copyright-tell-the-senate-to-vote-no-on-s-2823
+234,Lobsters,law,"Law, patents, and licensing",Safe Harbor for Security Bug Bounty Participants,https://blog.mozilla.org/security/2018/08/01/safe-harbor-for-security-bug-bounty-participants/
+235,Lobsters,law,"Law, patents, and licensing",CLASSICS Is the Future of Assaults Against the Public Domain,https://www.eff.org/deeplinks/2018/07/classics-future-assaults-against-public-domain
+236,Lobsters,law,"Law, patents, and licensing",The coming civil war over general purpose computing (2012),https://boingboing.net/2012/08/23/civilwar.html
+237,Lobsters,law,"Law, patents, and licensing",Violations Tracker,https://violations.devever.net/w/VT:About
+238,Lobsters,law,"Law, patents, and licensing",Is Freedom Zero such a hot idea?,https://www.sicpers.info/2018/07/is-freedom-zero-such-a-hot-idea/
+239,Lobsters,law,"Law, patents, and licensing",Nintendo Sues Console ROM Sites For 'Mass' Copyright Infringement (Update),https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/
+240,Lobsters,law,"Law, patents, and licensing",EU fines Google €4.3B for using Android to strengthen dominance of Google search engine,http://europa.eu/rapid/press-release_IP-18-4581_en.htm
+241,Lobsters,law,"Law, patents, and licensing","'Copyright's True Purpose Is Dead, It Never Existed'",https://torrentfreak.com/copyrights-true-purpose-is-dead-it-never-existed-180715/
+242,Lobsters,law,"Law, patents, and licensing",Google may have to make major changes to Android in response to a forthcoming fine in Europe,https://www.washingtonpost.com/technology/2018/07/09/google-may-have-make-major-changes-android-response-forthcoming-fine-europe/
+243,Lobsters,law,"Law, patents, and licensing",European Parliament sent copyright law back to drawing board,https://twitter.com/senficon/status/1014814460488413185
+244,Lobsters,law,"Law, patents, and licensing","Police searches homes of ""Zwiebelfreunde"" board members as well as ""OpenLab"" in Augsburg",https://www.ccc.de/en/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg
+245,Lobsters,law,"Law, patents, and licensing",principles of networked expression,https://wiki.freedombone.net/view/manifestos/view/principles-of-networked-expression
+246,Lobsters,law,"Law, patents, and licensing",DRM: Disabling the disabled (2015),https://www.defectivebydesign.org/disabling-the-disabled
+247,Lobsters,law,"Law, patents, and licensing",California Unanimously Passes Historic Privacy Bill,https://www.wired.com/story/california-unanimously-passes-historic-privacy-bill/
+248,Lobsters,law,"Law, patents, and licensing",Protecting customers from the Ticketmaster breach: Monzo's story,https://monzo.com/blog/2018/06/28/ticketmaster-breach/
+249,Lobsters,law,"Law, patents, and licensing",Exposing the Secret Office 365 Forensics Tool,https://lmgsecurity.com/exposing-the-secret-office-365-forensics-tool/
+250,Lobsters,law,"Law, patents, and licensing",European Union Public License v. 1.2 added to FSF license list,https://www.fsf.org/blogs/licensing/european-union-public-license-v-1-2-added-to-license-list
+251,Lobsters,law,"Law, patents, and licensing",Facebook JavaScript SDK is often illegal,https://markssoftware.com/2018/06/23/facebook-javascript-sdk-is-often-illegal/
+252,Lobsters,law,"Law, patents, and licensing",Apple to Close iPhone Security Hole That Law Enforcement Uses to Crack Devices,https://www.nytimes.com/2018/06/13/technology/apple-iphone-police.html
+253,Lobsters,law,"Law, patents, and licensing",First Thoughts on Carpenter v. United States,https://reason.com/volokh/2018/06/22/first-thoughts-on-carpenter-v-united-sta
+254,Lobsters,law,"Law, patents, and licensing",'Disastrous' copyright bill vote approved,https://www.bbc.com/news/technology-44546620
+255,Lobsters,law,"Law, patents, and licensing",UI/UX tricks against GDPR (and users),https://medium.com/@giacomo_59737/ui-ux-tricks-against-gdpr-and-users-ef62ff12c272
+256,Lobsters,law,"Law, patents, and licensing",Copyleft Terms May Become Unenforceable in 11 Countries under CPTPP,https://www.linuxjournal.com/content/copyleft-terms-may-become-unenforceable-11-countries-under-cptpp
+257,Lobsters,law,"Law, patents, and licensing",Inventor says Google is patenting work he put in the public domain,https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/
+258,Lobsters,law,"Law, patents, and licensing",Patents: how and why to get them,http://yosefk.com/blog/patents-how-and-why-to-get-them.html
+259,Lobsters,law,"Law, patents, and licensing",Drone.io Shutting Down Forum (GDPR),https://discourse.drone.io/t/shutting-down-forum-gdpr/2297
+260,Lobsters,law,"Law, patents, and licensing",ICANN Files Legal Action Against Domain Registrar for Refusal to Collect WHOIS Data,http://www.circleid.com/posts/20180527_icann_files_legal_action_against_domain_registrar_whois_data/
+261,Lobsters,law,"Law, patents, and licensing",Why should any non-Euro companies care about the GDPR?,https://easydns.com/blog/2018/05/28/gdrp-why-should-any-non-euro-companies-care/
+262,Lobsters,law,"Law, patents, and licensing","Microsoft’s commitment to GDPR, privacy and putting customers in control of their own data",https://blogs.microsoft.com/on-the-issues/2018/05/21/microsofts-commitment-to-gdpr-privacy-and-putting-customers-in-control-of-their-own-data/
+263,Lobsters,law,"Law, patents, and licensing",copyleft-next: a new non-weak copyleft license,https://github.com/copyleft-next/copyleft-next/blob/master/Releases/copyleft-next-0.3.1
+264,Lobsters,law,"Law, patents, and licensing",Congratulations to Tesla on Their First Public Step Toward GPL Compliance,https://sfconservancy.org/blog/2018/may/18/tesla-incomplete-ccs/
+265,Lobsters,law,"Law, patents, and licensing",‘Crush Them’: An Oral History of the Lawsuit That Upended Silicon Valley,https://www.theringer.com/tech/2018/5/18/17362452/microsoft-antitrust-lawsuit-netscape-internet-explorer-20-years
+266,Lobsters,law,"Law, patents, and licensing",GDPR compliance checklist,https://gdprchecklist.io/
+267,Lobsters,law,"Law, patents, and licensing",What’s Your Open Source Strategy? Here Are 10 Answers… from Mozilla,https://medium.com/mozilla-open-innovation/whats-your-open-source-strategy-here-are-10-answers-383221b3f9d3
+268,Lobsters,law,"Law, patents, and licensing",GDPR Hysteria,http://jacquesmattheij.com/gdpr-hysteria
+269,Lobsters,law,"Law, patents, and licensing",Whois privacy shambles becomes last-minute mad data scramble,http://www.theregister.co.uk/2018/05/16/whois_privacy_shambles/
+270,Lobsters,law,"Law, patents, and licensing",US cell carriers are selling access to your real-time phone location data,https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/
+271,Lobsters,law,"Law, patents, and licensing",U.S. identifies suspect in major leak of CIA hacking tools,https://www.washingtonpost.com/world/national-security/us-identifies-suspect-in-major-leak-of-cia-hacking-tools/2018/05/15/5d5ef3f8-5865-11e8-8836-a4a123c359ab_story.html
+272,Lobsters,law,"Law, patents, and licensing",Innovation Should Be Legal. That’s Why I’m Launching NeTV2.,https://www.bunniestudios.com/blog/?p=5308
+273,Lobsters,law,"Law, patents, and licensing",GDPR will pop the adtech bubble,https://blogs.harvard.edu/doc/2018/05/12/gdpr/
+274,Lobsters,law,"Law, patents, and licensing","Rails 5.2 Active Storage: Previews, Poppler, and Solving Licensing Pitfalls",https://blog.heroku.com/rails-active-storage
+275,Lobsters,law,"Law, patents, and licensing",Please Stop Using Adblock (But Not Why You Think),https://sricks.com/please-stop-using-adblock/
+276,Lobsters,law,"Law, patents, and licensing","The First Annual International Copyleft Conference: 4 Feb. 2019, Belgium",https://sfconservancy.org/news/2018/apr/30/copyleft-conf/
+277,Lobsters,law,"Law, patents, and licensing",Make Technology Great Again,https://mastodon.social/@rysiek/99927238355168815
+278,Lobsters,law,"Law, patents, and licensing",U.S. ban on sales to China's ZTE,https://uk.reuters.com/article/us-china-zte/exclusive-u-s-bans-american-companies-from-selling-to-chinas-zte-idUKKBN1HN1P1
+279,Lobsters,law,"Law, patents, and licensing",MEPs back report urging break-up of Google services,https://www.politico.eu/article/meps-back-report-urging-break-up-of-google-services/
+280,Lobsters,law,"Law, patents, and licensing",Massive IP blockings in Russia (over /8 worth of IP addresses blocked),https://www.ripe.net/ripe/mail/archives/cooperation-wg/2018-April/001252.html
+281,Lobsters,law,"Law, patents, and licensing",'Big bitcoin heist' suspect escapes prison and flees Iceland 'on PM's plane',https://www.theguardian.com/technology/2018/apr/18/big-bitcoin-heist-suspect-sindri-thor-stefansson-escapes-prison-flees-iceland-pm-katrin-jakobsdottir-plane
+282,Lobsters,law,"Law, patents, and licensing",Teen charged in Nova Scotia government breach,http://www.cbc.ca/news/canada/nova-scotia/freedom-of-information-request-privacy-breach-teen-speaks-out-1.4621970
+283,Lobsters,law,"Law, patents, and licensing",Too Big to Let Others Fail Us: How Mark Zuckerberg Blamed Facebook's Problems On Openness,https://www.eff.org/deeplinks/2018/04/too-big-let-others-fail-us-how-mark-zuckerberg-blamed-facebooks-problems-openness
+284,Lobsters,law,"Law, patents, and licensing",Oracle Poetry,https://dacut.blogspot.com/2008/03/oracle-poetry.html
+285,Lobsters,law,"Law, patents, and licensing",GDPR has a huge impact on empirical software engineering research,http://shape-of-code.coding-guidelines.com/2018/04/05/gdpr-has-a-huge-impact-on-empirical-software-engineering-research/
+286,Lobsters,law,"Law, patents, and licensing",Recent U.S. Legal Decision Reinforces Strength of CC Licenses,https://creativecommons.org/2018/04/02/recent-u-s-legal-decision-reinforces-strength-cc-licenses/
+287,Lobsters,law,"Law, patents, and licensing",A critical reflection on #GDPR,https://tante.cc/2018/04/03/a-critical-reflection-on-gdpr/
+288,Lobsters,law,"Law, patents, and licensing",Google removes ‘Kodi’ from search autocomplete in anti-piracy effort,https://www.theverge.com/2018/3/29/17176894/google-removes-kodi-search-autocomplete-anti-piracy
+289,Lobsters,law,"Law, patents, and licensing",Making Bitcoin Legal,https://www.cl.cam.ac.uk/~rja14/Papers/making-bitcoin-legal.pdf
+290,Lobsters,law,"Law, patents, and licensing",Google loses Android battle and could owe Oracle billions of dollars,http://money.cnn.com/2018/03/27/news/companies/google-oracle-case/index.html
+291,Lobsters,law,"Law, patents, and licensing",When Computers Decide: European Recommendations on Machine-Learned Automated Decision Making,http://www.informatics-europe.org/component/phocadownload/category/10-reports.html?download=74:automated-decision-making-report
+292,Lobsters,law,"Law, patents, and licensing",Appeals Court Overturns Google's Fair Use Victory For Java APIs (Techdirt) [LWN.net],https://lwn.net/Articles/750228/rss
+293,Lobsters,law,"Law, patents, and licensing",Oracle Wins Revival of Billion-Dollar Case Against Google,https://www.bloomberg.com/news/articles/2018-03-27/oracle-wins-revival-of-billion-dollar-case-against-google
+294,Lobsters,law,"Law, patents, and licensing",EU GDPR - Another reason for SaaS to reconsider on-premise,https://gravitational.com/blog/gdpr-impact-on-saas-vendors/
+295,Lobsters,law,"Law, patents, and licensing","Nokia is violating GPLv2, and other issues with the mobile phone market",https://gist.github.com/awalgarg/3c7fff4a3aca5c6b645fb9b446dbc149
+296,Lobsters,law,"Law, patents, and licensing",Clarifying Lawful Overseas Usage of Data Act (CLOUD Act),https://www.documentcloud.org/documents/4417596-BILLS-115SAHR1625-RCP115-66.html#document/p2201
+297,Lobsters,law,"Law, patents, and licensing",Using a Hypervisor to Reconcile GPL & Proprietary Code,http://linuxdevices.io/using-a-hypervisor-to-reconcile-gpl-and-proprietary-embedded-code/
+298,Lobsters,law,"Law, patents, and licensing",World's Largest Animal Study on Cell Tower Radiation Confirms Cancer Link,http://www.digitaljournal.com/pr/3706604
+299,Lobsters,law,"Law, patents, and licensing",How Congress Censored the Internet,https://www.eff.org/deeplinks/2018/03/how-congress-censored-internet
+300,Lobsters,law,"Law, patents, and licensing",It certainly looks bad for Uber,http://ideas.4brad.com/it-certainly-looks-bad-uber
+301,Lobsters,law,"Law, patents, and licensing",Some software cannot be used at Google,https://opensource.google.com/docs/thirdparty/licenses/#banned
+302,Lobsters,law,"Law, patents, and licensing",Tempe Police Release Video of Uber Accident,https://twitter.com/tempepolice/status/976585098542833664?s=21
+303,Lobsters,law,"Law, patents, and licensing",Why I Refuse to Sign Non Compete Agreements,https://penguindreams.org/blog/why-i-dont-sign-non-competes/
+304,Lobsters,law,"Law, patents, and licensing","No, the EU doesn't want to require platforms to filter uploaded content",http://txti.es/w0ss5
+305,Lobsters,law,"Law, patents, and licensing",EU wants to require platforms to filter uploaded content (including code),https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/
+306,Lobsters,law,"Law, patents, and licensing",Former Equifax CIO Charged With Insider Trading Due to Knowledge of Data Breach,https://www.sec.gov/news/press-release/2018-40
+307,Lobsters,law,"Law, patents, and licensing",Prove you are not an Evil corporate person,https://joeyh.name/blog/entry/prove_you_are_not_an_Evil_corporate_person/
+308,Lobsters,law,"Law, patents, and licensing",Improving your OSS dependency workflow with Licensed,https://githubengineering.com/improving-your-oss-dependency-workflow-with-licensed/
+309,Lobsters,law,"Law, patents, and licensing",Ten Hours of Static Gets Five Copyright Notices,https://www.eff.org/takedowns/ten-hours-static-gets-five-copyright-notices
+310,Lobsters,law,"Law, patents, and licensing",Yet another definition of Intelligence,https://medium.com/@giacomo_59737/yet-another-definition-of-intelligence-9bbaaa73086d
+311,Lobsters,law,"Law, patents, and licensing",Can the United States Search Data Overseas?,https://www.nytimes.com/2018/02/26/opinion/united-states-searching-data-overseas.html
+312,Lobsters,law,"Law, patents, and licensing","Developers Ask: Can I Legally Use The ""Fluent UI"" Or Ribbon Design?",https://www.infoq.com/news/2018/02/Ribbon-UI
+313,Lobsters,law,"Law, patents, and licensing",Game industry pushes back against efforts to restore gameplay servers,https://arstechnica.com/gaming/2018/02/preservation-or-theft-historians-publishers-argue-over-dead-game-servers/
+314,Lobsters,law,"Law, patents, and licensing",Aura,https://alastairs-place.net/blog/2018/02/21/aura
+315,Lobsters,law,"Law, patents, and licensing","Bruce Perens Seeks Mandatory Award of Legal Fees For His Defense in Open Source Security, Inc. and Bradley Spengler v. Bruce Perens",https://perens.com/2018/02/08/bruce-perens-seeks-mandatory-award-of-legal-fees-for-his-defense-in-open-source-security-inc-and-bradley-spengler-v-bruce-perens/
+316,Lobsters,law,"Law, patents, and licensing","Eric Lundgren, ‘e-waste’ recycling innovator, faces prison for trying to extend life span of PCs",https://www.washingtonpost.com/news/true-crime/wp/2018/02/15/eric-lundgren-e-waste-recycling-innovator-faces-prison-for-trying-to-extend-lifespan-of-pcs/
+317,Lobsters,law,"Law, patents, and licensing",dtrace for linux,https://gnu.wildebeest.org/blog/mjw/2018/02/14/dtrace-for-linux-oracle-does-the-right-thing/
+318,Lobsters,law,"Law, patents, and licensing",What I wish I knew before contributing to Open Source,https://medium.com/@giacomo_59737/what-i-wish-i-knew-before-contributing-to-open-source-dd63acd20696
+319,Lobsters,law,"Law, patents, and licensing",A GPL-enforcement update,https://lwn.net/SubscriberLink/747124/a6def304e3b87e31/
+320,Lobsters,law,"Law, patents, and licensing",Spectre/Meltdown Pits Transparency Against Liability: Which is More Important to You?,https://www.bunniestudios.com/blog/?p=5127
+321,Lobsters,law,"Law, patents, and licensing","The Extortion Files (Feb. 1, 2018)",https://michaelochurch.wordpress.com/2018/02/01/the-extortion-files-feb-1-2018-515am/
+322,Lobsters,law,"Law, patents, and licensing",Twitter and Copyright — “Twitterlogical: The Misunderstanding of Ownership”,http://www.canyoucopyrightatweet.com/
+323,Lobsters,law,"Law, patents, and licensing",The /bin/true Command and Copyright (2009?),http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html
+324,Lobsters,law,"Law, patents, and licensing",Lawsplaining: Damore v. Google,https://www.youtube.com/watch?v=6EofaLD42hE
+325,Lobsters,law,"Law, patents, and licensing",How a single line of computer code put thousands of innocent Turks in jail,http://www.cbc.ca/news/world/terrifying-how-a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail-1.4495021
+326,Lobsters,law,"Law, patents, and licensing","The city I write this in protected its name, so I am not legally allowed to use it",https://blog.r3bl.me/en/the-city-whose-name-i-cannot-mention/
+327,Lobsters,law,"Law, patents, and licensing",Self-Crashing Cars,https://www.zachaysan.com/writing/2018-01-17-self-crashing-cars
+328,Lobsters,law,"Law, patents, and licensing",The delusions of neural networks,https://medium.com/@giacomo_59737/the-delusions-of-neural-networks-f7085d47edb6
+329,Lobsters,law,"Law, patents, and licensing",GDPR: Threat or Opportunity,https://blog.grakn.ai/gdpr-threat-or-opportunity-4cdcc8802f22
+330,Lobsters,law,"Law, patents, and licensing",Mozilla Files Suit Against FCC to Protect Net Neutrality,https://blog.mozilla.org/blog/2018/01/16/mozilla-files-suit-fcc-protect-net-neutrality/
+331,Lobsters,law,"Law, patents, and licensing",GPL as the Best Licence – Governance and Philosophy,https://blog.hansenpartnership.com/gpl-as-the-best-licence-governance-and-philosophy/
+332,Lobsters,law,"Law, patents, and licensing",The Fight For Patent-Unencumbered Media Codecs Is Nearly Won,http://robert.ocallahan.org/2018/01/the-fight-for-patent-unencumbered-media.html
+333,Lobsters,law,"Law, patents, and licensing",Nvidia Wants To Prohibit Consumer GPU Use In Datacenters,https://slashdot.org/story/335779
+334,Lobsters,law,"Law, patents, and licensing",Conservancy Joins in Cisco v. Arista Amicus Brief,https://sfconservancy.org/news/2018/jan/03/cisco-v-arista/
+335,Lobsters,law,"Law, patents, and licensing",Public Domain Day,https://law.duke.edu/cspd/publicdomainday/
+336,Lobsters,law,"Law, patents, and licensing",Terms of Service; Didn't Read,https://tosdr.org/
+337,Lobsters,law,"Law, patents, and licensing",Big Tech Is Failing to Comply with Seattle's Law on Election Advertising Transparency,https://www.thestranger.com/features/2017/12/20/25632083/big-tech-is-failing-to-comply-with-seattles-law-on-election-advertising-transparency
+338,Lobsters,law,"Law, patents, and licensing",Identifying Open-Source License Violation and 1-day Security Risk at Large Scale,https://www.cc.gatech.edu/~rduan9/publications/osspolice.pdf
+339,Lobsters,law,"Law, patents, and licensing",Patent US9407661 - Blocking via an unsolvable CAPTCHA (2016),https://www.google.com/patents/US9407661
+340,Lobsters,law,"Law, patents, and licensing",GDPR: Why We Stopped Selling Stuff to Europe,https://www.brentozar.com/archive/2017/12/gdpr-stopped-selling-stuff-europe/
+341,Lobsters,law,"Law, patents, and licensing",Osquery: Change license to Apache 2.0 and GPLv2,https://github.com/facebook/osquery/pull/4007
+342,Lobsters,law,"Law, patents, and licensing",New York City Wants to Audit the Powerful Algorithms That Control Our Lives,https://gizmodo.com/new-york-city-wants-to-audit-the-powerful-algorithms-th-1821305284
+343,Lobsters,law,"Law, patents, and licensing",The FCC just killed net neutrality,https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed
+344,Lobsters,law,"Law, patents, and licensing",Custom site breaker for tomorrow's Net Neutrality vote,https://github.com/taoeffect/break-the-net
+345,Lobsters,law,"Law, patents, and licensing",Statement on Cryptocurrencies and Initial Coin Offerings,https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11
+346,Lobsters,law,"Law, patents, and licensing",Pioneers for Net Neutrality,https://pioneersfornetneutrality.tumblr.com
+347,Lobsters,law,"Law, patents, and licensing",Context on Conservancy's Filing for Summary Judgment with the TTAB,https://sfconservancy.org/blog/2017/dec/11/ttab-summary-judgment-motion/
+348,Lobsters,law,"Law, patents, and licensing",That time Larry Ellison tried to have a professor fired for benchmarking Oracle,https://danluu.com/anon-benchmark/
+349,Lobsters,law,"Law, patents, and licensing",Why a lot of important research is not being done,https://theincidentaleconomist.com/wordpress/why-a-lot-of-important-research-is-not-being-done/
+350,Lobsters,law,"Law, patents, and licensing",Net Neutrality Is a Freedom of Speech Issue.,https://blog.united.vote/2017/12/06/net-neutrality-is-a-freedom-of-speech-issue-period/
+351,Lobsters,law,"Law, patents, and licensing",Apple CEO backs China’s vision of an ‘open’ Internet as censorship reaches new heights,https://www.washingtonpost.com/news/worldviews/wp/2017/12/04/apple-ceo-backs-chinas-vision-of-an-open-internet-as-censorship-reaches-new-heights/
+352,Lobsters,law,"Law, patents, and licensing",The UK and EU want to force bitcoin users to reveal their identities,http://www.businessinsider.com/anti-money-laundering-cryptocurrencies-regulation-eu-uk-identity-2017-12
+353,Lobsters,law,"Law, patents, and licensing",'Break up Google and Facebook if you ever want innovation again',https://www.theregister.co.uk/2017/11/28/break_up_google_and_facebook_if_you_want_tech_innovation_ever_again/
+354,Lobsters,law,"Law, patents, and licensing",Do researchers need to follow Terms of Service?,https://medium.com/sigchi-ethics-committee/do-researchers-need-to-follow-tos-f3bde1950d3c
+355,Lobsters,law,"Law, patents, and licensing",Here's What I'm Telling US Congress about Data Breaches,https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/
+356,Lobsters,law,"Law, patents, and licensing","The 265 members of Congress who sold you out to ISPs, and how much it cost to buy them",https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale
+357,Lobsters,law,"Law, patents, and licensing",Netgate / pfSense acts in bad faith: WIPO decides in favour of OPNSense,https://opnsense.org/opnsense-com/
+358,Lobsters,law,"Law, patents, and licensing",FCC Releases Net Neutrality Killing Order,https://www.techdirt.com/articles/20171122/09473038669/fcc-releases-net-neutrality-killing-order-hopes-youre-too-busy-cooking-turkey-to-read-it.shtml
+359,Lobsters,law,"Law, patents, and licensing",I'm Testifying in Front of Congress in Washington DC about Data Breaches - What Should I Say?,https://www.troyhunt.com/im-testifying-in-front-of-congress-in-washington-dc-about-data-breaches-what-should-i-say/
+360,Lobsters,law,"Law, patents, and licensing",Google will ‘de-rank’ RT articles to make them harder to find – Eric Schmidt,https://www.rt.com/news/410444-google-alphabet-derank-rt/
+361,Lobsters,law,"Law, patents, and licensing",A Response to “Responsible Encryption”,https://cyberlaw.stanford.edu/blog/2017/10/response-%E2%80%9Cresponsible-encryption%E2%80%9D
+362,Lobsters,law,"Law, patents, and licensing","Kodi Addon Developers Quit Following Threats From MPA, Netflix, Amazon",https://torrentfreak.com/kodi-developers-quit-following-threats-from-mpa-netflix-amazon-171116/
+363,Lobsters,law,"Law, patents, and licensing","High-Assurance, Lawful Intercept: Revised Edition (2017)",https://pastebin.com/EcrJd4CY
+364,Lobsters,law,"Law, patents, and licensing",Eben Moglen is no longer a friend of the free software community,https://mjg59.dreamwidth.org/49370.html
+365,Lobsters,law,"Law, patents, and licensing",What You Need to Know About the Conservancy / SFLC Dustup,http://www.rants.org/2017/11/conservancy_sflc_dispute/
+366,Lobsters,law,"Law, patents, and licensing","SFLC Files Bizarre Legal Action Against Its Former Client, Software Freedom Conservancy",https://sfconservancy.org/blog/2017/nov/03/sflc-legal-action/
+367,Lobsters,law,"Law, patents, and licensing",Announcing PCI Compliance for Heroku Shield,https://blog.heroku.com/pci-compliance-for-heroku-shield
+368,Lobsters,law,"Law, patents, and licensing",No net neutrality in Portugal leads to cable style market segments,https://twitter.com/rokhanna/status/923701871092441088
+369,Lobsters,law,"Law, patents, and licensing",Concerns about the Community Data License Agreement (CDLA) initiative,http://anonymoushash.vmbrasseur.com/2017/10/26/community-data-license-agreement-cdla-initiative/
+370,Lobsters,law,"Law, patents, and licensing",Federal Judge Unseals New York Crime Lab’s Software for Analyzing DNA Evidence —,https://www.propublica.org/article/federal-judge-unseals-new-york-crime-labs-software-for-analyzing-dna-evidence
+371,Lobsters,law,"Law, patents, and licensing",How the judge on Oracle v. Google taught himself to code,https://www.theverge.com/2017/10/19/16503076/oracle-vs-google-judge-william-alsup-interview-waymo-uber
+372,Lobsters,law,"Law, patents, and licensing",Eclipse Public License version 2.0 added to FSF's license list,https://www.fsf.org/blogs/licensing/eclipse-public-license-version-2-0-added-to-license-list-1
+373,Lobsters,law,"Law, patents, and licensing",Epic Sues 'Fortnite' Cheaters For Copyright Infringement,https://torrentfreak.com/epic-sues-fortnite-cheaters-for-copyright-infringement-171012/
+374,Lobsters,law,"Law, patents, and licensing",Response to Deputy Attorney General Rosenstein's remarks on Encryption,https://alexgaynor.net/2017/oct/13/rosenstein-encryption-response/
+375,Lobsters,law,"Law, patents, and licensing",What would it look like if we put warnings on IoT devices like we do cigarette packets?,https://www.troyhunt.com/what-would-it-look-like-if-we-put-warnings-on-iot-devices-like-we-do-cigarette-packets/
+376,Lobsters,law,"Law, patents, and licensing",The License Zero Manifesto,https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html
+377,Lobsters,law,"Law, patents, and licensing",Why Patents Are Bad for Software,http://groups.csail.mit.edu/mac/projects/lpf/Links/prep.ai.mit.edu/issues.article
+378,Lobsters,law,"Law, patents, and licensing",How the Catalan government uses IPFS to sidestep Spain's legal block,http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/
+379,Lobsters,law,"Law, patents, and licensing",Google sued by Gab over Play Store booting,https://www.theregister.co.uk/2017/09/15/google_sued_by_gab_over_play_store_booting/
+380,Lobsters,law,"Law, patents, and licensing",Allergan Pulls A Fast One,http://blogs.sciencemag.org/pipeline/archives/2017/09/11/allergan-pulls-a-fast-one
+381,Lobsters,law,"Law, patents, and licensing",Relicensing the GraphQL specification,https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/
+382,Lobsters,law,"Law, patents, and licensing",Relicensing the GraphQL specification – Lee Byron,https://medium.com/@leeb/relicensing-the-graphql-specification-e7d07a52301b
+383,Lobsters,law,"Law, patents, and licensing",Duck Duck Go: Illusion of Privacy (2013),http://etherrag.blogspot.com/2013/07/duck-duck-go-illusion-of-privacy.html
+384,Lobsters,law,"Law, patents, and licensing","Relicensing React, Jest, Flow, and Immutable.js",https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/
+385,Lobsters,law,"Law, patents, and licensing",Uber to lose licence to operate in London,https://www.theguardian.com/technology/2017/sep/22/uber-licence-transport-for-london-tfl
+386,Lobsters,law,"Law, patents, and licensing",What the Commission found out about copyright infringement but ‘forgot’ to tell us,https://juliareda.eu/2017/09/secret-copyright-infringement-study/
+387,Lobsters,law,"Law, patents, and licensing",Revenge Hacking Is Hitting the Big Time,http://www.thedailybeast.com/inside-the-shadowy-world-of-revenge-hackers
+388,Lobsters,law,"Law, patents, and licensing",DEFCON 17: That Awesome Time I Was Sued For Two Billion Dollars,https://www.youtube.com/watch?v=KSWqx8goqSY
+389,Lobsters,law,"Law, patents, and licensing",Using GraphQL? Why Facebook Now Owns You,https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9
+390,Lobsters,law,"Law, patents, and licensing",Michigan Judge Dismisses AGPL Claim (For Now),https://opensourcewriter.com/post/michigan-judge-dismisses-agpl-claim-for-now/
+391,Lobsters,law,"Law, patents, and licensing",Requesting feedback for peition on legislating account authentication methods in critical industries,https://github.com/telekid/pii-petition
+392,Lobsters,law,"Law, patents, and licensing",China to close all bitcoin exchanges by end-September,https://www.reuters.com/article/us-china-bitcoin-ban/china-to-close-all-bitcoin-exchanges-by-end-september-yicai-idUSKCN1BP27C
+393,Lobsters,law,"Law, patents, and licensing",DHS orders departments & agencies to remove Kaspersky products over 'Russian intelligence ties',https://www.rt.com/usa/403231-dhs-issues-directive-remove-kaspersky/
+394,Lobsters,law,"Law, patents, and licensing",Why is software created using taxpayers’ money not released as Free Software?,https://publiccode.eu/
+395,Lobsters,law,"Law, patents, and licensing",Court Ruling Adds New Power to Open Source Licenses,http://windowsitpro.com/open-source/court-ruling-adds-new-power-open-source-licenses
+396,Lobsters,law,"Law, patents, and licensing",Cory Doctorow: Demon-Haunted World [Trickster Devices],http://www.locusmag.com/Perspectives/2017/09/cory-doctorow-demon-haunted-world/
+397,Lobsters,law,"Law, patents, and licensing","Yes, Google Uses Its Power to Quash Ideas It Doesn’t Like—I Know Because It Happened to Me",http://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437
+398,Lobsters,law,"Law, patents, and licensing",What Colour are your bits?,http://ansuz.sooke.bc.ca/entry/23
+399,Lobsters,law,"Law, patents, and licensing",VW engineer sentenced to 40-month prison term in diesel case,https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP
+400,Lobsters,law,"Law, patents, and licensing",Judge orders tech company to release Web user data from anti-Trump website,https://www.washingtonpost.com/local/public-safety/judge-orders-tech-company-to-release-web-user-data-from-anti-trump-website/2017/08/24/19abeac4-88e7-11e7-a50f-e0d4e6ec070a_story.html
+401,Lobsters,law,"Law, patents, and licensing",Court rules that scraping public data from LinkedIn is legal,https://regmedia.co.uk/2017/08/14/hiqlinkedintro.pdf
+402,Lobsters,law,"Law, patents, and licensing",iOS 11 Cop Button Temporarily Disables Touch-ID,https://www.theverge.com/2017/8/17/16161758/ios-11-touch-id-disable-emergency-services-lock
+403,Lobsters,law,"Law, patents, and licensing",Nintendo Being Sued by Gamevice Over Alleged Patent Violation by Switch Controllers,http://www.dualshockers.com/nintendo-sued-gamevice-alleged-patent-violation-switch-controllers/
+404,Lobsters,law,"Law, patents, and licensing",Ad blocking is under attack,https://blog.adguard.com/en/ad-blocking-is-under-attack/
+405,Lobsters,law,"Law, patents, and licensing",Easylist block list removes entry after DMCA takedown notice,https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
+406,Lobsters,law,"Law, patents, and licensing",A First Legislative Step in the IoT Security Battle,https://lawfareblog.com/first-legislative-step-iot-security-battle
+407,Lobsters,law,"Law, patents, and licensing",Internet Censorship Bill Would Spell Disaster for Speech and Innovation,https://www.eff.org/deeplinks/2017/08/internet-censorship-bill-would-spell-disaster-speech-and-innovation
+408,Lobsters,law,"Law, patents, and licensing",Senators Introduce Bipartisan Legislation to Improve Cybersecurity of “Internet-of-Things” (IoT) Devices,https://www.warner.senate.gov/public/index.cfm/pressreleases?id=06A5E941-FBC3-4A63-B9B4-523E18DADB36
+409,Lobsters,law,"Law, patents, and licensing",ACLU To Court: It's Legal To Tell Bob To Eat Shit,https://www.techdirt.com/articles/20170802/00533937906/aclu-to-court-legal-to-tell-bob-to-eat-shit.shtml
+410,Lobsters,law,"Law, patents, and licensing",Russia bans anonymous web surfing tools,https://www.theverge.com/2017/7/31/16070934/russia-ban-proxies-vpns-prevent-access-censored-websites-november
+411,Lobsters,law,"Law, patents, and licensing",Mozilla releases research results: Zero rating is not serving as an on-ramp to the internet,https://blog.mozilla.org/blog/2017/07/31/mozilla-releases-research-results-zero-rating-not-serving-ramp-internet/
+412,Lobsters,law,"Law, patents, and licensing",On Apple Removing VPN Apps From the App Store in China,https://daringfireball.net/2017/07/apple_china_vpn_apps
+413,Lobsters,law,"Law, patents, and licensing",EUPL v1.2 becomes OSI approved,https://joinup.ec.europa.eu/community/eupl/news/eupl-v12-becomes-osi-approved
+414,Lobsters,law,"Law, patents, and licensing","FinCEN Fines BTC-e $110 Million for Facilitating Ransomware, Dark Net Drug Sales",https://www.fincen.gov/news/news-releases/fincen-fines-btc-e-virtual-currency-exchange-110-million-facilitating-ransomware
+415,Lobsters,law,"Law, patents, and licensing",NIST CSL Bulletin: Guidance on the legality of keystroke monitoring (1993),http://csrc.nist.gov/publications/nistbul/csl93-03.txt
+416,Lobsters,law,"Law, patents, and licensing","SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities",https://www.sec.gov/news/press-release/2017-131
+417,Lobsters,law,"Law, patents, and licensing",18 year old guy arrested for reporting a shamefully stupid bug in the new Budapest e-Ticket system,http://blog.marai.me/2017/07/24/18-year-old-arrested-bkk-tsystems-e-ticket/
+418,Lobsters,law,"Law, patents, and licensing","AlphaBay, the Largest Online 'Dark Market,' Shut Down",https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down
+419,Lobsters,law,"Law, patents, and licensing","After AlphaBay’s Demise, Customers Flocked to Dark Market Run by Dutch Police",https://krebsonsecurity.com/2017/07/after-alphabays-demise-customers-flocked-to-dark-market-run-by-dutch-police/
+420,Lobsters,law,"Law, patents, and licensing",Romeo & Juliet meet Trademark Law,http://250bpm.com/blog:96
+421,Lobsters,law,"Law, patents, and licensing",ASF - Facebook's BSD+PATENTS license banned,https://issues.apache.org/jira/plugins/servlet/mobile#issue/LEGAL-303/comment/16088663
+422,Lobsters,law,"Law, patents, and licensing",Consider re-licensing React to Apache License 2.0,https://github.com/facebook/react/issues/10191
+423,Lobsters,law,"Law, patents, and licensing",Apple's deafening silence on net neutrality,http://www.osnews.com/story/29922/Apple_s_deafening_silence_on_net_neutrality
+424,Lobsters,law,"Law, patents, and licensing","'Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM",https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm
+425,Lobsters,law,"Law, patents, and licensing",Face scans for US citizens flying abroad stir privacy issues,https://www.washingtonpost.com/business/technology/face-scans-for-americans-flying-abroad-stir-privacy-issues/2017/07/12/b155c580-6712-11e7-94ab-5b1f0ff459df_story.html
+426,Lobsters,law,"Law, patents, and licensing",Stop The ADA Trolls,http://chrishofstader.com/stop-the-ada-trolls/
+427,Lobsters,law,"Law, patents, and licensing",Dutch Senate votes in favor of dragnet surveillance powers,https://bof.nl/2017/07/12/dutch-senate-votes-in-favor-of-dragnet-surveillance-powers/
+428,Lobsters,law,"Law, patents, and licensing",The Who's Who of Net Neutrality's Day of Action,https://www.wired.com/story/the-whos-who-of-net-neutralitys-day-of-action/
+429,Lobsters,law,"Law, patents, and licensing",Internet-Wide Day of Action to Save Net Neutrality,https://www.battleforthenet.com/july12/
+430,Lobsters,law,"Law, patents, and licensing",Warning: Grsecurity: Potential contributory infringement and breach of contract risk for customers – Bruce Perens,http://perens.com/blog/2017/06/28/warning-grsecurity-potential-contributory-infringement-risk-for-customers/
+431,Lobsters,law,"Law, patents, and licensing",EU Parliament calls for longer lifetime for products,http://www.eubusiness.com/news-eu/durable-products.47bf
+432,Lobsters,law,"Law, patents, and licensing","Facebook can track your browsing even after you've logged out, judge says",https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit
+433,Lobsters,law,"Law, patents, and licensing",Is it Time to Can the CAN-SPAM Act?,https://krebsonsecurity.com/2017/07/is-it-time-to-can-the-can-spam-act/
+434,Lobsters,law,"Law, patents, and licensing",Free Culture Benefits Everyone But the Middle Man,https://theanarchistlibrary.org/library/kevin-carson-free-culture-benefits-everyone-but-the-middle-man-2
+435,Lobsters,law,"Law, patents, and licensing",Julia Reda's talk at the International IP Enforcement Summit,http://www.ipsummit17.eu/VOD/Julia_Reda_Day2_Video_Archive.php
+436,Lobsters,law,"Law, patents, and licensing",Marju Lauristin's E-privacy draft report,http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-606.011%2B01%2BDOC%2BPDF%2BV0%2F%2FEN
+437,Lobsters,law,"Law, patents, and licensing",The Right to Read,https://www.gnu.org/philosophy/right-to-read.html
+438,Lobsters,law,"Law, patents, and licensing",Pirate Bay may finally be sunk after EU copyright ruling,https://arstechnica.com/tech-policy/2017/06/pirate-bay-copyright-ruling-cjeu-communication-public-right/
+439,Lobsters,law,"Law, patents, and licensing",Why I Do Not Support the FSF,http://marktarver.com/fsf.html
+440,Lobsters,law,"Law, patents, and licensing","Intel fires warning shots at Microsoft, claims x86 emulation is a patent minefield",https://arstechnica.com/information-technology/2017/06/intel-fires-warning-shots-at-microsoft-claims-x86-emulation-is-a-patent-minefield/
+441,Lobsters,law,"Law, patents, and licensing",an open form contract for open source contractors,https://github.com/kemitchell/switchmode
+442,Lobsters,law,"Law, patents, and licensing","""Surveillance Intermediaries"" by Alan Z. Rozenshtein",https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2935321
+443,Lobsters,law,"Law, patents, and licensing",German Nonprofit Creates New Open-Source License for Seeds,http://www.shareable.net/blog/german-nonprofit-creates-new-open-source-license-for-seeds
+444,Lobsters,law,"Law, patents, and licensing",Understanding the “GPL is a Contract” court case,https://perens.com/blog/2017/05/28/understanding-the-gpl-is-a-contract-court-case/
+445,Lobsters,law,"Law, patents, and licensing",Why the U.S. Can’t Kick Its Addiction to Social Security Numbers,https://www.bloomberg.com/news/articles/2017-06-01/identity-theft-feeds-on-social-security-numbers-run-amok
+446,Lobsters,law,"Law, patents, and licensing",Supreme Court finds that patent rights on printer cartridge are exhausted after sale,https://www.law.cornell.edu/supremecourt/text/15-1189
+447,Lobsters,law,"Law, patents, and licensing",U.S. top court tightens patent suit rules in blow to 'patent trolls',http://www.reuters.com/article/us-usa-court-kraft-heinz-idUSKBN18I1SZ
+448,Lobsters,law,"Law, patents, and licensing",Lawyer who founded Prenda Law is disbarred,https://arstechnica.com/tech-policy/2017/05/john-steele-porn-troll-who-founded-prenda-law-is-disbarred/
+449,Lobsters,law,"Law, patents, and licensing",Supreme Court Ruling Could Hinder ‘Patent Trolls’,https://www.nytimes.com/2017/05/22/business/supreme-court-patent-lawsuit.html
+450,Lobsters,law,"Law, patents, and licensing","“MP3 is dead” missed the real, much better story",https://marco.org/2017/05/15/mp3-isnt-dead
+451,Lobsters,law,"Law, patents, and licensing",Leaked UK document mandates encryption backdoors,https://act.openmedia.org/saveoursecurityuk
+452,Lobsters,law,"Law, patents, and licensing",When is it legal to relicence code?,/s/qa0akh/when_is_it_legal_relicence_code
+453,Lobsters,law,"Law, patents, and licensing",A federal court has ruled that an open-source license is an enforceable contract,https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/
+454,Lobsters,law,"Law, patents, and licensing",Standing Up to a Dangerous New Breed of Patent Troll,http://blog.cloudflare.com/standing-up-to-a-dangerous-new-breed-of-patent-troll/
+455,Lobsters,law,"Law, patents, and licensing",District: A Game About Representation & Redistricting,http://polytrope.com/district/
+456,Lobsters,law,"Law, patents, and licensing",Video explains the world's most important 6-sec drum loop,http://nkhstudio.com/pages/amen_mp4.html
+457,Lobsters,law,"Law, patents, and licensing",Stand up for net neutrality,https://advocacy.mozilla.org/en-US/net-neutrality
+458,Lobsters,law,"Law, patents, and licensing",Choose A Licence Wizard,http://beza1e1.tuxen.de/licences/
+459,Lobsters,law,"Law, patents, and licensing",Is The GPL Really Declining?,https://meshedinsights.com/2017/05/03/is-the-gpl-really-declining/
+460,Lobsters,law,"Law, patents, and licensing",How I got an FBI record at age 11 from dabbling in cryptography,http://web.stanford.edu/~learnest/les/crypto.htm
+461,Lobsters,law,"Law, patents, and licensing",Austria Seeks to Tax Google Search,https://www.bloomberg.com/news/articles/2017-04-29/you-think-google-search-is-free-austria-seeks-to-tax-it-anyway
+462,Lobsters,law,"Law, patents, and licensing",U.S. spy agency abandons controversial surveillance technique,http://www.reuters.com/article/us-usa-security-surveillance-idUSKBN17U2OF
+463,Lobsters,law,"Law, patents, and licensing",Turkey blocks Wikipedia under law designed to protect national security,https://www.theguardian.com/world/2017/apr/29/turkey-blocks-wikipedia-under-law-designed-to-protect-national-security
+464,Lobsters,law,"Law, patents, and licensing",N.S.A. Halts Collection of Americans’ Emails About Foreign Targets,https://www.nytimes.com/2017/04/28/us/politics/nsa-surveillance-terrorism-privacy.html
+465,Lobsters,law,"Law, patents, and licensing",Defending copyleft,https://lwn.net/Articles/719610/
+466,Lobsters,law,"Law, patents, and licensing",Oregon is very finicky about people calling themselves engineers,http://reason.com/blog/2017/04/26/after-challenging-red-light-cameras-oreg
+467,Lobsters,law,"Law, patents, and licensing",Predicting Financial Crime: Augmenting the Predictive Policing Arsenal,https://whitecollar.thenewinquiry.com/static/whitepaper.pdf
+468,Lobsters,law,"Law, patents, and licensing",FAS Russia Reaches Settlement with Google (app developers will get equal rights),http://en.fas.gov.ru/press-center/news/detail.html?id=49774
+469,Lobsters,law,"Law, patents, and licensing",Celebration of Choice,https://yandex.com/company/blog/celebration-of-choice-a-letter-from-arkady-volozh-yandex-ceo/
+470,Lobsters,law,"Law, patents, and licensing",The Backstory Behind Carder Kingpin Roman Seleznev’s Record 27 Year Prison Sentence,https://krebsonsecurity.com/2017/04/the-backstory-behind-carder-kingpin-roman-seleznevs-record-27-year-prison-sentence/
+471,Lobsters,law,"Law, patents, and licensing",I have found a secret tunnel that runs underneath the phone companies and emerges in paradise (2016),http://boingboing.net/2016/09/22/i-have-found-a-secret-tunnel-t.html
+472,Lobsters,law,"Law, patents, and licensing","Web Scraping and Crawling Are Perfectly Legal, Right?",https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/
+473,Lobsters,law,"Law, patents, and licensing",How to Quantify (and Fight) Gerrymandering,https://www.quantamagazine.org/20170404-gerrymandering-math-standard/
+474,Lobsters,law,"Law, patents, and licensing",Your Government's Hacking Tools Are Not Safe,https://motherboard.vice.com/en_us/article/your-governments-hacking-tools-are-not-safe
+475,Lobsters,law,"Law, patents, and licensing",Statement regarding Dmitry Bogatov (Debian/Tor developer and relay operator arrested),https://blog.torproject.org/blog/statement-regarding-dmitry-bogatov
+476,Lobsters,law,"Law, patents, and licensing",D reference compiler is now Open Source,http://forum.dlang.org/thread/oc8acc$1ei9$1@digitalmars.com
+477,Lobsters,law,"Law, patents, and licensing",RCMP admits and defends use of secretive cellphone surveillance technology for the first time,http://www.cbc.ca/news/canada/rcmp-surveillance-imsi-catcher-mdi-stingray-cellphone-1.4056750
+478,Lobsters,law,"Law, patents, and licensing",Dual-Use Software Criminal Case Not So Novel,https://krebsonsecurity.com/2017/04/dual-use-software-criminal-case-not-so-novel/
+479,Lobsters,law,"Law, patents, and licensing","Terms and Conditions, The Graphic Novel",https://blog.mozilla.org/internetcitizen/2017/04/03/terms-and-conditions-the-graphic-novel/
+480,Lobsters,law,"Law, patents, and licensing",California Looks to Compel IoT Security,http://hackaday.com/2017/04/03/california-looks-to-compel-iot-security/
+481,Lobsters,law,"Law, patents, and licensing",Discussions with Apple regarding license agreement,https://www.imgtec.com/news/press-release/discussions-with-apple-regarding-license-agreement/
+482,Lobsters,law,"Law, patents, and licensing",FBI Arrests Hacker Who Hacked No One,http://www.thedailybeast.com/articles/2017/03/31/fbi-arrests-hacker-who-hacked-no-one.html
+483,Lobsters,law,"Law, patents, and licensing",Bay Area tech executives indicted for H-1B visa fraud,http://www.mercurynews.com/2017/03/25/bay-area-tech-executives-indicted-for-h-1b-visa-fraud/
+484,Lobsters,law,"Law, patents, and licensing",Lawyer's perception of open source licenses,https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html
+485,Lobsters,law,"Law, patents, and licensing",Five Ways Cybersecurity Will Suffer If Congress Repeals the FCC Privacy Rules,https://www.eff.org/deeplinks/2017/03/five-ways-cybersecurity-will-suffer-if-congress-repeals-fcc-privacy-rules
+486,Lobsters,law,"Law, patents, and licensing",Republicans voted to roll back landmark FCC privacy rules. Here’s what you need to know.,https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/republicans-are-poised-to-roll-back-landmark-fcc-privacy-rules-heres-what-you-need-to-know/
+487,Lobsters,law,"Law, patents, and licensing",VPNs are not the solution to a policy problem,https://asininetech.com/2017/03/28/vpns-are-not-the-solution-to-a-policy-problem/
+488,Lobsters,law,"Law, patents, and licensing",The Icon Of American Farming That You Now Have To Hack To Own,http://hackaday.com/2017/03/24/the-icon-of-american-farming-that-you-now-have-to-hack-to-own/
+489,Lobsters,law,"Law, patents, and licensing",Alleged vDOS Owners Poised to Stand Trial,https://krebsonsecurity.com/2017/03/alleged-vdos-owners-poised-to-stand-trial/
+490,Lobsters,law,"Law, patents, and licensing",Call for encryption ban pits UK politician against industry and colleagues,https://www.theguardian.com/technology/2017/mar/26/amber-rudd-battle-tech-firms-cabinet-whatsapp-david-davis
+491,Lobsters,law,"Law, patents, and licensing","Judge Tells FAA Rep: ""You're Just Making Stuff Up.""",http://dronelife.com/2017/03/20/taylor-vs-huerta-faa-comes-off-badly-oral-arguments/
+492,Lobsters,law,"Law, patents, and licensing",GCC licence change,https://marc.info/?l=openbsd-tech&m=149032069130072&w=2
+493,Lobsters,law,"Law, patents, and licensing",Senate votes to allow ISPs to collect personal data without permission,https://techcrunch.com/2017/03/23/senate-votes-to-allow-isps-to-collect-personal-data-without-permission/
+494,Lobsters,law,"Law, patents, and licensing",regarding OpenSSL License change,https://marc.info/?l=openbsd-tech&m=149028593819547&w=2
+495,Lobsters,law,"Law, patents, and licensing",Onedrive is slow on Linux but fast with a “Windows” user-agent (2016),https://answers.microsoft.com/en-us/msoffice/forum/msoffice_onedrivefb-mso_o365brs/onedrive-for-business-open-is-very-slow-on-linux/3d33dc1b-3cc3-4c24-9998-9ab96bad31fc
+496,Lobsters,law,"Law, patents, and licensing",Software used to predict crime can now be scoured for bias,https://qz.com/938635/a-predictive-policing-startup-released-all-its-code-so-it-can-be-scoured-for-bias/
+497,Lobsters,law,"Law, patents, and licensing",Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute,https://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html
+498,Lobsters,law,"Law, patents, and licensing",GitHub now lets its workers keep the IP when they use company resources for personal projects,https://qz.com/937038/github-now-lets-its-workers-keep-the-ip-when-they-use-company-resources-for-personal-projects/
+499,Lobsters,law,"Law, patents, and licensing","The Last AC-3 Patent Expired on March 20, 2017",https://ac3freedomday.org/
+500,Lobsters,law,"Law, patents, and licensing",Why viral licensing is a ghost,https://joinup.ec.europa.eu/community/eupl/news/why-viral-licensing-ghost
+501,Lobsters,law,"Law, patents, and licensing",The Fight to Legalize a Machine That Melts Flesh From Bone,https://www.wired.com/2017/03/bath-turns-dead-bodies-coffee-colored-water/
+502,Lobsters,law,"Law, patents, and licensing",Minnesota judge signs a search warrant for personal information on anyone who Googled someone's name,https://tonywebster.com/2017/03/minnesota-search-warrant-anyone-who-googled/
+503,Lobsters,law,"Law, patents, and licensing",Do GitHub's updated terms of service conflict with copyleft?,https://www.fsf.org/blogs/licensing/do-githubs-updated-terms-of-service-conflict-with-copyleft
+504,Lobsters,law,"Law, patents, and licensing",The Uber Bombshell About to Drop,https://danielcompton.net/2017/03/14/uber-bombshell
+505,Lobsters,law,"Law, patents, and licensing","When Should the Government Disclose ""Stockpiled"" Vulnerabilities?",http://www.crypto.com/blog/between_immediately_and_never/
+506,Lobsters,law,"Law, patents, and licensing",Video Game History: Reverse-Engineering the Industry,http://tedium.co/2017/03/09/video-games-reverse-engineering-tengen-accolade/
+507,Lobsters,law,"Law, patents, and licensing",Blue Lies Matter,https://www.buzzfeed.com/albertsamaha/blue-lies-matter
+508,Lobsters,law,"Law, patents, and licensing",AGPL - what you can do and what you can't,http://softwareengineering.stackexchange.com/questions/107883/agpl-what-you-can-do-and-what-you-cant/314908
+509,Lobsters,law,"Law, patents, and licensing",New GitHub Terms of Service require removing many open source works from it,https://www.mirbsd.org/wlog-10_all.htm
+510,Lobsters,law,"Law, patents, and licensing",Balancing a binary search tree at immigration,https://twitter.com/cyberomin/status/835888786462625792
+511,Lobsters,law,"Law, patents, and licensing",FBI's 'Gamergate' file says prosecutors declined to charge men believed to have sent death threats — even when they confessed on video,http://www.businessinsider.com/gamergate-fbi-file-2017-2
+512,Lobsters,law,"Law, patents, and licensing",Clojars is Software Freedom Conservancy’s Newest Member Project,https://sfconservancy.org/news/2017/feb/23/clojars-announcement/
+513,Lobsters,law,"Law, patents, and licensing",Social Media Needs A Travel Mode,http://idlewords.com/2017/02/social_media_needs_a_travel_mode.htm
+514,Lobsters,law,"Law, patents, and licensing",This is why I drink: a discussion of Fedora's legal state,https://lwn.net/SubscriberLink/714524/0c495ef932cd49a8/
+515,Lobsters,law,"Law, patents, and licensing",Riseup.net Canary Statement,https://riseup.net/en/about-us/press/canary-statement
+516,Lobsters,law,"Law, patents, and licensing",SecureDrop – An open-source whistleblower submission system,https://securedrop.org/
+517,Lobsters,law,"Law, patents, and licensing",Sweden Passes Landmark Ruling Requiring ISPs to Block The Pirate Bay,http://wccftech.com/sweden-requiring-isp-block-pirate-bay/
+518,Lobsters,law,"Law, patents, and licensing",Oracle refuses to accept pro-Google “fair use” verdict in API battle,https://arstechnica.com/tech-policy/2017/02/oracle-refuses-to-accept-pro-google-fair-use-verdict-in-api-battle/
+519,Lobsters,law,"Law, patents, and licensing",You're Really Going to Miss Net Neutrality,http://tech.co/going-miss-net-neutrality-2017-02
+520,Lobsters,law,"Law, patents, and licensing",Serial Killers Should Fear This Algorithm,https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm
+521,Lobsters,law,"Law, patents, and licensing",Code-Dependent: Pros and Cons of the Algorithm Age,http://www.pewinternet.org/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/
+522,Lobsters,law,"Law, patents, and licensing",Hackers Have Stolen Millions Of Dollars In Bitcoin -- Using Only Phone Numbers,http://www.forbes.com/sites/laurashin/2016/12/20/hackers-have-stolen-millions-of-dollars-in-bitcoin-using-only-phone-numbers/
+523,Lobsters,law,"Law, patents, and licensing",Privacy is Power - Why the fight for privacy matters,https://journal.standardnotes.org/privacy-is-power-f0a064ab36ea
+524,Lobsters,law,"Law, patents, and licensing",VIZIO to pay FTC and NJ gov. for collecting viewing history of smart TV users without consent,https://www.ftc.gov/news-events/press-releases/2017/02/vizio-pay-22-million-ftc-state-new-jersey-settle-charges-it
+525,Lobsters,law,"Law, patents, and licensing",Tech Companies' Amicus Brief Opposing Trump Immigration Order,https://www.scribd.com/document/338530472/Tech-Companies-Amicus-Brief-Opposing-Trump-Immigration-Ban
+526,Lobsters,law,"Law, patents, and licensing",What Vizio was doing behind the TV screen,https://www.ftc.gov/news-events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen
+527,Lobsters,law,"Law, patents, and licensing","Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say",https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say
+528,Lobsters,law,"Law, patents, and licensing",The liberation of RethinkDB,https://www.joyent.com/blog/the-liberation-of-rethinkdb
+529,Lobsters,law,"Law, patents, and licensing","CS 181/181W: Computers, Ethics, and Public Policy",https://stanfordcs181.github.io/
+530,Lobsters,law,"Law, patents, and licensing",When is the output of a copyright-protected software program itself protected by copyright?,http://www.maw-law.com/copyright/output-copyright-protected-software-program-protected-copyright/
+531,Lobsters,law,"Law, patents, and licensing",Avoiding conferences in the USA for now,http://www.drmaciver.com/2017/02/avoiding-conferences-in-the-usa-for-now/
+532,Lobsters,law,"Law, patents, and licensing",Search this database for inactive patents that are now in the public domain,https://opensource.com/article/17/1/making-us-patent-system-useful-again
+533,Lobsters,law,"Law, patents, and licensing",FCC tries something new: Making proposals public before voting on them,https://arstechnica.com/tech-policy/2017/02/fcc-tries-something-new-making-proposals-public-before-voting-on-them/
+534,Lobsters,law,"Law, patents, and licensing","High-assurance, Lawful Intercept for Lavabit-style Situations (2014)",https://www.schneier.com/blog/archives/2014/09/fake_cell_phone.html#c6679179
+535,Lobsters,law,"Law, patents, and licensing",John Carmack on the Oculus/ZeniMax lawsuit,https://www.facebook.com/permalink.php?story_fbid=1913546895546485&id=100006735798590
+536,Lobsters,law,"Law, patents, and licensing",The Guardian v WhatsApp,http://thlog.anfedorov.com/post/guardian-v-whatsapp/
+537,Lobsters,law,"Law, patents, and licensing",Why CC BY-SA is Unsuitable for OpenStreetMap,https://wiki.osmfoundation.org/w/images/7/79/Why_CC_BY_SA_is_Unsuitable.pdf
+538,Lobsters,law,"Law, patents, and licensing",The Trump administration's draft of the executive order on cybersecurity,https://apps.washingtonpost.com/g/documents/world/read-the-trump-administrations-draft-of-the-executive-order-on-cybersecurity/2306/
+539,Lobsters,law,"Law, patents, and licensing",NHTSA Report for 2016/05/07 crash involving Tesla Autopilot,https://static.nhtsa.gov/odi/inv/2016/INCLA-PE16007-7876.PDF
+540,Lobsters,law,"Law, patents, and licensing",The GPL in Layman’s Terms - Free as in What?,https://www.darrentoback.com/the-gpl-in-laymans-terms-free-as-in-what
+541,Lobsters,law,"Law, patents, and licensing",Obama Commutes Bulk of Chelsea Manning’s Sentence,https://www.nytimes.com/2017/01/17/us/politics/obama-commutes-bulk-of-chelsea-mannings-sentence.html
+542,Lobsters,law,"Law, patents, and licensing",What You Need To Know About Free & Open Source Software Licensing,https://felixcrux.com/library/what-you-need-to-know-about-open-source-licensing
+543,Lobsters,law,"Law, patents, and licensing",Finally Revealed: Cloudflare Has Been Fighting NSL for Years,https://www.eff.org/deeplinks/2017/01/finally-revealed-cloudflare-has-been-fighting-nsls-years
+544,Lobsters,law,"Law, patents, and licensing",Stallman weighs in on React.js,https://lists.gnu.org/archive/html/directory-discuss/2017-01/msg00003.html
+545,Lobsters,law,"Law, patents, and licensing",Programmer at Large: What is this?,http://www.drmaciver.com/2017/01/programmer-at-large-what-is-this/
+546,Lobsters,law,"Law, patents, and licensing","Unsecure routers, webcams prompt feds to sue D-Link",http://arstechnica.com/tech-policy/2017/01/unsecure-routers-webcams-prompt-feds-to-sue-d-link/
+547,Lobsters,law,"Law, patents, and licensing",Security Without Borders,https://securitywithoutborders.org
+548,Lobsters,law,"Law, patents, and licensing",Oracle finally targets Java non-payers – six years after plucking Sun,http://www.theregister.co.uk/2016/12/16/oracle_targets_java_users_non_compliance/
+549,Lobsters,law,"Law, patents, and licensing","I thought I was designing for SpaceX, I was actually designing for the Silk Road",https://words.motel.is/i-thought-i-was-designing-for-spacex-i-was-actually-designing-for-the-silk-road-4b4b64834868
+550,Lobsters,law,"Law, patents, and licensing",One Huge Reason Why Your Contractual Agreement Shouldn’t be a “Work for Hire”,https://blog.craftblue.com/2016/12/work-for-hire-freelance-contractual-agreement/
+551,Lobsters,law,"Law, patents, and licensing",Developers’ side projects,https://www.joelonsoftware.com/2016/12/09/developers-side-projects/
+552,Lobsters,law,"Law, patents, and licensing",Trademark Law Does Not Require Companies To Tirelessly Censor the Internet,https://www.eff.org/deeplinks/2013/11/trademark-law-does-not-require-companies-tirelessly-censor-internet
+553,Lobsters,law,"Law, patents, and licensing",Ubuntu still isn't free software,https://mjg59.dreamwidth.org/45939.html
+554,Lobsters,law,"Law, patents, and licensing",Comments to SEC on Proposed Winkelvoss Bitcoin ETF,https://www.sec.gov/comments/sr-batsbzx-2016-30/batsbzx201630-20.pdf
+555,Lobsters,law,"Law, patents, and licensing",Against Solutionism by Evgeny Morozov,https://www.youtube.com/watch?v=uhU0hRng-eE
+556,Lobsters,law,"Law, patents, and licensing",Riseup’s Canary Has Died,https://c4ss.org/content/47015
+557,Lobsters,law,"Law, patents, and licensing",Encrypted Email Company Hushmail Spills to Feds (2007),https://www.wired.com/2007/11/encrypted-e-mai/
+558,Lobsters,law,"Law, patents, and licensing",Illegal prime,https://en.wikipedia.org/wiki/Illegal_prime
+559,Lobsters,law,"Law, patents, and licensing","Britain just passed the ""most extreme surveillance law ever passed in a democracy""",http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/
+560,Lobsters,law,"Law, patents, and licensing",There's Legal Intrigue Over Reporting Moves at the World Chess Match,https://www.bloomberg.com/view/articles/2016-11-15/there-s-legal-intrigue-at-the-world-chess-match
+561,Lobsters,law,"Law, patents, and licensing",How an accused drug dealer revealed JSO’s facial recognition network,http://jacksonville.com/public-safety/2016-11-11/how-accused-drug-dealer-revealed-jso-s-facial-recognition-network
+562,Lobsters,law,"Law, patents, and licensing",Reasons not to use Uber,http://stallman.org/uber.html
+563,Lobsters,law,"Law, patents, and licensing","An idea for encrypted, verifiable voting",https://blag.mpcsh.xyz
+564,Lobsters,law,"Law, patents, and licensing",Cylance Discloses Voting Machine Vulnerability,https://blog.cylance.com/cylance-discloses-voting-machine-vulnerability
+565,Lobsters,law,"Law, patents, and licensing",Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+566,Lobsters,law,"Law, patents, and licensing",React’s license: necessary and open?,http://lu.is/blog/2016/10/31/reacts-license-necessary-and-open/
+567,Lobsters,law,"Law, patents, and licensing","A tale of WordPress, Wix and Open Source Licensing",https://janit.wordpress.com/2016/10/30/a-tale-of-wordpress-wix-and-licensing/
+568,Lobsters,law,"Law, patents, and licensing",Facebook Lets Advertisers Exclude Users by Race,https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race
+569,Lobsters,law,"Law, patents, and licensing",Oracle denied new trial in copyright dispute with Google over Java,http://www.pcworld.com/article/3125113/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html
+570,Lobsters,law,"Law, patents, and licensing","NSA Lawyering, Oversight, and Compliance",https://www.lawfareblog.com/understanding-footnote-14-nsa-lawyering-oversight-and-compliance
+571,Lobsters,law,"Law, patents, and licensing",The Perpetual Line-Up,https://www.perpetuallineup.org/
+572,Lobsters,law,"Law, patents, and licensing",What Yahoo's NSA Surveillance Means for Email Privacy,https://protonmail.com/blog/yahoo-us-intelligence/
+573,Lobsters,law,"Law, patents, and licensing",Upload Filtering Mandate Would Shred European Copyright Safe Harbor,https://www.eff.org/deeplinks/2016/10/upload-filtering-mandate-would-shred-european-copyright-safe-harbor
+574,Lobsters,law,"Law, patents, and licensing",Law Enforcement are Struggling to Investigate the Dark Web,https://mascherari.press/law-enforcement-are-struggling-to-investigate-the-dark-web/
+575,Lobsters,law,"Law, patents, and licensing","Suspicious court cases, with missing defendants, aim at getting web pages taken down",https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/10/10/dozens-of-suspicious-court-cases-with-missing-defendants-aim-at-getting-web-pages-taken-down-or-deindexed/
+576,Lobsters,law,"Law, patents, and licensing","Samsung is suspending production of the Galaxy Note 7, says Korean news agency",http://www.theverge.com/2016/10/9/13222674/samsung-galaxy-note-7-production-suspended-fire-recall
+577,Lobsters,law,"Law, patents, and licensing","Government Contractor Arrested, Charged With Removing Classified Materials",http://www.npr.org/sections/thetwo-way/2016/10/05/496726424/government-contractor-arrested-charged-with-removing-classified-materials
+578,Lobsters,law,"Law, patents, and licensing","Grand jury subpoena for Signal user data, Eastern District of Virginia",https://whispersystems.org/bigbrother/eastern-virginia-grand-jury/
+579,Lobsters,law,"Law, patents, and licensing",The World Trade Organization Sets its Eyes on the Internet,https://www.eff.org/deeplinks/2016/09/world-trade-organization-sets-its-eyes-internet
+580,Lobsters,law,"Law, patents, and licensing",Theo de Raadt on LLVM license change,https://marc.info/?l=openbsd-misc&m=147503691302850&w=2
+581,Lobsters,law,"Law, patents, and licensing",Deprecating May’s Theorem,https://groupincome.org/2016/09/deprecating-mays-theorem/
+582,Lobsters,law,"Law, patents, and licensing",The Anti-Patent Patent Pool (2015),http://cbloomrants.blogspot.com/2015/05/05-25-15-anti-patent-patent-pool.html
+583,Lobsters,law,"Law, patents, and licensing",Misconceptions About Majority Rule,https://groupincome.org/2016/09/misconceptions-about-majority-rule/
+584,Lobsters,law,"Law, patents, and licensing","The MIT License, Line by Line",https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html
+585,Lobsters,law,"Law, patents, and licensing",Why Snowden won't be pardoned,http://blog.erratasec.com/2016/09/why-snowden-wont-be-pardoned.html
+586,Lobsters,law,"Law, patents, and licensing",You’re a step closer to getting $55 from the PS3 Linux debacle lawsuit,http://arstechnica.com/tech-policy/2016/09/youre-a-step-closer-to-getting-55-from-the-ps3-linux-debacle-lawsuit/
+587,Lobsters,law,"Law, patents, and licensing",Using docker in Github repo names is forbidden.,https://twitter.com/macyet/status/775535642793086976
+588,Lobsters,law,"Law, patents, and licensing",Chelsea Manning Begins Hunger Strike to Protest Bullying by Prison and US Government,https://www.chelseamanning.org/featured/chelsea-manning-begins-hunger-strike-protest
+589,Lobsters,law,"Law, patents, and licensing",Analog: The Last Defense Against DRM,https://www.eff.org/deeplinks/2016/09/analog-last-defense-against-drm
+590,Lobsters,law,"Law, patents, and licensing",Cisco’s Network Bugs Are Front and Center in Bankruptcy Fight,http://www.bloomberg.com/news/articles/2016-09-08/cisco-s-network-bugs-are-front-and-center-in-bankruptcy-fight
+591,Lobsters,law,"Law, patents, and licensing",GPL Time-bomb: an interesting approach to FOSS licensing,http://www.boyter.org/2016/08/gpl-time-bomb-interesting-approach-foss-licensing/
+592,Lobsters,law,"Law, patents, and licensing",Approaching fairness in machine learning,http://blog.mrtz.org/2016/09/06/approaching-fairness.html
+593,Lobsters,law,"Law, patents, and licensing",Why the BSD 3-clause license should be included in the license dropdown menu on GitHub,https://github.com/github/choosealicense.com/issues/413#issuecomment-243598510
+594,Lobsters,law,"Law, patents, and licensing",Linus Torvalds says GPL was defining factor in Linux's success,http://www.cio.com/article/3112582/linux/linus-torvalds-says-gpl-was-defining-factor-in-linuxs-success.html
+595,Lobsters,law,"Law, patents, and licensing",Nanolaw with Daughter (2011),http://www.ftrain.com/nanolaw.html
+596,Lobsters,law,"Law, patents, and licensing",Secret Cameras Record Baltimore’s Every Move From Above,https://www.bloomberg.com/features/2016-baltimore-secret-surveillance/
+597,Lobsters,law,"Law, patents, and licensing",How Things Work,http://gawker.com/how-things-work-1785604699
+598,Lobsters,law,"Law, patents, and licensing",Anti-Google research group in Washington is funded by Oracle,http://arstechnica.com/tech-policy/2016/08/anti-google-research-group-in-washington-is-funded-by-oracle/
+599,Lobsters,law,"Law, patents, and licensing",Stealing bitcoins with badges: How Silk Road’s dirty cops got caught,http://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/
+600,Lobsters,law,"Law, patents, and licensing",Pac-Man on the Sequoia AVC-Edge DRE Voting Machine,https://jhalderm.com/pacman/
+601,Lobsters,law,"Law, patents, and licensing",Arduino v. Arduino,http://hackaday.com/2015/02/25/arduino-v-arduino/
+602,Lobsters,law,"Law, patents, and licensing",A Few Thoughts on Cryptographic Engineering: How do we build encryption backdoors?,http://blog.cryptographyengineering.com/2015/04/how-do-we-build-encryption-backdors.html
+603,Lobsters,law,"Law, patents, and licensing",GPLv4 – Starting the Conversation,https://www.christopherprice.net/gplv4-starting-the-conversation-2580.html
+604,Lobsters,law,"Law, patents, and licensing",EU expands copyright to furniture and extends term by a century,https://www.privateinternetaccess.com/blog/2016/08/3d-printers-break-eu-expands-copyright-furniture/
+605,Lobsters,law,"Law, patents, and licensing",Information + people != democracy,https://grugq.tumblr.com/post/148394704908/cyber-showdown
+606,Lobsters,law,"Law, patents, and licensing",BBC to deploy detection vans to snoop on internet users,http://www.telegraph.co.uk/news/2016/08/05/bbc-to-deploy-detection-vans-to-snoop-on-internet-users/
+607,Lobsters,law,"Law, patents, and licensing",How to Hack an Election in 7 Minutes,http://www.politico.com/magazine/story/2016/08/2016-elections-russia-hack-how-to-hack-an-election-in-seven-minutes-214144
+608,Lobsters,law,"Law, patents, and licensing",Defending Privacy at the U.S. Border: A Guide for Travelers Carrying Digital Devices,https://www.eff.org/wp/defending-privacy-us-border-guide-travelers-carrying-digital-devices
+609,Lobsters,law,"Law, patents, and licensing","Bitcoin’s not money, judge rules as she tosses money-laundering charge",https://www.washingtonpost.com/news/morning-mix/wp/2016/07/26/bitcoins-not-money-judge-rules-as-she-tosses-money-laundering-charge/
+610,Lobsters,law,"Law, patents, and licensing",Copyleft,https://copyleft.org/
+611,Lobsters,law,"Law, patents, and licensing",9th Circuit: It’s a federal crime to visit a website after being told not to visit it,https://www.washingtonpost.com/news/volokh-conspiracy/wp/2016/07/12/9th-circuit-its-a-federal-crime-to-visit-a-website-after-being-told-not-to-visit-it/
+612,Lobsters,law,"Law, patents, and licensing",EFF Lawsuit Takes on DMCA Section 1201: Research and Technology Restrictions Violate the First Amendment,https://www.eff.org/press/releases/eff-lawsuit-takes-dmca-section-1201-research-and-technology-restrictions-violate
+613,Lobsters,law,"Law, patents, and licensing",Statement on DMCA lawsuit,http://blog.cryptographyengineering.com/2016/07/statement-on-dmca-lawsuit.html
+614,Lobsters,law,"Law, patents, and licensing",Why I’m Suing the US Government,https://www.bunniestudios.com/blog/?p=4782
+615,Lobsters,law,"Law, patents, and licensing",Kickass Torrents owner arrested in Poland on U.S. charges,http://bnonews.com/news/index.php/news/id4926
+616,Lobsters,law,"Law, patents, and licensing",Your license to use React.js can be revoked if you compete with Facebook,http://react-etc.net/entry/your-license-to-use-react-js-can-be-revoked-if-you-compete-with-facebook
+617,Lobsters,law,"Law, patents, and licensing","Is duckduckgo.com partially enforcing the ""celebrity threesome injunction""?",https://stallman.org/articles/duckduckgo-censorship.html
+618,Lobsters,law,"Law, patents, and licensing",Misuse of Creative Commons-licensed photo leads to public apology,http://blog.wikimedia.org/2016/07/12/free-license-misuse-apology/
+619,Lobsters,law,"Law, patents, and licensing",I Don't Give a Shit About Licensing,https://www.rdegges.com/2016/i-dont-give-a-shit-about-licensing/
+620,Lobsters,law,"Law, patents, and licensing","In first, U.S. judge throws out cell phone 'stingray' evidence",http://www.reuters.com/article/us-usa-crime-stingray-idUSKCN0ZS2VI
+621,Lobsters,law,"Law, patents, and licensing",New tag suggestion: patents,/s/d4uxqc/new_tag_suggestion_patents
+622,Lobsters,law,"Law, patents, and licensing",What China Has Been Building in the South China Sea,http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html
+623,Lobsters,law,"Law, patents, and licensing","Ever Use Someone Else’s Password? Go to Jail, says the Ninth Circuit",https://www.eff.org/deeplinks/2016/07/ever-use-someone-elses-password-go-jail-says-ninth-circuit
+624,Lobsters,law,"Law, patents, and licensing",The Senate votes this week on whether to give the FBI warrantless access to your browsing history,https://www.fightforthefuture.org/news/2016-07-11-here-are-the-key-senators-on-mccain-4787/
+625,Lobsters,law,"Law, patents, and licensing",Polish Authorities Want to Question UK Tor Operator Over 'Offensive' Forum Post,http://motherboard.vice.com/read/polish-authorities-want-to-question-uk-tor-operator-over-offensive-forum-post
+626,Lobsters,law,"Law, patents, and licensing","EU regulations on algorithmic decision-making and a ""right to explanation""",https://arxiv.org/abs/1606.08813
+627,Lobsters,law,"Law, patents, and licensing",Bulgaria Got a Law Requiring Open Source,https://thepolicy.us/bulgaria-got-a-law-requiring-open-source-98bf626cf70a
+628,Lobsters,law,"Law, patents, and licensing","What's Classified, Doc?",http://emergentchaos.com/archives/2016/07/whats-classified-doc-the-clinton-emails-and-the-fbi.html
+629,Lobsters,law,"Law, patents, and licensing",In Defense of Free Software: My Case Against Lenovo in Mexico,https://globalvoices.org/2016/06/16/in-defense-of-free-software-my-case-against-lenovo-in-mexico/
+630,Lobsters,law,"Law, patents, and licensing","Chatbot lawyer overturns 160,000 parking tickets in London and New York",https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york
+631,Lobsters,law,"Law, patents, and licensing",He Was a Hacker for the NSA and He Was Willing to Talk. I Was Willing to Listen.,https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/
+632,Lobsters,law,"Law, patents, and licensing",Estonian e-Residency,https://e-estonia.com/e-residents/about/
+633,Lobsters,law,"Law, patents, and licensing","Reasons not to use (i.e., be used by) Facebook",https://stallman.org/facebook.html
+634,Lobsters,law,"Law, patents, and licensing",Rule 41 Revision Massively Expands Governments Hacking Powers,http://archive.is/PUdDh
+635,Lobsters,law,"Law, patents, and licensing",From file-sharing to prison: A Megaupload programmer tells his story,http://arstechnica.com/tech-policy/2016/06/from-file-sharing-to-prison-a-megaupload-programmer-tells-his-story/
+636,Lobsters,law,"Law, patents, and licensing",FBI’s use of Tor exploit is like peering through “broken blinds”,http://arstechnica.com/tech-policy/2016/06/fbis-use-of-tor-exploit-is-like-peering-through-broken-blinds/
+637,Lobsters,law,"Law, patents, and licensing",Sony agrees to pay millions for abandoning Linux on PS3,http://www.theverge.com/2016/6/22/12008286/sony-ps3-linux-otheros-agreement-settlement
+638,Lobsters,law,"Law, patents, and licensing",Defending Our Brand,https://letsencrypt.org//2016/06/23/defending-our-brand.html
+639,Lobsters,law,"Law, patents, and licensing",The New Censorship,http://www.usnews.com/opinion/articles/2016-06-22/google-is-the-worlds-biggest-censor-and-its-power-must-be-regulated
+640,Lobsters,law,"Law, patents, and licensing",We Made the Message Loud and Clear: Stop the Rule 41 Updates,https://www.eff.org/deeplinks/2016/06/we-made-message-loud-and-clear-stop-rule-41-updates
+641,Lobsters,law,"Law, patents, and licensing",Shenzhen: A new breed of intellectual property (Part 3),https://www.youtube.com/watch?v=e4wbFdePb-k
+642,Lobsters,law,"Law, patents, and licensing",CFTC Brings Significant Enforcement Action Against Bitfinex,https://www.lw.com/thoughtLeadership/CFTC-brings-significant-enforcement-action-against-online-cryptocurrency-exchange
+643,Lobsters,law,"Law, patents, and licensing",Kosovo Deserves Digital Independence,https://popehat.com/2016/05/03/marc-randazza-kosovo-deserves-digital-independence/
+644,Lobsters,law,"Law, patents, and licensing",Privacy Advocates Walk Out in Protest Over U.S. Facial Recognition Code of Conduct,https://theintercept.com/2015/06/16/privacy-advocates-resign-protest-u-s-facial-recognition-code-conduct-2/
+645,Lobsters,law,"Law, patents, and licensing",​NSW government to track citizen location in 30 minute increments,http://www.zdnet.com/article/nsw-government-playing-big-brother-with-citizens-data/
+646,Lobsters,law,"Law, patents, and licensing","Creepy startup will help landlords, employers and online dates strip-mine intimate data from your Facebook page",https://www.washingtonpost.com/news/the-intersect/wp/2016/06/09/creepy-startup-will-help-landlords-employers-and-online-dates-strip-mine-intimate-data-from-your-facebook-page/
+647,Lobsters,law,"Law, patents, and licensing",Google appears to be manipulating the election,https://www.youtube.com/watch?v=PFxFRqNmXKg
+648,Lobsters,law,"Law, patents, and licensing",WTFUK,https://medium.com/@rachelnabors/wtfuk-73009d5623b4
+649,Lobsters,law,"Law, patents, and licensing",New router chips could save open source firmware from FCC rules,http://arstechnica.com/information-technology/2016/06/new-router-chips-could-save-open-source-firmware-from-fcc-rules/
+650,Lobsters,law,"Law, patents, and licensing",The death of due process,https://blog.cr.yp.to/20160607-dueprocess.html
+651,Lobsters,law,"Law, patents, and licensing",Judge sends two to prison for 7 years for H-1B fraud,http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html
+652,Lobsters,law,"Law, patents, and licensing",EFF Joins Coalition Opposing Dangerous CFAA Bill,https://www.eff.org/deeplinks/2016/06/eff-joins-coalition-opposing-dangerous-cfaa-bill
+653,Lobsters,law,"Law, patents, and licensing",Copyright Office’s Proposed Notice and Staydown System Would Force the Internet Archive and Other Platforms to Censor the Web,https://blog.archive.org/2016/06/02/copyright-offices-proposed-notice-and-staydown-system-would-force-the-internet-archive-and-other-platforms-to-censor-the-web/
+654,Lobsters,law,"Law, patents, and licensing",Ten Years of Observation on EU Data Protection,https://www.lawfareblog.com/ten-years-observation-eu-data-protection
+655,Lobsters,law,"Law, patents, and licensing",The EFF is Orwellian as fuck,http://blog.erratasec.com/2016/05/the-eff-is-orwellian-as-fuck.html
+656,Lobsters,law,"Law, patents, and licensing",Op-ed: Oracle attorney says Google’s court victory might kill the GPL,http://arstechnica.com/tech-policy/2016/05/op-ed-oracle-attorney-says-googles-court-victory-might-kill-the-gpl/
+657,Lobsters,law,"Law, patents, and licensing","Tech Titans Raise Their Guard, Pushing Back Against News Media",http://www.nytimes.com/2016/05/28/business/media/tech-titans-raise-their-guard-pushing-back-against-news-media.html
+658,Lobsters,law,"Law, patents, and licensing",The verdict is in: Android is “fair use” as Google beats Oracle,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
+659,Lobsters,law,"Law, patents, and licensing",Judge refuses attempt to force alleged hacker Lauri Love to hand over passwords,http://www.telegraph.co.uk/technology/2016/05/10/judge-refuses-attempt-to-force-alleged-hacker-lauri-love-to-hand/
+660,Lobsters,law,"Law, patents, and licensing",Maja D'Hondt - Google’s 9 lines (Oracle v. Google),https://majadhondt.wordpress.com/2012/05/16/googles-9-lines/
+661,Lobsters,law,"Law, patents, and licensing",Indefinite prison for suspect who won’t decrypt hard drives,http://arstechnica.com/tech-policy/2016/05/feds-say-suspect-should-rot-in-prison-for-refusing-to-decrypt-drives/
+662,Lobsters,law,"Law, patents, and licensing",Thursday Hearing in San Francisco: EFF Fights for Answers About Massive Government Phone Database,https://www.eff.org/press/releases/thursday-hearing-san-francisco-eff-fights-answers-about-massive-government-phone
+663,Lobsters,law,"Law, patents, and licensing",The Intercept is Broadening Access to the Snowden Archive,https://theintercept.com/snowden-sidtoday/
+664,Lobsters,law,"Law, patents, and licensing","Oracle v. Google, and the end of programming as we know it",http://www.computerworld.com/article/3070001/application-development/oracle-v-google-and-the-end-of-programming-as-we-know-it.html
+665,Lobsters,law,"Law, patents, and licensing",Software Licenses and Failed States,http://250bpm.com/blog:82
+666,Lobsters,law,"Law, patents, and licensing",Sarah Jeong live tweeting from the Oracle v. Google trial,https://twitter.com/sarahjeong
+667,Lobsters,law,"Law, patents, and licensing",An Open Letter to Members of the W3C Advisory Committee,https://www.eff.org/deeplinks/2016/05/open-letter-members-w3c-advisory-committee
+668,Lobsters,law,"Law, patents, and licensing",Save Firefox!,https://www.eff.org/deeplinks/2016/04/save-firefox
+669,Lobsters,law,"Law, patents, and licensing",Jury is picked for $9 billion Oracle v. Google showdown,http://arstechnica.com/tech-policy/2016/05/jury-is-picked-for-9-billion-oracle-v-google-showdown/
+670,Lobsters,law,"Law, patents, and licensing",Elsevier Complaint Shuts Down Sci-Hub Domain Name,https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/
+671,Lobsters,law,"Law, patents, and licensing","At the Libertarian Convention, where blockchain evangelists dream of a perfect election",http://www.theverge.com/2016/5/5/11592806/libertarian-bitcoin-blockchain-voting-john-mcafee
+672,Lobsters,law,"Law, patents, and licensing",FBI Harassment,https://blog.patternsinthevoid.net/fbi-harassment.html
+673,Lobsters,law,"Law, patents, and licensing",Nine years of censorship,http://www.nature.com/news/nine-years-of-censorship-1.19842
+674,Lobsters,law,"Law, patents, and licensing","Yes, All DRM",https://www.eff.org/deeplinks/2016/05/yes-all-drm
+675,Lobsters,law,"Law, patents, and licensing","WhatsApp, Used by 100 Million Brazilians, Was Shut Down Nationwide Today by a Single Judge",https://theintercept.com/2016/05/02/whatsapp-used-by-100-million-brazilians-was-shut-down-nationwide-today-by-a-single-judge/
+676,Lobsters,law,"Law, patents, and licensing",How Russia Works on Intercepting Messaging Apps,https://www.bellingcat.com/news/2016/04/30/russia-telegram-hack/
+677,Lobsters,law,"Law, patents, and licensing",Supreme Court moves to expand FBI’s hacking authority,http://techcrunch.com/2016/04/28/supreme-court-moves-to-expand-fbis-hacking-authority/
+678,Lobsters,law,"Law, patents, and licensing",The Crime of Speech,https://www.eff.org/deeplinks/2016/04/crime-speech
+679,Lobsters,law,"Law, patents, and licensing",Copyright Deadlock,https://www.youtube.com/watch?v=cK8i6aMG9VM
+680,Lobsters,law,"Law, patents, and licensing",Child porn suspect jailed indefinitely for refusing to decrypt hard drives,http://arstechnica.com/tech-policy/2016/04/child-porn-suspect-jailed-for-7-months-for-refusing-to-decrypt-hard-drives/
+681,Lobsters,law,"Law, patents, and licensing",House Passes Bill Requiring Search Warrants to Access Your Old Emails,http://reason.com/blog/2016/04/27/house-passes-bill-requiring-search-warra
+682,Lobsters,law,"Law, patents, and licensing",The Encryption Farce,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjd2IWQtKvMAhUCSD4KHRhBAroQqQIIHjAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-encryption-farce-1461624399&usg=AFQjCNE-WzsDeMUndBp6a2jGyFh2suDFBA
+683,Lobsters,law,"Law, patents, and licensing",Schools are helping police spy on kids’ social media activity,https://www.washingtonpost.com/news/the-switch/wp/2016/04/22/schools-are-helping-police-spy-on-kids-social-media-activity/
+684,Lobsters,law,"Law, patents, and licensing",The Aadhaar Coup,http://www.thehindu.com/opinion/lead/jean-dreze-on-aadhaar-mass-surveillance-data-collection/article8352912.ece
+685,Lobsters,law,"Law, patents, and licensing",Secret Court Takes Another Bite Out of the Fourth Amendment,https://www.eff.org/deeplinks/2016/04/secret-court-takes-another-bite-out-fourth-amendment
+686,Lobsters,law,"Law, patents, and licensing",EFF Asks Supreme Court to Overturn Dangerous Ruling Allowing Patent Owners to Undermine Ownership,https://www.eff.org/deeplinks/2016/04/eff-asks-supreme-court-overturn-dangerous-ruling-allowing-patent-owners-undermine
+687,Lobsters,law,"Law, patents, and licensing",Virtual Weapons Are Turning Teen Gamers Into Serious Gamblers,http://www.bloomberg.com/features/2016-virtual-guns-counterstrike-gambling/
+688,Lobsters,law,"Law, patents, and licensing",Computer generates all possible ideas to beat patent trolls,https://www.newscientist.com/article/2084755-computer-generates-all-possible-ideas-to-beat-patent-trolls/
+689,Lobsters,law,"Law, patents, and licensing","Analyzing the Panama Papers with Neo4j: Data Models, Queries & More",http://neo4j.com/blog/analyzing-panama-papers-neo4j/
+690,Lobsters,law,"Law, patents, and licensing","The secret rules of the internet: The murky history of moderation, and how it’s shaping the future o",http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech
+691,Lobsters,law,"Law, patents, and licensing",How Canadian Police Intercept and Read Encrypted BlackBerry Messages,http://motherboard.vice.com/read/rcmp-blackberry-project-clemenza-global-encryption-key-canada
+692,Lobsters,law,"Law, patents, and licensing",Senate encryption bill draft mandates 'technical assistance',http://thehill.com/policy/cybersecurity/275567-senate-intel-encryption-bill-mandates-technical-assistance
+693,Lobsters,law,"Law, patents, and licensing","To dodge crypto, undercover UK cops simply asked to see terror convict’s iPhone",http://arstechnica.com/tech-policy/2016/04/iphone-terror-crypto-uk-police/
+694,Lobsters,law,"Law, patents, and licensing",An FDA for Algorithms,http://ssrn.com/abstract=2747994
+695,Lobsters,law,"Law, patents, and licensing",A spiritual successor to Aaron Swartz is angering publishers all over again,http://arstechnica.com/tech-policy/2016/04/a-spiritual-successor-to-aaron-swartz-is-angering-publishers-all-over-again/
+696,Lobsters,law,"Law, patents, and licensing",Save Netflix!,https://www.eff.org/deeplinks/2016/04/save-netflix
+697,Lobsters,law,"Law, patents, and licensing",Panama Papers,http://panamapapers.sueddeutsche.de/en
+698,Lobsters,law,"Law, patents, and licensing",Amnesty International: Encryption is a Human Rights Issue,https://www.eff.org/deeplinks/2016/03/amnesty-international-encryption-human-rights-issue
+699,Lobsters,law,"Law, patents, and licensing",Tell Congress: It’s Time to Move FASTR,https://www.eff.org/deeplinks/2016/03/tell-congress-its-time-move-fastr
+700,Lobsters,law,"Law, patents, and licensing",Dr Stoll: Or how I learned to stop worrying and love the GPL,http://www.earth.li/~noodles/blog/2016/03/dr-stoll.html
+701,Lobsters,law,"Law, patents, and licensing",A discussion about the breaking of the Internet,https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d
+702,Lobsters,law,"Law, patents, and licensing",A discussion about the breaking of the Internet,https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.9g8ux9g5t
+703,Lobsters,law,"Law, patents, and licensing",The State of Utah trialled online voting via blockchain today,http://www.newsbtc.com/2016/03/21/utah-kick-starts-online-voting-on-blockchain-trend/
+704,Lobsters,law,"Law, patents, and licensing",Elsevier v. Sci-Hub on the Docket,http://www.stephenmclaughlin.net/2016/03/18/elsevier-v-sci-hub-on-the-docket/
+705,Lobsters,law,"Law, patents, and licensing",NY bill would provide tax credit for open source contributors,https://opensource.com/government/16/3/ny-bill-tax-credit-open-source-contributors
+706,Lobsters,law,"Law, patents, and licensing",Illegal numbers,https://en.wikipedia.org/wiki/Illegal_number
+707,Lobsters,law,"Law, patents, and licensing",DRM Non-Aggression on the Table at W3C,https://www.eff.org/deeplinks/2016/03/drm-non-aggression-table-w3c
+708,Lobsters,law,"Law, patents, and licensing",Thomas Jefferson and Apple versus the FBI,https://blog.cr.yp.to/20160315-jefferson.html
+709,Lobsters,law,"Law, patents, and licensing",How to Sue A DAO,https://www.linkedin.com/pulse/how-sue-dao-stephen-palley
+710,Lobsters,law,"Law, patents, and licensing",Interesting Parallels Between The Cannabis and File-Sharing Debates,https://torrentfreak.com/interesting-parallels-between-the-cannabis-and-file-sharing-debates-160313/
+711,Lobsters,law,"Law, patents, and licensing","New US Federal Government (Open) Source Code Standard, Open for Commentary",https://sourcecode.cio.gov/
+712,Lobsters,law,"Law, patents, and licensing",How Web Scraping is Revealing Lobbying and Corruption in Peru,https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/
+713,Lobsters,law,"Law, patents, and licensing",Obama Administration Set to Expand Sharing of Data That N.S.A. Intercepts,http://www.nytimes.com/2016/02/26/us/politics/obama-administration-set-to-expand-sharing-of-data-that-nsa-intercepts.html
+714,Lobsters,law,"Law, patents, and licensing",BMW refuses to abide by terms of GNU Public License,https://twitter.com/duncan_bayne/status/705244093702471680
+715,Lobsters,law,"Law, patents, and licensing",Google's crash is a very positive sign,http://ideas.4brad.com/googles-crash-very-positive-sign
+716,Lobsters,law,"Law, patents, and licensing",The Wifi Lockdown is Here,http://www.metamesh.org/#!The-Lockdown-is-Here/ostn2/56c61ec00cf25df9371e8436
+717,Lobsters,law,"Law, patents, and licensing",Report from the VMware GPL court hearing,http://laforge.gnumonks.org/blog/20160225-vmware-gpl/
+718,Lobsters,law,"Law, patents, and licensing","Copyrights, Licenses and CDDL Illustrated (2006)",https://blogs.oracle.com/chandan/entry/copyrights_licenses_and_cddl_illustrated
+719,Lobsters,law,"Law, patents, and licensing",GPL Violations Related to Combining ZFS and Linux,https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/
+720,Lobsters,law,"Law, patents, and licensing","Confirmed: Carnegie Mellon University Attacked Tor, Was Subpoenaed By Feds",http://motherboard.vice.com/read/carnegie-mellon-university-attacked-tor-was-subpoenaed-by-feds
+721,Lobsters,law,"Law, patents, and licensing",India kills the Software Patent,http://www.business-standard.com/article/economy-policy/no-patent-if-invention-lies-only-in-computer-programme-says-indian-patent-office-116022200875_1.html
+722,Lobsters,law,"Law, patents, and licensing","Vernor v. Autodesk, Inc","https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc."
+723,Lobsters,law,"Law, patents, and licensing",FBI Director Comments on San Bernardino Matter,https://www.fbi.gov/news/pressrel/press-releases/fbi-director-comments-on-san-bernardino-matter
+724,Lobsters,law,"Law, patents, and licensing",Help Us Spread the Word: Encryption Matters,https://blog.mozilla.org/blog/2016/02/16/help-us-spread-the-word-encryption-matters/
+725,Lobsters,law,"Law, patents, and licensing",Facebook and Twitter Announce Support for Apple in Backdoor Dispute With FBI,http://www.macrumors.com/2016/02/18/twitter-facebook-announce-support-for-apple/
+726,Lobsters,law,"Law, patents, and licensing",U.S. files motion to force Apple to obey iPhone order,http://www.reuters.com/article/us-apple-encryption-doj-idUSKCN0VS2FT
+727,Lobsters,law,"Law, patents, and licensing","Canonical, Ubuntu and why I seem so upset about them all the time",https://mjg59.dreamwidth.org/39913.html
+728,Lobsters,law,"Law, patents, and licensing",Sneaky Change to the TPP Drastically Extends Criminal Penalties,https://www.eff.org/deeplinks/2016/02/sneaky-change-tpp-drastically-extends-criminal-penalties
+729,Lobsters,law,"Law, patents, and licensing",The President’s NSA Advisory Board Finally Gets a Tech Expert,http://www.wired.com/2016/02/the-presidents-nsa-advisory-board-finally-gets-a-tech-expert/
+730,Lobsters,law,"Law, patents, and licensing",The Federal Circuit Sticks to Its Guns: Patent Owners Can Prevent You From Owning Anything,https://www.eff.org/deeplinks/2016/02/federal-circuit-sticks-its-guns-patent-owners-can-prevent-you-owning-anything
+731,Lobsters,law,"Law, patents, and licensing",Unhappy Birthday Suspended,https://mako.cc/copyrighteous/unhappy-birthday-suspended
+732,Lobsters,law,"Law, patents, and licensing",Wikimedia removes The Diary of Anne Frank due to copyright law,http://blog.wikimedia.org/2016/02/10/anne-frank-diary-removal/
+733,Lobsters,law,"Law, patents, and licensing",Congress Starts to Get Serious About Online Privacy,http://www.nytimes.com/2016/02/07/opinion/congress-starts-to-get-serious-about-online-privacy.html
+734,Lobsters,law,"Law, patents, and licensing","House bill would kill state, local bills that aim to weaken smartphone crypto",http://arstechnica.com/tech-policy/2016/02/house-bill-would-kill-state-local-bills-that-aim-to-weaken-smartphone-crypto/
+735,Lobsters,law,"Law, patents, and licensing",15 Frequent Tax Mistakes of Self-Employed Developers,http://trevormckendrick.com/15-frequent-tax-mistakes-made-by-developers/
+736,Lobsters,law,"Law, patents, and licensing",Citizen-built technology tracks Locust Avenue speeders,http://www.cvilletomorrow.org/news/article/22908-locust-avenue-speeding/
+737,Lobsters,law,"Law, patents, and licensing",T-Mobile’s Binge On Violates Key Net Neutrality Principles,http://cyberlaw.stanford.edu/downloads/vanSchewick-2016-Binge-On-Report.pdf
+738,Lobsters,law,"Law, patents, and licensing","After being sued for $3m, I'm moving on from torrents.",http://blog.getstrike.net/post/138192622233/were-moving-away-from-torrents-so-whats-next
+739,Lobsters,law,"Law, patents, and licensing",Frequently Asked Questions about Christoph Hellwig's VMware Lawsuit,https://sfconservancy.org/copyleft-compliance/vmware-lawsuit-faq.html
+740,Lobsters,law,"Law, patents, and licensing","""No Cost"" License Plate Readers Are Turning Texas Police into Mobile Debt Collectors and Data Miners",https://www.eff.org/deeplinks/2016/01/no-cost-license-plate-readers-are-turning-texas-police-mobile-debt-collectors-and
+741,Lobsters,law,"Law, patents, and licensing","My Device, My Body, My Data",https://medium.com/access-matters/my-device-my-body-my-data-4e158f8dfcec
+742,Lobsters,law,"Law, patents, and licensing",Lamb chop weight enforcers want warrantless access to Australians’ metadata,http://www.theguardian.com/world/2016/jan/19/lamb-chop-weight-enforcers-want-warrantless-access-to-australians-metadata
+743,Lobsters,law,"Law, patents, and licensing",Freedom in My Heart and Everywhere: Lessons from a Cyborg Lawyer (2014),https://www.youtube.com/watch?v=DcHFQ53iykg
+744,Lobsters,law,"Law, patents, and licensing",Linux Foundation quietly drops community representation,http://mjg59.dreamwidth.org/39546.html
+745,Lobsters,law,"Law, patents, and licensing",EFF Pries More Information on Zero Days from the Government’s Grasp,https://www.eff.org/deeplinks/2016/01/eff-pries-more-transparency-zero-days-governments-grasp
+746,Lobsters,law,"Law, patents, and licensing",MakeHuman License (and how AGPL screws up everything),http://www.makehuman.org/license_explanation.php
+747,Lobsters,law,"Law, patents, and licensing",Read the TPP,https://www.readthetpp.com/
+748,Lobsters,law,"Law, patents, and licensing",Legal Issues in Police Searches of the Cloud by Hash,https://www.justsecurity.org/28752/keystrokes-solve-crime-press-enter/
+749,Lobsters,law,"Law, patents, and licensing","You Can't Destroy the Village to Save It: W3C vs DRM, Round Two",https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two
+750,Lobsters,law,"Law, patents, and licensing",French Secretary of State says encryption backdoors are 'not the right solution',http://www.dailydot.com/politics/france-encryption-backdoors-secretary-of-state-rejection-crypto-wars/
+751,Lobsters,law,"Law, patents, and licensing",The Dragnet,http://www.theverge.com/2016/1/13/10758380/stingray-surveillance-device-daniel-rigmaiden-case
+752,Lobsters,law,"Law, patents, and licensing",The Economics and Politics of Free Basics · /log/thoughts,https://thlog.anfedorov.com/post/free-basics/
+753,Lobsters,law,"Law, patents, and licensing",The new way police are surveilling you: Calculating your threat ‘score’,https://www.washingtonpost.com/local/public-safety/the-new-way-police-are-surveilling-you-calculating-your-threat-score/2016/01/10/e42bccac-8e15-11e5-baf4-bdf37355da0c_story.html
+754,Lobsters,law,"Law, patents, and licensing",The Hacker's Manifesto turns 30 today,http://phrack.org/issues/7/3.html#article
+755,Lobsters,law,"Law, patents, and licensing",Court Allows Shutterfly Facial Recognition Suit to Proceed,http://www.computerworld.com/article/3020457/data-privacy/court-rules-shutterfly-may-have-violated-privacy-by-scanning-face-photos.html
+756,Lobsters,law,"Law, patents, and licensing",Replacing Judgment with Algorithms,https://www.schneier.com/blog/archives/2016/01/replacing_judgm.html
+757,Lobsters,law,"Law, patents, and licensing",Computer Program Copyrighted for First Time (1964),http://www.nytimes.com/1964/05/08/computer-program-copyrighted-for-first-time.html
+758,Lobsters,law,"Law, patents, and licensing","Sun, Oracle, Android, Google and JDK Copyleft FUD",http://ebb.org/bkuhn/blog/2016/01/05/jdk-in-android.html
+759,Lobsters,law,"Law, patents, and licensing",Obtaining an ERN when submitting to the App Store with encrytion,https://carouselapps.com/2015/12/15/legally-submit-app-apples-app-store-uses-encryption-obtain-ern/
+760,Lobsters,law,"Law, patents, and licensing",Cybersecurity as Realpolitik (2014),http://geer.tinho.net/geer.blackhat.6viii14.txt
+761,Lobsters,law,"Law, patents, and licensing",Propaganda Games: Sesame Credit - The True Danger of Gamification,https://www.youtube.com/watch?v=lHcTKWiZ8sI
+762,Lobsters,law,"Law, patents, and licensing",Stupid Patent of the Month: Microsoft’s Design Patent on a Slider,https://www.eff.org/deeplinks/2015/12/stupid-patent-month-microsofts-design-patent-slider
+763,Lobsters,law,"Law, patents, and licensing",The Perfect Storm in Digital Law,http://alistapart.com/article/the-perfect-storm-in-digital-law
+764,Lobsters,law,"Law, patents, and licensing",1988 Atari DRAM Resale Operation Revealed by FBI,http://www.atariarchives.org/atarileaks/
+765,Lobsters,law,"Law, patents, and licensing",Pirate Bay Founder Builds The Ultimate Piracy Machine,https://torrentfreak.com/pirate-bay-founder-builds-the-ultimate-piracy-machine-151219/
+766,Lobsters,law,"Law, patents, and licensing",Using Law Against Technology,https://www.schneier.com/blog/archives/2015/12/using_law_again.html
+767,Lobsters,law,"Law, patents, and licensing",EFF to Court: Lifetime GPS Tracking Violates the Fourth Amendment,https://www.eff.org/deeplinks/2015/12/eff-court-lifetime-gps-tracking-violates-fourth-amendment
+768,Lobsters,law,"Law, patents, and licensing",TSA Reducing Body Scanner Opt-Outs,https://www.dhs.gov/sites/default/files/publications/privacy-tsa-pia-32-d-ait.pdf
+769,Lobsters,law,"Law, patents, and licensing",GPL enforcement is a social good,https://mjg59.dreamwidth.org/38992.html
+770,Lobsters,law,"Law, patents, and licensing","Comcast, AT&T, and T-Mobile must explain data cap exemptions to FCC",http://arstechnica.com/business/2015/12/comcast-att-and-t-mobile-must-explain-data-cap-exemptions-to-fcc/
+771,Lobsters,law,"Law, patents, and licensing",A Secret Catalogue of Government Gear for Spying on Your Cellphone,https://theintercept.com/2015/12/17/a-secret-catalogue-of-government-gear-for-spying-on-your-cellphone/
+772,Lobsters,law,"Law, patents, and licensing",How To Predict Bad Cops In Chicago,http://fivethirtyeight.com/features/how-to-predict-which-chicago-cops-will-commit-misconduct/
+773,Lobsters,law,"Law, patents, and licensing",Namco's patent on loading screen games expires today,http://www.gameplanet.com.au/news/g565b7471541a1/Namcos-patent-on-loading-screen-games-expires-today/
+774,Lobsters,law,"Law, patents, and licensing",U.S. Congress Slips CISA Into a Budget Bill That’s Sure to Pass,http://www.wired.com/2015/12/congress-slips-cisa-into-omnibus-bill-thats-sure-to-pass/
+775,Lobsters,law,"Law, patents, and licensing",Letter to SCOTUS from professional physicists,https://docs.google.com/forms/d/1t-ufGIGT0t6HZPvn5HjNtdWDfmjCsEj61Sm9SJaMbFQ/viewform?c=0&w=1
+776,Lobsters,law,"Law, patents, and licensing",Cybersecurity Researchers Are Hunted from All Sides,http://motherboard.vice.com/read/cybersecurity-researchers-are-hunted-from-all-sides
+777,Lobsters,law,"Law, patents, and licensing",The Moral Failure of Computer Scientists,http://www.theatlantic.com/technology/archive/2015/12/the-moral-failure-of-computer-science/420012/?single_page=true
+778,Lobsters,law,"Law, patents, and licensing","France will not ban Wi-Fi or Tor, prime minister says",http://www.dailydot.com/politics/france-tor-wifi-pm-no-ban/
+779,Lobsters,law,"Law, patents, and licensing","Government, Can You Hear Me Now? Cell-site Simulators Aren’t Secret Anymore",https://www.eff.org/deeplinks/2015/12/government-can-you-hear-me-now-cell-site-simulators-arent-secret-anymore
+780,Lobsters,law,"Law, patents, and licensing","No Matter What the FBI Says, Compromising Encryption IS a Technical Issue",https://www.eff.org/deeplinks/2015/12/no-matter-what-fbi-says-compromising-encryption-technical-issue
+781,Lobsters,law,"Law, patents, and licensing",Debian developer detained for being an activist when returning to France,https://people.debian.org/~lunar/blog/posts/everyone_can_be_a_target/
+782,Lobsters,law,"Law, patents, and licensing",The Moral Character of Cryptographic Work,http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf
+783,Lobsters,law,"Law, patents, and licensing",Legal Systems Very Different From Ours,http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html
+784,Lobsters,law,"Law, patents, and licensing","SEC Complaint: Homero Joshua Garza, Gaw Miners, LLC, and Zenminer, LLC d/b/a Zen Cloud",https://www.sec.gov/litigation/complaints/2015/comp23415.pdf
+785,Lobsters,law,"Law, patents, and licensing",In Solidarity with Library Genesis and Sci-hub,http://custodians.online/
+786,Lobsters,law,"Law, patents, and licensing",Sued for using HTTPS: Big brands told to cough up in crypto patent fight,http://www.theregister.co.uk/2015/12/01/cryptopeak_sues_/
+787,Lobsters,law,"Law, patents, and licensing","A Decade-Old Gag Order, Lifted",https://www.aclu.org/blog/speak-freely/decade-old-gag-order-lifted
+788,Lobsters,law,"Law, patents, and licensing",Software Freedom Conservancy Launches 2015 Fundraiser,http://sfconservancy.org/news/2015/nov/23/2015fundraiser/
+789,Lobsters,law,"Law, patents, and licensing",Supported Source - Great Software Projects Deserve Great Support,http://supportedsource.org/
+790,Lobsters,law,"Law, patents, and licensing",OSI-approved Fair license,https://opensource.org/licenses/Fair
+791,Lobsters,law,"Law, patents, and licensing",Fair Source License,https://fair.io/
+792,Lobsters,law,"Law, patents, and licensing","Baseless Calls to Expand Surveillance Fit Familiar, Cynical Pattern",https://www.eff.org/deeplinks/2015/11/baseless-calls-expand-surveillance-fit-familiar-cynical-pattern
+793,Lobsters,law,"Law, patents, and licensing",Speeding Is a Big Problem Where Police Stopped Google Car for Slow Driving,http://www.streetsblog.net/2015/11/16/speeding-is-a-big-problem-where-police-stopped-google-car-for-slow-driving/
+794,Lobsters,law,"Law, patents, and licensing",Chip Credit Cards Give Retailers Another Grievance Against Banks,http://mobile.nytimes.com/2015/11/17/business/chip-credit-cards-give-retailers-another-grievance-against-banks.amp.html?_r=0
+795,Lobsters,law,"Law, patents, and licensing",Virus embedded into police body camera,http://www.goipower.com/?pageId=40
+796,Lobsters,law,"Law, patents, and licensing",Naruto v. Slater,https://www.scribd.com/doc/289137812/Naruto-v-David-John-Slater-Motion-to-Dismiss
+797,Lobsters,law,"Law, patents, and licensing",f.lux is no longer available for iOS,https://justgetflux.com/sideload/#notanymore
+798,Lobsters,law,"Law, patents, and licensing","Court Docs Show a University Helped FBI Bust Silk Road 2, Child Porn Suspects",http://motherboard.vice.com/read/court-docs-show-a-university-helped-fbi-bust-silk-road-2-child-porn-suspects
+799,Lobsters,law,"Law, patents, and licensing","Is it just a game mod, or is it “facilitating piracy”?",http://arstechnica.com/gaming/2015/08/is-it-just-a-game-mod-or-is-it-facilitating-piracy/
+800,Lobsters,law,"Law, patents, and licensing",Why People Keep Trying to Erase the Hollywood Sign From Google Maps,http://gizmodo.com/why-people-keep-trying-to-erase-the-hollywood-sign-from-1658084644
+801,Lobsters,law,"Law, patents, and licensing",Ancillary Copyright 2.0: The European Commission is preparing a frontal attack on the hyperlink,https://juliareda.eu/2015/11/ancillary-copyright-2-0-the-european-commission-is-preparing-a-frontal-attack-on-the-hyperlink/
+802,Lobsters,law,"Law, patents, and licensing",Emulation & Virtualization as Preservation Strategies,http://blog.dshr.org/2015/11/emulation-virtualization-as.html
+803,Lobsters,law,"Law, patents, and licensing",What software developers should learn from the VW diesel scandal,https://technical.ly/philly/2015/11/02/what-software-developers-should-learn-from-the-vw-diesel-scandal/
+804,Lobsters,law,"Law, patents, and licensing",Indian Govt. adopts open source,http://tuxdiary.com/2015/11/02/indian-govt-adopts-open-source/
+805,Lobsters,law,"Law, patents, and licensing",Crypto Rebels (1993),http://www.wired.com/1993/02/crypto-rebels/
+806,Lobsters,law,"Law, patents, and licensing",EFF asks appeals court to “shut down the Eastern District of Texas”,http://arstechnica.com/tech-policy/2015/10/eff-asks-appeals-court-to-shut-down-the-eastern-district-of-texas/
+807,Lobsters,law,"Law, patents, and licensing",EFF Disappointed as CISA Passes Senate,https://www.eff.org/deeplinks/2015/10/eff-disappointed-cisa-passes-senate
+808,Lobsters,law,"Law, patents, and licensing",EFF Wins Petition to Inspect and Modify Car Software (and others),https://supporters.eff.org/civicrm/mailing/view?reset=1&id=1234
+809,Lobsters,law,"Law, patents, and licensing",The E.U. Just Passed A Net Neutrality Bill That Isn't Very Neutral,http://fortune.com/2015/10/27/this-is-what-the-e-u-thinks-is-net-neutrality/
+810,Lobsters,law,"Law, patents, and licensing",Securing WiFi routers,http://blog.dshr.org/2015/10/securing-wifi-routers.html
+811,Lobsters,law,"Law, patents, and licensing","Warrantless airport seizure of laptop “cannot be justified,” US judge rules",http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/
+812,Lobsters,law,"Law, patents, and licensing",Policy.Byte: Governments Weakening Encryption,http://www.youtube.com/watch?v=SRUwEpiec7M
+813,Lobsters,law,"Law, patents, and licensing",Cops are asking Ancestry.com and 23andMe for their customers' DNA,http://fusion.net/story/215204/law-enforcement-agencies-are-asking-ancestry-com-and-23andme-for-their-customers-dna/
+814,Lobsters,law,"Law, patents, and licensing",There's No DRM in JPEG—Let's Keep It That Way,https://www.eff.org/deeplinks/2015/10/theres-no-drm-jpeg-lets-keep-it-way
+815,Lobsters,law,"Law, patents, and licensing","GCHQ can monitor MPs' communications, court rules",http://www.theguardian.com/world/2015/oct/14/gchq-monitor-communications-mps-peers-tribunal-wilson-doctrine
+816,Lobsters,law,"Law, patents, and licensing",Volkswagen,http://blog.cleancoder.com/uncle-bob/2015/10/14/VW.html
+817,Lobsters,law,"Law, patents, and licensing",How I Teach Gerrymandering,http://mitesp.tumblr.com/post/130793404248/how-i-teach-gerrymandering
+818,Lobsters,law,"Law, patents, and licensing",'Great Pause' Among Prosecutors As DNA Proves Fallible,http://www.npr.org/2015/10/09/447202433/-great-pause-among-forensic-scientists-as-dna-proves-fallible
+819,Lobsters,law,"Law, patents, and licensing",Did I Just Give My #Permission? The Hashtag as Consent,http://blog.photoshelter.com/2015/09/did-i-just-give-my-permission-the-hashtag-as-consent/
+820,Lobsters,law,"Law, patents, and licensing",Phpunit Volkswagon Extension,https://github.com/hmlb/phpunit-vw
+821,Lobsters,law,"Law, patents, and licensing",East Texas judge throws out 168 patent cases in one fell swoop,http://arstechnica.com/tech-policy/2015/10/east-texas-judge-throws-out-168-patent-cases-in-one-fell-swoop/
+822,Lobsters,law,"Law, patents, and licensing","Amazon stops selling Chromecast and Apple TV over Amazon Prime ""incompatability""",http://www.bloomberg.com/news/articles/2015-10-01/amazon-will-ban-sale-of-apple-google-video-streaming-devices
+823,Lobsters,law,"Law, patents, and licensing",ATM Skimmer Gang Firebombed Antivirus Firm,https://krebsonsecurity.com/2015/09/atm-skimmer-gang-firebombed-antivirus-firm/
+824,Lobsters,law,"Law, patents, and licensing","From Radio to Porn, British Spies Track Web Users’ Online Identities",https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/
+825,Lobsters,law,"Law, patents, and licensing",Obama administration quietly explored ways to bypass smartphone encryption,https://www.washingtonpost.com/world/national-security/obama-administration-ponders-how-to-seek-access-to-encrypted-data/2015/09/23/107a811c-5b22-11e5-b38e-06883aacba64_story.html
+826,Lobsters,law,"Law, patents, and licensing",What Happens Next Will Amaze You,http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
+827,Lobsters,law,"Law, patents, and licensing",VW Is Said to Cheat on Diesel Emissions; U.S. Orders Big Recall,http://www.nytimes.com/2015/09/19/business/volkswagen-is-ordered-to-recall-nearly-500000-vehicles-over-emissions-software.html
+828,Lobsters,law,"Law, patents, and licensing",Apple and Other Tech Companies Tangle With U.S. Over Data Access,http://www.nytimes.com/2015/09/08/us/politics/apple-and-other-tech-companies-tangle-with-us-over-access-to-data.html
+829,Lobsters,law,"Law, patents, and licensing",the peculiar libretunnel situation,http://www.tedunangst.com/flak/post/the-peculiar-libretunnel-situation
+830,Lobsters,law,"Law, patents, and licensing",Bitcoin and the Uniform Commercial Code,http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2649441
+831,Lobsters,law,"Law, patents, and licensing",Comments on the Alliance for Open Media,http://xiphmont.livejournal.com/67752.html
+832,Lobsters,law,"Law, patents, and licensing",A court just made it easier for the government to sue companies for getting hacked,http://www.washingtonpost.com/news/the-switch/wp/2015/08/24/a-court-just-made-it-easier-for-the-government-to-sue-companies-for-getting-hacked/
+833,Lobsters,law,"Law, patents, and licensing",Petition the UK Government to abandon all ideas of trying to ban strong encryption.,https://petition.parliament.uk/petitions/106369
+834,Lobsters,law,"Law, patents, and licensing","Yes, The Appeals Court Got Basically Everything Wrong In Deciding API's Are Covered By Copyright",https://www.techdirt.com/articles/20150817/11362131983/yes-appeals-court-got-basically-everything-wrong-deciding-apis-are-covered-copyright.shtml
+835,Lobsters,law,"Law, patents, and licensing","Apple, Lavabit, and Legal Intercept",http://tlog.anfedorov.com/apple-lavabit-legal-intercept
+836,Lobsters,law,"Law, patents, and licensing",Thor - a Project to Hammer Out a Royalty Free Video Codec,http://blogs.cisco.com/collaboration/world-meet-thor-a-project-to-hammer-out-a-royalty-free-video-codec
+837,Lobsters,law,"Law, patents, and licensing",Why Not Insider Trade on Every Company?,http://www.bloombergview.com/articles/2015-08-11/why-not-insider-trade-on-every-company-
+838,Lobsters,law,"Law, patents, and licensing","UK law bans making private backup copies of and ""format shifting"" copyrighted works",https://torrentfreak.com/itunes-is-illegal-under-uk-copyright-law-150805/
+839,Lobsters,law,"Law, patents, and licensing",Pennsylvania to Become First State to Use “Precrime” Statistics in Criminal Sentencing,http://www.infowars.com/pennsylvania-to-become-first-state-to-use-precrime-statistics-in-criminal-sentencing/
+840,Lobsters,law,"Law, patents, and licensing","The ""Tapper"" videogame patent: a legal close reading",http://www.kmjn.org/notes/tapper_videogame_patent.html
+841,Lobsters,law,"Law, patents, and licensing",New FCC Rules May Prevent Installing OpenWRT on WiFi Routers,http://www.cnx-software.com/2015/07/27/new-fcc-rules-may-prevent-installing-openwrt-on-wifi-routers/
+842,Lobsters,law,"Law, patents, and licensing",Developer’s Silence Raises Concern About Surespot Encrypted Messenger,https://antipolygraph.org/blog/2015/06/07/developers-silence-raises-concern-about-surespot-encrypted-messenger/
+843,Lobsters,law,"Law, patents, and licensing",New H.265 Patent Pool Wants 0.5% Of Every Content Owner/Distributor's Gross Revenue,http://blog.streamingmedia.com/2015/07/new-patent-pool-wants-share-of-revenue-from-content-owners.html
+844,Lobsters,law,"Law, patents, and licensing",Universal Pictures files DMCA takedown against localhost,http://www.theregister.co.uk/2015/07/23/movie_studio_finds_pirated_jurassic_world_on_localhost/
+845,Lobsters,law,"Law, patents, and licensing",A position on licensing research software,http://www.cl.cam.ac.uk/~srk31/blog/2015/06/30/
+846,Lobsters,law,"Law, patents, and licensing",Your Ubuntu-based container image is probably a copyright violation,http://mjg59.dreamwidth.org/36312.html
+847,Lobsters,law,"Law, patents, and licensing",Improving patent quality one search at a time,http://googlepublicpolicy.blogspot.com/2015/07/good-patents-support-innovation-while.html
+848,Lobsters,law,"Law, patents, and licensing","Use of Encrypt[ion] is an ""Ancient Liberty"" Protected by the [US] Constitution (1997)",http://www.vjolt.net/vol2/issue/vol2_art2.html
+849,Lobsters,law,"Law, patents, and licensing",Cameron's Push to Ban Encryption,http://www.theguardian.com/world/2015/jul/07/uk-and-us-demands-to-access-encrypted-data-are-unprincipled-and-unworkable
+850,Lobsters,law,"Law, patents, and licensing","""Seeing Like a Geek"": politics and open data",http://crookedtimber.org/2012/06/25/seeing-like-a-geek/
+851,Lobsters,law,"Law, patents, and licensing",Why Google's new patent applications for machine learning methods are alarming,https://www.reddit.com/r/MachineLearning/comments/3cbui2/why_googles_new_patent_applications_are_alarming/
+852,Lobsters,law,"Law, patents, and licensing",California fiber optic cable vandalism continues unabated,http://arstechnica.com/tech-policy/2015/07/california-fiber-optic-cable-vandalism-continues-unabated/
+853,Lobsters,law,"Law, patents, and licensing",The dark side of .io: How the U.K. is making web domain profits from a shady Cold War land deal,https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/
+854,Lobsters,law,"Law, patents, and licensing",Supreme Court Denies Google Appeal on Oracle Suit,http://thenextweb.com/insider/2015/06/29/google-denied-appeal-by-us-supreme-court-in-oracle-copyright-case/
+855,Lobsters,law,"Law, patents, and licensing",DOJ Warns Airwaves Auction Could Impede Competition,http://www.wsj.com/articles/doj-warns-airwaves-auction-could-impede-competition-1435261430
+856,Lobsters,law,"Law, patents, and licensing",Cell Site Simulator use by San Francisco Police Department,https://www.muckrock.com/foi/san-francisco-141/cell-site-simulator-use-by-san-francisco-police-department-18573/
+857,Lobsters,law,"Law, patents, and licensing",Let’s Ban Non-Compete Agreements,https://www.onshape.com/cad-blog/lets-ban-non-compete-agreements
+858,Lobsters,law,"Law, patents, and licensing",l0pht Testifying at the United States Senate (1998),http://www.youtube.com/watch?v=VVJldn_MmMY
+859,Lobsters,law,"Law, patents, and licensing",Interconnection Feuds Mysteriously End As Neutrality Rules Loom,http://www.dslreports.com/shownews/Interconnection-Feuds-Mysteriously-End-As-Neutrality-Rules-Loom-134103
+860,Lobsters,law,"Law, patents, and licensing",Why you have the right to obscurity,http://www.csmonitor.com/World/Passcode/Passcode-Voices/2015/0415/Why-you-have-the-right-to-obscurity
+861,Lobsters,law,"Law, patents, and licensing","The Texas Instruments TMX 1795: the first, forgotten microprocessor",http://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html
+862,Lobsters,law,"Law, patents, and licensing",Choosing a License for Mailpile 1.0,https://www.mailpile.is/blog/2015-05-08_Choosing_a_License.html
+863,Lobsters,law,"Law, patents, and licensing","NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says",https://firstlook.org/theintercept/2015/05/07/appellate-court-rules-nsas-bulk-collection-phone-records-illegal/
+864,Lobsters,law,"Law, patents, and licensing",Ex-Goldman Sachs Programmer Found Guilty in Split Verdict,http://www.nytimes.com/2015/05/02/business/dealbook/ex-goldman-programmer-found-guilty.html
+865,Lobsters,law,"Law, patents, and licensing",The Man Who Broke the Music Business,http://www.newyorker.com/magazine/2015/04/27/the-man-who-broke-the-music-business
+866,Lobsters,law,"Law, patents, and licensing",Adblocking declared legal in Germany,https://adblockplus.org/blog/restating-the-obvious-adblocking-declared-legal
+867,Lobsters,law,"Law, patents, and licensing",We Can't Let John Deere Destroy the Very Idea of Ownership,http://www.wired.com/2015/04/dmca-ownership-john-deere/
+868,Lobsters,law,"Law, patents, and licensing","FBI can't cut Internet and pose as cable guy to search property, judge says",http://arstechnica.com/tech-policy/2015/04/fbi-cant-cut-internet-and-pose-as-cable-guy-to-search-property-judge-says/
+869,Lobsters,law,"Law, patents, and licensing",Updating Our Open Source Patent Grant,https://code.facebook.com/posts/1639473982937255/updating-our-open-source-patent-grant/
+870,Lobsters,law,"Law, patents, and licensing",War on Hackers: a Clear and Present Danger,http://blog.erratasec.com/2015/04/war-on-hackers-clear-and-present-danger.html
+871,Lobsters,law,"Law, patents, and licensing","The French Civil Code, in Git",https://github.com/steeve/france.code-civil
+872,Lobsters,law,"Law, patents, and licensing","DEA Agents Charged with Defrauding, Informing to, and Blackmailing Silk Road",https://s3.amazonaws.com/s3.documentcloud.org/documents/1697973/charges-against-former-federal-agents-in-silk.pdf
+873,Lobsters,law,"Law, patents, and licensing",Amazon makes even temporary warehouse workers sign 18-month non-competes,http://www.theverge.com/2015/3/26/8280309/amazon-warehouse-jobs-exclusive-noncompete-contracts
+874,Lobsters,law,"Law, patents, and licensing","DST starts in USA & Canada on Sunday, March 8, 2015; Areas with no DST; Recent Bills to Abolish DST",http://www.timeanddate.com/news/time/usa-canada-start-dst-2015.html
+875,Lobsters,law,"Law, patents, and licensing",The time has come to stand up for the GPL,http://sfconservancy.org/linux-compliance/vmware-lawsuit-appeal.html
+876,Lobsters,law,"Law, patents, and licensing",Sonic CEO: I Welcome Being Regulated As A Common Carrier,http://www.dslreports.com/shownews/Sonic-CEO-I-Welcome-Being-Regulated-As-A-Common-Carrier-132800
+877,Lobsters,law,"Law, patents, and licensing","FCC votes for net neutrality, a ban on paid fast lanes, and Title II",http://arstechnica.com/business/2015/02/fcc-votes-for-net-neutrality-a-ban-on-paid-fast-lanes-and-title-ii/
+878,Lobsters,law,"Law, patents, and licensing",Bell Canada Sues DSLReports Readers That Criticized Company,https://secure.dslreports.com/shownews/Bell-Takes-Aim-At-DSLReports-Readers-That-Criticized-Company-132749
+879,Lobsters,law,"Law, patents, and licensing",The World's Most Idiotic Copyright Complaint,http://torrentfreak.com/the-worlds-most-idiotic-copyright-complaint-150222/
+880,Lobsters,law,"Law, patents, and licensing",Hacker Claims Feds Hit Him With 44 Felonies When He Refused to Be an FBI Spy,http://www.wired.com/2015/02/hacker-claims-feds-hit-44-felonies-refused-fbi-spy/
+881,Lobsters,law,"Law, patents, and licensing","Patent troll claims to own Bluetooth, scores $15.7M verdict against Samsung",http://arstechnica.com/tech-policy/2015/02/patent-troll-claims-to-own-bluetooth-scores-15-7m-verdict-against-samsung/
+882,Lobsters,law,"Law, patents, and licensing",President Obama: I'm A Big Believer In Strong Encryption... But...,https://www.techdirt.com/articles/20150215/07152330024/president-obama-im-big-believer-encryption.shtml
+883,Lobsters,law,"Law, patents, and licensing",Despicable SPI,http://aruiz.synaptia.net/siliconisland/2015/02/despicable-spi.html
+884,Lobsters,law,"Law, patents, and licensing",FCC Chairman Tom Wheeler: This Is How We Will Ensure Net Neutrality,http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/
+885,Lobsters,law,"Law, patents, and licensing",The NFL wants you to think these things are illegal,http://arstechnica.com/tech-policy/2015/01/the-nfl-wants-you-to-think-these-things-are-illegal/
+886,Lobsters,law,"Law, patents, and licensing",The FCC has changed the definition of broadband (25Mbps/3Mbps),http://www.theverge.com/2015/1/29/7932653/fcc-changed-definition-broadband-25mbps
+887,Lobsters,law,"Law, patents, and licensing",On Scraper Capitalism,http://greg.org/archive/2014/12/27/on_scraper_capitalism.html
+888,Lobsters,law,"Law, patents, and licensing",TLDRLegal - Software Licenses Explained in Plain English,https://tldrlegal.com/
+889,Lobsters,law,"Law, patents, and licensing",Obama’s proposed changes to the computer hacking statute: a deep dive,http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/14/obamas-proposed-changes-to-the-computer-hacking-statute-a-deep-dive/?postshare=4001421228750202
+890,Lobsters,law,"Law, patents, and licensing",2015: The Year We Get Loading Screen Mini-Games Back,http://gamasutra.com/blogs/DavidHoppe/20150109/233806/2015_The_Year_We_Get_Loading_Screen_MiniGames_Back.php?print=1
+891,Lobsters,law,"Law, patents, and licensing",Title II for Internet providers is all but confirmed by FCC chairman,http://arstechnica.com/business/2015/01/title-ii-for-internet-providers-is-all-but-confirmed-by-fcc-chairman/
+892,Lobsters,law,"Law, patents, and licensing",Youtube's joke of a fair-use appeal process,http://www.jwz.org/blog/2014/10/youtubes-joke-of-a-fair-use-appeal-process/
+893,Lobsters,law,"Law, patents, and licensing",Bad Microsoft,http://badmicrosoft.com/
+894,Lobsters,law,"Law, patents, and licensing",Slack is now forcing users into arbitration and that is terrible,https://konklone.com/post/slack-is-now-forcing-users-into-arbitration-and-that-is-terrible
+895,Lobsters,law,"Law, patents, and licensing","Behind Closed Doors, Ford, UPS, and Visa Push for Net Neutrality",http://www.businessweek.com/articles/2014-11-14/net-neutrality-ford-ups-visa-and-bofa-lobby-fcc-in-secret
+896,Lobsters,law,"Law, patents, and licensing","The tortuous, complex politics behind getting your terminal colors right",http://invisible-island.net/ncurses/ncurses-license.html
+897,Lobsters,law,"Law, patents, and licensing",Help the GNOME Foundation defend the GNOME trademark,http://gnome.org/groupon/
+898,Lobsters,law,"Law, patents, and licensing","President Obama Calls For A Free And Open Internet, Wants It Reclassified As A Utility",http://techcrunch.com/2014/11/10/president-obama-calls-for-a-free-and-open-internet-wants-it-reclassified-as-a-utility/
+899,Lobsters,law,"Law, patents, and licensing",Find Shellshock Exploit Attempts & Probes From the Command Line and Papertrail,https://longren.io/find-shellshock-attempts-probes-with-papertrail/
+900,Lobsters,law,"Law, patents, and licensing",How Microsoft Appointed Itself Sheriff of the Internet,http://www.wired.com/2014/10/microsoft-pinkerton/
+901,Lobsters,law,"Law, patents, and licensing",Audio of this morning's NSL hearing in [UNDER SEAL] v. Holder,http://www.ca9.uscourts.gov/media/view.php?pk_id=0000013407
+902,Lobsters,law,"Law, patents, and licensing",Finding a Video Poker Bug Made These Guys Rich - Then Vegas Made Them Pay,http://www.wired.com/2014/10/cheating-video-poker/
+903,Lobsters,law,"Law, patents, and licensing",Shen Under BSD,http://www.shenlanguage.org/shenbsd.htm
+904,Lobsters,law,"Law, patents, and licensing",Marriott to Pay $600K to Resolve WiFi-Blocking Investigation,https://www.fcc.gov/document/marriott-pay-600k-resolve-wifi-blocking-investigation
+905,Lobsters,law,"Law, patents, and licensing","""Not"" Neutrality?",http://blog.level3.com/open-internet/not-neutrality/
+906,Lobsters,law,"Law, patents, and licensing","Free Software Foundation statement on the GNU Bash ""shellshock"" vulnerability",http://www.fsf.org/news/free-software-foundation-statement-on-the-gnu-bash-shellshock-vulnerability
+907,Lobsters,law,"Law, patents, and licensing","Apple’s “warrant canary” disappears, suggesting new Patriot Act demands",https://gigaom.com/2014/09/18/apples-warrant-canary-disappears-suggesting-new-patriot-act-demands/
+908,Lobsters,law,"Law, patents, and licensing",Twitpic is shutting down following Twitter legal threats,http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/
+909,Lobsters,law,"Law, patents, and licensing",Judge Koh Dismisses the Bulk of the Yahoo Email Scanning Class Action,http://blog.ericgoldman.org/archives/2014/08/judge-koh-dismisses-the-bulk-of-the-yahoo-email-scanning-class-action.htm
+910,Lobsters,law,"Law, patents, and licensing",Līberum Cōnsilium: A system design for moderated deliberation.,https://bytebucket.org/djarvis/world-politics/raw/master/xml/tex/manual.pdf
+911,Lobsters,law,"Law, patents, and licensing",Introducing EFF's Stupid Patent of the Month,https://www.eff.org/deeplinks/2014/07/inaugural-stupid-patent-month
+912,Lobsters,law,"Law, patents, and licensing",Interpretation of the Special Rule for Model Aircraft,http://www.regulations.gov/#!documentDetail;D=FAA-2014-0396-0001
+913,Lobsters,law,"Law, patents, and licensing",Congress’s Sneaky Move to Shut Down Broadband Competition,https://www.eff.org/deeplinks/2014/07/act-immediately-stop-congresss-sneaky-move-shut-down-broadband-competition
+914,Lobsters,law,"Law, patents, and licensing",Where's Google in the Net Neutrality Fight?,http://recode.net/2014/07/03/wheres-google-in-the-net-neutrality-fight/
+915,Lobsters,law,"Law, patents, and licensing",The new 501(c)(3) and the future of free software in the United States,http://blogs.gnome.org/jnelson/2014/06/30/the-new-501c3-and-the-future-of-free-software-in-the-united-states/
+916,Lobsters,law,"Law, patents, and licensing","Amazon sues former employee for taking Google cloud job, in new test of non-compete deals",http://www.geekwire.com/2014/amazon-sues-employee-taking-google-cloud-job-new-test-non-compete-laws/
+917,Lobsters,law,"Law, patents, and licensing",Paypal Freezes ProtonMail Campaign Funds,https://protonmail.ch/blog/paypal-freezes-protonmail-campaign-funds/
+918,Lobsters,law,"Law, patents, and licensing",Solid Legal Ground for Open Source,http://osdelivers.blackducksoftware.com/2014/06/24/solid-legal-ground-for-open-source/
+919,Lobsters,law,"Law, patents, and licensing",A great workaround for China's 'Great Firewall'?,http://www.csmonitor.com/World/Asia-Pacific/2014/0613/A-great-workaround-for-China-s-Great-Firewall
+920,Lobsters,law,"Law, patents, and licensing",All Our Patent Are Belong To You,http://www.teslamotors.com/blog/all-our-patent-are-belong-you
+921,Lobsters,law,"Law, patents, and licensing",Broadening Node.js Contributions,http://www.joyent.com/blog/broadening-node-js-contributions
+922,Lobsters,law,"Law, patents, and licensing",Cable Companies Are Astroturfing Fake Consumer Support to End Net Neutrality,http://www.vice.com/read/cables-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality
+923,Lobsters,law,"Law, patents, and licensing",Judge Releases Information about Police Use of Stingray Cell Phone Trackers,https://www.aclu.org/blog/national-security-technology-and-liberty/victory-judge-releases-information-about-police-use
+924,Lobsters,law,"Law, patents, and licensing",Google and “the right to be forgotten”.,http://blog.vrypan.net/2014/05/31/google-and-the-right-to-be-forgotten/
+925,Lobsters,law,"Law, patents, and licensing","Secrets, lies and Snowden’s email: why I was forced to shut down Lavabit",http://www.theguardian.com/commentisfree/2014/may/20/why-did-lavabit-shut-down-snowden-email
+926,Lobsters,law,"Law, patents, and licensing",Do You Know What's Going in Your Amazon Shopping Cart?,http://online.wsj.com/articles/on-amazon-pooled-merchandise-opens-door-to-knockoffs-1399852852
+927,Lobsters,law,"Law, patents, and licensing",Against intellectual property (1995),https://www.uow.edu.au/~bmartin/pubs/95psa.html
+928,Lobsters,law,"Law, patents, and licensing","Apple, Google settle smartphone patent litigation",http://ca.reuters.com/article/businessNews/idCABREA4F0S020140516
+929,Lobsters,law,"Law, patents, and licensing",Privacy Claims Based on LinkedIn’s Security Promises Survive Motion to Dismiss,http://blog.ericgoldman.org/archives/2014/05/privacy-claims-based-on-linkedins-security-promises-survive-motion-to-dismiss.htm
+930,Lobsters,law,"Law, patents, and licensing",Oracle continue to circumvent EXPORT_SYMBOL_GPL(),http://mjg59.dreamwidth.org/31357.html
+931,Lobsters,law,"Law, patents, and licensing",Why and how we put our terms of service on github.,http://blog.vrypan.net/2014/05/05/terms-of-service-on-github/
+932,Lobsters,law,"Law, patents, and licensing",Level 3: Observations of an Internet Middleman,http://blog.level3.com/global-connectivity/observations-internet-middleman/
+933,Lobsters,law,"Law, patents, and licensing",Sharecropping for Coursera,http://www.roughtype.com/?p=4464
+934,Lobsters,law,"Law, patents, and licensing",The FCC’s New Net Neutrality Proposal Is Even Worse Than You Think,http://www.slate.com/blogs/future_tense/2014/04/24/fcc_s_new_net_neutrality_proposal_is_even_worse_than_you_think.html
+935,Lobsters,law,"Law, patents, and licensing",Thoughts on the Datomic License,http://java.dzone.com/articles/my-thoughts-datomic-license
+936,Lobsters,law,"Law, patents, and licensing","F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",http://www.nytimes.com/2014/04/24/technology/fcc-new-net-neutrality-rules.html
+937,Lobsters,law,"Law, patents, and licensing",Dear Web Developers: EFF Needs Your Help,https://www.eff.org/deeplinks/2014/04/tech-volunteers-eff-needs-your-help
+938,Lobsters,law,"Law, patents, and licensing",Weev's conviction struck down on venue,http://pdfserver.amlaw.com/nlj/auernheimer-op-usca3.pdf
+939,Lobsters,law,"Law, patents, and licensing",Warrant Canary Frequently Asked Questions,https://www.eff.org/deeplinks/2014/04/warrant-canary-faq
+940,Lobsters,law,"Law, patents, and licensing",The EU Court of Justice declares the Data Retention Directive to be invalid,http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf
+941,Lobsters,law,"Law, patents, and licensing",Yahoo! Scores Significant Win in Email-to-SMS Lawsuit,http://blog.ericgoldman.org/archives/2014/03/yahoo-scores-significant-win-in-email-to-sms-lawsuit.htm
+942,Lobsters,law,"Law, patents, and licensing",AT&T promises to lower your Internet bill if FCC kills net neutrality,http://arstechnica.com/business/2014/03/att-promises-to-lower-your-internet-bill-if-fcc-kills-net-neutrality/
+943,Lobsters,law,"Law, patents, and licensing",The Brutal Ageism of Tech,http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism
+944,Lobsters,law,"Law, patents, and licensing","Apple and Googles wage-fixing cartel involved dozens more companies, over one million employees",http://pando.com/2014/03/22/revealed-apple-and-googles-wage-fixing-cartel-involved-dozens-more-companies-over-one-million-employees/
+945,Lobsters,law,"Law, patents, and licensing",Netflix Just Opened the Door to Paying ISPs More Access Fees,http://www.businessweek.com/articles/2014-03-21/netflix-just-opened-the-door-to-paying-isps-more-access-fees
+946,Lobsters,law,"Law, patents, and licensing","Fluke, we love you but you're killing us",https://www.sparkfun.com/news/1428
+947,Lobsters,law,"Law, patents, and licensing","Level 3: ""Chicken"" - A Game Played as a Child and by some ISPs with the Internet",http://blog.level3.com/global-connectivity/chicken-game-played-child-isps-internet/
+948,Lobsters,law,"Law, patents, and licensing","OpenStreetMap Isn't All That Open, Let's Change That and Drop Share-Alike",http://www.openstreetmap.org/user/lxbarth/diary/21221
+949,Lobsters,law,"Law, patents, and licensing",Engineers Allege Hiring Collusion in Silicon Valley,http://www.nytimes.com/2014/03/01/technology/engineers-allege-hiring-collusion-in-silicon-valley.html
+950,Lobsters,law,"Law, patents, and licensing",The incredible stock-picking ability of SEC employees,http://www.washingtonpost.com/blogs/wonkblog/wp/2014/02/27/the-incredible-stock-picking-ability-of-sec-employees/
+951,Lobsters,law,"Law, patents, and licensing",The Wrong Tool For the Job: Cell Phone Unlocking Bill Creates New Problems,https://www.eff.org/deeplinks/2014/02/wrong-tool-job-cell-phone-unlocking-bill-fixes-wrong-problem-and-creates-new-ones
+952,Lobsters,law,"Law, patents, and licensing",The Day the Internet Didn't Fight Back,http://bits.blogs.nytimes.com/2014/02/11/the-day-the-internet-didnt-fight-back/
+953,Lobsters,law,"Law, patents, and licensing",Why I Did Not Go To Jail,http://www.bhorowitz.com/why_i_did_not_go_to_jail
+954,Lobsters,law,"Law, patents, and licensing",California regulator seeks to shut down 'learn to code' bootcamps,http://venturebeat.com/2014/01/29/california-regulator-seeks-to-shut-down-learn-to-code-bootcamps/
+955,Lobsters,law,"Law, patents, and licensing",US makes Bitcoin exchange arrests,http://www.bbc.co.uk/news/technology-25919482
+956,Lobsters,law,"Law, patents, and licensing","Bayer CEO Marijn Dekkers: Nexavar cancer drug is for ""western patients who can afford it.""",http://keionline.org/node/1910
+957,Lobsters,law,"Law, patents, and licensing",Computer Forensics for Prosecutors,http://www.ndsaa.org/Computer_Forensics_for_Prosecutors.pdf
+958,Lobsters,law,"Law, patents, and licensing",Google set to face Intellectual Ventures in landmark patent trial,http://www.reuters.com/article/2014/01/20/us-google-iv-trial-idUSBREA0J0PC20140120
+959,Lobsters,law,"Law, patents, and licensing",Top Ten Internet Law Developments Of 2013,http://blog.ericgoldman.org/archives/2014/01/top-ten-internet-law-developments-of-2013-forbes-cross-post.htm
+960,Lobsters,law,"Law, patents, and licensing",Security Against Compelled Disclosure,http://www.apache-ssl.org/disclosure.pdf
+961,Lobsters,law,"Law, patents, and licensing",Fired? Speak No Evil,http://www.nytimes.com/2014/01/03/opinion/fired-speak-no-evil.html
+962,Lobsters,law,"Law, patents, and licensing",Facebook sued for allegedly making private messages into public “likes”,http://arstechnica.com/business/2014/01/facebook-sued-for-allegedly-making-private-messages-into-public-likes/
+963,Lobsters,law,"Law, patents, and licensing",Google sues to protect Android device makers from Apple-backed patent hell,http://gigaom.com/2013/12/24/google-sues-to-protect-android-device-makers-from-apple-backed-patent-hell/
+964,Lobsters,law,"Law, patents, and licensing",White House Tries to Prevent Judge From Ruling on Surveillance Efforts,http://www.nytimes.com/2013/12/22/us/white-house-tries-to-prevent-judge-from-ruling-on-surveillance-efforts.html
+965,Lobsters,law,"Law, patents, and licensing","US changes its mind, tells FISA Court it’s cool to publish metadata rulings",http://arstechnica.com/tech-policy/2013/12/us-changes-its-mind-tells-fisa-court-its-cool-to-publish-metadata-rulings/
+966,Lobsters,law,"Law, patents, and licensing",The National Security Agency’s oversharing problem,http://arstechnica.com/information-technology/2013/12/the-national-security-agencys-oversharing-problem/
+967,Lobsters,law,"Law, patents, and licensing","The rich do not pay the most taxes, they pay ALL the taxes",http://www.cnbc.com/id/101264757
+968,Lobsters,law,"Law, patents, and licensing",An Engineer's guide to Stock Options,http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options
+969,Lobsters,law,"Law, patents, and licensing","Meet Jack. Or, What The Government Could Do With All That Location Data",https://www.aclu.org/meet-jack-or-what-government-could-do-all-location-data
+970,Lobsters,law,"Law, patents, and licensing",Protesters block Google bus in S.F. Mission,http://blog.sfgate.com/stew/2013/12/09/protesters-block-google-bus-in-s-f-mission/
+971,Lobsters,law,"Law, patents, and licensing",Corporation not person in carpool lanes,http://www.sfgate.com/bayarea/article/Corporation-not-person-in-carpool-lanes-4173366.php
+972,Lobsters,law,"Law, patents, and licensing",Video Poker 'Hackers' Cleared of Federal Charges,http://www.wired.com/threatlevel/2013/11/video-poker-case/
+973,Lobsters,law,"Law, patents, and licensing",Did Monster Energy Make A ‘Dope’ Contract With DJ Z-Trip? Nope,http://blog.ericgoldman.org/archives/2013/11/did-monster-energy-make-a-dope-contract-with-dj-z-trip-nope-forbes-cross-post.htm
+974,Lobsters,law,"Law, patents, and licensing",A Few Thoughts on the DOJ Brief in the Lavabit Case,http://www.volokh.com/2013/11/14/thoughts-doj-brief-lavabits-case/
+975,Lobsters,law,"Law, patents, and licensing",license monads,http://joeyh.name/blog/entry/license_monads/
+976,Lobsters,law,"Law, patents, and licensing",Balaji Srinivasan at Startup School: Sillicon Valley's Ultimate Exit,http://www.youtube.com/watch?v=cOubCHLXT6A
+977,Lobsters,law,"Law, patents, and licensing","Finally, a bill to end patent trolling",http://arstechnica.com/tech-policy/2013/10/its-finally-here-a-bill-to-end-patent-trolling/
+978,Lobsters,law,"Law, patents, and licensing",Don't Copy That Floppy,https://www.youtube.com/watch?v=up863eQKGUI
+979,Lobsters,law,"Law, patents, and licensing",Apple's Fingerprint ID May Mean You Can't 'Take the Fifth',http://www.wired.com/opinion/2013/09/the-unexpected-result-of-fingerprint-authentication-that-you-cant-take-the-fifth/
+980,Lobsters,law,"Law, patents, and licensing",Documents Shed Light on Border Laptop Searches,https://www.aclu.org/blog/technology-and-liberty-immigrants-rights-national-security/documents-shed-light-border-laptop
+981,Lobsters,law,"Law, patents, and licensing",EFF Victory Results in Release of Secret Court Opinion Finding NSA Surveillance Unconstitutional,https://www.eff.org/deeplinks/2013/08/eff-victory-results-expected-release-secret-court-opinion-finding-nsa-surveillance
+982,Lobsters,law,"Law, patents, and licensing","Court Rules Accessing a Public Website Isn't A Crime, But Hiding Your IP Address Could Be",https://www.eff.org/deeplinks/2013/08/court-rules-accessing-public-website-isnt-crime-hiding-your-ip-address-could-be
+983,Lobsters,law,"Law, patents, and licensing",Forced Exposure [Groklaw shuts down],http://www.groklaw.net/article.php?story=20130818120421175
+984,Lobsters,law,"Law, patents, and licensing",Why We’re So Frustrated About The Massachusetts Software Tax,http://www.fastcolabs.com/3015446/why-were-so-frustrated-about-the-massachusetts-software-tax
+985,Lobsters,law,"Law, patents, and licensing",Trolling Effects,https://trollingeffects.org/
+986,Lobsters,law,"Law, patents, and licensing",Licensing in a Post Copyright World,http://lucumr.pocoo.org/2013/7/23/licensing/
+987,Lobsters,law,"Law, patents, and licensing",Victory Lap for Ask Patents,http://www.joelonsoftware.com/items/2013/07/22.html
+988,Lobsters,law,"Law, patents, and licensing",Federal Judge Allows EFF's NSA Mass Spying Case to Proceed,https://www.eff.org/press/releases/federal-judge-allows-effs-nsa-mass-spying-case-proceed
+989,Lobsters,law,"Law, patents, and licensing",U.S. Postal Service Logging All Mail for Law Enforcement,http://www.nytimes.com/2013/07/04/us/monitoring-of-snail-mail.html?_r=0
+990,Lobsters,law,"Law, patents, and licensing",Stop Watching Us,https://optin.stopwatching.us/
+991,Lobsters,law,"Law, patents, and licensing",Checking Your Derivers’ License - BSD License Problems,http://spin.atomicobject.com/2013/05/31/bsd-license-open-source/
+992,Lobsters,law,"Law, patents, and licensing",Computerlinks Fined for Dealing Blue Coat Surveillance Technology to Syria,https://www.eff.org/deeplinks/2013/05/blue-coat-syria-scandal-next-shoe-drops-computerlinks-fzco
+993,Lobsters,law,"Law, patents, and licensing","In reversal, judge orders suspect to decrypt hard drives",http://arstechnica.com/tech-policy/2013/05/in-reversal-judge-orders-child-porn-suspect-to-decrypt-hard-drives/
+994,Lobsters,law,"Law, patents, and licensing","Twitter granted patent on pull-to-refresh, promises to only use it defensively",http://www.theverge.com/2013/5/21/4350826/twitter-pull-to-refresh-patent-innovators-patent-agreement-announced
+995,Lobsters,law,"Law, patents, and licensing",U.S. Secretly Obtains Two Months of A.P. Phone Records,https://www.nytimes.com/aponline/2013/05/13/us/politics/ap-us-ap-phone-records-subpoena.html?hp&_r=0
+996,Lobsters,law,"Law, patents, and licensing",Landmark Steps to Liberate [US Government] Open Data,http://www.whitehouse.gov/blog/2013/05/09/landmark-steps-liberate-open-data
+997,Lobsters,law,"Law, patents, and licensing","The Term Hackathon Has Been Trademarked In Germany. Now Crawl Back Under That Rock, Please.",http://bsdly.blogspot.com/2013/05/the-term-hackathon-has-been-trademarked.html
+998,Lobsters,law,"Law, patents, and licensing",The Linkify Problem: The Patent and the Behavior,http://commonsware.com/blog/2012/07/23/linkify-problem-patent-behavior.html
+999,Lobsters,law,"Law, patents, and licensing",Use a Software Bug to Win Video Poker? That’s a Federal Hacking Case,http://www.wired.com/threatlevel/2013/05/game-king/
+1000,Lobsters,law,"Law, patents, and licensing",Who Has Your Back? 2013,https://www.eff.org/who-has-your-back-2013
+1001,Lobsters,law,"Law, patents, and licensing","U.S. gives big, secret push to Internet surveillance",http://news.cnet.com/8301-13578_3-57581161-38/u.s-gives-big-secret-push-to-internet-surveillance/
+1002,Lobsters,law,"Law, patents, and licensing",Japanese police ask ISPs to start blocking Tor,http://arstechnica.com/tech-policy/2013/04/japanese-police-ask-isps-to-start-blocking-tor/
+1003,Lobsters,law,"Law, patents, and licensing",EFF Politely Asks PTO to Stop Issuing So Many Crappy Software Patents,https://www.eff.org/deeplinks/2013/04/eff-politely-asks-pto-stop-issuing-so-many-crappy-software-patents
+1004,Lobsters,law,"Law, patents, and licensing","Abolish The Patent, Vanquish The Troll",https://www.rackspace.com/blog/abolish-the-patent-vanquish-the-troll/
+1005,Lobsters,law,"Law, patents, and licensing",Studios regret sending Google a list of every pirate site on the Internet,http://boingboing.net/2013/04/04/studios-regret-sending-google.html
+1006,Lobsters,law,"Law, patents, and licensing",U.S. Tries to Make It Easier to Wiretap the Internet,https://www.nytimes.com/2010/09/27/us/27wiretap.html?_r=2&pagewanted=all
+1007,Lobsters,law,"Law, patents, and licensing",National Security Letters (NSLs),https://www.noisebridge.net/pipermail/noisebridge-discuss/2013-March/035200.html
+1008,Lobsters,law,"Law, patents, and licensing","Federal Judge Finds National Security Letters Unconstitutional, Bans Them",http://www.wired.com/threatlevel/2013/03/nsl-found-unconstitutional/
+1009,Lobsters,law,"Law, patents, and licensing",The Copyright Propaganda Machine Gets a New Agent: Your ISP,https://www.eff.org/deeplinks/2013/02/copyright-propaganda-machine-gets-new-agent-your-isp
+1010,Lobsters,law,"Law, patents, and licensing",Looks like CISPA is Back.,https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048
+1011,Lobsters,law,"Law, patents, and licensing",Rebooting Computer Crime Law Part 1: No Prison Time For Violating Terms of Service,https://www.eff.org/deeplinks/2013/01/rebooting-computer-crime-law-part-1-no-prison-time-for-violating-terms-of-service
+1012,Lobsters,law,"Law, patents, and licensing",2012 in Review: Major Location Privacy Developments,https://www.eff.org/deeplinks/2012/12/2012-review-major-location-privacy-developments
+1013,Lobsters,law,"Law, patents, and licensing","Congress Disgracefully Approves the FISA Warrantless Spying Bill for Five More Years, Rejects All Privacy Amendments",https://www.eff.org/deeplinks/2012/12/congress-disgracefully-approves-fisa-warrantless-eavesdropping-bill-five-more
+1014,Lobsters,law,"Law, patents, and licensing",A Brooklyn Protester Pleads Guilty After His Twitter Posts Sink His Case,http://www.nytimes.com/2012/12/13/nyregion/malcolm-harris-pleads-guilty-over-2011-march.html
+1015,Lobsters,law,"Law, patents, and licensing",Tor operator charged for child porn transmitted over his servers,http://arstechnica.com/tech-policy/2012/11/tor-operator-charged-for-child-porn-transmitted-over-his-servers/
+1016,Lobsters,law,"Law, patents, and licensing",The Strange World Of Copyright Misconception,http://www.bennjordan.com/blog/?p=519
+1017,Lobsters,law,"Law, patents, and licensing","The 2012 DMCA Rulemaking: What We Got, What We Didn’t, and How to Improve the Process Next Time",https://www.eff.org/deeplinks/2012/11/2012-dmca-rulemaking-what-we-got-what-we-didnt-and-how-to-improve
+1018,Lobsters,law,"Law, patents, and licensing",How Zappos' User Agreement Failed In Court and Left Zappos Legally Naked,http://blog.ericgoldman.org/archives/2012/10/how_zappos_user.htm
+1019,Lobsters,law,"Law, patents, and licensing",The US Federal Circuit to Take on Software Patents ... Again,https://www.eff.org/deeplinks/2012/10/federal-circuit-take-on-software-patent
+1020,Lobsters,law,"Law, patents, and licensing",Federal Circuit to Consider the Patentable Subject Matter of Software,http://www.groklaw.net/article.php?story=20121009142712538
+1021,Lobsters,law,"Law, patents, and licensing",US Supreme Court Terminates Warrantless Electronic Spying Case,http://www.wired.com/threatlevel/2012/10/scotus-electronic-spying-case/
+1022,Lobsters,law,"Law, patents, and licensing","Zynga is Granted a Patent for ""Game-based incentives for location-based actions""",http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8282491.PN.&OS=PN%2F8282491&RS=PN%2F8282491
+1023,Lobsters,law,"Law, patents, and licensing",We have the ability to cache and display story text; should we?,/s/g0nxrf/we_have_ability_cache_display_story_text
+1024,Lobsters,law,"Law, patents, and licensing",Stack Exchange and Google partner with US government to battle bogus patents,http://www.theverge.com/2012/9/20/3362386/patents-prior-art-stack-exchange-ask-patents-google
+1025,Lobsters,law,"Law, patents, and licensing",Rackspace sued for hosting GitHub,http://lwn.net/Articles/516736/
+1026,Lobsters,law,"Law, patents, and licensing","To Lend is the Right of an Owner – That is, Not You.",http://www.loper-os.org/?p=918
+1027,Lobsters,law,"Law, patents, and licensing","To Make Sure Criminals Get No Location Privacy, the 6th Circuit Kills It for Everyone Else Too",https://www.eff.org/deeplinks/2012/08/to-make-sure-criminals-get-no-location-privacy-6th-cir-kills-it-everyone-else-too
+1028,Lobsters,law,"Law, patents, and licensing",An update to our search algorithms - Inside Search,http://insidesearch.blogspot.com/2012/08/an-update-to-our-search-algorithms.html
+1029,Lobsters,law,"Law, patents, and licensing","iOS Developer Appigo Is Threatening To Sue Android Apps For Using The Word ""ToDo"" In Their Names",http://www.androidpolice.com/2012/08/02/ios-developer-appigo-is-threatening-to-sue-android-apps-for-using-the-word-todo-in-their-names-generally-being-ridiculous/
+1030,Lobsters,law,"Law, patents, and licensing",When Craigslist Blocks Innovations,http://bits.blogs.nytimes.com/2012/07/29/when-craigslist-blocks-innovations-disruptions/
+1031,Lobsters,law,"Law, patents, and licensing",Craigslist sues competitor PadMapper over listings,http://gigaom.com/2012/07/24/craigslist-sues-competitor-padmapper-over-listings/

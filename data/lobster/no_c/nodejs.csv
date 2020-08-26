@@ -1,0 +1,332 @@
+ID,Source,Tag_Code,Tag_Name,Title,Url
+1,Lobsters,nodejs,Node.js programming,"Building a Modern Backend with TypeScript, PostgreSQL and Prisma: REST API, Validation, and Testing",https://www.prisma.io/blog/modern-backend-2-dcba1ps7kip3/
+2,Lobsters,nodejs,Node.js programming,The Anatomy of a Malicious Package,https://blog.phylum.io/malicious-javascript-code-in-npm-malware/
+3,Lobsters,nodejs,Node.js programming,Pilo: Raspberry Pi Powered Lights-Out Remote Server Management for $60 or less,https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html
+4,Lobsters,nodejs,Node.js programming,Terminate busboy from reading more request with unpipe() and work queue,https://bytearcher.com/articles/terminate-busboy/
+5,Lobsters,nodejs,Node.js programming,Automatically Generated Posters of Chess Games,https://checkmateposters.com/
+6,Lobsters,nodejs,Node.js programming,Open Sesame: Escalating Open Redirect to RCE with Electron Code Review,https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
+7,Lobsters,nodejs,Node.js programming,WarsawJS Meetup #72 Online,https://www.meetup.com/WarsawJS/events/267830160/
+8,Lobsters,nodejs,Node.js programming,Let's Debug a Node.js Application,https://blog.heroku.com/debug-node-applications
+9,Lobsters,nodejs,Node.js programming,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+10,Lobsters,nodejs,Node.js programming,BashoJS: JavaScript Evaluator for Shell Scripts,https://bashojs.org/
+11,Lobsters,nodejs,Node.js programming,danburzo/hred: reduce HTML to JSON from the command line,https://github.com/danburzo/hred
+12,Lobsters,nodejs,Node.js programming,Kretes in 5 minutes - A full-stack TypeScript tutorial with Node.js & PostgreSQL,https://www.youtube.com/watch?v=BfcwZgPHwKk
+13,Lobsters,nodejs,Node.js programming,Dates and Times in JavaScript – A new Temporal API from TC39,https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/
+14,Lobsters,nodejs,Node.js programming,How many AWS services do you need to host a static webpage? (2/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-2-2-aa619fc99fc2
+15,Lobsters,nodejs,Node.js programming,How to build an automated DIY irrigation system controlled by an app,https://blog.usejournal.com/automated-smart-home-irrigation-system-9061c391f8e2
+16,Lobsters,nodejs,Node.js programming,Evolution of the precise code intel backend,https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend
+17,Lobsters,nodejs,Node.js programming,How many AWS services do you need to host a static webpage? (1/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-1-2-b811929a9436
+18,Lobsters,nodejs,Node.js programming,Kicking Node into high gear for data processing or how to hire 100 cats to catch a mouse,https://sgolem.com/kicking-node-into-high-gear-for-data-processing-or-how-to-hire-100-cats-to/
+19,Lobsters,nodejs,Node.js programming,Fuzzy search your GitHub starred repositories from your terminal,https://github.com/Link-/starred_search
+20,Lobsters,nodejs,Node.js programming,Do you feel JS developers are pushing a bit too hard to use NodeJS everywhere?,/s/bzjypu/do_you_feel_js_developers_are_pushing_bit
+21,Lobsters,nodejs,Node.js programming,"Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads",https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty/
+22,Lobsters,nodejs,Node.js programming,Deno is a Browser for Code,https://kitsonkelly.com/posts/deno-is-a-browser-for-code/
+23,Lobsters,nodejs,Node.js programming,"Today’s Javascript, from an outsider’s perspective",http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/
+24,Lobsters,nodejs,Node.js programming,What I don't like about Node.js,https://steelbrain.me/2020/05/17/what-i-dont-like-about-node-js.html
+25,Lobsters,nodejs,Node.js programming,The Easiest Way To Start Using Swagger in Node.js,https://medium.com/@Grantlyk/the-easiest-way-to-start-using-swagger-in-node-js-54326864e74f
+26,Lobsters,nodejs,Node.js programming,"Building a Modern Backend with TypeScript, PostgreSQL and Prisma: REST API, Validation, and Testing",https://www.prisma.io/blog/modern-backend-2-dcba1ps7kip3/
+27,Lobsters,nodejs,Node.js programming,The Anatomy of a Malicious Package,https://blog.phylum.io/malicious-javascript-code-in-npm-malware/
+28,Lobsters,nodejs,Node.js programming,Pilo: Raspberry Pi Powered Lights-Out Remote Server Management for $60 or less,https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html
+29,Lobsters,nodejs,Node.js programming,Terminate busboy from reading more request with unpipe() and work queue,https://bytearcher.com/articles/terminate-busboy/
+30,Lobsters,nodejs,Node.js programming,Automatically Generated Posters of Chess Games,https://checkmateposters.com/
+31,Lobsters,nodejs,Node.js programming,Open Sesame: Escalating Open Redirect to RCE with Electron Code Review,https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
+32,Lobsters,nodejs,Node.js programming,WarsawJS Meetup #72 Online,https://www.meetup.com/WarsawJS/events/267830160/
+33,Lobsters,nodejs,Node.js programming,Let's Debug a Node.js Application,https://blog.heroku.com/debug-node-applications
+34,Lobsters,nodejs,Node.js programming,Hacking with Environment Variables,https://www.elttam.com/blog/env/
+35,Lobsters,nodejs,Node.js programming,BashoJS: JavaScript Evaluator for Shell Scripts,https://bashojs.org/
+36,Lobsters,nodejs,Node.js programming,danburzo/hred: reduce HTML to JSON from the command line,https://github.com/danburzo/hred
+37,Lobsters,nodejs,Node.js programming,Kretes in 5 minutes - A full-stack TypeScript tutorial with Node.js & PostgreSQL,https://www.youtube.com/watch?v=BfcwZgPHwKk
+38,Lobsters,nodejs,Node.js programming,Dates and Times in JavaScript – A new Temporal API from TC39,https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/
+39,Lobsters,nodejs,Node.js programming,How many AWS services do you need to host a static webpage? (2/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-2-2-aa619fc99fc2
+40,Lobsters,nodejs,Node.js programming,How to build an automated DIY irrigation system controlled by an app,https://blog.usejournal.com/automated-smart-home-irrigation-system-9061c391f8e2
+41,Lobsters,nodejs,Node.js programming,Evolution of the precise code intel backend,https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend
+42,Lobsters,nodejs,Node.js programming,How many AWS services do you need to host a static webpage? (1/2),https://medium.com/warsawjs/how-many-aws-services-do-you-need-to-host-a-static-webpage-1-2-b811929a9436
+43,Lobsters,nodejs,Node.js programming,Kicking Node into high gear for data processing or how to hire 100 cats to catch a mouse,https://sgolem.com/kicking-node-into-high-gear-for-data-processing-or-how-to-hire-100-cats-to/
+44,Lobsters,nodejs,Node.js programming,Fuzzy search your GitHub starred repositories from your terminal,https://github.com/Link-/starred_search
+45,Lobsters,nodejs,Node.js programming,Do you feel JS developers are pushing a bit too hard to use NodeJS everywhere?,/s/bzjypu/do_you_feel_js_developers_are_pushing_bit
+46,Lobsters,nodejs,Node.js programming,"Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads",https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty/
+47,Lobsters,nodejs,Node.js programming,Deno is a Browser for Code,https://kitsonkelly.com/posts/deno-is-a-browser-for-code/
+48,Lobsters,nodejs,Node.js programming,"Today’s Javascript, from an outsider’s perspective",http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/
+49,Lobsters,nodejs,Node.js programming,What I don't like about Node.js,https://steelbrain.me/2020/05/17/what-i-dont-like-about-node-js.html
+50,Lobsters,nodejs,Node.js programming,The Easiest Way To Start Using Swagger in Node.js,https://medium.com/@Grantlyk/the-easiest-way-to-start-using-swagger-in-node-js-54326864e74f
+51,Lobsters,nodejs,Node.js programming,Writing a Production Ready Express Server,https://hackernoon.com/writing-a-production-ready-express-server-a-step-by-step-guide-2k6732x5?source=rss
+52,Lobsters,nodejs,Node.js programming,"What is Node.js? Where, when and how to use it with examples",https://www.simform.com/what-is-node-js/
+53,Lobsters,nodejs,Node.js programming,Complete example of how to upload images to Amazon S3 from Angular via Express,https://www.codepedia.org/ama/complete-example-of-how-to-upload-images-to-amazon-s3-bucket-from-angular-via-express
+54,Lobsters,nodejs,Node.js programming,is-promise post mortem,https://medium.com/@forbeslindesay/is-promise-post-mortem-cab807f18dcc
+55,Lobsters,nodejs,Node.js programming,"Middy, Node.js middleware framework for AWS Lambda, goes 1.0.0",https://loige.co/middy-1-is-here/
+56,Lobsters,nodejs,Node.js programming,The story of how I created a way to port Windows Apps to Linux,https://www.blinkingcaret.com/2020/04/09/the-story-of-how-i-created-a-way-to-port-windows-apps-to-linux/
+57,Lobsters,nodejs,Node.js programming,Hapi: A Performance deep-dive,https://www.nearform.com/blog/hapi-a-performance-deep-dive/
+58,Lobsters,nodejs,Node.js programming,Free libre URL shortener made with TypeScript to self-host and use with custom domain (MIT license),https://github.com/thedevs-network/kutt
+59,Lobsters,nodejs,Node.js programming,Ervy live demo is available – Bring charts to terminal,https://www.chunqiuyiyu.com/ervy/#demo
+60,Lobsters,nodejs,Node.js programming,Spacedtime - Remember the important things in your life,https://www.spacedtime.com/
+61,Lobsters,nodejs,Node.js programming,ElectronCGI 1.0 - Cross-platform GUIs for .Net Core,https://www.blinkingcaret.com/2020/03/25/electroncgi-1-0-cross-platform-guis-for-net-core/
+62,Lobsters,nodejs,Node.js programming,"Refresh front and backend changes to browser with Express, LiveReload and Nodemon",https://bytearcher.com/articles/refresh-changes-browser-express-livereload-nodemon/
+63,Lobsters,nodejs,Node.js programming,ExpressJS vs Actix-Web: performance and running cost comparison,https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a
+64,Lobsters,nodejs,Node.js programming,"Setting up a custom CI/CD pipeline for a personal project (Node.js, Docker, Travis)",https://www.taniarascia.com/continuous-integration-pipeline-docker/
+65,Lobsters,nodejs,Node.js programming,Fix 18.0.0 release with new mapping syntax,https://github.com/antonmedv/fx
+66,Lobsters,nodejs,Node.js programming,Webserver Benchmark: Erlang vs Go vs Java vs NodeJS,https://stressgrid.com/blog/webserver_benchmark/
+67,Lobsters,nodejs,Node.js programming,Node.JS Use Case: When & How Node.JS Should be Used | Simform,https://www.simform.com/nodejs-use-case/
+68,Lobsters,nodejs,Node.js programming,Golang for Node.js Developers,https://github.com/miguelmota/golang-for-nodejs-developers
+69,Lobsters,nodejs,Node.js programming,"Node.js boilerplate / REST API / Authentication from scratch - (express, mongodb)",https://github.com/watscho/express-mongodb-rest-api-boilerplate
+70,Lobsters,nodejs,Node.js programming,Binary Planting with the npm CLI,https://blog.npmjs.org/post/189618601100/binary-planting-with-the-npm-cli
+71,Lobsters,nodejs,Node.js programming,"Node.js boilerplate / Authentication from scratch - (express, graphql, mongodb)",https://github.com/watscho/express-graphql-mongodb-boilerplate
+72,Lobsters,nodejs,Node.js programming,Cleaner code in an Express REST API with unified error handling,https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling
+73,Lobsters,nodejs,Node.js programming,Ervy - Bring charts to terminal,https://www.chunqiuyiyu.com/ervy/
+74,Lobsters,nodejs,Node.js programming,ElectronCGI - A solution to cross-platform GUIs for .Net Core,https://www.blinkingcaret.com/2019/11/27/electroncgi-a-solution-to-cross-platform-guis-for-net-core/
+75,Lobsters,nodejs,Node.js programming,How to Create a Link Preview: The Definite Guide [Implementation and Demo Included],https://andrejgajdos.com/how-to-create-a-link-preview/
+76,Lobsters,nodejs,Node.js programming,Beware Middleware,http://twitchard.github.io/posts/2019-11-01-beware-middleware.html
+77,Lobsters,nodejs,Node.js programming,"Revolut Emergency: Unofficial desktop app – Freeze cards, list transactions, get notifications",https://github.com/Annihil/revolut-emergency
+78,Lobsters,nodejs,Node.js programming,Ghost 3.0,https://ghost.org/blog/3-0/
+79,Lobsters,nodejs,Node.js programming,zero: node.js graphics/shader pipeline,https://github.com/sinclairzx81/zero
+80,Lobsters,nodejs,Node.js programming,Human-friendly process signals,https://github.com/ehmicky/human-signals
+81,Lobsters,nodejs,Node.js programming,The stylish Node.js middleware engine for AWS Lambda,https://github.com/middyjs/middy
+82,Lobsters,nodejs,Node.js programming,Improving the Cryptography of the JavaScript Ecosystem,https://paragonie.com/blog/2019/10/improving-cryptography-javascript-ecosystem
+83,Lobsters,nodejs,Node.js programming,An Old Bug,https://blog.npmjs.org/post/186190819147/an-old-bug
+84,Lobsters,nodejs,Node.js programming,Is Guy Fieri in Your Node.js Packages?,http://nodesource.com/blog/is-guy-fieri-in-your-node-js-packages/
+85,Lobsters,nodejs,Node.js programming,Sodium-Plus: A Positive Cryptography Experience for JavaScript Developers,https://dev.to/paragonie/sodium-plus-a-positive-cryptography-experience-for-javascript-developers-2p08
+86,Lobsters,nodejs,Node.js programming,Node.js now available in Haiku,https://www.haiku-os.org/blog/return0e/2019-09-19_nodejs_now_available_in_haiku/
+87,Lobsters,nodejs,Node.js programming,Asynchronous Generators and the Unix-like async piping pattern,https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-generators-2n4e
+88,Lobsters,nodejs,Node.js programming,In-Depth Overview of Synchronous Generators,https://dev.to/jfet97/javascript-iterators-and-generators-synchronous-generators-3ai4
+89,Lobsters,nodejs,Node.js programming,No CLI ads,https://github.com/kethinov/no-cli-ads
+90,Lobsters,nodejs,Node.js programming,Site.js,https://sitejs.org/
+91,Lobsters,nodejs,Node.js programming,Run any Node.js version,https://github.com/ehmicky/nve
+92,Lobsters,nodejs,Node.js programming,How To Get Started With IPFS and Node,https://medium.com/@indreklasn/how-to-get-started-with-ipfs-and-node-fa04baec6b3a
+93,Lobsters,nodejs,Node.js programming,"‘No way to prevent this’, Says Only Development Community Where This Regularly Happens",https://medium.com/@nimelrian/no-way-to-prevent-this-says-only-development-community-where-this-regularly-happens-8ef59e6836de
+94,Lobsters,nodejs,Node.js programming,Repeat tests. Repeat tests. Repeat tests,https://github.com/ehmicky/test-each
+95,Lobsters,nodejs,Node.js programming,Build A Decentralized Chat Using JavaScript & Rust (WebAssembly),https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52
+96,Lobsters,nodejs,Node.js programming,Gulp.js command execution for humans,https://github.com/ehmicky/gulp-execa
+97,Lobsters,nodejs,Node.js programming,Getting into Node.js from Delphi,https://jonlennartaasenden.wordpress.com/2019/07/01/getting-into-node-js-from-delphi/
+98,Lobsters,nodejs,Node.js programming,npm 6.9.1 is broken due to .git folder in published tarball,https://npm.community/t/npm-6-9-1-is-broken-due-to-git-folder-in-published-tarball/8454
+99,Lobsters,nodejs,Node.js programming,Execa 2 release — process execution for humans,https://medium.com/@ehmicky/execa-v2-20ffafeedfdf
+100,Lobsters,nodejs,Node.js programming,node-ally - A collection of express middleware helpers,https://github.com/Grantlyk/node-ally
+101,Lobsters,nodejs,Node.js programming,Make fewer JS mistakes with TypeScript,https://superjavascript.com/t/typescript/
+102,Lobsters,nodejs,Node.js programming,Wrap a function without changing its name/properties (by sindresorhus),https://github.com/sindresorhus/mimic-fn
+103,Lobsters,nodejs,Node.js programming,Micro Frontends,https://martinfowler.com/articles/micro-frontends.html
+104,Lobsters,nodejs,Node.js programming,Server-Sent Events (SSE): A conceptual deep dive,https://www.ably.io/concepts/server-sent-events
+105,Lobsters,nodejs,Node.js programming,NodeJS and Python interoperability,https://fridgerator.github.io/2019/06/14/nodejs-and-python-interoperability.html
+106,Lobsters,nodejs,Node.js programming,Reality Projection with Magic Leap One in Exokit,https://www.youtube.com/watch?v=m_QntqZmd_Q
+107,Lobsters,nodejs,Node.js programming,Example of use of the Object.fromEntries new entry (pun intended) to flatten nested objects props,https://gist.github.com/jfet97/9e4b9033baf6f272d695302e78c60220
+108,Lobsters,nodejs,Node.js programming,This is how our brain detects shapes,https://medium.com/the-guild/this-is-how-our-brain-detects-shapes-10cadefc8134
+109,Lobsters,nodejs,Node.js programming,The economics of package management,https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md
+110,Lobsters,nodejs,Node.js programming,A new take on website analytics,https://volument.com
+111,Lobsters,nodejs,Node.js programming,PM2 NPM Package Breaks Builds Worldwide Because Of Failed Telemetry Endpoint,https://github.com/Unitech/pm2/issues/4289
+112,Lobsters,nodejs,Node.js programming,When a Filter Goes Wrong: Adventures in Async/Await,https://www.jimhribar.com/adventures-in-async-await/
+113,Lobsters,nodejs,Node.js programming,A module to help telegram bot devs manage a flow of actions that have to be executed in row,https://github.com/jfet97/ntfm
+114,Lobsters,nodejs,Node.js programming,Automating TurboTax Data Entry With Puppeteer,https://www.dannyguo.com/blog/automating-turbotax-data-entry-with-puppeteer/
+115,Lobsters,nodejs,Node.js programming,playball: watch MLB games from the comfort of your own terminal,https://github.com/paaatrick/playball
+116,Lobsters,nodejs,Node.js programming,Build a Multiplayer (.io) Web Game with Node.js,https://victorzhou.com/blog/build-an-io-game-part-2/
+117,Lobsters,nodejs,Node.js programming,How to Build a Multiplayer (.io) Web Game,https://victorzhou.com/blog/build-an-io-game-part-1/
+118,Lobsters,nodejs,Node.js programming,Introducing Node.js 12,https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f
+119,Lobsters,nodejs,Node.js programming,Sherlock Holmes and the Mystery of Trash in node_modules,https://talbrenev.com/2019/04/16/sherlock-holmes.html
+120,Lobsters,nodejs,Node.js programming,"For building a CLI, Node is pretty awesome",https://dev.to/nickparsons/crafting-a-command-line-experience-that-developers-love-4451
+121,Lobsters,nodejs,Node.js programming,Tools for writing cross-platform Node.js,https://github.com/bcoe/awesome-cross-platform-nodejs
+122,Lobsters,nodejs,Node.js programming,A Future Without Webpack,https://www.pikapkg.com/blog/pika-web-a-future-without-webpack
+123,Lobsters,nodejs,Node.js programming,Wat is up with WebAssembly,https://blog.jfo.click/wat-is-up-with-webassembly/
+124,Lobsters,nodejs,Node.js programming,Show some love to Node.js process errors,https://github.com/ehmicky/log-process-errors
+125,Lobsters,nodejs,Node.js programming,Why should I use a Reverse Proxy if Node.js is Production-Ready?,https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca
+126,Lobsters,nodejs,Node.js programming,I got node working on an iPhone thanks to the new JITless feature,https://twitter.com/theshawwn/status/1110691089009254400
+127,Lobsters,nodejs,Node.js programming,Customize objects coercion in JavaScript,https://dev.to/jfet97/customize-objects-coercion-in-javascript-83d
+128,Lobsters,nodejs,Node.js programming,A complete guide to threads in Node.js,https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f
+129,Lobsters,nodejs,Node.js programming,Intro to web programming in Rust for NodeJS developers,https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1
+130,Lobsters,nodejs,Node.js programming,Moving from NodeJS to Rust in 2019,https://medium.com/@foreach/moving-from-nodejs-to-rust-in-2019-62c0b85d2fa7
+131,Lobsters,nodejs,Node.js programming,"Stop Wasting Connections, Use HTTP Keep-Alive",https://lob.com/blog/use-http-keep-alive
+132,Lobsters,nodejs,Node.js programming,JavaScript Symbols: But Why?,https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c
+133,Lobsters,nodejs,Node.js programming,19 ways to become a better Node.JS developer in 2019,https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38
+134,Lobsters,nodejs,Node.js programming,Bash completion from JSON fields,https://github.com/antonmedv/fx-completion
+135,Lobsters,nodejs,Node.js programming,Building a fast Electron app with Rust,https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/
+136,Lobsters,nodejs,Node.js programming,Node.js Task Runners: Are they right for you?,https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa
+137,Lobsters,nodejs,Node.js programming,ElectronCGI - Cross Platform .Net Core GUIs with Electron,https://www.blinkingcaret.com/2019/02/27/electron-cgi/
+138,Lobsters,nodejs,Node.js programming,Community makes Rust an easy choice for npm,https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf
+139,Lobsters,nodejs,Node.js programming,Compromised npm Package: event-stream,https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502
+140,Lobsters,nodejs,Node.js programming,Introducing Package Diff: A service for diffing npm packages,https://medium.com/intrinsic/introducing-package-diff-for-npm-e6487cc9b434
+141,Lobsters,nodejs,Node.js programming,fx now supports streaming JSON,https://github.com/antonmedv/fx
+142,Lobsters,nodejs,Node.js programming,Benchmarking Go vs Node vs Elixir,https://stressgrid.com/blog/benchmarking_go_vs_node_vs_elixir/
+143,Lobsters,nodejs,Node.js programming,GitHub Spray: Generate spray for your GitHub contribution graph,https://github.com/Annihil/github-spray
+144,Lobsters,nodejs,Node.js programming,"How to setup a powerful API with GraphQL, Koa and MongoDB -- scalability and testing",https://www.strilliant.com/2019/01/31/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-iii/
+145,Lobsters,nodejs,Node.js programming,"How to setup a powerful API with GraphQL, Koa and MongoDB -- CRUD actions",https://www.strilliant.com/2019/01/30/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-mutatations-fields-resolvers/
+146,Lobsters,nodejs,Node.js programming,Swiss Army knife for Unix permissions,https://github.com/ehmicky/unix-permissions
+147,Lobsters,nodejs,Node.js programming,Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron app,https://github.com/doyensec/electronegativity
+148,Lobsters,nodejs,Node.js programming,"How to setup a powerful API with GraphQL, Koa and MongoDB",https://www.strilliant.com/2019/01/27/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb/
+149,Lobsters,nodejs,Node.js programming,blockade - secure headers and cookies for Node.js web frameworks,https://github.com/TypeError/blockade
+150,Lobsters,nodejs,Node.js programming,Yarn's Future - v2 and beyond,https://github.com/yarnpkg/yarn/issues/6953
+151,Lobsters,nodejs,Node.js programming,Portable Node.js guide,https://github.com/ehmicky/portable-node-guide
+152,Lobsters,nodejs,Node.js programming,What happens when packages go bad?,https://jakearchibald.com/2018/when-packages-go-bad/
+153,Lobsters,nodejs,Node.js programming,Common API mistakes and how to avoid them,https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b
+154,Lobsters,nodejs,Node.js programming,Welgo – Node.js UI Library with React-Inspired Components,https://github.com/Bloomca/welgo
+155,Lobsters,nodejs,Node.js programming,Getting started with debugging nodeJs applications with ndb,https://geshan.com.np/blog/2019/01/getting-started-with-debugging-nodejs-applications-with-ndb
+156,Lobsters,nodejs,Node.js programming,API using GraphQL and NodeJs,https://medium.com/programming-society-gazette/part-1-api-using-graphql-and-node-js-3423a6004b96
+157,Lobsters,nodejs,Node.js programming,Taking care of your dependencies,https://sirikon.me/post/taking-care-of-your-dependencies/
+158,Lobsters,nodejs,Node.js programming,The node_modules problem,https://dev.to/leoat12/the-nodemodules-problem-29dc
+159,Lobsters,nodejs,Node.js programming,"Discover how to use fx effectively, a JSON manipulation command line tool",https://medium.com/@antonmedv/discover-how-to-use-fx-effectively-668845d2a4ea
+160,Lobsters,nodejs,Node.js programming,"Goodbye Transform-Streams, long live ES9 Async Generators",https://medium.com/@andreasimonecosta/goodbye-transform-streams-long-live-es9-async-generators-86e60284fb80
+161,Lobsters,nodejs,Node.js programming,Faster than transform streams (maybe) - Node v10/11,https://github.com/jfet97/sbtts
+162,Lobsters,nodejs,Node.js programming,POLA Would Have Prevented the Event-Stream Incident,https://medium.com/agoric/pola-would-have-prevented-the-event-stream-incident-45653ecbda99
+163,Lobsters,nodejs,Node.js programming,Make website screenshots and mobile emulations from the command line,https://github.com/vladocar/screenshoteer
+164,Lobsters,nodejs,Node.js programming,"New fx 8.0 release features including Interactive Digger, Arrow Keys navigation",https://github.com/antonmedv/fx/releases/tag/8.0.0
+165,Lobsters,nodejs,Node.js programming,"Build a Simple Web App with Express, Angular, and GraphQL",https://developer.okta.com/blog/2018/11/30/web-app-with-express-angular-graphql
+166,Lobsters,nodejs,Node.js programming,Backdoor in popular event-stream NPM repo,https://github.com/dominictarr/event-stream/issues/116
+167,Lobsters,nodejs,Node.js programming,Create and Verify JWTs with Node,https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node
+168,Lobsters,nodejs,Node.js programming,Creating Nodemon in Node.js,https://blog.logrocket.com/creating-nodemon-in-node-js-70b295c2610c
+169,Lobsters,nodejs,Node.js programming,Interactive terminal tool for JSON,https://github.com/antonmedv/fx
+170,Lobsters,nodejs,Node.js programming,Why you should avoid ORMs (with examples in Node.js),https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5
+171,Lobsters,nodejs,Node.js programming,A light-weight command line tool to create a node module,https://github.com/LanceGin/npg
+172,Lobsters,nodejs,Node.js programming,keywords-extract - Command line tool extract keywords from any web page,https://github.com/vladocar/keywordsextract
+173,Lobsters,nodejs,Node.js programming,PDFSave - Convert websites into readable PDFs,https://github.com/vladocar/PDFSave
+174,Lobsters,nodejs,Node.js programming,"Build a Simple Web App with Express, React and GraphQL",https://developer.okta.com/blog/2018/10/11/build-simple-web-app-with-express-react-graphql
+175,Lobsters,nodejs,Node.js programming,12 Factor CLI Apps,https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
+176,Lobsters,nodejs,Node.js programming,Managing Python Processes with PM2,https://blog.pm2.io/managing-python-application-with-pm2/
+177,Lobsters,nodejs,Node.js programming,"Fastify, Fast and low overhead web framework, for Node.js",https://www.fastify.io/
+178,Lobsters,nodejs,Node.js programming,Babel 7 Node API Starter base,https://gitlab.com/halfmanhalfdonut/node-api-starter
+179,Lobsters,nodejs,Node.js programming,Build and Understand Express Middleware through Examples,https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples
+180,Lobsters,nodejs,Node.js programming,Security Bugs in Practice: SSRF via Request Splitting,https://www.rfk.id.au/blog/entry/security-bugs-ssrf-via-request-splitting/
+181,Lobsters,nodejs,Node.js programming,DNS over TLS - Thoughts and Implementation,https://sagi.io/2018/09/dns-over-tls---thoughts-and-implementation/
+182,Lobsters,nodejs,Node.js programming,Node.js admin panels: Strapi or Express Admin?,https://www.imaginarycloud.com/blog/node-js-admin-panels-strapi-and-express-admin-reviewed/
+183,Lobsters,nodejs,Node.js programming,Blockchain implementation dummies in NodeJS,https://repl.it/@maxpert/51b7eBlockchain
+184,Lobsters,nodejs,Node.js programming,Wine bug 45749 – Visual Studio 2017 Installer fails due to node.js/libuv listen(named pipe) error,https://bugs.winehq.org/show_bug.cgi?id=45749
+185,Lobsters,nodejs,Node.js programming,Node.js or Ruby on Rails: which is better?,https://www.imaginarycloud.com/blog/node-vs-rails/
+186,Lobsters,nodejs,Node.js programming,HashWick V8 Vulnerability,https://darksi.de/12.hashwick-v8-vulnerability/
+187,Lobsters,nodejs,Node.js programming,Introducing Ghost 2.0,https://blog.ghost.org/2-0/
+188,Lobsters,nodejs,Node.js programming,Node.js 8 and Python 3.7 runtimes now available in Google Cloud Functions,https://cloudplatform.googleblog.com/2018/07/bringing-the-best-of-serverless-to-you.html
+189,Lobsters,nodejs,Node.js programming,Ndb – An improved debugging experience for Node.js,https://github.com/GoogleChromeLabs/ndb
+190,Lobsters,nodejs,Node.js programming,How to build an npm worm,https://jamie.build/how-to-build-an-npm-worm
+191,Lobsters,nodejs,Node.js programming,Building and publishing a module with TypeScript and Rollup.js,https://medium.com/@GRardB/building-and-publishing-a-module-with-typescript-and-rollup-js-faa778c85396
+192,Lobsters,nodejs,Node.js programming,"Postmortem for Malicious Packages Published on July 12th, 2018",https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes
+193,Lobsters,nodejs,Node.js programming,Virus in eslint-scope,https://github.com/eslint/eslint-scope/issues/39
+194,Lobsters,nodejs,Node.js programming,The Art of the node.js Rescue,https://peterlyons.com/problog/2018/07/the-art-of-the-node-js-rescue
+195,Lobsters,nodejs,Node.js programming,Node.js REPL in Depth,https://blog.bloomca.me/2018/07/09/nodejs-repl-in-depth.html
+196,Lobsters,nodejs,Node.js programming,How to build powerful REST APIs blazingly fast with Node.js,https://resthapi.com/blog/2018/06/26/How-To-Build-Powerful-APIs-Blazingly-Fast-With-Nodejs.html
+197,Lobsters,nodejs,Node.js programming,Cheq - a command-line checklist app (for mac/win/lin/node),https://github.com/tomhodgins/cheq
+198,Lobsters,nodejs,Node.js programming,Write GraphQL APIs on Node with MongoDB,https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8
+199,Lobsters,nodejs,Node.js programming,Node.js Guide for Frontend Developers,https://blog.bloomca.me/2018/06/21/nodejs-guide-for-frontend-developers.html
+200,Lobsters,nodejs,Node.js programming,Upgrading to Node v8 has significantly reduced our operating costs,https://blog.ably.io/how-our-gross-margin-is-improving-after-upgrading-from-node-6-to-node-8-bdf59e654b86
+201,Lobsters,nodejs,Node.js programming,"Speaking Intelligently about ""Java vs Node"" Performance",https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance
+202,Lobsters,nodejs,Node.js programming,A secure TypeScript runtime on V8,https://github.com/ry/deno
+203,Lobsters,nodejs,Node.js programming,10 Things I Regret About Node.js,https://www.youtube.com/watch?v=M3BM9TB-8yA
+204,Lobsters,nodejs,Node.js programming,"How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger — Part II",https://medium.com/@wesharehoodies/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac
+205,Lobsters,nodejs,Node.js programming,"How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger",https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649?source=user_profile---------4-------------------
+206,Lobsters,nodejs,Node.js programming,Modeling Formulas with Recursive Discriminators,http://www.petecorey.com/blog/2018/05/28/modeling-formulas-with-recursive-discriminators/
+207,Lobsters,nodejs,Node.js programming,"It ain't about the callbacks, it's about the flow control",https://idea.popcount.org/2013-09-05-it-aint-about-the-callbacks/
+208,Lobsters,nodejs,Node.js programming,Why is Front-End Development So Unstable?,http://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/
+209,Lobsters,nodejs,Node.js programming,NPM failing with HTTP 418 I'm a teapot,https://github.com/npm/npm/issues/20791
+210,Lobsters,nodejs,Node.js programming,Winds 2.0 - Open Source Podcast & RSS app,http://github.com/getstream/winds
+211,Lobsters,nodejs,Node.js programming,Reported malicious module: getcookies,https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies
+212,Lobsters,nodejs,Node.js programming,Running FFmpeg on AWS Lambda for 1.9% the cost of AWS Elastic Transcoder,https://intoli.com/blog/transcoding-on-aws-lambda/
+213,Lobsters,nodejs,Node.js programming,Installing Node.js Tutorial: Using snaps on Linux,http://nodesource.com/blog/installing-nodejs-tutorial-using-snaps-on-linux/
+214,Lobsters,nodejs,Node.js programming,Create A YouTube-style Recommendation Engine With Node & Vue,https://vuejsdevelopers.com/2018/04/16/video-vue-node-cloudinary/
+215,Lobsters,nodejs,Node.js programming,A Naïve Peer Discovery Implementation with Node.js and ZeroMQ,https://nrempel.com/posts/peer-discovery-with-nodejs-zeromq/
+216,Lobsters,nodejs,Node.js programming,NodeJS meetup and conference recordings from Q4 2017: NodeConfEU and Node.js Interactive,https://blog.meetupfeed.com/nodejs-meetup-and-conference-recordings-from-q4-2017-nodeconfeu-and-node-js-interactive/
+217,Lobsters,nodejs,Node.js programming,Starting with GraphQL: Caveats — Part 1,http://www.oscarfunes.com/2018/04/03/graphql-part-one/
+218,Lobsters,nodejs,Node.js programming,The Node.js Ecosystem Is Chaos,https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068
+219,Lobsters,nodejs,Node.js programming,Announcing a Node.js Snap for Linux,http://nodesource.com/blog/announcing-node-js-snap-linux-users/
+220,Lobsters,nodejs,Node.js programming,Adding Websocket support to core · nodejs/node,https://github.com/nodejs/node/issues/19308
+221,Lobsters,nodejs,Node.js programming,Dawn of the Dead Packages,https://www.react-reveal.com/blog/npm/
+222,Lobsters,nodejs,Node.js programming,Critical Linux filesystem permissions are being changed by NPM 5.7.0,https://github.com/npm/npm/issues/19883
+223,Lobsters,nodejs,Node.js programming,Extending CircleCI's API with a Custom Microservice on AWS Lambda,https://intoli.com/blog/circleci-artifacts/
+224,Lobsters,nodejs,Node.js programming,Debugging Node without restarting processes,https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200
+225,Lobsters,nodejs,Node.js programming,Kubernetes deployment explorer with a face,https://github.com/codefresh-io/zenkube
+226,Lobsters,nodejs,Node.js programming,Using IOpipe profiling to gain crucial observability into your AWS Lambda functions,https://read.iopipe.com/using-iopipe-profiling-to-gain-crucial-observability-into-your-aws-lambda-functions-506f5dda6bdf
+227,Lobsters,nodejs,Node.js programming,How to build NodeJS application for your Hyperledger Composer networks,https://www.skcript.com/svr/how-to-build-nodejs-application-for-your-hyperledger-composer-networks/
+228,Lobsters,nodejs,Node.js programming,Many [npm] packages suddenly disappeared,https://github.com/npm/registry/issues/255
+229,Lobsters,nodejs,Node.js programming,packagecloud.io now supports Node.js packages!,https://blog.packagecloud.io/eng/2017/12/27/npm-registry-support/
+230,Lobsters,nodejs,Node.js programming,I wrote a BrainF*ck interpreter in JS (can be minified to 417 bytes),https://gist.github.com/maxpert/cbdc82acee1a38e78653ef1a775cc547
+231,Lobsters,nodejs,Node.js programming,"OSHUG Event #63 - Collaborative music making, ultra-low latency audio and sensor processing",http://oshug.org/event/63
+232,Lobsters,nodejs,Node.js programming,Server-side I/O Performance: Node vs. PHP vs. Java vs. Go,https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
+233,Lobsters,nodejs,Node.js programming,The State of Node.js & JavaScript for Backend Development,https://snipcart.com/blog/javascript-nodejs-backend-development
+234,Lobsters,nodejs,Node.js programming,Node config best practices,http://codingsans.com/blog/node-config-best-practices
+235,Lobsters,nodejs,Node.js programming,Moving away from Go to Node.js - Raspchat,https://github.com/maxpert/raspchat/releases/tag/v1.0.0-alpha
+236,Lobsters,nodejs,Node.js programming,Is my NODE_ENV correct?,https://nodeenv.com/
+237,Lobsters,nodejs,Node.js programming,grabity - Gets preview data from a link. Just grab it! (Node.js),https://github.com/e-oj/grabity
+238,Lobsters,nodejs,Node.js programming,Remote Code Execution in CouchDB (and Privilege Escalation in the npm Registry),https://justi.cz/security/2017/11/14/couchdb-rce-npm.html
+239,Lobsters,nodejs,Node.js programming,How to Use npm as a Build Tool (2014),https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+240,Lobsters,nodejs,Node.js programming,"Joplin, a note taking and to-do app for the terminal",http://joplin.cozic.net/
+241,Lobsters,nodejs,Node.js programming,"Get ready: A new V8 is coming, Node.js performance is changing.",https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/
+242,Lobsters,nodejs,Node.js programming,Elnode: Backend web services in elisp,https://www.emacswiki.org/emacs/Elnode
+243,Lobsters,nodejs,Node.js programming,Node.js Security Overview,https://nemethgergely.com/nodejs-security-overview/
+244,Lobsters,nodejs,Node.js programming,Bridging Rails & NodeJS with gRPC,https://product.reverb.com/bridging-rails-nodejs-with-grpc-5cb58e03189c
+245,Lobsters,nodejs,Node.js programming,Napa.js - Microsoft's open-source multithreaded JS runtime,https://github.com/Microsoft/napajs
+246,Lobsters,nodejs,Node.js programming,Concurrency vs Parallelism and the Erlang Advantage,http://nathanmlong.com/2017/06/concurrency-vs-paralellism/
+247,Lobsters,nodejs,Node.js programming,When 500% Faster is Garbage,https://medium.com/@eranhammer/when-500-faster-is-garbage-553121a088c3
+248,Lobsters,nodejs,Node.js programming,Scalable and serverless media processing using BuckleScript/OCaml and AWS Lambda/API Gateway,https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33
+249,Lobsters,nodejs,Node.js programming,Protect your npm account with two-factor authentication and read-only tokens,http://blog.npmjs.org/post/166039777883/protect-your-npm-account-with-two-factor
+250,Lobsters,nodejs,Node.js programming,Terminal Kit: A full-blown terminal lib for Node.js,https://github.com/cronvel/terminal-kit
+251,Lobsters,nodejs,Node.js programming,On Being Operationally Incompetent,https://medium.com/@eranhammer/on-being-operationally-incompetent-4ca4fbccbf98
+252,Lobsters,nodejs,Node.js programming,Node.js is Windows 3.1 All Over Again,http://tomjoro.github.io/2017-02-03-why-reactive-fp-sucks/
+253,Lobsters,nodejs,Node.js programming,Making a Master Puppeteer,http://jackhiston.com/2017/9/13/making-a-master-puppeteer/
+254,Lobsters,nodejs,Node.js programming,Build A MongoDB App With React and Azure Cosmos DB,http://www.reactcosmosdb.com
+255,Lobsters,nodejs,Node.js programming,A pomodoro app for your menubar/taskbar,https://github.com/amitmerchant1990/pomolectron
+256,Lobsters,nodejs,Node.js programming,General availability of App Service on Linux and Web App for Containers,https://azure.microsoft.com/en-us/blog/general-availability-of-app-service-on-linux-and-web-app-for-containers/
+257,Lobsters,nodejs,Node.js programming,The Wonderful World of Webpack,http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/
+258,Lobsters,nodejs,Node.js programming,Fawn: Transactions in MongoDB,https://codeburst.io/fawn-transactions-in-mongodb-988d8646e564
+259,Lobsters,nodejs,Node.js programming,Node.fz: fuzzing the server-side event-driven architecture,https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/
+260,Lobsters,nodejs,Node.js programming,nvm will not be adding support for Ayo,https://github.com/creationix/nvm/issues/1595#issuecomment-324378894
+261,Lobsters,nodejs,Node.js programming,The Truth About Rod Vagg,https://medium.com/@rvagg/the-truth-about-rod-vagg-f063f6a53557
+262,Lobsters,nodejs,Node.js programming,Node.js has forked into Ayo,https://sourcecontribute.com/2017/08/22/node-js-has-forked-into-ayo/
+263,Lobsters,nodejs,Node.js programming,Fawn - Transactions in MongoDB using two-phase commits,https://github.com/e-oj/Fawn
+264,Lobsters,nodejs,Node.js programming,Puppeteer: a high-level Node API to control headless Chrome,https://github.com/GoogleChrome/puppeteer
+265,Lobsters,nodejs,Node.js programming,The Frustration and Loneliness of Server-Side Javascript Development (2016),https://kev.inburke.com/kevin/one-year-of-node-js/
+266,Lobsters,nodejs,Node.js programming,"How to create a simple REST web-service with Node, AWS Lambda and the Serverless Framework",https://medium.com/the-reading-room/how-to-create-a-simple-rest-web-service-with-node-aws-lambda-and-the-serverless-framework-4730c88cd39a
+267,Lobsters,nodejs,Node.js programming,Bootstrapping a JavaScript Library,https://monades.roperzh.com/bootstrapping-javascript-library/
+268,Lobsters,nodejs,Node.js programming,Server-Render like a Pro /w Redux-First Router in 10 steps,https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de
+269,Lobsters,nodejs,Node.js programming,Redux-First Router - Interview with James Gillmore (@faceyspacey),https://survivejs.com/blog/redux-first-router-interview/
+270,Lobsters,nodejs,Node.js programming,Announcing: React Universal Component 2.0 & babel-plugin-universal-import,https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4
+271,Lobsters,nodejs,Node.js programming,Mailit - A tiny drop-in REST API to send emails,https://github.com/dthree/mailit
+272,Lobsters,nodejs,Node.js programming,"Node, Docker and the Theory of Relativity",https://medium.com/burke-knows-words/node-docker-and-the-theory-of-relativity-4d39b742db63
+273,Lobsters,nodejs,Node.js programming,npm package is stealing env variables on install,https://twitter.com/o_cee/status/892306836199800836
+274,Lobsters,nodejs,Node.js programming,Lumo: ClojureScript on Node.js without JVM,https://github.com/anmonteiro/lumo
+275,Lobsters,nodejs,Node.js programming,Node.js is Cancer (2011),http://widgetsandshit.com/teddziuba/2011/10/node-js-is-cancer.html
+276,Lobsters,nodejs,Node.js programming,Node v8.2.0,https://nodejs.org/en/blog/release/v8.2.0/
+277,Lobsters,nodejs,Node.js programming,Redux-First Router data-fetching: solving the 80% use case for async Middleware,https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262
+278,Lobsters,nodejs,Node.js programming,Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks,https://dev-blog.apollodata.com/apollo-server-1-0-a-graphql-server-for-all-node-js-frameworks-2b37d3342f7c
+279,Lobsters,nodejs,Node.js programming,How one senior developer at Cars.com convinced the entire company to do a full migration to Node.js,https://modernweb.com/cars-com-nodejs/
+280,Lobsters,nodejs,Node.js programming,Redux-First Router lookin Sexy on Code Sandbox,https://medium.com/faceyspacey/redux-first-router-lookin-sexy-on-code-sandbox-d9d9bea15053
+281,Lobsters,nodejs,Node.js programming,Webpack’s import() will soon fetch JS + CSS— Here’s how you do it today,https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852
+282,Lobsters,nodejs,Node.js programming,Launching Production Node Apps With PM2,https://www.dailydrip.com/blog/launching-production-node-apps-with-pm2.html
+283,Lobsters,nodejs,Node.js programming,Social Fixer malware campaign uses NPM to inject code into webpages,https://numin.it/b/17.6/social-fixer-malware
+284,Lobsters,nodejs,Node.js programming,chalk/chalk 2.0 released,https://github.com/chalk/chalk/releases/tag/v2.0.0
+285,Lobsters,nodejs,Node.js programming,"jsotp - a node module to generate and verify one-time password, based on RFC4226(HOTP) and RFC6238(T",https://github.com/LanceGin/jsotp
+286,Lobsters,nodejs,Node.js programming,mcollina/make-promises-safe: make promises safe from memory leaks in node <= 8,https://github.com/mcollina/make-promises-safe
+287,Lobsters,nodejs,Node.js programming,Pre Release: Redux-First Router — A Step Beyond Redux-Little-Router,https://medium.com/@faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea
+288,Lobsters,nodejs,Node.js programming,How to use Webpack’s new “magic comment” feature with React Universal Component + SSR,https://medium.com/webpack/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a
+289,Lobsters,nodejs,Node.js programming,Node occasionally gives multiple files/folders the same inode (Issue still open),https://github.com/nodejs/node/issues/12115
+290,Lobsters,nodejs,Node.js programming,Desktop apps examples built with Electron (JS),https://brainhub.eu/blog/7-famous-desktop-apps-using-electron/
+291,Lobsters,nodejs,Node.js programming,Server Side Rendering with Prefetch,http://blog.bloomca.me/2017/06/11/server-side-rendering-with-prefetch.html
+292,Lobsters,nodejs,Node.js programming,Code Cracked for Code-Splitting + SSR in Reactlandia: React Loadable + Webpack Flush Chunks and more,https://medium.com/@faceyspacey/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8
+293,Lobsters,nodejs,Node.js programming,Node v8.1.0 Released,https://nodejs.org/en/blog/release/v8.1.0/
+294,Lobsters,nodejs,Node.js programming,Node.js 8: Big Improvements for the Debugging and Native Module Ecosystem,https://medium.com/@nodejs/node-js-8-big-improvements-for-the-debugging-and-native-module-ecosystem-58454861f2fc
+295,Lobsters,nodejs,Node.js programming,8 npm Tricks You Can Use to Impress Your Colleagues,https://medium.com/@adiramsalem/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e
+296,Lobsters,nodejs,Node.js programming,Breaking the Node.js event loop,https://blog.scottnonnenberg.com/breaking-the-node-js-event-loop/
+297,Lobsters,nodejs,Node.js programming,Schemats v2.0 - TypeScript interface generator for Databases now supports MySQL!,https://github.com/SweetIQ/schemats
+298,Lobsters,nodejs,Node.js programming,Hard-won lessons: Five years with Node.js,https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/
+299,Lobsters,nodejs,Node.js programming,Node-RED: Flow-based programming for the Internet of Things,https://nodered.org/
+300,Lobsters,nodejs,Node.js programming,A library for building cross-platform apps - ReactXP,https://microsoft.github.io/reactxp/
+301,Lobsters,nodejs,Node.js programming,FullStack Bulletin — a weekly newsletter for the ambitious FullStack developer,https://fullstackbulletin.com/
+302,Lobsters,nodejs,Node.js programming,Unshorten (expand) short URLs with Node.js,http://loige.co/unshorten-expand-short-urls-with-node-js/
+303,Lobsters,nodejs,Node.js programming,Optimize your Node app by simply upgrading Node.js,https://blog.sqreen.io/optimize-your-node-app-by-simply-upgrading-node-js/
+304,Lobsters,nodejs,Node.js programming,Building a Dynamic Instrumentation Agent for Node.js,https://blog.sqreen.io/building-a-dynamic-instrumentation-agent-for-node-js/
+305,Lobsters,nodejs,Node.js programming,Solving reCAPTCHA with WebdriverIO and Clarifai,https://franciskim.co/solving-recaptcha-webdriverio-clarifai/
+306,Lobsters,nodejs,Node.js programming,The dangerous cliffs of Node.js,https://blog.scottnonnenberg.com/the-dangerous-cliffs-of-node-js/
+307,Lobsters,nodejs,Node.js programming,Protecting APIs from the DDoS attacks by signing the resource identifiers,https://hackernoon.com/protecting-apis-from-the-ddos-attacks-by-signing-the-pks-c1eca7cc7725
+308,Lobsters,nodejs,Node.js programming,The JVM is not that heavy,https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/
+309,Lobsters,nodejs,Node.js programming,Stability first,http://mafintosh.com/stability-first.html
+310,Lobsters,nodejs,Node.js programming,Tiny Guide to Non Fancy Node,https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node
+311,Lobsters,nodejs,Node.js programming,News from reddit - Summarized,http://www.fastnews.me
+312,Lobsters,nodejs,Node.js programming,How to prevent NoSQL injections in MongoDB in a Node.js app,https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/
+313,Lobsters,nodejs,Node.js programming,MongoDB will not prevent NoSQL injections in your Node.js app,https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/
+314,Lobsters,nodejs,Node.js programming,This is unfortunate and we're stuck with it forever,https://facundoolano.wordpress.com/2016/12/09/this-is-unfortunate-and-were-stuck-with-it-forever/
+315,Lobsters,nodejs,Node.js programming,Peeqo - The GIF Bot,http://imgur.com/gallery/ue4Ax
+316,Lobsters,nodejs,Node.js programming,A curious case of memory leak in a node.js app,https://www.future-processing.pl/blog/a-curious-case-of-memory-leak-in-a-node-js-app/
+317,Lobsters,nodejs,Node.js programming,JavaScript Engines Hidden Classes,https://vhf.github.io/blog/2016/11/28/javascript-engines-hidden-classes/
+318,Lobsters,nodejs,Node.js programming,Winds 0.2,https://github.com/GetStream/Winds/releases/tag/v0.2.0
+319,Lobsters,nodejs,Node.js programming,Create Swagger documentation after running integration tests,https://github.com/lazywithclass/swaggins
+320,Lobsters,nodejs,Node.js programming,Pump.io 2.0.1 is available,https://strugee.net/blog/2016/11/pump.io-2.0.1-is-available
+321,Lobsters,nodejs,Node.js programming,Electron: Why? Why not?,https://pave.software/electron-not-building-password-manager-part-1/
+322,Lobsters,nodejs,Node.js programming,Winds 0.1.0 - Open source RSS reader,https://github.com/getstream/winds
+323,Lobsters,nodejs,Node.js programming,"Published a post about Ramda, Sanctuary, and #elmlang",https://www.romanzolotarev.com/pagination/
+324,Lobsters,nodejs,Node.js programming,npm v4,https://github.com/npm/npm/releases/tag/v4.0.0
+325,Lobsters,nodejs,Node.js programming,Redis Pub/Sub: Node.js Guide,http://www.redisgreen.net/blog/pubsub-howto/
+326,Lobsters,nodejs,Node.js programming,The Mysterious Fiber Bomb Problem: A Debugging Story,https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story
+327,Lobsters,nodejs,Node.js programming,React on the Server for Beginners: Build a Universal React and Node App,https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
+328,Lobsters,nodejs,Node.js programming,I Don't Need No Stinking API - Web Scraping in 2016 and Beyond,https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/
+329,Lobsters,nodejs,Node.js programming,Styling React Components With Aphrodite,https://egghead.io/lessons/react-styling-react-components-with-aphrodite
+330,Lobsters,nodejs,Node.js programming,Meta: 'nodejs' tag,/s/j2bxnz/meta_nodejs_tag
+331,Lobsters,nodejs,Node.js programming,"npm - ""fs"" unpublished and restored",https://npmjs.statuspage.io/incidents/dw8cr1lwxkcr
