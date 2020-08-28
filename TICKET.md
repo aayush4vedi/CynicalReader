@@ -65,40 +65,46 @@
   * So decided to assume all major Topics manually and get data for each of topic from multiple sources; build model on it; then predict HN articles to decide the %accuracy threshold.
   * If this approach works-continue; else scrape the project!
 
-## [Ticket3]: Classify OR Die : (19Aug20-)
+## [Ticket3]: ~~Classify OR Die~~ Get everything(scripts, sources ,logic, concepts) needed to build backend : (19Aug20-28Aug20)
 * **TARGET** : Build model on scrambled data set & see if it can classify HN's content.If not, scrape the project
+
+* [-] **Classify OR Die**
+  * [-] Build NLP model on:
+    * [-] First: on some sample data @Richa
+    * [] Feed all the data
+  * [] Test this model on:
+    * HN
+    * Other computer/tech based blogs sites/aggregators
+  * [] See if model can predict on HN:
+    * if yes- proceed towards `%accuracy_th` -> `rank` -> ...
+    * ~~else- Burst!~~ 
+  
 * [i] Create Topics list- with domains which are contained in them
   * NOTE: One article will have multiple topics; figure it out
-* [-] Getting tagged data for model building:
-  * [-] [lobste.rs](https://lobste.rs/)
-  * [] topicwise relevant subreddits
-  * [] other sources??
-* [-] Build NLP model on:
-  * [-] First: on some sample data @Richa
-  * [] Feed all the data
-* [] Test this model on:
-  * HN
-  * Other computer/tech based blogs sites/aggregators
-* [] See if model can predict on HN:
-  * if yes- proceed towards `%accuracy_th` -> `rank` -> ...
-  * ~~else- Burst!~~ 
-* [-] Static Data sources:
-  * [x] lobste.rs
-  * [ ] Subreddits
-  * [-] arxiv++
-* [-] Dynamic Data sources(for v1):
-  * HN(need classification)
-  * arxiv++(already tagged)
-  * Subreddits => Comes tagged already. But I can
-      * still classify the article to see if it belongs to other topics as well i.e. add finer tagging
-  * Business
-    * IndieHacker(tagged already)
-    * Produchunt(tagged already)
-  * For v2:
-    * Stackoverflow?
-    * Jobs
-      * Leetcode-articles?(tagged already)
-      * gfg?
+
+* [x] Figure out Data Sources;
+  * [-] Static Data sources:
+    * [x] [lobste.rs](https://lobste.rs/)
+    * [x] ~~Subreddits~~
+    * [-] arxiv
+    * [] Other sites similar to arxiv:
+      * [list with #submissions](https://www.inlexio.com/rising-tide-preprint-servers/)
+  * [x] Dynamic Data sources(for v1):
+    * HN(need classification)
+    * Subreddits => Comes tagged already. But I can
+        * still classify the article to see if it belongs to other topics as well i.e. add finer tagging
+    * Business
+      * IndieHacker(tagged already)
+      * Produchunt(tagged already)
+  
+    * For v2:
+      * arxiv++(already tagged) => need permission; so later
+      * Stackoverflow?
+      * Jobs
+        * Leetcode-articles?(tagged already)
+        * gfg?
+
+
 * [x] **Subscriptionn Plans**
   * Plan1($5 pm): Any 3 topics
   * Plan2($10 pm): All the topics
@@ -116,6 +122,7 @@
       * TODO: weight factor for each platform
       * TODO: give more rank to recent(but low voted) posts???????? => "This is not what I need"
       * TODO: I cant use any platform's(reddit,HN,IH etc) own rank as "this is not what I need"
+      * QUESTION: Do I really need `log`???????????
     * References(read them all and make accordingly):
       * How reddit scores [article](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
       * Wilson score: [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
@@ -128,3 +135,46 @@
       * Quora's formula [here](https://www.quora.com/What-is-Quoras-algorithm-formula-for-determining-the-ordering-ranking-of-answers-on-a-question?no_redirect=1)
       * reddits scoring [code](https://github.com/reddit-archive/reddit/blob/8af415476bcbecc6729c20ada7fcd1d041495140/r2/r2/lib/db/_sorts.pyx#L62)
 
+* [x] How to use Model as API
+    * [How to use model as api using flask](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
+* [@] How to do automatic continuous enhancement model
+  * Scrape StaticSites every {month} & rebuild the model??
+
+
+
+
+## [Ticket4] : Build the Core Stuff #nuff_said (28Aug20- <6Sep20>)
+
+* [] Fix [@Ticket3]'s unfinished tasks, which were abandoned as of then
+* [-] System Design for the entire thing: [figma](https://www.figma.com/file/f5jeKqGe94oaqLLZz7iCvd/CynicalReader?node-id=0%3A1)
+  * **Notes**
+    * There are 2 types of tags-list:
+      * `SourceTags` : come from the source site itself- found while scraping
+      * `ModelTags` : assigned by the NLP model 
+    * Each tag has different confidence threshold value?
+  * **To Figure Out**
+    * phScraperNeed separate scraper(with comments) for PH 
+      * OR can we make comments(or makers's comment) data as `content`
+      * See the list of all the tags here :[PH](https://www.producthunt.com/topics) & assign them to my own dictionary manually
+    * [x] figure out schema for Domain Subdomain DB(DSD-DB)
+      * Just have weekly content-counts for each tag in DB & keep the Domain-subdomain mapping in code itself
+    * [ ] How & where to store DB:
+      * 1. WeeklyContentDB (WC-DB) :
+        * NOTE: each week should has its own table. All tables belong to one DB
+      * 2. Domain-SubdomainDB (DDS-DB)
+        * Just one table with fixed columns(new cols for new tags to be added later)
+      * 3. StaticContentDB(SC-DB) 
+        * should be dumped to Drive or S3
+    * [x] Can I get rid of Content & weighted content after model has run on item 
+      * => NO, as its needed to be put in StaticDB(to train model later)
+
+* [] Restrue everything & Build all the `CoreStuff`
+
+
+## [Ticket5] : Build Prelaunch stuff
+* [] Create Website
+* [] Create User Management System & User Dashboard
+* [] Mail User Mailer
+
+
+## [Ticket6] : FuckinLaunch
