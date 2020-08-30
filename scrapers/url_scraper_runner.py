@@ -1,4 +1,5 @@
-from scrapers.urlScrapers import hn_scraper, r_scraper
+from scrapers.urlScrapers import hn_scraper, r_scraper, ph_scraper
+from utilities import csv_functions
 
 
 def run(ts):
@@ -6,13 +7,20 @@ def run(ts):
     """ Runs following scrapers serially and updates them in WC-DB:
         1. hn_scraper.py
         2. r_scraper.py
-        3. ih_scraper.py
-        4. ph_scraper.py
+        4. ph_scraper.py => Api exists, Scraping not allowed(doint it anyway)
+        3. ih_scraper.py => No Api, Scraping not allowed(postponed for later)
 
         Input: float(timestamp) - set when the main.py run is triggered
             * float because o/w `datetime.fromtimestamp(ts)` wont run on int
         Outpu: None, just put data in WC-DB
     """
+
+    """ Initialize the weekly content table in wc-db"""
+    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
+    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    csv_functions.creteCsvFile(csv_file,headers)
+
+    """ Run the scrapers sequentially """
 
     try:
         hn_scraper.run(ts)
@@ -28,20 +36,19 @@ def run(ts):
         print(" xxxxxxxxxxxxxxxxxxxxxxxxx Error in scraping Reddit for url xxxxxxxxxxxxxxxxxxxxxxxxx \n \t\tError = {}".format(str(e)))
         pass
 
+    try:
+        ph_scraper.run(ts)
+        print(" \n====== PH url scraper run: Complete ======\n")
+    except Exception as e:
+        print(" XXXXXXXXXXXX Error in scraping PH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
+        pass
+
     # try:
-    #     ih_scraper.run()
+    #     ih_scraper.run(ts)
     #     print(" \n====== IH url scraper run: Complete ======\n")
     # except Exception as e:
     #     print(" XXXXXXXXXXXX Error in scraping IH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
     #     pass
-
-    # try:
-    #     ph_scraper.run()
-    #     print(" \n====== PH url scraper run: Complete ======\n")
-    # except Exception as e:
-    #     print(" XXXXXXXXXXXX Error in scraping PH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
-    #     pass
-
     print(" ******************** All url scrapers ran successfully *****************\n")
 
 

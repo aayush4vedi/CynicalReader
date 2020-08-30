@@ -8,18 +8,19 @@ import string
 import time
 from datetime import datetime, timedelta
 
-from utilities import csv_functions, text_actions
+from utilities import csv_functions, text_actions, web_requests
 
 
 def run(ts):
     """
         Scrapes Algolia's HN api for last 7 days & puts data in WC-DB.
             * max number of entries in algolia's single api call = 1000. So scrape for one day at a time
+            * Link to documentation: https://hn.algolia.com/api
         Note:
             1. For AskHN entries put `` tag & separate threshold
             1. For ShowHN entries put `` tag & separate threshold
             1. For Jobs@HN entries put `` tag => later as these entries dont have upvotes/comments
-        Input: ts -format: 1598692058.887741
+        Input: ts (format: 1598692058.887741)
     """
 
     print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/table_'+str(int(ts))+'.csv'))
@@ -67,7 +68,8 @@ def run(ts):
         print(" \t............. scraping stories .............")
 
         url_story = 'http://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(STORY_UP_TH)
-        data = requests.get(url_story, timeout=None)
+        # data = requests.get(url_story, timeout=None)
+        data = web_requests.hitGetWithRetry(url_story)
         res_size = json.loads(data.content)["nbHits"]
 
         print("\t\t\t\t====> Item count: {}".format(res_size))
@@ -119,7 +121,8 @@ def run(ts):
 
         print("\t............. scraping showHNs .............")
         url_show = 'http://hn.algolia.com/api/v1/search_by_date?tags=show_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(SHOWHN_UP_TH)
-        data = requests.get(url_show, timeout=None)
+        # data = requests.get(url_show, timeout=None)
+        data = web_requests.hitGetWithRetry(url_show)
         res_size = json.loads(data.content)["nbHits"]
 
         print("\t\t\t\t====> Item count: {}".format(res_size))
@@ -163,7 +166,8 @@ def run(ts):
 
         print("\t............. scraping askHNs .............")
         url_ask = 'http://hn.algolia.com/api/v1/search_by_date?tags=ask_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(ASKHN_UP_TH)
-        data = requests.get(url_ask, timeout=None)
+        # data = requests.get(url_ask, timeout=None)
+        data = web_requests.hitGetWithRetry(url_ask)
         res_size = json.loads(data.content)["nbHits"]
 
         print("\t\t\t\t====> Item count: {}".format(res_size))

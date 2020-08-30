@@ -2,7 +2,8 @@ from collections import OrderedDict
 from datetime import datetime, timedelta
 import praw  # reddit scraper
 
-from utilities import csv_functions
+from utilities import csv_functions,web_requests
+import vault
 
 # NOTE: API documentation: https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
@@ -89,11 +90,11 @@ def run(ts):
     TOTAL_ENTRIES_YET = 0
     # Setup Client
     reddit = praw.Reddit(
-                    client_id="Vv3BPojEaumOSA",                             # PERSONAL_USE_SCRIPT_14_CHARS
-                    client_secret="GWuEtPAgrMv9CpZq2aQZCBHxaYM",            # SECRET_KEY_27_CHARS
-                    user_agent="RedditScraper",                             # YOUR_APP_NAME
-                    username = "parivraajak",                               # YOUR_REDDIT_USER_NAME
-                    password = "BS@4vedi")                                  # YOUR_REDDIT_LOGIN_PASSWORD
+                    client_id= vault.R_CLIENT_ID,                                 # PERSONAL_USE_SCRIPT_14_CHARS
+                    client_secret= vault.R_CLIENT_SECRET,                         # SECRET_KEY_27_CHARS
+                    user_agent= vault.R_USER_AGENT,                               # YOUR_APP_NAME
+                    username =  vault.R_USERNAME,                                 # YOUR_REDDIT_USER_NAME
+                    password = vault.R_PASSWORD)                                  # YOUR_REDDIT_LOGIN_PASSWORD
 
     for subreddit,tag_arr in LIST.items():
         print("\t ............  Subreddit: {}  .............".format(subreddit))
@@ -105,7 +106,7 @@ def run(ts):
                 "r/"+subreddit,
                 datetime.fromtimestamp(ts),
                 int(ts),
-                submission.created,
+                datetime.fromtimestamp(submission.created),
                 submission.title,              
                 submission.url,
                 tag_arr,
