@@ -438,7 +438,8 @@
   * Coding Challanges<codingchlg>(+1)               - [r/programmingchallenges]
 * 5. Social  
   * Tech News <technews>                            - [r/technology]                          
-  * Technical communities and culture <cult>        - [culture@lobsters]
+  * Technical discussions <discuss>                 - .....                              - [tellHN]
+  * Technical communities and culture <community>   - [culture@lobsters]                 - [askHN]
   * Rants(rant@lobsters)
   * Stories about particular persons <person>       - [person@lobsters]
   * Interviews
@@ -452,10 +453,10 @@
     * History <hist.it>                             - [historical@lobsters]
     * Philosophy(in general)  <phil>                - [r/atheism]
 * 6. Business
-  * Startup
+  * Startup  <startup>                                   ....                            - [launchHN]
   * Saas
   * Freelancing
-  * Self Project
+  * Self Project <selfproj>                                                              - [showHN]
   * Open Source Projects(0) <opensrc>               - [r/opensource]
   * Law, patents, and licensing(+3) <law.cse>       - [law@lobsters]
 * 7. Science <science>                              - [science@lobsters]

@@ -168,13 +168,29 @@
     * [x] Can I get rid of Content & weighted content after model has run on item 
       * => NO, as its needed to be put in StaticDB(to train model later)
 
-* [] Restrue everything & Build all the `CoreStuff`
+* [-] Restrue everything & Build all the `CoreStuff`
+* [] TODO: figure out DBs-its affecting the coding
+  * => **Tmp Soln** : use local csv files for dev
+* [-] Scraping: <29Aug30-30Aug30>
+  * [x] `hn_scraper.py`
+    * TODO: update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
+    * Special Story cases:
+      * [x] TellHN
+      * [x] LaunchHN
+    * [x] ShowHN: with just the text(not url) => put text in content
+    * [x] AskHN: content
+    * LATER: For Jobs@HN entries put `job` tag => later as these entries dont have upvotes/comments
+  * [] TODO: update r_scraper.py
+  * [] TODO: create ih_scraper.py
+  * [] TODO: create ph_scraper.py
+  * [] TODO: update content_scraper.py & then delete article_scraper.py
 
 
-## [Ticket5] : Build Prelaunch stuff
+## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website
 * [] Create User Management System & User Dashboard
 * [] Mail User Mailer
+* [] Run `BackBone` for 2 weeks in parallel
 
 
-## [Ticket6] : FuckinLaunch
+## [Ticket6] : FuckinLaunch(<21Aug20>)
