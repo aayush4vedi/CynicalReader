@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 
 from utilities import csv_functions, text_actions
 
+
 def run(ts):
     """
         Scrapes Algolia's HN api for last 7 days & puts data in WC-DB.
@@ -21,7 +22,7 @@ def run(ts):
         Input: ts -format: 1598692058.887741
     """
 
-    print('@[{}] ========== calling from HN-scraper ==============\n'.format(datetime.fromtimestamp(ts)))
+    print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/table_'+str(int(ts))+'.csv'))
 
     """
         here is how you add day to `ts`:
@@ -50,9 +51,8 @@ def run(ts):
     ASKHN_UP_TH  = 10     #TODO: change this
     csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
     # f = csv.writer(open(csv_file, 'a',newline=''))  
-
-    index = 1 #TODO: remove this logic when using DB
-    TOTAL_ENTRIES = 0
+    index = 1
+    TOTAL_ENTRIES_YET = 0
 
     for i in range(len(ts_arr)-1):
         startepoch = ts_arr[i]
@@ -64,13 +64,15 @@ def run(ts):
             1. TellHN (<discuss>)
             2. LaunchHN (<startup>)
         """
-        print(" \t....... scraping stories ......\n")
+        print(" \t............. scraping stories .............")
 
         url_story = 'http://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(STORY_UP_TH)
         data = requests.get(url_story, timeout=None)
         res_size = json.loads(data.content)["nbHits"]
-        print("\t\t====> Item count: {}\n".format(res_size))
-        TOTAL_ENTRIES += res_size
+
+        print("\t\t\t\t====> Item count: {}".format(res_size))
+
+        TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
 
         for item in items_arr:
@@ -78,20 +80,23 @@ def run(ts):
             url = 'https://news.ycombinator.com/item?id='+str(item["objectID"])
             sourceTag = ''
             content = ''
+            sourceSite = 'HN'
             if(item["url"] is None): #as all ShowHNs may not have an url ...hihi...
-                # print( '--------------------------------------------------------------------- found null urled value ---------------------\n-----[STORY]url: {}'.format(url))
+                # print( '------------------------- found null urled value ---------------------\n-----[STORY]url: {}'.format(url))
                 # print(json.dumps(item, indent = 4))
                 if(item["story_text"] is not None):
                     content = text_actions.getTextFromHtml(item["story_text"])
                 if("Launch HN:" in item["title"]):                                    # 1. LaunchHN
                     sourceTag = 'startup'
+                    sourceSite += '/launch'
                 if("Tell HN:" in item["title"]):                                      # 2. TellHN
                     sourceTag = 'discuss'
+                    sourceSite += '/tell'
             else:
                 url = item["url"] 
             entry = [
                 index,
-                "HN",
+                sourceSite,
                 datetime.fromtimestamp(ts),
                 int(ts),
                 item["created_at"],
@@ -108,24 +113,26 @@ def run(ts):
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
 
-        print(" \t============= scraping stories:DONE ========== \n")
+        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting ShowHNs """
 
-        print("\t....... scraping showHNs ......\n")
-
+        print("\t............. scraping showHNs .............")
         url_show = 'http://hn.algolia.com/api/v1/search_by_date?tags=show_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(SHOWHN_UP_TH)
         data = requests.get(url_show, timeout=None)
         res_size = json.loads(data.content)["nbHits"]
-        print("\t\t====> Item count: {}\n".format(res_size))
-        TOTAL_ENTRIES += res_size
+
+        print("\t\t\t\t====> Item count: {}".format(res_size))
+        
+        TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
 
         for item in items_arr:
             content = ''
+            sourceSite = 'HN/show'
             if(item["url"] is None): #as all ShowHNs may not have an url ...hihi...
                 url = 'https://news.ycombinator.com/item?id='+str(item["objectID"])
-                # print( '--------------------------------------------------------------------- found null urled value ---------------------\n-----[SHOW]url: {}'.format(url))
+                # print( '-------------------------- found null urled value ---------------------\n-----[SHOW]url: {}'.format(url))
                 # print(json.dumps(item, indent = 4))
                 if(item["story_text"] is not None):
                     content = text_actions.getTextFromHtml(item["story_text"])
@@ -133,7 +140,7 @@ def run(ts):
                 url = item["url"] 
             entry = [
                 index,
-                "HN",
+                sourceSite,
                 datetime.fromtimestamp(ts),
                 int(ts),
                 item["created_at"],
@@ -150,23 +157,24 @@ def run(ts):
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
 
-
-
-        print(" \t============= scraping showHNs:DONE ========== \n")
+        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting AskHNs """
 
-        print("\t....... scraping askHNs ......\n")
+        print("\t............. scraping askHNs .............")
         url_ask = 'http://hn.algolia.com/api/v1/search_by_date?tags=ask_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(ASKHN_UP_TH)
         data = requests.get(url_ask, timeout=None)
         res_size = json.loads(data.content)["nbHits"]
-        print("\t\t====> Item count: {}\n".format(res_size))
-        TOTAL_ENTRIES += res_size
+
+        print("\t\t\t\t====> Item count: {}".format(res_size))
+
+        TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
         
 
         for item in items_arr:
             content = ''
+            sourceSite = 'HN/ask'
             # print(json.dumps(item, indent = 4))
             if(item["url"] is None): #as AskHNs dont have any url ...hihi...
                 url = 'https://news.ycombinator.com/item?id='+str(item["objectID"])
@@ -178,13 +186,13 @@ def run(ts):
                 url = item["url"] 
             entry = [
                 index,
-                "HN",
+                sourceSite,
                 datetime.fromtimestamp(ts),
                 int(ts),
                 item["created_at"],
                 item["title"],              
                 url,
-                'community',
+                'query',
                 '',
                 item["points"],
                 item["num_comments"],
@@ -194,9 +202,9 @@ def run(ts):
                 ]
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
+        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
+    print("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/table_'+str(int(ts))+'.csv'))
 
-        print(" \t============= scraping askHNs:DONE -> TOTAL_ENTRIES = {} ========== \n".format(TOTAL_ENTRIES))
-    print("\n****************** HN Url Scraping is Complete********************\n")
             
 
 

@@ -257,35 +257,35 @@
 * Topic/Subtopic  <mytagname>     - [static_source1,...]  - [dynamic_source1,...]
 
 
-* 1. Computer Science <cse>                         - [compsci@lobsters,r/compsci,r/computerscience,r/systems]
+* 1. Computer Science <cse>                         - [compsci@lobsters]                           -[r/compsci,r/computerscience,r/systems(0)]  
   * 1.1. Theoretical Computer Science
     * Distributed systems                           - [distributed@lobsters]
     * Data Structures                               - [gfg??,]
-    * Algorithms <algo.cse>                         - [gfg??,r/algorithms]         
+    * Algorithms <algo.cse>                         - [gfg??,]                                     -[r/algorithms]         
     * Graph Theory
     * Coding Philosophy
     * Law, patents, and licensing <law.cse>         - [law@lobsters]
     * Game Theory
     * Discrete Mathematics 
-    * Cryptography(0)<crypto.cse>                  - [crypto@lobsters,r/crypto,r/cryptography]
+    * Cryptography(0)<crypto.cse>                  - [crypto@lobsters,]                            -[r/crypto,r/cryptography]
     * Hardware   <hardware>                         - [hardware@lobsters]
     * Parallel Programming
     * Computability Theory
     * Programming Language Theory <plt.cse>          - [plt@lobsters]
     * Formal Methods  <frme.cse>                     - [formalmethods@@lobsters]
-    * Logic  <logic.cse>                             - [r/logic]
+    * Logic  <logic.cse>                             - ........                                    -[r/logic]
   * 1.2. Computer Engineering
     * Computer Architecture
-    * Compilers <compiler>                           - [compilers@lobsters,r/compilers]
+    * Compilers <compiler>                           - [compilers@lobsters]                        -[r/compilers]
     * Networking  <netwrk>                           - [networking@lobsters]
-    * Operating system <os>                          - [osdev@lobsters,r/osdev]
+    * Operating system <os>                          - [osdev@lobsters]                            -[r/osdev]
       * iOS <ios.os>                                 - [ios@lobsters]
       * android <android.os>                         - [android@lobsters]
       * macOS <mac.os>                               - [mac@lobsters]
       * windows <windows.os>                         - [windows@lobsters]
-      * Linux  <linux.os>                            - [linux@lobsters,r/kernel]
+      * Linux  <linux.os>                            - [linux@lobsters]                            -[r/kernel]
       * Unix <unix.os>                               - [unix@lobsters]
-    * Reverse Engineering <reveng.prog>              - [reversing@lobsters,r/ReverseEngineering]
+    * Reverse Engineering <reveng.prog>              - [reversing@lobsters,]                       -[r/ReverseEngineering]
     * [Software Development]
   * 1.3. Computer Science Applications
     * [ML]  <ml>                                     - [ai@lobsters]
@@ -298,11 +298,11 @@
     * AR-VR
     * IOT
     * Hacking
-    * Big Data <bigdata>                             - [r/bigdata]
-    * Datasets <dataset>                           - [r/datasets]
+    * Big Data <bigdata>                             -  ......                                     -[r/bigdata]
+    * Datasets <dataset>                             -  ......                                     -[r/datasets]
     * [Data Science]
 * 2 Data
-  * 1.1 Data Science <dsc>                           - [r/datascience]
+  * 1.1 Data Science <dsc>                           -  .....                                      -[r/datascience]
     * Statistics
     *  R
     *  Matlab
@@ -313,15 +313,15 @@
       * NLTK
       * Scikit-learn
       * TensorFlow
-    *  Machine Learning <ml>                       - [r/MachineLearning]
-    *  AI ... <ai>                                  - [r/artificial]
+    *  Machine Learning <ml>                        -  .....                                      -[r/MachineLearning]
+    *  AI ... <ai>                                  -  .....                                      -[r/artificial]
     *  Neural Networking (?)
     *  Deep Learning
     *  Jupyter
     *  Kaggle
-    *  NLP <nlp>                                   - [r/LanguageTechnology]
-    *  Computer Vision <cvis>                      - [r/computervision]
-    *  Data Mining <dataming>                      - [r/datamining]
+    *  NLP <nlp>                                   -   .....                                      -[r/LanguageTechnology]
+    *  Computer Vision <cvis>                      -   .....                                      -[r/computervision]
+    *  Data Mining <dataming>                      -   .....                                      -[r/datamining]
   * 1.2 Data Engineering
     * Database <database>                           - [databases@lobsters]
       * SQL
@@ -338,64 +338,64 @@
   * 1.3 Data Analytics
     * Database(+1)
       * SQL(+1)
-    * Data Visualisation <datavis.ds>               - [visualization@lobsters,r/visualization,r/dataisbeautiful]
+    * Data Visualisation <datavis.ds>               - [visualization@lobsters,]                   -[r/visualization,r/dataisbeautiful]
       * Tableau
       * Microsoft Excel
-      * Statistics <stats>                          - [r/statistics]
-* 3. Software Development/Programming <prog>        - [programming@lobsters,r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]
-  * 2.1 Programming Languages<proglng>              -[r/ProgrammingLanguages,r/learnprogramming,r/functionalprogramming]
+      * Statistics <stats>                          -  .......                                    -[r/statistics]
+* 3. Software Development/Programming <prog>        - [programming@lobsters]                    -[r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]
+  * 2.1 Programming Languages<proglng>              -  .......                                    -[r/ProgrammingLanguages,r/learnprogramming,r/functionalprogramming]
     * Programming Language Theory <plt.cse>         - [plt@lobsters]
-    * Assembly Language <assem>                     - [assembly@lobsters,r/asm]
-    * C <c>                                         - [c@lobsters,r/C_Programming,r/c_language]
-    * C++  <cpp>                                    - [c++@lobsters,r/cpp,r/Cplusplus]
+    * Assembly Language <assem>                     - [assembly@lobsters,]                        -[r/asm]
+    * C <c>                                         - [c@lobsters,]                               -[r/C_Programming,r/c_language]
+    * C++  <cpp>                                    - [c++@lobsters,]                             -[r/cpp,r/Cplusplus]
     * Golang <golang>                               - [go@lobsters]
-    * Python <python>                               - [python@lobsters,r/Python]
-    * Scala <scala>                                 - [scala@lobsters,r/scala]
+    * Python <python>                               - [python@lobsters,]                          -[r/Python]
+    * Scala <scala>                                 - [scala@lobsters,]                           -[r/scala]
     * Elixir <elixir>                               - [elixir@lobsters]
     * Elm <elm>                                     - [elm@lobsters]
-    * Erlang  <erlang>                              - [erlang@lobsters,r/erlang]
+    * Erlang  <erlang>                              - [erlang@lobsters,]                          -[r/erlang]
     * Fortran <fortran>                             - [fortran@lobsters]
-    * Haskell <haskell>                             - [haskell@lobsters,r/haskell]
-    * Java <java>                                   - [java@lobsters,r/java]
-    * Javascript <javascript>                       - [javascript@lobsters,r/javascript]
-    * Lisp <lisp>                                   - [lisp@lobsters,r/lisp]
-    * Perl <perl>                                   - [r/perl]
+    * Haskell <haskell>                             - [haskell@lobsters,]                         -[r/haskell]
+    * Java <java>                                   - [java@lobsters,]                            -[r/java]
+    * Javascript <javascript>                       - [javascript@lobsters,]                      -[r/javascript]
+    * Lisp <lisp>                                   - [lisp@lobsters,]                            -[r/lisp]
+    * Perl <perl>                                   - ........                                    -[r/perl]
     * MetaLanguage <>                               - [@lobsters]
     * ObjectiveC <objc>                             - [objectivec@lobsters]
     * Perl <perl>                                   - [perl@lobsters]
-    * PHP <php>                                     - [php@lobsters,r/PHP]
-    * Ruby <ruby>                                   - [ruby@lobsters,r/ruby]
+    * PHP <php>                                     - [php@lobsters,]                             -[r/PHP]
+    * Ruby <ruby>                                   - [ruby@lobsters,]                            -[r/ruby]
     * Rust <rust>                                   - [rust@lobsters]
     * Swift <swift>                                 - [swift@lobsters]
     * D programming <d>                             - [d@lobsters]
     * C# <chash>                                    - [dotnet@lobsters, ...]
     * F# <fhash>                                    - [dotnet@lobsters, ...]
-    * .NET <dotnet>                                 - [dotnet@lobsters,r/dotnet]
+    * .NET <dotnet>                                 - [dotnet@lobsters,]                          -[r/dotnet]
     * HTML <html>                                   - [css@lobsters, ...]
-    * Kotlin  <kotlin>                              - [r/Kotlin]
+    * Kotlin  <kotlin>                              -  .....                                      -[[r/Kotlin]
     * CSS  <css>                                    - [css@lobsters]
   * Frameworks(....) <frm.prog>              
-    * Ruby on Rails <ror>                           - [r/rails]
-    * Django  <django>                              - [r/django]
-    * ReactJS <reactjs>                             - [r/reactjs]
+    * Ruby on Rails <ror>                           - .....                                       -[r/rails]
+    * Django  <django>                              - .....                                       -[r/django]
+    * ReactJS <reactjs>                             - .....                                       -[r/reactjs]
     * NodeJS <nodejs>                               - [nodejs@lobsters,r/node]
-  * 2.2 Software Tools <tools.prog>                 - [r/softwaredevelopment(2)]
+  * 2.2 Software Tools <tools.prog>                 - .....                                       -[r/softwaredevelopment(1)]
     * Git & VCS <vcs.prog>                          - [vcs@lobsters]
     * API <api.prog>                                - [api@lobsters]
     * Virtualization <virtualn.prog>                - [virtualization@lobsters]
     * Editors <editor.prog>                         - [emacs@lobsters,...]
     * Web Browsers <browser>                        - [browsers@lobsters]
-    * AWS <aws>                                     - [r/aws]
+    * AWS <aws>                                     - .....                                       -[r/aws]
     * Azure
     * Kubernetes
     * Docker
     * GCP
-  * Databases <dbs>                                 - [r/Database]
+  * Databases <dbs>                                 - .....                                       -[r/Database]
       * SQL
       * MongoDB
       * Cassandra
       * DashDB
-  * 2.2 Web Development <webd.prog>                 - [web@lobsters,r/webdev]
+  * 2.2 Web Development <webd.prog>                 - [web@lobsters,]                            -[r/webdev]
   * 2.3 App Development <appd.prog>                 - [mobile@lobsters]
     * Android <android>                             - [android@lobsters]
     * iOS <ios>                                     - [ios@lobsters]
@@ -404,42 +404,44 @@
   * 1.6 Software Testing <testing.prog>             - [testing@lobsters]
   * 1.7 DevOps ... <devops>                         - [devops@lobsters]
   * 1.8 Information Security <security>             - [security@lobsters,r/netsec]
-    * Computer Security <compsec>                   - [r/compsec]
-    * Web Security <websec>                         - [r/websec]
+    * Computer Security <compsec>                   - .....                                       -[[r/compsec]
+    * Web Security <websec>                         - .....                                       -[[r/websec]
     * Privacy <privacy>                             - [privacy@lobsters]
-    * Cryptography(1)<crypto.cse>                   - [crypto@lobsters,r/crypto,r/cryptography]
+    * Cryptography(1)<crypto.cse>                   - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
   * System Design
   * 1.9 Design  <design>                            - [design@lobsters]
-    * Computer Graphics <cmpgr>                     - [graphics@@lobsters,r/computergraphics]
-    * Web Design <webdes>                           - [r/web_design]
+    * Computer Graphics <cmpgr>                     - [graphics@@lobsters,]                       -[r/computergraphics]
+    * Web Design <webdes>                           - .....                                       -[r/web_design]
     * UI
     * UX
   * 1.10 Scaling <scaling.prog>                     - [scaling@lobsters]
-  * 1.11 Performance & Optimisation <peropt.prog>   - [performance@lobsters,r/systems(+1)]
-  * 1.12 Development Practices <devpract.prog>      - [practices@lobsters,r/tinycode,r/softwaredevelopment(1)]
+  * 1.11 Performance & Optimisation <peropt.prog>   - [performance@lobsters,]                     -[r/systems(1)]
+  * 1.12 Development Practices <devpract.prog>      - [practices@lobsters,]                       -[r/tinycode,r/softwaredevelopment(2)]
   * 1.13 Acrhitecture
   * 1.14 Product Management
-  * 1.15 Game Dev <gamedev>                         - [games@lobsters,r/gamedev]
-  * Coding Challanges<codingchlg>                   - [r/programmingchallenges]
+  * 1.15 Game Dev <gamedev>                         - [games@lobsters,]                           -[r/gamedev]
+  * Coding Challanges<codingchlg> (0)               - .....                                       - [r/programmingchallenges]
   * Law, patents, and licensing(+2) <law.cse>       - [law@lobsters]
-  * Open Source Projects(0) <opensrc>               - [r/opensource]
-  * Operating system(+2) <os>                       - [osdev@lobsters,r/osdev,r/kernel]
+  * Open Source Projects(0) <opensrc>               - .....                                       -[[r/opensource]
+  * Operating system(+2) <os>                       - [osdev@lobsters,]                           -[r/osdev,r/kernel]
       * iOS(+2) <ios.os>                            - [ios@lobsters]
       * android(+2) <android.os>                    - [android@lobsters]
       * macOS(+2) <mac.os>                          - [mac@lobsters]
       * windows(+2) <windows.os>                    - [windows@lobsters]
       * Linux(+2)  <linux.os>                       - [linux@lobsters]
       * Unix(+2) <unix.os>                          - [unix@lobsters]
+  * Technical Queries <query>(0)                       - .....                                     - [r/AskComputerScience,askHN]
 * 4. Career   <career>                              - [job@lobsters]
-  * Career Queestions<ques.carr>                    - [r/cscareerquestions]
+  * Career Queestions<advise.carr>                    - .....                                       - [r/cscareerquestions]
   * Openings
   * Interview Preparation
   * Interview Experiences
-  * Coding Challanges<codingchlg>(+1)               - [r/programmingchallenges]
+  * Coding Challanges<codingchlg>(1)               - .....                                       - [r/programmingchallenges]
 * 5. Social  
-  * Tech News <technews>                            - [r/technology]                          
-  * Technical discussions <discuss>                 - .....                              - [tellHN]
-  * Technical communities and culture <community>   - [culture@lobsters]                 - [askHN]
+  * Tech News <technews>                            - .....                                       - [[r/technology]                          
+  * Technical discussions <discuss>                 - .....                                       - [tellHN]
+  * Technical Queries <query>(1)                       - .....                                     - [r/AskComputerScience(1),askHN(1)]
+  * Technical communities and culture <community>   - [culture@lobsters]                         
   * Rants(rant@lobsters)
   * Stories about particular persons <person>       - [person@lobsters]
   * Interviews
@@ -451,15 +453,15 @@
     * Art  <art>                                    - [art@lobsters]
     * Books  <book>                                 - [book@lobsters]
     * History <hist.it>                             - [historical@lobsters]
-    * Philosophy(in general)  <phil>                - [r/atheism]
+    * Philosophy(in general)  <phil>  ...           - .....                                       - [[r/atheism]
 * 6. Business
-  * Startup  <startup>                                   ....                            - [launchHN]
+  * Startup  <startup>                              - .....                                       - [launchHN]
   * Saas
   * Freelancing
-  * Self Project <selfproj>                                                              - [showHN]
-  * Open Source Projects(0) <opensrc>               - [r/opensource]
-  * Law, patents, and licensing(+3) <law.cse>       - [law@lobsters]
-* 7. Science <science>                              - [science@lobsters]
+  * Self Project <selfproj>                         - ......                                      - [showHN]
+  * Open Source Projects(0) <opensrc>               - .....                                       - [r/opensource]
+  * Law, patents, and licensing(+3) <law.cse>       - .....                                       - [law@lobsters]
+* 7. Science <science>                              - .....                                       - [science@lobsters]
   * Physics
     * Astronomy & Astrophysics
     * Quantum Physics
@@ -471,16 +473,16 @@
   * Neuroscience
   * Psychology
   * Electrical Engineering 
-* 8. Mathematics  <maths>                           - [math@lobsters,r/math,r/mathematics]
-  * Statistics(1) <stats>                              - [r/statistics]
+* 8. Mathematics  <maths>                           - [math@lobsters,]                            - [r/math,r/mathematics]
+  * Statistics(1) <stats>                           - .....                                       - [r/statistics]
   * Geometry
   * Calculus
   * Algebra
   * Game Theory
   * Graph Theory
   * Discrete Mathematics(+1)
-  * Cryptography(2)<crypto.cse>                  - [crypto@lobsters,r/crypto,r/cryptography]
-  * Logic <logic>                                   - [r/logic(1)]
+  * Cryptography(2)<crypto.cse>                     - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
+  * Logic <logic>                                   - .....                                       -[[r/logic(1)]
 * 9. Finance & Economics
   * Economics
   * Finance  <finance>                              - [finance@lobsters]
@@ -488,7 +490,6 @@
   * Investment
   * Bitcoin
   * Blockchain
-    * Bitcoin <bitcoin>                             - [r/Bitcoin]
+    * Bitcoin <bitcoin>                             - .....                                       -[[r/Bitcoin]
   * Cryptocurrencies <crypto.fin>                   - [cryptocurrencies@lobsters]
-* 10. Ask(to be put in [prog]&[social])<ask>        - [r/AskComputerScience,askHN@HN]
 

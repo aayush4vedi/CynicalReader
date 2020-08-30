@@ -180,7 +180,9 @@
     * [x] ShowHN: with just the text(not url) => put text in content
     * [x] AskHN: content
     * LATER: For Jobs@HN entries put `job` tag => later as these entries dont have upvotes/comments
-  * [] TODO: update r_scraper.py
+    * NOTE: takes 30s for a week's data(500 entries avg)
+  * [x] update r_scraper.py
+    * NOTE: takes about 3 mins for a week's data(6.5k entries avg)
   * [] TODO: create ih_scraper.py
   * [] TODO: create ph_scraper.py
   * [] TODO: update content_scraper.py & then delete article_scraper.py
