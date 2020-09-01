@@ -15,10 +15,16 @@ def run(ts):
         Outpu: None, just put data in WC-DB
     """
 
-    """ Initialize the weekly content table in wc-db"""
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
+    """ Initialize the weekly content table in wc-db and wp-db"""
+    
+    wc_db_table = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
-    csv_functions.creteCsvFile(csv_file,headers)
+    csv_functions.creteCsvFile(wc_db_table,headers)
+
+    wp_db_table = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wp-db/wp_table_'+str(int(ts))+'.csv'
+    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
+    csv_functions.creteCsvFile(wp_db_table,headers)
+
 
     """ Run the scrapers sequentially """
 

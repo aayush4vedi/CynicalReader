@@ -181,12 +181,65 @@
     * [x] AskHN: content
     * LATER: For Jobs@HN entries put `job` tag => later as these entries dont have upvotes/comments
     * NOTE: takes 30s for a week's data(500 entries avg)
-  * [x] update r_scraper.py
+  * [x] `r_scraper.py`
     * NOTE: takes about 3 mins for a week's data(6.5k entries avg)
-  * [] TODO: create ih_scraper.py
-  * [] TODO: create ph_scraper.py
-  * [] TODO: update content_scraper.py & then delete article_scraper.py
+    * [x] Enrichments for non-stupid scraping
+  * [@] **Postponed for v2** create ih_scraper.py
+    * NO API: scraping banned(same for PH)
+  * [-] create ph_scraper.py
+    * NOTE: takes 20 seconds for week's data(150 avg)
+    * [x] Handle Retries for 'Rate Limit on API': 900 requests every 15 min.[doc](https://api.producthunt.com/v1/docs/rate_limits/headers) =>Add 2 retries after 16 mins gap
+    * [-] Create separate dictinary for PH tags & link them to orignal_dictionary.
+      * TODO: Link dictionary.md's `startup` /`product-release` / `saas` etc ???
+    * [x] Create separate db for products- Weekly Products DB (WP-DB).
+      * WHY? Becuase Product content already has tags (& also not enough data to apply NLP on and I'm not planning to scrape comments & then do NLP rn), and need thumbnail url as well.So keep wc-db & wp-db separate.
+  * [x] Create `content_scraper.py`
+    * NOTE: first run on 1 week's data=(HN+r) took `17.5 hours` for scraping alone! , get 12MB file
+    * [x] Enrichments to do efficinet scraping.Checks:
+      * #CHECK1(pre scraping): if (content != NULL) => no scraping, just put it in as is content = clean_text(row["content"])
+      * #CHECK2(pre scraping): if(url == NULL)=>discard(we dont want such entreis in newsletter, duh!)
+      * #CHECK3(pre scraping): if (row["title"]==NULL)=>discard
+      * #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)=>row["weightedContent"] = clean_text(row["title"]) and row["Content"] = clean_text(row["title"])
+      * Feature: weightedContetn += clean_text(row["title"])
+    * [x]why does it wait forever??????????? (was doing the same when I was scraping originally too)
+      * => Timeout of 10 seconds with #retries = 2
+    * [x] Do updating in the same file??? => NO
+    * [ ] TODO: is it better to run `content_scraper` in sync with `url_scrapers` ???
+  * [-] Enrichment of `clean_text` function:
+    * 1. [] Dont waste urls/anchor tag's data => it does contain useful information
+    * 2. [] Not efficient at all. See how you massacard my boy:
+      * EG1#INPUT:
+          `TITLE: [Pure gold] The internet explained
+          BODY:
+              I'd like to share a masterpiece article I found by accident that explains the internet.
+              If the author sees this, please know that I'm following you, keep being awesome.
+              [https://explained-from-first-principles.com/internet/](https://explained-from-first-principles.com/internet/#number-encoding)"`
 
+      * EG1#OUTPUT:
+            `overflow last week good read`
+      * EG2#INPUT:
+          `TITLE: Matplot++: A C++ Graphics Library for Data Visualization
+          BODY:"Data visualization can help programmers and scientists identify trends in their data and efficiently communicate these 
+              results with their peers. Modern C++ is being used for a variety of scientific applications, and this environment can benefit 
+              considerably from graphics libraries that attend the typical design goals toward scientific data visualization. Besides the 
+              option of exporting results to other environments, the customary alternatives in C++ are either non-dedicated libraries that 
+              depend on existing user interfaces or bindings to other languages. Matplot++ is a graphics library for data visualization that 
+              provides interactive plotting, means for exporting plots in high-quality formats for scientific publications, a compact syntax 
+              consistent with similar libraries, dozens of plot categories with specialized algorithms, multiple coding styles, and supports 
+              generic backends.
+              &#x200B;[https://github.com/alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)"`
+      * EG2#OUTPUT:
+            `WEIGHTEDCONTENT: 
+                http githubcomalandefreitasmatplotplusplus
+            CONTENT:
+                data visualization help programmer scientist identify trend data efficiently communicate result peer modern c used variety 
+                scientific application environment benefit considerably graphic library attend typical design goal toward scientific data 
+                visualization besides option exporting result environment customary alternative c either nondedicated library depend existing 
+                user interface binding language matplot graphic library data visualization provides interactive plotting mean exporting plot 
+                highquality format scientific publication compact syntax consistent similar library dozen plot category specialized algorithm 
+                multiple coding style support generic backendshttps githubcomalandefreitasmatplotplusplus`
+  * Set upvotes/comments threshold values for HN, /r, PH
+  * [] Make `PopICalc.py`
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website

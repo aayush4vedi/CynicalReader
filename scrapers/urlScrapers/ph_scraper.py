@@ -16,7 +16,7 @@ import vault
 
 def run(ts):
     """
-        Scrapes PH api for last 7 days & puts data in WC-DB.
+        Scrapes PH api for last 7 days & puts data in WP-DB.
             * Api supports daywaise only. So scrape for one day at a time
             * Link to documentation: https://api.producthunt.com/v1/docs/posts/posts_index_request_a_specific_day_with_the_%60day%60_parameter_(tech_category)
         * NOTE:
@@ -26,12 +26,11 @@ def run(ts):
             * Content = Tagline
             * URL: is the PH url only. Going to the product page & then finding the actual link is overkill
                 * (this could also help later on getting their permission while monetizing)
-            * FIXME: Where to keep image-thumbnail url in db??????????????????????????
             * Used self-retry logic. but check this package:: Read about requests.retries here: [doc](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/#retry-on-failure), [stkofw](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library?rq=1)
         Input: ts (format: 1598692058.887741)
     """
 
-    print('@[{}] >>>>>> Started PH-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print('@[{}] >>>>>> Started PH-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))
 
     """
         here is how you add day to `ts`:
@@ -61,7 +60,8 @@ def run(ts):
         "Authorization": "Bearer " + vault.PH_ACCESS_TOKEN ,
         "Host": "api.producthunt.com"
     }
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
+
+    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wp-db/wp_table_'+str(int(ts))+'.csv'
     index = 1
 
     for date in days_arr:
@@ -76,7 +76,7 @@ def run(ts):
                 for item in items_arr:
                     # print(json.dumps(item, indent = 4))
                     """ get all the tags attached along with the item """
-                    source_tags = ['product']
+                    source_tags = []
                     for tag in item["topics"]:
                         source_tags.append(tag["name"])
                     entry = [
@@ -87,20 +87,20 @@ def run(ts):
                         item["created_at"],
                         item["name"],             
                         item["discussion_url"],
+                        item["thumbnail"]["image_url"],
                         source_tags,
-                        '',
                         item["votes_count"],
                         item["comments_count"],
-                        '',
                         '',
                         item["tagline"]
                         ]
                     csv_functions.putToCsv(csv_file,entry)
                     index=index+1
+
         except Exception as e:
             print(" \t xxxxxxxxxxxxx ERROR xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
             pass
 
         print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(index+1))
 
-    print("\n****************** PH Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(index+1,'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print("\n****************** PH Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(index+1,'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))

@@ -8,3 +8,6 @@
 .ipynb_checkpoints
 __pycache__
 *.pyc
+
+vault.py
+ph_tags_data.py

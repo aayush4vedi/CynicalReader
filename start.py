@@ -2,10 +2,7 @@ import time
 from datetime import datetime
 import csv
 
-from scrapers import url_scraper_runner
-from utilities import csv_functions
-
-
+from scrapers import url_scraper_runner, content_scraper
 
 if __name__ == '__main__':
     
@@ -14,16 +11,14 @@ if __name__ == '__main__':
     
     print(" current time: {}".format(current_time))
 
-    """ Initialize the weekly content table in wc-db"""
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
-    csv_functions.creteCsvFile(csv_file,headers)
+    """ Run URL Scrapers : url_scarper.py  => update WC-DB & WP-DB """
     
-    """ Run URL Scrapers : url_scarper.py  => update WC-DB """
-    
-    url_scraper_runner.run(ts)
+    # url_scraper_runner.run(ts)
     
     """ Run Conent Scraper : content_scraper.py => update WC-DB """
+
+    # content_scraper.run(ts)
+    content_scraper.run(1598854439)
     
     """ Run Tagger => update WC-DB """
     

@@ -23,7 +23,7 @@ def run(ts):
         Input: ts (format: 1598692058.887741)
     """
 
-    print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
     """
         here is how you add day to `ts`:
@@ -50,7 +50,7 @@ def run(ts):
     STORY_UP_TH  = 50     #TODO: change this
     SHOWHN_UP_TH = 10     #TODO: change this
     ASKHN_UP_TH  = 10     #TODO: change this
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
+    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     # f = csv.writer(open(csv_file, 'a',newline=''))  
     index = 1
     TOTAL_ENTRIES_YET = 0
@@ -207,7 +207,7 @@ def run(ts):
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
         print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
-    print("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
             
 

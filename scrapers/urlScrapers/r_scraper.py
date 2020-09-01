@@ -83,9 +83,9 @@ def run(ts):
         Hence no use of `ts` here
     """
 
-    print('@[{}] >>>>>> Started r-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print('@[{}] >>>>>> Started r-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/table_'+str(int(ts))+'.csv'
+    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     index = 1
     TOTAL_ENTRIES_YET = 0
     # Setup Client
@@ -101,27 +101,41 @@ def run(ts):
         sr = reddit.subreddit(subreddit)
         # for submission in sr.top('day',limit=10):                   # For testing....
         for submission in sr.top('week',limit=1000):              #NOTE: max limit is 1000
-            entry = [
-                index,
-                "r/"+subreddit,
-                datetime.fromtimestamp(ts),
-                int(ts),
-                datetime.fromtimestamp(submission.created),
-                submission.title,              
-                submission.url,
-                tag_arr,
-                '',
-                submission.score,
-                submission.num_comments,
-                '',
-                '',
-                submission.selftext
-                ]
-            # print('\t\t => entry: {}'.format(entry))
-            csv_functions.putToCsv(csv_file,entry)
-            index += 1
-            TOTAL_ENTRIES_YET += 1
+            #Check1: if the post is unlocked by mods
+            content = ''
+            
+            """ Fixing permalink type urls """
+            url = submission.url
+            if(url[:2]== '/r'):
+                url = "https://www.reddit.com" + url 
+            if(submission.locked == False):
+                #Check2: if post is just an image, discard it
+                if(submission.url[-4:] != ".jpg" and submission.url[-4:] != ".png"  and submission.url[-4:] != ".gif"):  #as reddit currentluy hosts .png & .gif only
+                    # if permalink is a substring of url OR submission is a selfpost (text-only) => no need to scrape  
+                    # NOTE: I know there might be links in post with some discription+link to other article he's reffering; but not worth wasting precious processing time
+                    if((submission.permalink in submission.url) or (submission.is_self == True)):
+                        content = submission.selftext
+                    entry = [
+                        index,
+                        "r/"+subreddit,
+                        datetime.fromtimestamp(ts),
+                        int(ts),
+                        datetime.fromtimestamp(submission.created),
+                        submission.title,              
+                        url,
+                        tag_arr,
+                        '',
+                        submission.score,
+                        submission.num_comments,
+                        '',
+                        '',
+                        content
+                    ]
+                    # print('\t\t => entry: {}'.format(entry))
+                    csv_functions.putToCsv(csv_file,entry)
+                    index += 1
+                    TOTAL_ENTRIES_YET += 1
         print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
-    print("\n****************** Reddit Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/table_'+str(int(ts))+'.csv'))
+    print("\n****************** Reddit Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
