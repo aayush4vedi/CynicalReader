@@ -47,8 +47,9 @@ def run(ts):
                         row["NumUpvotes"],
                         row["NumComments"],
                         row["PopI"],
-                        text_actions.clean_text(row["Content"]),
-                        text_actions.clean_text(row["Title"] + row["WeightedContent"])]
+                        text_actions.clean_text(row["Content"]) + text_actions.getUrlString(row["Content"]),
+                        text_actions.clean_text(row["Title"] + row["WeightedContent"]) + text_actions.getUrlString(row["Content"])  #add the url-words too
+                        ]
                 f = csv.writer(open(csv_dest_file, "a"))  
                 f.writerow(entry)
             #CHECK2(pre scraping): if(url == NULL)=>discard
@@ -60,8 +61,8 @@ def run(ts):
                     # response = web_requests.hitGetWithRetry(url,TIMEOUT=10)
                     response = web_requests.hitGetWithRetry(url,'',False ,2,5,10)
                     if response.status_code == 200:
-                        content = text_actions.contentfromhtml(response)
-                        weightedcontent = text_actions.contentfromhtml(row["Title"]) + text_actions.weightedcontentfromhtml(response)  
+                        content = text_actions.contentfromhtml(response) + text_actions.getUrlString(content) #add the url-words too
+                        weightedcontent = text_actions.contentfromhtml(row["Title"]) + text_actions.weightedcontentfromhtml(response) + text_actions.getUrlString(content) #add the url-words too
                         line_count += 1
                         #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)<already checked abouve>=> row["Content"] = clean_text(row["title"]) AND row["weightedContent"] = clean_text(row["title"])
                         if(len(content) == 0):
@@ -81,7 +82,7 @@ def run(ts):
                                 row["NumUpvotes"],
                                 row["NumComments"],
                                 row["PopI"],
-                                text_actions.clean_text(weightedcontent),
+                                text_actions.clean_text(weightedcontent) ,
                                 text_actions.clean_text(content)]
                             
                         f = csv.writer(open(csv_dest_file, "a"))          

@@ -206,39 +206,20 @@
     * [x] Do updating in the same file??? => NO
     * [ ] TODO: is it better to run `content_scraper` in sync with `url_scrapers` ???
   * [-] Enrichment of `clean_text` function:
-    * 1. [] Dont waste urls/anchor tag's data => it does contain useful information
-    * 2. [] Not efficient at all. See how you massacard my boy:
-      * EG1#INPUT:
-          `TITLE: [Pure gold] The internet explained
-          BODY:
-              I'd like to share a masterpiece article I found by accident that explains the internet.
-              If the author sees this, please know that I'm following you, keep being awesome.
-              [https://explained-from-first-principles.com/internet/](https://explained-from-first-principles.com/internet/#number-encoding)"`
-
-      * EG1#OUTPUT:
-            `overflow last week good read`
-      * EG2#INPUT:
-          `TITLE: Matplot++: A C++ Graphics Library for Data Visualization
-          BODY:"Data visualization can help programmers and scientists identify trends in their data and efficiently communicate these 
-              results with their peers. Modern C++ is being used for a variety of scientific applications, and this environment can benefit 
-              considerably from graphics libraries that attend the typical design goals toward scientific data visualization. Besides the 
-              option of exporting results to other environments, the customary alternatives in C++ are either non-dedicated libraries that 
-              depend on existing user interfaces or bindings to other languages. Matplot++ is a graphics library for data visualization that 
-              provides interactive plotting, means for exporting plots in high-quality formats for scientific publications, a compact syntax 
-              consistent with similar libraries, dozens of plot categories with specialized algorithms, multiple coding styles, and supports 
-              generic backends.
-              &#x200B;[https://github.com/alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)"`
-      * EG2#OUTPUT:
-            `WEIGHTEDCONTENT: 
-                http githubcomalandefreitasmatplotplusplus
-            CONTENT:
-                data visualization help programmer scientist identify trend data efficiently communicate result peer modern c used variety 
-                scientific application environment benefit considerably graphic library attend typical design goal toward scientific data 
-                visualization besides option exporting result environment customary alternative c either nondedicated library depend existing 
-                user interface binding language matplot graphic library data visualization provides interactive plotting mean exporting plot 
-                highquality format scientific publication compact syntax consistent similar library dozen plot category specialized algorithm 
-                multiple coding style support generic backendshttps githubcomalandefreitasmatplotplusplus`
-  * Set upvotes/comments threshold values for HN, /r, PH
+    * 1. [] Dont waste urls~~/anchor tag~~'s data => it does contain useful information
+    * TODO: do this again after 2nd scraping is done(with new content_scrpae) **ISSUES with getting useful text:**
+      * FOR REDDIT:
+        * [] `readability` isnt reliable at all( something wrong with `Document(response.text).summary()` .Search for alternatives???
+        * [x] `getweightedcontent` isnt parsing url to get words, just copying url as it is
+          * => find all urls in text->get useful words(other than 'http','www','com'), call it `urlString`
+            * add them to weightedContent
+            * replace that part of content with urlString
+        * [x] Add title in `getweightedcontent`
+      * FOR HN:
+    * ISSUES with clean_text:
+      * [] Add <space> when deleting a special character
+      * [] Create my own dictionary to exempt few words from getting remove(like c++, .py, .js , Node.js etc)
+   * Set upvotes/comments threshold values for HN, /r, PH
   * [] Make `PopICalc.py`
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
