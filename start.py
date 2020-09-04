@@ -13,12 +13,12 @@ if __name__ == '__main__':
 
     """ Run URL Scrapers : url_scarper.py  => update WC-DB & WP-DB """
     
-    # url_scraper_runner.run(ts)
+    url_scraper_runner.run(ts)
     
     """ Run Conent Scraper : content_scraper.py => update WC-DB """
 
-    # content_scraper.run(ts)
-    content_scraper.run(1598854439)
+    content_scraper.run(ts)
+    # content_scraper.run(1599005541)
     
     """ Run Tagger => update WC-DB """
     
@@ -27,7 +27,6 @@ if __name__ == '__main__':
     """ Run Newsletter Generator """
     
     """ Run Admin View Maker """
-    
     
     
     

@@ -70,6 +70,7 @@ def run(ts):
         url_story = 'http://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(STORY_UP_TH)
         # data = requests.get(url_story, timeout=None)
         data = web_requests.hitGetWithRetry(url_story)
+        # if(data != -1):
         res_size = json.loads(data.content)["nbHits"]
 
         print("\t\t\t\t====> Item count: {}".format(res_size))
@@ -230,13 +231,3 @@ def run(ts):
 
 
 
-
-
-
-
-
-
-
-
-
-        

@@ -14,7 +14,7 @@ def run(ts):
         Input: ts (format: 1598692058.887741)
     """
 
-    print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'))
+    print('@[{}] >>>>>> Started Content-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'))
 
     csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'
@@ -47,22 +47,27 @@ def run(ts):
                         row["NumUpvotes"],
                         row["NumComments"],
                         row["PopI"],
-                        text_actions.clean_text(row["Content"]) + text_actions.getUrlString(row["Content"]),
-                        text_actions.clean_text(row["Title"] + row["WeightedContent"]) + text_actions.getUrlString(row["Content"])  #add the url-words too
+                        text_actions.clean_text(row["Title"] + row["WeightedContent"]) + text_actions.getUrlString(row["Content"]),  #add the url-words too
+                        text_actions.clean_text(row["Content"]) + text_actions.getUrlString(row["Content"])
                         ]
                 f = csv.writer(open(csv_dest_file, "a"))  
                 f.writerow(entry)
             #CHECK2(pre scraping): if(url == NULL)=>discard
             #CHECK3(pre scraping): if (row["title"]==NULL)=>discard
-            else if ((len(row["Url"]) != 0)and(len(row["Title"]) != 0)):
+            elif ((len(row["Url"]) != 0)and(len(row["Title"]) != 0)):
                 print("\t <ID = {} > [SCRAPING BEGIN] sleeping for 0.0001 second ZZZZZZzzzzzzzzzzzz................. NOW: {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime())))
                 time.sleep(0.0001) 
                 try:
                     # response = web_requests.hitGetWithRetry(url,TIMEOUT=10)
-                    response = web_requests.hitGetWithRetry(url,'',False ,2,5,10)
-                    if response.status_code == 200:
-                        content = text_actions.contentfromhtml(response) + text_actions.getUrlString(content) #add the url-words too
-                        weightedcontent = text_actions.contentfromhtml(row["Title"]) + text_actions.weightedcontentfromhtml(response) + text_actions.getUrlString(content) #add the url-words too
+                    response = web_requests.hitGetWithRetry(row["Url"],'',False ,2,5,10)
+                    # if response.status_code == 200:
+                    if response != -1:
+                        # content = text_actions.contentfromhtml(response)  #NOTE: for sync
+                        content = text_actions.contentfromhtml(response.text)  #NOTE: for Async
+                        urlstrings = text_actions.getUrlString(content)
+                        content += urlstrings #add the url-words too
+                        # weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row["Title"] + urlstrings #add the url-words too      #NOTE: for sync
+                        weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row["Title"] + urlstrings #add the url-words too        #NOTE: for async
                         line_count += 1
                         #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)<already checked abouve>=> row["Content"] = clean_text(row["title"]) AND row["weightedContent"] = clean_text(row["title"])
                         if(len(content) == 0):
@@ -83,13 +88,14 @@ def run(ts):
                                 row["NumComments"],
                                 row["PopI"],
                                 text_actions.clean_text(weightedcontent) ,
-                                text_actions.clean_text(content)]
+                                text_actions.clean_text(content)
+                                ]
                             
                         f = csv.writer(open(csv_dest_file, "a"))          
                         f.writerow(entry)
                         print("\t\t <ID = {} > ============== Scraping Done....... \t NOW: {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime())))
                     else:
-                        print("\t\txxxxx SKIPPING... for ID: {} Found Error code: {} , ".format(row["ID"],response.status_code))
+                        print("\t\txxxxx SKIPPING... for ID: {} Unable to hit url: {} , ".format(row["ID"],row["Url"]))
                 except Exception as e:
                     print("\t======= XXXXXXXX ERROR XXXXXX ======>> ID= {} NOW = {} Skipping...Failed due to: \n \t\t ERROR {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime()) ,e))
                     pass

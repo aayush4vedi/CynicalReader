@@ -68,7 +68,7 @@ def run(ts):
         print(" ................. scraping for date =  {} .................\n".format(date))
         url = 'https://api.producthunt.com/v1/posts?day=' + date
         try:
-            data = web_requests.hitGetWithRetry(url,PH_REQ_HEADERS,2,5)
+            data = web_requests.hitGetWithRetry(url,PH_REQ_HEADERS,False ,2,5,10)
             if(data == -1):
                 print("\t\txxxxxx Unable to hit {} after 2 retries.Skipping this date( {} ) xxxxxx\n".format(url,date))
             else:

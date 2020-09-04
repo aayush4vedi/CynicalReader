@@ -2,16 +2,16 @@ import string
 import requests
 import re 
 from urlextract import URLExtract
-from readability import Document
 
 import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
+from readability import Document
 from bs4 import BeautifulSoup
 
-
+#TODO: do: article = Document(response) & pass response.text as func arg from wherever its' been called i.e. in all files: contentfromhtml(response.text)
 def contentfromhtml(response):
     """
         get meaningful content from article page.Uses `readability` pkg
@@ -41,7 +41,7 @@ def contentfromhtml(response):
     text = ' '.join(chunk for chunk in chunks if chunk)
     return text
 
-
+#TODO: do: article = Document(response) & pass response.text as func arg from wherever its' been called i.e. in all files: weightedcontentfromhtml(response.text)
 def weightedcontentfromhtml(response):
     """
         get emphasised words from meaningful content from article page
@@ -62,6 +62,7 @@ def weightedcontentfromhtml(response):
         'a',
         # other elements,
         ]
+    #FIXME: also keeps words like `com` , dates/time, full_length_urls, garbage words .Remove them
     weightedcontent = ' '.join(t for t in soup.find_all(text=True) if t.parent.name in whitelist) 
     return weightedcontent
 
@@ -100,13 +101,20 @@ def clean_text(text):
     Mainly to be put in weightedcontent
 """
 def getUrlString(intxt):
-    common_url_words = ['http', 'https', 'www', 'com']
+    common_url_words = ['http', 'https', 'www', 'com', 'html']
     extractor = URLExtract()
     urls = extractor.find_urls(intxt)
     urlstring = ' '.join(urls)
     clean_url_string = re.sub('[^A-Za-z0-9]+', ' ', urlstring)
-    print("clean_url_string: ",clean_url_string)
     clean_url_list = [w for w in clean_url_string.split()]
-    print("clean_url_list: ",clean_url_list)
-    new_list = [word for word in clean_url_list if word not in common_url_words]
+    new_list = [word for word in clean_url_list if (word not in common_url_words and word.isalpha())]   # remove numbers from url
     return ' '.join(new_list)
+
+
+"""
+    Given HTML content as string; removes <tags> & gives the pure content
+    * Just used for HN
+"""
+def getTextFromHtml(raw_text):
+    soup = BeautifulSoup(raw_text)
+    return soup.get_text()

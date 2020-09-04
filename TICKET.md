@@ -173,7 +173,6 @@
   * => **Tmp Soln** : use local csv files for dev
 * [-] Scraping: <29Aug30-30Aug30>
   * [x] `hn_scraper.py`
-    * TODO: update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
     * Special Story cases:
       * [x] TellHN
       * [x] LaunchHN
@@ -190,23 +189,38 @@
     * NOTE: takes 20 seconds for week's data(150 avg)
     * [x] Handle Retries for 'Rate Limit on API': 900 requests every 15 min.[doc](https://api.producthunt.com/v1/docs/rate_limits/headers) =>Add 2 retries after 16 mins gap
     * [-] Create separate dictinary for PH tags & link them to orignal_dictionary.
-      * TODO: Link dictionary.md's `startup` /`product-release` / `saas` etc ???
     * [x] Create separate db for products- Weekly Products DB (WP-DB).
       * WHY? Becuase Product content already has tags (& also not enough data to apply NLP on and I'm not planning to scrape comments & then do NLP rn), and need thumbnail url as well.So keep wc-db & wp-db separate.
   * [x] Create `content_scraper.py`
-    * NOTE: first run on 1 week's data=(HN+r) took `17.5 hours` for scraping alone! , get 12MB file
-    * [x] Enrichments to do efficinet scraping.Checks:
+    * NOTE: Run time:
+      * first run on 1 week's data=(HN+r) took `17.5 hours` for scraping alone! , get 12MB file
+      * Post Enrichment: `3 hours`, file size = `13.5 MB`
+      * Post Enrichment+Async: ???
+    * [x]why does it wait forever??????????? (was doing the same when I was scraping originally too)
+      * => Timeout of 10 seconds with #retries = 2
+    * [x] Do updating in the same file??? => NO
+    * [x] **Enrichments to do efficinet scraping** .Checks:
       * #CHECK1(pre scraping): if (content != NULL) => no scraping, just put it in as is content = clean_text(row["content"])
       * #CHECK2(pre scraping): if(url == NULL)=>discard(we dont want such entreis in newsletter, duh!)
       * #CHECK3(pre scraping): if (row["title"]==NULL)=>discard
       * #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)=>row["weightedContent"] = clean_text(row["title"]) and row["Content"] = clean_text(row["title"])
       * Feature: weightedContetn += clean_text(row["title"])
-    * [x]why does it wait forever??????????? (was doing the same when I was scraping originally too)
-      * => Timeout of 10 seconds with #retries = 2
-    * [x] Do updating in the same file??? => NO
-    * [ ] TODO: is it better to run `content_scraper` in sync with `url_scrapers` ???
-  * [-] Enrichment of `clean_text` function:
+      * FIXME: [x] for HN post with content exists, there's just title in final content....seriously WTF!!
+      * FIXME: [x] weightedcontent is same as content for HN#274
+      * TODO: [-] Try async for content downloading
+        * [x] Demo: time reduced exponantially as compared to sync
+        * [x] Remove ssl error - `ClientSession(headers={'Connection': 'keep-alive'})`
+        * [x] How to limit max_number fo requests: `asyncio.Semaphore(1000)` 
+        * [x] Run getcontentFromHtml, getWeightedContent etc on response
+        * [x] Retries on error
+        * [ ] How to read & write with excel file
+        * [ ] how to embed in content_scraper
+        * [ ] Run one scraping round & analyse
+      * [x] is it better to run `content_scraper` in sync with `url_scrapers` 
+        * => NO, because; if url_scrapers failed, there's not point in running content_scraper; so try max_time & max_retries for url_scrapers
+  * [-] TODO: Enrichment of `clean_text` function:
     * 1. [] Dont waste urls~~/anchor tag~~'s data => it does contain useful information
+    * TODO: fix `getcontentfromhtml` before next scraping
     * TODO: do this again after 2nd scraping is done(with new content_scrpae) **ISSUES with getting useful text:**
       * FOR REDDIT:
         * [] `readability` isnt reliable at all( something wrong with `Document(response.text).summary()` .Search for alternatives???
@@ -217,10 +231,13 @@
         * [x] Add title in `getweightedcontent`
       * FOR HN:
     * ISSUES with clean_text:
-      * [] Add <space> when deleting a special character
+      * [x] Add <space> when deleting a special character
       * [] Create my own dictionary to exempt few words from getting remove(like c++, .py, .js , Node.js etc)
    * Set upvotes/comments threshold values for HN, /r, PH
-  * [] Make `PopICalc.py`
+  * Make `PopICalc.py`
+    * [] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
+  * Make map of maps:
+    * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website

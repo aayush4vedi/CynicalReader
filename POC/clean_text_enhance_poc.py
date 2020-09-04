@@ -45,21 +45,32 @@ if __name__ == "__main__":
     #     intxt = content
     #     outtxt = text_actions.clean_text(intxt)
     #     print("===============<<<<<< clean_text(CONTENT): \n{}".format(outtxt))
-    intxt = """
-        I'd like to share a master-piece article I fou::nd by ac/cident that explains the internet.
+    # intxt = """
+    #     I'd like to share a master-piece article I fou::nd by ac/cident that explains the internet.
 
-        If the author sees this, please know that I'm following you, keep being awesome.
+    #     If the author sees this, please know that I'm following you, keep being awesome.
 
-        [https://explained-from-first-principles.com/internet/](https://explained-from-first-principles.com/internet/#number-encoding)"
+    #     [https://explained-from-first-principles.com/internet/](https://explained-from-first-principles.com/internet/#number-encoding)"
+    # """
+    # # intxt = 'https://explained-from-first-principles.com/internet/'
+
+    # print("===============>>>>>> INPUT: \n{}".format(intxt))
+    # # print("===============<<<<<< URLS: \n{}".format(findUrl(intxt)))
+
+
+    # # print("===============<<<<<< URLString: \n{}".format(getStringFromUrls(intxt)))
+    # # outtxt = text_actions.clean_text(intxt)
+    # outtxt = getUrlString(intxt)
+    # print("===============<<<<<< OUTPUT: \n{}".format(outtxt))
+    intext = """
+    Share your information if you are looking for work. Please use this format:  Location:
+        Remote:
+        Willing to relocate:
+        Technologies:
+        Résumé/CV:
+        Email:
+
+    Readers: please only email these addresses to discuss work opportunities.
     """
-    # intxt = 'https://explained-from-first-principles.com/internet/'
 
-    print("===============>>>>>> INPUT: \n{}".format(intxt))
-    # print("===============<<<<<< URLS: \n{}".format(findUrl(intxt)))
-
-
-    # print("===============<<<<<< URLString: \n{}".format(getStringFromUrls(intxt)))
-    # outtxt = text_actions.clean_text(intxt)
-    outtxt = getUrlString(intxt)
-    print("===============<<<<<< OUTPUT: \n{}".format(outtxt))
-
+    outtext = text_actions.clean_text(row["Content"]) 
