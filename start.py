@@ -4,6 +4,7 @@ import csv
 
 from scrapers import url_scraper_runner, content_scraper
 
+
 if __name__ == '__main__':
     
     ts = datetime.now().timestamp()
@@ -17,8 +18,9 @@ if __name__ == '__main__':
     
     """ Run Conent Scraper : content_scraper.py => update WC-DB """
 
-    content_scraper.run(ts)
-    # content_scraper.run(1599005541)
+    content_scraper.RunAsync(ts)
+    # content_scraper.RunAsync(1599009243)        
+    # content_scraper.RunSync(1599009243)        
     
     """ Run Tagger => update WC-DB """
     

@@ -412,17 +412,322 @@
 
 
 """ ================================ POC: (async) Read from csv & write to csv ==================================================== """
+# Ref: https://stackoverflow.com/questions/57871450/async-read-csv-of-several-data-frames-in-pandas-why-isnt-it-faster
+# # Article: https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+# import requests
+# from utilities import text_actions
+# import asyncio
+# from aiohttp import ClientSession, TCPConnector
+# import time
+# import csv
+# import string
+
+# import ssl
+
+# from readability import Document
+# from bs4 import BeautifulSoup
+
+
+# def contentfromhtml(response):
+#     """
+#         get meaningful content from article page.Uses `readability` pkg
+#         INPUT: http response object.E.g: `response = requests.get(url,verify=False,timeout=30)`
+#         OUTPUT: single string of text
+#     """
+
+#     ## original starts=======
+#     article = Document(response)
+#     html = article.summary()
+#     soup = BeautifulSoup(html)
+#     ## ==========oring ends
+
+#     # kill all script and style elements
+#     for script in soup(["script", "style"]):
+#         script.extract()    # rip it out
+
+#     text = soup.get_text()
+#     lines = (line.strip() for line in text.splitlines())
+#     chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+#     text = ' '.join(chunk for chunk in chunks if chunk)
+#     return text
+
+# def weightedcontentfromhtml(response):
+#     """
+#         get emphasised words from meaningful content from article page
+#         INPUT: http response object.E.g: `response = requests.get(url,verify=False,timeout=30)`
+#         OUTPUT: single string of text
+#     """
+#     article = Document(response)
+#     html = article.summary()
+#     soup = BeautifulSoup(html)
+#     whitelist = [
+#         'h1',
+#         'h2',
+#         'h3',
+#         'h4',
+#         'strong',
+#         'title',
+#         'u',
+#         'a',
+#         # other elements,
+#         ]
+#     weightedcontent = ' '.join(t for t in soup.find_all(text=True) if t.parent.name in whitelist) 
+#     return weightedcontent
+
+# # def page_content(page):
+# #     return BeautifulSoup(page, 'html.parser')
+
+
+# async def fetchWithRetry(row, session):
+#     status = 400
+#     #TODO: pass as arg
+#     retry_cnt = 1 #TODO: pass as arg
+#     sleep_time = 0.1 #NOTE: could be more because async
+#     url = row["Url"]
+#     while retry_cnt > 0 and status != 200 and url:
+#         async with session.get(url,ssl=ssl.create_default_context(purpose=ssl.Purpose.CLIENT_AUTH), timeout = 15) as response: 
+#             res = await response.text()
+#             status = response.status
+#             if( status == 200 ):
+#                 print("======================== URL : {}  \t STATUS: {}".format(url, status))
+#                 row["Content"] = contentfromhtml(res)
+#                 row["WeightedContent"] = weightedcontentfromhtml(res)
+#                 return row
+#             else:
+#                 retry_cnt -= 1
+#                 print("\t x----------- Unable to hit URL(ERR_CODE={}): {}  Sleeping for {} Retries remaining = {} --------------------x".format(status,url, sleep_time, retry_cnt))
+#                 await asyncio.sleep(sleep_time)
+#     return row
+
+
+
+# async def semaphoreSafeFetch(sem, row, session):
+#     async with sem:
+#         return await fetchWithRetry(row, session)
+
+# async def write_result( result ):
+#     with open( 'results.csv', 'a' ) as csv_file:
+#         writer = csv.writer( csv_file )
+#         writer.writerow( result )
+
+# async def write_result(res, row, writer):
+#     async with asyncio.Lock():   # lock for gracefully write to shared file object
+#         entry = [
+#                 row["ID"],
+#                 row["SourceSite"],
+#                 row["ProcessingTime"],
+#                 row["ProcessingEpoch"],
+#                 row["CreationDate"],
+#                 row["Title"],
+#                 row["Url"],
+#                 row["SourceTags"],
+#                 row["ModelTags"],
+#                 row["NumUpvotes"],
+#                 row["NumComments"],
+#                 row["PopI"],
+#                 weightedcontentfromhtml(res),   #TODO: add other things here too
+#                 contentfromhtml(res)            #TODO: add other things here too
+#                 ]
+#         writer.writerow(entry)
+
+
+# async def validate_page(sem, session, row, writer):
+#     url = row["Url"]                                        #TODO: check for url exists
+#     res = await semaphoreSafeFetch(sem, url, session)
+#     if res:
+#         print(" \t Writing into csv for ID={} .....................".format(row["ID"]))
+#         await write_result(res, row, writer)
+#         print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
+#     else:
+#         print("\t [i={}] xxxxxxxxxxxxxxxxxxx Skipping xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+
+
+# async def asyncFetchAll(csv_in,csv_out):
+#     tasks = []
+#     sem = asyncio.Semaphore(50)
+
+#     #Create new file
+#     f = csv.writer(open(csv_out, "w"))          # Flush the old file
+#     f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+
+
+#     async with ClientSession(headers={'Connection': 'keep-alive'}) as session:
+#         with open(csv_in, mode='r') as csvfile:
+#             csv_reader = csv.DictReader(csvfile)
+#             line_count = 0
+#             for row in csv_reader:
+#                 if line_count == 0:
+#                     line_count += 1
+#                 else:
+#                     writer = csv.writer(open(csv_out, "a"))
+#                     aws = [validate_page(sem, session, row, writer)]
+#                     await asyncio.gather(*aws)
+#             print('\n********************************** Done writing using Async *****************************\n')
+
+
+# async def asyncFetchAllNew(csv_in,csv_out):
+#     tasks = []
+#     sem = asyncio.Semaphore(50)
+
+#     async with ClientSession(headers={'Connection': 'keep-alive'}) as session:
+#         with open(csv_in, mode='r') as csvfile:
+#             csv_reader = csv.DictReader(csvfile)
+#             line_count = 0
+#             for row in csv_reader:
+#                 # if line_count == 0:
+#                 #     line_count += 1
+#                 # else:
+#                     task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
+#                     tasks.append(task)
+
+#         responses = await asyncio.gather(*tasks)
+
+#         f = csv.writer(open(csv_out, "w"))          # Flush the old file
+#         f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+
+#         f = csv.writer(open(csv_out, "a"))
+#         for res in responses:
+#             if res["Content"]:
+#                 entry = [
+#                     res["ID"],
+#                     res["SourceSite"],
+#                     res["ProcessingTime"],
+#                     res["ProcessingEpoch"],
+#                     res["CreationDate"],
+#                     res["Title"],
+#                     res["Url"],
+#                     res["SourceTags"],
+#                     res["ModelTags"],
+#                     res["NumUpvotes"],
+#                     res["NumComments"],
+#                     res["PopI"],
+#                     res["Content"],
+#                     res["WeightedContent"],
+#                     ]
+#                 f.writerow(entry)
+#                 print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(res["ID"]))
+#             else:
+#                 print("\t\t xxxxxxxxxxxxxxxxxxx Skipping  for ID={} xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+#                 # print(" \t \t @@@@@@@@@@@@@@@@@@ START : CONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(contentfromhtml(res)))
+#                 # print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@")
+#                 # print(" \t \t @@@@@@@@@@@@@@@@@@ START : WeightedCONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(weightedcontentfromhtml(res)))
+#                 # print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@ \n")
+#         return responses
+
+
+
+# def asyncDemoExecutor(csv_in,csv_out):
+#     loop = asyncio.get_event_loop()  
+#     # future = asyncio.ensure_future(asyncFetchAll(csv_in,csv_out))
+#     future = asyncio.ensure_future(asyncFetchAllNew(csv_in,csv_out))
+#     result = loop.run_until_complete(future)
+
+
+# def syncDemo(csv_in,csv_out):
+#     f = csv.writer(open(csv_out, "w"))          # Flush the old file
+#     f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+
+#     with open(csv_in, mode='r') as csvfile:
+#         csv_reader = csv.DictReader(csvfile)
+#         line_count = 0
+#         for row in csv_reader:
+#             # if line_count == 0:
+#             #     # print(f'Headers are {", ".join(row)}')
+#             #     line_count += 1
+#             # else:
+#                 res =  requests.get(row["Url"],verify=False,headers='')
+#                 if res.status_code == 200:
+#                     print(" \t Writing into csv for ID={} .....................".format(row["ID"]))
+#                     entry = [
+#                         row["ID"],
+#                         row["SourceSite"],
+#                         row["ProcessingTime"],
+#                         row["ProcessingEpoch"],
+#                         row["CreationDate"],
+#                         row["Title"],
+#                         row["Url"],
+#                         row["SourceTags"],
+#                         row["ModelTags"],
+#                         row["NumUpvotes"],
+#                         row["NumComments"],
+#                         row["PopI"],
+#                         contentfromhtml(res.text),
+#                         weightedcontentfromhtml(res.text)
+#                         ]
+#                     f = csv.writer(open(csv_out, "a"))          
+#                     f.writerow(entry)
+#                     print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
+#                 else:
+#                     print("\t [i={}] xxxxxxxxxxxxxxxxxxx Skipping xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+#     print('\n********************************** Done writing using Sync *****************************\n')           
+                
+# def syncDemoReadOnly(csv_in,csv_out):
+#     responses = []
+#     with open(csv_in, mode='r') as csvfile:
+#         csv_reader = csv.DictReader(csvfile)
+#         line_count = 0
+#         for row in csv_reader:
+#             if line_count == 0:
+#                 line_count += 1
+#             else:
+#                 url = row["Url"]
+#                 response =  requests.get(url,verify=False,headers='')
+#                 print(" \t  URL: {} , STATUS: {}".format(url, response.status_code))
+#                 responses.append(response)
+#     # for res in responses:
+#     #     print(" \t \t @@@@@@@@@@@@@@@@@@ START : CONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(contentfromhtml(res.text)))
+#     #     print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@")
+#     #     print(" \t \t @@@@@@@@@@@@@@@@@@ START : WeightedCONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(weightedcontentfromhtml(res.text)))
+#     #     print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@ \n")
+
+# if __name__ == "__main__":
+    
+#     csv_in = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table.csv'
+#     csv_out_sync = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_sync.csv'
+#     csv_out_async = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_async_wc.csv'
+
+#     # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
+#     # csv_functions.creteCsvFile(csv_out,headers)
+
+#     print("\t======================== START Sync using `requests` ===========================\n")
+#     stratTime = time.time()
+#     syncDemo(csv_in,csv_out_sync)
+#     # syncDemoReadOnly(csv_in,csv_out_sync)
+#     endTime = time.time()
+#     print("======================== END Sync using `requests` ===========================\n \t\t >>> Time Taken = {} \n".format(endTime-stratTime))
+
+
+
+#     print("\t======================== START Async using `asyncio` ===========================\n")
+#     stratTime = time.time()
+#     # asyncDemoExecutor(urls)
+#     asyncDemoExecutor(csv_in,csv_out_async)
+#     # print("========================= Response ============================ {} \n".format(asyncRes))
+#     endTime = time.time()
+#     print("======================== END Sync using `asyncio` ===========================\n  \t\t >>> Time Taken = {} \n".format(endTime-stratTime))
+
+
+
+
+
+
+
+
+
+
+
+""" =========== Final Code - to be used into content scraper ==================================================== """
 
 # Article: https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
 import requests
 from utilities import text_actions
 import asyncio
 from aiohttp import ClientSession, TCPConnector
+import ssl
 import time
 import csv
 import string
 
-import ssl
 
 from readability import Document
 from bs4 import BeautifulSoup
@@ -505,122 +810,63 @@ async def semaphoreSafeFetch(sem, row, session):
     async with sem:
         return await fetchWithRetry(row, session)
 
-async def write_result( result ):
-    with open( 'results.csv', 'a' ) as csv_file:
-        writer = csv.writer( csv_file )
-        writer.writerow( result )
-
-async def write_result(res, row, writer):
-    async with asyncio.Lock():   # lock for gracefully write to shared file object
-        entry = [
-                row["ID"],
-                row["SourceSite"],
-                row["ProcessingTime"],
-                row["ProcessingEpoch"],
-                row["CreationDate"],
-                row["Title"],
-                row["Url"],
-                row["SourceTags"],
-                row["ModelTags"],
-                row["NumUpvotes"],
-                row["NumComments"],
-                row["PopI"],
-                weightedcontentfromhtml(res),   #TODO: add other things here too
-                contentfromhtml(res)            #TODO: add other things here too
-                ]
-        writer.writerow(entry)
-
-
-async def validate_page(sem, session, row, writer):
-    url = row["Url"]                                        #TODO: check for url exists
-    res = await semaphoreSafeFetch(sem, url, session)
-    if res:
-        print(" \t Writing into csv for ID={} .....................".format(row["ID"]))
-        await write_result(res, row, writer)
-        print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
-    else:
-        print("\t [i={}] xxxxxxxxxxxxxxxxxxx Skipping xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
-
-
 async def asyncFetchAll(csv_in,csv_out):
     tasks = []
-    sem = asyncio.Semaphore(50)
-
-    #Create new file
-    f = csv.writer(open(csv_out, "w"))          # Flush the old file
-    f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
-
+    sem = asyncio.Semaphore(500)
 
     async with ClientSession(headers={'Connection': 'keep-alive'}) as session:
         with open(csv_in, mode='r') as csvfile:
             csv_reader = csv.DictReader(csvfile)
             line_count = 0
             for row in csv_reader:
-                if line_count == 0:
-                    line_count += 1
-                else:
-                    writer = csv.writer(open(csv_out, "a"))
-                    aws = [validate_page(sem, session, row, writer)]
-                    await asyncio.gather(*aws)
-            print('\n********************************** Done writing using Async *****************************\n')
-
-
-async def asyncFetchAllNew(csv_in,csv_out):
-    tasks = []
-    sem = asyncio.Semaphore(50)
-
-    async with ClientSession(headers={'Connection': 'keep-alive'}) as session:
-        with open(csv_in, mode='r') as csvfile:
-            csv_reader = csv.DictReader(csvfile)
-            line_count = 0
-            for row in csv_reader:
-                # if line_count == 0:
-                #     line_count += 1
-                # else:
-                    task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
-                    tasks.append(task)
+                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
+                tasks.append(task)
 
         responses = await asyncio.gather(*tasks)
 
+        """ Initialize the output file """
+
         f = csv.writer(open(csv_out, "w"))          # Flush the old file
         f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
-
-        f = csv.writer(open(csv_out, "a"))
-        for res in responses:
-            if res["Content"]:
-                entry = [
-                    res["ID"],
-                    res["SourceSite"],
-                    res["ProcessingTime"],
-                    res["ProcessingEpoch"],
-                    res["CreationDate"],
-                    res["Title"],
-                    res["Url"],
-                    res["SourceTags"],
-                    res["ModelTags"],
-                    res["NumUpvotes"],
-                    res["NumComments"],
-                    res["PopI"],
-                    res["Content"],
-                    res["WeightedContent"],
-                    ]
-                f.writerow(entry)
-                print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(res["ID"]))
-            else:
-                print("\t\t xxxxxxxxxxxxxxxxxxx Skipping  for ID={} xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
-                # print(" \t \t @@@@@@@@@@@@@@@@@@ START : CONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(contentfromhtml(res)))
-                # print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@")
-                # print(" \t \t @@@@@@@@@@@@@@@@@@ START : WeightedCONTENT @@@@@@@@@@@@@@@@@@@ \n {} \n".format(weightedcontentfromhtml(res)))
-                # print(" \t \t @@@@@@@@@@@@@@@@@@ END @@@@@@@@@@@@@@@@@@@ \n")
+        
+        """ break responses arr into size of N """
+        N = 2
+   
+        rows_arr = [responses[i:i + N] for i in range(0, len(responses), N)]
+        for row_chunk in rows_arr:
+            for row in row_chunk:
+                f = csv.writer(open(csv_out, "a"))
+                if row["Content"]:
+                    entry = [
+                        row["ID"],
+                        row["SourceSite"],
+                        row["ProcessingTime"],
+                        row["ProcessingEpoch"],
+                        row["CreationDate"],
+                        row["Title"],
+                        row["Url"],
+                        row["SourceTags"],
+                        row["ModelTags"],
+                        row["NumUpvotes"],
+                        row["NumComments"],
+                        row["PopI"],
+                        row["Content"],
+                        row["WeightedContent"],
+                        ]
+                    f.writerow(entry)
+                    print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
+                else:
+                    print("\t\t xxxxxxxxxxxxxxxxxxx Skipping  for ID={} xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+            print("--------------------- Out of a chunk------------------------\n")
         return responses
 
 
 
 def asyncDemoExecutor(csv_in,csv_out):
-    loop = asyncio.get_event_loop()  
+    # loop = asyncio.get_event_loop()  
     # future = asyncio.ensure_future(asyncFetchAll(csv_in,csv_out))
-    future = asyncio.ensure_future(asyncFetchAllNew(csv_in,csv_out))
-    result = loop.run_until_complete(future)
+    # result = loop.run_until_complete(future)
+    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(csv_in,csv_out)))
 
 
 def syncDemo(csv_in,csv_out):
@@ -689,12 +935,12 @@ if __name__ == "__main__":
     # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
     # csv_functions.creteCsvFile(csv_out,headers)
 
-    print("\t======================== START Sync using `requests` ===========================\n")
-    stratTime = time.time()
-    syncDemo(csv_in,csv_out_sync)
-    # syncDemoReadOnly(csv_in,csv_out_sync)
-    endTime = time.time()
-    print("======================== END Sync using `requests` ===========================\n \t\t >>> Time Taken = {} \n".format(endTime-stratTime))
+    # print("\t======================== START Sync using `requests` ===========================\n")
+    # stratTime = time.time()
+    # syncDemo(csv_in,csv_out_sync)
+    # # syncDemoReadOnly(csv_in,csv_out_sync)
+    # endTime = time.time()
+    # print("======================== END Sync using `requests` ===========================\n \t\t >>> Time Taken = {} \n".format(endTime-stratTime))
 
 
 
@@ -710,8 +956,97 @@ if __name__ == "__main__":
 
 
 
+""" --------------------------------------------------------------------------------------------------------- """
+ 
 
+# async def asyncFetchAll(csv_in,csv_out):
+#     """
+#         INPUT: csv_src_file & csv_dest_file(to be written)
+#         NOTE: 
+#             * Semaphore limit is: 500
+#             * While writing the response to csv_dest_file, it is done in chunks of `N` entries at a time
+#     """
 
+#     tasks = []
+#     sem = asyncio.Semaphore(50)
 
+#     connector = TCPConnector(limit=60)
+#     async with ClientSession(headers={'Connection': 'keep-alive'},connector=connector) as session:
+#         with open(csv_in, mode='r') as csvfile:
+#             csv_reader = csv.DictReader(csvfile)
+#             line_count = 0
+#             for row in csv_reader:
+#                 # if line_count == 0:
+#                 #     line_count += 1
+#                 # else:
+#                     task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
+#                     tasks.append(task)
 
+#         responses = await asyncio.gather(*tasks)
 
+#         """ Initialize the output file """
+
+#         headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+#         csv_functions.creteCsvFile(csv_out,headers)
+        
+#         print("\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ len(responses) = {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n".format(len(responses)))
+#         for row in responses:
+#             if row["Content"]:
+#                 entry = [
+#                     row["ID"],
+#                     row["SourceSite"],
+#                     row["ProcessingTime"],
+#                     row["ProcessingEpoch"],
+#                     row["CreationDate"],
+#                     row["Title"],
+#                     row["Url"],
+#                     row["SourceTags"],
+#                     row["ModelTags"],
+#                     row["NumUpvotes"],
+#                     row["NumComments"],
+#                     row["PopI"],
+#                     row["Content"],
+#                     row["WeightedContent"],
+#                     ]
+#                 csv_functions.putToCsv(csv_out, entry)
+#                 global WRITTEN_ENTRIES_ASYNC
+#                 WRITTEN_ENTRIES_ASYNC += 1
+#                 print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
+#             else:
+#                 print("\t\t xxxxxxxxxxxxxxxxxxx Skipping  for ID={} As No Content xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+
+#         """ break responses arr into chunks of N """
+#         # N = 50     #TODO: try with 500 & compare time
+   
+#         # rows_arr = [responses[i:i + N] for i in range(0, len(responses), N)]
+#         # print("\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ len(rows_arr) = {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n".format(len(rows_arr)))
+#         # for row_chunk in rows_arr:
+#         #     print("\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ len(row_chunk) = {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n".format(len(row_chunk)))
+#         #     for row in row_chunk:
+#         #         if row :
+#         #             if row["Content"]:
+#         #                 entry = [
+#         #                     row["ID"],
+#         #                     row["SourceSite"],
+#         #                     row["ProcessingTime"],
+#         #                     row["ProcessingEpoch"],
+#         #                     row["CreationDate"],
+#         #                     row["Title"],
+#         #                     row["Url"],
+#         #                     row["SourceTags"],
+#         #                     row["ModelTags"],
+#         #                     row["NumUpvotes"],
+#         #                     row["NumComments"],
+#         #                     row["PopI"],
+#         #                     row["Content"],
+#         #                     row["WeightedContent"],
+#         #                     ]
+#         #                 csv_functions.putToCsv(csv_out, entry)
+#         #                 global WRITTEN_ENTRIES_ASYNC
+#         #                 WRITTEN_ENTRIES_ASYNC += 1
+#         #                 print(" \t\t ============== Done Writing into csv for ID={} =============== ".format(row["ID"]))
+#         #             else:
+#         #                 print("\t\t xxxxxxxxxxxxxxxxxxx Skipping  for ID={} xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"]))
+#         #         else:
+#         #             print("\t\t xxxxxxxxxx TOTALLY SKIPPING - null entry - ROW = {} xxxxxxxxxxxxx\n".format(row))
+#         #     print("------------------------------------------ Another Response Data Chunk Ended ------------------------------------------\n")

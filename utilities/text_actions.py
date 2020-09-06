@@ -20,7 +20,8 @@ def contentfromhtml(response):
     """
 
     ## original starts=======
-    article = Document(response.text)
+    article = Document(response)
+    # article = Document(response.text)
     html = article.summary()
     soup = BeautifulSoup(html)
     ## ==========oring ends
@@ -48,7 +49,8 @@ def weightedcontentfromhtml(response):
         INPUT: http response object.E.g: `response = requests.get(url,verify=False,timeout=30)`
         OUTPUT: single string of text
     """
-    article = Document(response.text)
+    article = Document(response)
+    # article = Document(response.text)
     html = article.summary()
     soup = BeautifulSoup(html)
     whitelist = [

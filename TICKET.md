@@ -213,7 +213,7 @@
         * [x] How to limit max_number fo requests: `asyncio.Semaphore(1000)` 
         * [x] Run getcontentFromHtml, getWeightedContent etc on response
         * [x] Retries on error
-        * [ ] How to read & write with excel file
+        * [x] How to read & write with excel file
         * [ ] how to embed in content_scraper
         * [ ] Run one scraping round & analyse
       * [x] is it better to run `content_scraper` in sync with `url_scrapers` 
