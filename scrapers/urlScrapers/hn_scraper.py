@@ -9,7 +9,7 @@ import time
 from datetime import datetime, timedelta
 
 from utilities import csv_functions, text_actions, web_requests
-
+from utilities import print_in_color as pc
 
 def run(ts):
     """
@@ -23,7 +23,7 @@ def run(ts):
         Input: ts (format: 1598692058.887741)
     """
 
-    print('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
+    pc.printSucc('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
     """
         here is how you add day to `ts`:
@@ -58,14 +58,14 @@ def run(ts):
     for i in range(len(ts_arr)-1):
         startepoch = ts_arr[i]
         endepoch   = ts_arr[i+1]
-        print(" ................. scraping for interval: start= {} -> end = {} .................\n".format(startepoch,endepoch))
+        pc.printMsg(" ................. scraping for interval: start= {} -> end = {} .................\n".format(startepoch,endepoch))
 
         """ getting stories(articles) with upvotes_count > upvotes_threshold 
             Also including:
             1. TellHN (<discuss>)
             2. LaunchHN (<startup>)
         """
-        print(" \t............. scraping stories .............")
+        pc.printWarn(" \t............. scraping stories .............")
 
         url_story = 'http://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(STORY_UP_TH)
         # data = requests.get(url_story, timeout=None)
@@ -73,7 +73,7 @@ def run(ts):
         # if(data != -1):
         res_size = json.loads(data.content)["nbHits"]
 
-        print("\t\t\t\t====> Item count: {}".format(res_size))
+        pc.printMsg("\t\t\t\t====> Item count: {}".format(res_size))
 
         TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
@@ -116,17 +116,17 @@ def run(ts):
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
 
-        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
+        pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting ShowHNs """
 
-        print("\t............. scraping showHNs .............")
+        pc.printSucc("\t............. scraping showHNs .............")
         url_show = 'http://hn.algolia.com/api/v1/search_by_date?tags=show_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(SHOWHN_UP_TH)
         # data = requests.get(url_show, timeout=None)
         data = web_requests.hitGetWithRetry(url_show)
         res_size = json.loads(data.content)["nbHits"]
 
-        print("\t\t\t\t====> Item count: {}".format(res_size))
+        pc.printMsg("\t\t\t\t====> Item count: {}".format(res_size))
         
         TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
@@ -161,17 +161,17 @@ def run(ts):
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
 
-        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
+        pc.printWarn("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting AskHNs """
 
-        print("\t............. scraping askHNs .............")
+        pc.printSucc("\t............. scraping askHNs .............")
         url_ask = 'http://hn.algolia.com/api/v1/search_by_date?tags=ask_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(ASKHN_UP_TH)
         # data = requests.get(url_ask, timeout=None)
         data = web_requests.hitGetWithRetry(url_ask)
         res_size = json.loads(data.content)["nbHits"]
 
-        print("\t\t\t\t====> Item count: {}".format(res_size))
+        pc.printWarn("\t\t\t\t====> Item count: {}".format(res_size))
 
         TOTAL_ENTRIES_YET += res_size
         items_arr = json.loads(data.content)["hits"]
@@ -207,8 +207,8 @@ def run(ts):
                 ]
             csv_functions.putToCsv(csv_file,entry)
             index=index+1
-        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
-    print("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
+        pc.printWarn("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
+    pc.printSucc("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
             
 

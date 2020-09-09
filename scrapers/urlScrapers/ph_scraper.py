@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 
 from utilities import csv_functions, text_actions, web_requests
 import vault
-
+from utilities import print_in_color as pc
 
 def run(ts):
     """
@@ -30,7 +30,7 @@ def run(ts):
         Input: ts (format: 1598692058.887741)
     """
 
-    print('@[{}] >>>>>> Started PH-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))
+    pc.printSucc('@[{}] >>>>>> Started PH-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))
 
     """
         here is how you add day to `ts`:
@@ -65,12 +65,12 @@ def run(ts):
     index = 1
 
     for date in days_arr:
-        print(" ................. scraping for date =  {} .................\n".format(date))
+        pc.printMsg(" ................. scraping for date =  {} .................\n".format(date))
         url = 'https://api.producthunt.com/v1/posts?day=' + date
         try:
             data = web_requests.hitGetWithRetry(url,PH_REQ_HEADERS,False ,2,5,10)
             if(data == -1):
-                print("\t\txxxxxx Unable to hit {} after 2 retries.Skipping this date( {} ) xxxxxx\n".format(url,date))
+                pc.printErr("\t\txxxxxx Unable to hit {} after 2 retries.Skipping this date( {} ) xxxxxx\n".format(url,date))
             else:
                 items_arr = json.loads(data.content)["posts"]
                 for item in items_arr:
@@ -98,9 +98,9 @@ def run(ts):
                     index=index+1
 
         except Exception as e:
-            print(" \t xxxxxxxxxxxxx ERROR xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
+            pc.printErr(" \t xxxxxxxxxxxxx ERROR xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
             pass
 
-        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(index+1))
+        pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(index+1))
 
-    print("\n****************** PH Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(index+1,'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))
+    pc.printSucc("\n****************** PH Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(index+1,'dbs/wp-db/wp_table_'+str(int(ts))+'.csv'))

@@ -1,6 +1,7 @@
 from scrapers.urlScrapers import hn_scraper, r_scraper, ph_scraper
 from utilities import csv_functions
 
+from utilities import print_in_color as pc
 
 def run(ts):
 
@@ -30,23 +31,23 @@ def run(ts):
 
     try:
         hn_scraper.run(ts)
-        print("\n================ HH url scraper run: Complete ================n")
+        pc.printSucc("\n================ HH url scraper run: Complete ================\n")
     except Exception as e:
-        print(" xxxxxxxxxxxxxxxxxxxxxxxxx Error in scraping HN for url xxxxxxxxxxxxxxxxxxxxxxxxx \n \t\t>>> Error = {}".format(str(e)))
+        pc.printErr(" xxxxxxxxxxxxxxxxxxxxxxxxx Error in scraping HN for url xxxxxxxxxxxxxxxxxxxxxxxxx \n \t\t>>> Error = {}".format(str(e)))
         pass
 
     try:
         r_scraper.run(ts)
-        print(" \n================ Reddit url scraper run: Complete ================n")
+        pc.printSucc(" \n================ Reddit url scraper run: Complete ================\n")
     except Exception as e:
-        print(" xxxxxxxxxxxxxxxxxxxxxxxxx Error in scraping Reddit for url xxxxxxxxxxxxxxxxxxxxxxxxx \n \t\tError = {}".format(str(e)))
+        pc.printErr(" xxxxxxxxxxxxxxxxxxxxxxxxx Error in scraping Reddit for url xxxxxxxxxxxxxxxxxxxxxxxxx \n \t\tError = {}".format(str(e)))
         pass
 
     try:
         ph_scraper.run(ts)
-        print(" \n====== PH url scraper run: Complete ======\n")
+        pc.printSucc(" \n====== PH url scraper run: Complete ======\n")
     except Exception as e:
-        print(" XXXXXXXXXXXX Error in scraping PH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
+        pc.printErr(" XXXXXXXXXXXX Error in scraping PH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
         pass
 
     # try:
@@ -55,6 +56,6 @@ def run(ts):
     # except Exception as e:
     #     print(" XXXXXXXXXXXX Error in scraping IH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
     #     pass
-    print(" ******************** All url scrapers ran successfully *****************\n")
+    pc.printSucc(" ******************** All url scrapers ran successfully *****************\n")
 
 

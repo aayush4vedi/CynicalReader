@@ -18,9 +18,6 @@ def printErr(txt):
 def printSucc(txt): 
     print("\033[92m {}\033[00m" .format(txt)) 
 
-def printLog(txt): 
-    print("\033[95m {}\033[00m" .format(txt)) 
-
 def printMsg(txt): 
     print("\033[93m {}\033[00m" .format(txt)) 
 

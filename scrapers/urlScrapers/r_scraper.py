@@ -4,6 +4,7 @@ import praw  # reddit scraper
 
 from utilities import csv_functions,web_requests
 import vault
+from utilities import print_in_color as pc
 
 # NOTE: API documentation: https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
@@ -83,7 +84,7 @@ def run(ts):
         Hence no use of `ts` here
     """
 
-    print('@[{}] >>>>>> Started r-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
+    pc.printMsg('@[{}] >>>>>> Started r-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 
     csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     index = 1
@@ -97,7 +98,7 @@ def run(ts):
                     password = vault.R_PASSWORD)                                  # YOUR_REDDIT_LOGIN_PASSWORD
 
     for subreddit,tag_arr in LIST.items():
-        print("\t ............  Subreddit: {}  .............".format(subreddit))
+        pc.printWarn("\t ............  Subreddit: {}  .............".format(subreddit))
         sr = reddit.subreddit(subreddit)
         # for submission in sr.top('day',limit=10):                   # For testing....
         for submission in sr.top('week',limit=1000):              #NOTE: max limit is 1000
@@ -135,7 +136,7 @@ def run(ts):
                     csv_functions.putToCsv(csv_file,entry)
                     index += 1
                     TOTAL_ENTRIES_YET += 1
-        print("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
+        pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
-    print("\n****************** Reddit Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
+    pc.printSucc("\n****************** Reddit Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
 

@@ -192,10 +192,16 @@
     * [x] Create separate db for products- Weekly Products DB (WP-DB).
       * WHY? Becuase Product content already has tags (& also not enough data to apply NLP on and I'm not planning to scrape comments & then do NLP rn), and need thumbnail url as well.So keep wc-db & wp-db separate.
   * [x] Create `content_scraper.py`
-    * NOTE: Run time:
-      * first run on 1 week's data=(HN+r) took `17.5 hours` for scraping alone! , get 12MB file
-      * Post Enrichment: `3 hours`, file size = `13.5 MB`
-      * Post Enrichment+Async: ???
+    * NOTE: 
+      * Run time:
+        * ~~first run on 1 week's data=(HN+r) took `17.5 hours` for scraping alone! , get 12MB file~~
+        * (sync)Post Enrichment: `3 hours`, file size = `13.5 MB`
+        * (async): 20 mins, file size = 7MB
+      * Strategy:
+        * if content is already in (url_scraped)table => no scraping, put as is(weightedContent = title)
+        * else: try to scrape
+          * if scraping is successful: update content & weightedContent
+          * else put title in content & weightedcontent
     * [x]why does it wait forever??????????? (was doing the same when I was scraping originally too)
       * => Timeout of 10 seconds with #retries = 2
     * [x] Do updating in the same file??? => NO
@@ -205,25 +211,27 @@
       * #CHECK3(pre scraping): if (row["title"]==NULL)=>discard
       * #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)=>row["weightedContent"] = clean_text(row["title"]) and row["Content"] = clean_text(row["title"])
       * Feature: weightedContetn += clean_text(row["title"])
-      * FIXME: [x] for HN post with content exists, there's just title in final content....seriously WTF!!
-      * FIXME: [x] weightedcontent is same as content for HN#274
-      * TODO: [-] Try async for content downloading
+      * [x] for HN post with content exists, there's just title in final content....seriously WTF!!
+      * [x] weightedcontent is same as content for HN#274
+      * [x] Try async for content downloading
         * [x] Demo: time reduced exponantially as compared to sync
         * [x] Remove ssl error - `ClientSession(headers={'Connection': 'keep-alive'})`
         * [x] How to limit max_number fo requests: `asyncio.Semaphore(1000)` 
         * [x] Run getcontentFromHtml, getWeightedContent etc on response
         * [x] Retries on error
         * [x] How to read & write with excel file
-        * [ ] how to embed in content_scraper
-        * [ ] Run one scraping round & analyse
+        * [x] how to embed in content_scraper
+        * [x] Run one scraping round & analyse
+        * [ ] FIXME: content_scraper is not efficient at all. ERR: [Too Many open files]. Have to fix the async way of writing into csv files
+        * [ ] Check for #empty Content in the final csv
       * [x] is it better to run `content_scraper` in sync with `url_scrapers` 
         * => NO, because; if url_scrapers failed, there's not point in running content_scraper; so try max_time & max_retries for url_scrapers
-  * [-] TODO: Enrichment of `clean_text` function:
+  * [x] Enrichment of `clean_text` function:
     * 1. [] Dont waste urls~~/anchor tag~~'s data => it does contain useful information
-    * TODO: fix `getcontentfromhtml` before next scraping
-    * TODO: do this again after 2nd scraping is done(with new content_scrpae) **ISSUES with getting useful text:**
+    * fix `getcontentfromhtml` before next scraping
+    * do this again after 2nd scraping is done(with new content_scrpae) **ISSUES with getting useful text:**
       * FOR REDDIT:
-        * [] `readability` isnt reliable at all( something wrong with `Document(response.text).summary()` .Search for alternatives???
+        * [@] `readability` isnt reliable at all( something wrong with `Document(response.text).summary()` .Search for alternatives???
         * [x] `getweightedcontent` isnt parsing url to get words, just copying url as it is
           * => find all urls in text->get useful words(other than 'http','www','com'), call it `urlString`
             * add them to weightedContent
@@ -234,10 +242,15 @@
       * [x] Add <space> when deleting a special character
       * [] Create my own dictionary to exempt few words from getting remove(like c++, .py, .js , Node.js etc)
    * Set upvotes/comments threshold values for HN, /r, PH
-  * Make `PopICalc.py`
-    * [] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
-  * Make map of maps:
-    * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
+
+* `content_scraper` UPDATE(7Sep): {after spending nearly a week on async scraping}
+  * Putting into csv file is not working at all with async(os cant handle opening file at same time for multiple async requests)....slogggggggggggged myself, but couldnt fix, so no point in wasting more time on a thing which is going to be opted out anyways.Move to DB
+  * [] Figure out what db, where, free, future scalability etc
+  * [] Implement it
+* Make `PopICalc.py`
+  * [] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
+* Make map of maps:
+  * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website
@@ -247,3 +260,8 @@
 
 
 ## [Ticket6] : FuckinLaunch(<21Aug20>)
+
+
+
+
+
