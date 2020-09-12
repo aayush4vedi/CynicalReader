@@ -7,6 +7,7 @@ import json
 import string
 import time
 from datetime import datetime, timedelta
+import sqlite3
 
 from utilities import csv_functions, text_actions, web_requests
 from utilities import print_in_color as pc
@@ -22,8 +23,13 @@ def run(ts):
             1. For Jobs@HN entries put `` tag => later as these entries dont have upvotes/comments
         Input: ts (format: 1598692058.887741)
     """
-
-    pc.printSucc('@[{}] >>>>>> Started HN-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
+    wc_db = 'dbs/wc.db'
+    wc_table = 'wc_' + str(int(ts))
+    pc.printSucc('@[{}] >>>>>> Started HN-scraper ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))
+    conn = sqlite3.connect(wc_db, timeout=10)
+    c = conn.cursor()
+    pc.printMsg("\t -------------------------------------- < HN_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    stratTime = time.time()
 
     """
         here is how you add day to `ts`:
@@ -50,7 +56,7 @@ def run(ts):
     STORY_UP_TH  = 50     #TODO: change this
     SHOWHN_UP_TH = 10     #TODO: change this
     ASKHN_UP_TH  = 10     #TODO: change this
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
+    # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     # f = csv.writer(open(csv_file, 'a',newline=''))  
     index = 1
     TOTAL_ENTRIES_YET = 0
@@ -68,9 +74,7 @@ def run(ts):
         pc.printWarn(" \t............. scraping stories .............")
 
         url_story = 'http://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(STORY_UP_TH)
-        # data = requests.get(url_story, timeout=None)
         data = web_requests.hitGetWithRetry(url_story)
-        # if(data != -1):
         res_size = json.loads(data.content)["nbHits"]
 
         pc.printMsg("\t\t\t\t====> Item count: {}".format(res_size))
@@ -111,16 +115,17 @@ def run(ts):
                 item["num_comments"],
                 '',
                 '',
-                content
+                text_actions.clean_text(content)
                 ]
-            csv_functions.putToCsv(csv_file,entry)
+            c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
+            # csv_functions.putToCsv(csv_file,entry)
             index=index+1
 
         pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting ShowHNs """
 
-        pc.printSucc("\t............. scraping showHNs .............")
+        pc.printWarn("\t............. scraping showHNs .............")
         url_show = 'http://hn.algolia.com/api/v1/search_by_date?tags=show_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(SHOWHN_UP_TH)
         # data = requests.get(url_show, timeout=None)
         data = web_requests.hitGetWithRetry(url_show)
@@ -156,16 +161,17 @@ def run(ts):
                 item["num_comments"],
                 '',
                 '',
-                content
+                text_actions.clean_text(content)
                 ]
-            csv_functions.putToCsv(csv_file,entry)
+            # csv_functions.putToCsv(csv_file,entry)
+            c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
             index=index+1
 
         pc.printWarn("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
 
         """ getting AskHNs """
 
-        pc.printSucc("\t............. scraping askHNs .............")
+        pc.printWarn("\t............. scraping askHNs .............")
         url_ask = 'http://hn.algolia.com/api/v1/search_by_date?tags=ask_hn&hitsPerPage=9999&numericFilters=created_at_i>'+str(endepoch)+',created_at_i<'+ str(startepoch) + ',points>' + str(ASKHN_UP_TH)
         # data = requests.get(url_ask, timeout=None)
         data = web_requests.hitGetWithRetry(url_ask)
@@ -203,31 +209,17 @@ def run(ts):
                 item["num_comments"],
                 '',
                 '',
-                content
+                text_actions.clean_text(content)
                 ]
-            csv_functions.putToCsv(csv_file,entry)
+            c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
+            # csv_functions.putToCsv(csv_file,entry)
             index=index+1
         pc.printWarn("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
-    pc.printSucc("\n****************** HN Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    endTime = time.time()
+    conn.commit()
+    conn.close()
+    pc.printMsg("\t -------------------------------------- < HN_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
+    pc.printSucc("\n\n***************************** HN Url Scraping is Complete. TABLE: {} ******************".format(wc_table))
+    pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
+    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printSucc("*************************************************************************************************\n\n")

@@ -1,8 +1,11 @@
 from collections import OrderedDict
 from datetime import datetime, timedelta
+import json
+import time
 import praw  # reddit scraper
+import sqlite3
 
-from utilities import csv_functions,web_requests
+from utilities import csv_functions, text_actions, web_requests
 import vault
 from utilities import print_in_color as pc
 
@@ -83,10 +86,16 @@ def run(ts):
         Get top 1000 submissions of the listed subreddits (max_limit is 1000; should be enough)
         Hence no use of `ts` here
     """
+    wc_db = 'dbs/wc.db'
+    wc_table = 'wc_' + str(int(ts))
+    pc.printSucc('@[{}] >>>>>> Started r-scraper ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))    
+    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    conn = sqlite3.connect(wc_db, timeout=10)
+    c = conn.cursor()
+    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    stratTime = time.time()
 
-    pc.printMsg('@[{}] >>>>>> Started r-scraper ................... => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
-
-    csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
+    # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     index = 1
     TOTAL_ENTRIES_YET = 0
     # Setup Client
@@ -124,19 +133,24 @@ def run(ts):
                         datetime.fromtimestamp(submission.created),
                         submission.title,              
                         url,
-                        tag_arr,
+                        json.dumps(tag_arr),
                         '',
                         submission.score,
                         submission.num_comments,
                         '',
                         '',
-                        content
+                        text_actions.clean_text(content)
                     ]
-                    # print('\t\t => entry: {}'.format(entry))
-                    csv_functions.putToCsv(csv_file,entry)
+                    # csv_functions.putToCsv(csv_file,entry)
+                    c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
                     index += 1
                     TOTAL_ENTRIES_YET += 1
         pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(TOTAL_ENTRIES_YET))
-
-    pc.printSucc("\n****************** Reddit Url Scraping is Complete : TOTAL_ENTRIES_YET = {} , FILENAME: {} ********************\n".format(TOTAL_ENTRIES_YET,'dbs/wc-db/wc_table_'+str(int(ts))+'.csv'))
-
+    endTime = time.time()
+    conn.commit()
+    conn.close()
+    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
+    pc.printSucc("\n\n***************************** Reddit Url Scraping is Complete. TABLE: {} *******************".format(wc_table))
+    pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
+    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printSucc("*************************************************************************************************\n\n")

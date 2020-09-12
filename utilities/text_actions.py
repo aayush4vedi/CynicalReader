@@ -1,5 +1,4 @@
 import string
-import requests
 import re 
 from urlextract import URLExtract
 

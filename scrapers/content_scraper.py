@@ -1,14 +1,24 @@
+# encoding: utf-8
 import csv
 import os
 import string
 import time
+import json
 from datetime import datetime, timedelta
 import asyncio
-from aiohttp import ClientSession, TCPConnector
+import aiohttp
+from aiohttp import ClientSession, TCPConnector, ClientTimeout
+import traceback
+import logging
+# import aiohttp_proxy
+# from aiohttp_proxy import ProxyConnector, ProxyType
+import socket
 import ssl
-
+import sqlite3
 import re 
 from urlextract import URLExtract
+
+
 
 import nltk
 from nltk import word_tokenize
@@ -18,215 +28,288 @@ from nltk.stem import WordNetLemmatizer
 from utilities import csv_functions, text_actions, web_requests
 from utilities import print_in_color as pc
 
+SEMAPHORE_COUNT = 100
+CONNTECTION_COUNT = 100
+
 ENTRIES_TO_BE_WRITTEN = 0                               # total entries in original file
 WRITTEN_ENTRIES_ASYNC_DIRECT = 0                        # for every entry written- just copied from prev file
 WRITTEN_ENTRIES_ASYNC_SCRAPED = 0                       # for every entry written- fetched by scraping
-WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING = 0        # when no url after scraping,dont waste the precious article
-WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR = 0                  # when unable to hit url,dont waste the precious article
-WRITTEN_ENTRIES_ASYNC_TRIED_ERR = 0                     # any other error(try/catch) in scraping,dont waste the precious article
-FAILED_ASYNC = 0                                        # other failures
+ERR_ASYNC_NO_CONTENT_IN_SCRAPING = 0                    # when no url after scraping,dont waste the precious article
+ERR_ASYNC_ON_URL_ERROR = 0                              # when unable to hit url,dont waste the precious article
+ERR_ASYNC_TRIED_ERR = 0                                 # any other error(try/catch) in scraping,dont waste the precious article
 
-# total entries written after `content_scraper` is run =   WRITTEN_ENTRIES_ASYNC_DIRECT + WRITTEN_ENTRIES_ASYNC_SCRAPED + WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR + WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING + WRITTEN_ENTRIES_ASYNC_TRIED_ERR
+ASYNC_ENTRIES_TO_BE_SCRAPED = 0                         # Just keeping count of how many requests have been spawned
+BOYS_RETURNED_HOME_ALIVE = 0                         
+BOYS_RETURNED_HOME_DEAD = 0                         
 
 WRITTEN_ENTRIES_SYNC = 0
 SKIPPED_SYNC = 0
 FAILED_SYNC = 0
 
 
-OPEN_CSV = 0
+
+""" ============================================================================================== text_action functions:START ================================"""
+extractor = URLExtract()
+wordnet = WordNetLemmatizer()
+
+def getUrlString(intxt):
+    common_url_words = ['http', 'https', 'www', 'com', 'html']
+    # extractor = URLExtract()
+    urls = extractor.find_urls(intxt)
+    urlstring = ' '.join(urls)
+    clean_url_string = re.sub('[^A-Za-z0-9]+', ' ', urlstring)
+    clean_url_list = [w for w in clean_url_string.split()]
+    new_list = [word for word in clean_url_list if (word not in common_url_words and word.isalpha())]   # remove numbers from url
+    return ' '.join(new_list)
+
+import string
+import re 
+from urlextract import URLExtract
+
+import nltk
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+from readability import Document
+from bs4 import BeautifulSoup
+
+
+def clean_text(text):
+    tokens = word_tokenize(text)
+    tokens = [w.lower() for w in tokens]
+    table = str.maketrans('', '', string.punctuation)
+    stripped = [w.translate(table) for w in tokens]
+    words = [word for word in stripped if word.isalpha()]
+    stop_words = set(stopwords.words('english'))
+    words = [w for w in words if not w in stop_words]
+
+    stemmed = [wordnet.lemmatize(word) for word in words]
+    return ' '.join(stemmed)
+
+"""
+    given raw text; finds all the useful words in urls; stiches them into a string & retursn that string.
+    Mainly to be put in weightedcontent
+"""
+def getUrlString(intxt):
+    common_url_words = ['http', 'https', 'www', 'com', 'html']
+    extractor = URLExtract()
+    urls = extractor.find_urls(intxt)
+    urlstring = ' '.join(urls)
+    clean_url_string = re.sub('[^A-Za-z0-9]+', ' ', urlstring)
+    clean_url_list = [w for w in clean_url_string.split()]
+    new_list = [word for word in clean_url_list if (word not in common_url_words and word.isalpha())]   # remove numbers from url
+    return ' '.join(new_list)
+
+
+""" ============================================================================================== text_action functions:START ================================"""
 
 """ =============== Async-Executor Helpers: START ===============  """
 
-async def fetchWithRetry(row, session, csv_out):
+async def fetchWithRetry(row, session):
     """
         Hits ulr(with retires):
         * if status == 200:
-            put content into csv
+            return resposne ((raw)Content & (raw)WeightedContent in row)
         * if still unable to hit after retries: Content = Title , WeightedContent = Title
+        INPUT: `row` is an array with indices: 
+            ID(0),SourceSite(1),ProcessingTime(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
+            SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
     """
-
 
     status = 400
     retry_cnt = 2
-    sleep_time = 10
-    TIMEOUT = 10
-
+    sleep_time = 5
+    # TIMEOUT = ClientTimeout(total=20)
+    TIMEOUT = 20
+    
     while retry_cnt > 0 and status != 200:
-        async with session.get(row["Url"],ssl=ssl.create_default_context(purpose=ssl.Purpose.CLIENT_AUTH), timeout = TIMEOUT) as response: 
+        async with session.get(row[6],ssl=ssl.create_default_context(purpose=ssl.Purpose.CLIENT_AUTH), timeout = TIMEOUT) as response: 
             res = await response.text()
+            # res = await response.content.read()
+            # res = await text_actions.clean_text(str(response.content.read()))
+            res = text_actions.clean_text(str(res))
+            # res = res.encode('utf8', 'ignore').decode('utf8', 'ignore')                   #FIXME: not working
             status = response.status
             if( status == 200 and len(res) != 0):
-                pc.printSucc("\t\t <ID = {}><src= {} > ============== Scraping Done....... \t NOW: {}".format(row["ID"],row["SourceSite"],time.strftime("%H:%M:%S", time.localtime())))
-                urlstrings = text_actions.getUrlString(row["Content"])
-                row["WeightedContent"] = text_actions.weightedcontentfromhtml(res) + row["Title"] + urlstrings
-                row["Content"] = text_actions.contentfromhtml(res)  + urlstrings
-                # pc.printWarn("\t <ID = {}><src= {} > sleeping for 0.0001 second ZZZZZZzzzzzzzzzzzz................. NOW: {}".format(row["ID"],row["SourceSite"],time.strftime("%H:%M:%S", time.localtime())))
+                pc.printSucc("\t\t <ID = {}><src= {} > ============== #Scraped ....... \t NOW: {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime())))
+                row_list = list(row)
+                row_list[12] = text_actions.weightedcontentfromhtml(res) 
+                row_list[13] = text_actions.contentfromhtml(res)
+                # for i in range(len(row_list)):
+                #     row_list[i] = row_list[i].decode("utf-8", "ignore")
+
+                row = tuple(row_list)
+                # pc.printWarn("\t <ID = {}><src= {} > sleeping for 0.0001 second ZZZZZZzzzzzzzzzzzz................. NOW: {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime())))
                 # time.sleep(0.001)
-                if (len(row["Title"]) !=0):
-                    if len(row["Content"]) == 0:          
-                        row["WeightedContent"] = row["Title"]
-                        row["Content"] = row["Title"]
-                    await write_result(csv_out,row)
-                    global WRITTEN_ENTRIES_ASYNC_SCRAPED
-                    WRITTEN_ENTRIES_ASYNC_SCRAPED += 1
-                    pc.printMsg(" \t\t ============== [Scraped] Done Writing into csv for <ID = {}><src= {} > =============== ".format(row["ID"],row["SourceSite"]))
-                else:
-                    global WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING
-                    WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING += 1
-                    pc.printErr("\t\t xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = {}><src= {} > As No Title xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row["ID"],row["SourceSite"]))
+                if(len(row[13]) == 0):
+                    global ERR_ASYNC_NO_CONTENT_IN_SCRAPING
+                    ERR_ASYNC_NO_CONTENT_IN_SCRAPING += 1
+                    pc.printErr("\t\t xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = {}><src= {} > As No Content even after scraping xxxxxxxxxxxxxxxxxxxxxxxx\n".format(row[0],row[1]))
                 return row
             else:
                 retry_cnt -= 1
-                pc.printWarn("\t x---------------- <ID = {}><src= {} > Unable to hit URL(ERR_CODE={}): {}.........  Sleeping for {} Retries remaining = {} -------------x".format(row["ID"],row["SourceSite"],status,row["Url"][:25], sleep_time, retry_cnt))
+                pc.printWarn("\t x---------------- <ID = {}><src= {} > Unable to hit URL(ERR_CODE={}): {}.........  Sleeping for {} Retries remaining = {} -------------x".format(row[0],row[1],status,row[6][:25], sleep_time, retry_cnt))
                 await asyncio.sleep(sleep_time)
-    pc.printErr("\t\txxxxx  For <ID = {}><src= {} >Totally unable to hit url.... using Title for Content & WeightedContent : {} ".format(row["ID"],row["SourceSite"],row["Url"]))
-    if len(row["Content"]) == 0:          
-        row["WeightedContent"] = row["Title"]
-        row["Content"] =  row["Title"]
-    await write_result(csv_out,row)
-    global WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR 
-    WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR += 1
-    pc.printMsg(" \t\t\t ============== [Unreachable URL] Done Writing into csv for <ID = {}><src= {} > =============== ".format(row["ID"],row["SourceSite"]))
+
+    pc.printErr("\t\txxxxx  For <ID = {}><src= {} >Totally unable to hit url.... using Title for Content & WeightedContent : {} ".format(row[0],row[1],row[6]))
+    global ERR_ASYNC_ON_URL_ERROR 
+    ERR_ASYNC_ON_URL_ERROR += 1
+    pc.printMsg(" \t\t\t ============== [Unreachable URL] Will write anyways. <ID = {}><src= {} > =============== ".format(row[0],row[1]))
     return row
 
 
 
-async def semaphoreSafeFetch(sem, row, session,csv_out):
+
+async def semaphoreSafeFetch(sem, row, session):
     """
         Simple puts check for semaphore count
     """
+    global BOYS_RETURNED_HOME_ALIVE
+    global BOYS_RETURNED_HOME_DEAD
+    # async with sem:
+    # try:
+    #     return await fetchWithRetry(row, session)
+    #     BOYS_RETURNED_HOME_ALIVE += 1
+    #     print(" \t\t\t\t\t\t\t\t\t\t\t\t BOYS_RETURNED_HOME_ALIVE = {}".format(BOYS_RETURNED_HOME_ALIVE))
+    # except Exception as e:
+    #     BOYS_RETURNED_HOME_DEAD += 1
+    #     print(" \t\t\t\t\t\t\t\t\t\t\t\t BOYS_RETURNED_HOME_DEAD = {}".format(BOYS_RETURNED_HOME_DEAD))
+    #     #TODO: delete this
+    #     if str(e).find("codec can't decode byte") != -1:
+    #         print(" \t\t\t row: {}".format(row))
+
+    #     # This error is mainly because of:
+    #     ## 1. [nodename nor servname provided, or not known]
+    #     ## 2. [Too many open files] => UPDATE: got fixed with using sqlite
+    #     pc.printErr("\t======= XXXXXXXX ERROR XXXXXX ======>> <ID = {}><src= {} > NOW = {} Scraping failed. Using Title for Content.... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+    #     logging.error(traceback.format_exc())
+    #     if len(row[13]) == 0:   
+    #         row_list = list(row)
+    #         row_list[12] = row_list[5]
+    #         row_list[13] =  row_list[5]
+    #         row = tuple(row_list)
+    #     global ERR_ASYNC_TRIED_ERR
+    #     ERR_ASYNC_TRIED_ERR += 1
+    #     pc.printMsg(" \t\t\t============== [Tried Catch] Done Writing into csv for <ID = {}><src= {} > =============== ".format(row[0],row[1]))
+    #     pass
+    # return row              #NOTE: this fucker!!!
     async with sem:
         try:
-            return await fetchWithRetry(row, session,csv_out)
+            return await fetchWithRetry(row, session)
+            BOYS_RETURNED_HOME_ALIVE += 1
+            print(" \t\t\t\t\t\t\t\t\t\t\t\t BOYS_RETURNED_HOME_ALIVE = {}".format(BOYS_RETURNED_HOME_ALIVE))
         except Exception as e:
-            global FAILED_ASYNC
-            FAILED_ASYNC += 1
+            BOYS_RETURNED_HOME_DEAD += 1
+            print(" \t\t\t\t\t\t\t\t\t\t\t\t BOYS_RETURNED_HOME_DEAD = {}".format(BOYS_RETURNED_HOME_DEAD))
+            #TODO: delete this
+            if str(e).find("codec can't decode byte") != -1:
+                print(" \t\t\t row: {}".format(row))
+
             # This error is mainly because of:
             ## 1. [nodename nor servname provided, or not known]
-            ## 2. [Too many open files]
-            pc.printErr("\t======= XXXXXXXX ERROR XXXXXX ======>> <ID = {}><src= {} > NOW = {} Scraping failed. Using Title for Content.... \n \t\t ERROR {}".format(row["ID"],row["SourceSite"],time.strftime("%H:%M:%S", time.localtime()) ,e))
-            if len(row["Content"]) == 0:          
-                row["WeightedContent"] = row["Title"]
-                row["Content"] =  row["Title"]
-            await write_result(csv_out,row)
-            global WRITTEN_ENTRIES_ASYNC_TRIED_ERR
-            WRITTEN_ENTRIES_ASYNC_TRIED_ERR += 1
-            pc.printMsg(" \t\t\t============== [Tried Catch] Done Writing into csv for <ID = {}><src= {} > =============== ".format(row["ID"],row["SourceSite"]))
+            ## 2. [Too many open files] => UPDATE: got fixed with using sqlite
+            pc.printErr("\t======= XXXXXXXX ERROR XXXXXX ======>> <ID = {}><src= {} > NOW = {} Scraping failed. Using Title for Content.... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+            logging.error(traceback.format_exc())
+            if len(row[13]) == 0:   
+                row_list = list(row)
+                row_list[12] = row_list[5]
+                row_list[13] =  row_list[5]
+                row = tuple(row_list)
+            global ERR_ASYNC_TRIED_ERR
+            ERR_ASYNC_TRIED_ERR += 1
+            pc.printMsg(" \t\t\t============== [Tried Catch] Done Writing into csv for <ID = {}><src= {} > =============== ".format(row[0],row[1]))
             pass
     return row              #NOTE: this fucker!!!
 
 
-async def write_result(csv_file, row):
+async def asyncFetchAll(ts):
     """
-    cleans Content:
-        * Content += clean_text(Content)
-        * WeightedContent +=  clean_text(WeightedContent) + clean_text(Title) + text_actions.getUrlString(Content)
+        INPUT: ts (format: 1598692058.887741)
     """
-    sem = asyncio.Semaphore(2)
-    async with sem:
-        # async with asyncio.Lock():   # lock for gracefully write to shared file object
-        # writer.writerow(entry)
-        sem2 = asyncio.Semaphore(2)
-        async with sem2:
-            f = open(csv_file, 'a+')
-            writer = csv.writer(f)
-            # content = await clean_text(row["Content"])
-            # weighted_content = await clean_text(row["WeightedContent"])
-            entry = [
-                row["ID"],
-                row["SourceSite"],
-                row["ProcessingTime"],
-                row["ProcessingEpoch"],
-                row["CreationDate"],
-                row["Title"],
-                row["Url"],
-                row["SourceTags"],
-                row["ModelTags"],
-                row["NumUpvotes"],
-                row["NumComments"],
-                row["PopI"],
-                row["Content"],
-                row["WeightedContent"],
-            ]
-            writer.writerow(entry)
-            f.close()
-            del writer
-        # del writer
-
-    # global OPEN_CSV
-    # with open(csv_file, 'a+', newline='') as f:
-    #     OPEN_CSV += 1
-    #     csv_writer = csv.writer(f)
-    #     # TODO: RUN AGAIN:url_string_content = await getUrlString(row["Content"])
-    #     content = await clean_text(row["Content"])
-    #     weighted_content = await clean_text(row["WeightedContent"])
-    #     entry = [
-    #         row["ID"],
-    #         row["SourceSite"],
-    #         row["ProcessingTime"],
-    #         row["ProcessingEpoch"],
-    #         row["CreationDate"],
-    #         row["Title"],
-    #         row["Url"],
-    #         row["SourceTags"],
-    #         row["ModelTags"],
-    #         row["NumUpvotes"],
-    #         row["NumComments"],
-    #         row["PopI"],
-    #         content,
-    #         weighted_content,
-    #         # weighted_content + content + url_string_content,
-    #     ]
-    #     csv_writer.writerow(entry)
-    #     OPEN_CSV -= 1
-    # pc.printErr("*************************************************** OPEN_CSV = {} **************************************".format(OPEN_CSV))
-    # # f.close()
-    # # If the the frequency of your writes to the file is high you may want to avoid the open/close overhead
-    # #  adding a flush after each write to make sure the data is written to disk
-    # # f.flush()
-    # # os.fsync(f.fileno())
-
-async def asyncFetchAll(csv_in,csv_out):
-    """
-        INPUT: csv_src_file & csv_dest_file(to be written)
-        NOTE: 
-            * Semaphore limit is: 500
-            * While writing the response to csv_dest_file, it is done in chunks of `N` entries at a time
-    """
+    global CONNTECTION_COUNT, SEMAPHORE_COUNT
 
     tasks = []
-    sem = asyncio.Semaphore(5)
+    sem = asyncio.Semaphore(SEMAPHORE_COUNT)
 
-    """ Initialize the output file """
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
-    csv_functions.creteCsvFile(csv_out,headers)
+    #==========================init connection 
+    wc_db = 'dbs/wc.db'
+    wc_table = 'wc_' + str(int(ts))
+    conn = sqlite3.connect(wc_db, timeout=10)
+    c = conn.cursor()
+    pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    stratTime = time.time()
 
-    connector = TCPConnector(limit=10)
+    # """ Initialize the output file """
+    # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    # csv_functions.creteCsvFile(csv_out,headers)
+
+    global ENTRIES_TO_BE_WRITTEN
+    global WRITTEN_ENTRIES_ASYNC_SCRAPED
+    global WRITTEN_ENTRIES_ASYNC_DIRECT
+    global ASYNC_ENTRIES_TO_BE_SCRAPED
+
+    connector = TCPConnector(limit=CONNTECTION_COUNT,family=socket.AF_INET,verify_ssl=False)
+    # connector = TCPConnector(limit=CONNTECTION_COUNT)
+    # connector = ProxyConnector.from_url('http://user:password@127.0.0.1:1080')
     async with ClientSession(headers={'Connection': 'keep-alive'},connector=connector) as session:
-        with open(csv_in, mode='r') as csvfile:
-            csv_reader = csv.DictReader(csvfile)
-            global ENTRIES_TO_BE_WRITTEN
-            for row in csv_reader:
-                ENTRIES_TO_BE_WRITTEN += 1
-                if(len(row["Content"]) != 0):
-                    pc.printWarn("\t <ID = {}><src= {} > [NO SCRAPING] Content already exists............... NOW: {}".format(row["ID"],row["SourceSite"],time.strftime("%H:%M:%S", time.localtime())))
-                    row["WeightedContent"] = row["Title"] + row["WeightedContent"] 
-                    row["Content"] = row["Content"]
-                    await write_result(csv_out, row)
-                    global WRITTEN_ENTRIES_ASYNC_DIRECT
-                    WRITTEN_ENTRIES_ASYNC_DIRECT += 1
-                    pc.printMsg(" \t\t ==============  Done Writing into csv for <ID = {}><src= {} >=============== ".format(row["ID"],row["SourceSite"]))
-                elif(row["Url"] and row["Title"]):
-                    task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session,csv_out))
-                    tasks.append(task)
+        q = "select * from " + wc_table
+        rows_head = c.execute(q)
+        rows = rows_head.fetchall()
+        for row in rows:
+            """
+                ============= row is an array with indices: 
+                ID(0),SourceSite(1),ProcessingTime(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
+                SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
+            """
+            ENTRIES_TO_BE_WRITTEN += 1
+            if(len(row[13]) != 0):
+                pc.printWarn("\t <ID = {}><src= {} > [NO SCRAPING] Content already exists............... NOW: {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime())))
+                clean_content = row[13]     #Already cleaned in url_scraper
+                url_strings_content = getUrlString(row[13])
+                clean_title = clean_text(row[5])
+                clean_weighted_content = clean_text(row[12]) + " " + clean_title + " " + url_strings_content
+
+                query = 'update ' + wc_table + ' set Content = ? , WeightedContent = ? where ID = ? and SourceSite = ?'
+                data = (clean_content, clean_weighted_content,row[0],row[1])
+                c.execute(query,data)
+                WRITTEN_ENTRIES_ASYNC_DIRECT += 1
+                pc.printSucc(" \t\t ============== <ID= {} ><{}> [Direct] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+            elif(row[5] and row[6]): # else ignore the entry
+                ASYNC_ENTRIES_TO_BE_SCRAPED += 1
+                print("\t\t\t\t\t SENT...... SENT_COUNT = {}".format(ASYNC_ENTRIES_TO_BE_SCRAPED))
+                # if(ASYNC_ENTRIES_TO_BE_SCRAPED%100 == 0):
+                #     pc.printMsg("\t\t\t.......................zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz <NAP TIME> for 5 sec After 100 async-requests while content scraping #ZarooriHaiJi zzzzzzzzzzzzzzz.......................")
+                #     time.sleep(5)
+                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
+                tasks.append(task)
 
         responses = await asyncio.gather(*tasks)
-        pc.printMsg("\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Total items to actually scrape(found w/o Content) = {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n".format(len(responses)))
+        for row in responses:
+            if row:
+                clean_content = clean_text(row[13])
+                url_strings_content = getUrlString(row[13])
+                clean_title = clean_text(row[5])
+                clean_weighted_content = clean_text(row[12]) + " " + clean_title + " " + url_strings_content
+                query = 'update ' + wc_table + ' set Content = ? , WeightedContent = ? where ID = ? and SourceSite = ?'
+                data = (clean_content, clean_weighted_content,row[0],row[1])
+                c.execute(query,data)
+                WRITTEN_ENTRIES_ASYNC_SCRAPED += 1
+                pc.printSucc(" \t\t ============== <ID= {} ><{}> [Scraped] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+        
+    endTime = time.time()
+    conn.commit()
+    conn.close()
+    pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
+    pc.printSucc("\n\n***************************** HN Url Scraping is Complete. TABLE: {} ******************".format(wc_table))
+    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printSucc("*************************************************************************************************\n\n")
+
         
 """ ===============  Async-Executor Helpers: END ===============  """
 
 
-""" ===============  Async-Executor Checker: START ===============  """
+""" ===============  (Not used)Async-Executor Checker: START ===============  """
 
 def cleanNcheckAsyncOutput(csv_in, csv_out):
     """
@@ -264,17 +347,17 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
             if( line_count == 0):       # skipping headers
                 line_count += 1
             else:
-                url_string_content = text_actions.getUrlString(row["Content"])
-                content = text_actions.clean_text(row["Content"])
-                weighted_content = text_actions.clean_text(row["WeightedContent"])
+                url_string_content = text_actions.getUrlString(row[13])
+                content = text_actions.clean_text(row[13])
+                weighted_content = text_actions.clean_text(row[12])
                 entry = [
-                    row["ID"],
-                    row["SourceSite"],
+                    row[0],
+                    row[1],
                     row["ProcessingTime"],
                     row["ProcessingEpoch"],
                     row["CreationDate"],
-                    row["Title"],
-                    row["Url"],
+                    row[5],
+                    row[6],
                     row["SourceTags"],
                     row["ModelTags"],
                     row["NumUpvotes"],
@@ -285,14 +368,13 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
                 ]
                 writer.writerow(entry)
                 NO_LINES_IN_OUTPUT_CSV += 1
-                if(len(row["Title"]) == 0):
+                if(len(row[5]) == 0):
                     NO_LINES_IN_OUTPUT_WITHOUT_TITLE += 1
-                if(len(row["Url"]) == 0):
+                if(len(row[6]) == 0):
                     NO_LINES_IN_OUTPUT_WITHOUT_URL += 1
-                if(len(row["Content"]) == 0):
+                if(len(row[13]) == 0):
                     NO_LINES_IN_OUTPUT_WITHOUT_CONTENT += 1
 
-    #TODO:  os.remove(csv_in) %% rename
 
     pc.printWarn("\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~ Analysis ~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
     pc.printWarn("|\t NO_LINES_IN_INPUT_CSV                 \t | \t  {}  \t|".format(NO_LINES_IN_INPUT_CSV))
@@ -305,7 +387,7 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
 """ ===============  Async-Executor Checker: END ===============  """
 
 
-""" ===============  Async-Executor : START ===============  """
+""" ===============  (Being used )Async-Executor : START ===============  """
 
 
 def RunAsync(ts):
@@ -316,41 +398,41 @@ def RunAsync(ts):
             * FIRST RUN: time = 17 hours, data = 12 MB, #entries = 6.5k
         Input: ts (format: 1598692058.887741)
     """
-
-    pc.printMsg('@[{}] >>>>>> Started Content-scraper(ASYNC) .......[Sema = 5, conn_lim =100]............ => FILENAME: {}\n'.format(datetime.fromtimestamp(ts),'dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'))
+    global CONNTECTION_COUNT, SEMAPHORE_COUNT
+    wc_table = 'wc_' + str(int(ts))
+    pc.printMsg('@[{}] >>>>>> Started Content-scraper(ASYNC) .......[Sema = {}, conn_lim ={}]............ => TABLE: {}\n'.format(datetime.fromtimestamp(ts),SEMAPHORE_COUNT,CONNTECTION_COUNT,wc_table))
 
     stratTime = time.time()
-    csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
-    csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'
+    # csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
+    # csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'
 
     # Run the async job
-    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(csv_src_file,csv_dest_file)))
+    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts)))
 
     endTime = time.time()
-    pc.printSucc("\n****************** Content Scraping is Complete , FILENAME: {} ********************\n \t\t ===========> TIME TAKEN = {}".format('dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv', (endTime-stratTime)))    
-    pc.printMsg('@[{}] >>>>>> Started Content-scraper(ASYNC) .......[Sema = 5, conn_lim =100]............\n'.format(datetime.fromtimestamp(ts)))
+    pc.printSucc("\n****************** (Async)Content Scraping is Complete , TABLE: {} ********************".format(wc_table))   
     
-    pc.printMsg("\n------------------------------------------------------------------")   
-
-    pc.printMsg("|\tENTRIES_TO_BE_WRITTEN                           \t  | \t {} \t|".format(ENTRIES_TO_BE_WRITTEN)) 
-    pc.printMsg("|\tWRITTEN_ENTRIES_ASYNC_DIRECT                    \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_DIRECT)) 
-    pc.printMsg("|\tWRITTEN_ENTRIES_ASYNC_SCRAPED                   \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_SCRAPED)) 
-    pc.printMsg("|\tWRITTEN_ENTRIES_ASYNC_ON_URL_ERROR              \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR)) 
-    pc.printMsg("|\tWRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING    \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING)) 
-    pc.printMsg("|\tWRITTEN_ENTRIES_ASYNC_TRIED_ERR                 \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_TRIED_ERR)) 
-    pc.printMsg("|\tFAILED_ASYNC                                    \t  | \t {} \t|".format(FAILED_ASYNC)) 
-    pc.printMsg("=====================================================================\n")    
-    pc.printMsg("|\t Total Entries Written                          \t  | \t {} \t|".format(WRITTEN_ENTRIES_ASYNC_DIRECT + WRITTEN_ENTRIES_ASYNC_SCRAPED + WRITTEN_ENTRIES_ASYNC_ON_URL_ERROR + WRITTEN_ENTRIES_ASYNC_NO_CONTENT_IN_SCRAPING + WRITTEN_ENTRIES_ASYNC_TRIED_ERR)) 
-    pc.printMsg("--------------------------------------------------------------------\n") 
+    pc.printMsg("\n--------------------------------------------------------------------------------------------------------------------------------")   
+    pc.printMsg("|\t\t IN : Total Entries in Url-Scraped Output Table                   \t\t  | \t\t {} \t\t|".format(ENTRIES_TO_BE_WRITTEN)) 
+    pc.printMsg("|\t\t OUT: WRITTEN_ENTRIES_ASYNC_DIRECT(content exists)                \t\t  | \t\t {} \t\t|".format(WRITTEN_ENTRIES_ASYNC_DIRECT)) 
+    pc.printMsg("|\t\t OUT: WRITTEN_ENTRIES_ASYNC_SCRAPED(scraped entries)              \t\t  | \t\t {} \t\t|".format(WRITTEN_ENTRIES_ASYNC_SCRAPED)) 
+    pc.printErr("\n\n------------------ ERRORS In Scraping (Written nonetheless; counted in  WRITTEN_ENTRIES_ASYNC_SCRAPED) --------------------------\n")    
+    pc.printMsg("=================================================================================================================================")    
+    pc.printErr("|\t\t ERR_ASYNC_NO_CONTENT_IN_SCRAPING(url hit;not content-written )   \t\t  | \t\t {} \t\t|".format(ERR_ASYNC_NO_CONTENT_IN_SCRAPING)) 
+    pc.printErr("|\t\t ERR_ASYNC_ON_URL_ERROR(url not hit)                              \t\t  | \t\t {} \t\t|".format(ERR_ASYNC_ON_URL_ERROR)) 
+    pc.printErr("|\t\t ERR_ASYNC_TRIED_ERR(other try/catch errs)                        \t\t  | \t\t {} \t\t|".format(ERR_ASYNC_TRIED_ERR)) 
+    pc.printMsg("---------------------------------------------------------------------------------------------------------------------------------\n") 
+    pc.printWarn('\t\t\t\t------------------------->>>>>> [ Semaphore Count = {}, Tcp connector limit ={} ]\n'.format(SEMAPHORE_COUNT,CONNTECTION_COUNT))
+    pc.printWarn('\t\t\t\t------------------------->>>>>> [ Time Taken(sec) = {} ]\n'.format(int(endTime - stratTime)))
 
     # Run the analysis
-    cleanNcheckAsyncOutput(csv_src_file, csv_dest_file)   
+    # cleanNcheckAsyncOutput(csv_src_file, csv_dest_file)   
 
 
 """ --------------------------------===============  Async-Executor : END ===============--------------------------------  """
 
 
-""" --------------------------------===============  sync-Executor : START ===============--------------------------------  """
+""" --------------------------------=============== (Not in use) sync-Executor : START ===============--------------------------------  """
 
 
 def RunSync(ts):
@@ -380,58 +462,58 @@ def RunSync(ts):
                 print(f'Headers are {", ".join(row)}')
                 line_count += 1
             #CHECK1(pre scraping): if (content != NULL) => no scraping, just put it in as is
-            if(len(row["Content"]) != 0):
-                pc.printWarn("\t <ID = {} > [NO SCRAPING] Content already exists....putting as it is............. NOW: {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime())))
+            if(len(row[13]) != 0):
+                pc.printWarn("\t <ID = {} > [NO SCRAPING] Content already exists....putting as it is............. NOW: {}".format(row[0],time.strftime("%H:%M:%S", time.localtime())))
                 entry = [
-                        row["ID"],
-                        row["SourceSite"],
+                        row[0],
+                        row[1],
                         row["ProcessingTime"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
-                        row["Title"],
-                        row["Url"],
+                        row[5],
+                        row[6],
                         row["SourceTags"],
                         row["ModelTags"],
                         row["NumUpvotes"],
                         row["NumComments"],
                         row["PopI"],
-                        text_actions.clean_text(row["Title"] + row["WeightedContent"]) + text_actions.getUrlString(row["Content"]),  #add the url-words too
-                        text_actions.clean_text(row["Content"]) + text_actions.getUrlString(row["Content"])
+                        text_actions.clean_text(row[5] + row[12]) + text_actions.getUrlString(row[13]),  #add the url-words too
+                        text_actions.clean_text(row[13]) + text_actions.getUrlString(row[13])
                         ]
                 global WRITTEN_ENTRIES_SYNC
                 WRITTEN_ENTRIES_SYNC += 1
                 f = csv.writer(open(csv_dest_file, "a"))  
                 f.writerow(entry)
             #CHECK2(pre scraping): if(url == NULL)=>discard
-            #CHECK3(pre scraping): if (row["title"]==NULL)=>discard
-            elif ((len(row["Url"]) != 0)and(len(row["Title"]) != 0)):
-                pc.printWarn("\t <ID = {} > [SCRAPING BEGIN] sleeping for 0.0001 second ZZZZZZzzzzzzzzzzzz................. NOW: {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime())))
+            #CHECK3(pre scraping): if (row[5]==NULL)=>discard
+            elif ((len(row[6]) != 0)and(len(row[5]) != 0)):
+                pc.printWarn("\t <ID = {} > [SCRAPING BEGIN] sleeping for 0.0001 second ZZZZZZzzzzzzzzzzzz................. NOW: {}".format(row[0],time.strftime("%H:%M:%S", time.localtime())))
                 time.sleep(0.0001) 
                 try:
                     # response = web_requests.hitGetWithRetry(url,TIMEOUT=10)
-                    response = web_requests.hitGetWithRetry(row["Url"],'',False ,2,0.5,60)
+                    response = web_requests.hitGetWithRetry(row[6],'',False ,2,0.5,60)
                     # if response.status_code == 200:
                     if response != -1:
                         # content = text_actions.contentfromhtml(response)  #NOTE: for sync
                         content = text_actions.contentfromhtml(response.text)  #NOTE: for Async
                         urlstrings = text_actions.getUrlString(content)
                         content += urlstrings #add the url-words too
-                        # weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row["Title"] + urlstrings #add the url-words too      #NOTE: for sync
-                        weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row["Title"] + urlstrings #add the url-words too        #NOTE: for async
+                        # weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row[5] + urlstrings #add the url-words too      #NOTE: for sync
+                        weightedcontent = text_actions.weightedcontentfromhtml(response.text) + row[5] + urlstrings #add the url-words too        #NOTE: for async
                         line_count += 1
-                        #CHECK1(post scraping): if (content == null)&&(row["Title"] != null)<already checked abouve>=> row["Content"] = clean_text(row["title"]) AND row["weightedContent"] = clean_text(row["title"])
+                        #CHECK1(post scraping): if (content == null)&&(row[5] != null)<already checked abouve>=> row[13] = clean_text(row[5]) AND row[12] = clean_text(row[5])
                         if(len(content) == 0):
-                            content = row["Title"]
-                            weightedcontent = row["Title"]
+                            content = row[5]
+                            weightedcontent = row[5]
                         else:
                             entry = [
-                                row["ID"],
-                                row["SourceSite"],
+                                row[0],
+                                row[1],
                                 row["ProcessingTime"],
                                 row["ProcessingEpoch"],
                                 row["CreationDate"],
-                                row["Title"],
-                                row["Url"],
+                                row[5],
+                                row[6],
                                 row["SourceTags"],
                                 row["ModelTags"],
                                 row["NumUpvotes"],
@@ -443,15 +525,15 @@ def RunSync(ts):
                             
                         f = csv.writer(open(csv_dest_file, "a"))          
                         f.writerow(entry)
-                        pc.printMsg("\t\t <ID = {} > ============== Scraping Done....... \t NOW: {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime())))
+                        pc.printMsg("\t\t <ID = {} > ============== Scraping Done....... \t NOW: {}".format(row[0],time.strftime("%H:%M:%S", time.localtime())))
                     else:
                         global SKIPPED_SYNC
                         SKIPPED_SYNC += 1
-                        pc.printErr("\t\txxxxx SKIPPING... for ID: {} Unable to hit url: {} , ".format(row["ID"],row["Url"]))
+                        pc.printErr("\t\txxxxx SKIPPING... for ID: {} Unable to hit url: {} , ".format(row[0],row[6]))
                 except Exception as e:
                     global FAILED_SYNC
                     FAILED_SYNC += 1
-                    pc.printErr("\t======= XXXXXXXX ERROR XXXXXX ======>> ID= {} NOW = {} Skipping...Failed due to: \n \t\t ERROR {}".format(row["ID"],time.strftime("%H:%M:%S", time.localtime()) ,e))
+                    pc.printErr("\t======= XXXXXXXX ERROR XXXXXX ======>> ID= {} NOW = {} Skipping...Failed due to: \n \t\t ERROR {}".format(row[0],time.strftime("%H:%M:%S", time.localtime()) ,e))
                     pass
     pc.printMsg("\n****************** Content Scraping is Complete , FILENAME: {} ********************\n".format('dbs/wc-db/wc_table_'+str(int(ts))+'_wc.csv'))    
     pc.printMsg("\n----------------------------------------------------------------------------------\n")   
@@ -464,3 +546,17 @@ def RunSync(ts):
 
 
 """ --------------------------------===============  sync-Executor : END ===============--------------------------------  """
+
+
+
+
+
+
+
+
+""" ERROR ISSUES in Content Scraper
+    * xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = 115><src= r/computerscience > As No Title xxxxxxxxxxxxxxxxxxxxxxxx
+    * ERROR 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+    * ERROR Cannot connect to host {x} ssl:<ssl.SSLContext object at 0x135d786c0> [nodename nor servname provided, or not known]
+    * ERROR Cannot connect to host {x} ssl:<ssl.SSLContext object at 0x135d786c0> [Too many open files]
+"""

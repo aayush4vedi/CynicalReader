@@ -5,6 +5,21 @@ import csv
 from scrapers import url_scraper_runner, content_scraper
 from utilities import print_in_color as pc
 
+"""
+    # NOTE: to dupicate a table(for testing)
+        CREATE TABLE wc_123456 AS SELECT * FROM wc_1599816944;
+"""
+
+
+import sqlite3
+
+def create_test_table(n):       # similar to wc_1599816944 (the url-only table)
+    wc_db = 'dbs/wc.db'
+    wc_table = 'wc_' + str(n) 
+    conn = sqlite3.connect(wc_db, timeout=10)
+    c = conn.cursor()
+    c.execute("create table " + wc_table + " as select * from wc_1599858643")
+    pc.printWarn("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Created test table in dc.db => {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@".format(wc_table))
 
 if __name__ == '__main__':
     
@@ -14,14 +29,16 @@ if __name__ == '__main__':
     pc.printMsg(" current time: {}".format(current_time))
 
     """ Run URL Scrapers : url_scarper.py  => update WC-DB & WP-DB """
-    
-    # url_scraper_runner.run(ts)
+
+    url_scraper_runner.run(ts)
     
     """ Run Conent Scraper : content_scraper.py => update WC-DB """
 
-    # content_scraper.RunAsync(ts)
-    content_scraper.RunAsync(1599413667)        
-    # content_scraper.RunSync(1599009243)        
+    content_scraper.RunAsync(ts)
+    # content_scraper.RunAsync(1599855814)
+    # create_test_table(727)
+    # content_scraper.RunAsync(727)        
+    # content_scraper.RunSync(1599009243)           #Not used       
     
     """ Run Tagger => update WC-DB """
     
