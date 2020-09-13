@@ -515,7 +515,7 @@
 #         entry = [
 #                 row["ID"],
 #                 row["SourceSite"],
-#                 row["ProcessingTime"],
+#                 row["ProcessingDate"],
 #                 row["ProcessingEpoch"],
 #                 row["CreationDate"],
 #                 row["Title"],
@@ -548,7 +548,7 @@
 
 #     #Create new file
 #     f = csv.writer(open(csv_out, "w"))          # Flush the old file
-#     f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+#     f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
 
 
 #     async with ClientSession(headers={'Connection': 'keep-alive'}) as session:
@@ -583,7 +583,7 @@
 #         responses = await asyncio.gather(*tasks)
 
 #         f = csv.writer(open(csv_out, "w"))          # Flush the old file
-#         f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+#         f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
 
 #         f = csv.writer(open(csv_out, "a"))
 #         for res in responses:
@@ -591,7 +591,7 @@
 #                 entry = [
 #                     res["ID"],
 #                     res["SourceSite"],
-#                     res["ProcessingTime"],
+#                     res["ProcessingDate"],
 #                     res["ProcessingEpoch"],
 #                     res["CreationDate"],
 #                     res["Title"],
@@ -625,7 +625,7 @@
 
 # def syncDemo(csv_in,csv_out):
 #     f = csv.writer(open(csv_out, "w"))          # Flush the old file
-#     f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+#     f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
 
 #     with open(csv_in, mode='r') as csvfile:
 #         csv_reader = csv.DictReader(csvfile)
@@ -641,7 +641,7 @@
 #                     entry = [
 #                         row["ID"],
 #                         row["SourceSite"],
-#                         row["ProcessingTime"],
+#                         row["ProcessingDate"],
 #                         row["ProcessingEpoch"],
 #                         row["CreationDate"],
 #                         row["Title"],
@@ -686,7 +686,7 @@
 #     csv_out_sync = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_sync.csv'
 #     csv_out_async = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_async_wc.csv'
 
-#     # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
+#     # headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
 #     # csv_functions.creteCsvFile(csv_out,headers)
 
 #     print("\t======================== START Sync using `requests` ===========================\n")
@@ -827,7 +827,7 @@ async def asyncFetchAll(csv_in,csv_out):
         """ Initialize the output file """
 
         f = csv.writer(open(csv_out, "w"))          # Flush the old file
-        f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+        f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
         
         """ break responses arr into size of N """
         N = 2
@@ -840,7 +840,7 @@ async def asyncFetchAll(csv_in,csv_out):
                     entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -871,7 +871,7 @@ def asyncDemoExecutor(csv_in,csv_out):
 
 def syncDemo(csv_in,csv_out):
     f = csv.writer(open(csv_out, "w"))          # Flush the old file
-    f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+    f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
 
     with open(csv_in, mode='r') as csvfile:
         csv_reader = csv.DictReader(csvfile)
@@ -887,7 +887,7 @@ def syncDemo(csv_in,csv_out):
                     entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -932,7 +932,7 @@ if __name__ == "__main__":
     csv_out_sync = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_sync.csv'
     csv_out_async = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/POC/dummy_wc_table_async_wc.csv'
 
-    # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
+    # headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
     # csv_functions.creteCsvFile(csv_out,headers)
 
     # print("\t======================== START Sync using `requests` ===========================\n")
@@ -986,7 +986,7 @@ if __name__ == "__main__":
 
 #         """ Initialize the output file """
 
-#         headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+#         headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
 #         csv_functions.creteCsvFile(csv_out,headers)
         
 #         print("\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ len(responses) = {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n".format(len(responses)))
@@ -995,7 +995,7 @@ if __name__ == "__main__":
 #                 entry = [
 #                     row["ID"],
 #                     row["SourceSite"],
-#                     row["ProcessingTime"],
+#                     row["ProcessingDate"],
 #                     row["ProcessingEpoch"],
 #                     row["CreationDate"],
 #                     row["Title"],
@@ -1028,7 +1028,7 @@ if __name__ == "__main__":
 #         #                 entry = [
 #         #                     row["ID"],
 #         #                     row["SourceSite"],
-#         #                     row["ProcessingTime"],
+#         #                     row["ProcessingDate"],
 #         #                     row["ProcessingEpoch"],
 #         #                     row["CreationDate"],
 #         #                     row["Title"],

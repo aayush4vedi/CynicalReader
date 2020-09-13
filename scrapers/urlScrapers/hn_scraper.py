@@ -9,7 +9,7 @@ import time
 from datetime import datetime, timedelta
 import sqlite3
 
-from utilities import csv_functions, text_actions, web_requests
+from utilities import csv_functions, text_actions, web_requests, date_conversion
 from utilities import print_in_color as pc
 
 def run(ts):
@@ -104,9 +104,9 @@ def run(ts):
             entry = [
                 index,
                 sourceSite,
-                datetime.fromtimestamp(ts),
+                datetime.fromtimestamp(ts).date(),
                 int(ts),
-                item["created_at"],
+                date_conversion.HNDate(str(item["created_at"])),
                 item["title"],              
                 url,
                 sourceTag,
@@ -150,9 +150,9 @@ def run(ts):
             entry = [
                 index,
                 sourceSite,
-                datetime.fromtimestamp(ts),
+                datetime.fromtimestamp(ts).date(),
                 int(ts),
-                item["created_at"],
+                date_conversion.HNDate(str(item["created_at"])),
                 item["title"],              
                 url,
                 'selfproj',
@@ -198,9 +198,9 @@ def run(ts):
             entry = [
                 index,
                 sourceSite,
-                datetime.fromtimestamp(ts),
+                datetime.fromtimestamp(ts).date(),
                 int(ts),
-                item["created_at"],
+                date_conversion.HNDate(str(item["created_at"])),
                 item["title"],              
                 url,
                 'query',

@@ -254,36 +254,35 @@
     * [x] All 3 url scrapers
     * [x] Content Scraper
     * **UPDATE**: no duplicate tables like <timestamp> & <timestamp>_wc .Just create <timestamp>_wc &  <timestamp>_wp and for  <timestamp>_wp if content doesnt exists; send for scraping & delete that row.Then update the row later when async response has returned.
-    * [] Fix issues:
+    * [] FIXME: Fix issues:
       * [x] `xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = 115><src= r/computerscience > As No Content xxxxxxxxxxxxxxxxxxxxxxxx`
         * => Cont do anything, just keep as it is
       * [] `ERROR 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte`
       * [] `'charmap' codec can't decode byte 0x8d in position 7385: character maps to <undefined>`
       * [] `ERROR Cannot connect to host {x} ssl:<ssl.SSLContext object at 0x135d786c0> [nodename nor servname provided, or not known]`
       * [] `ERROR Cannot connect to host {x} ssl:<ssl.SSLContext object at 0x135d786c0> [Too many open files]`
-
-
-
-| CONNTECTION_COUNT |  SEMAPHORE_COUNT |  Time taken | Scraped Entries |      Url Err     |    No Content     |      Try/Catch    |
-| ------------------| -----------------| ------------| ----------------| -----------------|-------------------| ------------------|  
-| 10                |  10              |     330     |         813     |      29          |        0          |      1841         |  
-| 10                |  100             |     190     |         625     |      9           |        0          |      2049         |  
-| 10                |  500             |     90      |         223     |      6           |        0          |      2454         |  
-
-| 50                |  10              |     430     |         1039    |      35          |        0          |      1609         |  
-| 100               |  10              |     300     |         852     |      27          |        0          |      1804         |  
-| 500               |  10              |     350     |         859     |      33          |        0          |      1791         |  
-
-| 5                 |  5               |     460     |         755     |      24          |        0          |      1900         |  
-| 1000              |  1000            |     30      |         33      |      8           |        0          |      2642         |  
-
-
-
-
+    * [] Optimise `CONNTECTION_COUNT` & `SEMAPHORE_COUNT`
+  
+        | CONNTECTION_COUNT |  SEMAPHORE_COUNT |  Time taken | Scraped Entries |      Url Err     |    No Content     |      Try/Catch    |
+        | ------------------| -----------------| ------------| ----------------| -----------------|-------------------| ------------------|  
+        | 10                |  10              |     330     |         813     |      29          |        0          |      1841         |  
+        | 10                |  100             |     190     |         625     |      9           |        0          |      2049         |  
+        | 10                |  500             |     90      |         223     |      6           |        0          |      2454         |  
+        | 50                |  10              |     430     |         1039    |      35          |        0          |      1609         |  
+        | 100               |  10              |     300     |         852     |      27          |        0          |      1804         |  
+        | 500               |  10              |     350     |         859     |      33          |        0          |      1791         |  
+        | 5                 |  5               |     460     |         755     |      24          |        0          |      1900         |  
+        | 1000              |  1000            |     30      |         33      |      8           |        0          |      2642         |  
 
 
 * Make `PopICalc.py`
-  * [] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
+  * [x] Convert all sorts of datetime formats to just date (@utilities/date_conversion.py)
+  * [x] update ProcessingTime -> ProcessingDate
+  * [x] Introduce in all 3 url_scrapers; run to check;  remove the now put commented lines 
+  * [x] Write query to calcualte PopI- POC
+  * [x] popI value going >1
+  * [x] Upate weightfactors in formula
+  * [@] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
 * Make map of maps:
   * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
 
@@ -295,6 +294,4 @@
 
 
 ## [Ticket6] : FuckinLaunch(<21Aug20>)
-
-
 

@@ -135,7 +135,7 @@ async def write_result(csv_file, row):
             entry = [
                 row["ID"],
                 row["SourceSite"],
-                row["ProcessingTime"],
+                row["ProcessingDate"],
                 row["ProcessingEpoch"],
                 row["CreationDate"],
                 row["Title"],
@@ -163,7 +163,7 @@ async def write_result(csv_file, row):
     #     entry = [
     #         row["ID"],
     #         row["SourceSite"],
-    #         row["ProcessingTime"],
+    #         row["ProcessingDate"],
     #         row["ProcessingEpoch"],
     #         row["CreationDate"],
     #         row["Title"],
@@ -198,7 +198,7 @@ async def asyncFetchAll(csv_in,csv_out):
     sem = asyncio.Semaphore(5)
 
     """ Initialize the output file """
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_functions.creteCsvFile(csv_out,headers)
 
     connector = TCPConnector(limit=10)
@@ -249,7 +249,7 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
     """ Now check and create new "cleaned" file """
 
 
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_final_out = os.path.join("F",csv_out)
     csv_functions.creteCsvFile(csv_final_out,headers)
 
@@ -270,7 +270,7 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
                 entry = [
                     row["ID"],
                     row["SourceSite"],
-                    row["ProcessingTime"],
+                    row["ProcessingDate"],
                     row["ProcessingEpoch"],
                     row["CreationDate"],
                     row["Title"],
@@ -367,11 +367,11 @@ def RunSync(ts):
     csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_sync_wc.csv'
     index = 1
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_functions.creteCsvFile(csv_dest_file,headers)
 
     f = csv.writer(open(csv_dest_file, "w"))          # Flush the old file
-    f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+    f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
     with open(csv_src_file, mode='r') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         line_count = 0
@@ -385,7 +385,7 @@ def RunSync(ts):
                 entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -427,7 +427,7 @@ def RunSync(ts):
                             entry = [
                                 row["ID"],
                                 row["SourceSite"],
-                                row["ProcessingTime"],
+                                row["ProcessingDate"],
                                 row["ProcessingEpoch"],
                                 row["CreationDate"],
                                 row["Title"],

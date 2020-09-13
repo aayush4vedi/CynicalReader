@@ -87,7 +87,7 @@ async def asyncFetchAll(csv_in,csv_out):
     sem = asyncio.Semaphore(1000)
 
     """ Initialize the output file """
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_functions.creteCsvFile(csv_out,headers)
 
     connector = TCPConnector(limit=0)
@@ -105,7 +105,7 @@ async def asyncFetchAll(csv_in,csv_out):
                     entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -137,7 +137,7 @@ async def asyncFetchAll(csv_in,csv_out):
                 entry = [
                     row["ID"],
                     row["SourceSite"],
-                    row["ProcessingTime"],
+                    row["ProcessingDate"],
                     row["ProcessingEpoch"],
                     row["CreationDate"],
                     row["Title"],
@@ -216,11 +216,11 @@ def RunSync(ts):
     csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_wc_sync.csv'
     index = 1
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_functions.creteCsvFile(csv_dest_file,headers)
 
     f = csv.writer(open(csv_dest_file, "w"))          # Flush the old file
-    f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+    f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
     with open(csv_src_file, mode='r') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         line_count = 0
@@ -234,7 +234,7 @@ def RunSync(ts):
                 entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -276,7 +276,7 @@ def RunSync(ts):
                             entry = [
                                 row["ID"],
                                 row["SourceSite"],
-                                row["ProcessingTime"],
+                                row["ProcessingDate"],
                                 row["ProcessingEpoch"],
                                 row["CreationDate"],
                                 row["Title"],

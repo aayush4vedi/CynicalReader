@@ -113,7 +113,7 @@ async def fetchWithRetry(row, session):
             return resposne ((raw)Content & (raw)WeightedContent in row)
         * if still unable to hit after retries: Content = Title , WeightedContent = Title
         INPUT: `row` is an array with indices: 
-            ID(0),SourceSite(1),ProcessingTime(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
+            ID(0),SourceSite(1),ProcessingDate(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
             SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
     """
 
@@ -202,9 +202,9 @@ async def semaphoreSafeFetch(sem, row, session):
         except Exception as e:
             BOYS_RETURNED_HOME_DEAD += 1
             print(" \t\t\t\t\t\t\t\t\t\t\t\t BOYS_RETURNED_HOME_DEAD = {}".format(BOYS_RETURNED_HOME_DEAD))
-            #TODO: delete this
-            if str(e).find("codec can't decode byte") != -1:
-                print(" \t\t\t row: {}".format(row))
+            # #TODO: delete this
+            # if str(e).find("codec can't decode byte") != -1:
+            #     print(" \t\t\t row: {}".format(row))
 
             # This error is mainly because of:
             ## 1. [nodename nor servname provided, or not known]
@@ -241,7 +241,7 @@ async def asyncFetchAll(ts):
     stratTime = time.time()
 
     # """ Initialize the output file """
-    # headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    # headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     # csv_functions.creteCsvFile(csv_out,headers)
 
     global ENTRIES_TO_BE_WRITTEN
@@ -259,7 +259,7 @@ async def asyncFetchAll(ts):
         for row in rows:
             """
                 ============= row is an array with indices: 
-                ID(0),SourceSite(1),ProcessingTime(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
+                ID(0),SourceSite(1),ProcessingDate(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
                 SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
             """
             ENTRIES_TO_BE_WRITTEN += 1
@@ -301,9 +301,6 @@ async def asyncFetchAll(ts):
     conn.commit()
     conn.close()
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
-    pc.printSucc("\n\n***************************** HN Url Scraping is Complete. TABLE: {} ******************".format(wc_table))
-    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
-    pc.printSucc("*************************************************************************************************\n\n")
 
         
 """ ===============  Async-Executor Helpers: END ===============  """
@@ -332,7 +329,7 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
     """ Now check and create new "cleaned" file """
 
 
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_final_out = os.path.join("F",csv_out)
     csv_functions.creteCsvFile(csv_final_out,headers)
 
@@ -353,7 +350,7 @@ def cleanNcheckAsyncOutput(csv_in, csv_out):
                 entry = [
                     row[0],
                     row[1],
-                    row["ProcessingTime"],
+                    row["ProcessingDate"],
                     row["ProcessingEpoch"],
                     row["CreationDate"],
                     row[5],
@@ -449,11 +446,11 @@ def RunSync(ts):
     csv_src_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     csv_dest_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'_sync_wc.csv'
     index = 1
-    headers = ['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
+    headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
     csv_functions.creteCsvFile(csv_dest_file,headers)
 
     f = csv.writer(open(csv_dest_file, "w"))          # Flush the old file
-    f.writerow(['ID', 'SourceSite', 'ProcessingTime','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
+    f.writerow(['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content'])
     with open(csv_src_file, mode='r') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         line_count = 0
@@ -467,7 +464,7 @@ def RunSync(ts):
                 entry = [
                         row[0],
                         row[1],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row[5],
@@ -509,7 +506,7 @@ def RunSync(ts):
                             entry = [
                                 row[0],
                                 row[1],
-                                row["ProcessingTime"],
+                                row["ProcessingDate"],
                                 row["ProcessingEpoch"],
                                 row["CreationDate"],
                                 row[5],

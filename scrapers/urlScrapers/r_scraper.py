@@ -5,7 +5,7 @@ import time
 import praw  # reddit scraper
 import sqlite3
 
-from utilities import csv_functions, text_actions, web_requests
+from utilities import csv_functions, text_actions, web_requests, date_conversion
 import vault
 from utilities import print_in_color as pc
 
@@ -110,6 +110,7 @@ def run(ts):
         pc.printWarn("\t ............  Subreddit: {}  .............".format(subreddit))
         sr = reddit.subreddit(subreddit)
         # for submission in sr.top('day',limit=10):                   # For testing....
+        # for submission in sr.top('year',limit=1000):                #remove this & uncomemnt below line
         for submission in sr.top('week',limit=1000):              #NOTE: max limit is 1000
             #Check1: if the post is unlocked by mods
             content = ''
@@ -128,9 +129,9 @@ def run(ts):
                     entry = [
                         index,
                         "r/"+subreddit,
-                        datetime.fromtimestamp(ts),
+                        datetime.fromtimestamp(ts).date(),
                         int(ts),
-                        datetime.fromtimestamp(submission.created),
+                        date_conversion.RedditDate(str(datetime.fromtimestamp(submission.created))),
                         submission.title,              
                         url,
                         json.dumps(tag_arr),

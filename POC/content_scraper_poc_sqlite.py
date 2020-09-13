@@ -173,7 +173,7 @@ async def write_result(csv_file, row):
             entry = [
                 row["ID"],
                 row["SourceSite"],
-                row["ProcessingTime"],
+                row["ProcessingDate"],
                 row["ProcessingEpoch"],
                 row["CreationDate"],
                 row["Title"],
@@ -214,7 +214,7 @@ async def asyncFetchAll(url_csv):
         # create table => NOTE: tablename = timestamp+ ("_url",("_wc" or "_wp"))
         print('****************************** Creating a new table: timestamp_wc in db: poc.db *****************************')
         c.execute('''CREATE TABLE timestamp_wc
-                (ID, SourceSite, ProcessingTime,ProcessingEpoch,CreationDate, Title, Url, SourceTags,ModelTags,NumUpvotes, NumComments, PopI,WeightedContent,Content)''')
+                (ID, SourceSite, ProcessingDate,ProcessingEpoch,CreationDate, Title, Url, SourceTags,ModelTags,NumUpvotes, NumComments, PopI,WeightedContent,Content)''')
 
     DIRECT_ENTRIES = 0
     SCRAPED_ENTRIES = 0
@@ -230,7 +230,7 @@ async def asyncFetchAll(url_csv):
                     entry = [
                         row["ID"],
                         row["SourceSite"],
-                        row["ProcessingTime"],
+                        row["ProcessingDate"],
                         row["ProcessingEpoch"],
                         row["CreationDate"],
                         row["Title"],
@@ -260,7 +260,7 @@ async def asyncFetchAll(url_csv):
             entry = [
                 row["ID"],
                 row["SourceSite"],
-                row["ProcessingTime"],
+                row["ProcessingDate"],
                 row["ProcessingEpoch"],
                 row["CreationDate"],
                 row["Title"],
