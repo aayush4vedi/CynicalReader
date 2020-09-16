@@ -5,6 +5,7 @@
 
 *.csv
 *.db
+**/dbs
 *.xml
 .ipynb_checkpoints
 __pycache__

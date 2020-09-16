@@ -255,6 +255,7 @@
     * [x] Content Scraper
     * **UPDATE**: no duplicate tables like <timestamp> & <timestamp>_wc .Just create <timestamp>_wc &  <timestamp>_wp and for  <timestamp>_wp if content doesnt exists; send for scraping & delete that row.Then update the row later when async response has returned.
     * [] FIXME: Fix issues:
+      * [] TODO: if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
       * [x] `xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = 115><src= r/computerscience > As No Content xxxxxxxxxxxxxxxxxxxxxxxx`
         * => Cont do anything, just keep as it is
       * [] `ERROR 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte`
@@ -273,7 +274,14 @@
         | 500               |  10              |     350     |         859     |      33          |        0          |      1791         |  
         | 5                 |  5               |     460     |         755     |      24          |        0          |      1900         |  
         | 1000              |  1000            |     30      |         33      |      8           |        0          |      2642         |  
-
+    * **Enhancements- content_scraper2.0**
+      * 1. Libraries used in url_string, clean_text etc are blocking the main thread while doing their thing.
+        * => Get content in async & then process in sync
+      * 2. Those urls which are failing in async, try sync req before throwing error
+      * **IMPACT** : Run time = 2 hrs, %Scraping = 1.5% (DIRECT = 60%, ASYNC = 7%,SYNC = 33%)
+      * Fix Async.Its as good as nothing--------go httpx maybe???
+        * => Update: 7 mins, 1000 successful scraping, #GoodEnough
+      * TODO: fix DB related issues
 
 * Make `PopICalc.py`
   * [x] Convert all sorts of datetime formats to just date (@utilities/date_conversion.py)
@@ -283,8 +291,27 @@
   * [x] popI value going >1
   * [x] Upate weightfactors in formula
   * [@] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
+  * **Resource** : Use (alexa)[https://www.alexa.com/siteinfo/ycombinator.com] to get in-depth info of a site
+  * [x] Visit SourceSites, get user population
+  * [ ] TODO: Upadte damping factor in PopI calculation
+
+* Model:(Manch)
+  * [-] Make @manch_simulator(until model is N/A) => To update ModelTags col
+  * [@] Introduce & infuse the real model(manch)
+  * [@] Get more date,more tags; train the model properly
+
+* Domain Hotness Ranker
 * Make map of maps:
   * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
+
+* See if you can use these sites too:
+  * hackernoon.com 
+  * npmjs.com 
+  * freecodecamp.org 
+  * dev.to
+
+* Newsletter generator
+* Admin View Maker
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website

@@ -42,7 +42,7 @@ def run(ts):
     conn = sqlite3.connect(wp_db, timeout=10)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
-    stratTime = time.time()
+    startTime = time.time()
 
     """
         here is how you add day to `ts`:
@@ -125,5 +125,5 @@ def run(ts):
     pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
     pc.printSucc("\n\n***************************** PH Url Scraping is Complete. TABLE: {} ******************".format(wp_table))
     pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
-    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
     pc.printSucc("*************************************************************************************************\n\n")

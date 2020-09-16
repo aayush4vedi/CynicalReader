@@ -93,7 +93,7 @@ def run(ts):
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
-    stratTime = time.time()
+    startTime = time.time()
 
     # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
     index = 1
@@ -153,5 +153,5 @@ def run(ts):
     pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
     pc.printSucc("\n\n***************************** Reddit Url Scraping is Complete. TABLE: {} *******************".format(wc_table))
     pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
-    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
     pc.printSucc("*************************************************************************************************\n\n")

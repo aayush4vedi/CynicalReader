@@ -53,10 +53,9 @@ def CalculatePopi(upvotes, comments, max_upvotes_day, max_comments_day, max_upvo
 
     date_i = datetime.datetime.strptime(creation_date, '%Y-%m-%d')
     date_0 = datetime.datetime.strptime(first_day_of_week, '%Y-%m-%d')
-    days_life_since_day_0 = (date_i - date_0).days
+    days_life_since_day_0 = min(max((date_i - date_0).days, 0),7)       # now it will be in [0,7] .Needed as some APIs return months old posts :(
 
     # print("\t\t creation_date    -> {}".format(creation_date))
-    # print("\t\t creation_date    -> {}".format(source_site))
     # print("\t\t\t upvotes    -> {}".format(upvotes))
     # print("\t\t\t comments    -> {}".format(comments))
     # print("\t\t\t max_upvotes_day    -> {}".format(max_upvotes_day))
@@ -64,6 +63,8 @@ def CalculatePopi(upvotes, comments, max_upvotes_day, max_comments_day, max_upvo
     # print("\t\t\t max_upvotes_week    -> {}".format(max_upvotes_week))
     # print("\t\t\t max_comments_week    -> {}".format(max_comments_week))
     # print("\t\t\t days_life_since_day_0    -> {}".format(days_life_since_day_0))
+    # print("\t\t\t date_i    -> {}".format(date_i))
+    # print("\t\t\t date_0    -> {}".format(date_0))
 
     """
     #NOTE: for now d(source damping factor)
@@ -93,8 +94,7 @@ def CalculatePopi(upvotes, comments, max_upvotes_day, max_comments_day, max_upvo
     popi += TW*(days_life_since_day_0/7)
 
     popi = D*popi
-    # popi = upvotes + comments + max_upvotes_day + max_comments_day +  max_upvotes_week + max_comments_week
-    print("\t\t popi    -> {}".format(popi))
+    # print("\t\t popi    -> {}".format(popi))
     return popi
 
 
@@ -109,7 +109,9 @@ def run_wc(ts):
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < PopICalculator@wc : DB Connection Opened > ---------------------------------------------\n")
-    stratTime = time.time()
+    pc.printWarn("\tRunning PopiCalculator for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
+    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
+    startTime = time.time()
 
     days = GetLastSevenDays(ts)
 
@@ -159,8 +161,9 @@ def run_wc(ts):
             WeeklyMaxMap[popi_item_weekly] = (max_upvotes_week,max_comments_week)
 
         popI = CalculatePopi(row[9],row[10],max_upvotes_day, max_comments_day, max_upvotes_week, max_comments_week,row[4],days[6],row[1])
-        pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
-        pc.printMsg("\t\t\t\t ........................ Updated PopI in wc_table..............")
+        popI = round(popI,10)
+        # pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
+        # pc.printMsg("\t\t\t\t ........................ Updated PopI in wc_table..............")
         query = 'update ' + wc_table + ' set PopI = ? where ID = ? and SourceSite = ?'
         data = (popI,row[0],row[1])
         c.execute(query,data)
@@ -169,7 +172,7 @@ def run_wc(ts):
     conn.commit()
     conn.close()
     pc.printMsg("\t -------------------------------------- < PopICalculator@wc: DB Connection Closed > ---------------------------------------------\n")
-    pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wc    =>  {} => TABLE: {}\n".format(int(endTime - stratTime),wc_table))
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wc    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
 
 def run_wp(ts):
     """
@@ -182,7 +185,9 @@ def run_wp(ts):
     conn = sqlite3.connect(wp_db, timeout=10)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- <  PopICalculator@wp : DB Connection Opened > ---------------------------------------------\n")
-    stratTime = time.time()
+    startTime = time.time()
+    pc.printWarn("\tRunning PopiCalculator for wp ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
+    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
 
     days = GetLastSevenDays(ts)
 
@@ -232,8 +237,8 @@ def run_wp(ts):
             WeeklyMaxMap[popi_item_weekly] = (max_upvotes_week,max_comments_week)
 
         popI = CalculatePopi(row[9],row[10],max_upvotes_day, max_comments_day, max_upvotes_week, max_comments_week,row[4],days[6],row[1])
-        pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
-        pc.printMsg("\t\t\t\t ........................ Updated PopI in wp_table..............")
+        # pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
+        # pc.printMsg("\t\t\t\t ........................ Updated PopI in wp_table..............")
         query = 'update ' + wp_table + ' set PopI = ? where ID = ? and SourceSite = ?'
         data = (popI,row[0],row[1])
         c.execute(query,data)
@@ -242,12 +247,12 @@ def run_wp(ts):
     conn.commit()
     conn.close()
     pc.printMsg("\t -------------------------------------- < PopICalculator@wp: DB Connection Closed > ---------------------------------------------\n")
-    pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wp    =>  {} => TABLE: {}\n".format(int(endTime - stratTime),wp_table))
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wp    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wp_table))
 
 
 
 def run(ts):
-    stratTime = time.time()
+    startTime = time.time()
 
     try:
         run_wc(ts)
@@ -266,7 +271,7 @@ def run(ts):
     endTime = time.time()
 
     pc.printSucc("**************************** PopI Calculation is Done for wc & wp ********************************\n\n")
-    pc.printWarn("| \t\t TIME TAKEN FOR PopICalculators-both     \t\t | \t\t {}  \t\t |".format(int(endTime - stratTime)))
+    pc.printWarn("| \t\t TIME TAKEN FOR PopICalculators-both     \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
     pc.printSucc("*************************************************************************************************\n\n")
 
 

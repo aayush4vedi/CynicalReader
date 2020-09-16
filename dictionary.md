@@ -732,46 +732,121 @@
 ------
 
 
+# Population Visiting Site(to get idea of Damping factor) [Source: SimilarWeb chrome extension]
+
+|      Source                 |  MonthlyVisits | Avg Visit Duratin(min:sec) |  Pages per visit | Bounce Rate |
+| --------------------------- | -------------- | -------------------------- | ---------------- | ----------- |
+| HN                          |     10.9 M     |            05:10m          |         3        |   50%       |
+| Reddit(total)               |     1.6 B      |            10:07           |         8        |   40%       |  
+
+|      Subreddit              |   Members  |   Online Members  |  Age(yy:mm)   |
+|      ---------              |   -------  |   --------------  |  ----------   |
+| r/compsci                   | 1100.0 K    |     1800         |       13.6    |                                      
+| r/computerscience           |  155.0 K    |      206         |       12.3    |                                      
+| r/systems                   |   65.0 K    |        2         |       10.9    |                                      
+| r/algorithms                |   72.0 K    |       28         |       12.2    |                                      
+| r/crypto                    |  124.0 K    |      107         |       11.1    |                                      
+| r/cryptography              |   38.0 K    |       25         |       12.3    |                                      
+| r/logic                     |   20.0 K    |       35         |       11.6    |                                      
+| r/compilers                 |    9.0 K    |        7         |       11.8    |                                      
+| r/osdev                     |   11.7 K    |       23         |       11.0    |                                      
+| r/kernel                    |   11.8 K    |        8         |       11.9    |                                      
+| r/ReverseEngineering        |   11.0 K    |      100         |       12.0    |                                      
+| r/bigdata                   |   37.0 K    |       52         |       10.8    |                                      
+| r/datasets                  |  123.0 K    |      158         |       12.5    |                                      
+| r/MachineLearning           | 1300.0 K    |     2800         |       11.9    |                                      
+| r/artificial                |  121.0 K    |     1600         |       13.0    |                                      
+| r/LanguageTechnology        |   24.8 K    |       35         |       11.0    |                                      
+| r/computervision            |   40.0 K    |       85         |       11.7    |                                      
+| r/datamining                |   11.6 K    |        1         |       12.4    |                                      
+| r/visualization             |   62.3 K    |       34         |       12.10   |                                           
+| r/dataisbeautiful           |15000.0 K    |     5700         |       12.10   |                                           
+| r/statistics                |  143.0 K    |      232         |       12.10   |                                           
+| r/programming               | 2900.0 K    |     5700         |       15.0    |                                           
+| r/coding                    |  253.0 K    |     1300         |       11.0    |                                           
+| r/softwaredevelopment       |   44.5 K    |       34         |       12.4    |                                           
+| r/SoftwareEngineering       |   24.9 K    |       52         |       12.0    |                                           
+| r/asm                       |   12.4 K    |       24         |       12.2    |                                           
+| r/C_Programming             |   90.2 K    |      130         |       12.0    |                                           
+| r/c_language                |    6.1 K    |        2         |       12.0    |                                           
+| r/cpp                       |  154.0 K    |     1500         |       12.2    |                                           
+| r/Cplusplus                 |   22.5 K    |       17         |       12.7    |                                           
+| r/Python                    |  663.0 K    |     2300         |       12.7    |                                           
+| r/scala                     |   35.3 K    |       67         |       12.7    |                                           
+| r/erlang                    |    8.2 K    |       18         |       12.6    |                                           
+| r/haskell                   |   58.1 K    |      135         |       12.7    |                                           
+| r/java                      |  202.0 K    |     2100         |       12.10   |                                           
+| r/javascript                | 1100.0 K    |     2400         |       12.10   |                                           
+| r/lisp                      |   29.2 K    |       44         |       12.10   |                                           
+| r/perl                      |   14.0 K    |       13         |       12.10   |                                           
+| r/PHP                       |  126.0 K    |      233         |       12.10   |                                           
+| r/ruby                      |   67.4 K    |       75         |       12.10   |                                           
+| r/dotnet                    |   83.1 K    |      310         |       12.10   |                                           
+| r/Kotlin                    |   38.4 K    |      322         |        9.10   |                                           
+| r/rails                     |   45.9 K    |       61         |       12.6    |                                          
+| r/django                    |   77.8 K    |      162         |       12.10   |                                           
+| r/reactjs                   |  213.0 K    |      528         |        6.9    |                                           
+| r/aws                       |  139.0 K    |      500         |       12.10   |                                           
+| r/Database                  |   29.1 K    |       33         |       12.4    |                                           
+| r/webdev                    |  573.0 K    |     1100         |       13.7    |                                           
+| r/compsec                   |    7.0 K    |        5         |       10.4    |                                           
+| r/websec                    |    6.6 K    |        6         |       12.10   |                                           
+| r/computergraphics          |   36.3 K    |       50         |       12.3    |                                           
+| r/web_design                |  489.0 K    |      342         |       12.8    |                                           
+| r/tinycode                  |   23.1 K    |        8         |        9.3    |                                           
+| r/gamedev                   |  486.0 K    |     2600         |       12.3    |                                           
+| r/opensource                |  123.0 K    |      133         |       12.8    |                                           
+| r/AskComputerScience        |   49.5 K    |       58         |        9.3    |                                           
+| r/cscareerquestions         |  427.0 K    |     4500         |        9.8    |                                           
+| r/programmingchallenges     |   10.8 K    |        4         |        9.4    |                                           
+| r/technology                | 9600.0 K    |    16000         |       12.8    |                                           
+| r/atheism                   | 2600.0 K    |     4000         |       12.8    |                                           
+| r/math                      | 1300.0 K    |      871         |       12.8    |                                           
+| r/mathematics               |   63.2 K    |       71         |       12.8    |                                           
+| r/statistics                |  143.0 K    |      260         |       12.6    |                                           
+| r/Bitcoin                   | 1600.0 K    |     3400         |       10.0    |                                           
+                           
+
 # The List of All the Possible Tags Under the CSE Sun(To be used while Model-Building):
 
-|   About                                        |        TagName                   |          Static Sources          |         Dynamic Sources        |
-| ---------------------------------------------  | -------------------------------- | -------------------------------- | ------------------------------ |
-| 1. Computer Science                            | `<cse>`                          |    [compsci@lobsters]            |   [r/compsci,r/computerscience,r/systems(0)]   |
-| 1.1. Theoretical Computer Science              |                                  |                                  |                                 |
-| Distributed systems                            | `<dissys>`                       |    [distributed@lobsters]        |                                 |
-| Data Structures                                |                                  |                                  |                                 |
-| Algorithms                                     | `<algo.cse>`                     |                                  |   [r/algorithms]                |
-| Graph Theory    |
-| Coding Philosophy    |
-| Law, patents, and licensing     | `<law.cse>`            |    [law@lobsters]    |
-| Game Theory    |
-| Discrete Mathematics     |
-| Cryptography(0)    | `<crypto.cse>`                     |    [crypto@lobsters,]                               |   [r/crypto,r/cryptography]    |
-| Hardware       | `<hardware>`                            |    [hardware@lobsters]    |
-| Parallel Programming    |
-| Computability Theory    |
-| Programming Language Theory     | `<plt.cse>`             |    [plt@lobsters]    |
-| Formal Methods      | `<frme.cse>`                        |    [formalmethods@@lobsters]    |
-| Logic      | `<logic.cse>`                                |    ........                                       |   [r/logic]    |
-| 1.2. Computer Engineering    |
-| Computer Architecture    |
-| Compilers     | `<compiler>`                              |    [compilers@lobsters]                           |   [r/compilers]    |
-| Networking      | `<netwrk>`                              |    [networking@lobsters]    |
-| Operating system     | `<os>`                             |    [osdev@lobsters]                               |   [r/osdev]    |
-| iOS     | `<ios.os>`                                    |    [ios@lobsters]    |
-| android     | `<android.os>`                            |    [android@lobsters]    |
-| macOS     | `<mac.os>`                                  |    [mac@lobsters]    |
-| windows     | `<windows.os>`                            |    [windows@lobsters]    |
-| Linux      | `<linux.os>`                               |    [linux@lobsters]                               |   [r/kernel]    |
-| Unix     | `<unix.os>`                                  |    [unix@lobsters]    |
-| Reverse Engineering     | `<reveng.prog>`                 |    [reversing@lobsters,]                          |   [r/ReverseEngineering]    |
-| [Software Development]    |
-| 1.3. Computer Science Applications    |
-| [ML]      | `<ml>`                                        |    [ai@lobsters]    |
-| Computer Vision    |
-| Image Processing    |
-| NLP    |
-| Chatbot(?)    |
+|   About                             |        TagName                   |          Static Sources          |         Dynamic Sources        |
+| ----------------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
+| 1. Computer Science                 | `<cse>`                          |    [compsci@lobsters]            |   [r/compsci,r/computerscience,r/systems(0)]   |
+| 1.1. Theoretical Computer Science   |                                  |                                  |                                 |
+| Distributed systems                 | `<dissys>`                       |    [distributed@lobsters]        |                                 |
+| Data Structures                     |                                  |                                  |                                 |
+| Algorithms                          | `<algo.cse>`                     |                                  |   [r/algorithms]                |
+| Graph Theory                        |                                  |                                  |                                 |
+| Coding Philosophy                   |                                  |                                  |                                 |
+| Law, patents, and licensing         | `<law.cse>`                      |    [law@lobsters]                |                                 | 
+| Game Theory                         |                                  |                                  |                                 |
+| Discrete Mathematics                |                                  |                                  |                                 |
+| Cryptography(0)                     | `<crypto.cse>`                   |    [crypto@lobsters,]            |    [r/crypto,r/cryptography]    |
+| Hardware                            | `<hardware>`                     |    [hardware@lobsters]           |                                 |
+| Parallel Programming                |                                  |                                  |                                 |
+| Computability Theory                |                                  |                                  |                                 |
+| Programming Language Theory         | `<plt.cse>`                      |    [plt@lobsters]                |                                 |
+| Formal Methods                      | `<frme.cse>`                     |    [formalmethods@@lobsters]     |                                 |  
+| Logic                               | `<logic.cse>`                    |                                  |   [r/logic]                     |
+| 1.2. Computer Engineering           |                                  |                                  |                                 |
+| Computer Architecture               |                                  |                                  |                                 |
+| Compilers                           | `<compiler>`                     |    [compilers@lobsters]          |     [r/compilers]               |
+| Networking                          | `<netwrk>`                       |    [networking@lobsters]         |                                 |
+| Operating system                    | `<os>`                           |    [osdev@lobsters]              |    [r/osdev]                    |
+| iOS                                 | `<ios.os>`                       |    [ios@lobsters]                |                                 |
+| android                             | `<android.os>`                   |    [android@lobsters]            |                                 |
+| macOS                               | `<mac.os>`                       |    [mac@lobsters]                |                                 |
+| windows                             | `<windows.os>`                   |    [windows@lobsters]            |                                 |
+| Linux                               | `<linux.os>`                     |    [linux@lobsters]              |   [r/kernel]                    |
+| Unix                                | `<unix.os>`                      |    [unix@lobsters]               |                                 |
+| Reverse Engineering                 | `<reveng.prog>`                  |    [reversing@lobsters,]         |   [r/ReverseEngineering]        |
+| [Software Development]              |                                  |                                  |                                 |
+| 1.3. Computer Science Applications  |                                  |                                  |                                 |
+| [ML]                                | `<ml>`                           |    [ai@lobsters]                 |                                 |       
+| Computer Vision                     |                                  |                                  |                                 |
+| Image Processing                    |                                  |                                  |                                 |
+| NLP                                 |                                  |                                  |                                 |
+| Chatbot(?)                          |                                  |                                  |                                 |
 | AI      | `<ai>`                                          |    [ai@lobsters]    |
 | Robotics    |
 | AR   |                                  |                                  |                                 |
