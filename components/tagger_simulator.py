@@ -1,5 +1,12 @@
+import time
+import json
+from datetime import datetime
+import logging
+
+import sqlite3
 from random import randrange, uniform
 
+from utilities import print_in_color as pc
 
 """
 #TODO: take into account both: modelTag(conf value) & sourceTag(conf =100%) with diff weights ofc
@@ -9,139 +16,139 @@ from random import randrange, uniform
 """  (tag_name, CONFIDENCE_THRESHOLD) """
 
 tags_threshold = {           
-        'cse' : 0.5,
-        'algo.cse' : 0.5,
-        'law.cse' : 0.5,
-        'crypto.cse' : 0.5,
-        'hardware' : 0.5,
-        'plt.cse' : 0.5,
-        'frme.cse' : 0.5,
-        'logic.cse' : 0.5,
-        'compiler' : 0.5,
-        'netwrk' : 0.5,
-        'os' : 0.5,
-        'ios.os' : 0.5,
-        'android.os' : 0.5,
-        'mac.os' : 0.5,
-        'windows.os' : 0.5,
-        'linux.os' : 0.5,
-        'unix.os' : 0.5,
-        'reveng.prog' : 0.5,
-        'ml' : 0.5,
-        'ai' : 0.5,
-        'bigdata' : 0.5,
-        'dataset' : 0.5,
-        'dsc' : 0.5,
-        'ml' : 0.5,
-        'ai' : 0.5,
-        'nlp' : 0.5,
-        'cvis' : 0.5,
-        'dataming' : 0.5,
-        'database' : 0.5,
-        'datavis.ds' : 0.5,
-        'stats' : 0.5,
-        'prog' : 0.5,
-        'proglng' : 0.5,
-        'plt.cse' : 0.5,
-        'assem' : 0.5,
-        'c' : 0.5,
-        'cpp' : 0.5,
-        'golang' : 0.5,
-        'python' : 0.5,
-        'scala' : 0.5,
-        'elixir' : 0.5,
-        'elm' : 0.5,
-        'erlang' : 0.5,
-        'fortran' : 0.5,
-        'haskell' : 0.5,
-        'java' : 0.5,
-        'javascript' : 0.5,
-        'lisp' : 0.5,
-        'perl' : 0.5,
-        '' : 0.5,
-        'objc' : 0.5,
-        'perl' : 0.5,
-        'php' : 0.5,
-        'ruby' : 0.5,
-        'rust' : 0.5,
-        'swift' : 0.5,
-        'd' : 0.5,
-        'chash' : 0.5,
-        'fhash' : 0.5,
-        'dotnet' : 0.5,
-        'html' : 0.5,
-        'kotlin' : 0.5,
-        'css' : 0.5,
-        'frm.prog' : 0.5,
-        'ror' : 0.5,
-        'django' : 0.5,
-        'reactjs' : 0.5,
-        'nodejs' : 0.5,
-        'tools.prog' : 0.5,
-        'vcs.prog' : 0.5,
-        'api.prog' : 0.5,
-        'virtualn.prog' : 0.5,
-        'editor.prog' : 0.5,
-        'browser' : 0.5,
-        'aws' : 0.5,
-        'dbs' : 0.5,
-        'webd.prog' : 0.5,
-        'appd.prog' : 0.5,
-        'android' : 0.5,
-        'ios' : 0.5,
-        'sofrel.prog' : 0.5,
-        'debugging' : 0.5,
-        'testing.prog' : 0.5,
-        'devops' : 0.5,
-        'security' : 0.5,
-        'compsec' : 0.5,
-        'websec' : 0.5,
-        'privacy' : 0.5,
-        'crypto.cse' : 0.5,
-        'design' : 0.5,
-        'cmpgr' : 0.5,
-        'webdes' : 0.5,
-        'scaling.prog' : 0.5,
-        'peropt.prog' : 0.5,
-        'devpract.prog' : 0.5,
-        'gamedev' : 0.5,
-        'codingchlg' : 0.5,
-        'law.cse' : 0.5,
-        'opensrc' : 0.5,
-        'os' : 0.5,
-        'ios.os' : 0.5,
-        'android.os' : 0.5,
-        'mac.os' : 0.5,
-        'windows.os' : 0.5,
-        'linux.os' : 0.5,
-        'unix.os' : 0.5,
-        'query' : 0.5,
-        'career' : 0.5,
-        'advise.carr' : 0.5,
-        'codingchlg' : 0.5,
-        'technews' : 0.5,
-        'discuss' : 0.5,
-        'query' : 0.5,
-        'community' : 0.5,
-        'person' : 0.5,
-        'edu' : 0.5,
-        'cogsci' : 0.5,
-        'art' : 0.5,
-        'book' : 0.5,
-        'hist.it' : 0.5,
-        'phil' : 0.5,
-        'startup' : 0.5,
-        'selfproj' : 0.5,
-        'opensrc' : 0.5,
-        'law.cse' : 0.5,
-        'science' : 0.5,
-        'maths' : 0.5,
-        'stats' : 0.5,
-        'crypto.cse' : 0.5,
-        'logic' : 0.5,
-        'finance' : 0.5,
-        'bitcoin' : 0.5,
-        'crypto.fin' : 0.5
+        'cse' : 0.95,
+        'algo.cse' : 0.95,
+        'law.cse' : 0.95,
+        'crypto.cse' : 0.95,
+        'hardware' : 0.95,
+        'plt.cse' : 0.95,
+        'frme.cse' : 0.95,
+        'logic.cse' : 0.95,
+        'compiler' : 0.95,
+        'netwrk' : 0.95,
+        'os' : 0.95,
+        'ios.os' : 0.95,
+        'android.os' : 0.95,
+        'mac.os' : 0.95,
+        'windows.os' : 0.95,
+        'linux.os' : 0.95,
+        'unix.os' : 0.95,
+        'reveng.prog' : 0.95,
+        'ml' : 0.95,
+        'ai' : 0.95,
+        'bigdata' : 0.95,
+        'dataset' : 0.95,
+        'dsc' : 0.95,
+        'ml' : 0.95,
+        'ai' : 0.95,
+        'nlp' : 0.95,
+        'cvis' : 0.95,
+        'dataming' : 0.95,
+        'database' : 0.95,
+        'datavis.ds' : 0.95,
+        'stats' : 0.95,
+        'prog' : 0.95,
+        'proglng' : 0.95,
+        'plt.cse' : 0.95,
+        'assem' : 0.95,
+        'c' : 0.95,
+        'cpp' : 0.95,
+        'golang' : 0.95,
+        'python' : 0.95,
+        'scala' : 0.95,
+        'elixir' : 0.95,
+        'elm' : 0.95,
+        'erlang' : 0.95,
+        'fortran' : 0.95,
+        'haskell' : 0.95,
+        'java' : 0.95,
+        'javascript' : 0.95,
+        'lisp' : 0.95,
+        'perl' : 0.95,
+        '' : 0.95,
+        'objc' : 0.95,
+        'perl' : 0.95,
+        'php' : 0.95,
+        'ruby' : 0.95,
+        'rust' : 0.95,
+        'swift' : 0.95,
+        'd' : 0.95,
+        'chash' : 0.95,
+        'fhash' : 0.95,
+        'dotnet' : 0.95,
+        'html' : 0.95,
+        'kotlin' : 0.95,
+        'css' : 0.95,
+        'frm.prog' : 0.95,
+        'ror' : 0.95,
+        'django' : 0.95,
+        'reactjs' : 0.95,
+        'nodejs' : 0.95,
+        'tools.prog' : 0.95,
+        'vcs.prog' : 0.95,
+        'api.prog' : 0.95,
+        'virtualn.prog' : 0.95,
+        'editor.prog' : 0.95,
+        'browser' : 0.95,
+        'aws' : 0.95,
+        'dbs' : 0.95,
+        'webd.prog' : 0.95,
+        'appd.prog' : 0.95,
+        'android' : 0.95,
+        'ios' : 0.95,
+        'sofrel.prog' : 0.95,
+        'debugging' : 0.95,
+        'testing.prog' : 0.95,
+        'devops' : 0.95,
+        'security' : 0.95,
+        'compsec' : 0.95,
+        'websec' : 0.95,
+        'privacy' : 0.95,
+        'crypto.cse' : 0.95,
+        'design' : 0.95,
+        'cmpgr' : 0.95,
+        'webdes' : 0.95,
+        'scaling.prog' : 0.95,
+        'peropt.prog' : 0.95,
+        'devpract.prog' : 0.95,
+        'gamedev' : 0.95,
+        'codingchlg' : 0.95,
+        'law.cse' : 0.95,
+        'opensrc' : 0.95,
+        'os' : 0.95,
+        'ios.os' : 0.95,
+        'android.os' : 0.95,
+        'mac.os' : 0.95,
+        'windows.os' : 0.95,
+        'linux.os' : 0.95,
+        'unix.os' : 0.95,
+        'query' : 0.95,
+        'career' : 0.95,
+        'advise.carr' : 0.95,
+        'codingchlg' : 0.95,
+        'technews' : 0.95,
+        'discuss' : 0.95,
+        'query' : 0.95,
+        'community' : 0.95,
+        'person' : 0.95,
+        'edu' : 0.95,
+        'cogsci' : 0.95,
+        'art' : 0.95,
+        'book' : 0.95,
+        'hist.it' : 0.95,
+        'phil' : 0.95,
+        'startup' : 0.95,
+        'selfproj' : 0.95,
+        'opensrc' : 0.95,
+        'law.cse' : 0.95,
+        'science' : 0.95,
+        'maths' : 0.95,
+        'stats' : 0.95,
+        'crypto.cse' : 0.95,
+        'logic' : 0.95,
+        'finance' : 0.95,
+        'bitcoin' : 0.95,
+        'crypto.fin' : 0.95
 }
 
 #TODO: replace with real model
@@ -152,7 +159,7 @@ def SimulatorApi(content, Weighted_content):
         # conf_arr.append((tags,uniform(0,1)))
         #Trying to uniformly distribute the randomization
         if i%5 == 0:
-            conf_arr.append((tag,uniform(0.5,1)))
+            conf_arr.append((tag,uniform(0.95,1)))
         elif i%7 == 0:
             conf_arr.append((tag,uniform(0,0.3)))
         elif i%9 == 0:
@@ -171,7 +178,7 @@ def update_modelTags(ts):
     """
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    pc.printSucc('@[{}] >>>>>> Started  TaggerSimulator@wc ................... => TABLE: {}\n'.format(datetime.datetime.fromtimestamp(ts),wc_table))
+    pc.printSucc('@[{}] >>>>>> Started  TaggerSimulator@wc ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < TaggerSimulator@wc : DB Connection Opened > ---------------------------------------------\n")
@@ -191,6 +198,7 @@ def update_modelTags(ts):
         modelTags = []
 
         #TODO: call actual Api here, when model is ready
+        pc.printMsg("\t <ID = {}><src= {} > [Tagger] Start................ ".format(row[0],row[1]))
 
         conf_arr = SimulatorApi(row[13],row[12])
         for item in conf_arr:
@@ -198,6 +206,8 @@ def update_modelTags(ts):
             conf = item[1]
             if(conf >= tags_threshold[tag]):
                 modelTags.append(tag)
+                pc.printWarn(" \t\t\t\t => Added \t {} \t conf = {}".format(tag,conf))
+        modelTags = json.dumps(modelTags)
         query = 'update ' + wc_table + ' set ModelTags = ? where ID = ? and SourceSite = ?'
         data = (modelTags,row[0],row[1])
         c.execute(query,data)
@@ -207,7 +217,7 @@ def update_modelTags(ts):
     conn.commit()
     conn.close()
     pc.printMsg("\t -------------------------------------- < TaggerSimulator@wc: DB Connection Closed > ---------------------------------------------\n")
-    pc.printWarn("\t\t ---------------> TIME TAKEN FOR TaggerSimulator@wc    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR TaggerSimulator@wc(sec)    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
 
 
 def run(ts):
@@ -222,15 +232,6 @@ def run(ts):
 
     endTime = time.time()
 
-    pc.printSucc("**************************** Tagger(Simulator) Run is Complete for wc ********************************\n\n")
-    pc.printWarn("| \t\t TIME TAKEN FOR Tagger(Simulator) Run     \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
-    pc.printSucc("*************************************************************************************************\n\n")
-
-
-# if __name__ == "__main__":
-#     # for tag in tags_threshold:
-#     #     print(tag, "   \t : Threshold Value =  ", tags_threshold[tag], "   \t \t Calculated Value = ", uniform(0,1))
-#     conf_arr = SimulatorApi("content","wt_content")
-#     # print(conf_arr)
-#     for conf in conf_arr:
-#         print(" tag: {} \t confidence: {}".format(conf[0],conf[1]))
+    pc.printSucc("**************************** Tagger(Simulator) Run is Complete for wc **********************************************")
+    pc.printWarn("| \t\t TIME TAKEN FOR Tagger(Simulator) Run(sec)     \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
+    pc.printSucc("***********************************************************************************************************************\n\n")

@@ -3,7 +3,7 @@ from datetime import datetime
 import csv
 
 from scrapers import url_scraper_runner, content_scraper
-from components import popi_calculator
+from components import popi_calculator, tagger_simulator
 from utilities import print_in_color as pc
 
 if __name__ == '__main__':
@@ -27,6 +27,8 @@ if __name__ == '__main__':
 
     """ Run ManchTagger(simulator for now) => update WC-DB """
     
+    tagger_simulator.run(ts)
+
     """ Run DomainHontessRanker => update DDS-DB """
     
     """ Run Newsletter Generator """

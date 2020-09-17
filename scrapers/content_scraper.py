@@ -96,8 +96,8 @@ async def fetchWithRetry(row, session):
     t1 = time.time()
     while retry_cnt > 0 and status != 200:
         async with session.get(row[6],ssl=ssl.create_default_context(purpose=ssl.Purpose.CLIENT_AUTH), timeout = TIMEOUT) as response: 
-            res = await response.content.read()
-            # res = await response.text()
+            # res = await response.content.read()       #NOTE: returns blob which gives error while ContentFormatter; hence discarded
+            res = await response.text()
             status = response.status
             if( status == 200 and len(res) != 0):
                 ASYNC_ITEM_SCRAPED += 1
@@ -293,7 +293,6 @@ def ContentFormatting(ts):
         t1 = time.time()
         if(len(row[13]) != 0):
             ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_OK += 1
-            pc.printWarn("\t <ID = {}><src= {} > [Content Formatting] Start................ \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
             row_list = list(row)
             raw_content = row_list[13]
             content = text_actions.contentfromhtml(raw_content)
@@ -304,6 +303,10 @@ def ContentFormatting(ts):
             clean_title = clean_text(row_list[5])
             
             row_list[13] = clean_content
+            if len(row_list[13]) == 0:
+                pc.printWarn("\t\t\t\t --------- No content found on cleaning, using Title as Content :(")
+                row_list[13] = clean_title
+
             row_list[12] = clean_weighted_content + " " + url_string_text + " " + clean_title
 
             row = tuple(row_list)
@@ -317,7 +320,8 @@ def ContentFormatting(ts):
         else: #No content
             ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_NO_CONTENT += 1
             pc.printMsg("\t <ID = {}><src= {} > [Content Formatting] No content.Using title finally................ \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
-            content = row[5]  
+            clean_title = clean_text(row_list[5])
+            content = clean_title 
             q = 'update ' + wc_table + ' set Content = ?, WeightedContent = ?  where ID = ? and SourceSite = ?'
             d = (content, content,row[0],row[1])
             c.execute(q,d)
@@ -382,5 +386,3 @@ def run(ts):
     pc.printErr("|\t\t SYNC_TRIED_CATCH_EXCEPTION_ERR                                      \t  | \t\t {} \t\t|".format(SYNC_TRIED_CATCH_EXCEPTION_ERR)) 
     pc.printWarn('\t\t\t\t------------------------->>>>>> [ Semaphore Count = {}, Tcp connector limit ={} ]\n'.format(SEMAPHORE_COUNT,CONNTECTION_COUNT))
     pc.printWarn('\t\t\t\t------------------------->>>>>> [ Time Taken(min) = {} ]\n'.format(round((endTime - startTime),5)/60))
-
-
