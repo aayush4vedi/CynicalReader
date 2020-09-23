@@ -3,5 +3,16 @@
 .env.*
 *.DS_Store*
 
-# *.csv
+*.csv
+*.db
+**/dbs
 *.xml
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+vault.py
+ph_tags_data.py
+
+
+
