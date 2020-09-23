@@ -296,13 +296,29 @@
   * [ ] TODO: Upadte damping factor in PopI calculation
 
 * Model:(Manch)
-  * [-] Make @manch_simulator(until model is N/A) => To update ModelTags col
+  * [x] Make @manch_simulator(until model is N/A) => To update ModelTags col {17Sep20}
   * [@] Introduce & infuse the real model(manch)
   * [@] Get more date,more tags; train the model properly
 
-* Domain Hotness Ranker
-* Make map of maps:
-  * [] Link dictionary.md's `startup` /`product-release` / `saas` etc ???
+* [-] Domain Hotness Ranker
+  * Logic:
+    * 1. Get (weekly) item count & avg popi for each tag(NOTE: will use item_count as a measure for hotness for now.To sort by Popi-later;)
+    * Each main_thread/cat/subc/tag is treated like a node in the; with root_node = CynicalReader **tree** 
+    * 2.From bottom-to-up do a full tree traversal to upadate nodes value:
+      * if node == <tag>; value = {count_items, avg_popi}
+      * if node == [cat]; value = {for:children(sum(child.count_items)), for:children(avg(child.avg_popi))}
+    * 3. While making a query(for Hotness), search from root_node; until the match found; return the value of that node
+    * TODO: how to stroe this DS??? Do this calculation just once & store in DB??????
+  * [x] Search for more subreddits
+  * [] Resture the Map-o-Map
+    * [] Do prabandh of duplicate items(through various subreddtis)
+  * [x] make the tree skeleton(some online tool)
+    * NOTE: current sources: PH, HN, reddit & lobsters(yes, jo hogi dekhi jayegi)
+  * [x] Code the tree schema
+    * NOTE: very nice library to pretty print n-arry tree [pptree](https://github.com/clemtoy/pptree)
+  * [] Code tree update part
+  * [] Code tree query part
+  * [] Write in Domain_DB
 
 * See if you can use these sites too:
   * hackernoon.com 
@@ -321,4 +337,6 @@
 
 
 ## [Ticket6] : FuckinLaunch(<21Aug20>)
+
+
 

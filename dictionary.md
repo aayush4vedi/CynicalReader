@@ -251,247 +251,275 @@
 
 
 ## Markup:
+* **SOURCE** : 
+  * Map of Reddit - VERYYyyy Coool [here](http://www.jacobsilterra.com/subreddit_map/network/index.html)
 * ... => More tags to be added
 * (?) => Decide if the tag is to be kept or not
 * (+x) => x-th occurence of tag
 * Topic/Subtopic  <mytagname>     - [static_source1,...]  - [dynamic_source1,...]
+* TIP for copying all tags: goto POC/get_tags_from_dict.py & update the below data in there
 
 
-* 1. Computer Science <cse>                         - [compsci@lobsters]                           -[r/compsci,r/computerscience,r/systems(0)]  
-  * 1.1. Theoretical Computer Science
-    * Distributed systems                           - [distributed@lobsters]
-    * Data Structures                               - [gfg??,]
-    * Algorithms <algo.cse>                         - [gfg??,]                                     -[r/algorithms]         
-    * Graph Theory
-    * Coding Philosophy
-    * Law, patents, and licensing <law.cse>         - [law@lobsters]
-    * Game Theory
-    * Discrete Mathematics 
-    * Cryptography(0)<crypto.cse>                  - [crypto@lobsters,]                            -[r/crypto,r/cryptography]
-    * Hardware   <hardware>                         - [hardware@lobsters]
-    * Parallel Programming
-    * Computability Theory
-    * Programming Language Theory <plt.cse>          - [plt@lobsters]
-    * Formal Methods  <frme.cse>                     - [formalmethods@@lobsters]
-    * Logic  <logic.cse>                             - ........                                    -[r/logic]
-  * 1.2. Computer Engineering
-    * Computer Architecture
-    * Compilers <compiler>                           - [compilers@lobsters]                        -[r/compilers]
-    * Networking  <netwrk>                           - [networking@lobsters]
-    * Operating system <os>                          - [osdev@lobsters]                            -[r/osdev]
-      * iOS <ios.os>                                 - [ios@lobsters]
-      * android <android.os>                         - [android@lobsters]
-      * macOS <mac.os>                               - [mac@lobsters]
-      * windows <windows.os>                         - [windows@lobsters]
-      * Linux  <linux.os>                            - [linux@lobsters]                            -[r/kernel]
-      * Unix <unix.os>                               - [unix@lobsters]
-    * Reverse Engineering <reveng.prog>              - [reversing@lobsters,]                       -[r/ReverseEngineering]
-    * [Software Development]
-  * 1.3. Computer Science Applications
-    * [ML]  <ml>                                     - [ai@lobsters]
-    * Computer Vision
-    * Image Processing
-    * NLP
-      * Chatbot(?)
-    * AI  <ai>                                       - [ai@lobsters]
-    * Robotics
-    * AR-VR
-    * IOT
-    * Hacking
-    * Big Data <bigdata>                             -  ......                                     -[r/bigdata]
-    * Datasets <dataset>                             -  ......                                     -[r/datasets]
-    * [Data Science]
-* 2 Data
-  * 1.1 Data Science <dsc>                           -  .....                                      -[r/datascience]
-    * Statistics
-    *  R
-    *  Matlab
-    *  Python Tools
-      * Scala(?)
-      * Pandas(?)
-      * Matplotlib
-      * NLTK
-      * Scikit-learn
-      * TensorFlow
-    *  Machine Learning <ml>                        -  .....                                      -[r/MachineLearning]
-    *  AI ... <ai>                                  -  .....                                      -[r/artificial]
-    *  Neural Networking (?)
-    *  Deep Learning
-    *  Jupyter
-    *  Kaggle
-    *  NLP <nlp>                                   -   .....                                      -[r/LanguageTechnology]
-    *  Computer Vision <cvis>                      -   .....                                      -[r/computervision]
-    *  Data Mining <dataming>                      -   .....                                      -[r/datamining]
-  * 1.2 Data Engineering
-    * Database <database>                           - [databases@lobsters]
-      * SQL
-      * MongoDB(?)
-      * Cassandra(?)
-      * DashDB(?)
-    * Big Data
-      * Apache Spark
-      * ...
-    * Hadoop
-      * MapReduce(?)
-      * Hive(?)
-      * Pig(?)
-  * 1.3 Data Analytics
-    * Database(+1)
-      * SQL(+1)
-    * Data Visualisation <datavis.ds>               - [visualization@lobsters,]                   -[r/visualization,r/dataisbeautiful]
-      * Tableau
-      * Microsoft Excel
-      * Statistics <stats>                          -  .......                                    -[r/statistics]
-* 3. Software Development/Programming <prog>        - [programming@lobsters]                    -[r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]
-  * 2.1 Programming Languages<proglng>              -  .......                                    -[r/ProgrammingLanguages,r/learnprogramming,r/functionalprogramming]
-    * Programming Language Theory <plt.cse>         - [plt@lobsters]
-    * Assembly Language <assem>                     - [assembly@lobsters,]                        -[r/asm]
-    * C <c>                                         - [c@lobsters,]                               -[r/C_Programming,r/c_language]
-    * C++  <cpp>                                    - [c++@lobsters,]                             -[r/cpp,r/Cplusplus]
-    * Golang <golang>                               - [go@lobsters]
-    * Python <python>                               - [python@lobsters,]                          -[r/Python]
-    * Scala <scala>                                 - [scala@lobsters,]                           -[r/scala]
-    * Elixir <elixir>                               - [elixir@lobsters]
-    * Elm <elm>                                     - [elm@lobsters]
-    * Erlang  <erlang>                              - [erlang@lobsters,]                          -[r/erlang]
-    * Fortran <fortran>                             - [fortran@lobsters]
-    * Haskell <haskell>                             - [haskell@lobsters,]                         -[r/haskell]
-    * Java <java>                                   - [java@lobsters,]                            -[r/java]
-    * Javascript <javascript>                       - [javascript@lobsters,]                      -[r/javascript]
-    * Lisp <lisp>                                   - [lisp@lobsters,]                            -[r/lisp]
-    * Perl <perl>                                   - ........                                    -[r/perl]
-    * MetaLanguage <>                               - [@lobsters]
-    * ObjectiveC <objc>                             - [objectivec@lobsters]
-    * Perl <perl>                                   - [perl@lobsters]
-    * PHP <php>                                     - [php@lobsters,]                             -[r/PHP]
-    * Ruby <ruby>                                   - [ruby@lobsters,]                            -[r/ruby]
-    * Rust <rust>                                   - [rust@lobsters]
-    * Swift <swift>                                 - [swift@lobsters]
-    * D programming <d>                             - [d@lobsters]
-    * C# <chash>                                    - [dotnet@lobsters, ...]
-    * F# <fhash>                                    - [dotnet@lobsters, ...]
-    * .NET <dotnet>                                 - [dotnet@lobsters,]                          -[r/dotnet]
-    * HTML <html>                                   - [css@lobsters, ...]
-    * Kotlin  <kotlin>                              -  .....                                      -[[r/Kotlin]
-    * CSS  <css>                                    - [css@lobsters]
-  * Frameworks(....) <frm.prog>              
-    * Ruby on Rails <ror>                           - .....                                       -[r/rails]
-    * Django  <django>                              - .....                                       -[r/django]
-    * ReactJS <reactjs>                             - .....                                       -[r/reactjs]
-    * NodeJS <nodejs>                               - [nodejs@lobsters,r/node]
-  * 2.2 Software Tools <tools.prog>                 - .....                                       -[r/softwaredevelopment(1)]
-    * Git & VCS <vcs.prog>                          - [vcs@lobsters]
-    * API <api.prog>                                - [api@lobsters]
-    * Virtualization <virtualn.prog>                - [virtualization@lobsters]
-    * Editors <editor.prog>                         - [emacs@lobsters,...]
-    * Web Browsers <browser>                        - [browsers@lobsters]
-    * AWS <aws>                                     - .....                                       -[r/aws]
-    * Azure
-    * Kubernetes
-    * Docker
-    * GCP
-  * Databases <dbs>                                 - .....                                       -[r/Database]
+* 1. [x] Computer Science [<CSE>]  
+  * [x] General CS Content <gen_cse>                     - [compsci@lobsters]                           -[r/compsci,r/computerscience]  
+  * [x] Theoretical Computer Science  [<tcse>]                                                             
+    * [x] Distributed systems <distribut_sys>             - [distributed@lobsters]                     -[r/distributed]
+    * [x] Data Structures <data_struct>                              - [gfg??,]                        -[r/datastructures]
+    * [x] Algorithms <algo_dsa>                         - [gfg??,]                                     -[r/algorithms,r/cpp_questions]         
+    * [@] Coding Philosophy
+    * [x] Game Theory <gametheory>                                                                      -[r/GAMETHEORY]
+    * [x] Discrete Mathematics <disco>                                                                 -[r/Discretemathematics]
+    * [x] Cryptography(0)<crypto_cse>                  - [crypto@lobsters,]                            -[r/crypto,r/cryptography]
+    * [x] Hardware   <hardware>                         - [hardware@lobsters]
+    * [@] Parallel Programming
+    * [@] Computability Theory
+    * [x] Programming Language Theory <plt_cse>          - [plt@lobsters]
+    * [x] Formal Methods  <frmlmeth_cse>                     - [formalmethods@@lobsters]
+    * [x] CSE & Mathematic Logic  <logic>                - ........                                    -[r/logic]
+  * 1.2. [x] ComputerEngineering [<ce>]
+    * [x] Computer Architecture <comparch>                                                             -[r/computerarchitecture]
+    * [x] Compilers <compiler>                           - [compilers@lobsters]                        -[r/compilers]
+    * [x] Computer Network  <network>                     - [networking@lobsters]                       -[r/Network]
+    * [x] Reverse Engineering <revengg>              - [reversing@lobsters,]                       -[r/ReverseEngineering]
+    * [x] Operating Systems [<os>]
+      * [x] OS Dev <osdev>                               - [osdev@lobsters]                            -[r/osdev]
+      * [x] iOS <ios>                                 - [ios@lobsters]
+      * [x] android <android>                         - [android@lobsters]                          -[r/Android]
+      * [x] macOS <mac>                               - [mac@lobsters]                              -[r/MacOS,r/osx]
+      * [x] windows <windows>                         - [windows@lobsters]                          -[r/windows]
+      * [x] Linux  <linux>                            - [linux@lobsters]                            -[r/linux,r/kernel,r/linuxdev,r/linuxquestions,r/Ubuntu]
+      * [x] Archlinux <archlinux>                                                                   -[r/archlinux,r/linuxmasterrace]
+      * [x] Unix <unix>                               - [unix@lobsters]
+    * [@] [Software Development]
+  * [x] CSApplications [<csa>]
+    * [x] Hacking <hacking>                                                                            -[r/hacking,r/HowToHack,r/Hacking_Tutorials,r/hackers]
+    * [x] Robotics(0)  <robotics>                                                                      -[r/robotics,r/arduino]
+    * [x] AR-VR <arvr>                                                                                 -[r/virtualreality,r/augmentedreality]
+    * [x] IOT <iot>                                                                                    -[r/IOT]
+    * [x] Computer Vision <compvision>                                                                 -[r/computervision,r/opencv]
+    * [x] Image Processing <imgprocess>                                                                -[r/imageprocessing,r/dip]
+    * [x] Data Mining <datamine>                      -   .....                                        -[r/datamining,r/textdatamining]
+    * [x] MachineLearning  [<ml>]
+      *  [x] GeneralML <gen_ml>                               -  .....                                     -[r/MachineLearning,r/learnmachinelearning,r/ResearchML,r/neuralnetworks]
+      *  [x] Artificial Neural Networks <ann>                                                            -[r/neuralnetworks,r/NeuralNetwork]
+      *  [x] Deep Learning <dl>                                                                          -[r/neuralnetworks,r/deeplearning,r/DeepLearningPapers,r/deeplearners]
+    * [x] DataScience [<ds>]                               -  .....                                        -[r/datascience,r/learndatascience]
+      * [x] General Data Science <gen_ds>                               -  .....                                     -[r/datascience,r/learndatascience]
+      * [x] Database(0) <database>                           - [databases@lobsters]                      -[r/Database]
+      * [x] Datasets <dataset>                             -  ......                                     -[r/datasets]
+      * [x] Statistics <statistics>                                                                      -[r/statistics,r/AskStatistics]
+      * [x]  R Language<rlang>                                                                           -[r/Rlanguage,r/rstats]
+      * [x]  Matlab <matlab>                                                                             -[r/matlab]
+      * [x]  DS Tools [<ds_tool>]
+        * [x] Scala <scala>                                                                              -[r/scala]
+        * Pandas                                                                         
+        * Matplotlib 
+        * NLTK 
+        * [x] Scikit-learn <scikit>                                                                      -[r/scikit_learn]
+        * [@] TensorFlow     
+        * [x] Jupyter Notebook <jupyternote>                                                               -[r/JupyterNotebooks]
+      *  [x] Kaggle <kaggle>                                                                              -[r/kaggle]
+      *  [x] Data Cleaning <datacleaning>                                                                 -[r/datacleaning]
+      * [x] NLP <nlp>                                                                                    -[r/NLP,r/LanguageTechnology]
+        * Chatbot
+    * [x] DataEngineering [<de>]
+      * [x] [[<database>]]                                      - [databases@lobsters]                     -[r/Database]
+      * [x] BigData [<bigdata>]
+        * [x] General Big Data <gen_bigdata>                -  ......                                     -[r/bigdata]
+        * [x] Apache Spark <spark>                                                                       -[r/apachespark]
+        * [x] Hadoop <hadoop>                                                                            -[r/hadoop]
+    * [x] DataVisualisation  [<data_visn>]
+      * [x] General Data Visualisation <gen_datavis>          - [visualization@lobsters,]                   -[r/visualization,r/dataisbeautiful]
+      * [x] Tableau <tableau>                                                                         -[r/tableau]
+      * [x] Microsoft Excel <excel>                                                                   -[r/excel,r/ExcelTips]
+    * [x] Artificial Intelligence  <ai>                                       - [ai@lobsters]                               -[r/artificial,r/ArtificialInteligence]
+* Programming   / Software Development <prog>
+  * General Programming <gen_prog>                      - [programming@lobsters]                      -[r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]
+  * [x] Languages&Frameworks [<lng_n_frmwrk>]
+    * [x] Languages [<lng>]
+      * [x] Programming Languages  <proglng>              -  .......                                    -[r/ProgrammingLanguages,r/learnprogramming,r/functionalprogramming]
+      * [x] Programming Language Theory <plt>             - [plt@lobsters]
+      * [x] Assembly Language <asm>                     - [assembly@lobsters,]                        -[r/asm]
+      * [x] C <c>                                     - [c@lobsters,]                               -[r/C_Programming,r/c_language]
+      * [x] C++  <cpp>                                - [c++@lobsters,]                             -[r/cpp,r/Cplusplus]
+      * [x] Golang <golang>                           - [go@lobsters]                               -[r/golang]
+      * [x] Python <python>                           - [python@lobsters,]                          -[r/Python]
+      * [x] Scala <scala>                             - [scala@lobsters,]                           -[r/scala]
+      * [x] Elixir <elixir>                           - [elixir@lobsters]
+      * [x] Elm <elm>                                 - [elm@lobsters]
+      * [x] Erlang  <erlang>                          - [erlang@lobsters,]                          -[r/erlang]
+      * [x] Fortran <fortran>                         - [fortran@lobsters]
+      * [x] Haskell <haskell>                         - [haskell@lobsters,]                         -[r/haskell]
+      * [x] Java <java>                               - [java@lobsters,]                            -[r/java]
+      * [x] Javascript <js>                           - [javascript@lobsters,]                      -[r/javascript]
+      * [x] Lisp <lisp>                               - [lisp@lobsters,]                            -[r/lisp]
+      * [x] Perl <perl>                               - [perl@lobsters]                             -[r/perl]
+      * [x] PHP <php>                                 - [php@lobsters,]                             -[r/PHP]
+      * [x] Ruby <ruby>                               - [ruby@lobsters,]                            -[r/ruby]
+      * [x] Rust <rust>                               - [rust@lobsters]                             -[r/rust]
+      * [@] C#                                        - [dotnet@lobsters, ...]
+      * [@] F#                                        - [dotnet@lobsters, ...]
+      * [x] .NET <dotnet>                             - [dotnet@lobsters,]                          -[r/dotnet]
+      * [x] Kotlin  <kotlin>                          -  .....                                      -[[r/Kotlin]
+      * [x] HTML <html>                               - [css@lobsters, ...]                         -[r/HTML,/r/html5]
+      * [x] CSS  <css>                                - [css@lobsters]                              -[r/css]
+  * [x] Frameworks  [<frmwrk>]         
+    * [x] Ruby on Rails <ror>                           - .....                                       -[r/rails]
+    * [x] Django  <django>                              - .....                                       -[r/django]
+    * [x] ReactJS <reactjs>                             - .....                                       -[r/reactjs]
+    * [x] NodeJS <nodejs>                               - [nodejs@lobsters,r/node]
+  * [x] ProgrammingTools [<prog_tools>]
+    * [x] Git & VCS <git>                               - [vcs@lobsters]                              -[r/git,r/github,r/gitlab]
+    * [x] Virtualization <virtualn>                     - [virtualization@lobsters]                   -[r/virtualization]
+    * [x] Web Browsers <browser>                        - [browsers@lobsters]                         -[r/browsers]
+    * [x] AWS <aws>                                     - .....                                       -[r/aws,r/AWS_cloud]
+    * [x] Azure <azure>                                                                               -[r/AZURE,r/azuredevops]  
+    * [x] Kubernetes <k8s>                                                                            -[r/kubernetes,r/k8s]  
+    * [x] Docker <docker>                                                                             -[r/docker]
+    * [x] GCP <gcp>                                                                                   -[r/GCP]                  
+    * [x] TextEditors [<txt_edit>]
+      * [x] Editors <editor>                              - [emacs@lobsters,...]
+      * [x] Vim <vim>                                                                                 -[r/vim,r/neovim,r/vim_magic]
+      * [x] Emacs <emacs>                                                                             -[r/emacs]
+  * [x] AppDevelopment [<appdev>]
+    * [x] General App Development <gen_appdev>              - [mobile@lobsters]                          -[r/appdev,r/AppDevelopment]
+    * [x] iOS Dev <iosdev>                                  - [ios@lobsters]                             -[r/iosdev,r/iOSProgramming]
+    * [x] Android Dev <androiddev>                          - [android@lobsters]                         -[r/androiddev]
+  * [x] DevOps [<devops>]
+    * [x] General DevOps <gen_devops>                        - [devops@lobsters]                           -[r/devops]
+    * [x] [AWS](1) 
+    * [x] [Azure](1)
+    * [x] [Kubernetes](1)
+    * [x] [Docker](1)
+    * [x] [GCP](1)
+  * [x] Security  [<security>]
+    * [x] Information Security <infosec>               - [security@lobsters]                         -[r/netsec]
+    * [x] Computer Security <compsec>                   - .....                                       -[[r/compsec]
+    * [x] Web Security <websec>                         - .....                                       -[[r/websec]
+    * [x] Privacy <privacy>                             - [privacy@lobsters]                          -[r/privacy]
+    * [x] Cryptography(1)<crypto_cse>                   - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
+  * [@] System Design
+  * [x] Design [<design>]
+    * [x] Graphix Design  <graphix>                     - [design@lobsters]
+    * [x] Computer Graphics <compgphix>                 - [graphics@@lobsters,]                       -[r/computergraphics]
+    * [x] Web Design <webdes>                           - .....                                       -[r/web_design]
+    * [x] UI <ui>                                                                                     -[r/UI_Design,r/UI_programming]
+    * [x] UX <ux>                                                                                     -[r/UXDesign,r/UXResearch,r/UX_Design]
+  * [x] Database <db>                                    - .....                                    -[r/Database]
       * SQL
       * MongoDB
       * Cassandra
-      * DashDB
-  * 2.2 Web Development <webd.prog>                 - [web@lobsters,]                            -[r/webdev]
-  * 2.3 App Development <appd.prog>                 - [mobile@lobsters]
-    * Android <android>                             - [android@lobsters]
-    * iOS <ios>                                     - [ios@lobsters]
-  * 1.4 Software Releases <sofrel.prog>             - [release@lobsters,announce@lobsters]
-  * 1.5 Debugging <debugging>                       - [debugging@lobsters]
-  * 1.6 Software Testing <testing.prog>             - [testing@lobsters]
-  * 1.7 DevOps ... <devops>                         - [devops@lobsters]
-  * 1.8 Information Security <security>             - [security@lobsters,r/netsec]
-    * Computer Security <compsec>                   - .....                                       -[[r/compsec]
-    * Web Security <websec>                         - .....                                       -[[r/websec]
-    * Privacy <privacy>                             - [privacy@lobsters]
-    * Cryptography(1)<crypto.cse>                   - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
-  * System Design
-  * 1.9 Design  <design>                            - [design@lobsters]
-    * Computer Graphics <cmpgr>                     - [graphics@@lobsters,]                       -[r/computergraphics]
-    * Web Design <webdes>                           - .....                                       -[r/web_design]
-    * UI
-    * UX
-  * 1.10 Scaling <scaling.prog>                     - [scaling@lobsters]
-  * 1.11 Performance & Optimisation <peropt.prog>   - [performance@lobsters,]                     -[r/systems(1)]
-  * 1.12 Development Practices <devpract.prog>      - [practices@lobsters,]                       -[r/tinycode,r/softwaredevelopment(2)]
-  * 1.13 Acrhitecture
-  * 1.14 Product Management
-  * 1.15 Game Dev <gamedev>                         - [games@lobsters,]                           -[r/gamedev]
-  * Coding Challanges<codingchlg> (0)               - .....                                       - [r/programmingchallenges]
-  * Law, patents, and licensing(+2) <law.cse>       - [law@lobsters]
-  * Open Source Projects(0) <opensrc>               - .....                                       -[[r/opensource]
-  * Operating system(+2) <os>                       - [osdev@lobsters,]                           -[r/osdev,r/kernel]
-      * iOS(+2) <ios.os>                            - [ios@lobsters]
-      * android(+2) <android.os>                    - [android@lobsters]
-      * macOS(+2) <mac.os>                          - [mac@lobsters]
-      * windows(+2) <windows.os>                    - [windows@lobsters]
-      * Linux(+2)  <linux.os>                       - [linux@lobsters]
-      * Unix(+2) <unix.os>                          - [unix@lobsters]
-  * Technical Queries <query>(0)                       - .....                                     - [r/AskComputerScience,askHN]
-* 4. Career   <career>                              - [job@lobsters]
-  * Career Queestions<advise.carr>                    - .....                                       - [r/cscareerquestions]
-  * Openings
-  * Interview Preparation
-  * Interview Experiences
-  * Coding Challanges<codingchlg>(1)               - .....                                       - [r/programmingchallenges]
-* 5. Social  
-  * Tech News <technews>                            - .....                                       - [[r/technology]                          
-  * Technical discussions <discuss>                 - .....                                       - [tellHN]
-  * Technical Queries <query>(1)                       - .....                                     - [r/AskComputerScience(1),askHN(1)]
-  * Technical communities and culture <community>   - [culture@lobsters]                         
+      * DashDB 
+  * [x] Web Development <webd>                       - [web@lobsters,]                            -[r/webdev]
+  * [@] Software Releases                            - [release@lobsters,announce@lobsters]
+  * [@] Debugging                                    - [debugging@lobsters]
+  * [x] Software Testing <sdt>                      - [testing@lobsters]                         -[r/softwaretesting]
+  * [@] Scaling                                     - [scaling@lobsters]
+  * [x] System Performance & Optimisation <system>  - [performance@lobsters,]                     -[r/systems]
+  * [x] Development Practices <devpract>            - [practices@lobsters,]                       -[r/tinycode,r/softwaredevelopment(2)]
+  *  Acrhitecture
+  * Product Management 
+  * [x] API <api>                                       - [api@lobsters]                              -[r/api]
+  * [x] Game Dev <gamedev>                         - [games@lobsters,]                           -[r/gamedev]
+  * [x] Coding Challanges<codingchlg> (0)               - .....                                       -[r/programmingchallenges]
+  * [@] Law, patents, and licensing(+2)                 - [law@lobsters]
+  * [x] Open Source (0) <opensrc>                       - .....                                       -[[r/opensource]
+  * [x] Free Software <freesoft>                        -  ....                                       -[r/freeculture,r/freesoftware]
+  * [x] [[<os>]]
+  * [x] Technical Queries <prog_query>(0)               - .....                                     -[r/AskComputerScience,askHN]
+* [x] Career [<career>]
+  * [x] Jobs <jobs>                                    - [job@lobsters]                               -[r/forhire]
+  * [x] Career Queestions<carr_query>                    - .....                                      -[r/cscareerquestions]
+  * [@] Openings
+  * [x] Interview Preparation <interviewprep>                                                          -[r/interviewpreparations,r/csinterviewproblems]
+  * [x] Interview Experiences <interviewexp>                                                           -[r/interviews]
+  * [x] [Coding Challanges](1)    
+* [x] Social [<social>] (or Community) 
+  * [x] Tech News <technews>                       - .....                                            - [r/technology,r/TrueReddit,r/wikipedia,r/geek]                          
+  * [x] Technical discussions <tech_discuss>                 - .....                                  - [tellHN]
+  * [x] Technical Queries <tech_query>(1)                       - .....                               - [r/AskComputerScience(1),askHN(1)]
+  * [x] Technical communities and culture <community>   -[culture@lobsters]                           - [r/skeptic]                     
+  * Social Philosophy                                   - ......                                      - [r/Agorism]
   * Rants(rant@lobsters)
   * Stories about particular persons <person>       - [person@lobsters]
-  * Interviews
-  * Education <edu>                                 - [education@lobsters]
-  * Travel/Geography
-  * Politics
-  * Cognitive Science <cogsci>                      - [cogsci@lobsters]
-  * 5.2 Reading
-    * Art  <art>                                    - [art@lobsters]
-    * Books  <book>                                 - [book@lobsters]
-    * History <hist.it>                             - [historical@lobsters]
-    * Philosophy(in general)  <phil>  ...           - .....                                       - [[r/atheism]
-* 6. Business
-  * Startup  <startup>                              - .....                                       - [launchHN,PH(???)]
-  * Saas
-  * Freelancing
-  * Self Project <selfproj>                         - ......                                      - [showHN]
-  * Open Source Projects(0) <opensrc>               - .....                                       - [r/opensource]
-  * Law, patents, and licensing(+3) <law.cse>       - .....                                       - [law@lobsters]
-* 7. Science <science>                              - .....                                       - [science@lobsters]
-  * Physics
-    * Astronomy & Astrophysics
-    * Quantum Physics
-    * Nuclear Physics
-  * Chemistry
-  * Medicine
-  * Biology
-  * Ecology/Environment
-  * Neuroscience
-  * Psychology
-  * Electrical Engineering 
-* 8. Mathematics  <maths>                           - [math@lobsters,]                            - [r/math,r/mathematics]
-  * Statistics(1) <stats>                           - .....                                       - [r/statistics]
-  * Geometry
-  * Calculus
-  * Algebra
-  * Game Theory
-  * Graph Theory
-  * Discrete Mathematics(+1)
-  * Cryptography(2)<crypto.cse>                     - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
-  * Logic <logic>                                   - .....                                       -[[r/logic(1)]
-* 9. Finance & Economics
-  * Economics
-  * Finance  <finance>                              - [finance@lobsters]
+  * Interviews -->
+  * [x] Blogs <tech_blog>                                                                             - [r/blog]
+  * Education                                            - [education@lobsters] 
+  * Travel/Geography 
+  * [x] Law, patents, and licensing <tech_law>          - [law@lobsters]                              -[r/COPYRIGHT,r/noip]
+  * Politics 
+  * Intellectual Property Laws                           - ...                                         - [r/noip] 
+  * [x] Cognitive Science <cogsci>                      - [cogsci@lobsters]                           - [r/cognitivescience]
+  * [x] Torrents <torrent>                                                                            - [r/torrents]
+  * [x] Reading&Writing [<read_n_write>]
+    * Art                                            - [art@lobsters]  
+    * [x] Books  <book>                                 - [book@lobsters]                             - [r/books,r/scifi,r/bookclub]
+    * [x] Writing <write>                                                                           - [r/writing]
+    * [x] Philosophy(general)  <phil>  ...              - .....                                       - [r/atheism,r/philosophy]
+    * [x] History <history>                             - [historical@lobsters]                       - [r/history,r/AskHistorians]
+* 6. Business [<business>]
+  * [x] Gen. Business <gen_business>                        - .....                                       - [r/business,r/Flipping]
+  * [x] Startup  <startup>                              - .....                                       - [launchHN,PH,r/startups,r/Entrepreneur,r/digitalnomad]
+  * [x] Freelancing <freelance>                                                                       - [r/freelance,r/Upwork]
+  * [x] Saas <saas>                                                                                   - [r/SaaS]
+  * [x] Side Project <sideproj>                         - ......                                      - [showHN,r/SideProject]
+  * [x] Marketing & Advertising <market>               - .....                                        - [r/marketing]
+  * [x] SEO <seo>                                  - .....                                        - [r/SEO,r/bigseo,r/SEO_Digital_Marketing]
+  * [x] [[<opensrc>]](1)                                 - .....                                        - [r/opensource]
+* [x] Science [<science>]
+  * [x] General Science <gen_science>                             - [science@lobsters]                    - [r/science]
+  * [x] Scinece Queries <sci_query>                                                                   - [r/askscience,r/AskPhysics]
+  * [x] Chemistry <chemistry>                                                                         - [r/chemistry]
+  * [x] Biology <biology>                                                                             - [r/biology]
+  * [x] Medicine <medicine>                                                                           - [r/medicine]
+  * [x] Neuroscience <neuroscience>                                                                   - [r/neuroscience]
+  * [x] Geology <geology>                                                                             - [r/geology]
+  * [x] Ecology/Environment <env>                                                                      - [r/environment]
+  * Psychology                                                                            
+  * [x] Health <health>                                                                                - [r/Health]
+  * [x] Physics [<physics>]
+    * [x] Gen. Physics <gen_physics>                                                                      - [r/Physics]
+    * [x] Astronomy, Astrophysics, space <astro>                                                      - [r/space,r/aerospace]  #TODO: add more for 'astro' part
+    * [x] Quantum Physics <quantum>                                                                   - [r/quantum,r/QuantumPhysics]
+    * [x] Nuclear Physics <nuclear>                                                                   - [r/energy]
+    * [x] Fluid Mechanics <fluid_mech>                                                                - [r/FluidMechanics]
+* [x] Engineering  [<engg>]
+  * [x] Gen. Engineering <gen_engg>                                                                         - [r/engineering]   
+  * [x] Electronics Engg <engg_ece>                                                                         - [r/electronics,r/ECE]
+  * [x] Electrical Engg <engg_electric>                                                                - [r/ElectricalEngineering]
+  * [x] Engineering Queries <engg_query>                                                               - [r/AskEngineers,r/LearnEngineering,r/AskElectronics]
+  * [x] Mechanical Engineering <engg_mech>                                                        - [r/MechanicalEngineering]
+  * [x] Engineering Students <engg_student>                                                            - [r/EngineeringStudents]
+  * [x] Aviation, Rockets & aerodynamics <rocket>                                                      - [r/rocketry,r/aviation,r/nasa,r/spacex,r/aerodynamics]
+  * [x] Structural Engineering <engg_struct>                                                           - [r/StructuralEngineering]
+  * [x] [[<robotics>]](1)   
+  * [x] 3D Printing <threedprint>                                                                          - [r/3Dprinting]
+* [x] Mathematics [<maths>]
+  * [x] Gen.Mathematics <gen_maths>                           - [math@lobsters,]                            - [r/math,r/mathematics]
+  * [@] Geometry
+  * [x] Calculus <calculus>                                                                           -[r/calculus,r/DifferentialEquations]
+  * [x] Algebra <algebra>                                                                             -[r/Algebra] 
+  * [x] [<gametheory>]
+  * [x] Graph Theory <graphtheory>                                                                    -[r/GraphTheory]
+  * [x] [[<logic>]](1)                                       - .....                                       -[r/logic(1)]
+  * [x] [[<disco>]](1)    
+  * [x] [[<statistics>]](1-R_part)                          - .....                                       - [r/statistics]
+  * [x] [[<crypto_cse>]](2)                               - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
+* [x] Finance&Economics [<fin_eco>]
+  * [x] Economics <economics>                                                                         -[r/Economics,r/economy]
+  * [x] Finance & Personal Finance  <finance>                              - [finance@lobsters]                          -[r/finance,r/personalfinance]
   * Money
-  * Investment
-  * Bitcoin
-  * Blockchain
-    * Bitcoin <bitcoin>                             - .....                                       -[[r/Bitcoin]
-  * Cryptocurrencies <crypto.fin>                   - [cryptocurrencies@lobsters]
+  * [x] Accounting <accounting>                                                                       -[r/Accounting]
+  * [x] Investment <invest>                                                                           -[r/invest,r/investing]
+  * [x] Blockchain [<blockchain>]
+    * [x] Gen. Blockchain <gen_blockchain>                                                                       -[r/BlockchainStartups]
+    * [x] Cryptocurrencies <crypto_fin>                   - [cryptocurrencies@lobsters]                 -[r/CryptoCurrency]
+    * [x] Bitcoin <bitcoin>                             - .....                                       -[r/Bitcoin,r/BitcoinBeginners,r/bitcointrading,r/BitcoinDiscussion]
+
+
+
+# Panes (Panes from Map-o-SubReddit)
+
 
 
 
@@ -732,320 +760,267 @@
 ------
 
 
-# Population Visiting Site(to get idea of Damping factor) [Source: SimilarWeb chrome extension]
+# Population Visiting Site(to get idea of Damping factor) [Source: SimilarWeb chrome extension] (Age: as of 15Sep20)
 
 |      Source                 |  MonthlyVisits | Avg Visit Duratin(min:sec) |  Pages per visit | Bounce Rate |
 | --------------------------- | -------------- | -------------------------- | ---------------- | ----------- |
 | HN                          |     10.9 M     |            05:10m          |         3        |   50%       |
 | Reddit(total)               |     1.6 B      |            10:07           |         8        |   40%       |  
 
-|      Subreddit              |   Members  |   Online Members  |  Age(yy:mm)   |
-|      ---------              |   -------  |   --------------  |  ----------   |
-| r/compsci                   | 1100.0 K    |     1800         |       13.6    |                                      
-| r/computerscience           |  155.0 K    |      206         |       12.3    |                                      
-| r/systems                   |   65.0 K    |        2         |       10.9    |                                      
-| r/algorithms                |   72.0 K    |       28         |       12.2    |                                      
-| r/crypto                    |  124.0 K    |      107         |       11.1    |                                      
-| r/cryptography              |   38.0 K    |       25         |       12.3    |                                      
-| r/logic                     |   20.0 K    |       35         |       11.6    |                                      
-| r/compilers                 |    9.0 K    |        7         |       11.8    |                                      
-| r/osdev                     |   11.7 K    |       23         |       11.0    |                                      
-| r/kernel                    |   11.8 K    |        8         |       11.9    |                                      
-| r/ReverseEngineering        |   11.0 K    |      100         |       12.0    |                                      
-| r/bigdata                   |   37.0 K    |       52         |       10.8    |                                      
-| r/datasets                  |  123.0 K    |      158         |       12.5    |                                      
-| r/MachineLearning           | 1300.0 K    |     2800         |       11.9    |                                      
-| r/artificial                |  121.0 K    |     1600         |       13.0    |                                      
-| r/LanguageTechnology        |   24.8 K    |       35         |       11.0    |                                      
-| r/computervision            |   40.0 K    |       85         |       11.7    |                                      
-| r/datamining                |   11.6 K    |        1         |       12.4    |                                      
-| r/visualization             |   62.3 K    |       34         |       12.10   |                                           
-| r/dataisbeautiful           |15000.0 K    |     5700         |       12.10   |                                           
-| r/statistics                |  143.0 K    |      232         |       12.10   |                                           
-| r/programming               | 2900.0 K    |     5700         |       15.0    |                                           
-| r/coding                    |  253.0 K    |     1300         |       11.0    |                                           
-| r/softwaredevelopment       |   44.5 K    |       34         |       12.4    |                                           
-| r/SoftwareEngineering       |   24.9 K    |       52         |       12.0    |                                           
-| r/asm                       |   12.4 K    |       24         |       12.2    |                                           
-| r/C_Programming             |   90.2 K    |      130         |       12.0    |                                           
-| r/c_language                |    6.1 K    |        2         |       12.0    |                                           
-| r/cpp                       |  154.0 K    |     1500         |       12.2    |                                           
-| r/Cplusplus                 |   22.5 K    |       17         |       12.7    |                                           
-| r/Python                    |  663.0 K    |     2300         |       12.7    |                                           
-| r/scala                     |   35.3 K    |       67         |       12.7    |                                           
-| r/erlang                    |    8.2 K    |       18         |       12.6    |                                           
-| r/haskell                   |   58.1 K    |      135         |       12.7    |                                           
-| r/java                      |  202.0 K    |     2100         |       12.10   |                                           
-| r/javascript                | 1100.0 K    |     2400         |       12.10   |                                           
-| r/lisp                      |   29.2 K    |       44         |       12.10   |                                           
-| r/perl                      |   14.0 K    |       13         |       12.10   |                                           
-| r/PHP                       |  126.0 K    |      233         |       12.10   |                                           
-| r/ruby                      |   67.4 K    |       75         |       12.10   |                                           
-| r/dotnet                    |   83.1 K    |      310         |       12.10   |                                           
-| r/Kotlin                    |   38.4 K    |      322         |        9.10   |                                           
-| r/rails                     |   45.9 K    |       61         |       12.6    |                                          
-| r/django                    |   77.8 K    |      162         |       12.10   |                                           
-| r/reactjs                   |  213.0 K    |      528         |        6.9    |                                           
-| r/aws                       |  139.0 K    |      500         |       12.10   |                                           
-| r/Database                  |   29.1 K    |       33         |       12.4    |                                           
-| r/webdev                    |  573.0 K    |     1100         |       13.7    |                                           
-| r/compsec                   |    7.0 K    |        5         |       10.4    |                                           
-| r/websec                    |    6.6 K    |        6         |       12.10   |                                           
-| r/computergraphics          |   36.3 K    |       50         |       12.3    |                                           
-| r/web_design                |  489.0 K    |      342         |       12.8    |                                           
-| r/tinycode                  |   23.1 K    |        8         |        9.3    |                                           
-| r/gamedev                   |  486.0 K    |     2600         |       12.3    |                                           
-| r/opensource                |  123.0 K    |      133         |       12.8    |                                           
-| r/AskComputerScience        |   49.5 K    |       58         |        9.3    |                                           
-| r/cscareerquestions         |  427.0 K    |     4500         |        9.8    |                                           
-| r/programmingchallenges     |   10.8 K    |        4         |        9.4    |                                           
-| r/technology                | 9600.0 K    |    16000         |       12.8    |                                           
-| r/atheism                   | 2600.0 K    |     4000         |       12.8    |                                           
-| r/math                      | 1300.0 K    |      871         |       12.8    |                                           
-| r/mathematics               |   63.2 K    |       71         |       12.8    |                                           
-| r/statistics                |  143.0 K    |      260         |       12.6    |                                           
-| r/Bitcoin                   | 1600.0 K    |     3400         |       10.0    |                                           
-                           
+|      Subreddit              |   Members  |   Online Members  |  Age(yy:mm)   | Restricted |
+|      ---------              |   -------  |   --------------  |  ----------   | --------- |
+| r/compsci                   | 1100.0 K    |     1800         |       13.6    |    No     |                                      
+| r/computerscience           |  155.0 K    |      206         |       12.3    |    No     |                                      
+| r/systems                   |   65.0 K    |        2         |       10.9    |    No     |                                      
+| r/algorithms                |   72.0 K    |       28         |       12.2    |    No     |                                      
+| r/crypto                    |  124.0 K    |      107         |       11.1    |    No     |                                      
+| r/cryptography              |   38.0 K    |       25         |       12.3    |    No     |                                      
+| r/logic                     |   20.0 K    |       35         |       11.6    |    No     |                                      
+| r/compilers                 |    9.0 K    |        7         |       11.8    |    No     |                                      
+| r/osdev                     |   11.7 K    |       23         |       11.0    |    No     |                                      
+| r/kernel                    |   11.8 K    |        8         |       11.9    |    No     |                                      
+| r/ReverseEngineering        |   11.0 K    |      100         |       12.0    |    No     |                                      
+| r/bigdata                   |   37.0 K    |       52         |       10.8    |    No     |                                      
+| r/datasets                  |  123.0 K    |      158         |       12.5    |    No     |                                      
+| r/MachineLearning           | 1300.0 K    |     2800         |       11.9    |    No     |                                      
+| r/artificial                |  121.0 K    |     1600         |       13.0    |    No     |                                      
+| r/LanguageTechnology        |   24.8 K    |       35         |       11.0    |    No     |                                      
+| r/computervision            |   40.0 K    |       85         |       11.7    |    No     |                                      
+| r/datamining                |   11.6 K    |        1         |       12.4    |    No     |                                      
+| r/visualization             |   62.3 K    |       34         |       12.10   |    No     |                                           
+| r/dataisbeautiful           |15000.0 K    |     5700         |       12.10   |    No     |                                           
+| r/statistics                |  143.0 K    |      232         |       12.10   |    No     |                                           
+| r/programming               | 2900.0 K    |     5700         |       15.0    |    No     |                                           
+| r/coding                    |  253.0 K    |     1300         |       11.0    |    No     |                                           
+| r/softwaredevelopment       |   44.5 K    |       34         |       12.4    |    No     |                                           
+| r/SoftwareEngineering       |   24.9 K    |       52         |       12.0    |    No     |                                           
+| r/asm                       |   12.4 K    |       24         |       12.2    |    No     |                                           
+| r/C_Programming             |   90.2 K    |      130         |       12.0    |    No     |                                           
+| r/c_language                |    6.1 K    |        2         |       12.0    |    No     |                                           
+| r/cpp                       |  154.0 K    |     1500         |       12.2    |    No     |                                           
+| r/Cplusplus                 |   22.5 K    |       17         |       12.7    |    No     |                                           
+| r/Python                    |  663.0 K    |     2300         |       12.7    |    No     |                                           
+| r/scala                     |   35.3 K    |       67         |       12.7    |    No     |                                           
+| r/erlang                    |    8.2 K    |       18         |       12.6    |    No     |                                           
+| r/haskell                   |   58.1 K    |      135         |       12.7    |    No     |                                           
+| r/java                      |  202.0 K    |     2100         |       12.10   |    No     |                                           
+| r/javascript                | 1100.0 K    |     2400         |       12.10   |    No     |                                           
+| r/lisp                      |   29.2 K    |       44         |       12.10   |    No     |                                           
+| r/perl                      |   14.0 K    |       13         |       12.10   |    No     |                                           
+| r/PHP                       |  126.0 K    |      233         |       12.10   |    No     |                                           
+| r/ruby                      |   67.4 K    |       75         |       12.10   |    No     |                                           
+| r/dotnet                    |   83.1 K    |      310         |       12.10   |    No     |                                           
+| r/Kotlin                    |   38.4 K    |      322         |        9.10   |    No     |                                           
+| r/rails                     |   45.9 K    |       61         |       12.6    |    No     |                                          
+| r/django                    |   77.8 K    |      162         |       12.10   |    No     |                                           
+| r/reactjs                   |  213.0 K    |      528         |        6.9    |    No     |                                           
+| r/aws                       |  139.0 K    |      500         |       12.10   |    No     |                                           
+| r/Database                  |   29.1 K    |       33         |       12.4    |    No     |                                           
+| r/webdev                    |  573.0 K    |     1100         |       13.7    |    No     |                                           
+| r/compsec                   |    7.0 K    |        5         |       10.4    |    No     |                                           
+| r/websec                    |    6.6 K    |        6         |       12.10   |    No     |                                           
+| r/computergraphics          |   36.3 K    |       50         |       12.3    |    No     |                                           
+| r/web_design                |  489.0 K    |      342         |       12.8    |    No     |                                           
+| r/tinycode                  |   23.1 K    |        8         |        9.3    |    No     |                                           
+| r/gamedev                   |  486.0 K    |     2600         |       12.3    |    No     |                                           
+| r/opensource                |  123.0 K    |      133         |       12.8    |    No     |                                           
+| r/AskComputerScience        |   49.5 K    |       58         |        9.3    |    No     |                                           
+| r/cscareerquestions         |  427.0 K    |     4500         |        9.8    |    No     |                                           
+| r/programmingchallenges     |   10.8 K    |        4         |        9.4    |    No     |                                           
+| r/technology                | 9600.0 K    |    16000         |       12.8    |    No     |                                           
+| r/atheism                   | 2600.0 K    |     4000         |       12.8    |    No     |                                           
+| r/math                      | 1300.0 K    |      871         |       12.8    |    No     |                                           
+| r/mathematics               |   63.2 K    |       71         |       12.8    |    No     |                                           
+| r/statistics                |  143.0 K    |      260         |       12.6    |    No     |                                           
+| r/Bitcoin                   | 1600.0 K    |     3400         |       10.0    |    No     | 
 
-# The List of All the Possible Tags Under the CSE Sun(To be used while Model-Building):
+---------------------------------------- NEW -----------------------------------------------
 
-|   About                             |        TagName                   |          Static Sources          |         Dynamic Sources        |
-| ----------------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
-| 1. Computer Science                 | `<cse>`                          |    [compsci@lobsters]            |   [r/compsci,r/computerscience,r/systems(0)]   |
-| 1.1. Theoretical Computer Science   |                                  |                                  |                                 |
-| Distributed systems                 | `<dissys>`                       |    [distributed@lobsters]        |                                 |
-| Data Structures                     |                                  |                                  |                                 |
-| Algorithms                          | `<algo.cse>`                     |                                  |   [r/algorithms]                |
-| Graph Theory                        |                                  |                                  |                                 |
-| Coding Philosophy                   |                                  |                                  |                                 |
-| Law, patents, and licensing         | `<law.cse>`                      |    [law@lobsters]                |                                 | 
-| Game Theory                         |                                  |                                  |                                 |
-| Discrete Mathematics                |                                  |                                  |                                 |
-| Cryptography(0)                     | `<crypto.cse>`                   |    [crypto@lobsters,]            |    [r/crypto,r/cryptography]    |
-| Hardware                            | `<hardware>`                     |    [hardware@lobsters]           |                                 |
-| Parallel Programming                |                                  |                                  |                                 |
-| Computability Theory                |                                  |                                  |                                 |
-| Programming Language Theory         | `<plt.cse>`                      |    [plt@lobsters]                |                                 |
-| Formal Methods                      | `<frme.cse>`                     |    [formalmethods@@lobsters]     |                                 |  
-| Logic                               | `<logic.cse>`                    |                                  |   [r/logic]                     |
-| 1.2. Computer Engineering           |                                  |                                  |                                 |
-| Computer Architecture               |                                  |                                  |                                 |
-| Compilers                           | `<compiler>`                     |    [compilers@lobsters]          |     [r/compilers]               |
-| Networking                          | `<netwrk>`                       |    [networking@lobsters]         |                                 |
-| Operating system                    | `<os>`                           |    [osdev@lobsters]              |    [r/osdev]                    |
-| iOS                                 | `<ios.os>`                       |    [ios@lobsters]                |                                 |
-| android                             | `<android.os>`                   |    [android@lobsters]            |                                 |
-| macOS                               | `<mac.os>`                       |    [mac@lobsters]                |                                 |
-| windows                             | `<windows.os>`                   |    [windows@lobsters]            |                                 |
-| Linux                               | `<linux.os>`                     |    [linux@lobsters]              |   [r/kernel]                    |
-| Unix                                | `<unix.os>`                      |    [unix@lobsters]               |                                 |
-| Reverse Engineering                 | `<reveng.prog>`                  |    [reversing@lobsters,]         |   [r/ReverseEngineering]        |
-| [Software Development]              |                                  |                                  |                                 |
-| 1.3. Computer Science Applications  |                                  |                                  |                                 |
-| [ML]                                | `<ml>`                           |    [ai@lobsters]                 |                                 |       
-| Computer Vision                     |                                  |                                  |                                 |
-| Image Processing                    |                                  |                                  |                                 |
-| NLP                                 |                                  |                                  |                                 |
-| Chatbot(?)                          |                                  |                                  |                                 |
-| AI      | `<ai>`                                          |    [ai@lobsters]    |
-| Robotics    |
-| AR   |                                  |                                  |                                 |
-|   VR    |
-| IOT    |
-| Hacking    |
-| Big Data     | `<bigdata>`                                |     ......                                        |   [r/bigdata]    |
-| Datasets     | `<dataset>`                                |     ......                                        |   [r/datasets]    |
-| [Data Science]    |
-| 2 Data    |
-| 1.1 Data Science     | `<dsc>`                              |     .....                                         |   [r/datascience]    |
-| Statistics    |
-|  R    |
-|  Matlab    |
-|  Python Tools    |
-| Scala(?)    |
-| Pandas(?)    |
-| Matplotlib    |
-| NLTK    |
-| Scikit learn    |
-| TensorFlow    |
-|  Machine Learning     | `<ml>`                           |     .....                                         |   [r/MachineLearning]    |
-|  AI ...     | `<ai>`                                     |     .....                                         |   [r/artificial]    |
-|  Neural Networking (?)    |
-|  Deep Learning    |
-|  Jupyter    |
-|  Kaggle    |
-|  NLP     | `<nlp>`                                      |      .....                                         |   [r/LanguageTechnology]    |
-|  Computer Vision     | `<cvis>`                         |      .....                                         |   [r/computervision]    |
-|  Data Mining     | `<dataming>`                         |      .....                                         |   [r/datamining]    |
-| 1.2 Data Engineering    |
-| Database     | `<database>`                              |    [databases@lobsters]    |
-| SQL    |
-| MongoDB(?)    |
-| Cassandra(?)    |
-| DashDB(?)    |
-| Big Data    |
-| Apache Spark    |
-| ...    |
-| Hadoop    |
-| MapReduce(?)    |
-| Hive(?)    |
-| Pig(?)    |
-| 1.3 Data Analytics    |
-| Database(+1)    |
-| SQL(+1)    |
-| Data Visualisation     | `<datavis.ds>`                  |    [visualization@lobsters,]                      |   [r/visualization,r/dataisbeautiful]    |
-| Tableau    |
-| Microsoft Excel    |
-| Statistics     | `<stats>`                             |     .......                                       |   [r/statistics]    |
-| 3. Software Development/Programming     | `<prog>`           |    [programming@lobsters]                       |   [r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]    |
-| 2.1 Programming Languages    | `<proglng>`                 |     .......                                       |   [r/ProgrammingLanguages,r/learnprogramming,r/functionalprogramming]    |
-| Programming Language Theory     | `<plt.cse>`            |    [plt@lobsters]    |
-| Assembly Language     | `<assem>`                        |    [assembly@lobsters,]                           |   [r/asm]    |
-| C     | `<c>`                                            |    [c@lobsters,]                                  |   [r/C_Programming,r/c_language]    |
-| C++      | `<cpp>`                                       |    [c++@lobsters,]                                |   [r/cpp,r/Cplusplus]    |
-| Golang     | `<golang>`                                  |    [go@lobsters]    |
-| Python     | `<python>`                                  |    [python@lobsters,]                             |   [r/Python]    |
-| Scala     | `<scala>`                                    |    [scala@lobsters,]                              |   [r/scala]    |
-| Elixir     | `<elixir>`                                  |    [elixir@lobsters]    |
-| Elm     | `<elm>`                                        |    [elm@lobsters]    |
-| Erlang      | `<erlang>`                                 |    [erlang@lobsters,]                             |   [r/erlang]    |
-| Fortran     | `<fortran>`                                |    [fortran@lobsters]    |
-| Haskell     | `<haskell>`                                |    [haskell@lobsters,]                            |   [r/haskell]    |
-| Java     | `<java>`                                      |    [java@lobsters,]                               |   [r/java]    |
-| Javascript     | `<javascript>`                          |    [javascript@lobsters,]                         |   [r/javascript]    |
-| Lisp     | `<lisp>`                                      |    [lisp@lobsters,]                               |   [r/lisp]    |
-| Perl     | `<perl>`                                      |    ........                                       |   [r/perl]    |
-| MetaLanguage     | `<>`                                  |    [@lobsters]    |
-| ObjectiveC     | `<objc>`                                |    [objectivec@lobsters]    |
-| Perl     | `<perl>`                                      |    [perl@lobsters]    |
-| PHP     | `<php>`                                        |    [php@lobsters,]                                |   [r/PHP]    |
-| Ruby     | `<ruby>`                                      |    [ruby@lobsters,]                               |   [r/ruby]    |
-| Rust     | `<rust>`                                      |    [rust@lobsters]    |
-| Swift     | `<swift>`                                    |    [swift@lobsters]    |
-| D programming     | `<d>`                                |    [d@lobsters]    |
-| C#     | `<chash>`                                       |    [dotnet@lobsters, ...]    |
-| F#     | `<fhash>`                                       |    [dotnet@lobsters, ...]    |
-| .NET     | `<dotnet>`                                    |    [dotnet@lobsters,]                             |   [r/dotnet]    |
-| HTML     | `<html>`                                      |    [css@lobsters, ...]    |
-| Kotlin      | `<kotlin>`                                 |     .....                                         |   [[r/Kotlin]    |
-| CSS      | `<css>`                                       |    [css@lobsters]    |
-| Frameworks(....)     | `<frm.prog>`                  |
-| Ruby on Rails     | `<ror>`                              |    .....                                          |   [r/rails]    |
-| Django      | `<django>`                                 |    .....                                          |   [r/django]    |
-| ReactJS     | `<reactjs>`                                |    .....                                          |   [r/reactjs]    |
-| NodeJS     | `<nodejs>`                                  |    [nodejs@lobsters,r/node]    |
-| 2.2 Software Tools     | `<tools.prog>`                    |    .....                                          |   [r/softwaredevelopment(1)]    |
-| Git & VCS     | `<vcs.prog>`                             |    [vcs@lobsters]    |
-| API     | `<api.prog>`                                   |    [api@lobsters]    |
-| Virtualization     | `<virtualn.prog>`                   |    [virtualization@lobsters]    |
-| Editors     | `<editor.prog>`                            |    [emacs@lobsters,...]    |
-| Web Browsers     | `<browser>`                           |    [browsers@lobsters]    |
-| AWS     | `<aws>`                                        |    .....                                          |   [r/aws]    |
-| Azure    |
-| Kubernetes    |
-| Docker    |
-| GCP    |
-| Databases     | `<dbs>`                                    |    .....                                          |   [r/Database]    |
-| SQL    |
-| MongoDB    |
-| Cassandra    |
-| DashDB    |
-| 2.2 Web Development     | `<webd.prog>`                    |    [web@lobsters,]                               |   [r/webdev]    |
-| 2.3 App Development     | `<appd.prog>`                    |    [mobile@lobsters]    |
-| Android     | `<android>`                                |    [android@lobsters]    |
-| iOS     | `<ios>`                                        |    [ios@lobsters]    |
-| 1.4 Software Releases     | `<sofrel.prog>`                |    [release@lobsters,announce@lobsters]    |
-| 1.5 Debugging     | `<debugging>`                          |    [debugging@lobsters]    |
-| 1.6 Software Testing     | `<testing.prog>`                |    [testing@lobsters]    |
-| 1.7 DevOps ...     | `<devops>`                            |    [devops@lobsters]    |
-| 1.8 Information Security     | `<security>`                |    [security@lobsters,r/netsec]    |
-| Computer Security     | `<compsec>`                      |    .....                                          |   [[r/compsec]    |
-| Web Security     | `<websec>`                            |    .....                                          |   [[r/websec]    |
-| Privacy     | `<privacy>`                                |    [privacy@lobsters]    |
-| Cryptography(1)    | `<crypto.cse>`                      |    [crypto@lobsters,]                             |   [r/crypto,r/cryptography]    |
-| System Design    |
-| 1.9 Design      | `<design>`                               |    [design@lobsters]    |
-| Computer Graphics     | `<cmpgr>`                        |    [graphics@@lobsters,]                          |   [r/computergraphics]    |
-| Web Design     | `<webdes>`                              |    .....                                          |   [r/web_design]    |
-| UI    |
-| UX    |
-| 1.10 Scaling     | `<scaling.prog>`                        |    [scaling@lobsters]    |
-| 1.11 Performance & Optimisation     | `<peropt.prog>`      |    [performance@lobsters,]                        |   [r/systems(1)]    |
-| 1.12 Development Practices     | `<devpract.prog>`         |    [practices@lobsters,]                          |   [r/tinycode,r/softwaredevelopment(2)]    |
-| 1.13 Acrhitecture    |
-| 1.14 Product Management    |
-| 1.15 Game Dev     | `<gamedev>`                            |    [games@lobsters,]                              |   [r/gamedev]    |
-| Coding Challanges    | `<codingchlg>` (0)                  |    .....                                          |    [r/programmingchallenges]    |
-| Law, patents, and licensing(+2)     | `<law.cse>`          |    [law@lobsters]    |
-| Open Source Projects(0)     | `<opensrc>`                  |    .....                                          |   [[r/opensource]    |
-| Operating system(+2)     | `<os>`                          |    [osdev@lobsters,]                              |   [r/osdev,r/kernel]    |
-| iOS(+2)     | `<ios.os>`                               |    [ios@lobsters]    |
-| android(+2)     | `<android.os>`                       |    [android@lobsters]    |
-| macOS(+2)     | `<mac.os>`                             |    [mac@lobsters]    |
-| windows(+2)     | `<windows.os>`                       |    [windows@lobsters]    |
-| Linux(+2)      | `<linux.os>`                          |    [linux@lobsters]    |
-| Unix(+2)     | `<unix.os>`                             |    [unix@lobsters]    |
-| Technical Queries     | `<query>`(0)                          |    .....                                        |    [r/AskComputerScience,askHN]    |
-| 4. Career       | `<career>`                                 |    [job@lobsters]    |
-| Career Queestions    | `<advise.carr>`                       |    .....                                          |    [r/cscareerquestions]    |
-| Openings    |
-| Interview Preparation    |
-| Interview Experiences    |
-| Coding Challanges    | `<codingchlg>`(1)                  |    .....                                          |    [r/programmingchallenges]    |
-| 5. Social      |
-| Tech News     | `<technews>`                               |    .....                                          |    [[r/technology]                              |
-| Technical discussions     | `<discuss>`                    |    .....                                          |    [tellHN]    |
-| Technical Queries     | `<query>`(1)                          |    .....                                        |    [r/AskComputerScience(1),askHN(1)]    |
-| Technical communities and culture     | `<community>`      |    [culture@lobsters]                             |
-| Rants(rant@lobsters)    |
-| Stories about particular persons     | `<person>`          |    [person@lobsters]    |
-| Interviews    |
-| Education     | `<edu>`                                    |    [education@lobsters]    |
-| Travel/Geography    |
-| Politics    |
-| Cognitive Science     | `<cogsci>`                         |    [cogsci@lobsters]    |
-| 5.2 Reading    |
-| Art      | `<art>`                                       |    [art@lobsters]    |
-| Books      | `<book>`                                    |    [book@lobsters]    |
-| History     | `<hist.it>`                                |    [historical@lobsters]    |
-| Philosophy(in general)      | `<phil>`  ...              |    .....                                          |    [[r/atheism]    |
-| 6. Business    |
-| Startup      | `<startup>`                                 |    .....                                          |    [launchHN,PH(???)]    |
-| Saas    |
-| Freelancing    |
-| Self Project     | `<selfproj>`                            |    ......                                         |    [showHN]    |
-| Open Source Projects(0)     | `<opensrc>`                  |    .....                                          |    [r/opensource]    |
-| Law, patents, and licensing(+3)     | `<law.cse>`          |    .....                                          |    [law@lobsters]    |
-| 7. Science     | `<science>`                                 |    .....                                          |    [science@lobsters]    |
-| Physics    |
-| Astronomy & Astrophysics    |
-| Quantum Physics    |
-| Nuclear Physics    |
-| Chemistry    |
-| Medicine    |
-| Biology    |
-| Ecology/Environment    |
-| Neuroscience    |
-| Psychology    |
-| Electrical Engineering     |
-| 8. Mathematics      | `<maths>`                              |    [math@lobsters,]                               |    [r/math,r/mathematics]    |
-| Statistics(1)     | `<stats>`                              |    .....                                          |    [r/statistics]    |
-| Geometry    |
-| Calculus    |
-| Algebra    |
-| Game Theory    |
-| Graph Theory    |
-| Discrete Mathematics(+1)    |
-| Cryptography(2)    | `<crypto.cse>`                        |    [crypto@lobsters,]                             |   [r/crypto,r/cryptography]    |
-| Logic     | `<logic>`                                      |    .....                                          |   [[r/logic(1)]    |
-| 9. Finance & Economics    |
-| Economics    |
-| Finance      | `<finance>`                                 |    [finance@lobsters]    |
-| Money    |
-| Investment    |
-| Bitcoin    |
-| Blockchain    |
-| Bitcoin     | `<bitcoin>`                                |    .....                                          |   [[r/Bitcoin]    |
-| Cryptocurrencies     | `<crypto.fin>`                      |    [cryptocurrencies@lobsters]    |
+|      Subreddit              |   Members  |   Online Members  |  Age(yy:mm)   | Restricted |
+|      ---------              |   -------  |   --------------  |  ----------   | --------- |
+| r/distributed               |    1.2 K    |        2         |       11.6    |    **YES**    |                                           
+| r/datastructures            |    3.1 K    |        3         |        9.4    |    No     |                                           
+| r/freeculture               |    8.6 K    |        5         |        14.5   |    No     |                                           
+| r/noip                      |    2.1 K    |        3         |         7.5   |    No     |                                           
+| r/Agorism                   |    6.9 K    |        5         |        12.0   |    No     |                                           
+| r/freesoftware              |   17.5 K    |        8         |        12.4   |    No     |                                           
+| r/netsec                    |  385.0 K    |      354         |        13.4   |    No     |                                           
+| r/torrents                  |  141.0 K    |      309         |        12.8   |    No     |                                           
+| r/COPYRIGHT                 |    4.0 K    |       20         |        11.10  |    No     |                                           
+| r/TrueReddit                |   484.0 K   |      310         |        11.4   |    No     |                                           
+| r/privacy                   |   984.0 K   |    1400          |        12.4   |    No     |                                           
+| r/Economics                 |   897.0 K   |    1400          |        12.8   |    No     |                                           
+| r/economy                   |   215.0 K   |     321          |        12.6   |    No     |                                           
+| r/business                  |   571.0 K   |    1300          |        13.0   |    No     |                                           
+| r/philosophy                | 15100.0 K   |    1300          |        12.8   |    No     |                                           
+| r/marketing                 |   291.0 K   |     822          |        12.6   |    No     |                                           
+| r/scifi                     |  1900.0 K   |     500          |        12.8   |    No     |                                           
+| r/books                     | 18500.0 K   |    3600          |        12.8   |    No     |                                           
+| r/bookclub                  |   104.0 K   |      25          |        12.1   |    No     |                                           
+| r/writing                   |  1400.0 K   |    1100          |        12.8   |    No     |                                           
+| r/wikipedia                 |   399.0 K   |     285          |        12.8   |    No     |                                           
+| r/blog                      | 17900.0 K   |     115          |        12.8   |    No     |                                           
+| r/environment               |   700.0 K   |     710          |        12.8   |    No     |                                           
+| r/finance                   |   409.0 K   |     230          |        12.5   |    No     |                                           
+| r/Health                    |  1200.0 K   |     217          |        12.8   |    No     |                                           
+| r/startups                  |   490.0 K   |     444          |        12.8   |    No     |                                           
+| r/Entrepreneur              |   813.0 K   |    1700          |        12.0   |    No     |                                           
+| r/geek                      |   586.0 K   |     101          |        12.8   |    No     |                                           
+| r/skeptic                   |   147.0 K   |     141          |        12.7   |    No     |                                           
+| r/AskHistorians             |  1300.0 K   |    3500          |         9.1  |    No     |                                           
+| r/history                   | 15100.0 K   |    1800          |        12.8  |    No     |                                           
+| r/AskEngineers              |   198.0 K   |    1400          |         9.6  |    No     |                                           
+| r/EngineeringStudents       |   299.0 K   |    1100          |         9.3  |    No     |                                           
+| r/engineering               |   329.0 K   |     878          |        12.6  |    No     |                                           
+| r/LearnEngineering          |     2.6 K   |      44          |         2.0  |    No     |                                           
+| r/FluidMechanics            |     6.4 K   |      44          |         5.4  |    No     |                                           
+| r/MechanicalEngineering     |    46.4 K   |      43          |         9.7  |    No     |                                           
+| r/aerospace                 |    56.0 K   |      31          |        12.2  |    No     |                                           
+| r/space                     | 17400.0 K   |    3600          |        12.8  |    No     |                                           
+| r/aviation                  |   693.0 K   |     980          |        12.4  |    No     |                                           
+| r/rocketry                  |    30.1 K   |      46          |        12.9  |    No     |                                           
+| r/nasa                      |  1400.0 K   |     185          |        12.2  |    No     |                                           
+| r/spacex                    |   583.0 K   |     906          |         9.1  |    No     |                                           
+| r/aerodynamics              |    25.4 K   |       4          |         6.6  |    No     |                                           
+| r/science                   | 25100.0 K   |    9300          |         14.0 |    No     |                                           
+| r/StructuralEngineering     |    10.0 K   |      46          |          8.5 |    No     |                                           
+| r/askscience                | 19700.0 K   |    5900          |         12.0 |    No     |                                           
+| r/AskPhysics                |    66.9 K   |     272          |          9.0 |    No     |                                           
+| r/biology                   |  2000.0 K   |     417          |         12.6 |    No     |                                           
+| r/Physics                   |  1400.0 K   |     434          |         12.6 |    No     |                                           
+| r/electronics               |   205.0 K   |     433          |         12.5 |    No     |                                           
+| r/ECE                       |    89.6 K   |     103          |         11.1 |    No     |                                           
+| r/AskElectronics            |   124.0 K   |     552          |          9.6 |    No     |                                           
+| r/arduino                   |   249.0 K   |     428          |         12.2 |    No     |                                           
+| r/robotics                  |   126.0 K   |     160          |         12.8 |    No     |                                           
+| r/3Dprinting                |   540.0 K   |    3500          |         10.6 |    No     |                                           
+| r/ElectricalEngineering     |    74.6 K   |     168          |          9.5 |    No     |                                           
+| r/ChemicalEngineering       |    52.9 K   |     107          |         11.7 |    No     |                                           
+| r/chemistry                 |  1200.0 K   |     517          |         12.6 |    No     |                                           
+| r/learnmachinelearning      |   187.0 K   |     290          |          4.7 |    No     |                                           
+| r/energy                    |    99.1 K   |     114          |         12.7 |    No     |                                           
+| r/freelance                 |   167.0 K   |     149          |         12.5 |    No     |                                           
+| r/digitalnomad              |   940.0 K   |     197          |         11.0 |    No     |                                           
+| r/forhire                   |   197.0 K   |     355          |         11.4 |    No     |                                           
+| r/Upwork                    |    13.5 K   |      71          |          5.4 |    No     |                                           
+| r/Flipping                  |   180.0 K   |     853          |          7.1 |    No     |                                           
+| r/SEO                       |   143.0 K   |     161          |         12.6 |    No     |                                           
+| r/SEO_Digital_Marketing     |     7.0 K   |       7          |          3.7 |    No     |                                           
+| r/bigseo                    |    64.6 K   |      39          |          7.6 |    No     |                                           
+| r/Accounting                |   189.0 K   |    1100          |         11.5 |    No     |                                           
+| r/personalfinance           | 14200.0 K   |    7100          |         11.7 |    No     |                                           
+| r/androiddev                |   156.0 K   |     406          |         11.2 |    No     |                                           
+| r/iOSProgramming            |    85.7 K   |     234          |         9.10 |    No     |                                           
+| r/iosdev                    |     8.3 K   |       6          |         9.11 |    No     |                                           
+| r/appdev                    |     3.7 K   |       5          |         9.3  |    No     |                                           
+| r/AppDevelopment            |     4.1 K   |       3          |         9.7  |    **YES**     |                                           
+| r/Discretemathematics       |    0.34 K   |       2          |         3.9  |    No     |                                           
+| r/logic                     |    20.2 K   |       9          |        11.6  |    No     |                                           
+| r/computerarchitecture      |    0.74 K   |       1          |        7.10  |    No     |                                            
+| r/Network                   |    10.1 K   |      17          |        11.7  |    No     |                                           
+| r/linux                     |   571.0 K   |     1200         |        12.7  |    No     |                                           
+| r/linuxdev                  |     4.9 K   |        3         |         8.6  |    No     |                                           
+| r/archlinux                 |   152.0 K   |      493         |        11.8  |    No     |                                           
+| r/linuxmasterrace           |   195.0 K   |      296         |         7.0  |    No     |                                           
+| r/linuxquestions            |   156.0 K   |      385         |       10.10  |    No     |                                           
+| r/Ubuntu                    |   158.0 K   |     1500         |       12.8   |    No     |                                           
+| r/Android                   |  2300.0 K   |     4000         |        12.1  |    No     |                                           
+| r/MacOS                     |   113.0 K   |       421        |         10.1 |    No     |                                           
+| r/osx                       |    61.1 K   |       138        |         12.8 |    No     |                                           
+| r/computervision            |    40.1 K   |        83        |         10.9 |    No     |                                           
+| r/opencv                    |    10.3 K   |        28        |         9.3  |    No     |                                           
+| r/ResearchML                |     1.0 K   |         1        |         0.7  |    No     |                                           
+| r/imageprocessing           |     1.0 K   |         5        |        9.10  |    No     |                                           
+| r/dip                       |     1.1 K   |         4        |         9.2  |    No     |                                           
+| r/NLP                       |    12.8 K   |         7        |        11.9  |    No     |                                           
+| r/LanguageTechnology        |    24.9 K   |        35        |        10.6  |    No     |                                           
+| r/textdatamining            |    4.3 K    |         1        |         6.5   |    No     |                                           
+| r/datacleaning              |    4.1 K    |         1        |         6.3   |    No     |                                           
+| r/ArtificialInteligence     |   41.0 K    |         33       |         4.7   |    No     |                                           
+| r/artificial                |   121.0 K   |        1200      |         12.6  |    No     |                                           
+| r/virtualreality            |   184.0 K   |        668       |         11.10 |    No     |                                           
+| r/augmentedreality          |    23.3 K   |         24       |         11.2  |    No     |                                           
+| r/IOT                       |    26.0 K   |         66       |         9.4   |    No     |                                           
+| r/learndatascience          |    3.8 K    |          7       |         5.10  |    No     |                                           
+| r/tableau                   |    35.6 K   |         55       |         8.1   |    No     |                                           
+| r/AskStatistics             |    31.5 K   |          98      |         9.4   |    No     |                                           
+| r/rstats                    |    44.2 K   |         104      |         11.0  |    No     |                                           
+| r/Rlanguage                 |    20.6 K   |          41      |         9.7   |    No     |                                           
+| r/matlab                    |    34.5 K   |          85      |         11.1  |    No     |                                           
+| r/scala                     |    35.4 K   |          75      |         12.8  |    No     |                                           
+| r/scikit_learn              |     2.6 K   |           6      |          6.1  |    No     |                                           
+| r/neuralnetworks            |    14.8 K   |           9      |          7.9  |    No     |                                           
+| r/NeuralNetwork             |    2.8 K    |           3      |          10.0 |    No     |                                           
+| r/deeplearning              |    55.7 K   |           77     |          8.9  |    No     |                                           
+| r/DeepLearningPapers        |    13.2 K   |        10        |          5.3  |    No     |                                           
+| r/deeplearners              |     2.6 K   |        5         |          4.1  |    No     |                                           
+| r/JupyterNotebooks          |     2.4 K   |        3         |           4.7 |    No     |                                           
+| r/kaggle                    |     4.4 K   |        5         |           9.7 |    No     |                                           
+| r/Database                  |    29.1 K   |        22        |          12.5 |    No     |                                           
+| r/apachespark               |     6.3 K   |        9         |          5.2  |    No     |                                           
+| r/hacking                   |  1400.0 K   |        482       |          12.5 |    No     |                                           
+| r/HowToHack                 |    266.0 K  |        1200      |          8.0  |    No     |                                           
+| r/Hacking_Tutorials         |    105.0 K  |        60        |          4.6  |    No     |                                           
+| r/hadoop                    |     6.7 K   |        0         |          11.1 |    No     |                                           
+| r/excel                     |    237.0 K  |        560       |          11.6 |    No     |                                           
+| r/ExcelTips                 |    5.3 K    |         3        |           6.0 |    **YES**     |                                           
+| r/css                       |    74.3 K   |        36        |          12.2 |    No     |                                           
+| r/git                       |    46.8 K   |        80        |          12.5 |    No     |                                           
+| r/github                    |    41.2 K   |        63        |          10.0 |    No     |                                           
+| r/gitlab                    |     7.1 K   |         6        |          6.10 |    No     |                                           
+| r/api                       |     4.0 K   |         4        |          11.0 |    No     |                                           
+| r/virtualization            |    15.9 K   |        17        |          12.8 |    No     |                                           
+| r/vim                       |    116.0 K  |       300        |          12.4 |    No     |                                           
+| r/neovim                    |    15.9 K   |        84        |           6.7 |    No     |                                           
+| r/vim_magic                 |     4.6 K   |         4        |           8.6 |    No     |                                           
+| r/browsers                  |    11.2 K   |        29        |          12.8 |    No     |                                           
+| r/emacs                     |    44.6 K   |        240       |          12.4 |    No     |                                           
+| r/AZURE                     |    53.3 K   |        158       |          10.6 |    No     |                                           
+| r/AWS_cloud                 |     2.6 K   |          3       |           6.7 |    No     |                                           
+| r/azuredevops               |     3.7 K   |          20      |           2.0 |    No     |                                           
+| r/kubernetes                |    49.2 K   |         170      |           6.0 |    No     |                                           
+| r/k8s                       |     1.9 K   |            6     |           4.0 |    No     |                                           
+| r/devops                    |    163.0 K  |         390      |          10.1 |    No     |                                           
+| r/docker                    |    109.0 K  |         224      |           7.2 |    No     |                                           
+| r/GCP                       |      1.7 K  |          3       |          11.8 |    No     |                                           
+| r/softwaretesting           |     11.0 K  |          20      |          10.3 |    No     |                                           
+| r/UI_Design                 |     39.9 K  |          57      |          8.10 |    No     |                                           
+| r/UI_programming            |      2.5 K  |          3       |          11.6 |    No     |                                           
+| r/UXDesign                  |     36.0 K  |         36       |           8.4 |    No     |                                           
+| r/UXResearch                |     12.0 K  |         24       |          5.10 |    No     |                                           
+| r/UX_Design                 |      2.7 K  |          1       |           9.4 |    No     |                                           
+| r/interviewpreparations     |     3.5 K   |          2       |           4.7 |   **YES** |                                           
+| r/csinterviewproblems       |     3.5 K   |          4       |           4.9 |    No     |                                           
+| r/interviews                |     9.9 K   |         21       |          12.3 |    No     |                                           
+| r/cognitivescience          |    10.5 K   |          1       |          10.6 |    No     |                                            
+| r/SaaS                      |    12.2 K   |          20      |          12.3 |    No     |                                           
+| r/SideProject               |    60.7 K   |        103       |           7.7 |    No     |                                           
+| r/medicine                  |   321.0 K   |        900       |          12.6 |    No     |                                           
+| r/neuroscience              |    83.9 K   |         60       |          11.3 |    No     |                                            
+| r/geology                   |   100.0 K   |        180       |          11.7 |    No     |                                           
+| r/DifferentialEquations     |    1.2 K    |          0       |           6.7 |    No     |                                           
+| r/calculus                  |    40.1 K   |         45       |          11.4 |    No     |                                           
+| r/Algebra                   |     3.6 K   |         10       |          11.6 |    No     |                                           
+| r/GAMETHEORY                |    13.7 K   |          60      |          11.1 |    No     |                                           
+| r/GraphTheory               |     1.0 K   |          1       |           8.0 |    No     |                                           
+| r/cpp_questions             |    35.5 K   |         120      |           8.8 |    No     |                                           
+| r/invest                    |    10.6 K   |         5        |          12.0 |    No     |                                           
+| r/CryptoCurrency            |  1100.0 K   |       2600       |           7.6 |    No     |                                           
+| r/BitcoinBeginners          |    114.0 K  |        450       |           7.6 |    No     |                                           
+| r/bitcointrading            |    2.6 K    |         20       |          7.10 |    No     |                                           
+| r/BitcoinDiscussion         |    5.3 K    |         16       |           7.5 |    No     |                                           
+| r/investing                 |  1200.0 K   |       300        |          12.6 |    No     |                                           
+| r/BlockchainStartups        |    9.2 K    |        5         |           4.1 |    No     |                                           
+| r/windows                   |    173.0 K  |       500        |          12.8 |    No     |                                           
+| r/golang                    |    125.0 K  |       400        |         10.10 |    No     |                                           
+| r/rust                      |    113.0 K  |       700        |          9.10 |    No     |                                           
+| r/HTML                      |    25.8 K   |        20        |          11.0 |    No     |                                           
+| r/html5                     |    34.6 K   |         7        |          11.0 |    No     |                                           
+| r/quantum                   |    32.1 K   |        20        |          11.0 |    No     |                                           
+| r/QuantumPhysics            |     6.9 K   |        10        |          9.6 |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+
 
 
