@@ -42,6 +42,7 @@ SYNC_TRIED_CATCH_EXCEPTION_ERR = 0                              # Tried-Catch er
 ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_OK = 0              # Item finally put in with content
 ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_NO_CONTENT = 0      # Item finally put in with Title as content
 
+BOYS_STILL_PLAYING = 0                                    # Items sent for async which are not returned yet
 
 """ ============================================================================================== text_action functions:START ================================"""
 extractor = URLExtract()
@@ -91,7 +92,7 @@ async def fetchWithRetry(row, session):
     sleep_time = 2
     TIMEOUT = 60
 
-    global ASYNC_ITEM_SCRAPED, ASYNC_URL_UNREACHABLE
+    global ASYNC_ITEM_SCRAPED, ASYNC_URL_UNREACHABLE, BOYS_STILL_PLAYING
     
     t1 = time.time()
     while retry_cnt > 0 and status != 200:
@@ -101,6 +102,7 @@ async def fetchWithRetry(row, session):
             status = response.status
             if( status == 200 and len(res) != 0):
                 ASYNC_ITEM_SCRAPED += 1
+                BOYS_STILL_PLAYING -= 1
                 pc.printSucc("\t\t <ID = {}><src= {} > ============== #ASYNC_Scraped ....... \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],round((round((time.time()-t1),5)),5),time.strftime("%H:%M:%S", time.localtime())))
                 row_list = list(row)
                 row_list[13] = res
@@ -154,6 +156,7 @@ async def asyncFetchAll(ts):
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_ASYNC: DB Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
 
+    global BOYS_STILL_PLAYING
     socket.gethostbyname("")
     connector = TCPConnector(limit=CONNTECTION_COUNT,family=socket.AF_INET,verify_ssl=False)
     # connector = TCPConnector(limit=CONNTECTION_COUNT)
@@ -179,6 +182,10 @@ async def asyncFetchAll(ts):
                 c.execute(q,d)
                 pc.printSucc(" \t\t ============== <ID= {} ><{}> [Direct] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
             elif(row[5] and row[6]): # else ignore the entry
+                BOYS_STILL_PLAYING += 1
+                if BOYS_STILL_PLAYING % 50 == 0:
+                    pc.printMsg("\t\t [ASYNC_SCRAPING] sleeping for 2 sec...zzzzzzzzz....... \t BOYS_STILL_PLAYING = {}".format(BOYS_STILL_PLAYING))
+                    time.sleep(2)
                 task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
                 tasks.append(task)
 
@@ -216,6 +223,7 @@ def RunSync(ts):
     startTime = time.time()
 
     global SYNC_ITEM_SCRAPED,SYNC_URL_UNREACHABLE,SYNC_TRIED_CATCH_EXCEPTION_ERR
+    blob_pages = ['.jpg', '.png', '.gif','.png' ,'.mp3', '.mp4']
 
     q = "select * from " + wc_table
     rows_head = c.execute(q)
@@ -224,22 +232,25 @@ def RunSync(ts):
         t1 = time.time()
         if(len(row[13]) == 0):
             try:
-                response = web_requests.hitGetWithRetry(row[6],'',False ,2,0.5,30)
-                if response != -1:
-                    SYNC_ITEM_SCRAPED += 1
-                    res = response.text 
-                    row_list = list(row)
-                    row_list[13] = res
-                    row = tuple(row_list)
-                        
-                    pc.printWarn("\t <ID = {}><src= {} > [SYNCED SCRAPING] Done................ \t\t TimeTaken = {} \t NOW: {} ".format(row[0],row[1],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
-                    q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
-                    d = (row[13],row[0],row[1])
-                    c.execute(q,d)
-                    pc.printSucc(" \t\t ============== <ID= {} ><{}> [SYNCED SCRAPING] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+                if row[6][-4:] not in blob_pages:
+                    response = web_requests.hitGetWithRetry(row[6],'',False ,2,0.5,30)
+                    if response != -1:
+                        SYNC_ITEM_SCRAPED += 1
+                        res = response.text 
+                        row_list = list(row)
+                        row_list[13] = res
+                        row = tuple(row_list)
+                            
+                        pc.printWarn("\t <ID = {}><src= {} > [SYNCED SCRAPING] Done................ \t\t TimeTaken = {} \t NOW: {} ".format(row[0],row[1],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
+                        q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+                        d = (row[13],row[0],row[1])
+                        c.execute(q,d)
+                        pc.printSucc(" \t\t ============== <ID= {} ><{}> [SYNCED SCRAPING] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+                    else:
+                        SYNC_URL_UNREACHABLE += 1
+                        pc.printErr("\t\txxxxx SKIPPING... for ID: {} Totally unable to hit url even in SYNC: {}  \t\t TimeTaken = {} \t NOW: {} ".format(row[0],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
                 else:
-                    SYNC_URL_UNREACHABLE += 1
-                    pc.printErr("\t\txxxxx SKIPPING... for ID: {} Totally unable to hit url even in SYNC: {}  \t\t TimeTaken = {} \t NOW: {} ".format(row[0],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
+                    pc.printMsg("\t\txxxxx SKIPPING... for ID: {} Found BLOB page SYNC. Will use title. URL: {}  \t\t TimeTaken = {} \t NOW: {} ".format(row[0],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
             except Exception as e:
                 SYNC_TRIED_CATCH_EXCEPTION_ERR += 1
                 pc.printErr("\t======= XXXXXXXXXXXXXX ======>> <ID = {}><src= {} > NOW = {} , \t\t TimeTaken = {} ....Sync Scraping failed too.Will use Title for content... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()),round((time.time()-t1),5) ,e))
@@ -294,20 +305,20 @@ def ContentFormatting(ts):
         if(len(row[13]) != 0):
             ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_OK += 1
             row_list = list(row)
-            raw_content = row_list[13]
-            content = text_actions.contentfromhtml(raw_content)
-            clean_content = clean_text(content)
-            weighted_content = text_actions.weightedcontentfromhtml(raw_content) 
-            clean_weighted_content = clean_text(weighted_content)
-            url_string_text = getUrlString(raw_content)
             clean_title = clean_text(row_list[5])
-            
-            row_list[13] = clean_content
-            if len(row_list[13]) == 0:
+            if len(row_list[13]) == 0 :
                 pc.printWarn("\t\t\t\t --------- No content found on cleaning, using Title as Content :(")
                 row_list[13] = clean_title
-
-            row_list[12] = clean_weighted_content + " " + url_string_text + " " + clean_title
+                row_list[12] = clean_title
+            else:
+                raw_content = row_list[13]
+                content = text_actions.contentfromhtml(raw_content)
+                clean_content = clean_text(content)
+                weighted_content = text_actions.weightedcontentfromhtml(raw_content) 
+                clean_weighted_content = clean_text(weighted_content)
+                url_string_text = getUrlString(raw_content)
+                row_list[13] = clean_content
+                row_list[12] = clean_weighted_content + " " + url_string_text + " " + clean_title
 
             row = tuple(row_list)
                 
@@ -361,17 +372,17 @@ def run(ts):
     startTime = time.time()
 
     # """ scrape content in async """
-    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts)))
-    time.sleep(10)
+    # asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts)))
+    # time.sleep(5)
 
     """ scrape remaining items with sync """
-    RunSync(ts) 
+    # RunSync(ts) 
 
     """ formatting everything in the end-done in sync """
-    ContentFormatting(ts) #TODO: see if it can be made async-----------------taking 30 mins
+    ContentFormatting(ts) 
 
     endTime = time.time()
-    pc.printSucc("\n****************** Content Scraping is Complete , TABLE: {} ********************".format(wc_table))   
+    pc.printSucc("\n\n\n\n\n****************** Content Scraping is Complete , TABLE: {} ********************".format(wc_table))   
     pc.printMsg("\n--------------------------------------------------------------------------------------------------------------------------------")   
     pc.printMsg("|\t\t IN : TOTAL_ITEMS_TO_BE_FETCHED                         [X] (A+B+C+D=X)\t  | \t\t {} \t\t|".format(TOTAL_ITEMS_TO_BE_FETCHED)) 
     pc.printMsg("|\t\t OUT : ASYNC_ITEM_SCRAPED                               [A]            \t  | \t\t {} \t\t|".format(ASYNC_ITEM_SCRAPED)) 
@@ -385,4 +396,4 @@ def run(ts):
     pc.printErr("|\t\t SYNC_URL_UNREACHABLE                                                \t  | \t\t {} \t\t|".format(SYNC_URL_UNREACHABLE)) 
     pc.printErr("|\t\t SYNC_TRIED_CATCH_EXCEPTION_ERR                                      \t  | \t\t {} \t\t|".format(SYNC_TRIED_CATCH_EXCEPTION_ERR)) 
     pc.printWarn('\t\t\t\t------------------------->>>>>> [ Semaphore Count = {}, Tcp connector limit ={} ]\n'.format(SEMAPHORE_COUNT,CONNTECTION_COUNT))
-    pc.printWarn('\t\t\t\t------------------------->>>>>> [ Time Taken(min) = {} ]\n'.format(round((endTime - startTime),5)/60))
+    pc.printWarn('\t\t\t\t------------------------->>>>>> [ Time Taken(min) = {} ]\n\n\n\n\n\n'.format(round((endTime - startTime),5)/60))

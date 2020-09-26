@@ -1,3 +1,11 @@
+import time
+import json
+from datetime import datetime
+import logging
+
+import sqlite3
+from utilities import print_in_color as pc
+
 from utilities import tree_printer_pretty
 
 """
@@ -14,9 +22,15 @@ class Node(object):
     def add_child(self, obj):
         self.children.append(obj)
 
-
+# list of all the leaf nodes only
 tags_names = [
-    "CSE",
+    "cse",
+    "prog",
+    "career",
+    "social",
+    "business",
+    "sme",
+    "fin_eco",
     "gen_cse",
     "tcse",
     "distribut_sys",
@@ -55,7 +69,6 @@ tags_names = [
     "gen_ml",
     "ann",
     "dl",
-    "ds",
     "gen_ds",
     "database",
     "dataset",
@@ -66,21 +79,20 @@ tags_names = [
     "scala",
     "scikit",
     "jupyternote",
+    "de",
     "kaggle",
     "datacleaning",
     "nlp",
-    "de",
     "database",
     "bigdata",
     "gen_bigdata",
     "spark",
     "hadoop",
-    "data_visn",
+    # "data_visn",
     "gen_datavis",
     "tableau",
     "excel",
     "ai",
-    "prog",
     "gen_prog",
     "lng_n_frmwrk",
     "lng",
@@ -127,10 +139,10 @@ tags_names = [
     "vim",
     "emacs",
     "appdev",
+    "devops",
     "gen_appdev",
     "iosdev",
     "androiddev",
-    "devops",
     "gen_devops",
     "aws",
     "azure",
@@ -143,7 +155,6 @@ tags_names = [
     "websec",
     "privacy",
     "crypto_cse",
-    "design",
     "graphix",
     "compgphix",
     "webdes",
@@ -159,15 +170,12 @@ tags_names = [
     "codingchlg",
     "opensrc",
     "freesoft",
-    "os",
-    "prog_query",
-    "career",
+    "prog_query",       
     "jobs",
     "carr_query",
     "interviewprep",
     "interviewexp",
     "codingchlg",
-    "social",
     "technews",
     "tech_discuss",
     "tech_query",
@@ -177,12 +185,10 @@ tags_names = [
     "tech_law",
     "cogsci",
     "torrent",
-    "read_n_write",
     "book",
     "write",
     "phil",
     "history",
-    "business",
     "gen_business",
     "startup",
     "freelance",
@@ -191,7 +197,6 @@ tags_names = [
     "market",
     "seo",
     "opensrc",
-    "science",
     "gen_science",
     "sci_query",
     "chemistry",
@@ -201,13 +206,11 @@ tags_names = [
     "geology",
     "env",
     "health",
-    "physics",
     "gen_physics",
     "astro",
     "quantum",
     "nuclear",
     "fluid_mech",
-    "engg",
     "gen_engg",
     "engg_ece",
     "engg_electric",
@@ -218,7 +221,6 @@ tags_names = [
     "engg_struct",
     "robotics",
     "threedprint",
-    "maths",
     "gen_maths",
     "calculus",
     "algebra",
@@ -228,39 +230,460 @@ tags_names = [
     "disco",
     "statistics",
     "crypto_cse",
-    "fin_eco",
     "economics",
     "finance",
     "accounting",
     "invest",
-    "blockchain",
     "gen_blockchain",
     "crypto_fin",
     "bitcoin",
 ]
 
+# create all the nodes(leaf+parent) in tree
+
+root_n = Node("root")
+cse_n = Node("cse")
+prog_n = Node("prog")
+career_n = Node("career")
+social_n = Node("social")
+business_n = Node("business")
+sme_n = Node("sme")
+fin_eco_n = Node("fin_eco")
+gen_cse_n = Node("gen_cse")
+tcse_n = Node("tcse")
+distribut_sys_n = Node("distribut_sys")
+data_struct_n = Node("data_struct")
+algo_dsa_n = Node("algo_dsa")
+gametheory_n = Node("gametheory")
+disco_n = Node("disco")
+crypto_cse_n = Node("crypto_cse")
+hardware_n = Node("hardware")
+plt_cse_n = Node("plt_cse")
+frmlmeth_cse_n = Node("frmlmeth_cse")
+logic_n = Node("logic")
+ce_n = Node("ce")
+comparch_n = Node("comparch")
+compiler_n = Node("compiler")
+network_n = Node("network")
+revengg_n = Node("revengg")
+os_n = Node("os")
+osdev_n = Node("osdev")
+ios_n = Node("ios")
+android_n = Node("android")
+mac_n = Node("mac")
+windows_n = Node("windows")
+linux_n = Node("linux")
+archlinux_n = Node("archlinux")
+unix_n = Node("unix")
+csa_n = Node("csa")
+hacking_n = Node("hacking")
+robotics_n = Node("robotics")
+arvr_n = Node("arvr")
+iot_n = Node("iot")
+compvision_n = Node("compvision")
+imgprocess_n = Node("imgprocess")
+datamine_n = Node("datamine")
+ml_n = Node("ml")
+gen_ml_n = Node("gen_ml")
+ann_n = Node("ann")
+dl_n = Node("dl")
+ds_n = Node("ds")
+gen_ds_n = Node("gen_ds")
+database_n = Node("database")
+dataset_n = Node("dataset")
+statistics_n = Node("statistics")
+rlang_n = Node("rlang")
+matlab_n = Node("matlab")
+kaggle_n = Node("kaggle")
+datacleaning_n = Node("datacleaning")
+nlp_n = Node("nlp")
+ai_n = Node("ai")
+ds_tool_n = Node("ds_tool")
+scala_n = Node("scala")
+scikit_n = Node("scikit")
+jupyternote_n = Node("jupyternote")
+de_n = Node("de")
+bigdata_n = Node("bigdata")
+gen_bigdata_n = Node("gen_bigdata")
+spark_n = Node("spark")
+hadoop_n = Node("hadoop")
+data_visn_n = Node("data_visn")
+gen_datavis_n = Node("gen_datavis")
+tableau_n = Node("tableau")
+excel_n = Node("excel")
+gen_prog_n = Node("gen_prog")
+db_n = Node("db")
+webd_n = Node("webd")
+sdt_n = Node("sdt")
+system_n = Node("system")
+devpract_n = Node("devpract")
+api_n = Node("api")
+gamedev_n = Node("gamedev")
+codingchlg_n = Node("codingchlg")
+opensrc_n = Node("opensrc")
+freesoft_n = Node("freesoft")
+lng_n_frmwrk_n = Node("lng_n_frmwrk")
+lng_n = Node("lng")
+proglng_n = Node("proglng")
+plt_n = Node("plt")
+asm_n = Node("asm")
+c_n = Node("c")
+cpp_n = Node("cpp")
+golang_n = Node("golang")
+python_n = Node("python")
+scala_n = Node("scala")
+elixir_n = Node("elixir")
+elm_n = Node("elm")
+erlang_n = Node("erlang")
+fortran_n = Node("fortran")
+haskell_n = Node("haskell")
+java_n = Node("java")
+js_n = Node("js")
+lisp_n = Node("lisp")
+perl_n = Node("perl")
+php_n = Node("php")
+ruby_n = Node("ruby")
+rust_n = Node("rust")
+dotnet_n = Node("dotnet")
+kotlin_n = Node("kotlin")
+html_n = Node("html")
+css_n = Node("css")
+frmwrk_n = Node("frmwrk")
+ror_n = Node("ror")
+django_n = Node("django")
+reactjs_n = Node("reactjs")
+nodejs_n = Node("nodejs")
+prog_tools_n = Node("prog_tools")
+git_n = Node("git")
+virtualn_n = Node("virtualn")
+browser_n = Node("browser")
+aws_n = Node("aws")
+azure_n = Node("azure")
+k8s_n = Node("k8s")
+docker_n = Node("docker")
+gcp_n = Node("gcp")
+txt_edit_n = Node("txt_edit")
+editor_n = Node("editor")
+vim_n = Node("vim")
+emacs_n = Node("emacs")
+appdev_n = Node("appdev")
+gen_appdev_n = Node("gen_appdev")
+iosdev_n = Node("iosdev")
+androiddev_n = Node("androiddev")
+devops_n = Node("devops")
+gen_devops_n = Node("gen_devops")
+security_n = Node("security")
+infosec_n = Node("infosec")
+compsec_n = Node("compsec")
+websec_n = Node("websec")
+privacy_n = Node("privacy")
+crypto_cse_n = Node("crypto_cse")
+design_n = Node("design")
+graphix_n = Node("graphix")
+compgphix_n = Node("compgphix")
+webdes_n = Node("webdes")
+ui_n = Node("ui")
+ux_n = Node("ux")
+prog_query_n = Node("prog_query")
+jobs_n = Node("jobs")
+carr_query_n = Node("carr_query")
+interviewprep_n = Node("interviewprep")
+interviewexp_n = Node("interviewexp")
+technews_n = Node("technews")
+tech_discuss_n = Node("tech_discuss")
+tech_query_n = Node("tech_query")
+community_n = Node("community")
+person_n = Node("person")
+tech_blog_n = Node("tech_blog")
+tech_law_n = Node("tech_law")
+cogsci_n = Node("cogsci")
+torrent_n = Node("torrent")
+read_n_write_n = Node("read_n_write")
+book_n = Node("book")
+write_n = Node("write")
+phil_n = Node("phil")
+history_n = Node("history")
+gen_business_n = Node("gen_business")
+startup_n = Node("startup")
+freelance_n = Node("freelance")
+saas_n = Node("saas")
+sideproj_n = Node("sideproj")
+market_n = Node("market")
+seo_n = Node("seo")
+science_n = Node("science")
+gen_science_n = Node("gen_science")
+sci_query_n = Node("sci_query")
+chemistry_n = Node("chemistry")
+biology_n = Node("biology")
+medicine_n = Node("medicine")
+neuroscience_n = Node("neuroscience")
+geology_n = Node("geology")
+env_n = Node("env")
+health_n = Node("health")
+physics_n = Node("physics")
+gen_physics_n = Node("gen_physics")
+astro_n = Node("astro")
+quantum_n = Node("quantum")
+nuclear_n = Node("nuclear")
+fluid_mech_n = Node("fluid_mech")
+engg_n = Node("engg")
+gen_engg_n = Node("gen_engg")
+engg_ece_n = Node("engg_ece")
+engg_electric_n = Node("engg_electric")
+engg_query_n = Node("engg_query")
+engg_mech_n = Node("engg_mech")
+engg_student_n = Node("engg_student")
+rocket_n = Node("rocket")
+engg_struct_n = Node("engg_struct")
+threedprint_n = Node("threedprint")
+maths_n = Node("maths")
+gen_maths_n = Node("gen_maths")
+calculus_n = Node("calculus")
+algebra_n = Node("algebra")
+graphtheory_n = Node("graphtheory")
+economics_n = Node("economics")
+finance_n = Node("finance")
+accounting_n = Node("accounting")
+invest_n = Node("invest")
+blockchain_n = Node("blockchain")
+gen_blockchain_n = Node("gen_blockchain")
+crypto_fin_n = Node("crypto_fin")
+bitcoin_n = Node("bitcoin")
+
+
+# make dictironay to map strings to above created roots
+node_dict = {
+    "root"   : root_n,
+    "cse"   : cse_n,
+    "prog"   : prog_n,
+    "career"   : career_n,
+    "social"   : social_n,
+    "business"   : business_n,
+    "sme"   : sme_n,
+    "fin_eco"   : fin_eco_n,
+    "gen_cse"   : gen_cse_n,
+    "tcse"   : tcse_n,
+    "distribut_sys"   : distribut_sys_n,
+    "data_struct"   : data_struct_n,
+    "algo_dsa"   : algo_dsa_n,
+    "gametheory"   : gametheory_n,
+    "disco"   : disco_n,
+    "crypto_cse"   : crypto_cse_n,
+    "hardware"   : hardware_n,
+    "plt_cse"   : plt_cse_n,
+    "frmlmeth_cse"   : frmlmeth_cse_n,
+    "logic"   : logic_n,
+    "ce"   : ce_n,
+    "comparch"   : comparch_n,
+    "compiler"   : compiler_n,
+    "network"   : network_n,
+    "revengg"   : revengg_n,
+    "os"   : os_n,
+    "osdev"   : osdev_n,
+    "ios"   : ios_n,
+    "android"   : android_n,
+    "mac"   : mac_n,
+    "windows"   : windows_n,
+    "linux"   : linux_n,
+    "archlinux"   : archlinux_n,
+    "unix"   : unix_n,
+    "csa"   : csa_n,
+    "hacking"   : hacking_n,
+    "robotics"   : robotics_n,
+    "arvr"   : arvr_n,
+    "iot"   : iot_n,
+    "compvision"   : compvision_n,
+    "imgprocess"   : imgprocess_n,
+    "datamine"   : datamine_n,
+    "ml"   : ml_n,
+    "gen_ml"   : gen_ml_n,
+    "ann"   : ann_n,
+    "dl"   : dl_n,
+    "ds"   : ds_n,
+    "gen_ds"   : gen_ds_n,
+    "database"   : database_n,
+    "dataset"   : dataset_n,
+    "statistics"   : statistics_n,
+    "rlang"   : rlang_n,
+    "matlab"   : matlab_n,
+    "kaggle"   : kaggle_n,
+    "datacleaning"   : datacleaning_n,
+    "nlp"   : nlp_n,
+    "ai"   : ai_n,
+    "ds_tool"   : ds_tool_n,
+    "scala"   : scala_n,
+    "scikit"   : scikit_n,
+    "jupyternote"   : jupyternote_n,
+    "de"   : de_n,
+    "bigdata"   : bigdata_n,
+    "gen_bigdata"   : gen_bigdata_n,
+    "spark"   : spark_n,
+    "hadoop"   : hadoop_n,
+    "data_visn"    : data_visn_n,
+    "gen_datavis"    : gen_datavis_n,
+    "tableau"    : tableau_n,
+    "excel"    : excel_n,
+    "gen_prog"   : gen_prog_n,
+    "db"   : db_n,
+    "webd"   : webd_n,
+    "sdt"   : sdt_n,
+    "system"   : system_n,
+    "devpract"   : devpract_n,
+    "api"   : api_n,
+    "gamedev"   : gamedev_n,
+    "codingchlg"   : codingchlg_n,
+    "opensrc"   : opensrc_n,
+    "freesoft"   : freesoft_n,
+    "lng_n_frmwrk"   : lng_n_frmwrk_n,
+    "lng"   : lng_n,
+    "proglng"   : proglng_n,
+    "plt"   : plt_n,
+    "asm"   : asm_n,
+    "c"   : c_n,
+    "cpp"   : cpp_n,
+    "golang"   : golang_n,
+    "python"   : python_n,
+    "scala"   : scala_n,
+    "elixir"   : elixir_n,
+    "elm"   : elm_n,
+    "erlang"   : erlang_n,
+    "fortran"   : fortran_n,
+    "haskell"   : haskell_n,
+    "java"   : java_n,
+    "js"   : js_n,
+    "lisp"   : lisp_n,
+    "perl"   : perl_n,
+    "php"   : php_n,
+    "ruby"   : ruby_n,
+    "rust"   : rust_n,
+    "dotnet"   : dotnet_n,
+    "kotlin"   : kotlin_n,
+    "html"   : html_n,
+    "css"   : css_n,
+    "frmwrk"   : frmwrk_n,
+    "ror"   : ror_n,
+    "django"   : django_n,
+    "reactjs"   : reactjs_n,
+    "nodejs"   : nodejs_n,
+    "prog_tools"   : prog_tools_n,
+    "git"   : git_n,
+    "virtualn"   : virtualn_n,
+    "browser"   : browser_n,
+    "aws"   : aws_n,
+    "azure"   : azure_n,
+    "k8s"   : k8s_n,
+    "docker"   : docker_n,
+    "gcp"   : gcp_n,
+    "txt_edit"   : txt_edit_n,
+    "editor"   : editor_n,
+    "vim"   : vim_n,
+    "emacs"   : emacs_n,
+    "appdev"   : appdev_n,
+    "gen_appdev"   : gen_appdev_n,
+    "iosdev"   : iosdev_n,
+    "androiddev"   : androiddev_n,
+    "devops"   : devops_n,
+    "gen_devops"   : gen_devops_n,
+    "security"   : security_n,
+    "infosec"   : infosec_n,
+    "compsec"   : compsec_n,
+    "websec"   : websec_n,
+    "privacy"   : privacy_n,
+    "crypto_cse"   : crypto_cse_n,
+    "design"   : design_n,
+    "graphix"   : graphix_n,
+    "compgphix"   : compgphix_n,
+    "webdes"   : webdes_n,
+    "ui"   : ui_n,
+    "ux"   : ux_n,
+    "jobs"   : jobs_n,
+    "prog_query" : prog_query_n,
+    "carr_query"   : carr_query_n,
+    "interviewprep"   : interviewprep_n,
+    "interviewexp"   : interviewexp_n,
+    "technews"   : technews_n,
+    "tech_discuss"   : tech_discuss_n,
+    "tech_query"   : tech_query_n,
+    "community"   : community_n,
+    "person"   : person_n,
+    "tech_blog"   : tech_blog_n,
+    "tech_law"   : tech_law_n,
+    "cogsci"   : cogsci_n,
+    "torrent"   : torrent_n,
+    "read_n_write"   : read_n_write_n,
+    "book"   : book_n,
+    "write"   : write_n,
+    "phil"   : phil_n,
+    "history"   : history_n,
+    "gen_business"   : gen_business_n,
+    "startup"   : startup_n,
+    "freelance"   : freelance_n,
+    "saas"   : saas_n,
+    "sideproj"   : sideproj_n,
+    "market"   : market_n,
+    "seo"   : seo_n,
+    "science"   : science_n,
+    "gen_science"   : gen_science_n,
+    "sci_query"   : sci_query_n,
+    "chemistry"   : chemistry_n,
+    "biology"   : biology_n,
+    "medicine"   : medicine_n,
+    "neuroscience"   : neuroscience_n,
+    "geology"   : geology_n,
+    "env"   : env_n,
+    "health"   : health_n,
+    "physics"   : physics_n,
+    "gen_physics"   : gen_physics_n,
+    "astro"   : astro_n,
+    "quantum"   : quantum_n,
+    "nuclear"   : nuclear_n,
+    "fluid_mech"   : fluid_mech_n,
+    "engg"   : engg_n,
+    "gen_engg"   : gen_engg_n,
+    "engg_ece"   : engg_ece_n,
+    "engg_electric"   : engg_electric_n,
+    "engg_query"   : engg_query_n,
+    "engg_mech"   : engg_mech_n,
+    "engg_student"   : engg_student_n,
+    "rocket"   : rocket_n,
+    "engg_struct"   : engg_struct_n,
+    "threedprint"   : threedprint_n,
+    "maths"   : maths_n,
+    "gen_maths"   : gen_maths_n,
+    "calculus"   : calculus_n,
+    "algebra"   : algebra_n,
+    "graphtheory"   : graphtheory_n,
+    "economics"   : economics_n,
+    "finance"   : finance_n,
+    "accounting"   : accounting_n,
+    "invest"   : invest_n,
+    "blockchain"   : blockchain_n,
+    "gen_blockchain"   : gen_blockchain_n,
+    "crypto_fin"   : crypto_fin_n,
+    "bitcoin"   : bitcoin_n,
+}
 
 
 def TreeGermination():
 
     """  Populate Root node """
-    root = Node("Root",isTag=False)
+    root_n.isTag=False
 
-    cse_n            = Node("cse",isTag=False)
-    prog_n           = Node("prog",isTag=False)
-    career_n         = Node("career",isTag=False)
-    social_n         = Node("social",isTag=False)
-    business_n       = Node("business",isTag=False)
-    sme_n            = Node("sme",isTag=False)
-    fin_eco_n        = Node("fin_eco",isTag=False)
+    cse_n.isTag=False
+    prog_n.isTag=False
+    career_n.isTag=False
+    social_n.isTag=False
+    business_n.isTag=False
+    sme_n.isTag=False
+    fin_eco_n.isTag=False
 
-    root.add_child(cse_n)
-    root.add_child(prog_n)
-    root.add_child(career_n)
-    root.add_child(social_n)
-    root.add_child(business_n)
-    root.add_child(sme_n)
-    root.add_child(fin_eco_n)
+    root_n.add_child(cse_n)
+    root_n.add_child(prog_n)
+    root_n.add_child(career_n)
+    root_n.add_child(social_n)
+    root_n.add_child(business_n)
+    root_n.add_child(sme_n)
+    root_n.add_child(fin_eco_n)
 
     """ Populate CSE node"""
 
@@ -268,19 +691,8 @@ def TreeGermination():
     cse_n.add_child(gencse_n)
 
     """  ----| Populate Theoretical CSE Node"""
-    tcse_n = Node("tcse",isTag=False)
+    tcse_n.isTag=False
     cse_n.add_child(tcse_n)
-
-    distribut_sys_n     =  Node("distribut_sys")
-    data_struct_n       =  Node("data_struct")
-    algo_dsa_n          =  Node("algo_dsa")
-    gametheory_n        =  Node("gametheory")
-    disco_n             =  Node("disco")
-    crypto_cse_n        =  Node("crypto_cse")
-    hardware_n          =  Node("hardware")
-    plt_cse_n           =  Node("plt_cse")
-    frmlmeth_cse_n      =  Node("frmlmeth_cse")
-    logic_n             =  Node("logic")
 
     tcse_n.add_child(distribut_sys_n)    
     tcse_n.add_child(data_struct_n)
@@ -294,13 +706,8 @@ def TreeGermination():
     tcse_n.add_child(logic_n)
 
     """  ----| Populate Computer Engineering Node"""
-    ce_n = Node("ce",isTag=False)
+    ce_n.isTag=False
     cse_n.add_child(ce_n)
-
-    comparch_n          = Node("comparch")    
-    compiler_n          = Node("compiler")
-    network_n           = Node("network")
-    revengg_n           = Node("revengg")
 
     ce_n.add_child(comparch_n)    
     ce_n.add_child(compiler_n)
@@ -308,17 +715,8 @@ def TreeGermination():
     ce_n.add_child(revengg_n)
 
     """  ----|----| Populate Operating Systems Node"""
-    os_n = Node("os",isTag=False)
+    os_n.isTag=False
     ce_n.add_child(os_n)
-
-    osdev_n         = Node("osdev")
-    ios_n           = Node("ios")
-    android_n       = Node("android")
-    mac_n           = Node("mac")
-    windows_n       = Node("windows")
-    linux_n         = Node("linux")
-    archlinux_n     = Node("archlinux")
-    unix_n          = Node("unix")
 
     os_n.add_child(osdev_n)
     os_n.add_child(ios_n)
@@ -330,18 +728,10 @@ def TreeGermination():
     os_n.add_child(unix_n)
 
     """  ----| csa """
-    csa_n = Node("csa",isTag=False)
+    csa_n.isTag=False
     cse_n.add_child(csa_n)
 
     """ ----|----| children of csa """
-
-    hacking_n       = Node("hacking")
-    robotics_n      = Node("robotics")
-    arvr_n          = Node("arvr")
-    iot_n           = Node("iot")
-    compvision_n    = Node("compvision")
-    imgprocess_n    = Node("imgprocess")    
-    datamine_n      = Node("datamine")
 
     csa_n.add_child(hacking_n)
     csa_n.add_child(robotics_n)
@@ -350,35 +740,21 @@ def TreeGermination():
     csa_n.add_child(compvision_n)
     csa_n.add_child(imgprocess_n)
     csa_n.add_child(datamine_n)
+    csa_n.add_child(ai_n)
 
     """ ----|----|----| ml """
-    ml_n = Node("ml",isTag=False)
+    ml_n.isTag=False
     csa_n.add_child(ml_n)
 
     gen_ml_n    = Node("gen_ml")
     ann_n       = Node("ann")
     dl_n        = Node("dl")
 
-    ml_n.add_child(gen_ml_n)
-    ml_n.add_child(ann_n)
-    ml_n.add_child(dl_n)
-
     """ ----|----|----| ds """
-    ds_n = Node("ds",isTag=False)
+    ds_n.isTag=False
     csa_n.add_child(ds_n)
 
-    gen_dS_n          = Node("gen_dS")
-    database_n        = Node("database")
-    dataset_n         = Node("dataset")
-    statistics_n      = Node("statistics")
-    rlang_n           = Node("rlang")
-    matlab_n          = Node("matlab")
-    kaggle_n          = Node("kaggle")
-    datacleaning_n    = Node("datacleaning")
-    nlp_n             = Node("nlp")
-    ai_n             = Node("ai")
-
-    ds_n.add_child(gen_dS_n)
+    ds_n.add_child(gen_ds_n)
     ds_n.add_child(database_n)
     ds_n.add_child(dataset_n)
     ds_n.add_child(statistics_n)
@@ -390,48 +766,37 @@ def TreeGermination():
     ds_n.add_child(ai_n)
 
     """ ----|----|----|----| ds_tool """
-    ds_tool_n = Node("ds_tool",isTag=False)
+    ds_tool_n.isTag=False
     ds_n.add_child(ds_tool_n)
-
-    scala_n             = Node("scala")    
-    scikit_n            = Node("scikit")
-    jupyternote_n       = Node("jupyternote")
 
     ds_tool_n.add_child(scala_n)
     ds_tool_n.add_child(scikit_n)
     ds_tool_n.add_child(jupyternote_n)
 
     """ ----|----|----| de """
-    de_n = Node("de",isTag=False)
+    de_n.isTag=False
     csa_n.add_child(de_n)
 
     de_n.add_child(database_n)
 
     """ ----|----|----|----| bigdata """
-    bigdata_n = Node("bigdata",isTag=False)
+    bigdata_n.isTag=False
     de_n.add_child(bigdata_n)
-
-    gen_bigdata_n       = Node("gen_bigdata")
-    spark_n             = Node("spark")
-    hadoop_n            = Node("hadoop")
 
     bigdata_n.add_child(gen_bigdata_n)
     bigdata_n.add_child(spark_n)
     bigdata_n.add_child(hadoop_n)
 
-    """ ----| prog children"""
+    """ ----|----|----| data_visn """
+    data_visn_n.isTag=False
+    csa_n.add_child(data_visn_n)
 
-    gen_prog_n          = Node("gen_prog")
-    db_n                = Node("db")
-    webd_n              = Node("webd")
-    sdt_n               = Node("sdt")
-    system_n            = Node("system")
-    devpract_n          = Node("devpract")
-    api_n               = Node("api")
-    gamedev_n           = Node("gamedev")
-    codingchlg_n        = Node("codingchlg")
-    opensrc_n           = Node("opensrc")
-    freesoft_n          = Node("freesoft")
+    data_visn_n.add_child(gen_datavis_n)    
+    data_visn_n.add_child(tableau_n)
+    data_visn_n.add_child(excel_n)    
+
+
+    """ ----| prog children"""
 
     prog_n.add_child(gen_prog_n)
     prog_n.add_child(db_n)
@@ -447,39 +812,14 @@ def TreeGermination():
     prog_n.add_child(os_n)
 
     """ ----|----| lng_n_frmwrk """
-    lng_n_frmwrk_n = Node("lng_n_frmwrk",isTag=False)
+    lng_n_frmwrk_n.isTag=False
     prog_n.add_child(lng_n_frmwrk_n)
 
     """ ----|----|----| lng """
-    lng_n = Node("lng",isTag=False)
+    lng_n.isTag=False
     lng_n_frmwrk_n.add_child(lng_n)
 
     """ ----|----|----|----| lng children"""
-
-    proglng_n       = Node("proglng")
-    plt_n           = Node("plt")
-    asm_n           = Node("asm")
-    c_n             = Node("c")
-    cpp_n           = Node("cpp")
-    golang_n        = Node("golang")
-    python_n        = Node("python")
-    scala_n         = Node("scala")
-    elixir_n        = Node("elixir")
-    elm_n           = Node("elm")
-    erlang_n        = Node("erlang")
-    fortran_n       = Node("fortran")
-    haskell_n       = Node("haskell")
-    java_n          = Node("java")
-    js_n            = Node("js")
-    lisp_n          = Node("lisp")
-    perl_n          = Node("perl")
-    php_n           = Node("php")
-    ruby_n          = Node("ruby")
-    rust_n          = Node("rust")
-    dotnet_n        = Node("dotnet")
-    kotlin_n        = Node("kotlin")
-    html_n          = Node("html")
-    css_n           = Node("css")
 
     lng_n.add_child(proglng_n)
     lng_n.add_child(plt_n)
@@ -507,15 +847,10 @@ def TreeGermination():
     lng_n.add_child(css_n)
 
     """ ----|----|----| frmwrk """
-    frmwrk_n = Node("frmwrk",isTag=False)
+    frmwrk_n.isTag=False
     lng_n_frmwrk_n.add_child(frmwrk_n)
 
     """ ----|----|----|----| frmwrk children"""
-
-    ror_n           = Node("ror")
-    django_n        = Node("django")
-    reactjs_n       = Node("reactjs")
-    nodejs_n        = Node("nodejs")
 
     frmwrk_n.add_child(ror_n)
     frmwrk_n.add_child(django_n)
@@ -523,17 +858,8 @@ def TreeGermination():
     frmwrk_n.add_child(nodejs_n)
 
     """ ----|----| prog_tools """
-    prog_tools_n = Node("prog_tools",isTag=False)
+    prog_tools_n.isTag=False
     prog_n.add_child(prog_tools_n)
-
-    git_n          = Node("git")
-    virtualn_n     = Node("virtualn")
-    browser_n      = Node("browser")
-    aws_n          = Node("aws")
-    azure_n        = Node("azure")
-    k8s_n          = Node("k8s")
-    docker_n       = Node("docker")
-    gcp_n          = Node("gcp")
 
     prog_tools_n.add_child(git_n)
     prog_tools_n.add_child(virtualn_n)
@@ -545,31 +871,23 @@ def TreeGermination():
     prog_tools_n.add_child(gcp_n)
 
     """ ----|----| txt_edit """
-    txt_edit_n = Node("txt_edit",isTag=False)
+    txt_edit_n.isTag=False
     prog_tools_n.add_child(txt_edit_n)
-
-    editor_n       = Node("editor")
-    vim_n          = Node("vim")
-    emacs_n        = Node("emacs")
 
     txt_edit_n.add_child(editor_n)
     txt_edit_n.add_child(vim_n)
     txt_edit_n.add_child(emacs_n)
 
     """ ----|----| appdev """
-    appdev_n = Node("appdev",isTag=False)
+    appdev_n.isTag=False
     prog_n.add_child(appdev_n)
-
-    gen_appdev_n       = Node("gen_appdev")
-    iosdev_n           = Node("iosdev")
-    androiddev_n       = Node("androiddev")
 
     appdev_n.add_child(gen_appdev_n)
     appdev_n.add_child(iosdev_n)
     appdev_n.add_child(androiddev_n)
 
     """ ----|----| devops """
-    devops_n = Node("devops",isTag=False)
+    devops_n.isTag=False
     prog_n.add_child(devops_n)
 
     gen_devops_n       = Node("gen_devops")
@@ -582,14 +900,8 @@ def TreeGermination():
     devops_n.add_child(gcp_n)
 
     """ ----|----| security """
-    security_n = Node("security",isTag=False)
+    security_n.isTag=False
     prog_n.add_child(security_n)
-
-    infosec_n          = Node("infosec")
-    compsec_n          = Node("compsec")
-    websec_n           = Node("websec")
-    privacy_n          = Node("privacy")
-    crypto_cse_n       = Node("crypto_cse")
 
     security_n.add_child(infosec_n)
     security_n.add_child(compsec_n)
@@ -598,14 +910,8 @@ def TreeGermination():
     security_n.add_child(crypto_cse_n)
 
     """ ----|----| design """
-    design_n = Node("design",isTag=False)
+    design_n.isTag=False
     prog_n.add_child(design_n)
-
-    graphix_n      = Node("graphix")
-    compgphix_n    = Node("compgphix")
-    webdes_n       = Node("webdes")
-    ui_n           = Node("ui")
-    ux_n           = Node("ux")
 
     design_n.add_child(graphix_n)
     design_n.add_child(compgphix_n)
@@ -615,27 +921,12 @@ def TreeGermination():
 
     """ ----| career children"""
 
-    jobs_n              = Node("jobs")
-    carr_query_n        = Node("carr_query")
-    interviewprep_n     = Node("interviewprep")
-    interviewexp_n      = Node("interviewexp")
-
     career_n.add_child(jobs_n)
     career_n.add_child(carr_query_n)
     career_n.add_child(interviewprep_n)
     career_n.add_child(interviewexp_n)
 
     """ ----| social children"""
-
-    technews_n          =  Node("technews")
-    tech_discuss_n      =  Node("tech_discuss")
-    tech_query_n        =  Node("tech_query")
-    community_n         =  Node("community")
-    person_n            =  Node("person")
-    tech_blog_n         =  Node("tech_blog")
-    tech_law_n          =  Node("tech_law")
-    cogsci_n            =  Node("cogsci")
-    torrent_n           =  Node("torrent")
 
     social_n.add_child(technews_n)
     social_n.add_child(tech_discuss_n)
@@ -648,28 +939,15 @@ def TreeGermination():
     social_n.add_child(torrent_n)
 
     """ ----|----| read_n_write """
-    read_n_write_n = Node("read_n_write",isTag=False)
+    read_n_write_n.isTag=False
     social_n.add_child(read_n_write_n)
     
-    book_n          =  Node("book")
-    write_n         =  Node("write")
-    phil_n          =  Node("phil")
-    history_n       =  Node("history")
-
     read_n_write_n.add_child(book_n)
     read_n_write_n.add_child(write_n)
     read_n_write_n.add_child(phil_n)
     read_n_write_n.add_child(history_n)
 
     """ ----| business children"""
-
-    gen_business_n      =  Node("gen_business")
-    startup_n           =  Node("startup")
-    freelance_n         =  Node("freelance")
-    saas_n              =  Node("saas")
-    sideproj_n          =  Node("sideproj")
-    market_n            =  Node("market")
-    seo_n               =  Node("seo")
 
     business_n.add_child(gen_business_n)
     business_n.add_child(startup_n)
@@ -684,18 +962,8 @@ def TreeGermination():
     """ ----| sme children"""
 
     """ ----|----| science """ 
-    science_n = Node("science",isTag=False)
+    science_n.isTag=False
     sme_n.add_child(science_n)   
-
-    gen_science_n       =  Node("gen_science")
-    sci_query_n         =  Node("sci_query")
-    chemistry_n         =  Node("chemistry")
-    biology_n           =  Node("biology")
-    medicine_n          =  Node("medicine")
-    neuroscience_n      =  Node("neuroscience")
-    geology_n           =  Node("geology")
-    env_n               =  Node("env")
-    health_n            =  Node("health")
 
     science_n.add_child(gen_science_n)
     science_n.add_child(sci_query_n)
@@ -709,14 +977,8 @@ def TreeGermination():
 
 
     """ ----|----|----| physics """ 
-    physics_n = Node("physics",isTag=False)
+    physics_n.isTag=False
     science_n.add_child(physics_n) 
-
-    gen_physics_n       =  Node("gen_physics")
-    astro_n             =  Node("astro")
-    quantum_n           =  Node("quantum")
-    nuclear_n           =  Node("nuclear")
-    fluid_mech_n        =  Node("fluid_mech")
 
     physics_n.add_child(gen_physics_n)
     physics_n.add_child(astro_n)
@@ -725,18 +987,8 @@ def TreeGermination():
     physics_n.add_child(fluid_mech_n)
 
     """ ----|----| engg """   
-    engg_n = Node("engg",isTag=False)
+    engg_n.isTag=False
     sme_n.add_child(engg_n)
-
-    gen_engg_n          =  Node("gen_engg")
-    engg_ece_n          =  Node("engg_ece")
-    engg_electric_n     =  Node("engg_electric")
-    engg_query_n        =  Node("engg_query")
-    engg_mech_n         =  Node("engg_mech")
-    engg_student_n      =  Node("engg_student")
-    rocket_n            =  Node("rocket")
-    engg_struct_n       =  Node("engg_struct")
-    threedprint_n       =  Node("threedprint")
 
     engg_n.add_child(gen_engg_n)
     engg_n.add_child(engg_ece_n)
@@ -750,13 +1002,8 @@ def TreeGermination():
     engg_n.add_child(threedprint_n)
 
     """ ----|----| maths"""    
-    maths_n = Node("maths",isTag=False)
+    maths_n.isTag=False
     sme_n.add_child(maths_n)   
-
-    gen_maths_n         =  Node("gen_maths")
-    calculus_n          =  Node("calculus")
-    algebra_n           =  Node("algebra")
-    graphtheory_n       =  Node("graphtheory")
 
     maths_n.add_child(gen_maths_n)
     maths_n.add_child(calculus_n)
@@ -770,40 +1017,25 @@ def TreeGermination():
 
     """ ----| fin_eco children"""
 
-    economics_n     =  Node("economics")
-    finance_n       =  Node("finance")
-    accounting_n    =  Node("accounting")
-    invest_n        =  Node("invest")
-
     fin_eco_n.add_child(economics_n)
     fin_eco_n.add_child(finance_n)
     fin_eco_n.add_child(accounting_n)
     fin_eco_n.add_child(invest_n)
 
     """ ----|----| blockchain"""
-    blockchain_n    =  Node("blockchain",isTag=False)    
+    blockchain_n.isTag=False      
     fin_eco_n.add_child(blockchain_n)
-
-    gen_blockchain_n      = Node("gen_blockchain")
-    crypto_fin_n          = Node("crypto_fin")
-    bitcoin_n             = Node("bitcoin")
 
     blockchain_n.add_child(gen_blockchain_n)
     blockchain_n.add_child(crypto_fin_n)
     blockchain_n.add_child(bitcoin_n)
 
-    print("------------------------  Tree has been germinated ---------------------------------")
-    return root
-
-
-
+    return root_n
 
 
 def BFS(root): 
-      
     if len(root.children) == 0:
         return  
-        
     q = [] 
     q.append(root) 
           
@@ -821,17 +1053,98 @@ def BFS(root):
             count -= 1
         print(' ') 
 
-if __name__ == "__main__":
-    root = TreeGermination()
-    # BFS(root)
-    # print_tree(root,horizontal=False)
-    tree_printer_pretty.print_tree(root)
-    # print_tree(root,root.count,root.popi)
+def updateLeafNodes(ts):
 
-"""
-    1. Define Tree schema & check if printing correctly with BFS
-    2. Make Tree; where to store it???? DB or runtime??????
-    3. Update all the leaf nodes values
-    4. update all other nodes
-    5. Write code for query
-"""
+    """     
+        This is the query:
+            SELECT count(ID) as count, avg(PopI) as avg_popi from wc_1600362907 where ModelTags like '%"ai"%';
+    """
+
+    wc_db = 'dbs/wc.db'
+    wc_table = 'wc_' + str(int(ts))
+    pc.printSucc('@[{}] >>>>>> Started  TreeMaker@wc ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))
+    conn = sqlite3.connect(wc_db, timeout=10)
+    c = conn.cursor()
+    pc.printMsg("\t -------------------------------------- < TreeMaker@wc : DB Connection Opened > ---------------------------------------------\n")
+    pc.printWarn("\tRunning TreeMaker for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
+    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
+    startTime = time.time()
+
+    for tag in tags_names:
+        q = 'select count(ID) from ' + wc_table + ' where ModelTags like ?'
+        item_count = c.execute(q,('%"{}"%'.format(tag),))
+        item_count = c.fetchone()[0]
+        q = 'select avg(PopI) from ' + wc_table + ' where ModelTags like ?'
+        avg_popi = c.execute(q,('%"{}"%'.format(tag),))
+        avg_popi = c.fetchone()[0]
+        if avg_popi == None:
+            avg_popi = 0
+        else:
+            avg_popi = round(avg_popi,10)
+        curr_node = node_dict[tag]
+        if curr_node.isTag :            #update only if its a leaf
+            curr_node.count = item_count
+            curr_node.popi = avg_popi
+            pc.printSucc(" \t\t\t..... Updated node: {}  \t => c = {}  , p = {}".format(curr_node.name,item_count,avg_popi))
+
+
+    endTime = time.time()
+    conn.commit()
+    conn.close()
+    pc.printMsg("\t -------------------------------------- < TreeMaker@wc: DB Connection Closed > ---------------------------------------------\n")
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR TreeMaker@wc(sec)    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
+
+
+
+def updateParentPopi(root):
+    if(len(root.children)==0):
+        return root.popi
+    children_popi_sum = 0
+    for child in root.children:
+        children_popi_sum += updateParentPopi(child)
+
+    children_avg_popi = children_popi_sum/len(root.children)
+    children_avg_popi = round(children_avg_popi,10)
+    root.popi = children_avg_popi
+    return root.popi
+
+def updateParentCount(root):
+    if(len(root.children)==0):
+        return root.count
+    children_item_count = 0
+    for child in root.children:
+        children_item_count += updateParentCount(child)
+
+    root.count += children_item_count
+    return root.count
+
+def updateParentNodes(root):
+    """ 
+        update one thing at a time as doing both in one traversal doesnt seem doable
+    """
+    updateParentCount(root)
+    updateParentPopi(root)
+
+
+def query(search):
+    return node_dict[search].count, node_dict[search].popi
+
+def run(ts):
+    """ create the tree """
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Tree Germination in progress .......    .   .   .   .   .   .   .   .   .\n")
+    root = TreeGermination()
+    pc.printSucc("\t\t <----------------------------------------------- Tree is Germinated ------------------------------------------------>\n")
+
+    """ update leafnodes """
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Updating Leaf(tag) Nodes.......    .   .   .   .   .   .   .   .   .\n")
+    updateLeafNodes(ts)
+    pc.printSucc("\t\t <--------------------------------------------- Leaf Nodes updated ------------------------------------------------>\n")
+
+    """ update parents """
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Updating Parent Nodes.......    .   .   .   .   .   .   .   .   .\n")
+    updateParentNodes(root)
+    pc.printSucc("\t\t <--------------------------------------------- Parent Nodes updated ------------------------------------------------>\n")
+    tree_printer_pretty.print_tree(root)
+
+    # query_count = query("cse")
+    # print("\t\t\ ====================> cse : {} , {}".format(query_count[0], query_count[1]))

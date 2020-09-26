@@ -260,7 +260,7 @@
 * TIP for copying all tags: goto POC/get_tags_from_dict.py & update the below data in there
 
 
-* 1. [x] Computer Science [<CSE>]  
+* 1. [x] Computer Science [<cse>]  
   * [x] General CS Content <gen_cse>                     - [compsci@lobsters]                           -[r/compsci,r/computerscience]  
   * [x] Theoretical Computer Science  [<tcse>]                                                             
     * [x] Distributed systems <distribut_sys>             - [distributed@lobsters]                     -[r/distributed]
@@ -303,8 +303,8 @@
       *  [x] GeneralML <gen_ml>                               -  .....                                     -[r/MachineLearning,r/learnmachinelearning,r/ResearchML,r/neuralnetworks]
       *  [x] Artificial Neural Networks <ann>                                                            -[r/neuralnetworks,r/NeuralNetwork]
       *  [x] Deep Learning <dl>                                                                          -[r/neuralnetworks,r/deeplearning,r/DeepLearningPapers,r/deeplearners]
-    * [x] DataScience [<ds>]                               -  .....                                        -[r/datascience,r/learndatascience]
-      * [x] General Data Science <gen_ds>                               -  .....                                     -[r/datascience,r/learndatascience]
+    * [x] DataScience [<ds>]            
+      * [x] General Data Science <gen_ds>                               -  .....                         -[r/datascience,r/learndatascience]
       * [x] Database(0) <database>                           - [databases@lobsters]                      -[r/Database]
       * [x] Datasets <dataset>                             -  ......                                     -[r/datasets]
       * [x] Statistics <statistics>                                                                      -[r/statistics,r/AskStatistics]
@@ -323,7 +323,7 @@
       * [x] NLP <nlp>                                                                                    -[r/NLP,r/LanguageTechnology]
         * Chatbot
     * [x] DataEngineering [<de>]
-      * [x] [[<database>]]                                      - [databases@lobsters]                     -[r/Database]
+      * [x] [[<database>]]          
       * [x] BigData [<bigdata>]
         * [x] General Big Data <gen_bigdata>                -  ......                                     -[r/bigdata]
         * [x] Apache Spark <spark>                                                                       -[r/apachespark]
@@ -332,7 +332,7 @@
       * [x] General Data Visualisation <gen_datavis>          - [visualization@lobsters,]                   -[r/visualization,r/dataisbeautiful]
       * [x] Tableau <tableau>                                                                         -[r/tableau]
       * [x] Microsoft Excel <excel>                                                                   -[r/excel,r/ExcelTips]
-    * [x] Artificial Intelligence  <ai>                                       - [ai@lobsters]                               -[r/artificial,r/ArtificialInteligence]
+    * [x] Artificial Intelligence  <ai>                                       - [ai@lobsters]           -[r/artificial,r/ArtificialInteligence]
 * Programming   / Software Development <prog>
   * General Programming <gen_prog>                      - [programming@lobsters]                      -[r/programming,r/coding,r/softwaredevelopment(0),r/SoftwareEngineering]
   * [x] Languages&Frameworks [<lng_n_frmwrk>]
@@ -361,7 +361,7 @@
       * [@] F#                                        - [dotnet@lobsters, ...]
       * [x] .NET <dotnet>                             - [dotnet@lobsters,]                          -[r/dotnet]
       * [x] Kotlin  <kotlin>                          -  .....                                      -[[r/Kotlin]
-      * [x] HTML <html>                               - [css@lobsters, ...]                         -[r/HTML,/r/html5]
+      * [x] HTML <html>                               - [css@lobsters, ...]                         -[r/HTML,r/html5]
       * [x] CSS  <css>                                - [css@lobsters]                              -[r/css]
   * [x] Frameworks  [<frmwrk>]         
     * [x] Ruby on Rails <ror>                           - .....                                       -[r/rails]
@@ -393,11 +393,11 @@
     * [x] [Docker](1)
     * [x] [GCP](1)
   * [x] Security  [<security>]
-    * [x] Information Security <infosec>               - [security@lobsters]                         -[r/netsec]
+    * [x] Information Security <infosec>               - [security@lobsters]                          -[r/netsec]
     * [x] Computer Security <compsec>                   - .....                                       -[[r/compsec]
     * [x] Web Security <websec>                         - .....                                       -[[r/websec]
     * [x] Privacy <privacy>                             - [privacy@lobsters]                          -[r/privacy]
-    * [x] Cryptography(1)<crypto_cse>                   - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
+    * [x] [Cryptography](1) [<crypto_cse>]
   * [@] System Design
   * [x] Design [<design>]
     * [x] Graphix Design  <graphix>                     - [design@lobsters]
@@ -405,7 +405,7 @@
     * [x] Web Design <webdes>                           - .....                                       -[r/web_design]
     * [x] UI <ui>                                                                                     -[r/UI_Design,r/UI_programming]
     * [x] UX <ux>                                                                                     -[r/UXDesign,r/UXResearch,r/UX_Design]
-  * [x] Database <db>                                    - .....                                    -[r/Database]
+  * [x] [[Database]](1) [[<database>]] 
       * SQL
       * MongoDB
       * Cassandra
@@ -420,7 +420,7 @@
   *  Acrhitecture
   * Product Management 
   * [x] API <api>                                       - [api@lobsters]                              -[r/api]
-  * [x] Game Dev <gamedev>                         - [games@lobsters,]                           -[r/gamedev]
+  * [x] Game Dev <gamedev>                         - [games@lobsters,]                              -[r/gamedev]
   * [x] Coding Challanges<codingchlg> (0)               - .....                                       -[r/programmingchallenges]
   * [@] Law, patents, and licensing(+2)                 - [law@lobsters]
   * [x] Open Source (0) <opensrc>                       - .....                                       -[[r/opensource]
@@ -436,7 +436,7 @@
   * [x] [Coding Challanges](1)    
 * [x] Social [<social>] (or Community) 
   * [x] Tech News <technews>                       - .....                                            - [r/technology,r/TrueReddit,r/wikipedia,r/geek]                          
-  * [x] Technical discussions <tech_discuss>                 - .....                                  - [tellHN]
+  * [x]Technical discussions <tech_discuss>                 - .....                                  - [HN/tellHN]
   * [x] Technical Queries <tech_query>(1)                       - .....                               - [r/AskComputerScience(1),askHN(1)]
   * [x] Technical communities and culture <community>   -[culture@lobsters]                           - [r/skeptic]                     
   * Social Philosophy                                   - ......                                      - [r/Agorism]
@@ -448,7 +448,7 @@
   * Travel/Geography 
   * [x] Law, patents, and licensing <tech_law>          - [law@lobsters]                              -[r/COPYRIGHT,r/noip]
   * Politics 
-  * Intellectual Property Laws                           - ...                                         - [r/noip] 
+  * Intellectual Property Laws  
   * [x] Cognitive Science <cogsci>                      - [cogsci@lobsters]                           - [r/cognitivescience]
   * [x] Torrents <torrent>                                                                            - [r/torrents]
   * [x] Reading&Writing [<read_n_write>]
@@ -465,7 +465,7 @@
   * [x] Side Project <sideproj>                         - ......                                      - [showHN,r/SideProject]
   * [x] Marketing & Advertising <market>               - .....                                        - [r/marketing]
   * [x] SEO <seo>                                  - .....                                        - [r/SEO,r/bigseo,r/SEO_Digital_Marketing]
-  * [x] [[<opensrc>]](1)                                 - .....                                        - [r/opensource]
+  * [x] [[<opensrc>]](1)                  
 * [x] Science [<science>]
   * [x] General Science <gen_science>                             - [science@lobsters]                    - [r/science]
   * [x] Scinece Queries <sci_query>                                                                   - [r/askscience,r/AskPhysics]
@@ -501,16 +501,15 @@
   * [x] Algebra <algebra>                                                                             -[r/Algebra] 
   * [x] [<gametheory>]
   * [x] Graph Theory <graphtheory>                                                                    -[r/GraphTheory]
-  * [x] [[<logic>]](1)                                       - .....                                       -[r/logic(1)]
-  * [x] [[<disco>]](1)    
-  * [x] [[<statistics>]](1-R_part)                          - .....                                       - [r/statistics]
-  * [x] [[<crypto_cse>]](2)                               - [crypto@lobsters,]                          -[r/crypto,r/cryptography]
+  * [x] [[<logic>]](1)                                 
+  * [x] [[<statistics>]](1-R_part)                         
+  * [x] [[<crypto_cse>]](2)                               
 * [x] Finance&Economics [<fin_eco>]
   * [x] Economics <economics>                                                                         -[r/Economics,r/economy]
   * [x] Finance & Personal Finance  <finance>                              - [finance@lobsters]                          -[r/finance,r/personalfinance]
   * Money
   * [x] Accounting <accounting>                                                                       -[r/Accounting]
-  * [x] Investment <invest>                                                                           -[r/invest,r/investing]
+  * [x] Investment <invest>                                                                           -[r/invest,r/invest]
   * [x] Blockchain [<blockchain>]
     * [x] Gen. Blockchain <gen_blockchain>                                                                       -[r/BlockchainStartups]
     * [x] Cryptocurrencies <crypto_fin>                   - [cryptocurrencies@lobsters]                 -[r/CryptoCurrency]
@@ -1017,7 +1016,15 @@
 | r/HTML                      |    25.8 K   |        20        |          11.0 |    No     |                                           
 | r/html5                     |    34.6 K   |         7        |          11.0 |    No     |                                           
 | r/quantum                   |    32.1 K   |        20        |          11.0 |    No     |                                           
-| r/QuantumPhysics            |     6.9 K   |        10        |          9.6 |    No     |                                           
+| r/QuantumPhysics            |     6.9 K   |        10        |           9.6 |    No     |                                           
+|  r/ProgrammingLanguages      |    48.4 K   |        60        |          12.4 |    No     |                                          
+|  r/learnprogramming          |  1700.0 K   |       3900       |         11.0  |    No     |                                          
+|  r/functionalprogramming     |    13.2 K   |          5       |           8.0 |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
+|             |     K   |                |          |    No     |                                           
 |             |     K   |                |          |    No     |                                           
 |             |     K   |                |          |    No     |                                           
 |             |     K   |                |          |    No     |                                           

@@ -319,14 +319,20 @@
   * [] Code tree update part
   * [] Code tree query part
   * [] Write in Domain_DB
+  * [x] Update r_scraper & tagger_simulator
+  * [] Employ lobsters_scraper(with source tags & all) 
 
 * See if you can use these sites too:
   * hackernoon.com 
   * npmjs.com 
   * freecodecamp.org 
   * dev.to
+    * [] @reddit: what about the new subreddits being added?
 
 * Newsletter generator
+  * While making the graph; 
+    * Write brief for every node
+    * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
 * Admin View Maker
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)

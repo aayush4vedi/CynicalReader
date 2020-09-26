@@ -162,7 +162,7 @@ def run_wc(ts):
 
         popI = CalculatePopi(row[9],row[10],max_upvotes_day, max_comments_day, max_upvotes_week, max_comments_week,row[4],days[6],row[1])
         popI = round(popI,10)
-        # pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
+        pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
         # pc.printMsg("\t\t\t\t ........................ Updated PopI in wc_table..............")
         query = 'update ' + wc_table + ' set PopI = ? where ID = ? and SourceSite = ?'
         data = (popI,row[0],row[1])
