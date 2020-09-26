@@ -68,7 +68,7 @@ def run(ts):
 
         """ getting stories(articles) with upvotes_count > upvotes_threshold 
             Also including:
-            1. TellHN (<discuss>)
+            1. TellHN (<tech_discuss>)
             2. LaunchHN (<startup>)
         """
         pc.printWarn(" \t............. scraping stories .............")
@@ -97,7 +97,7 @@ def run(ts):
                     sourceTag = 'startup'
                     sourceSite += '/launch'
                 if("Tell HN:" in item["title"]):                                      # 2. TellHN
-                    sourceTag = 'discuss'
+                    sourceTag = 'tech_discuss'
                     sourceSite += '/tell'
             else:
                 url = item["url"] 
@@ -203,7 +203,7 @@ def run(ts):
                 date_conversion.HNDate(str(item["created_at"])),
                 item["title"],              
                 url,
-                'query',
+                'prog_query',
                 '',
                 item["points"],
                 item["num_comments"],

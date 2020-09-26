@@ -7,7 +7,7 @@
 """
     Utilities..................
 """
-
+from utilities import print_in_color as pc;
 from itertools import chain, zip_longest, repeat
 
 JOINER_WIDTH = 3
@@ -156,7 +156,7 @@ def print_tree_horizontally(current_node, balanced_branches, name_getter, indent
 
     up, down = balanced_branches(current_node)
 
-    item_len = len(current_node.name)+len(str(current_node.popi))+ len(str(current_node.count)) + 2
+    item_len = len(current_node.name)+len(str(current_node.popi))+ len(str(current_node.count)) - 10
     if current_node.isTag == False:
         item_len += 2
 
@@ -181,9 +181,9 @@ def print_tree_horizontally(current_node, balanced_branches, name_getter, indent
     # print('{0}{1}{2}{3}'.format(indent, start_shape, name_getter(current_node), end_shape))
 
     if current_node.isTag:
-        print('{0}{1}<{2}> (c: {3}, p: {4}){5}'.format(indent, start_shape, current_node.name, current_node.count,current_node.popi ,end_shape))
+        pc.printMsg('{0}{1}<{2}>(c: {3},p: {4}){5}'.format(indent, start_shape, current_node.name, current_node.count,current_node.popi ,end_shape))
     else:
-        print('{0}{1}[<{2}>] (c: {3}, p: {4}){5}'.format(indent, start_shape, current_node.name, current_node.count,current_node.popi ,end_shape))
+        pc.printErr('{0}{1}[<{2}>](c: {3},p: {4}){5}'.format(indent, start_shape, current_node.name, current_node.count,current_node.popi ,end_shape))
         
 
     """ Printing of "down" branch. """
