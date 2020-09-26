@@ -300,7 +300,7 @@
   * [@] Introduce & infuse the real model(manch)
   * [@] Get more date,more tags; train the model properly
 
-* [-] Domain Hotness Ranker
+* [-] Domain Hotness Ranker [-27Sep20]
   * Logic:
     * 1. Get (weekly) item count & avg popi for each tag(NOTE: will use item_count as a measure for hotness for now.To sort by Popi-later;)
     * Each main_thread/cat/subc/tag is treated like a node in the; with root_node = CynicalReader **tree** 
@@ -308,32 +308,46 @@
       * if node == <tag>; value = {count_items, avg_popi}
       * if node == [cat]; value = {for:children(sum(child.count_items)), for:children(avg(child.avg_popi))}
     * 3. While making a query(for Hotness), search from root_node; until the match found; return the value of that node
-    * TODO: how to stroe this DS??? Do this calculation just once & store in DB??????
   * [x] Search for more subreddits
-  * [] Resture the Map-o-Map
-    * [] Do prabandh of duplicate items(through various subreddtis)
+  * [x] Restucture the Map-o-Map
+    * [x] Do prabandh of duplicate items(through various subreddtis)
   * [x] make the tree skeleton(some online tool)
     * NOTE: current sources: PH, HN, reddit & lobsters(yes, jo hogi dekhi jayegi)
   * [x] Code the tree schema
     * NOTE: very nice library to pretty print n-arry tree [pptree](https://github.com/clemtoy/pptree)
-  * [] Code tree update part
-  * [] Code tree query part
-  * [] Write in Domain_DB
+  * [x] Code tree update part
+  * [x] Code tree query part
   * [x] Update r_scraper & tagger_simulator
-  * [] Employ lobsters_scraper(with source tags & all) 
-
-* See if you can use these sites too:
-  * hackernoon.com 
-  * npmjs.com 
-  * freecodecamp.org 
-  * dev.to
-    * [] @reddit: what about the new subreddits being added?
-
-* Newsletter generator
+  * [x] how to stroe this DS??? Do this calculation just once & store in DB??????
+    * MPTT(Modified Preorder Tree Traversal) was the way :: feeling really smart after implementing it
+      * POC: POC/mptt-approach.py
+      * Best article to learn implementation from: [slidepoint/mptt](https://www.sitepoint.com/hierarchical-data-database-2/)
+      * Tried some libraries, but in end I've implemented my own
+  * [x] Store this tree in Domain_DB; one week-one tree & query the values from it
+    * What to query: 
+      * Count
+      * Avg_popi
+      * [] TODO:Links to articles????
+  * [] TODO: Enable lobsters_scraper(with source tags & all) 
+  * [] TODO: Link tags with PH_scraper 
+  
+* [] Newsletter generator [ - ]
   * While making the graph; 
     * Write brief for every node
     * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
-* Admin View Maker
+* [] Admin View Maker [ - ]
+
+* **To Ponder**
+  * 
+  * What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
+  * See if you can use these sites too:
+    * hackernoon.com 
+    * npmjs.com 
+    * freecodecamp.org 
+    * dev.to
+      * [] @reddit: what about the new subreddits being added?
+
+* Actual Model [ - ]
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website

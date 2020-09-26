@@ -3,9 +3,8 @@ from datetime import datetime
 import csv
 
 from scrapers import url_scraper_runner, content_scraper
-from components import popi_calculator, tagger_simulator
+from components import popi_calculator, tagger_simulator, th_creator, th_query
 from utilities import print_in_color as pc
-import tree_maker
 import sqlite3
 
 """
@@ -47,7 +46,11 @@ if __name__ == '__main__':
     # tagger_simulator.run(1600925655)
 
     """ Run DomainHontessRanker => update DDS-DB """
-    tree_maker.run(1600925655)
+    # th_creator.run(1600925655)
+
+    """ Query TH-table for tag_names"""
+    # th_query.return_imm_children(1600925655, "cse")
+    # th_query.return_all_descendents(1600925655, "cse")
     
     """ Run Newsletter Generator """
     

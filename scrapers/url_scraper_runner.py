@@ -22,7 +22,6 @@ def run(ts):
 
     """ Initialize the weekly content tables in wc.db and wp.db"""
     
-    # wc_db = 'POC/poc.db'
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts)) 
     conn = sqlite3.connect(wc_db, timeout=10)

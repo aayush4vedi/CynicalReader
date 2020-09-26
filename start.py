@@ -3,7 +3,7 @@ from datetime import datetime
 import csv
 
 from scrapers import url_scraper_runner, content_scraper
-from components import popi_calculator, tagger_simulator
+from components import popi_calculator, tagger_simulator, th_creator, th_query
 from utilities import print_in_color as pc
 
 if __name__ == '__main__':
@@ -29,7 +29,13 @@ if __name__ == '__main__':
     
     tagger_simulator.run(ts)
 
-    """ Run DomainHontessRanker => update DDS-DB """
+    """ Run DomainHontessRanker => update TH-DB """
+    th_creator.run(ts)
+
+    """ Query TH-table for tag_names"""
+    # th_query.return_imm_children(ts, "cse")
+    # th_query.th_query.return_all_descendents(ts, "cse")
+
     
     """ Run Newsletter Generator """
     

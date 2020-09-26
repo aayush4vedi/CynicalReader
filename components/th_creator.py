@@ -8,6 +8,23 @@ from utilities import print_in_color as pc
 
 from utilities import tree_printer_pretty
 
+
+"""
+    NOTE: To add a new node in tree(& vis-a-vis in th_table)
+    (0). If LeafNode->(It its an actual topic tag(with its own item_count & popi)) Add its name in tags_name       E.g. : "new_tag"
+    1. create its node                  E.g. : new_tag_n = Node("new_tag")
+    (2). If LeafNode-> map these two in `node_dict`         E.g.: "new_tag" : new_tag_n
+    3. Adding in tree-structure:
+        * (If Not leaf) Declare isTag = false               E.g.: new_tag_n.isTag = False
+        * Add it to its place                               E.g.: existing_parent_n.add_child(new_tag_n)
+
+"""
+
+
+
+
+
+
 """
     1. Define Tree schema
 """
@@ -687,8 +704,7 @@ def TreeGermination():
 
     """ Populate CSE node"""
 
-    gencse_n = Node("gen_cse")
-    cse_n.add_child(gencse_n)
+    cse_n.add_child(gen_cse_n)
 
     """  ----| Populate Theoretical CSE Node"""
     tcse_n.isTag=False
@@ -1032,7 +1048,7 @@ def TreeGermination():
 
     return root_n
 
-
+# Not in use
 def BFS(root): 
     if len(root.children) == 0:
         return  
@@ -1053,6 +1069,7 @@ def BFS(root):
             count -= 1
         print(' ') 
 
+# from wc_table
 def updateLeafNodes(ts):
 
     """     
@@ -1062,11 +1079,11 @@ def updateLeafNodes(ts):
 
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    pc.printSucc('@[{}] >>>>>> Started  TreeMaker@wc ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))
+    pc.printSucc('@[{}] >>>>>> Started  UpdateLeafNodes@wc ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- < TreeMaker@wc : DB Connection Opened > ---------------------------------------------\n")
-    pc.printWarn("\tRunning TreeMaker for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
+    pc.printMsg("\t -------------------------------------- < UpdateLeafNodes@wc : DB Connection Opened > ---------------------------------------------\n")
+    pc.printWarn("\tRunning UpdateLeafNodes for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
     pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
     startTime = time.time()
 
@@ -1091,8 +1108,8 @@ def updateLeafNodes(ts):
     endTime = time.time()
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < TreeMaker@wc: DB Connection Closed > ---------------------------------------------\n")
-    pc.printWarn("\t\t ---------------> TIME TAKEN FOR TreeMaker@wc(sec)    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
+    pc.printMsg("\t -------------------------------------- < UpdateLeafNodes@wc: DB Connection Closed > ---------------------------------------------\n")
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR UpdateLeafNodes In Tree  (sec)   =>  {} \n".format(round((endTime - startTime),5)))
 
 
 
@@ -1125,12 +1142,83 @@ def updateParentNodes(root):
     updateParentCount(root)
     updateParentPopi(root)
 
+def queryTreeNode(search):
+    """
+        returns in this format:
+            query_from_tree = queryTreeNode("cse")
+            print("\t\t\ ====================> cse : {} , {}".format(query_from_tree[0], query_from_tree[1]))
 
-def query(search):
+
+    """
     return node_dict[search].count, node_dict[search].popi
 
+def create_th(ts):
+    """
+        Just creates the th_table(Topic Hotness); if not exists already
+    """
+    th_db = 'dbs/th.db'
+    th_table = 'th_' + str(int(ts)) 
+    conn = sqlite3.connect(th_db, timeout=10)
+    c = conn.cursor()
+    pc.printMsg("\t -------------------------------------- < Create_th: DB Connection Opened > ---------------------------------------------\n")
+    c.execute("SELECT count(name) FROM sqlite_master WHERE type='table' AND name='{}'".format(th_table))
+    if c.fetchone()[0]==1 :                        # table exists, flush away!
+        c.execute("delete from {}".format(th_table))
+    else :                                         # creting new table
+        c.execute("CREATE TABLE {} (ID, NodeName, LeftMptt, RightMptt, DepthLevel, ItemCount, AvgPopI)".format(th_table))
+
+    index = 1
+    q = 'INSERT INTO ' + th_table + ' VALUES (?,?,?,?,?,?,?)'
+    for node_name in node_dict:
+        query_from_tree = queryTreeNode(node_name)
+        d = (index, node_name, -1,-1,0,query_from_tree[0],query_from_tree[1])
+        c.execute(q,d)
+        index += 1
+
+    conn.commit()
+    conn.close()
+    pc.printMsg("\t -------------------------------------- < Create_th: DB Connection Closed > ---------------------------------------------\n")
+    pc.printSucc("\t **************************************** TH Table Created: {} ******************************************************\n".format(th_table))
+    
+    # pc.printWarn("\t\t -------------------------------------------- Now updating TH Table --------------------------------------------\n")
+
+
+def update_th_mptt(root, lft, level, ts):
+    """
+        Recursive function to update (lft, rgt,level) values in th_<ts> table.
+        PS: No interaction with wc_table here, thought the nodes in tree get their (item_count, avg_popi) values from wc_<ts>; but that has no correlation here
+    """
+    rght = lft + 1
+    for child in root.children:
+        rght = update_th_mptt(child, rght, level + 1,ts)
+
+    """ update (lft, rgt,level) for root in th_table """
+    th_db = 'dbs/th.db'
+    th_table = 'th_' + str(int(ts)) 
+    conn = sqlite3.connect(th_db, timeout=10)
+    c = conn.cursor()
+    # pc.printMsg("\t -------------------------------------- < update_th: DB Connection Opened > ---------------------------------------------\n")
+    
+    q = 'update ' + th_table + ' set LeftMptt = ? , RightMptt = ? , DepthLevel = ? where NodeName = ?'
+    d = (lft, rght, level, root.name)
+    c.execute(q,d)
+
+    conn.commit()
+    conn.close()
+    # pc.printMsg("\t -------------------------------------- < update_th: DB Connection Closed > ---------------------------------------------\n")
+
+    return rght + 1
+
 def run(ts):
+    """
+        This function does:
+            * Creates the Tree Schema(germination)
+            * Update Nodes(leaves & accumulated) with item_count(count) & avg_popi in schema iteself
+            * Creates & updates th_table for given timestamp(ts)
+    """
+
     """ create the tree """
+    startTime = time.time()
     pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Tree Germination in progress .......    .   .   .   .   .   .   .   .   .\n")
     root = TreeGermination()
     pc.printSucc("\t\t <----------------------------------------------- Tree is Germinated ------------------------------------------------>\n")
@@ -1144,7 +1232,17 @@ def run(ts):
     pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Updating Parent Nodes.......    .   .   .   .   .   .   .   .   .\n")
     updateParentNodes(root)
     pc.printSucc("\t\t <--------------------------------------------- Parent Nodes updated ------------------------------------------------>\n")
-    tree_printer_pretty.print_tree(root)
+    
+    """ NOTE: Print the Tree if you want """
+    # tree_printer_pretty.print_tree(root)  
 
-    # query_count = query("cse")
-    # print("\t\t\ ====================> cse : {} , {}".format(query_count[0], query_count[1]))
+    
+    """ Create & Update Tag Hotness(TH) Table"""
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Creating & Updating TH Table .......    .   .   .   .   .   .   .   .   .\n")
+    create_th(ts)
+    update_th_mptt(root,1,1,ts)  # update_th_mptt(root,left,level,ts)
+    pc.printSucc("\t\t <--------------------------------------------- TH Table Created & Updated ------------------------------------------------>\n")
+
+    endTime = time.time()
+    th_table = 'th_' + str(int(ts)) 
+    pc.printWarn("\t\t ---------------> TIME TAKEN FOR th_creating@th (sec)   =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),th_table))
