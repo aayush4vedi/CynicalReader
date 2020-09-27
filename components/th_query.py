@@ -48,17 +48,17 @@ def return_all_descendents(ts,root):
 
 def return_imm_children(ts,root):
     """
-        Returns just the immediate children of node in tag-tree where node.NodeName = root
+        Returns *NODE* just the immediate children of node in tag-tree where node.NodeName = root
     """
 
-    pc.printMsg(" \t\t ???????????????????????????????????? Query for Immediate Children of NodeName = {}".format(root))
+    # pc.printMsg(" \t\t ???????????????????????????????????? Query for Immediate Children of NodeName = {}".format(root))
 
     children = []
     th_db = 'dbs/th.db'
     th_table = 'th_' + str(int(ts)) 
     conn = sqlite3.connect(th_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- < query_children_th: DB Connection Opened > ---------------------------------------------\n")
+    # pc.printMsg("\t -------------------------------------- < query_children_th: DB Connection Opened > ---------------------------------------------\n")
     
     q = 'select LeftMptt, RightMptt, DepthLevel from ' + th_table + ' where NodeName = ? ;'
     root_mptt_values = c.execute(q,('{}'.format(root),))
@@ -74,10 +74,10 @@ def return_imm_children(ts,root):
     rows_head = c.execute(q,d)
     rows = rows_head.fetchall()
     for row in rows:
-        pc.printWarn(" \t\t *  CHILD of {} :: {}".format(root,row))
+        pc.printWarn(" \t\t *  CHILD of {} :: {}".format(root,row[1]))
         children.append(row)
 
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < query_children_th: DB Connection Closed > ---------------------------------------------\n")
+    # pc.printMsg("\t -------------------------------------- < query_children_th: DB Connection Closed > ---------------------------------------------\n")
     return children

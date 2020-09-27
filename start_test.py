@@ -19,38 +19,39 @@ def create_test_table(n):       # similar to wc_1599816944 (the url-only table)
     wc_table = 'wc_' + str(n) 
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
-    c.execute("create table " + wc_table + " as select * from wc_1600014495")
+    c.execute("create table " + wc_table + " as select * from wc_1601223525")
     pc.printWarn("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Created test table in dc.db => {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@".format(wc_table))
 
 if __name__ == '__main__':
     
     # ts = datetime.now().timestamp()
     # current_time = datetime.fromtimestamp(ts)
-    
     # pc.printMsg(" current time: {}".format(current_time))
+    ts = 444
+    
 
     """ Run URL Scrapers : url_scarper.py  => table@ts in (WC-DB, WP-DB) """
 
     # url_scraper_runner.run(ts)
     
-    """ Run Conent Scraper : content_scraper.py => table@ts in (WC-DB, WP-DB) """
-    # create_test_table(111111)                # Update time here: as per the name of tmp(copy) table 
-    # content_scraper.run(1600925655)          
+    # """ Run Conent Scraper : content_scraper.py => table@ts in (WC-DB, WP-DB) """
+    # create_test_table(ts)                # Update time here: as per the name of tmp(copy) table 
+    # content_scraper.run(ts)          
     
-    """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """
+    # """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """
 
-    # popi_calculator.run(1600925655)
+    # popi_calculator.run(ts)
 
-    """ Run Tagger => update WC-DB """
+    # """ Run Tagger => update WC-DB """
     
-    # tagger_simulator.run(1600925655)
+    # tagger_simulator.run(ts)
 
     """ Run DomainHontessRanker => update DDS-DB """
-    # th_creator.run(1600925655)
+    th_creator.run(ts)
 
-    """ Query TH-table for tag_names"""
-    # th_query.return_imm_children(1600925655, "cse")
-    # th_query.return_all_descendents(1600925655, "cse")
+    # """ Query TH-table for tag_names"""
+    # th_query.return_imm_children(ts, "cse")
+    # th_query.return_all_descendents(ts, "cse")
     
     """ Run Newsletter Generator """
     

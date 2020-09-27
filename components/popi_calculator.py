@@ -3,6 +3,7 @@ import datetime
 import traceback
 import logging
 import collections
+from prettytable import PrettyTable
 
 import sqlite3
 
@@ -108,9 +109,9 @@ def run_wc(ts):
     pc.printSucc('@[{}] >>>>>> Started  PopICalculator@wc ................... => TABLE: {}\n'.format(datetime.datetime.fromtimestamp(ts),wc_table))
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- < PopICalculator@wc : DB Connection Opened > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < PopICalculator@wc : DB/wc Connection Opened > ---------------------------------------------\n")
     pc.printWarn("\tRunning PopiCalculator for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
-    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
+    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  ....... PopI Calculation for wc table Started .......  .  .  .  .  .   .  .  .  .  .  .  .  .  .  .  .  .  .  .")
     startTime = time.time()
 
     days = GetLastSevenDays(ts)
@@ -162,8 +163,7 @@ def run_wc(ts):
 
         popI = CalculatePopi(row[9],row[10],max_upvotes_day, max_comments_day, max_upvotes_week, max_comments_week,row[4],days[6],row[1])
         popI = round(popI,10)
-        pc.printWarn(" \t\t [wc_popi calculation] <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
-        # pc.printMsg("\t\t\t\t ........................ Updated PopI in wc_table..............")
+        pc.printWarn(" \t\t [wc_popi calculation] Put in wc table <ID={}><Source={}> ...................... PopI = {}".format(row[0],row[1],popI))
         query = 'update ' + wc_table + ' set PopI = ? where ID = ? and SourceSite = ?'
         data = (popI,row[0],row[1])
         c.execute(query,data)
@@ -171,7 +171,7 @@ def run_wc(ts):
     endTime = time.time()
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < PopICalculator@wc: DB Connection Closed > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < PopICalculator@wc: DB/wc Connection Closed > ---------------------------------------------\n")
     pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wc    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wc_table))
 
 def run_wp(ts):
@@ -184,10 +184,10 @@ def run_wp(ts):
     pc.printSucc('@[{}] >>>>>> Started  PopICalculator@wp ................... => TABLE: {}\n'.format(datetime.datetime.fromtimestamp(ts),wp_table))
     conn = sqlite3.connect(wp_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- <  PopICalculator@wp : DB Connection Opened > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- <  PopICalculator@wp : DB/wp Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
     pc.printWarn("\tRunning PopiCalculator for wp ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
-    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .")
+    pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .  .  ....... PopI Calculation for wp table Started .......  .  .  .  .  .   .  .  .  .  .  .  .  .  .  .  .  .  .  .")
 
     days = GetLastSevenDays(ts)
 
@@ -246,7 +246,7 @@ def run_wp(ts):
     endTime = time.time()
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < PopICalculator@wp: DB Connection Closed > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < PopICalculator@wp: DB/wp Connection Closed > ---------------------------------------------\n")
     pc.printWarn("\t\t ---------------> TIME TAKEN FOR PopICalculator@wp    =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),wp_table))
 
 
@@ -274,8 +274,12 @@ def run(ts):
     pc.printWarn("| \t\t TIME TAKEN FOR PopICalculators-both     \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
     pc.printSucc("*************************************************************************************************\n\n")
 
-
-
+    pc.printSucc("\n\n***************************** PopI Calculation is Complete.************************")
+    print("\n\n")
+    table = PrettyTable(['Entity (Post PopI Calculation)', 'Value'])
+    table.add_row(['TIME TAKEN FOR PopICalculators(wc & wp) (min)', round((endTime - startTime)/60,2)])
+    pc.printSucc(table)
+    print("\n\n")
 
 
 """ ======================================================= Main Functions : END   ======================================================="""

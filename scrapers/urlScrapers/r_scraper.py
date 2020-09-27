@@ -3,11 +3,15 @@ from datetime import datetime, timedelta
 import json
 import time
 import praw  # reddit scraper
+import traceback
+import logging
 import sqlite3
+from prettytable import PrettyTable
 
 from utilities import csv_functions, text_actions, web_requests, date_conversion
 import vault
 from utilities import print_in_color as pc
+from utilities import global_wars as gw
 
 # NOTE: API documentation: https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
 
@@ -255,20 +259,18 @@ def run(ts):
         Get top 1000 submissions of the listed subreddits (max_limit is 1000; should be enough)
         Hence no use of `ts` here
     """
+    startTime = time.time()
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
     pc.printSucc('@[{}] >>>>>> Started r-scraper ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wc_table))    
-    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB/wc Connection Opened > ---------------------------------------------\n")
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
-    startTime = time.time()
 
     blob_pages = ['.jpg', '.png', '.gif', '.mp3', '.mp4'] # these give blob data; no point in scraping them
 
-    # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
-    index = 1
-    TOTAL_ENTRIES_YET = 0
+    index = gw.WC_TOTAL_URL_ENTRIES + 1
+
     # Setup Client
     reddit = praw.Reddit(
                     client_id= vault.R_CLIENT_ID,                                 # PERSONAL_USE_SCRIPT_14_CHARS
@@ -278,53 +280,66 @@ def run(ts):
                     password = vault.R_PASSWORD)                                  # YOUR_REDDIT_LOGIN_PASSWORD
 
     for subreddit,tag_arr in LIST.items():
-        pc.printWarn("\t ............  Subreddit: {}  .............".format(subreddit))
-        sr = reddit.subreddit(subreddit)
-        # for submission in sr.top('day',limit=10):                   # For testing....
-        # for submission in sr.top('year',limit=1000):                #remove this & uncomemnt below line
-        ENTRIES_IN_THIS_SUBRDDIT = 0
-        for submission in sr.top('week',limit=200):              #NOTE: max limit is 1000
-            #Check1: if the post is unlocked by mods
-            content = ''
-            
-            """ Fixing permalink type urls """
-            url = submission.url
-            if(url[:2]== '/r'):
-                url = "https://www.reddit.com" + url 
-            if(submission.locked == False):
-                #Check2: if post is just an image, discard it
-                if submission.url[-4:] not in blob_pages:  #as reddit currentluy hosts .png & .gif only
-                    # if permalink is a substring of url OR submission is a selfpost (text-only) => no need to scrape  
-                    # NOTE: I know there might be links in post with some discription+link to other article he's reffering; but not worth wasting precious processing time
-                    if((submission.permalink in submission.url) or (submission.is_self == True)):
-                        content = submission.selftext
-                    entry = [
-                        index,
-                        "r/"+subreddit,
-                        datetime.fromtimestamp(ts).date(),
-                        int(ts),
-                        date_conversion.RedditDate(str(datetime.fromtimestamp(submission.created))),
-                        submission.title,              
-                        url,
-                        json.dumps(tag_arr),
-                        '',
-                        submission.score,
-                        submission.num_comments,
-                        '',
-                        '',
-                        text_actions.clean_text(content)
-                    ]
-                    # csv_functions.putToCsv(csv_file,entry)
-                    c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
-                    index += 1
-                    TOTAL_ENTRIES_YET += 1
-                    ENTRIES_IN_THIS_SUBRDDIT += 1
-        pc.printMsg("\t\t\t\t\t ====> ENTRIES_IN_THIS_SUBRDDIT = {} \t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(ENTRIES_IN_THIS_SUBRDDIT,TOTAL_ENTRIES_YET))
+        try:
+            pc.printWarn("\t ............  Subreddit@R_UrlScraping : {}  .............".format(subreddit))
+            sr = reddit.subreddit(subreddit)
+            # for submission in sr.top('day',limit=10):                   # For testing....
+            # for submission in sr.top('year',limit=1000):                #remove this & uncomemnt below line
+            ENTRIES_IN_THIS_SUBRDDIT = 0
+            for submission in sr.top('week',limit=gw.R_ITEM_LIMIT_PER_SUBREDDIT):              #NOTE: max limit is 1000
+                #Check1: if the post is unlocked by mods
+                content = ''
+                
+                """ Fixing permalink type urls """
+                url = submission.url
+                if(url[:2]== '/r'):
+                    url = "https://www.reddit.com" + url 
+                if(submission.locked == False):
+                    #Check2: if post is just an image, discard it
+                    if submission.url[-4:] not in blob_pages:  #as reddit currentluy hosts .png & .gif only
+                        # if permalink is a substring of url OR submission is a selfpost (text-only) => no need to scrape  
+                        # NOTE: I know there might be links in post with some discription+link to other article he's reffering; but not worth wasting precious processing time
+                        if((submission.permalink in submission.url) or (submission.is_self == True)):
+                            content = submission.selftext
+                        entry = [
+                            index,
+                            "r/"+subreddit,
+                            datetime.fromtimestamp(ts).date(),
+                            int(ts),
+                            date_conversion.RedditDate(str(datetime.fromtimestamp(submission.created))),
+                            submission.title,              
+                            url,
+                            json.dumps(tag_arr),
+                            '',
+                            submission.score,
+                            submission.num_comments,
+                            '',
+                            '',
+                            text_actions.clean_text(content)
+                        ]
+                        # csv_functions.putToCsv(csv_file,entry)
+                        c.execute('INSERT INTO ' + wc_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
+                        index += 1
+                        ENTRIES_IN_THIS_SUBRDDIT += 1
+            gw.R_TOTAL_ITEMS_GOT_YET += ENTRIES_IN_THIS_SUBRDDIT
+            pc.printMsg("\t\t\t\t\t ====> ENTRIES_IN_THIS_SUBRDDIT = {} \t\t |  \t gw.R_TOTAL_ITEMS_GOT_YET = {}".format(ENTRIES_IN_THIS_SUBRDDIT,gw.R_TOTAL_ITEMS_GOT_YET))
+        except Exception as e:
+            pc.printErr(" \t xxxxxxxxxxxxx ERROR@r_UrlScraping xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
+            logging.error(traceback.format_exc())
+            pass
+        
     endTime = time.time()
+    gw.WC_TOTAL_URL_ENTRIES += gw.R_TOTAL_ITEMS_GOT_YET
+    
+    
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
-    pc.printSucc("\n\n***************************** Reddit Url Scraping is Complete. TABLE: {} *******************".format(wc_table))
-    pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
-    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
-    pc.printSucc("*************************************************************************************************\n\n")
+    pc.printMsg("\t -------------------------------------- < r_SCRAPER: DB/wc Connection Closed > ---------------------------------------------\n")
+    pc.printSucc("\n\n***************************** Reddit Url Scraping is Complete. TABLE: {} ******************".format(wc_table))
+    print("\n\n")
+    table = PrettyTable(['Entity (Post r URL Scraping)', 'Value'])
+    table.add_row(['TOTAL URLS FETCHED by HN', gw.R_TOTAL_ITEMS_GOT_YET])
+    table.add_row(['TOTAL ITEMS IN WC TABLE YET', gw.WC_TOTAL_URL_ENTRIES])
+    table.add_row(['TIME TAKEN FOR URL SCRAPING-r (min) ', round((endTime - startTime)/60,2)])
+    pc.printSucc(table)
+    print("\n\n")

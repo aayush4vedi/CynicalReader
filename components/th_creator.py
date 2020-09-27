@@ -5,8 +5,10 @@ import logging
 
 import sqlite3
 from utilities import print_in_color as pc
-
 from utilities import tree_printer_pretty
+
+from components import th_query
+
 
 
 """
@@ -19,9 +21,6 @@ from utilities import tree_printer_pretty
         * Add it to its place                               E.g.: existing_parent_n.add_child(new_tag_n)
 
 """
-
-
-
 
 
 
@@ -39,7 +38,7 @@ class Node(object):
     def add_child(self, obj):
         self.children.append(obj)
 
-# list of all the leaf nodes only
+# NOTE: list of all the leaf nodes only
 tags_names = [
     "cse",
     "prog",
@@ -1142,10 +1141,10 @@ def updateParentNodes(root):
     updateParentCount(root)
     updateParentPopi(root)
 
-def queryTreeNode(search):
+def queryTreeNodeForCountNPopi(search):
     """
         returns in this format:
-            query_from_tree = queryTreeNode("cse")
+            query_from_tree = queryTreeNodeForCountNPopi("cse")
             print("\t\t\ ====================> cse : {} , {}".format(query_from_tree[0], query_from_tree[1]))
 
 
@@ -1165,13 +1164,13 @@ def create_th(ts):
     if c.fetchone()[0]==1 :                        # table exists, flush away!
         c.execute("delete from {}".format(th_table))
     else :                                         # creting new table
-        c.execute("CREATE TABLE {} (ID, NodeName, LeftMptt, RightMptt, DepthLevel, ItemCount, AvgPopI)".format(th_table))
+        c.execute("CREATE TABLE {} (ID, NodeName, LeftMptt, RightMptt, DepthLevel, ItemCount, AvgPopI, ItemIDs)".format(th_table))
 
     index = 1
-    q = 'INSERT INTO ' + th_table + ' VALUES (?,?,?,?,?,?,?)'
+    q = 'INSERT INTO ' + th_table + ' VALUES (?,?,?,?,?,?,?,?)'
     for node_name in node_dict:
-        query_from_tree = queryTreeNode(node_name)
-        d = (index, node_name, -1,-1,0,query_from_tree[0],query_from_tree[1])
+        query_from_tree = queryTreeNodeForCountNPopi(node_name)
+        d = (index, node_name, -1,-1,0,query_from_tree[0],query_from_tree[1],'EMPTY')
         c.execute(q,d)
         index += 1
 
@@ -1206,8 +1205,71 @@ def update_th_mptt(root, lft, level, ts):
     conn.commit()
     conn.close()
     # pc.printMsg("\t -------------------------------------- < update_th: DB Connection Closed > ---------------------------------------------\n")
-
     return rght + 1
+
+
+def update_th_table_for_itemIDs(root,ts):
+    """
+        For every node in th_table: get item-IDs from wc_table which have node.Name as one of their tags in desc order of Popi
+            * [1] for leaf nodes- fetch items from wc_table
+            * [2] for non-leaf nodes; use th_query.return_imm_children // maybe move it here
+    """
+    #recursively go to leaf nodes
+    for child in root.children:
+            update_th_table_for_itemIDs(child, ts)
+
+    #if root is a leaf node
+    if(len(root.children) == 0):
+        #get list of items from wc_table
+        wc_db = 'dbs/wc.db'
+        wc_table = 'wc_' + str(int(ts))
+        conn = sqlite3.connect(wc_db, timeout=10)
+        c = conn.cursor()
+        q = 'select ID from ' + wc_table + ' where ModelTags like ? order by PopI DESC'
+        rows = c.execute(q,('%"{}"%'.format(root.name),))
+        rows = rows.fetchall()
+        list_ids = []
+        for row in rows:
+            list_ids.append(row[0])
+        conn.commit()
+        conn.close()
+    else:
+        # 'select ID from ' + wc_table + ' where ModelTags like "%ai%" or  ModelTags like "%maths%" or ... order by PopI DESC;'
+        imm_children = th_query.return_imm_children(ts,root.name)
+        model_tag_string = ''
+        for child in imm_children:
+            model_tag_string += 'ModelTags like "%{}%" or '.format(child[1])
+        # remove last 'or '
+        model_tag_string = model_tag_string[:-3] 
+
+        wc_db = 'dbs/wc.db'
+        wc_table = 'wc_' + str(int(ts))
+        conn = sqlite3.connect(wc_db, timeout=10)
+        c = conn.cursor()
+        q = 'select ID from ' + wc_table + ' where ' + model_tag_string +' order by PopI DESC'
+        rows = c.execute(q)
+        rows = rows.fetchall()
+        list_ids = []
+        for row in rows:
+            list_ids.append(row[0])
+        print("[{}]\t  \t::\t {} \n\t\t\t=> {}".format(root.name, model_tag_string,list_ids))
+        conn.commit()
+        conn.close()
+        
+    # print("[{}]\t  => {}".format(root.name, list_ids))
+
+    #Update the node in th_table
+    list_ids = json.dumps(list_ids)
+    th_db = 'dbs/th.db'
+    th_table = 'th_' + str(int(ts)) 
+    conn = sqlite3.connect(th_db, timeout=10)
+    c = conn.cursor()
+    q = 'update ' + th_table + ' set ItemIDs = ? where NodeName = ?'
+    d = (list_ids, root.name)
+    c.execute(q,d)
+
+    conn.commit()
+    conn.close()
 
 def run(ts):
     """
@@ -1234,15 +1296,20 @@ def run(ts):
     pc.printSucc("\t\t <--------------------------------------------- Parent Nodes updated ------------------------------------------------>\n")
     
     """ NOTE: Print the Tree if you want """
-    # tree_printer_pretty.print_tree(root)  
+    tree_printer_pretty.print_tree(root)  
 
     
-    """ Create & Update Tag Hotness(TH) Table"""
-    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Creating & Updating TH Table .......    .   .   .   .   .   .   .   .   .\n")
+    """ Create & Populate Tag Hotness(TH) Table"""
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Creating & Populating TH Table .......    .   .   .   .   .   .   .   .   .\n")
     create_th(ts)
     update_th_mptt(root,1,1,ts)  # update_th_mptt(root,left,level,ts)
-    pc.printSucc("\t\t <--------------------------------------------- TH Table Created & Updated ------------------------------------------------>\n")
+    pc.printSucc("\t\t <--------------------------------------------- TH Table Created & Populated ------------------------------------------------>\n")
 
     endTime = time.time()
     th_table = 'th_' + str(int(ts)) 
     pc.printWarn("\t\t ---------------> TIME TAKEN FOR th_creating@th (sec)   =>  {} => TABLE: {}\n".format(round((endTime - startTime),5),th_table))
+
+    """ Update th_table for ItemIDs of wc_table """
+    pc.printWarn("\t\t .   .   .   .   .   .   .   .   .   ....... Updating th_table for ItemIDs from wc_table.......    .   .   .   .   .   .   .   .   .\n")
+    update_th_table_for_itemIDs(root,ts)
+    pc.printSucc("\t\t <--------------------------------------------- th_table now has ItemIDs from wc_table ------------------------------------------------>\n")

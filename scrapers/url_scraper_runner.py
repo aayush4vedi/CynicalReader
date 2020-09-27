@@ -1,10 +1,15 @@
 import sqlite3
 import traceback
 import logging
-from scrapers.urlScrapers import hn_scraper, r_scraper, ph_scraper
-from utilities import csv_functions
+import time
+from datetime import datetime, timedelta
+from prettytable import PrettyTable
 
 from utilities import print_in_color as pc
+from utilities import global_wars as gw
+
+from scrapers.urlScrapers import hn_scraper, r_scraper, ph_scraper
+
 
 def run(ts):
 
@@ -19,6 +24,7 @@ def run(ts):
             * float because o/w `datetime.fromtimestamp(ts)` wont run on int
         Outpu: None, just put data in WC-DB
     """
+    startTime = time.time()
 
     """ Initialize the weekly content tables in wc.db and wp.db"""
     
@@ -32,6 +38,8 @@ def run(ts):
     else :                                         # creting new table
         c.execute("CREATE TABLE {} (ID, SourceSite, ProcessingDate,ProcessingEpoch,CreationDate, Title, Url, SourceTags,ModelTags,NumUpvotes, NumComments, PopI,WeightedContent,Content)".format(wc_table))
 
+    pc.printSucc("\n**************************************************** wc_table created => {} **************************************************** \n".format(wc_table))
+
     wp_db = 'dbs/wp.db'
     wp_table = 'wp_' + str(int(ts))
     conn = sqlite3.connect(wp_db, timeout=10)
@@ -43,17 +51,11 @@ def run(ts):
         c.execute('''CREATE TABLE {}
                 (ID, SourceSite, ProcessingDate,ProcessingEpoch,CreationDate, Title, Url, ThumbnailUrl,SourceTags,NumUpvotes, NumComments, PopI,Content)'''.format(wp_table))
 
-
-    # wc_db_table = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wc-db/wc_table_'+str(int(ts))+'.csv'
-    # headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url', 'SourceTags','ModelTags','NumUpvotes', 'NumComments', 'PopI','WeightedContent','Content']
-    # csv_functions.creteCsvFile(wc_db_table,headers)
-
-    # wp_db_table = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wp-db/wp_table_'+str(int(ts))+'.csv'
-    # headers = ['ID', 'SourceSite', 'ProcessingDate','ProcessingEpoch','CreationDate', 'Title', 'Url','ThumbnailUrl' ,'SourceTags','NumUpvotes', 'NumComments', 'PopI','Content']
-    # csv_functions.creteCsvFile(wp_db_table,headers)
+    pc.printSucc("\n**************************************************** wp_table created => {} **************************************************** \n".format(wp_table))
 
 
     """ Run the scrapers sequentially """
+    pc.printWarn(".   .   .   .   .   .   .   .   .   .   .   .   .   .   .   ...... Started Running all the scrapers ......    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .\n")
 
     try:
         hn_scraper.run(ts)
@@ -85,6 +87,17 @@ def run(ts):
     # except Exception as e:
     #     print(" XXXXXXXXXXXX Error in scraping IH for url XXXXXXXXXXXXXXXXX \n \t\tError = {}".format(str(e)))
     #     pass
-    pc.printSucc(" ******************** All url scrapers ran successfully *****************\n")
+
+    #TODO: add Lobsters here
+
+
+    endTime = time.time()
+    pc.printSucc(" ********************************************** URL Scraping(HN,r,PH) is complete *******************************************\n")
+    print("\n\n")
+    table = PrettyTable(['Entity (Post all URL Scraping)', 'Value'])
+    table.add_row(['TOTAL URL ITEMS IN WC TABLE ', gw.WC_TOTAL_URL_ENTRIES])
+    table.add_row(['TIME TAKEN FOR URL SCRAPING-All (min) ', round((endTime - startTime)/60,2)])
+    pc.printSucc(table)
+    print("\n\n")
 
 

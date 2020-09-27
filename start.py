@@ -32,11 +32,6 @@ if __name__ == '__main__':
     """ Run DomainHontessRanker => update TH-DB """
     th_creator.run(ts)
 
-    """ Query TH-table for tag_names"""
-    # th_query.return_imm_children(ts, "cse")
-    # th_query.th_query.return_all_descendents(ts, "cse")
-
-    
     """ Run Newsletter Generator """
     
     """ Run Admin View Maker """

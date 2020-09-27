@@ -12,10 +12,12 @@ from datetime import datetime, timedelta
 import traceback
 import logging
 import sqlite3
+from prettytable import PrettyTable
 
 from utilities import csv_functions, text_actions, web_requests, date_conversion
 import vault
 from utilities import print_in_color as pc
+from utilities import global_wars as gw
 
 def run(ts):
     """
@@ -41,7 +43,7 @@ def run(ts):
     pc.printSucc('@[{}] >>>>>> Started PH-scraper ................... => TABLE: {}\n'.format(datetime.fromtimestamp(ts),wp_table))
     conn = sqlite3.connect(wp_db, timeout=10)
     c = conn.cursor()
-    pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB Connection Opened > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB/wp Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
 
     """
@@ -74,8 +76,7 @@ def run(ts):
     }
 
     # csv_file = '/Users/aayush.chaturvedi/Sandbox/cynicalReader/dbs/wp-db/wp_table_'+str(int(ts))+'.csv'
-    index = 1
-    TOTAL_ENTRIES_YET = 0
+    index = gw.WP_TOTAL_ENTRIES_YET + 1
 
     for date in days_arr:
         pc.printMsg(" ................. scraping for date =  {} .................\n".format(date))
@@ -110,20 +111,28 @@ def run(ts):
                     # csv_functions.putToCsv(csv_file,entry)
                     c.execute('INSERT INTO ' + wp_table + ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)', entry)
                     index=index+1
-                    TOTAL_ENTRIES_YET += 1
+                    gw.PH_TOTAL_ITEMS_GOT_YET += 1
 
         except Exception as e:
-            pc.printErr(" \t xxxxxxxxxxxxx ERROR xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
+            pc.printErr(" \t xxxxxxxxxxxxx ERROR@PH_UrlScraping xxxxxxxxxxxxxxxxxxxx >> [ID]= {} Skipping...Failed due to: {} \n".format(index, e))
             logging.error(traceback.format_exc())
             pass
 
-        pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(index+1))
+        pc.printMsg("\t\t\t ====>> TOTAL_ENTRIES_YET = {}".format(gw.PH_TOTAL_ITEMS_GOT_YET))
+
+
+    gw.WP_TOTAL_ENTRIES_YET += gw.PH_TOTAL_ITEMS_GOT_YET
 
     endTime = time.time()
     conn.commit()
     conn.close()
-    pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB Connection Closed > ---------------------------------------------\n")
+    pc.printMsg("\t -------------------------------------- < PH_SCRAPER: DB/wp Connection Closed > ---------------------------------------------\n")
+
     pc.printSucc("\n\n***************************** PH Url Scraping is Complete. TABLE: {} ******************".format(wp_table))
-    pc.printSucc("| \t\t TOTAL URLS FETCHED                    \t\t | \t\t {} \t\t |".format(TOTAL_ENTRIES_YET))
-    pc.printSucc("| \t\t TIME TAKEN FOR URL SCRAPING           \t\t | \t\t {}  \t\t |".format(round((endTime - startTime),5)))
-    pc.printSucc("*************************************************************************************************\n\n")
+    print("\n\n")
+    table = PrettyTable(['Entity (Post PH URL Scraping)', 'Value'])
+    table.add_row(['TOTAL URLS FETCHED by PH', gw.PH_TOTAL_ITEMS_GOT_YET])
+    table.add_row(['TOTAL ITEMS IN WP TABLE YET', gw.WP_TOTAL_ENTRIES_YET])
+    table.add_row(['TIME TAKEN FOR URL SCRAPING-PH (sec) ', round((endTime - startTime),5)])
+    pc.printSucc(table)
+    print("\n\n")

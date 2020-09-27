@@ -300,7 +300,7 @@
   * [@] Introduce & infuse the real model(manch)
   * [@] Get more date,more tags; train the model properly
 
-* [-] Domain Hotness Ranker [-27Sep20]
+* [x] Domain Hotness Ranker [-27Sep20]
   * Logic:
     * 1. Get (weekly) item count & avg popi for each tag(NOTE: will use item_count as a measure for hotness for now.To sort by Popi-later;)
     * Each main_thread/cat/subc/tag is treated like a node in the; with root_node = CynicalReader **tree** 
@@ -327,14 +327,19 @@
     * What to query: 
       * Count
       * Avg_popi
-      * [] TODO:Links to articles????
-  * [] TODO: Enable lobsters_scraper(with source tags & all) 
-  * [] TODO: Link tags with PH_scraper 
-  
-* [] Newsletter generator [ - ]
+      * [x] Links to articles???? => IDs of items in des order of popi
+  * [x] UPDATE TH_TABLE: Store items(form wc_table) into th_table for each node(in desc order of Popi) 
+  * [] Include SourceTags everywhere too
   * While making the graph; 
     * Write brief for every node
     * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
+  
+  
+* BreadCrumbs
+  * [x] Fix ID among scrapers - use global_wars
+  * [x] Refactor for try-catch everywhere!
+  * [] TODO: Enable lobsters_scraper(with source tags & all) 
+  * [] TODO: Link tags with PH_scraper 
 * [] Admin View Maker [ - ]
 
 * **To Ponder**
