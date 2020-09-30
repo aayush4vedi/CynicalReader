@@ -155,7 +155,7 @@ def run(ts):
                     date_conversion.HNDate(str(item["created_at"])),
                     item["title"],              
                     url,
-                    'selfproj',
+                    'sideproj',
                     '',
                     item["points"],
                     item["num_comments"],

@@ -19,21 +19,23 @@ if __name__ == '__main__':
     
     """ Run Conent Scraper : content_scraper.py => table@ts in (WC-DB, WP-DB) """
 
-    content_scraper.run(ts)        
+    # content_scraper.run(ts)        
     
-    """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """
+    # """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """
 
-    popi_calculator.run(ts)
+    # popi_calculator.run(ts)
 
-    """ Run ManchTagger(simulator for now) => update WC-DB """
+    # """ Run ManchTagger(simulator for now) => update WC-DB """
     
-    tagger_simulator.run(ts)
+    # tagger_simulator.run(ts)
 
-    """ Run DomainHontessRanker => update TH-DB """
-    th_creator.run(ts)
+    # """ Run DomainHontessRanker => update TH-DB """
+    # th_creator.run(ts)
 
     """ Run Newsletter Generator """
     
     """ Run Admin View Maker """
     
+
+
     

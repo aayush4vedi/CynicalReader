@@ -328,16 +328,23 @@
       * Count
       * Avg_popi
       * [x] Links to articles???? => IDs of items in des order of popi
-  * [x] UPDATE TH_TABLE: Store items(form wc_table) into th_table for each node(in desc order of Popi) 
-  * [] Include SourceTags everywhere too
-  * While making the graph; 
-    * Write brief for every node
-    * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
+  * [x] UPDATE TH_TABLE: Store items(form wc_table)<ID, SourceSite> into th_table for each node(in desc order of Popi) 
+    * to get items IDs(wc wale) of 'HN' from a node: `select ID, NodeName from th_4444 where ItemIDs like "%HN%";`
+    * [x] Include SourceTags everywhere too
+    * **UPDATE**: Wont work w/o JOINing the two tables.TODO: study joins well & implement 
   
   
 * BreadCrumbs
   * [x] Fix ID among scrapers - use global_wars
   * [x] Refactor for try-catch everywhere!
+  * [-] Fix Content_Scraper
+    * [x] Try Seedha+Ulta traversal => Didnt work out
+    * [x] Try Series of Parallel connection :: WORKED!
+      * NOTE: current situation:
+        * Number of series connections of async = 10
+        * each takes about 4 mins to run & scrapes content of about 200-300 items
+        * Each iteration seems to degrade #items
+    * [x] Put timeout in content-formatter: fucking stuck for 2 hrs at an entry
   * [] TODO: Enable lobsters_scraper(with source tags & all) 
   * [] TODO: Link tags with PH_scraper 
 * [] Admin View Maker [ - ]
@@ -345,6 +352,7 @@
 * **To Ponder**
   * 
   * What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
+  * What if I am scraping with my laptop & wifi goes off???????How will I know & how to fix it??
   * See if you can use these sites too:
     * hackernoon.com 
     * npmjs.com 
@@ -356,12 +364,12 @@
 
 ## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
 * [] Create Website
+  * While making the graph; 
+    * Write brief for every node
+    * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
 * [] Create User Management System & User Dashboard
 * [] Mail User Mailer
 * [] Run `BackBone` for 2 weeks in parallel
 
 
 ## [Ticket6] : FuckinLaunch(<21Aug20>)
-
-
-

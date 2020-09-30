@@ -1073,7 +1073,8 @@ def updateLeafNodes(ts):
 
     """     
         This is the query:
-            SELECT count(ID) as count, avg(PopI) as avg_popi from wc_1600362907 where ModelTags like '%"ai"%';
+           select count(ID) from wc_1601292562 where ModelTags like "%prog_query%" or SourceTags like "%prog_query%";
+
     """
 
     wc_db = 'dbs/wc.db'
@@ -1087,11 +1088,12 @@ def updateLeafNodes(ts):
     startTime = time.time()
 
     for tag in tags_names:
-        q = 'select count(ID) from ' + wc_table + ' where ModelTags like ?'
-        item_count = c.execute(q,('%"{}"%'.format(tag),))
+        q = 'select count(ID) from ' + wc_table + ' where ModelTags like ? or SourceTags like ?'
+        d = ('%"{}"%'.format(tag),'%"{}"%'.format(tag),)
+        item_count = c.execute(q,d)
         item_count = c.fetchone()[0]
-        q = 'select avg(PopI) from ' + wc_table + ' where ModelTags like ?'
-        avg_popi = c.execute(q,('%"{}"%'.format(tag),))
+        q = 'select avg(PopI) from ' + wc_table + ' where ModelTags like ? or SourceTags like ?'
+        avg_popi = c.execute(q,d)
         avg_popi = c.fetchone()[0]
         if avg_popi == None:
             avg_popi = 0
@@ -1210,7 +1212,7 @@ def update_th_mptt(root, lft, level, ts):
 
 def update_th_table_for_itemIDs(root,ts):
     """
-        For every node in th_table: get item-IDs from wc_table which have node.Name as one of their tags in desc order of Popi
+        For every node in th_table: get item-<IDs & SourcSite> from wc_table which have node.Name as one of their tags in desc order of Popi
             * [1] for leaf nodes- fetch items from wc_table
             * [2] for non-leaf nodes; use th_query.return_imm_children // maybe move it here
     """
@@ -1225,12 +1227,13 @@ def update_th_table_for_itemIDs(root,ts):
         wc_table = 'wc_' + str(int(ts))
         conn = sqlite3.connect(wc_db, timeout=10)
         c = conn.cursor()
-        q = 'select ID from ' + wc_table + ' where ModelTags like ? order by PopI DESC'
-        rows = c.execute(q,('%"{}"%'.format(root.name),))
+        q = 'select ID, SourceSite from ' + wc_table + ' where ModelTags like ? or SourceTags like ? order by PopI DESC'
+        d = ('%"{}"%'.format(root.name),'%"{}"%'.format(root.name),)
+        rows = c.execute(q,d)
         rows = rows.fetchall()
         list_ids = []
         for row in rows:
-            list_ids.append(row[0])
+            list_ids.append((row[0],row[1]))
         conn.commit()
         conn.close()
     else:
@@ -1238,7 +1241,7 @@ def update_th_table_for_itemIDs(root,ts):
         imm_children = th_query.return_imm_children(ts,root.name)
         model_tag_string = ''
         for child in imm_children:
-            model_tag_string += 'ModelTags like "%{}%" or '.format(child[1])
+            model_tag_string += 'ModelTags like "%{}%" or SourceTags like "%{}%" or '.format(child[1],child[1])
         # remove last 'or '
         model_tag_string = model_tag_string[:-3] 
 
@@ -1246,13 +1249,13 @@ def update_th_table_for_itemIDs(root,ts):
         wc_table = 'wc_' + str(int(ts))
         conn = sqlite3.connect(wc_db, timeout=10)
         c = conn.cursor()
-        q = 'select ID from ' + wc_table + ' where ' + model_tag_string +' order by PopI DESC'
+        q = 'select ID, SourceSite from ' + wc_table + ' where ' + model_tag_string +' order by PopI DESC'
         rows = c.execute(q)
         rows = rows.fetchall()
         list_ids = []
         for row in rows:
-            list_ids.append(row[0])
-        print("[{}]\t  \t::\t {} \n\t\t\t=> {}".format(root.name, model_tag_string,list_ids))
+            list_ids.append((row[0],row[1]))
+        # print("[{}]\t  \t::\t {} \n\t\t\t=> {}".format(root.name, model_tag_string,list_ids))
         conn.commit()
         conn.close()
         

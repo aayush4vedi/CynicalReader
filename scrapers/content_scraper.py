@@ -15,7 +15,9 @@ import socket
 import ssl
 import sqlite3
 import re 
+import signal
 from urlextract import URLExtract
+import nest_asyncio
 
 import nltk
 from nltk import word_tokenize
@@ -31,6 +33,10 @@ from utilities import global_wars as gw
 """ ============================================================================================== text_action functions:START ================================"""
 extractor = URLExtract()
 wordnet = WordNetLemmatizer()
+
+
+def timeout_handler(signum, frame):
+    raise Exception("Function Timed Out !!!!!!")
 
 def getUrlString(intxt):
     common_url_words = ['http', 'https', 'www', 'com', 'html', 'htm','pdf','mp3','mp4','jpg','jpeg','gif','png', ':','/','//']
@@ -60,7 +66,7 @@ def clean_text(text):
 
 """ =============== Async-Executor Helpers: START ===============  """
 
-async def fetchWithRetry(row, session):
+async def fetchWithRetry(row, session,series_count):
     """
         Hits ulr(with retires):
         * if status == 200:
@@ -73,22 +79,18 @@ async def fetchWithRetry(row, session):
 
     status = 400
     retry_cnt = 2
-    sleep_time = 2
+    sleep_time = 0.1
 
     t1 = time.time()
     while retry_cnt > 0 and status != 200:
         async with session.get(row[6],ssl=ssl.create_default_context(purpose=ssl.Purpose.CLIENT_AUTH), timeout = gw.CS_ASYNC_REQ_TIMEOUT) as response: 
-            # res = await response.content.read()       #NOTE: returns blob which gives error while ContentFormatter; hence discarded
+            # res = await response.content.read()       # returns blob which gives error while ContentFormatter; hence discarded
             res = await response.text()
             status = response.status
             if( status == 200 and len(res) != 0):
-                if gw.CS_ASYNC_ITEM_SCRAPED[1] == 0: # that means this is the SEEDHA-wala async
-                    gw.CS_ASYNC_ITEM_SCRAPED[0] += 1
-                    gw.CS_BOYS_STILL_PLAYING[0] -= 1
-                else:
-                    gw.CS_ASYNC_ITEM_SCRAPED[1] += 1
-                    gw.CS_BOYS_STILL_PLAYING[1] -= 1
-                pc.printSucc("\t\t <ID = {}><src= {} > ============== #ASYNC_Scraped ....... \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],round((round((time.time()-t1),5)),5),time.strftime("%H:%M:%S", time.localtime())))
+                gw.CS_ASYNC_ITEM_SCRAPED += 1
+                gw.CS_BOYS_STILL_PLAYING -= 1
+                pc.printSucc("\t\t <ID = {}><src= {} > ============== [ASYNCED SCRAPED#{}] Done ....... \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],series_count,round((round((time.time()-t1),5)),5),time.strftime("%H:%M:%S", time.localtime())))
                 row_list = list(row)
                 row_list[13] = res
                 row = tuple(row_list)
@@ -97,60 +99,115 @@ async def fetchWithRetry(row, session):
                 retry_cnt -= 1
                 pc.printWarn("\t x---------------- <ID = {}><src= {} > Unable to hit URL(ERR_CODE={}): {}.........  Sleeping for {} Retries remaining = {} -------------x".format(row[0],row[1],status,row[6][:25], sleep_time, retry_cnt))
                 await asyncio.sleep(sleep_time)
-    if gw.CS_ASYNC_ITEM_SCRAPED[1] == 0: # that means this is the SEEDHA-wala async
-        gw.CS_ASYNC_URL_UNREACHABLE[0] += 1
-    else:
-         gw.CS_ASYNC_URL_UNREACHABLE[1] += 1
-    pc.printErr("\t\txxxxx  For <ID = {}><src= {} >Totally unable to hit url.... Will try sync later: {} \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
-    return row
+    if series_count == gw.ASYNC_SERIES_CONNECTION:
+        gw.CS_ASYNC_URL_UNREACHABLE += 1
+        pc.printErr("\t\txxxxx  For <ID = {}><src= {} >Totally unable to hit url.... Will try sync later: {} \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
+    # return row #TODO: return NULL
+    return []
 
 
 
 
-async def semaphoreSafeFetch(sem, row, session):
+# async def semaphoreSafeFetch(sem, row, session,series_count):
+#     """
+#         Simply puts semaphore limit on async-fetch
+#     """
+
+#     async with sem:
+#         try:
+#             return await fetchWithRetry(row, session,series_count)
+#         except Exception as e:
+#             if series_count == gw.ASYNC_SERIES_CONNECTION:      # dont count the errors in each series run.Some might get ressolved in next one.
+#                 gw.CS_ASYNC_SEMA_EXCEPTION_ERR += 1
+#                 pc.printWarn("\t======= XXXXXXXXXXXXXX ======>> <ID = {}><src= {} > NOW = {} Async Scraping failed.Will try SYNC later... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+#                 # logging.error(traceback.format_exc())
+#             pass
+#     return [] 
+
+
+async def semaphoreSafeFetch(sem, row, session,series_count,ts):
     """
         Simply puts semaphore limit on async-fetch
     """
 
     async with sem:
         try:
-            return await fetchWithRetry(row, session)
+            row = await fetchWithRetry(row, session,series_count)
+            if row and len(row[13]) >0:
+                # await semaphoreSqlUpdate(row,ts)
+                wc_db = 'dbs/wc.db'
+                wc_table = 'wc_' + str(int(ts))
+                content = row[13]  
+                conn = sqlite3.connect(wc_db)
+                gw.SQL_CONN_OPEN += 1
+                c = conn.cursor()
+                q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+                d = (content,row[0],row[1])
+                c.execute(q,d)
+                pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
+                conn.commit()
+                conn.close()
+                gw.SQL_CONN_OPEN -= 1
         except Exception as e:
-            if gw.CS_ASYNC_ITEM_SCRAPED[1] == 0: # that means this is the SEEDHA-wala async
-                gw.CS_ASYNC_SEMA_EXCEPTION_ERR[0] += 1
-            else:
-                gw.CS_ASYNC_SEMA_EXCEPTION_ERR[1] += 1
-            pc.printWarn("\t======= XXXXXXXXXXXXXX ======>> <ID = {}><src= {} > NOW = {} Async Scraping failed.Will try sync later... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
-            logging.error(traceback.format_exc())
+            if series_count == gw.ASYNC_SERIES_CONNECTION:      # dont count the errors in each series run.Some might get ressolved in next one.
+                gw.CS_ASYNC_SEMA_EXCEPTION_ERR += 1
+                pc.printWarn("\t======= XXXXXXXXXXXXXX ======>> <ID = {}><src= {} > NOW = {} Async Scraping failed.Will try SYNC later... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+                # logging.error(traceback.format_exc())
             pass
-    return row          
+    return []        
+
+#NOTE: Abandoned SQL ingesion async because of mutex issue with sql
+# async def semaphoreSqlUpdate(row,ts):
+#     try:
+#         wc_db = 'dbs/wc.db'
+#         wc_table = 'wc_' + str(int(ts))
+#         content = row[13]  
+#         conn = sqlite3.connect(wc_db)
+#         gw.SQL_CONN_OPEN += 1
+#         c = conn.cursor()
+#         q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+#         d = (content,row[0],row[1])
+#         c.execute(q,d)
+#         pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
+#         conn.commit()
+#         conn.close()
+#         gw.SQL_CONN_OPEN -= 1
+#         # return 1
+#     except Exception as e:
+#         pc.printWarn("\t======= XXXXXXXXXXXXXX SEMAPHORE_SQL_UPDATE_ERR:: gw.SQL_CONN_OPEN = {} ======>> <ID = {}><src= {} > NOW = {} \n \t\t ERROR=> {}".format(gw.SQL_CONN_OPEN,row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+#         logging.error(traceback.format_exc())    
+#         pass
+#     # return 0 
+    
 
 """ ===============  Async-Executor Helpers: END ===============  """
 
-async def asyncFetchAll(ts):
+async def asyncFetchAll(ts,series_count):       #series_count : {1,gw.ASYNC_SERIES_CONNECTION}
     """
         just add the content into Content column, no cleaning OR weightedContent OR UrlString etc. here.
     """
 
-    tasks = []
-    sem = asyncio.Semaphore(gw.SEMAPHORE_COUNT)
-
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    conn = sqlite3.connect(wc_db, timeout=10)
+    conn = sqlite3.connect(wc_db)
+    gw.SQL_CONN_OPEN += 1
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_ASYNC: DB/wc Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
 
-    q = "select * from " + wc_table
-    rows_head = c.execute(q)
-    rows = rows_head.fetchall()
     socket.gethostbyname("")
     connector = TCPConnector(limit=gw.CONNECTION_COUNT,family=socket.AF_INET,verify_ssl=False)
-    # connector = TCPConnector(limit=CONNECTION_COUNT)
-    # NOTE: this is seedha wala
-    pc.printMsg("\n\n===================================================================== Doing on Seedha-wala Async Scraping in the same table =====================================================================\n\n")
+    pc.printMsg("\n\n===================================================================== Doing {}-th Async Scraping in the same table =====================================================================\n\n".format(series_count))
     async with ClientSession(headers={'Connection': 'keep-alive'},connector=connector) as session:
+        q = "select * from " + wc_table + " where length(Content) = 0"  # only get the rows without content
+        rows_head = c.execute(q)
+        rows = rows_head.fetchall()
+        conn.commit()
+        conn.close()
+        gw.SQL_CONN_OPEN -= 1
+
+        tasks = []
+        sem = asyncio.Semaphore(gw.SEMAPHORE_COUNT)
         for row in rows:
             """
                 ============= row is an array with indices: 
@@ -158,93 +215,85 @@ async def asyncFetchAll(ts):
                 SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
             """
             t1 = time.time()
-
-            if(len(row[13]) != 0):
-                gw.CS_ITEMS_WRITTEN_DIRECT += 1
-                pc.printWarn("\t <ID = {}><src= {} > [NO SCRAPING NEEDED] \t Content already exists............... \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
-                content = row[13]  
-                q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
-                d = (content,row[0],row[1])
-                c.execute(q,d)
-                # pc.printSucc(" \t\t ============== <ID= {} ><{}> [Direct ContentScraped] \t INSERTED INTO TABLE =============== ".format(row[0],row[1]))
-            elif(row[5] and row[6]): # else ignore the entry
-                gw.CS_BOYS_STILL_PLAYING[0] += 1
-                if gw.CS_BOYS_STILL_PLAYING[0] % gw.CS_BOYS_PLAYING_LIMIT == 0:
-                    pc.printMsg("\t\t [ASYNC_SCRAPING] sleeping for 2 sec...zzzzzzzzz....... \t BOYS_STILL_PLAYING = {}".format(gw.CS_BOYS_STILL_PLAYING[0]))
-                    time.sleep(2)
-                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
+            if(row[5] and row[6]): # else ignore the entry
+                gw.CS_BOYS_STILL_PLAYING += 1
+                if gw.CS_BOYS_STILL_PLAYING % gw.CS_BOYS_PLAYING_LIMIT == 0:
+                    pc.printMsg("\t [ASYNC_SCRAPING] sleeping for 1 sec...zzzzzzzzz....... \t BOYS_STILL_PLAYING = {}".format(gw.CS_BOYS_STILL_PLAYING))
+                    time.sleep(1)
+                # task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session,series_count))
+                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session,series_count,ts))
                 tasks.append(task)
 
-        responses = await asyncio.gather(*tasks)
-        for row in responses:
-            if row:
-                content = row[13]  
-                q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
-                d = (content,row[0],row[1])
-                c.execute(q,d)
-                # pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+        await asyncio.gather(*tasks)
+        # responses = await asyncio.gather(*tasks)
+        # for row in responses:
+        #     if row and len(row[13]) >0:
+        #         try:
+        #             content = row[13]  
+        #             conn = sqlite3.connect(wc_db)
+        #             c = conn.cursor()
+        #             q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+        #             d = (content,row[0],row[1])
+        #             c.execute(q,d)
+        #             pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE =============== ".format(row[0],row[1]))
+        #             conn.commit()
+        #             conn.close()
+        #         except Exception as e:
+        #             logging.error(traceback.format_exc())
+        #         pass
+        # succs = []
+        # for row in responses:
+        #     if row and len(row[13]) >0:
+        #         succ = asyncio.ensure_future(semaphoreSqlUpdate(sem,row,ts))
+        #         succs.append(succ)
+        # succsx = await asyncio.gather(*succs)
 
-    """
-        Doing one ULTA-ASYNC :P    ......... trying async scraping in reverse order of rows
-    """
-    pc.printMsg("\n\n===================================================================== Doing on Ulta-wala Async Scraping in the same table =====================================================================\n\n")
-        
-    async with ClientSession(headers={'Connection': 'keep-alive'},connector=connector) as session:
-        for row in reversed(rows):
-            """
-                ============= row is an array with indices: 
-                ID(0),SourceSite(1),ProcessingDate(2),ProcessingEpoch(3),CreationDate(4),Title(5),Url(6),
-                SourceTags(7),ModelTags(8),NumUpvotes(9),NumComments(10),PopI(11),WeightedContent(12),Content(13)
-            """
-            t1 = time.time()
-
-            if(len(row[13]) == 0 and row[5] and row[6]): 
-                gw.CS_BOYS_STILL_PLAYING[1]+= 1
-                if gw.CS_BOYS_STILL_PLAYING[1] % gw.CS_BOYS_PLAYING_LIMIT == 0:  # no need to change CS_BOYS_PLAYING_LIMIT
-                    pc.printMsg("\t\t [ASYNC_SCRAPING-  ULTIIiii ] sleeping for 2 sec...zzzzzzzzz....... \t BOYS_STILL_PLAYING = {}".format(gw.CS_BOYS_STILL_PLAYING[1]))
-                    time.sleep(2)
-                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session))
-                tasks.append(task)
-
-        responses = await asyncio.gather(*tasks)
-        for row in responses:
-            if row:
-                content = row[13]  
-                q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
-                d = (content,row[0],row[1])
-                c.execute(q,d)
-                # pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped-\tULTIIiii] \t INSERTED INTO TABLE =============== ".format(row[0],row[1]))
-
-
-
-    
     endTime = time.time()
-    conn.commit()
-    conn.close()
-    pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_ASYNC: DB/wc Connection Closed > ---------------------------------------------\n")
     
-    pc.printSucc("\n\n***************************** Async Content Scraping is Complete. TABLE: {} ******************".format(wc_table))
+    pc.printSucc("\n***************************** {} -th Async Content Scraping is Complete. TABLE: {} ******************".format(series_count,wc_table))
     print("\n\n")
     table = PrettyTable(['Success (Post Async Content Scraping)', 'Notation(if any)','Value'])
-    table.add_row(['IN : gw.WC_TOTAL_URL_ENTRIES ', '[X] (A+B+C=X)' ,gw.WC_TOTAL_URL_ENTRIES])
-    table.add_row(['OUT : ITEMS WRITTEN DIRECT(no scraping needed) ', '[A] (A+B1+B2+C=X)',gw.CS_ITEMS_WRITTEN_DIRECT])
-    table.add_row(['OUT : ITEMS SCRAPED WITH ASYNC-seedha','[B1] (A+B+C=X)' ,gw.CS_ASYNC_ITEM_SCRAPED[0]])
-    table.add_row(['OUT : ITEMS SCRAPED WITH ASYNC-ulta','[B2] (A+B+C=X)' ,gw.CS_ASYNC_ITEM_SCRAPED[1]])
-    table.add_row(['TIME TAKEN - ASYNC CONTENT SCRAPING (min)', '-',round((endTime - startTime)/60,2)])
+    table.add_row(['OUT : TOTAL ITEMS SCRAPED WITH ASYNC YET','[B] (A+B+C=X)' ,gw.CS_ASYNC_ITEM_SCRAPED])
     pc.printSucc(table)
-
-    pc.printErr("------------------------------------------ ERRORS-ASYNC (Written nonetheless, chill) ------------------------------------------------\n")    
-    table = PrettyTable(['Failures (Post Async Content Scraping)','Value'])
-    table.add_row(['COUNT. UNREACHABLE URLS in ASYNC-seedha ' ,gw.CS_ASYNC_URL_UNREACHABLE[0]])
-    table.add_row(['COUNT. TRY/CATCHED SEMA EXCEP. in ASYNC-seedha ' ,gw.CS_ASYNC_SEMA_EXCEPTION_ERR[0]])
-    table.add_row(['COUNT. UNREACHABLE URLS in ASYNC-ulta ' ,gw.CS_ASYNC_URL_UNREACHABLE[1]])
-    table.add_row(['COUNT. TRY/CATCHED SEMA EXCEP. in ASYNC-ulta ' ,gw.CS_ASYNC_SEMA_EXCEPTION_ERR[1]])
-    pc.printErr(table)
-    table.add_row(['TIME TAKEN FOR URL SCRAPING-r (min) ', round((endTime - startTime)/60,2)])
     print("\n")
     pc.printWarn('\t\t\t------------------------->>>>>> [ TimeTaken for Async Scraping (min) = {} ]\n'.format(round((endTime - startTime),5)/60))
     print("\n\n")
 
+
+async def RunAsync(ts):
+    """
+        Does ASYNC_SERIES_CONNECTION times number of series executions in parallel
+    """
+    startTime = time.time()
+    wc_table = 'wc_' + str(int(ts))
+
+    for i in range(1,gw.ASYNC_SERIES_CONNECTION+1):
+        gw.CS_BOYS_STILL_PLAYING = 0
+        pc.printMsg("\n\n..........-------------\/\/\/------\/\/\/------\/\/\/---------------............  Running Async for {} -th time - \t Numer of Async-runs remaining: {} \t\t NOW: {}\n\n".format(i,(gw.ASYNC_SERIES_CONNECTION-i),time.strftime("%H:%M:%S", time.localtime())))
+        # asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts,i)))
+        await asyncFetchAll(ts,i)
+        pc.printMsg("\t\t..........-------------\/\/\/------............  {} -th Async Running is done.Sleeping for 10 sec now......ZZZZZZZzzzzzzzzz\t\t NOW: {}\n\n".format(i,time.strftime("%H:%M:%S", time.localtime())))
+        time.sleep(10)
+    
+    endTime = time.time()
+    pc.printSucc("\n\n***************************** All {} Async Content Scraping is Complete. TABLE: {} ******************".format(gw.ASYNC_SERIES_CONNECTION,wc_table))
+    print("\n\n")
+    table = PrettyTable(['Success (Post ALL series Async Content Scraping)', 'Notation(if any)','Value'])
+    table.add_row(['IN : gw.WC_TOTAL_URL_ENTRIES ', '[X] (A+B+C=X)' ,gw.WC_TOTAL_URL_ENTRIES])
+    table.add_row(['OUT : ITEMS WRITTEN DIRECT(no scraping needed) ', '[A] (A+B1+B2+C=X)',gw.CS_ITEMS_WRITTEN_DIRECT])
+    table.add_row(['OUT : ITEMS SCRAPED WITH ASYNC','[B] (A+B+C=X)' ,gw.CS_ASYNC_ITEM_SCRAPED])
+    table.add_row(['TIME TAKEN - ASYNC CONTENT SCRAPING (min)', '-',round((endTime - startTime)/60,2)])
+    pc.printSucc(table)
+
+    pc.printErr("------------------------------------------ ERRORS-ASYNC (Written nonetheless, chill) ------------------------------------------------\n")    
+    table = PrettyTable(['Failures (Counted as-in last run of Async Content Scraping)','Value'])
+    table.add_row(['COUNT. UNREACHABLE URLS in ASYNC ' ,gw.CS_ASYNC_URL_UNREACHABLE])
+    table.add_row(['COUNT. TRY/CATCHED SEMA EXCEP. in ASYNC ' ,gw.CS_ASYNC_SEMA_EXCEPTION_ERR])
+    pc.printErr(table)
+    table.add_row(['TIME TAKEN FOR URL SCRAPING-r (min) ', round((endTime - startTime)/60,2)])
+    print("\n")
+    pc.printWarn('\t\t\t------------------------->>>>>> [ TimeTaken for All {} Sync Scraping (min) = {} ]\n'.format(gw.ASYNC_SERIES_CONNECTION,round((endTime - startTime),5)/60))
+    print("\n\n")
 
 
 def RunSync(ts):
@@ -317,7 +366,7 @@ def RunSync(ts):
 
 
 
-#############################TODO:                     make async------> taking freaking 20 mins now
+#############################TODO: Put in timeout
 def ContentFormatting(ts):
     """ 
     Do:
@@ -338,14 +387,15 @@ def ContentFormatting(ts):
     pc.printWarn("\tRunning ContentFormatter for wc ....... \t NOW: {}".format(time.strftime("%H:%M:%S", time.localtime())))
     pc.printWarn("\t\t. .  .  .  .  .  .  .  .  .  .  .......... Content Formatting Started @Content_Scraper ...........  .  .  .  .  .  .  .  .  .  .  .")
 
+    signal.signal(signal.SIGALRM, timeout_handler)      # timeouts on few function calls, see below
     q = "select * from " + wc_table
     rows_head = c.execute(q)
     rows = rows_head.fetchall()
     for row in rows:
         t1 = time.time()
+        row_list = list(row)
         if(len(row[13]) != 0):
             gw.CS_ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_OK += 1
-            row_list = list(row)
             clean_title = clean_text(row_list[5])
             if len(row_list[13]) == 0 :
                 pc.printWarn("\t\t\t\t --------- No content found on cleaning, using Title as Content :(")
@@ -353,11 +403,51 @@ def ContentFormatting(ts):
                 row_list[12] = clean_title
             else:
                 raw_content = row_list[13]
-                content = text_actions.contentfromhtml(raw_content)
-                clean_content = clean_text(content)
-                weighted_content = text_actions.weightedcontentfromhtml(raw_content) 
-                clean_weighted_content = clean_text(weighted_content)
-                url_string_text = getUrlString(raw_content)
+                signal.alarm(200)        # Timeout of 200 sec on function call
+                content = clean_title    # if timeout happens, this will be the value of content
+                try:
+                    content = text_actions.contentfromhtml(raw_content)
+                except Exception as exc: 
+                    pc.printErr("\t <ID = {}><src= {} > Timeout of 200 sec happened on CONTENT@ContentFromHtml ! ....using Title as content ".format(row[0],row[1]))
+                    # pc.printWarn(exc)
+                    pass
+
+                signal.alarm(200)        # Timeout of 200 sec on function call
+                clean_content = clean_title    # if timeout happens, this will be the value of content
+                try:
+                    clean_content = clean_text(content)
+                except Exception as exc: 
+                    pc.printErr("\t <ID = {}><src= {} > Timeout of 200 sec happened on CONTENT@CleanText ! ....using Title as content ".format(row[0],row[1]))
+                    # pc.printWarn(exc)
+                    pass
+
+                signal.alarm(200)        # Timeout of 200 sec on function call
+                weighted_content = clean_title    # if timeout happens, this will be the value of content
+                try:
+                    weighted_content = text_actions.weightedcontentfromhtml(raw_content) 
+                except Exception as exc: 
+                    pc.printErr("\t <ID = {}><src= {} > Timeout of 200 sec happened on WEIGHTED_CONTENT@WeightedContentFromHtml ! ....using Title as weightedcontent ".format(row[0],row[1]))
+                    # pc.printWarn(exc)
+                    pass
+
+                signal.alarm(200)        # Timeout of 200 sec on function call
+                clean_weighted_content = clean_title    # if timeout happens, this will be the value of content
+                try:
+                    clean_weighted_content = clean_text(weighted_content)
+                except Exception as exc: 
+                    pc.printErr("\t <ID = {}><src= {} > Timeout of 200 sec happened on WEIGHTED_CONTENT@CleanText ! ....using Title as weightedcontent ".format(row[0],row[1]))
+                    # pc.printWarn(exc)
+                    pass
+
+                signal.alarm(200)        # Timeout of 200 sec on function call
+                url_string_text = ''    # if timeout happens, this will be the value of content
+                try:
+                    url_string_text = getUrlString(raw_content)
+                except Exception as exc: 
+                    pc.printErr("\t <ID = {}><src= {} > Timeout of 200 sec happened on URL_STRING@getUrlString ! ....using empty str as url_string_text ".format(row[0],row[1]))
+                    # pc.printWarn(exc)
+                    pass
+
                 row_list[13] = clean_content
                 row_list[12] = clean_weighted_content + " " + url_string_text + " " + clean_title
 
@@ -398,20 +488,20 @@ def ContentFormatting(ts):
 
 
 def run(ts):
+    nest_asyncio.apply()        #  to be able to run async loop from aj async loop
 
     wc_table = 'wc_' + str(int(ts))
     pc.printMsg('@[{}] >>>>>> Started Content-scraper(ASYNC) .......[Sema = {}, conn_lim ={}]............ => TABLE: {}\n'.format(datetime.fromtimestamp(ts),gw.SEMAPHORE_COUNT,gw.CONNECTION_COUNT,wc_table))
 
     startTime = time.time()
 
-    # """ scrape content in async """
-    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts)))
-    time.sleep(5)
+    """ scrape content in async """
+    # asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(RunAsync(ts)))
 
     """ scrape remaining items with sync """
-    RunSync(ts) 
+    # RunSync(ts) 
 
-    """ formatting everything in the end-done in sync """
+    # """ formatting everything in the end-done in sync """
     ContentFormatting(ts) 
 
     endTime = time.time()
