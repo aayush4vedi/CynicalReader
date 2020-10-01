@@ -28,7 +28,8 @@ PH_TOTAL_ITEMS_GOT_YET = 0
 SQL_CONN_OPEN = 0                                       # Number of sql conn open at the moment, you're in troube if this number !=1 (both >1 or ==0 means something is fucked up)
 SEMAPHORE_COUNT = 10                                    # NOTE: cant do better than this, everythin falls apart if made >10
 CONNECTION_COUNT = 10                                   # NOTE: cant do better than this, everythin falls apart if made >10
-ASYNC_SERIES_CONNECTION = 10                            # Number of paraller async fetch done in series, #items_output  decrease exponantialy with each next iteration
+# ASYNC_SERIES_CONNECTION = 2                            # Number of paraller async fetch done in series, #items_output  decrease exponantialy with each next iteration
+ASYNC_SERIES_CONNECTION = 30                            # Number of paraller async fetch done in series, #items_output  decrease exponantialy with each next iteration
 CS_ASYNC_REQ_TIMEOUT = 100
 
 CS_ASYNC_ITEM_SCRAPED = 0                                # Successfully hit url & get content with async method

@@ -222,8 +222,8 @@
         * [x] How to read & write with excel file
         * [x] how to embed in content_scraper
         * [x] Run one scraping round & analyse
-        * [ ] FIXME: content_scraper is not efficient at all. ERR: [Too Many open files]. Have to fix the async way of writing into csv files
-        * [ ] Check for #empty Content in the final csv
+        * [x] #FIXED: content_scraper is not efficient at all. ERR: [Too Many open files]. Have to fix the async way of writing into csv files
+        * [x] Check for #empty Content in the final csv
       * [x] is it better to run `content_scraper` in sync with `url_scrapers` 
         * => NO, because; if url_scrapers failed, there's not point in running content_scraper; so try max_time & max_retries for url_scrapers
   * [x] Enrichment of `clean_text` function:
@@ -255,7 +255,6 @@
     * [x] Content Scraper
     * **UPDATE**: no duplicate tables like <timestamp> & <timestamp>_wc .Just create <timestamp>_wc &  <timestamp>_wp and for  <timestamp>_wp if content doesnt exists; send for scraping & delete that row.Then update the row later when async response has returned.
     * [] FIXME: Fix issues:
-      * [] TODO: if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
       * [x] `xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = 115><src= r/computerscience > As No Content xxxxxxxxxxxxxxxxxxxxxxxx`
         * => Cont do anything, just keep as it is
       * [] `ERROR 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte`
@@ -281,7 +280,6 @@
       * **IMPACT** : Run time = 2 hrs, %Scraping = 1.5% (DIRECT = 60%, ASYNC = 7%,SYNC = 33%)
       * Fix Async.Its as good as nothing--------go httpx maybe???
         * => Update: 7 mins, 1000 successful scraping, #GoodEnough
-      * TODO: fix DB related issues
 
 * Make `PopICalc.py`
   * [x] Convert all sorts of datetime formats to just date (@utilities/date_conversion.py)
@@ -293,7 +291,6 @@
   * [@] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
   * **Resource** : Use (alexa)[https://www.alexa.com/siteinfo/ycombinator.com] to get in-depth info of a site
   * [x] Visit SourceSites, get user population
-  * [ ] TODO: Upadte damping factor in PopI calculation
 
 * Model:(Manch)
   * [x] Make @manch_simulator(until model is N/A) => To update ModelTags col {17Sep20}
@@ -331,10 +328,10 @@
   * [x] UPDATE TH_TABLE: Store items(form wc_table)<ID, SourceSite> into th_table for each node(in desc order of Popi) 
     * to get items IDs(wc wale) of 'HN' from a node: `select ID, NodeName from th_4444 where ItemIDs like "%HN%";`
     * [x] Include SourceTags everywhere too
-    * **UPDATE**: Wont work w/o JOINing the two tables.TODO: study joins well & implement 
+    * **UPDATE**: Wont work w/o JOINing the two tables.TODOed: study joins well & implement 
   
   
-* BreadCrumbs
+* Eat these BreadCrumbs
   * [x] Fix ID among scrapers - use global_wars
   * [x] Refactor for try-catch everywhere!
   * [-] Fix Content_Scraper
@@ -344,13 +341,19 @@
         * Number of series connections of async = 10
         * each takes about 4 mins to run & scrapes content of about 200-300 items
         * Each iteration seems to degrade #items
+        * #items successfully scraped is directly proportional to internet speed
+        * with ASYNC_SERIES_CONNECTION = 20, got 90% content in 2 hrs.seems good
     * [x] Put timeout in content-formatter: fucking stuck for 2 hrs at an entry
-  * [] TODO: Enable lobsters_scraper(with source tags & all) 
-  * [] TODO: Link tags with PH_scraper 
-* [] Admin View Maker [ - ]
+
+* [] Join wcXth on ID & SourceTags
+* [] Build the basic ACTUAL product
+* [] MakeActual Model
+
+
+## [Ticket5] : Build Prelaunch stuff(<?-?>)
 
 * **To Ponder**
-  * 
+  * .
   * What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
   * What if I am scraping with my laptop & wifi goes off???????How will I know & how to fix it??
   * See if you can use these sites too:
@@ -359,10 +362,20 @@
     * freecodecamp.org 
     * dev.to
       * [] @reddit: what about the new subreddits being added?
+  
+* **Backend**:
+  * [] fix DB related issues- stopped in mid, locked, crashed
+    * if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
+    * [] FIXME: put try/catch everywhete sql is touched
+  * [] Bring PH into picture:
+    * Tag linking
+    * sql table joining
+    * model update? I dont think is needed
+  * [] Enable lobsters_scraper(with source tags & all) & other sources 
+  * [ ] Upadte damping factor in PopI calculation
 
-* Actual Model [ - ]
-
-## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
+* **Frontend**:
+* [] Admin View Maker 
 * [] Create Website
   * While making the graph; 
     * Write brief for every node
@@ -372,4 +385,4 @@
 * [] Run `BackBone` for 2 weeks in parallel
 
 
-## [Ticket6] : FuckinLaunch(<21Aug20>)
+## [Ticket6] : FuckinLaunch(~~<21Aug20>~~) (?-?)

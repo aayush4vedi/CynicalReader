@@ -28,7 +28,7 @@ if __name__ == '__main__':
     # ts = datetime.now().timestamp()
     # current_time = datetime.fromtimestamp(ts)
     # pc.printMsg(" current time: {}".format(current_time))
-    ts = 1111001
+    ts = 2029
     
 
     """ Run URL Scrapers : url_scarper.py  => table@ts in (WC-DB, WP-DB) """
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     # url_scraper_runner.run(ts)
     
     # """ Run Conent Scraper : content_scraper.py => table@ts in (WC-DB, WP-DB) """
-    # create_test_table(ts)                # Update time here: as per the name of tmp(copy) table 
+    create_test_table(ts)                # Update time here: as per the name of tmp(copy) table 
     content_scraper.run(ts)          
     
     # """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """

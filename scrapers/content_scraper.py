@@ -66,7 +66,7 @@ def clean_text(text):
 
 """ =============== Async-Executor Helpers: START ===============  """
 
-async def fetchWithRetry(row, session,series_count):
+async def fetchWithRetry(conn,row, session,series_count,ts):
     """
         Hits ulr(with retires):
         * if status == 200:
@@ -94,6 +94,25 @@ async def fetchWithRetry(row, session,series_count):
                 row_list = list(row)
                 row_list[13] = res
                 row = tuple(row_list)
+
+                # wc_db = 'dbs/wc.db'
+                wc_table = 'wc_' + str(int(ts))
+                # conn = sqlite3.connect(wc_db)
+                # gw.SQL_CONN_OPEN += 1
+                try:
+                    c = conn.cursor()
+                    q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+                    d = (row[13],row[0],row[1])
+                    c.execute(q,d)
+                    pc.printWarn(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
+                    conn.commit()
+                except Exception as e:
+                    pc.printMsg(" \t\t === XXXX ====== <ID= {} ><{}> [ASYNC ContentScraped] \t ERRR in INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
+                    logging.error(traceback.format_exc())
+                    pass
+                # conn.close()
+                # gw.SQL_CONN_OPEN -= 1
+
                 return row
             else:
                 retry_cnt -= 1
@@ -102,7 +121,7 @@ async def fetchWithRetry(row, session,series_count):
     if series_count == gw.ASYNC_SERIES_CONNECTION:
         gw.CS_ASYNC_URL_UNREACHABLE += 1
         pc.printErr("\t\txxxxx  For <ID = {}><src= {} >Totally unable to hit url.... Will try sync later: {} \t\t TimeTaken = {} \t NOW: {}".format(row[0],row[1],row[6],round((time.time()-t1),5),time.strftime("%H:%M:%S", time.localtime())))
-    # return row #TODO: return NULL
+    # return row 
     return []
 
 
@@ -125,29 +144,42 @@ async def fetchWithRetry(row, session,series_count):
 #     return [] 
 
 
-async def semaphoreSafeFetch(sem, row, session,series_count,ts):
+async def semaphoreSafeFetch(conn,sem, row, session,series_count,ts):
     """
         Simply puts semaphore limit on async-fetch
     """
 
+    # async with sem:
+    #     try:
+    #         row = await fetchWithRetry(row, session,series_count)
+    #         if row and len(row[13]) >0:
+    #             # await semaphoreSqlUpdate(row,ts)
+    #             wc_db = 'dbs/wc.db'
+    #             wc_table = 'wc_' + str(int(ts))
+    #             content = row[13]  
+    #             conn = sqlite3.connect(wc_db)
+    #             gw.SQL_CONN_OPEN += 1
+    #             c = conn.cursor()
+    #             q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
+    #             d = (content,row[0],row[1])
+    #             c.execute(q,d)
+    #             pc.printWarn(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
+    #             conn.commit()
+    #             conn.close()
+    #             gw.SQL_CONN_OPEN -= 1
+    #     except Exception as e:
+    #         if series_count == gw.ASYNC_SERIES_CONNECTION:      # dont count the errors in each series run.Some might get ressolved in next one.
+    #             gw.CS_ASYNC_SEMA_EXCEPTION_ERR += 1
+    #             pc.printWarn("\t======= XXXXXXXXXXXXXX ======>> <ID = {}><src= {} > NOW = {} Async Scraping failed.Will try SYNC later... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()) ,e))
+    #             # logging.error(traceback.format_exc())
+    #         pass
+    # return []        
     async with sem:
         try:
-            row = await fetchWithRetry(row, session,series_count)
+            row = await fetchWithRetry(conn,row, session,series_count,ts)
             if row and len(row[13]) >0:
                 # await semaphoreSqlUpdate(row,ts)
-                wc_db = 'dbs/wc.db'
-                wc_table = 'wc_' + str(int(ts))
                 content = row[13]  
-                conn = sqlite3.connect(wc_db)
-                gw.SQL_CONN_OPEN += 1
-                c = conn.cursor()
-                q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
-                d = (content,row[0],row[1])
-                c.execute(q,d)
-                pc.printSucc(" \t\t ============== <ID= {} ><{}> [ASYNC ContentScraped] \t INSERTED INTO TABLE :: gw.SQL_CONN_OPEN = {} =============== ".format(row[0],row[1],gw.SQL_CONN_OPEN))
-                conn.commit()
-                conn.close()
-                gw.SQL_CONN_OPEN -= 1
         except Exception as e:
             if series_count == gw.ASYNC_SERIES_CONNECTION:      # dont count the errors in each series run.Some might get ressolved in next one.
                 gw.CS_ASYNC_SEMA_EXCEPTION_ERR += 1
@@ -182,16 +214,22 @@ async def semaphoreSafeFetch(sem, row, session,series_count,ts):
 
 """ ===============  Async-Executor Helpers: END ===============  """
 
-async def asyncFetchAll(ts,series_count):       #series_count : {1,gw.ASYNC_SERIES_CONNECTION}
+async def asyncFetchAll(conn,ts,series_count):       #series_count : {1,gw.ASYNC_SERIES_CONNECTION}
     """
         just add the content into Content column, no cleaning OR weightedContent OR UrlString etc. here.
     """
 
-    wc_db = 'dbs/wc.db'
+    # wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    conn = sqlite3.connect(wc_db)
-    gw.SQL_CONN_OPEN += 1
+    # conn = sqlite3.connect(wc_db)
+    # gw.SQL_CONN_OPEN += 1
     c = conn.cursor()
+    q = "select * from " + wc_table + " where length(Content) = 0"  # only get the rows without content
+    rows_head = c.execute(q)
+    rows = rows_head.fetchall()
+    conn.commit()
+    # conn.close()
+    # gw.SQL_CONN_OPEN -= 1
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_ASYNC: DB/wc Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
 
@@ -199,12 +237,6 @@ async def asyncFetchAll(ts,series_count):       #series_count : {1,gw.ASYNC_SERI
     connector = TCPConnector(limit=gw.CONNECTION_COUNT,family=socket.AF_INET,verify_ssl=False)
     pc.printMsg("\n\n===================================================================== Doing {}-th Async Scraping in the same table =====================================================================\n\n".format(series_count))
     async with ClientSession(headers={'Connection': 'keep-alive'},connector=connector) as session:
-        q = "select * from " + wc_table + " where length(Content) = 0"  # only get the rows without content
-        rows_head = c.execute(q)
-        rows = rows_head.fetchall()
-        conn.commit()
-        conn.close()
-        gw.SQL_CONN_OPEN -= 1
 
         tasks = []
         sem = asyncio.Semaphore(gw.SEMAPHORE_COUNT)
@@ -221,7 +253,7 @@ async def asyncFetchAll(ts,series_count):       #series_count : {1,gw.ASYNC_SERI
                     pc.printMsg("\t [ASYNC_SCRAPING] sleeping for 1 sec...zzzzzzzzz....... \t BOYS_STILL_PLAYING = {}".format(gw.CS_BOYS_STILL_PLAYING))
                     time.sleep(1)
                 # task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session,series_count))
-                task = asyncio.ensure_future(semaphoreSafeFetch(sem, row, session,series_count,ts))
+                task = asyncio.ensure_future(semaphoreSafeFetch(conn,sem, row, session,series_count,ts))
                 tasks.append(task)
 
         await asyncio.gather(*tasks)
@@ -265,16 +297,30 @@ async def RunAsync(ts):
         Does ASYNC_SERIES_CONNECTION times number of series executions in parallel
     """
     startTime = time.time()
+    wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
+    conn = sqlite3.connect(wc_db)
+
+    """ get rows with content alredy present & put in gw.CS_ITEMS_WRITTEN_DIRECT .Will work just for 1st iteration"""
+    c = conn.cursor()
+    q = "select count(*) from " + wc_table + " where length(Content) != 0"
+    no_scraping_needed_item_count = c.execute(q)
+    no_scraping_needed_item_count = c.fetchone()[0]
+    gw.CS_ITEMS_WRITTEN_DIRECT = no_scraping_needed_item_count
+
+    conn.commit()
+    # conn.close()
+    # gw.SQL_CONN_OPEN -= 1
 
     for i in range(1,gw.ASYNC_SERIES_CONNECTION+1):
         gw.CS_BOYS_STILL_PLAYING = 0
         pc.printMsg("\n\n..........-------------\/\/\/------\/\/\/------\/\/\/---------------............  Running Async for {} -th time - \t Numer of Async-runs remaining: {} \t\t NOW: {}\n\n".format(i,(gw.ASYNC_SERIES_CONNECTION-i),time.strftime("%H:%M:%S", time.localtime())))
         # asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(asyncFetchAll(ts,i)))
-        await asyncFetchAll(ts,i)
+        await asyncFetchAll(conn,ts,i)
         pc.printMsg("\t\t..........-------------\/\/\/------............  {} -th Async Running is done.Sleeping for 10 sec now......ZZZZZZZzzzzzzzzz\t\t NOW: {}\n\n".format(i,time.strftime("%H:%M:%S", time.localtime())))
         time.sleep(10)
     
+    conn.close()
     endTime = time.time()
     pc.printSucc("\n\n***************************** All {} Async Content Scraping is Complete. TABLE: {} ******************".format(gw.ASYNC_SERIES_CONNECTION,wc_table))
     print("\n\n")
@@ -303,15 +349,17 @@ def RunSync(ts):
     startTime = time.time()
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    conn = sqlite3.connect(wc_db, timeout=10)
+    conn = sqlite3.connect(wc_db)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_SYNC: DB/wc Connection Opened > ---------------------------------------------\n")
 
     blob_pages = ['.jpg', '.png', '.gif','.mp3', '.mp4']
 
-    q = "select * from " + wc_table
+    q = "select * from " + wc_table + " where length(Content) = 0"
     rows_head = c.execute(q)
     rows = rows_head.fetchall()
+    pc.printMsg("\n\n \t ******************************* ITEMS FOR SYNC TO SCRAPE = {} ******************************\n\n".format(len(rows)))
+    conn.commit()
     for row in rows:
         t1 = time.time()
         if(len(row[13]) == 0):
@@ -329,6 +377,7 @@ def RunSync(ts):
                         q = 'update ' + wc_table + ' set Content = ? where ID = ? and SourceSite = ?'
                         d = (row[13],row[0],row[1])
                         c.execute(q,d)
+                        conn.commit()
                         # pc.printSucc(" \t\t ============== <ID= {} ><{}> [SYNCED SCRAPED] INSERTED INTO TABLE =============== ".format(row[0],row[1]))
                     else:
                         gw.CS_SYNC_URL_UNREACHABLE += 1
@@ -338,10 +387,9 @@ def RunSync(ts):
             except Exception as e:
                 gw.CS_SYNC_TRIED_CATCH_EXCEPTION_ERR += 1
                 pc.printErr("\t XXXXXXXXXXXXXX [SYNC SCRAPING] XXXX ==>> <ID = {}><src= {} > NOW = {} , \t\t TimeTaken = {} ....Sync Scraping failed too.Will use Title for content... \n \t\t ERROR=> {}".format(row[0],row[1],time.strftime("%H:%M:%S", time.localtime()),round((time.time()-t1),5) ,e))
-                logging.error(traceback.format_exc())
+                # logging.error(traceback.format_exc())
                 pass
     endTime = time.time()
-    conn.commit()
     conn.close()
     pc.printMsg("\t -------------------------------------- < CONTENT_SCRAPER_SYNC: DB/wc Connection Closed > ---------------------------------------------\n")
     
@@ -364,9 +412,7 @@ def RunSync(ts):
 
 """ --------------------------------===============  sync-Executor : END ===============--------------------------------  """
 
-
-
-#############################TODO: Put in timeout
+#NOTE: cant make async as sql has a DEADLOCK on c.execute(q,d)
 def ContentFormatting(ts):
     """ 
     Do:
@@ -380,7 +426,7 @@ def ContentFormatting(ts):
 
     wc_db = 'dbs/wc.db'
     wc_table = 'wc_' + str(int(ts))
-    conn = sqlite3.connect(wc_db, timeout=10)
+    conn = sqlite3.connect(wc_db)
     c = conn.cursor()
     pc.printMsg("\t -------------------------------------- < Content Formatter: DB/wc Connection Opened > ---------------------------------------------\n")
     startTime = time.time()
@@ -391,6 +437,7 @@ def ContentFormatting(ts):
     q = "select * from " + wc_table
     rows_head = c.execute(q)
     rows = rows_head.fetchall()
+    conn.commit()
     for row in rows:
         t1 = time.time()
         row_list = list(row)
@@ -458,6 +505,7 @@ def ContentFormatting(ts):
             q = 'update ' + wc_table + ' set Content = ?, WeightedContent = ?  where ID = ? and SourceSite = ?'
             d = (row[13], row[12],row[0],row[1])
             c.execute(q,d)
+            conn.commit()
             # pc.printSucc(" \t\t ============== <ID= {} ><{}> [Content Formatting]-with content INSERTED INTO TABLE =============== ".format(row[0],row[1]))
         else: #No content
             gw.CS_ITEM_PUT_IN_AFTER_CONTENT_FORMATTING_NO_CONTENT += 1
@@ -467,9 +515,10 @@ def ContentFormatting(ts):
             q = 'update ' + wc_table + ' set Content = ?, WeightedContent = ?  where ID = ? and SourceSite = ?'
             d = (content, content,row[0],row[1])
             c.execute(q,d)
+            conn.commit()
             # pc.printSucc(" \t\t ============== <ID= {} ><{}> [Content Formatting]-without content INSERTED INTO TABLE =============== ".format(row[0],row[1]))
     endTime = time.time()
-    conn.commit()
+    
     conn.close()
     pc.printMsg("\t -------------------------------------- < Content Formatter: DB/wc Connection Closed > ---------------------------------------------\n")
 
@@ -496,12 +545,13 @@ def run(ts):
     startTime = time.time()
 
     """ scrape content in async """
-    # asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(RunAsync(ts)))
-
+    asyncio.get_event_loop().run_until_complete(asyncio.ensure_future(RunAsync(ts)))
+    time.sleep(10)
     """ scrape remaining items with sync """
-    # RunSync(ts) 
+    RunSync(ts) 
 
-    # """ formatting everything in the end-done in sync """
+    """ formatting everything in the end-done in sync """
+    time.sleep(10)
     ContentFormatting(ts) 
 
     endTime = time.time()
