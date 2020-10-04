@@ -19,8 +19,8 @@ def create_test_table(n):       # similar to wc_1599816944 (the url-only table)
     wc_table = 'wc_' + str(n) 
     conn = sqlite3.connect(wc_db, timeout=10)
     c = conn.cursor()
-    c.execute("create table " + wc_table + " as select * from wc_1601413857")   #url table
-    # c.execute("create table " + wc_table + " as select * from wc_1601292562")   #full content table
+    # c.execute("create table " + wc_table + " as select * from wc_1601413857")   #url table
+    c.execute("create table " + wc_table + " as select * from wc_1601511004")   #full content table
     pc.printWarn("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Created test table in dc.db => {} @@@@@@@@@@@@@@@@@@@@@@@@@@@@".format(wc_table))
 
 if __name__ == '__main__':
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     # ts = datetime.now().timestamp()
     # current_time = datetime.fromtimestamp(ts)
     # pc.printMsg(" current time: {}".format(current_time))
-    ts = 2029
+    ts = 123421
     
 
     """ Run URL Scrapers : url_scarper.py  => table@ts in (WC-DB, WP-DB) """
@@ -36,8 +36,8 @@ if __name__ == '__main__':
     # url_scraper_runner.run(ts)
     
     # """ Run Conent Scraper : content_scraper.py => table@ts in (WC-DB, WP-DB) """
-    create_test_table(ts)                # Update time here: as per the name of tmp(copy) table 
-    content_scraper.run(ts)          
+    # create_test_table(ts)                # Update time here: as per the name of tmp(copy) table 
+    # content_scraper.run(ts)          
     
     # """ Run PopICalculator => update table@ts in (WC-DB, WP-DB) """
 
@@ -50,9 +50,8 @@ if __name__ == '__main__':
     """ Run DomainHontessRanker => update DDS-DB """
     # th_creator.run(ts)
 
-    # """ Query TH-table for tag_names"""
-    # th_query.return_imm_children(ts, "cse")
-    # th_query.return_all_descendents(ts, "cse")
+    """ Query TH-table for items"""
+    th_query.ReturnTopTenItemsofTag( "ai", ts,11)
     
     """ Run Newsletter Generator """
     

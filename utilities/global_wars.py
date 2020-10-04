@@ -1,3 +1,7 @@
+""" Timestamp- constant per week"""
+TIMESTAMP_OF_THE_WEEK = 0
+
+
 """ Specific to all the wc_table's url scrapers(hn_scraper,r_scraper)"""
 WC_TOTAL_URL_ENTRIES = 0
 

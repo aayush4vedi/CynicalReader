@@ -346,17 +346,41 @@
     * [x] Put timeout in content-formatter: fucking stuck for 2 hrs at an entry
 
 * [] Join wcXth on ID & SourceTags
-* [] Build the basic ACTUAL product
-* [] MakeActual Model
+  * [x] Joining Tables:               
+        [x] Readup all about joins  
+             => Joins wont work here, as one cant do joins on %like% in array
+        [x] Update th_creator query:
+             [x] Add 2 cols in th_table; HN_IDs, R_IDs
+             [x] update query to have just on list od IDs in them; in desc order or popi 
+* [-] Build the basic ACTUAL product[3oct20-?]
+  * APPROACHES:
+    * 1. Run python on one server & nodejs app on other(to call python functions as separate api calls)
+      * => Running 2 separate server is costly
+    * 2. Write the app in node.js & spawn python scripts for each api call like [this](https://stackoverflow.com/questions/44580668/node-js-backend-calling-a-python-function) or [this](https://www.ivarprudnikov.com/nodejs-server-running-python-scripts/)
+      * => feels like jugaad.Not efficient & scalable
+    * 3. Write the app in `FLASK`
+    * **Learning FLASK**
+      * Resource: [ Flask mega tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+      * POC done for simple get/post; will learn the rest later when building website & all
+    * [-] Build basic product on html+flas+jinja2
+      * [x] Show items
+      * [ ] Show children popi/count graph
+        * Graph made with [chart.js](https://towardsdatascience.com/flask-and-chart-js-tutorial-i-d33e05fba845)
+* [] Fix BreadCrumbs:
+  * [] Few nodes have empty values, mptt index = -1 & level = 0; FIX THEM
 
+* [] MakeActual Tagger Model
 
 ## [Ticket5] : Build Prelaunch stuff(<?-?>)
 
 * **To Ponder**
-  * .
-  * What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
+  * [] Show (A)immediate children or (B)all descendents in the graph???
+  * [] Efficiency:
+    * How to precalcuate all the db queries; they are consuming so much time => bad UX
+  * [] ItemCount for a tag is proportioanl to number of sources you have.Is it fair to rate them by then?
+  * [] What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
   * What if I am scraping with my laptop & wifi goes off???????How will I know & how to fix it??
-  * See if you can use these sites too:
+  * [] See if you can use these sites too:
     * hackernoon.com 
     * npmjs.com 
     * freecodecamp.org 

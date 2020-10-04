@@ -4,11 +4,13 @@ import csv
 
 from scrapers import url_scraper_runner, content_scraper
 from components import popi_calculator, tagger_simulator, th_creator, th_query
+from utilities import global_wars
 from utilities import print_in_color as pc
 
 if __name__ == '__main__':
     
     ts = datetime.now().timestamp()
+    gw.TIMESTAMP_OF_THE_WEEK = ts
     current_time = datetime.fromtimestamp(ts)
     
     pc.printMsg(" current time: {}".format(current_time))
@@ -31,6 +33,9 @@ if __name__ == '__main__':
 
     """ Run DomainHontessRanker => update TH-DB """
     th_creator.run(ts)
+
+    """ Query TH-table for items"""
+    th_query.ReturnTopTenItemsofTag( "ai", ts,11)
 
     """ Run Newsletter Generator """
     
