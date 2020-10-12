@@ -369,9 +369,76 @@
 * [] Fix BreadCrumbs:
   * [] Few nodes have empty values, mptt index = -1 & level = 0; FIX THEM
 
-* [] MakeActual Tagger Model
 
-## [Ticket5] : Build Prelaunch stuff(<?-?>)
+## [Ticket5] : Build Prelaunch stuff(<9oct-?>)
+
+* **UI+UMS**
+  * [] TODO: find better name
+    * CynicalReader :boring
+    * CynicalNews
+    * stoicnews
+    * uLLu
+    * Noshit!
+    * BetterHackerNews
+    * BetterNews
+  * [x] Finalize format of Newletter
+    * Rendering iframe in mail:
+      * [If you expect that client will render content inside your IFrame it very likely not to happen due to security restrictions in mail clients](https://stackoverflow.com/questions/12650060/how-to-send-a-iframe-in-email-body)
+    * Do POC on pdf/pdf-ish dynamic content
+      * [This](https://pages.litmus.com/lp/TEDC15-launch-email) - [blog](https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/) looks good but has no dynamic routing-See if you can enhance it
+    * **Good Resources for Email Template**
+      * https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/
+      * https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/
+      * https://designmodo.com/email-newsletter-templates/
+      * https://www.campaignmonitor.com/dev-resources/guides/mobile/
+      * https://hackernoon.com/how-to-build-a-dynamic-email-template-in-under-10-minutes-1fe85ad40e35
+    * **DECISION**
+      * @mail: I'll mail a template(or img maybe) to users with graph(as image) & top articles
+        * Below it will be a button for `Read Full Newsletter` -> redirecting to user's dashboard->week's newsletter
+      * @dashboard: will have list of user's all newsletters(from the day he's subscribed in)
+      * @newsletter: a ajax page
+  * [x] Decide format of tree
+    * Possible options:
+      * JS based(dropdown) : https://codepen.io/mlegakis/pen/MmmRXd
+      * D3Js based(tree) : https://codepen.io/augbog/pen/LEXZKK
+        * with some twist: https://codepen.io/gyunee/pen/oNvEoOb
+      * Something of it's own type(& a bit confusing) : https://codepen.io/znak/pen/qapRkQ
+  * [x] Design (basic UI) pages & flows on figma
+    * Inspirations from https://somewordsfor.me
+      * W/o login/signup-> just show Buy/Login page & GetDemo(tell him specifically-no creditcards reqd)
+      * When new customer comes; clicks on GetDemo; make him choose his topic & then ask for email & mail him demo report+price_plan(link to plan page) to promote buying("want latest...buy here" types)
+      * {price_plan_page} : add demo NL's for both plans
+      * USER ONBOARDING: {signup_page} : email signup -> {payment_page}
+      * {payment_page} -> enable auto-detect
+      * Right after signup & payment is done; pop-up to choose nodes & ask inform about time of receiving mail everyweek
+      * {user_dashboard} : show time filter & all NL's list + (cancellable)pop-up to upgrade plan:"Have more topics of interest, upgrade plan to unlimited"
+      * {weekly_newsletter}: send a template with graph's picture & 5 articles(with their links); click anywhere on temple redirects to user_nl_i page. Also ther's a Read_full_NL button in the sent template
+  * Coding basic UI
+    * [x] Got some flask-saas templates.Try them first
+      * https://github.com/toddbirchard/flasklogin-tutorial/tree/master/flask_login_tutorial [been used]
+      * https://github.com/alectrocute/flaskSaaS [prod-ready saas app]
+      * https://www.youtube.com/watch?v=8aTnmsDMldY [basic flask app+youtube] 
+      * https://github.com/cookiecutter-flask/cookiecutter-flask/tree/master/%7B%7Bcookiecutter.app_name%7D%7D
+      * https://github.com/tedivm/tedivms-flask
+      * https://github.com/app-generator/admin-dashboards
+      * https://github.com/app-generator/flask-apps
+    * [-] Code up my usecase-(with basic UI- NO FANCY!!!)
+  * [] Figure out optimum pricing strategy
+  * [-] Figure out the payment part & how to test
+      * Recurring Payment Methods. Helpful links:
+        * https://hackernoon.com/setting-up-subscriptions-and-recurring-payments-using-django-and-stripe-lh2d3ujc
+        * https://www.saaspegasus.com/guides/django-stripe-integrate/
+        * https://www.reddit.com/r/django/comments/7nm7hc/payment_system_for_monthly_subscriptions_saas/
+        * https://developers.braintreepayments.com/guides/recurring-billing/create/python
+      * [] Integrate into code
+  * [] Logo: (inspirations: cynicism/owl/Diogenes/dog)
+  * [] Research on UI+Newsletter+Email_template & update figma (NOTE: minimalism is the theme)
+    * NOTE: tell fuckers that unlike others we dont "handpick", we NLP it!
+    * NOTE: Use d3.js for bar-graph(something like this: https://github.com/sgratzl/d3tutorial) & not chart.js
+    * Keep it as simple as: https://somewordsfor.me/
+    * NOTE: select a cynicism-based font+UI stype & make it your identity
+  * [] Code it up
+
 
 * **To Ponder**
   * [] Show (A)immediate children or (B)all descendents in the graph???
@@ -380,6 +447,9 @@
   * [] ItemCount for a tag is proportioanl to number of sources you have.Is it fair to rate them by then?
   * [] What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
   * What if I am scraping with my laptop & wifi goes off???????How will I know & how to fix it??
+  * How to prevent Hacking:
+    * Store timestamp in db/tables with some custom salt to avoid hacker freeloaders
+    * Hash every report with user-id
   * [] See if you can use these sites too:
     * hackernoon.com 
     * npmjs.com 
@@ -388,6 +458,8 @@
       * [] @reddit: what about the new subreddits being added?
   
 * **Backend**:
+  * [] MakeActual Tagger Model
+  * [] Refactor the backend
   * [] fix DB related issues- stopped in mid, locked, crashed
     * if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
     * [] FIXME: put try/catch everywhete sql is touched
@@ -396,17 +468,7 @@
     * sql table joining
     * model update? I dont think is needed
   * [] Enable lobsters_scraper(with source tags & all) & other sources 
-  * [ ] Upadte damping factor in PopI calculation
-
-* **Frontend**:
-* [] Admin View Maker 
-* [] Create Website
-  * While making the graph; 
-    * Write brief for every node
-    * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
-* [] Create User Management System & User Dashboard
-* [] Mail User Mailer
-* [] Run `BackBone` for 2 weeks in parallel
+  * [] Upadte damping factor in PopI calculation
 
 
 ## [Ticket6] : FuckinLaunch(~~<21Aug20>~~) (?-?)
