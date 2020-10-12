@@ -1,0 +1,16 @@
+<html>
+    <head>
+      {% if title %}
+      <title>{{ title }} - Cynical Reader</title>
+      {% else %}
+      <title>Welcome to Cynical Reader</title>
+      {% endif %}
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+    </head>
+    <body>
+        <div>CynicalReader: <a href="/index">Home</a></div>
+        <a href = "/query"> Go to Query page</a>
+        <hr>
+        {% block content %}{% endblock %}
+    </body>
+</html>

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>This is Query Search page</h1>
+    <h2>Enter the tag you want to search for:</h2>
+    <form method="POST" action="/queryresult">
+      <label>
+        <div>Parent</div>
+        <select name="query">
+          {% for node in nodes %}
+              <option value="{{ node }}">{{ node }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <input type="submit" value="Submit">
+    </form>
+{% endblock %}
+
+

@@ -222,8 +222,8 @@
         * [x] How to read & write with excel file
         * [x] how to embed in content_scraper
         * [x] Run one scraping round & analyse
-        * [ ] FIXME: content_scraper is not efficient at all. ERR: [Too Many open files]. Have to fix the async way of writing into csv files
-        * [ ] Check for #empty Content in the final csv
+        * [x] #FIXED: content_scraper is not efficient at all. ERR: [Too Many open files]. Have to fix the async way of writing into csv files
+        * [x] Check for #empty Content in the final csv
       * [x] is it better to run `content_scraper` in sync with `url_scrapers` 
         * => NO, because; if url_scrapers failed, there's not point in running content_scraper; so try max_time & max_retries for url_scrapers
   * [x] Enrichment of `clean_text` function:
@@ -255,7 +255,6 @@
     * [x] Content Scraper
     * **UPDATE**: no duplicate tables like <timestamp> & <timestamp>_wc .Just create <timestamp>_wc &  <timestamp>_wp and for  <timestamp>_wp if content doesnt exists; send for scraping & delete that row.Then update the row later when async response has returned.
     * [] FIXME: Fix issues:
-      * [] TODO: if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
       * [x] `xxxxxxxxxxxxxxxxxxx SKIPPING  for <ID = 115><src= r/computerscience > As No Content xxxxxxxxxxxxxxxxxxxxxxxx`
         * => Cont do anything, just keep as it is
       * [] `ERROR 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte`
@@ -281,7 +280,6 @@
       * **IMPACT** : Run time = 2 hrs, %Scraping = 1.5% (DIRECT = 60%, ASYNC = 7%,SYNC = 33%)
       * Fix Async.Its as good as nothing--------go httpx maybe???
         * => Update: 7 mins, 1000 successful scraping, #GoodEnough
-      * TODO: fix DB related issues
 
 * Make `PopICalc.py`
   * [x] Convert all sorts of datetime formats to just date (@utilities/date_conversion.py)
@@ -293,14 +291,13 @@
   * [@] `hn_scraper.py` =>update STORY_UP_TH. set to 50 as of now.Update after seeing the results & all.
   * **Resource** : Use (alexa)[https://www.alexa.com/siteinfo/ycombinator.com] to get in-depth info of a site
   * [x] Visit SourceSites, get user population
-  * [ ] TODO: Upadte damping factor in PopI calculation
 
 * Model:(Manch)
   * [x] Make @manch_simulator(until model is N/A) => To update ModelTags col {17Sep20}
   * [@] Introduce & infuse the real model(manch)
   * [@] Get more date,more tags; train the model properly
 
-* [-] Domain Hotness Ranker [-27Sep20]
+* [x] Domain Hotness Ranker [-27Sep20]
   * Logic:
     * 1. Get (weekly) item count & avg popi for each tag(NOTE: will use item_count as a measure for hotness for now.To sort by Popi-later;)
     * Each main_thread/cat/subc/tag is treated like a node in the; with root_node = CynicalReader **tree** 
@@ -327,36 +324,151 @@
     * What to query: 
       * Count
       * Avg_popi
-      * [] TODO:Links to articles????
-  * [] TODO: Enable lobsters_scraper(with source tags & all) 
-  * [] TODO: Link tags with PH_scraper 
+      * [x] Links to articles???? => IDs of items in des order of popi
+  * [x] UPDATE TH_TABLE: Store items(form wc_table)<ID, SourceSite> into th_table for each node(in desc order of Popi) 
+    * to get items IDs(wc wale) of 'HN' from a node: `select ID, NodeName from th_4444 where ItemIDs like "%HN%";`
+    * [x] Include SourceTags everywhere too
+    * **UPDATE**: Wont work w/o JOINing the two tables.TODOed: study joins well & implement 
   
-* [] Newsletter generator [ - ]
-  * While making the graph; 
-    * Write brief for every node
-    * Dont just show tags like gen_cse, gen_ml, etc directly. These are all inclusive issues, & should not be used as a separate subtopic.Will give bad UX.Instead I can show them as same value: ML --[ML, DL,...]
-* [] Admin View Maker [ - ]
+  
+* Eat these BreadCrumbs
+  * [x] Fix ID among scrapers - use global_wars
+  * [x] Refactor for try-catch everywhere!
+  * [-] Fix Content_Scraper
+    * [x] Try Seedha+Ulta traversal => Didnt work out
+    * [x] Try Series of Parallel connection :: WORKED!
+      * NOTE: current situation:
+        * Number of series connections of async = 10
+        * each takes about 4 mins to run & scrapes content of about 200-300 items
+        * Each iteration seems to degrade #items
+        * #items successfully scraped is directly proportional to internet speed
+        * with ASYNC_SERIES_CONNECTION = 20, got 90% content in 2 hrs.seems good
+    * [x] Put timeout in content-formatter: fucking stuck for 2 hrs at an entry
+
+* [] Join wcXth on ID & SourceTags
+  * [x] Joining Tables:               
+        [x] Readup all about joins  
+             => Joins wont work here, as one cant do joins on %like% in array
+        [x] Update th_creator query:
+             [x] Add 2 cols in th_table; HN_IDs, R_IDs
+             [x] update query to have just on list od IDs in them; in desc order or popi 
+* [-] Build the basic ACTUAL product[3oct20-?]
+  * APPROACHES:
+    * 1. Run python on one server & nodejs app on other(to call python functions as separate api calls)
+      * => Running 2 separate server is costly
+    * 2. Write the app in node.js & spawn python scripts for each api call like [this](https://stackoverflow.com/questions/44580668/node-js-backend-calling-a-python-function) or [this](https://www.ivarprudnikov.com/nodejs-server-running-python-scripts/)
+      * => feels like jugaad.Not efficient & scalable
+    * 3. Write the app in `FLASK`
+    * **Learning FLASK**
+      * Resource: [ Flask mega tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+      * POC done for simple get/post; will learn the rest later when building website & all
+    * [-] Build basic product on html+flas+jinja2
+      * [x] Show items
+      * [ ] Show children popi/count graph
+        * Graph made with [chart.js](https://towardsdatascience.com/flask-and-chart-js-tutorial-i-d33e05fba845)
+* [] Fix BreadCrumbs:
+  * [] Few nodes have empty values, mptt index = -1 & level = 0; FIX THEM
+
+
+## [Ticket5] : Build Prelaunch stuff(<9oct-?>)
+
+* **UI+UMS**
+  * [] TODO: find better name
+    * CynicalReader :boring
+    * CynicalNews
+    * stoicnews
+    * uLLu
+    * Noshit!
+    * BetterHackerNews
+    * BetterNews
+  * [x] Finalize format of Newletter
+    * Rendering iframe in mail:
+      * [If you expect that client will render content inside your IFrame it very likely not to happen due to security restrictions in mail clients](https://stackoverflow.com/questions/12650060/how-to-send-a-iframe-in-email-body)
+    * Do POC on pdf/pdf-ish dynamic content
+      * [This](https://pages.litmus.com/lp/TEDC15-launch-email) - [blog](https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/) looks good but has no dynamic routing-See if you can enhance it
+    * **Good Resources for Email Template**
+      * https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/
+      * https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/
+      * https://designmodo.com/email-newsletter-templates/
+      * https://www.campaignmonitor.com/dev-resources/guides/mobile/
+      * https://hackernoon.com/how-to-build-a-dynamic-email-template-in-under-10-minutes-1fe85ad40e35
+    * **DECISION**
+      * @mail: I'll mail a template(or img maybe) to users with graph(as image) & top articles
+        * Below it will be a button for `Read Full Newsletter` -> redirecting to user's dashboard->week's newsletter
+      * @dashboard: will have list of user's all newsletters(from the day he's subscribed in)
+      * @newsletter: a ajax page
+  * [x] Decide format of tree
+    * Possible options:
+      * JS based(dropdown) : https://codepen.io/mlegakis/pen/MmmRXd
+      * D3Js based(tree) : https://codepen.io/augbog/pen/LEXZKK
+        * with some twist: https://codepen.io/gyunee/pen/oNvEoOb
+      * Something of it's own type(& a bit confusing) : https://codepen.io/znak/pen/qapRkQ
+  * [x] Design (basic UI) pages & flows on figma
+    * Inspirations from https://somewordsfor.me
+      * W/o login/signup-> just show Buy/Login page & GetDemo(tell him specifically-no creditcards reqd)
+      * When new customer comes; clicks on GetDemo; make him choose his topic & then ask for email & mail him demo report+price_plan(link to plan page) to promote buying("want latest...buy here" types)
+      * {price_plan_page} : add demo NL's for both plans
+      * USER ONBOARDING: {signup_page} : email signup -> {payment_page}
+      * {payment_page} -> enable auto-detect
+      * Right after signup & payment is done; pop-up to choose nodes & ask inform about time of receiving mail everyweek
+      * {user_dashboard} : show time filter & all NL's list + (cancellable)pop-up to upgrade plan:"Have more topics of interest, upgrade plan to unlimited"
+      * {weekly_newsletter}: send a template with graph's picture & 5 articles(with their links); click anywhere on temple redirects to user_nl_i page. Also ther's a Read_full_NL button in the sent template
+  * Coding basic UI
+    * [x] Got some flask-saas templates.Try them first
+      * https://github.com/toddbirchard/flasklogin-tutorial/tree/master/flask_login_tutorial [been used]
+      * https://github.com/alectrocute/flaskSaaS [prod-ready saas app]
+      * https://www.youtube.com/watch?v=8aTnmsDMldY [basic flask app+youtube] 
+      * https://github.com/cookiecutter-flask/cookiecutter-flask/tree/master/%7B%7Bcookiecutter.app_name%7D%7D
+      * https://github.com/tedivm/tedivms-flask
+      * https://github.com/app-generator/admin-dashboards
+      * https://github.com/app-generator/flask-apps
+    * [-] Code up my usecase-(with basic UI- NO FANCY!!!)
+  * [] Figure out optimum pricing strategy
+  * [-] Figure out the payment part & how to test
+      * Recurring Payment Methods. Helpful links:
+        * https://hackernoon.com/setting-up-subscriptions-and-recurring-payments-using-django-and-stripe-lh2d3ujc
+        * https://www.saaspegasus.com/guides/django-stripe-integrate/
+        * https://www.reddit.com/r/django/comments/7nm7hc/payment_system_for_monthly_subscriptions_saas/
+        * https://developers.braintreepayments.com/guides/recurring-billing/create/python
+      * [] Integrate into code
+  * [] Logo: (inspirations: cynicism/owl/Diogenes/dog)
+  * [] Research on UI+Newsletter+Email_template & update figma (NOTE: minimalism is the theme)
+    * NOTE: tell fuckers that unlike others we dont "handpick", we NLP it!
+    * NOTE: Use d3.js for bar-graph(something like this: https://github.com/sgratzl/d3tutorial) & not chart.js
+    * Keep it as simple as: https://somewordsfor.me/
+    * NOTE: select a cynicism-based font+UI stype & make it your identity
+  * [] Code it up
+
 
 * **To Ponder**
-  * 
-  * What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
-  * See if you can use these sites too:
+  * [] Show (A)immediate children or (B)all descendents in the graph???
+  * [] Efficiency:
+    * How to precalcuate all the db queries; they are consuming so much time => bad UX
+  * [] ItemCount for a tag is proportioanl to number of sources you have.Is it fair to rate them by then?
+  * [] What about scalability??? new tags(UPDATE: Fixed; read comments in `th_creator.py`), new sources, new scrapers etc???
+  * What if I am scraping with my laptop & wifi goes off???????How will I know & how to fix it??
+  * How to prevent Hacking:
+    * Store timestamp in db/tables with some custom salt to avoid hacker freeloaders
+    * Hash every report with user-id
+  * [] See if you can use these sites too:
     * hackernoon.com 
     * npmjs.com 
     * freecodecamp.org 
     * dev.to
       * [] @reddit: what about the new subreddits being added?
+  
+* **Backend**:
+  * [] MakeActual Tagger Model
+  * [] Refactor the backend
+  * [] fix DB related issues- stopped in mid, locked, crashed
+    * if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
+    * [] FIXME: put try/catch everywhete sql is touched
+  * [] Bring PH into picture:
+    * Tag linking
+    * sql table joining
+    * model update? I dont think is needed
+  * [] Enable lobsters_scraper(with source tags & all) & other sources 
+  * [] Upadte damping factor in PopI calculation
 
-* Actual Model [ - ]
 
-## [Ticket5] : Build Prelaunch stuff(<7Sep20-14Sep20>)
-* [] Create Website
-* [] Create User Management System & User Dashboard
-* [] Mail User Mailer
-* [] Run `BackBone` for 2 weeks in parallel
-
-
-## [Ticket6] : FuckinLaunch(<21Aug20>)
-
-
-
+## [Ticket6] : FuckinLaunch(~~<21Aug20>~~) (?-?)

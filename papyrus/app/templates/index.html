@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>This is the home page<h2/>
+    <hr>
+    <h1>List of all the nodes</h1>
+    {% if nodes%}
+        <ul>
+            {% for node in nodes %}
+                <li>
+                    <a href = '/itemresult/{{node}}'>{{node}}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}
