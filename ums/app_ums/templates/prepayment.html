@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/prepayment.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block content %}
+<div >
+    <h1>{{ body }}</h1>
+
+    <h2>Hello {{current_user.name}}</h2>
+    <p>Choose your subscription plan</p>
+    
+    {% for message in get_flashed_messages() %}
+    <div class="alert alert-warning">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      {{ message }}
+    </div>
+  {% endfor %}
+
+  <form method="POST" action="/prepayment">
+    {{ form.csrf_token }}
+
+    <div class="subscription_plan">
+      {{ form.subscription_plan.label }}
+      {{ form.subscription_plan }}
+
+    </div>
+    
+    <p>You are paying $x   TODO: change this ajax with Javascript</p>
+
+    <div class="submit-button">
+      {{ form.submit }}
+    </div>
+
+  </form>
+
+
+</div>
+{% endblock %}
+
+<!-- TODO: put a radio button for plans -->

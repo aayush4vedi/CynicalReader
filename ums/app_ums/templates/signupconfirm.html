@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/signupconfirm.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block content %}
+<div >
+    <h1>{{ body }}</h1>
+
+    <div>
+        <p>You have been sent a confirmation mail<br>Click on the link in mail to proceed for further steps</p>
+    </div>
+
+    <div>
+        <p>.... Didn't receive mail? Click below (TODO: to be removed)</p>
+        <a href="{{ url_for('main_bp.prepayment') }}"><button>Go to Prepayment</button></a>
+    </div>
+
+</div>
+{% endblock %}
+
+<!-- TODO: put a radio button for plans -->

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/payment.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block content %}
+<div >
+    <h1>{{ body }}</h1>
+
+    <h3>Making payment for subscription plan: {{current_user.subscription_plan}}</h3>
+    <div>
+        <h1>Stripe/Rzp will come here</h1>
+    </div>
+
+    <div>
+        <h4>Done Payment, redirect to dashboard ::::: TODO: remove this tmp hack</h4>
+        <a href="{{ url_for('main_bp.dashboard') }}"><button>Redirect to Dashboard</button></a>
+    </div>
+</div>
+{% endblock %}
+
+<!-- TODO: put a radio button for plans -->

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block pagestyles %}
+  <link href="{{ url_for('static', filename='dist/css/dashboard.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block content %}
+  <a href="{{ url_for('main_bp.account') }}"><button>Account</button></a>
+  <a href="{{ url_for('main_bp.logout') }}"><button>Log out</button></a>
+  <h1>{{ body }}</h1>
+
+  <p>Hi {{ current_user.name }}!</p>
+
+  <h1>Latest Newsletter</h1>
+  <a href="#">week_i-date</a>
+
+  <hr>
+  <h1>My Newsletters</h1>
+  <p>TODO: for nl in current_user.newsletters: print nl.title & nl.link</p>
+  <p>TODO: OR No Newsletter found</p>
+
+{% endblock %}

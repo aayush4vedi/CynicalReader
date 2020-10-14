@@ -1,11 +1,13 @@
 """Initialize app."""
+import os
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
-
+from flask_mail import Mail
 
 db = SQLAlchemy()
 login_manager = LoginManager()
+mail = Mail()
 
 
 def create_app():
@@ -18,6 +20,7 @@ def create_app():
     # Initialize Plugins
     db.init_app(app)
     login_manager.init_app(app)
+    mail.init_app(app)
 
     with app.app_context():
         from . import routes

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/sample.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block content %}
+<div >
+    <div>
+        <a href="{{ url_for('main_bp.pricing') }}">Back to Pricing Page</a>
+    </div>
+    <h1>{{ body }}</h1>
+
+</div>
+{% endblock %}

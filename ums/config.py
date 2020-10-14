@@ -28,6 +28,14 @@ class Config:
     ASSETS_DEBUG = environ.get('ASSETS_DEBUG')
     LESS_RUN_IN_DEBUG = environ.get('LESS_RUN_IN_DEBUG')
 
+
+    #setup mail
+    MAIL_SERVER = 'smtp.googlemail.com'
+    MAIL_PORT = 587
+    MAIL_USE_TLS = True
+    MAIL_USERNAME = 'aayush.supp@gmail.com'
+    MAIL_PASSWORD = 'SupSupSup3???'
+
     # Static Assets
     STATIC_FOLDER = 'static'
     TEMPLATES_FOLDER = 'templates'

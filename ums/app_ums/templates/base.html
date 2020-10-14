@@ -11,6 +11,8 @@
 
 <body class="{{ template }}">
 <div class="container">
+  <a href="{{ url_for('main_bp.home') }}">Home</a>
+  <hr>
   {% block content %}{% endblock %}
 </div>
 <script src="{{ url_for('static', filename='dist/js/main.min.js') }}"></script>

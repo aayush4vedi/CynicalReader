@@ -1,6 +1,6 @@
 """Application entry point."""
 
-from app_2 import create_app
+from app_ums import create_app
 
 app = create_app()
 

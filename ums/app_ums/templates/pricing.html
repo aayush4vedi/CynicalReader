@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/pricing.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+
+{% block content %}
+<div >
+    <h1>{{ body }}</h1>
+
+    <div>
+        <a href="{{ url_for('main_bp.demo') }}"><button>Get Demo</button></a>
+    </div>
+
+    <div>
+        <h1>Pricing Plan will come here</h1>
+    </div>
+
+    <div>
+        <h2>Plan One</h2>
+        <a href="{{ url_for('main_bp.sample1') }}"><button>See Sample Newsletter</button></a>
+    </div>
+
+    <div>
+        <h2>Plan Two</h2>
+        <a href="{{ url_for('main_bp.sample2') }}"><button>See Sample Newsletter</button></a>
+    </div>
+
+    <div>
+        <a href="{{ url_for('auth_bp.signup') }}"><button>Proceed to Buying</button></a>
+    </div>
+   
+</div>
+{% endblock %}
+
+<!-- TODO: put a radio button for plans -->
