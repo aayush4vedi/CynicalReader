@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+
+</head>
+
+<body>
+  <svg className='spider-graph-svg'>
+  </svg>
+  <script>
+    var prevElem;
+    var data = {
+      "name": "root@gmail.com",
+      "children": [{
+        "name": "Person Name 1",
+        "children": [{
+            "name": "Branch 4.1"
+          }, {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }
+        ]
+      }, {
+        "name": "Person name 2",
+        "children": [{
+            "name": "Branch 4.1"
+          }, {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }
+        ]
+      }, {
+        "name": "Person Name 3",
+        "children": [{
+            "name": "Branch 4.1"
+          }, {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }
+        ]
+      }, {
+        "name": "Person Name 4",
+        "children": [{
+            "name": "Branch 4.1"
+          }, {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }, {
+            "name": "Branch 4.2"
+          },
+          {
+            "name": "Branch 4.2"
+          }
+        ]
+      }]
+    };
+
+
+    const LAST_CHILDREN_WIDTH = 13;
+    let flagForChildren = false;
+    let groups = [];
+    data.children.forEach(d => {
+      let a = [];
+      if (d.children.length > 0) {
+        flagForChildren = true;
+      }
+      for (let i = 0; i < d.children.length; i += 2) {
+        let b = d.children.slice(i, i + 2);
+        if (b[0] && b[1]) {
+          a.push(Object.assign(b[0], {
+            children: [b[1]]
+          }));
+        } else {
+          let child = b[0];
+          if (i >= 6) {
+            child = Object.assign(child, {
+              children: [{
+                name: "..."
+              }]
+            });
+          }
+          a.push(child);
+        }
+      }
+      d.children = a;
+      groups.push(d);
+    });
+
+    data.children = groups;
+    let split_index = Math.round(data.children.length / 2);
+    let rectangleHeight = 45;
+    let leftData = {
+      name: data.name,
+      children: JSON.parse(JSON.stringify(data.children.slice(0, split_index)))
+    };
+    let leftDataArray = [];
+    leftDataArray.push(leftData);
+
+    // Right data
+    let rightData = {
+      name: data.name,
+      children: JSON.parse(JSON.stringify(data.children.slice(split_index)))
+    };
+    // Create d3 hierarchies
+    let right = d3.hierarchy(rightData);
+    let left = d3.hierarchy(leftData);
+    // Render both trees
+    drawTree(right, "right");
+    drawTree(left, "left");
+
+    // draw single tree
+    function drawTree(root, pos) {
+      let SWITCH_CONST = 1;
+      if (pos === "left") {
+        SWITCH_CONST = -1;
+      }
+      const margin = {
+          top: 20,
+          right: 120,
+          bottom: 20,
+          left: 120
+        },
+        width = window.innerWidth - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+
+      let svg = d3
+        .select("svg")
+        .attr("height", height + margin.top + margin.bottom)
+        .attr("width", width + margin.right + margin.left)
+        .attr('view-box', '0 0 ' + (width + margin.right) + ' ' + (height + margin.top + margin.bottom))
+        .style("margin-top", "20px")
+        .style("margin-left", "88px");
+
+      const myTool = d3.select("body").append("div")
+        .attr("class", "mytooltip")
+        .style("opacity", "0")
+        .style("display", "none");;
+
+
+      // Shift the entire tree by half it's width
+      let g = svg.append("g").attr("transform", "translate(" + width / 2 + ",0)");
+
+      let deductWidthValue = flagForChildren ? 0 : width * 0.33;
+      // Create new default tree layout
+      let tree = d3
+        .tree()
+        // Set the size
+        // Remember the tree is rotated
+        // so the height is used as the width
+        // and the width as the height
+        .size([height - 50, SWITCH_CONST * (width - deductWidthValue) / 2])
+        .separation((a, b) => a.parent === b.parent ? 4 : 4.25);
+
+      tree(root);
+
+      let nodes = root.descendants();
+      let links = root.links();
+      // Set both root nodes to be dead center vertically
+      nodes[0].x = height / 2;
+
+      // Create links
+      let link = g
+        .selectAll(".link")
+        .data(links)
+        .enter();
+
+      link
+        .append("line")
+        .attr("class", function(d) {
+          if (d.target.depth === 2) {
+            return 'link'
+          } else {
+            return 'hard--link'
+          }
+        })
+        .attr("x1", function(d) {
+          if (
+            d.target.depth === 3
+          ) {
+            return 0;
+          }
+          return d.source.y + 100 / 2; //d.source.y + 100/2
+        })
+        .attr("x2", function(d) {
+          if (
+            d.target.depth === 3
+          ) {
+            return 0;
+          } else if (d.target.depth === 2) {
+            return d.target.y;
+          }
+          return d.target.y + 100 / 2; //d.target.y + 100/2;
+        })
+        .attr("y1", function(d) {
+          if (
+            d.target.depth === 3
+          ) {
+            return 0;
+          }
+          return d.source.x + 50 / 2;
+        })
+        .attr("y2", function(d) {
+          if (
+            d.target.depth === 3
+          ) {
+            return 0;
+          } else if (d.target.depth === 2) {
+            return d.target.x + LAST_CHILDREN_WIDTH / 2;
+          }
+          return d.target.x + 50 / 2;
+        });
+
+      //Rectangle width
+      let node = g
+        .selectAll(".node")
+        .data(nodes)
+        .enter()
+        .append("g")
+        .on("mouseover", function(d) {
+          d3.select(this).select('input').style('display', '')
+        })
+
+        .on('mouseout', function(d) {
+          if (!d3.select(this).select('input').property('checked')) {
+            d3.select(this).select('input').style('display', 'none')
+          }
+        })
+        .attr("class", function(d) {
+          return "node" + (d.children ? " node--internal" : " node--leaf");
+        })
+        .attr("transform", function(d) {
+          if (d.parent && d.parent.parent) { // this is the leaf node
+            if (d.parent.parent.parent) {
+              return (
+                "translate(" +
+                d.parent.y +
+                "," +
+                (d.x + LAST_CHILDREN_WIDTH + 15) +
+                ")"
+              );
+            }
+            return "translate(" + d.y + "," + d.x + ")";
+          }
+          return "translate(" + d.y + "," + d.x + ")";
+        });
+
+      // topic rect
+      node
+        .append("rect")
+        .attr("height", (d, i) => d.parent && d.parent.parent ? 15 : rectangleHeight)
+        .attr("width", (d, i) => d.parent && d.parent.parent ? 15 : rectangleWidth(d))
+        .attr("rx", (d, i) => d.parent && d.parent.parent ? 5 : 5)
+        .attr("ry", (d, i) => d.parent && d.parent.parent ? 5 : 5)
+
+
+      // Create foreign object checkboxes and keep them hidden
+      node.append('foreignObject').attr('width', '40').attr('height', '40').append('xhtml:input').attr('type', 'checkbox').style('display', 'none')
+
+      // topic edges
+      node.append('line')
+        .attr('x1', d => {
+          if (d.depth === 2) {
+            return 10
+          }
+        })
+        .attr('x2', d => {
+          if (d.depth === 2) {
+            return 10
+          }
+        })
+        .attr('y1', d => {
+          if (d.depth === 2) {
+            if (d.children) {
+              return 0;
+            }
+            return 40;
+          }
+        })
+        .attr('y2', d => {
+          if (d.depth === 2) {
+            return 40
+          }
+        })
+        .attr('class', 'hard--link')
+
+      // topic names
+      node
+        .append("text")
+        .attr("dy", function(d, i) {
+          return d.parent && d.parent.parent ? 10 : rectangleHeight / 2;
+        })
+        .attr("dx", function(d, i) {
+          if (!(d.parent && d.parent.parent)) {
+            return 12;
+          } else {
+            return 20;
+          }
+        })
+        .style("fill", function(d, i) {
+          return d.parent && d.parent.parent ? "Black" : "White";
+        })
+        .text(function(d) {
+          let name = d.data.topic_name || d.data.name;
+          return name.length > 12 ? `${name.substring(0, 12)}...` : name;
+        })
+        .style("text-anchor", function(d) {
+          if (d.parent && d.parent.parent) {
+            return pos === "left" && "end"
+          }
+        })
+        .style("font-size", "12")
+        .attr("transform", function(d) {
+          if (d.parent && d.parent.parent) {
+            return pos === "left" ? "translate(-30,0)" : "translate(5,0)"
+          }
+        })
+    }
+
+    function rectangleWidth(d) {
+      const MIN_WIDTH = 50;
+      const MAX_WIDTH = 100;
+      let dynamicLength = 6;
+      if (d.data.topic_name) {
+        dynamicLength = d.data.topic_name.length;
+      } else if (d.data.name) {
+        dynamicLength = d.data.name.length;
+      }
+      dynamicLength = dynamicLength < 3 ? MIN_WIDTH : MAX_WIDTH;
+      return dynamicLength;
+    }
+  </script>
+</body>
+
+</html>

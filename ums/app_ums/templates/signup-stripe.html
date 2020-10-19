@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='global.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ url_for('static', filename='normalize.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block content %}
+<div>
+  <h1>{{ body }}</h1>
+</div>
+<div class="form-wrapper">
+
+  <!-- <div class="logo">
+    <img src="{{ url_for('static', filename='dist/img/logo.png') }}" alt="logo"/>
+  </div> -->
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="{{ url_for('static', filename='stripe-jsfiles.js') }}"></script>
+
+  {% for message in get_flashed_messages() %}
+    <div class="alert alert-warning">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      {{ message }}
+    </div>
+  {% endfor %}
+
+  <h1>Sign Up</h1>
+
+
+  <form id="signup-form">
+    <div class="w-full mb-2">
+        <input type="hidden" name="csrf_token" id="csrf_token" value="{{ csrf_token() }}" />
+      <!-- <label
+        class="block text-gray-500 font-bold mb-2"
+        for="inline-full-name"
+      >
+        Email address
+      </label> -->
+      <input
+        class="appearance-none border-2 border-gray-200 rounded-md w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-pasha"
+        id="email"
+        type="text"
+        placeholder="Email address"
+        required
+      />
+      <input
+        class="appearance-none border-2 border-gray-200 rounded-md w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-pasha"
+        id="name"
+        type="text"
+        placeholder="Full Name"
+        required
+      />
+      <input
+        class="appearance-none border-2 border-gray-200 rounded-md w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-pasha"
+        id="password"
+        type="password"
+        placeholder="Create Password"
+        required
+      />
+    </div>
+
+    <button
+      id="email-submit"
+      class="w-full bg-pasha hover:bg-red-200 hover:shadow-outline rounded-md hover:text-pasha hover:border hover:border-black focus:shadow-outline text-white focus:bg-white focus:text-pasha font-light py-2 px-4 rounded"
+      type="submit"
+    >
+      <div id="loading" class="hidden">Signing up...</div>
+      <span id="button-text">Sign up</span>
+    </button>
+  </form>
+
+  <div class="login-signup">
+    <span>Already have an account? <a href="{{ url_for('auth_bp.login') }}"><u>Log in</u></a></span>
+  </div>
+</div>
+{% endblock %}

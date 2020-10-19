@@ -4,10 +4,12 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
 from flask_mail import Mail
+from flask_wtf.csrf import CsrfProtect
 
 db = SQLAlchemy()
 login_manager = LoginManager()
 mail = Mail()
+csrf = CsrfProtect()
 
 
 def create_app():
@@ -21,6 +23,10 @@ def create_app():
     db.init_app(app)
     login_manager.init_app(app)
     mail.init_app(app)
+    csrf.init_app(app)
+
+    # # setup stripe test keys
+    # stripe.api_key = app.config['STRIPE_PUBLIC_KEY']
 
     with app.app_context():
         from . import routes

@@ -41,4 +41,12 @@ class Config:
     TEMPLATES_FOLDER = 'templates'
     # COMPRESSOR_DEBUG = environ.get('COMPRESSOR_DEBUG')
 
+    # Stripe test keys
+    STRIPE_PUBLIC_KEY = 'pk_test_51HdkIZF7Uiqhzjej6i0PT2SdIPS7uYiWYyfLBcYNFrHWgr67WknIW4VTrx0ZBkqOGmYPyoWiP0dWX3UPdJXPt09v00CKwfpj5W'
+    STRIPE_SECRET_KEY = 'sk_test_51HdkIZF7UiqhzjejXAHfHx1ahnVJCA4E0TN4mmV2Y1nhooN0Huacfo08o21fphcw1qDVyPjSwCPZEhekz5jARD0O00K2Qb2uEF'
+
+    #NOTE: export them into terminal before running app
+    BASIC = 'price_1HdkNJF7UiqhzjejBaQyUM3X'
+    PREMIUM = 'price_1HdkNJF7UiqhzjejPkxc3rBy'
+
 #TODO: pick everything from env(like in commented lines)

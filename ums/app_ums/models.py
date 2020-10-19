@@ -51,7 +51,7 @@ class User(UserMixin, db.Model):
 	subscription_plan = db.Column(
 		db.String(40),
 		unique=False,
-		nullable=False
+		nullable=True
 	)
 	# newsletters = db.Column(
 	# 	db.String(40),???????????

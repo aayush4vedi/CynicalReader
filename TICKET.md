@@ -403,6 +403,11 @@
       * D3Js based(tree) : https://codepen.io/augbog/pen/LEXZKK
         * with some twist: https://codepen.io/gyunee/pen/oNvEoOb
       * Something of it's own type(& a bit confusing) : https://codepen.io/znak/pen/qapRkQ
+      * **D3.js tree** (need to learn D3 seriously)
+        * [checkboxes] https://stackoverflow.com/questions/50251227/show-checkbox-inside-node-while-hovering-on-that-node
+        * https://bl.ocks.org/bumbeishvili/dbc0beff4baf64674b0f05b94cb4462e
+        * https://blog.pixelingene.com/2011/07/building-a-tree-diagram-in-d3-js
+        * https://livebook.manning.com/book/d3js-in-action-second-edition/chapter-6/
   * [x] Design (basic UI) pages & flows on figma
     * Inspirations from https://somewordsfor.me
       * W/o login/signup-> just show Buy/Login page & GetDemo(tell him specifically-no creditcards reqd)
@@ -415,6 +420,7 @@
       * {weekly_newsletter}: send a template with graph's picture & 5 articles(with their links); click anywhere on temple redirects to user_nl_i page. Also ther's a Read_full_NL button in the sent template
   * Coding basic UI
     * [x] Got some flask-saas templates.Try them first
+      * https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog/10-Password-Reset-Email/flaskblog [contains all UMS code-heavily borrowed]
       * https://github.com/toddbirchard/flasklogin-tutorial/tree/master/flask_login_tutorial [been used]
       * https://github.com/alectrocute/flaskSaaS [prod-ready saas app]
       * https://www.youtube.com/watch?v=8aTnmsDMldY [basic flask app+youtube] 
@@ -422,15 +428,25 @@
       * https://github.com/tedivm/tedivms-flask
       * https://github.com/app-generator/admin-dashboards
       * https://github.com/app-generator/flask-apps
-    * [-] Code up my usecase-(with basic UI- NO FANCY!!!)
-  * [] Figure out optimum pricing strategy
-  * [-] Figure out the payment part & how to test
+    * [x] Code up my usecase-(with basic UI- NO FANCY!!!) : figma to code
+  * [ ] Code up Tree Part
+  * [] Figure out optimum pricing strategy: BASIC@ $5:4 topics(??), PRIME@ $10 : all topics
+  * [x] Figure out the payment part & how to test
       * Recurring Payment Methods. Helpful links:
         * https://hackernoon.com/setting-up-subscriptions-and-recurring-payments-using-django-and-stripe-lh2d3ujc
         * https://www.saaspegasus.com/guides/django-stripe-integrate/
         * https://www.reddit.com/r/django/comments/7nm7hc/payment_system_for_monthly_subscriptions_saas/
         * https://developers.braintreepayments.com/guides/recurring-billing/create/python
-      * [] Integrate into code
+      * [x] Integrate into code
+      * **STRIPE STUFF**
+        * Dashboard: https://dashboard.stripe.com/test/apikeys
+        * Official docs are the best: https://stripe.com/docs/billing/subscriptions/fixed-price#create-customer
+          * Code+Demo(I've implemented it): https://github.com/stripe-samples/subscription-use-cases/tree/master/fixed-price-subscriptions
+        * To see all stripe logs: `$ stripe logs tail`  
+          * Read up more about stripe-cli: https://stripe.com/docs/stripe-cli
+        * Tmp fix for run: set-up these price ids in terminal before running //TODO: remove this later
+          * `$ export BASIC='price_1HdkNJF7UiqhzjejBaQyUM3X' `
+          * `$ export PREMIUM='price_1HdkNJF7UiqhzjejPkxc3rBy'`
   * [] Logo: (inspirations: cynicism/owl/Diogenes/dog)
   * [] Research on UI+Newsletter+Email_template & update figma (NOTE: minimalism is the theme)
     * NOTE: tell fuckers that unlike others we dont "handpick", we NLP it!
@@ -438,9 +454,13 @@
     * Keep it as simple as: https://somewordsfor.me/
     * NOTE: select a cynicism-based font+UI stype & make it your identity
   * [] Code it up
+    * [] Refactor blueprints into user & tree?
+    * [] Single point to change nodes(ums+papyrus)
+    * [] When a parent node is checked; auto check its children OR change its color & children color to tell user that you're getting all
 
 
 * **To Ponder**
+  * [] If the tree is too simple , can we try like this: https://www.jasondavies.com/coffee-wheel/
   * [] Show (A)immediate children or (B)all descendents in the graph???
   * [] Efficiency:
     * How to precalcuate all the db queries; they are consuming so much time => bad UX
@@ -460,6 +480,8 @@
 * **Backend**:
   * [] MakeActual Tagger Model
   * [] Refactor the backend
+    * [] Remove url params 
+    * [] Add forms everywhere
   * [] fix DB related issues- stopped in mid, locked, crashed
     * if any runner(url/content/popi-cal etc) gets stuck & is needed to kill; the wc.db-journal || wp.db-journal file isnt deleted & db is permanently locked.All data gets wasted. Fucking fix it!
     * [] FIXME: put try/catch everywhete sql is touched
