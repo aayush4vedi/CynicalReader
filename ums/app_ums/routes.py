@@ -248,7 +248,8 @@ def treehori():
         'tree2.html', 
         title='Tree Repr-Horizontal',
         body="Tree Repr POC-Horizontal",
-        data = data
+        data = data,
+        MAX_ALLOWED_NODES = 4
     )
 
 # ====================== UNUSED TREE POCs :END =======================

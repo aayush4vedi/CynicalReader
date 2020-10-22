@@ -387,6 +387,7 @@
     * Do POC on pdf/pdf-ish dynamic content
       * [This](https://pages.litmus.com/lp/TEDC15-launch-email) - [blog](https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/) looks good but has no dynamic routing-See if you can enhance it
     * **Good Resources for Email Template**
+      * FREE EMAIL TEMPLATE I WILL BE USGING: https://www.themezy.com/free-email-templates/135-smooth-chocolate-free-responsive-email-newsletter-template
       * https://www.litmus.com/blog/how-to-code-a-live-dynamic-twitter-feed-in-html-email/
       * https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/
       * https://designmodo.com/email-newsletter-templates/
@@ -397,17 +398,6 @@
         * Below it will be a button for `Read Full Newsletter` -> redirecting to user's dashboard->week's newsletter
       * @dashboard: will have list of user's all newsletters(from the day he's subscribed in)
       * @newsletter: a ajax page
-  * [x] Decide format of tree
-    * Possible options:
-      * JS based(dropdown) : https://codepen.io/mlegakis/pen/MmmRXd
-      * D3Js based(tree) : https://codepen.io/augbog/pen/LEXZKK
-        * with some twist: https://codepen.io/gyunee/pen/oNvEoOb
-      * Something of it's own type(& a bit confusing) : https://codepen.io/znak/pen/qapRkQ
-      * **D3.js tree** (need to learn D3 seriously)
-        * [checkboxes] https://stackoverflow.com/questions/50251227/show-checkbox-inside-node-while-hovering-on-that-node
-        * https://bl.ocks.org/bumbeishvili/dbc0beff4baf64674b0f05b94cb4462e
-        * https://blog.pixelingene.com/2011/07/building-a-tree-diagram-in-d3-js
-        * https://livebook.manning.com/book/d3js-in-action-second-edition/chapter-6/
   * [x] Design (basic UI) pages & flows on figma
     * Inspirations from https://somewordsfor.me
       * W/o login/signup-> just show Buy/Login page & GetDemo(tell him specifically-no creditcards reqd)
@@ -437,16 +427,46 @@
         * https://www.saaspegasus.com/guides/django-stripe-integrate/
         * https://www.reddit.com/r/django/comments/7nm7hc/payment_system_for_monthly_subscriptions_saas/
         * https://developers.braintreepayments.com/guides/recurring-billing/create/python
-      * [x] Integrate into code
+      * [x] Integrate into code-the basic stuff as shown in stripe docs
       * **STRIPE STUFF**
         * Dashboard: https://dashboard.stripe.com/test/apikeys
         * Official docs are the best: https://stripe.com/docs/billing/subscriptions/fixed-price#create-customer
           * Code+Demo(I've implemented it): https://github.com/stripe-samples/subscription-use-cases/tree/master/fixed-price-subscriptions
+          * @Youtube: this video helped too https://www.youtube.com/watch?v=cC9jK3WntR8
         * To see all stripe logs: `$ stripe logs tail`  
           * Read up more about stripe-cli: https://stripe.com/docs/stripe-cli
         * Tmp fix for run: set-up these price ids in terminal before running //TODO: remove this later
           * `$ export BASIC='price_1HdkNJF7UiqhzjejBaQyUM3X' `
           * `$ export PREMIUM='price_1HdkNJF7UiqhzjejPkxc3rBy'`
+    * [x] Decide format of tree
+    * Possible options:
+      * JS based(dropdown) : https://codepen.io/mlegakis/pen/MmmRXd
+      * D3Js based(tree) : https://codepen.io/augbog/pen/LEXZKK
+        * with some twist: https://codepen.io/gyunee/pen/oNvEoOb
+      * Something of it's own type(& a bit confusing) : https://codepen.io/znak/pen/qapRkQ
+      * **D3.js tree** (need to learn D3 seriously)
+        * [checkboxes] https://stackoverflow.com/questions/50251227/show-checkbox-inside-node-while-hovering-on-that-node
+        * https://bl.ocks.org/bumbeishvili/dbc0beff4baf64674b0f05b94cb4462e
+        * https://blog.pixelingene.com/2011/07/building-a-tree-diagram-in-d3-js
+        * https://livebook.manning.com/book/d3js-in-action-second-edition/chapter-6/
+      * [-] Learn d3.js quickly & make the tree & popi graph [21oct20-]
+        - Fix Tree Visually
+           - [x] Align tree in center
+           - [x] Close cousin nodes on click
+           - [x] Fix oversizing issue
+        - Fix Checkboxes
+           - [x] Store checked status after node closing
+           - [x] Auto select child nodes - for Frontend
+           - [x] Keep count & give diff color to nodes user has selected
+           - [x] Reset button for userselected nodes
+           - [x] Apply limit on #nodes selection
+           - [x] Implement Node Path Search bar
+        - Production ready changes
+           - [] Feed my tree data in json
+           - [] Make some nodes unselectable & show in UI
+           - [] Topic preference form submit for user
+           - [] Duplicate IDs for nodes; do I need to replace id with class for nodes
+           - [] Integrate with UMS-post signup & dashboard
   * [] Logo: (inspirations: cynicism/owl/Diogenes/dog)
   * [] Research on UI+Newsletter+Email_template & update figma (NOTE: minimalism is the theme)
     * NOTE: tell fuckers that unlike others we dont "handpick", we NLP it!
@@ -477,6 +497,8 @@
     * dev.to
       * [] @reddit: what about the new subreddits being added?
   
+* **Refactoring**
+  * [] Add panning & search box in tree(UI) ;like this: https://gist.github.com/adamfeuer/a8950c5197fe491f13969a03100159d5  
 * **Backend**:
   * [] MakeActual Tagger Model
   * [] Refactor the backend
