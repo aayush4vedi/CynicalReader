@@ -4,8 +4,6 @@ from wtforms import StringField, PasswordField, SubmitField, SelectField, Select
 from wtforms.validators import DataRequired, Email, EqualTo, Length, Optional, ValidationError
 from flask_login import current_user
 from .models import User
-from .nodes import nodes
-
 
 class SignupForm(FlaskForm):
     """User Sign-up Form"""
@@ -158,11 +156,3 @@ class MultiCheckboxField(SelectMultipleField):
     '''
     widget = widgets.ListWidget(prefix_label=False)
     option_widget = widgets.CheckboxInput()
-
-class TreeForm(FlaskForm):
-    choice_nodes = [(x,x) for x in nodes]
-    nodes = MultiCheckboxField(
-        'Tree Nodes',
-        choices = choice_nodes
-    )
-    submit = SubmitField('Done')

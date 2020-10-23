@@ -51,7 +51,14 @@ class User(UserMixin, db.Model):
 	subscription_plan = db.Column(
 		db.String(40),
 		unique=False,
-		nullable=True
+		nullable=True,
+		default="BASIC"
+	)
+	selected_topics = db.Column(
+		db.String,
+		unique=False,
+		nullable=True,
+		default=""
 	)
 	# newsletters = db.Column(
 	# 	db.String(40),???????????

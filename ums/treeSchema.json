@@ -1,0 +1,667 @@
+{
+    "name": "root",
+    "children" : [{
+        "name": "cse",
+        "children" : [{
+            "name": "gen_cse",
+            "size": 3938
+        },{
+            "name": "tcse",
+            "children" : [{
+                "name": "distribut_sys",
+                "size": 3938
+            },{
+                "name": "data_struct",
+                "size": 3938
+            },{
+                "name": "algo_dsa",
+                "size": 3938
+            },{
+                "name": "gametheory",
+                "size": 3938
+            },{
+                "name": "disco",
+                "size": 3938
+            },{
+                "name": "crypto_cse",
+                "size": 3938
+            },{
+                "name": "hardware",
+                "size": 3938
+            },{
+                "name": "plt_cse",
+                "size": 3938
+            },{
+                "name": "frmlmeth_cse",
+                "size": 3938
+            },{
+                "name": "logic",
+                "size": 3938
+            }]
+        },{
+            "name": "ce",
+            "children" : [{
+                "name": "comparch",
+                "size": 3938
+            },{
+                "name": "compiler",
+                "size": 3938
+            },{
+                "name": "network",
+                "size": 3938
+            },{
+                "name": "revengg",
+                "size": 3938
+            },{
+                "name": "os",
+                "children" : [{
+                    "name": "osdev",
+                    "size": 3938
+                },{
+                    "name": "ios",
+                    "size": 3938
+                },{
+                    "name": "android",
+                    "size": 3938
+                },{
+                    "name": "mac",
+                    "size": 3938
+                },{
+                    "name": "windows",
+                    "size": 3938
+                },{
+                    "name": "linux",
+                    "size": 3938
+                },{
+                    "name": "archlinux",
+                    "size": 3938
+                },{
+                    "name": "unix",
+                    "size": 3938
+                }]
+            }]
+        },{
+            "name": "csa",
+            "children" : [{
+                "name": "hacking",
+                "size": 3938
+            },{
+                "name": "robotics",
+                "size": 3938
+            },{
+                "name": "arvr",
+                "size": 3938
+            },{
+                "name": "iot",
+                "size": 3938
+            },{
+                "name": "compvision",
+                "size": 3938
+            },{
+                "name": "imgprocess",
+                "size": 3938
+            },{
+                "name": "datamine",
+                "size": 3938
+            },{
+                "name": "ml",
+                "children" : [{
+                    "name": "gen_ml",
+                    "size": 3938
+                },{
+                    "name": "ann",
+                    "size": 3938
+                },{
+                    "name": "dl",
+                    "size": 3938
+                }]
+            },{
+                "name": "ds",
+                "children" : [{
+                    "name": "gen_ds",
+                    "size": 3938
+                },{
+                    "name": "database",
+                    "size": 3938
+                },{
+                    "name": "dataset",
+                    "size": 3938
+                },{
+                    "name": "statistics",
+                    "size": 3938
+                },{
+                    "name": "rlang",
+                    "size": 3938
+                },{
+                    "name": "matlab",
+                    "size": 3938
+                },{
+                    "name": "ds_tool",
+                    "children" : [{
+                        "name": "scala",
+                        "size": 3938
+                    },{
+                        "name": "scikit",
+                        "size": 3938
+                    },{
+                        "name": "jupyternote",
+                        "size": 3938
+                    }]
+                },{
+                    "name": "kaggle",
+                    "size": 3938
+                },{
+                    "name": "datacleaning",
+                    "size": 3938
+                },{
+                    "name": "nlp",
+                    "size": 3938
+                }]
+            },{
+                "name": "de",
+                "children" : [{
+                    "name": "database",
+                    "size": 3938
+                },{
+                    "name": "bigdata",
+                    "children" : [{
+                        "name": "gen_bigdata",
+                        "size": 3938
+                    },{
+                        "name": "spark",
+                        "size": 3938
+                    },{
+                        "name": "hadoop",
+                        "size": 3938
+                    }]
+                }]
+            },{
+                "name": "data_visn",
+                "children" : [{
+                    "name": "gen_datavis",
+                    "size": 3938
+                },{
+                    "name": "tableau",
+                    "size": 3938
+                },{
+                    "name": "excel",
+                    "size": 3938
+                }]
+            },{
+                "name": "ai",
+                "size": 3938
+            }]
+        }]
+    },{
+        "name": "prog",
+        "children" : [{
+            "name": "gen_prog",
+            "size": 3938
+        },{
+            "name": "devpract",
+            "size": 3938
+        },{
+            "name": "api",
+            "size": 3938
+        },{
+            "name": "gamedev",
+            "size": 3938
+        },{
+            "name": "codingchlg",
+            "size": 3938
+        },{
+            "name": "opensrc",
+            "size": 3938
+        },{
+            "name": "freesoft",
+            "size": 3938
+        },{
+            "name": "lng_n_frmwrk",
+            "children" : [{
+                "name": "lng",
+                "children" : [{
+                    "name": "proglng",
+                    "size": 3938
+                },{
+                    "name": "plt",
+                    "size": 3938
+                },{
+                    "name": "asm",
+                    "size": 3938
+                },{
+                    "name": "c",
+                    "size": 3938
+                },{
+                    "name": "cpp",
+                    "size": 3938
+                },{
+                    "name": "golang",
+                    "size": 3938
+                },{
+                    "name": "python",
+                    "size": 3938
+                },{
+                    "name": "scala",
+                    "size": 3938
+                },{
+                    "name": "elixir",
+                    "size": 3938
+                },{
+                    "name": "elm",
+                    "size": 3938
+                },{
+                    "name": "erlang",
+                    "size": 3938
+                },{
+                    "name": "fortran",
+                    "size": 3938
+                },{
+                    "name": "haskell",
+                    "size": 3938
+                },{
+                    "name": "java",
+                    "size": 3938
+                },{
+                    "name": "js",
+                    "size": 3938
+                },{
+                    "name": "lisp",
+                    "size": 3938
+                },{
+                    "name": "perl",
+                    "size": 3938
+                },{
+                    "name": "php",
+                    "size": 3938
+                },{
+                    "name": "ruby",
+                    "size": 3938
+                },{
+                    "name": "rust",
+                    "size": 3938
+                },{
+                    "name": "dotnet",
+                    "size": 3938
+                },{
+                    "name": "kotlin",
+                    "size": 3938
+                },{
+                    "name": "html",
+                    "size": 3938
+                },{
+                    "name": "css",
+                    "size": 3938
+                }]
+            },{
+                "name": "frmwrk",
+                "children" : [{
+                    "name": "ror",
+                    "size": 3938
+                },{
+                    "name": "django",
+                    "size": 3938
+                },{
+                    "name": "reactjs",
+                    "size": 3938
+                },{
+                    "name": "nodejs",
+                    "size": 3938
+                }]
+            }]
+        },{
+            "name": "appdev",
+            "children" : [{
+                "name": "gen_appdev",
+                "size": 3938
+            },{
+                "name": "iosdev",
+                "size": 3938
+            },{
+                "name": "androiddev",
+                "size": 3938
+            }]
+        },{
+            "name": "devops",
+            "children" : [{
+                "name": "gen_devops",
+                "size": 3938
+            },{
+                "name": "aws",
+                "size": 3938
+            },{
+                "name": "azure",
+                "size": 3938
+            },{
+                "name": "k8s",
+                "size": 3938
+            },{
+                "name": "docker",
+                "size": 3938
+            },{
+                "name": "gcp",
+                "size": 3938
+            }]
+        },{
+            "name": "security",
+            "children" : [{
+                "name": "infosec",
+                "size": 3938
+            },{
+                "name": "compsec",
+                "size": 3938
+            },{
+                "name": "websec",
+                "size": 3938
+            },{
+                "name": "privacy",
+                "size": 3938
+            },{
+                "name": "crypto_cse",
+                "size": 3938
+            }]
+        },{
+            "name": "prog_tools",
+            "children" : [{
+                "name": "git",
+                "size": 3938
+            },{
+                "name": "virtualn",
+                "size": 3938
+            },{
+                "name": "browser",
+                "size": 3938
+            },{
+                "name": "aws",
+                "size": 3938
+            },{
+                "name": "azure",
+                "size": 3938
+            },{
+                "name": "k8s",
+                "size": 3938
+            },{
+                "name": "docker",
+                "size": 3938
+            },{
+                "name": "gcp",
+                "size": 3938
+            },{
+                "name": "txt_edit",
+                "children" : [{
+                    "name": "editor",
+                    "size": 3938
+                },{
+                    "name": "vim",
+                    "size": 3938
+                },{
+                    "name": "emacs",
+                    "size": 3938
+                }]
+            }]
+        },{
+            "name": "design",
+            "children" : [{
+                "name": "graphix",
+                "size": 3938
+            },{
+                "name": "compgphix",
+                "size": 3938
+            },{
+                "name": "webdes",
+                "size": 3938
+            },{
+                "name": "ui",
+                "size": 3938
+            },{
+                "name": "ux",
+                "size": 3938
+            }]
+        },{
+            "name": "database",
+            "size": 3938
+        },{
+            "name": "webd",
+            "size": 3938
+        },{
+            "name": "sdt",
+            "size": 3938
+        },{
+            "name": "system",
+            "size": 3938
+        },{
+            "name": "prog_query",
+            "size": 3938
+        }]
+    },{
+        "name": "career",
+        "children" : [{
+            "name": "jobs",
+            "size": 3938
+        },{
+            "name": "carr_query",
+            "size": 3938
+        },{
+            "name": "interviewprep",
+            "size": 3938
+        },{
+            "name": "interviewexp",
+            "size": 3938
+        },{
+            "name": "codingchlg",
+            "size": 3938
+        }]
+    },{
+        "name": "social",
+        "children" : [{
+            "name": "technews",
+            "size": 3938
+        },{
+            "name": "tech_discuss",
+            "size": 3938
+        },{
+            "name": "tech_query",
+            "size": 3938
+        },{
+            "name": "community",
+            "size": 3938
+        },{
+            "name": "person",
+            "size": 3938
+        },{
+            "name": "tech_blog",
+            "size": 3938
+        },{
+            "name": "tech_law",
+            "size": 3938
+        },{
+            "name": "cogsci",
+            "size": 3938
+        },{
+            "name": "torrent",
+            "size": 3938
+        },{
+            "name": "read_n_write",
+            "children" : [{
+                "name": "book",
+                "size": 3938
+            },{
+                "name": "write",
+                "size": 3938
+            },{
+                "name": "phil",
+                "size": 3938
+            },{
+                "name": "history",
+                "size": 3938
+            }]
+        }]
+    },{
+        "name": "business",
+        "children" : [{
+            "name": "gen_business",
+            "size": 3938
+        },{
+            "name": "startup",
+            "size": 3938
+        },{
+            "name": "freelance",
+            "size": 3938
+        },{
+            "name": "saas",
+            "size": 3938
+        },{
+            "name": "sideproj",
+            "size": 3938
+        },{
+            "name": "market",
+            "size": 3938
+        },{
+            "name": "seo",
+            "size": 3938
+        },{
+            "name": "opensrc",
+            "size": 3938
+        }]
+    },{
+        "name": "sme",
+        "children" : [{
+            "name": "science",
+            "children" : [{
+                "name": "gen_science",
+                "size": 3938
+            },{
+                "name": "sci_query",
+                "size": 3938
+            },{
+                "name": "chemistry",
+                "size": 3938
+            },{
+                "name": "biology",
+                "size": 3938
+            },{
+                "name": "medicine",
+                "size": 3938
+            },{
+                "name": "neuroscience",
+                "size": 3938
+            },{
+                "name": "geology",
+                "size": 3938
+            },{
+                "name": "env",
+                "size": 3938
+            },{
+                "name": "health",
+                "size": 3938
+            },{
+                "name": "physics",
+                "children" : [{
+                    "name": "gen_physics",
+                    "size": 3938
+                },{
+                    "name": "astro",
+                    "size": 3938
+                },{
+                    "name": "quantum",
+                    "size": 3938
+                },{
+                    "name": "nuclear",
+                    "size": 3938
+                },{
+                    "name": "fluid_mech",
+                    "size": 3938
+                }]
+            }]
+        },{
+            "name": "engg",
+            "children" : [{
+                "name": "gen_engg",
+                "size": 3938
+            },{
+                "name": "engg_ece",
+                "size": 3938
+            },{
+                "name": "engg_electric",
+                "size": 3938
+            },{
+                "name": "engg_query",
+                "size": 3938
+            },{
+                "name": "engg_mech",
+                "size": 3938
+            },{
+                "name": "engg_student",
+                "size": 3938
+            },{
+                "name": "rocket",
+                "size": 3938
+            },{
+                "name": "engg_struct",
+                "size": 3938
+            },{
+                "name": "robotics",
+                "size": 3938
+            },{
+                "name": "threedprint",
+                "size": 3938
+            }]
+        },{
+            "name": "maths",
+            "children" : [{
+                "name": "gen_maths",
+                "size": 3938
+            },{
+                "name": "calculus",
+                "size": 3938
+            },{
+                "name": "algebra",
+                "size": 3938
+            },{
+                "name": "gametheory",
+                "size": 3938
+            },{
+                "name": "graphtheory",
+                "size": 3938
+            },{
+                "name": "logic",
+                "size": 3938
+            },{
+                "name": "disco",
+                "size": 3938
+            },{
+                "name": "statistics",
+                "size": 3938
+            },{
+                "name": "crypto_cse",
+                "size": 3938
+            }]
+        }]
+    },{
+        "name": "fin_eco",
+        "children" : [{
+            "name": "economics",
+            "size": 3938
+        },{
+            "name": "finance",
+            "size": 3938
+        },{
+            "name": "accounting",
+            "size": 3938
+        },{
+            "name": "invest",
+            "size": 3938
+        },{
+            "name": "blockchain",
+            "children" : [{
+                "name": "gen_blockchain",
+                "size": 3938
+            },{
+                "name": "crypto_fin",
+                "size": 3938
+            },{
+                "name": "bitcoin",
+                "size": 3938
+            }]
+        }]
+    }]
+}

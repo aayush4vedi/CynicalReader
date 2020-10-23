@@ -1,7 +1,7 @@
 """Logged-in page routes"""
-from flask import Blueprint, render_template, request, redirect, url_for, flash
+from flask import Blueprint, render_template, request, redirect, url_for, flash, jsonify
 from flask_login import current_user, login_required, logout_user
-from .forms import (MailSampleNewsletterForm, LoginForm,PrepaymentForm,UpdateAccountForm, TreeForm)
+from .forms import (MailSampleNewsletterForm, LoginForm,PrepaymentForm,UpdateAccountForm)
 from .models import db, User
 import csv
 import json
@@ -169,106 +169,72 @@ def logout():
 #         body='404 Page-I am stunned!'
 #     )
 
-
-# ====================== UNUSED TREE POCs :START =======================
-
-@main_bp.route("/treepoc", methods=['GET', 'POST'])
-def treepoc():
-    ''' Demo for tree '''
-    form = TreeForm()
-    if form.validate_on_submit():
-        print("----------->>>>> form data: {}".format(form.nodes.data))
-        flash('Submitted Tree', 'success')
-    return render_template(
-        'treepoc.html', 
-        title='POC Tree',
-        body="Tree Page POC",
-        form=form
-    )
-
-# create a helper class for each tree node
-class Node(object):
-    # generate new node
-    def __init__(self, cluster):
-        self.cluster = cluster
-        self.children = []
-
-    # append a child node to parent (self)
-    def child(self, child_cluster):
-        # check if child already exists in parent
-        child_found = [c for c in self.children if c.cluster == child_cluster]
-        if not child_found:
-            # if it is a new child, create new node for this child
-            _child = Node(child_cluster)
-            # append new child node to parent's children list
-            self.children.append(_child)
-        else:
-            # if the same, save this child
-            _child = child_found[0]
-        # return child object for later add
-        return _child
-
-    # convert the whole object to dict
-    def as_dict(self):
-        res = {'cluster': self.cluster}
-        res['children'] = [c.as_dict() for c in self.children]
-        return res
-
- 
-@main_bp.route("/treeverti")
-def treeverti():
-    ''' Trying to represent tree '''
-
-    with open("treedata.json") as f:
-        data = json.load(f)
-    
-    # print(">>>>>>> from flask: \n")
-    # print(json.dumps(data, indent=4))
-
-    return render_template(
-        'treeverti.html', 
-        title='Tree Repr-Vertical',
-        body="Tree Repr POC-Vertical",
-        data = data
-    )
-
-# NOTE: My Favourite yet.Karna toh yehi hai boss
-
-@main_bp.route("/treehori")
-def treehori():
-    ''' Trying to represent tree '''
-
-    with open("treedata2.json") as f:
-        data = json.load(f)
-    
-    # print(">>>>>>> from flask: \n")
-    # print(json.dumps(data, indent=4))
-
-    return render_template(
-        'tree2.html', 
-        title='Tree Repr-Horizontal',
-        body="Tree Repr POC-Horizontal",
-        data = data,
-        MAX_ALLOWED_NODES = 4
-    )
-
-# ====================== UNUSED TREE POCs :END =======================
-
+#================================ Tree POC:START
 @main_bp.route("/tree")
-def tree():
+def treepoc():
+    ''' Trying to represent tree '''
 
-    with open("treedata2.json") as f:
+    with open("treeSchema.json") as f:
         data = json.load(f)
     
     # print(">>>>>>> from flask: \n")
     # print(json.dumps(data, indent=4))
 
+    existing_user_selections = ['technews', 'tech_query', 'tech_law','database']
+    unselectable_nodes = ["root","cse","prog","career","social","business","sme","fin_eco"]
+
     return render_template(
-        'tree.html', 
-        title='Tree Repr-Horizontal',
-        body="Tree Repr POC-Horizontal",
-        data = data
+        'tree-poc.html', 
+        title='Tree Repr',
+        body="Tree Repr POC",
+        data = data,
+        unselectable_nodes=unselectable_nodes,
+        existing_user_selections = existing_user_selections,
+        MAX_ALLOWED_NODES = 6
     )
 
 
+@main_bp.route("/treesubmit", methods=['GET','POST'])
+def treesubmit():
+    print("user selected topics: ",request.get_json())
+    return "OKKK"
 
+#================================ Tree POC:END
+
+#============================== ACTUALLY USED CODE
+@main_bp.route("/updatepref" , methods=['GET','POST'])
+@login_required
+def updatepref():
+    ''' Update user preference for topic '''
+    if request.method == 'POST':
+        ## POST: update prefrences
+        print("user selected topics: ",request.get_json())
+        try:
+            selected_topics_list = request.get_json()
+            selected_topics_list = ','.join(selected_topics_list['selectedTopics']) #list to string
+            current_user.selected_topics = selected_topics_list
+            db.session.commit()
+            print("===> current_user.selected_topics: ",current_user.selected_topics)
+            # return redirect(url_for('main_bp.account')) #not working
+            return jsonify({'message': 'preference updated successfully'})
+        except Exception as e:
+            return jsonify(error={'message': str(e)}), 200
+
+    unselectable_nodes = ["root","cse","prog","career","social","business","sme","fin_eco"]
+    with open("treeSchema.json") as f:
+        treeSchema = json.load(f)
+    existing_user_selections = list(filter(None,current_user.selected_topics.split(','))) # the string to list; list & filter used to remove empty '' values
+    MAX_ALLOWED_NODES = 4
+    if current_user.subscription_plan == 'PREMIUM':
+        MAX_ALLOWED_NODES = 999
+
+    return render_template(
+        'nodeselection.html', 
+        title='Preferences',
+        body="Node Selection Here",
+        data = treeSchema,
+        unselectable_nodes=unselectable_nodes,
+        existing_user_selections = existing_user_selections,
+        MAX_ALLOWED_NODES = MAX_ALLOWED_NODES
+    )
+        

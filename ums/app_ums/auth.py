@@ -86,13 +86,14 @@ def signup():
                 user.set_password(data['password'])
                 db.session.add(user)
                 db.session.commit()  # Create new user
+                print("user created: {}".format(user))
                 # flash('Welcome aboard.Your account has been created!', 'success')
                 # Create a new customer object-Stripe
                 customer = stripe.Customer.create(
                     email=data['email'],
                     address={"city":"mumbai","country":"india","line1":"unr","line2":"thane","postal_code":"421005","state":"maharashtra"},
                 )
-                print("stripe customer created: {}".format(customer))
+                print("stripe customer created for the user: {}".format(customer))
                 login_user(user)
                 return jsonify(
                     customer=customer,
