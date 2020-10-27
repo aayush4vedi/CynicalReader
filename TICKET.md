@@ -473,10 +473,45 @@
     * NOTE: Use d3.js for bar-graph(something like this: https://github.com/sgratzl/d3tutorial) & not chart.js
     * Keep it as simple as: https://somewordsfor.me/
     * NOTE: select a cynicism-based font+UI stype & make it your identity
-  * [] Code it up
-    * [] Refactor blueprints into user & tree?
-    * [] Single point to change nodes(ums+papyrus)
-    * [] When a parent node is checked; auto check its children OR change its color & children color to tell user that you're getting all
+* **Back-end**
+- [-] Learn d3.js quickly & make the tree & popi graph
+      - Fix Tree Visually
+         - [x] Align tree in center
+         - [x] Close cousin nodes on click
+         - [x] Fix oversizing issue
+      - Fix Checkboxes
+         - [x] Store checked status after node closing
+         - [x] Auto select child nodes - for Frontend
+         - [x] Keep count & give diff color to nodes user has selected
+         - [x] Reset button for userselected nodes
+         - [x] Apply limit on #nodes selection
+         - [x] Implement Node Path Search bar
+         - [@] Make box width dynamic => Not RN
+
+      - Production ready changes
+         - [x] Feed my tree data in json
+         - [x] (#2)Topic preference form submit for user => FIXMEE: uncheck boxes & checking default preferences not working!!!!!!!!
+         - [0] UNABLE TO FIX: instant color fill on checking a box
+         - [x] (#3) Add button in UserSelectedTopics list in UI for unselecting it
+         - [x] Remove zooming in tree-its damn confusing
+         - [x] (#4)Make some nodes unselectable & show in UI
+         - [x] (#5)Duplicate IDs for nodes; do I need to replace id with class for nodes => Not reqd as of now
+         - [x] (#6) Integrate with UMS-post signup & dashboard
+
+  
+* **Front-end**
+  * RESOURCES:
+    * HomePage Template: html5:spectral -> https://html5up.net/uploads/demos/spectral/index.html#
+    * Color Inspiration: [sigma](http://preview.themeforest.net/item/sigma-app-showcase-html-template/full_screen_preview/21180270?clickid=SgoR3xxWGxyLUAZwUx0Mo3QWUkExml05qwFQUM0&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius)
+    * Registration form: https://codepen.io/FlorinPop17/pen/vPKWjd
+  - [x] (#1) Figure out drawing & sketching style
+  - [x] (#7) Final sketch of Diogenese
+  - [] Draw the 6 images
+  - [-] (#8) Code up Frontend all the pages-with dummy links
+  - [] Refactor ums-backend for correct page layout(spill up -> stripe integration):basic UI
+
+
+
 
 
 * **To Ponder**
