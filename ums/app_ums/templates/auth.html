@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='global.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ url_for('static', filename='normalize.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block content %}
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="{{ url_for('static', filename='js/stripe-jsfiles.js') }}"></script>
+
+  <!-- Page Wrapper:HOMEPAGE -->
+  <div id="page-wrapper">
+    <div class="registration">
+        <!-- Header:NAV BAR -->
+        <header id="header">
+          <div class="row">
+              <div class="col-9 col-6-medium col-6-small">
+                  <h1><a href="index.html">Cynical News</a></h1>
+              </div>
+              <div class="col-3 col-5-medium col-5-small">
+                  <ul class="actions small">
+                      {% if current_user.is_authenticated %}
+                          <ul class="actions special">
+                              <li><a href="#" class="button primary small header-btn">Dashboard</a></li>
+                              <li><a href="#" class="white-btn button small header-btn" id="sign-in-btn">Logout</a></li>
+                          </ul>
+                      {% else %}
+                          <ul class="actions special">
+                              <li><a href="{{ url_for('main_bp.pricing') }}" class="button primary small header-btn">Buy</a></li>
+                              <li><a href="{{ url_for('auth_bp.signin') }}" class="white-btn button small header-btn" id="sign-in-btn">Login</a></li>
+                          </ul>
+                      {% endif %}
+                  </ul>
+                  <nav id="nav">
+                    <ul>
+                        <li class="special">
+                            <a href="#menu" class="menuToggle"><span></span></a>
+                            <div id="menu">
+                                <ul>
+                                    <li><a href="{{ url_for('main_bp.landing') }}">Home</a></li>
+                                    {% if current_user.is_authenticated %}
+                                        <li><a href="#">Dashboard</a></li>
+                                        <li><a href="#">Log Out</a></li>
+                                    {% else %}
+                                        <li><a href="{{ url_for('auth_bp.signin') }}">Sign In</a></li>
+                                        <li><a href="#">View Free Demo</a></li>
+                                    {% endif %}
+                                    <li><a href="{{ url_for('main_bp.pricing') }}">Pricing</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                      </ul>
+                  </nav>
+              </div>
+          </div>
+        </header>
+            <!-- Registration Form -->
+            <div class="registration">
+                <div class="registration_container" id="registration_container">
+                    <p id="form_title" style="display: none;">{{title}}</p>
+                    <div class="form-container sign-up-container" id="sign-up-container"> 
+                        <form id="signup-form">
+                            <input type="hidden" name="csrf_token" id="signup_csrf_token" value="{{ csrf_token() }}" />
+                            <h1>Create Account</h1>
+                            <span>Enter the following</span>
+                            <input type="text" id="signup_name" placeholder="Name" required />
+                            <input type="email" id="signup_email" placeholder="Email" required/>
+                            <input type="password" id="signup_password" placeholder="Password" required />
+                            <br>
+                            <button href="#" id="email-submit" class="button primary small" type="submit">
+                            <div id="loading" class="hidden">Signing up...</div>
+                            <span id="button-text">Sign up</span> 
+                        </form>
+                    </div>
+                    <div class="form-container sign-in-container" id="sign-in-container"> 
+                        <div id="sing-in-form">
+                            <form id="signin-form">
+                                <input type="hidden" name="csrf_token" id="signin_csrf_token" value="{{ csrf_token() }}" />
+                                <h1>Sign in</h1>
+                                <span>Enter the following</span>
+                                <input type="email" id="signin_email" placeholder="Email" required />
+                                <input type="password"id="signin_password"  placeholder="Password" required/>
+                                <br>
+                                <a id="forgot-pwd-a">Forgot your password?</a>
+                                <br>
+                                <button type="submit" id="signin-btn" class="button primary small">Sign In</button>
+                            </form>
+                        </div>
+                        <div id="forgot-pwd-form" class="hidden">
+                            <form id="forgetpwd-form">
+                                <input type="hidden" name="csrf_token" id="forgetpwd_csrf_token" value="{{ csrf_token() }}" />
+                                <br>
+                                <br>
+                                <br>
+                                <h1>Forgot Password</h1>
+                                <span>Enter your registered mail</span>
+                                <input type="email" id="forgetpwd_email" placeholder="Email" required />
+                                <br>
+                                <a id="back-to-login-form-a">Back to login?</a>
+                                <br>
+                                <button type="submit" id="forgetpwd-btn" class="button primary small">Submit</button>
+                                <br>
+                                <p>You have been sent a mail with instruction for password resetting!</p>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="overlay-container">
+                        <div class="overlay">
+                            <div class="overlay-panel overlay-left" id="overlay-with-signin">
+                                <h1 class="white-text">Welcome Back!</h1>
+                                <p class="white-text">To keep connected with us please login with your personal info</p>
+                                <br>
+                                <a class="white-text">Already registered?</a>
+                                <button class="button primary small ghost" id="signIn">Sign In</button>
+                            </div>
+                            <div class="overlay-panel overlay-right" id="overlay-with-signup">
+                                <h1 class="white-text">Hello, Friend!</h1>
+                                <p class="white-text">Enter your personal details and start journey with us</p>
+                                <br>
+                                <a class="white-text">Don't have an account yet?</a>
+                                <button class="button primary small ghost" id="signUp">Sign Up</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+                <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+                <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+            </ul>
+        </footer>
+
+{% endblock %}

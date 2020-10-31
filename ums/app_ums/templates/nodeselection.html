@@ -125,13 +125,17 @@
     <br>
     <input type="hidden" name="csrf_token" id="csrf_token" value="{{ csrf_token() }}" />
     <div>
-        <div class="container">
+        <div class="container" style="overflow-y: scroll; overflow-x: auto; height:500px; width: auto; border: 2px solid black;">
+            <div style="position: fixed; margin-top: 0;">
+                <h2>Selected Topics</h2>
+                <div id="null_select_err"></div>
+                <div id="user-select"></div>
+            </div>
             <div id="body" style="display: flex;justify-content: center;"></div>
         </div>
-        <h2>Selected Topics</h2>
+        <!-- <h2>Selected Topics</h2>
         <div id="null_select_err"></div>
-        <div id="user-select">
-        </div>
+        <div id="user-select"></div> -->
     </div>
     <!-- <hr>
     <h2>Bottom</h2> -->
@@ -738,17 +742,10 @@
                             "selectedTopics": userSelectedTopics
                         })
                     })
-                    // .then((response) => {
-                    //     console.log(">>>>>response : ",response.json());
-                    //     if (response == "preference updated successfully"){
-                    //         window.location.href = '/dashboard'
-                    //     }
-                    // });
                     .then((response) => {
                         return response.json();
                     })
                     .then((result) => {
-                        console.log(">>>>>result.msg : ",result.message);
                         if (result.message == "preference updated successfully"){
                             window.location.href = '/dashboard'
                         }else{

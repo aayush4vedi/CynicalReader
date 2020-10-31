@@ -17,7 +17,6 @@ STRIPE_SECRET_KEY = 'sk_test_51HdkIZF7UiqhzjejXAHfHx1ahnVJCA4E0TN4mmV2Y1nhooN0Hu
 
 stripe.api_key = STRIPE_SECRET_KEY
 
-
 # Blueprint Configuration
 auth_bp = Blueprint(
     'auth_bp', __name__,
@@ -26,42 +25,6 @@ auth_bp = Blueprint(
 )
 
 
-# @auth_bp.route('/signup', methods=['GET', 'POST'])
-# def signup():
-#     """
-#     User sign-up page.
-#     GET requests serve sign-up page.
-#     POST requests validate form & user creation.
-#     """
-#     # Bypass if user is logged in
-#     if current_user.is_authenticated:
-#         return redirect(url_for('main_bp.dashboard')) 
-
-#     form = SignupForm()
-#     if form.validate_on_submit():
-#         existing_user = User.query.filter_by(email=form.email.data).first()
-#         if existing_user is None:
-#             user = User(
-#                 name=form.name.data,
-#                 email=form.email.data,
-#                 subscription_plan=form.subscription_plan.data
-#             )
-#             user.set_password(form.password.data)
-#             db.session.add(user)
-#             db.session.commit()  # Create new user
-#             print("----->> user created: {}\n\t\t....................loggin in now....................\n".format(user))
-#             flash('Welcome aboard.Your account has been created!', 'success')
-#             login_user(user)  # Log in as newly created user
-#             return redirect(url_for('main_bp.signupconfirm'))
-#         flash('A user already exists with that email address.')
-#     return render_template(
-#         'signup.html',
-#         title='SignUp',
-#         form=form,
-#         # template='signup-page',
-#         body="First sign up to create account with us"
-#     )
-
 @auth_bp.route('/signup', methods=['GET', 'POST'])
 def signup():
     """
@@ -69,7 +32,6 @@ def signup():
     GET requests serve sign-up page.
     POST requests creates a stripe user & a user in my users.db
     """
-    # Bypass if user is logged in
     if current_user.is_authenticated:
         return redirect(url_for('main_bp.dashboard')) 
     if flask.request.method == 'POST':
@@ -87,7 +49,6 @@ def signup():
                 db.session.add(user)
                 db.session.commit()  # Create new user
                 print("user created: {}".format(user))
-                # flash('Welcome aboard.Your account has been created!', 'success')
                 # Create a new customer object-Stripe
                 customer = stripe.Customer.create(
                     email=data['email'],
@@ -104,58 +65,63 @@ def signup():
             return jsonify(error=str(e)), 403
     else:
         return render_template(
-            'signup-stripe.html',
-            title='SignUp',
-            body="First sign up to create account with us"
+            'auth.html',
+            title='SignUp'
         )
     
-@auth_bp.route('/login', methods=['GET', 'POST'])
-def login():
+@auth_bp.route('/signin', methods=['GET', 'POST'])
+def signin():
     """
     Log-in page for registered users.
     GET requests serve Log-in page.
     POST requests validate and redirect user to dashboard.
     """
+    print("\t inside signin; method: {}".format(request.method ))
     # Bypass if user is logged in
     if current_user.is_authenticated:
         return redirect(url_for('main_bp.dashboard'))  
-
-    form = LoginForm()
-    # Validate login attempt
-    if form.validate_on_submit():
-        user = User.query.filter_by(email=form.email.data).first()  
-        if user and user.check_password(password=form.password.data):
-            login_user(user)
-            next_page = request.args.get('next')
-            #TODO: if user.paid is false; redirect to prepayment page
-            return redirect(next_page or url_for('main_bp.dashboard'))
-        else:
-            flash('Login Unsuccessful. Please check email and password', 'danger')
-        # return redirect(url_for('auth_bp.login'))
+    if request.method == 'POST':
+        data = json.loads(request.data)
+        print("--> request.data: {}".format(request.data))
+        try:
+            user = User.query.filter_by(email=data['email']).first()
+            if user and user.check_password(password=data['password']): 
+                login_user(user)
+                next_page = request.args.get('next')
+                #TODO: if user.paid is false; redirect to prepayment page
+                # return redirect(next_page or url_for('main_bp.dashboard'))
+                print("yayyyyyyy .....user found: \t{} \n\t -----> loggin you in now".format(user))
+                return jsonify({'message': 'user logged in successfully'})
+        except Exception as e:
+            print("xxxxxxx ERR: ",e)
+            return jsonify(error={'message': str(e)}), 200
     return render_template(
-        'login.html',
-        form=form,
-        title='Log in.',
-        # template='login-page',
-        body="Log in with your User account"
+        'auth.html',
+        title='SignIn'
     )
 
-@auth_bp.route("/resetpwd", methods=['GET', 'POST'])
+@auth_bp.route("/forgetpwd", methods=['POST'])
 def forgetpwd():
-    if current_user.is_authenticated:
-        return redirect(url_for('main_bp.dashboard'))  
-    form = ForgetPasswordForm()
-    if form.validate_on_submit():
-        user = User.query.filter_by(email=form.email.data).first()
-        send_reset_email(user)
-        print("\t\t...... email sent .............")
-        flash('An email has been sent with instructions to reset your password.', 'info')
-        return redirect(url_for('auth_bp.login'))
+    data = json.loads(request.data)
+    print("--> request.data: {}".format(request.data))
+    try:
+        user = User.query.filter_by(email=data['email']).first()
+        if user: 
+            send_reset_email(user)
+            print("yayyyyyyy .....user found: \t{} \n\t -----> loggin you in now".format(user))
+            return jsonify({'message': 'user found and mail sent'})
+        else:
+            return jsonify({'message': 'user not found'})
+    except Exception as e:
+        print("xxxxxxx ERR: ",e)
+        return jsonify(error={'message': str(e)}), 200
+
+@auth_bp.route("/forgetpwdprocess/<status>", methods=['GET'])
+def forgetpwdprocess(status):
     return render_template(
-        'forgetpwd.html', 
+        'forgetpwdprocess.html', 
         title='Forget Password', 
-        form=form,
-        body="Forget Password Form"
+        status=status
     )
 
 
@@ -164,22 +130,25 @@ def resetpwd(token):
     if current_user.is_authenticated:
         return redirect(url_for('main_bp.dashboard'))  
     user = User.verify_reset_token(token)
+    print("==========>>> token: {}".format(token))
     print("==========>>> user: {}".format(user))
     if user is None:
         flash('That is an invalid or expired token.Please try again', 'warning')
         return redirect(url_for('auth_bp.forgetpwd'))
-    form = ResetPasswordForm()
-    if form.validate_on_submit():
-        user.set_password(form.password.data)
-        db.session.commit()
-        flash('Your password has been updated! You are now able to log in', 'success')
-        return redirect(url_for('auth_bp.login'))
-    return render_template(
-        'resetpwd.html', 
-        title='Reset Password', 
-        form=form,
-        body="Reset Password Form"
-    )
+    if request.method == 'POST':
+        data = json.loads(request.data)
+        print("--> request.data: {}".format(request.data))
+        try:
+            user.set_password(data['password'])
+            return jsonify({'message': 'user password updated successfully'})
+        except Exception as e:
+            print("xxxxxxx ERR: ",e)
+            return jsonify(error={'message': str(e)}), 200
+    else:
+        return render_template(
+            'resetpwd.html', 
+            title='Reset Password'
+        )
 
 
 
@@ -197,7 +166,7 @@ def load_user(user_id):
 def unauthorized():
     """Redirect unauthorized users to Login page."""
     flash('You must be logged in to view that page.')
-    return redirect(url_for('auth_bp.login'))
+    return redirect(url_for('auth_bp.signin'))
 
 
 
@@ -280,7 +249,7 @@ def get_config():
 def prices(customerId):
     print("sent customerId = ",customerId)
     return render_template(
-        'prices-stripe.html', 
+        'pricing_authed.html', 
         title='Show Prices', 
         customerId = customerId,
         # form=form,

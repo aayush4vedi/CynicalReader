@@ -381,6 +381,8 @@
     * Noshit!
     * BetterHackerNews
     * BetterNews
+    * SoozeNooz
+    * GreedyReader
   * [x] Finalize format of Newletter
     * Rendering iframe in mail:
       * [If you expect that client will render content inside your IFrame it very likely not to happen due to security restrictions in mail clients](https://stackoverflow.com/questions/12650060/how-to-send-a-iframe-in-email-body)
@@ -497,8 +499,6 @@
          - [x] (#4)Make some nodes unselectable & show in UI
          - [x] (#5)Duplicate IDs for nodes; do I need to replace id with class for nodes => Not reqd as of now
          - [x] (#6) Integrate with UMS-post signup & dashboard
-
-  
 * **Front-end**
   * RESOURCES:
     * HomePage Template: html5:spectral -> https://html5up.net/uploads/demos/spectral/index.html#
@@ -509,6 +509,59 @@
   - [] Draw the 6 images
   - [-] (#8) Code up Frontend all the pages-with dummy links
   - [] Refactor ums-backend for correct page layout(spill up -> stripe integration):basic UI
+
+
+## [Ticket7]: Have a launchable MVP after this step (28Oct20- <10Nov20>) :: taget time is 2 weeks
+* **Papyrus**
+  * [] Fix scraping & all related issues, as written below
+  * [] Where to host store these dbs
+  * [] UI & format of newsletter + its email template
+  * [] Get Actual Model ready
+* **UMS**
+  * [] Finish up the 6 sketches & add on website page
+  * [-] Link up flask with newly added pages
+    * [x] PHASE I- just integration
+      * [x] landing page
+      * pricing: 
+         * [x] pricing_guest
+         * [?] pricing_auth: make it more like stripe page, integrate stripe
+      * [x] signup & login -(done separately because signup is powered by stripe & login is just py ums; also animation is a suxx) 
+      * [x] resetpwd => TODO: flash for err msgs
+      * [x]
+      *  TreeView Section(to be used on dashboard & demo pages) => Just put a iframe for now
+      * [] dashboard: show a pop-up or something if user hasnt paid => TODO: integrate tree, stripe acc wala & newsletter
+      * [] demo page => TODO#1: finish up tree-page first & add email section.TODO#2: when papyrus+ nl_service is ready, add functionality for mailing here
+      * [x] Payment : integrate pricing_auth with stripe's `/prices`
+
+    * [] PHASE II - Finish the full page(links, flow, images, UI)
+       *  [] navbar on auth pages & resetpwd is not in sync
+       *  [] stripe like processing... on all form buttons after click for better UX
+       *  [] sending just a msg in post response for forms is a very hackable thing, see how it could be done in prod
+       *  [] correct (prod ready) title of pages
+       *  [] Proper handling of csrf token
+       *  [] input validation(non null, correct type & scripting-free) + error msgs in all forms 
+       * [?] singup: what to do about user address
+       *  [] signin : animate the forget-pwd part from bottom to top
+       *  [] forget-pwd email setup
+       *  [] resizing all pages for small, med & large sizes(mobile/tab friendly)
+  * [] Make page for user payment dashboard, account, preferences, about & others
+  * [] Add coupon code method on payment page
+  * [] Host it up! (with domain & db)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -533,7 +586,7 @@
       * [] @reddit: what about the new subreddits being added?
   
 * **Refactoring**
-  * [] Add panning & search box in tree(UI) ;like this: https://gist.github.com/adamfeuer/a8950c5197fe491f13969a03100159d5  
+  * [x] Add panning & search box in tree(UI) ;like this: https://gist.github.com/adamfeuer/a8950c5197fe491f13969a03100159d5  
 * **Backend**:
   * [] MakeActual Tagger Model
   * [] Refactor the backend
@@ -550,4 +603,13 @@
   * [] Upadte damping factor in PopI calculation
 
 
-## [Ticket6] : FuckinLaunch(~~<21Aug20>~~) (?-?)
+## [Ticket7] : FuckinLaunch(~~<21Aug20>~~) (?-?)
+  * **Marketing Strategy**
+    * (to be done immediately after MVP)
+    * Inspiration: https://www.youtube.com/watch?v=7jmi_-3aDss&ab_channel=lemlist
+    * First send it on all bitsmail ids, people of some companies, people using article sites(get their email ids with various tools/chrome extensions available)
+      * Maybe send them a freemium model OR some coupon code(`BITSMAGIC50`) for better response
+      * Get first 5-10 customers from it
+    * Refactor/rethink/upgrade the saas
+    * Launh on article/product sites
+    * Think further

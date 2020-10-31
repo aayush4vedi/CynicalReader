@@ -272,10 +272,10 @@ function confirmPriceChange() {
 }
 
 function createCustomer() {
-  let email = document.querySelector('#email').value;
-  let username = document.querySelector('#name').value;
-  let password = document.querySelector('#password').value;
-  let csrf_token = document.querySelector('#csrf_token').value;
+  let email = document.querySelector('#signup_email').value;
+  let username = document.querySelector('#signup_name').value;
+  let password = document.querySelector('#signup_password').value;
+  let csrf_token = document.querySelector('#signup_csrf_token').value;
 
   let reqbody = JSON.stringify({
         email: email,
@@ -290,9 +290,9 @@ function createCustomer() {
             'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-        email: email,
-        name: username,
-        password: password
+          email: email,
+          name: username,
+          password: password
         }),
     })  
     .then((response) => {
@@ -654,6 +654,7 @@ function getFormattedAmount(amount) {
   function getCustomersPaymentMethod() {
     // let params = new URLSearchParams(document.location.search.substring(1));
     // let paymentMethodId = params.get('paymentMethodId');
+    let paymentMethodId;
     // alert("subscriptionId:"+subscriptionId);    //NOTE: already set in account-stripe initial script.TODO: remove this hack
     if (paymentMethodId) {
       retrieveCustomerPaymentMethod(paymentMethodId).then(function (response) {

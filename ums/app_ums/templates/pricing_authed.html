@@ -1,0 +1,176 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+    <!-- Page Wrapper:HOMEPAGE -->
+    <div id="page-wrapper">
+        <!-- Header:NAV BAR -->
+        <header id="header">
+            <div class="row">
+                <div class="col-9 col-6-medium col-6-small">
+                    <h1><a href="index.html">Cynical News</a></h1>
+                </div>
+                <div class="col-3 col-5-medium col-5-small">
+                    <ul class="actions small">
+                        {% if current_user.is_authenticated %}
+                            <ul class="actions special">
+                                <li><a href="#" class="button primary small header-btn">Dashboard</a></li>
+                                <li><a href="#" class="white-btn button small header-btn" id="sign-in-btn">Logout</a></li>
+                            </ul>
+                        {% else %}
+                            <ul class="actions special">
+                                <li><a href="{{ url_for('main_bp.pricing') }}" class="button primary small header-btn">Buy</a></li>
+                                <li><a href="{{ url_for('auth_bp.signin') }}" class="white-btn button small header-btn" id="sign-in-btn">Login</a></li>
+                            </ul>
+                        {% endif %}
+                    </ul>
+                    <nav id="nav">
+                        <ul>
+                            <li class="special">
+                                <a href="#menu" class="menuToggle"><span></span></a>
+                                <div id="menu">
+                                    <ul>
+                                        <li><a href="{{ url_for('main_bp.landing') }}">Home</a></li>
+                                        {% if current_user.is_authenticated %}
+                                            <li><a href="#">Dashboard</a></li>
+                                            <li><a href="#">Log Out</a></li>
+                                        {% else %}
+                                            <li><a href="{{ url_for('auth_bp.signin') }}">Sign In</a></li>
+                                            <li><a href="#">View Free Demo</a></li>
+                                        {% endif %}
+                                        <li><a href="{{ url_for('main_bp.pricing') }}">Pricing</a></li>
+                                        <li><a href="#">About</a></li>
+                                        <li><a href="#">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+            <!--  Scripts for stripe. Order is important -->
+            <script src="https://js.stripe.com/v3/"></script>
+            <script src="{{ url_for('static', filename='js/stripe-jsfiles.js') }}"></script>
+
+            <!-- Pricing Page -->
+            <div class="pricing">
+                <div id="prices-form" class="row pricing_row">
+                    <h1 class="amount">Choose Your Plan</h1>
+                    <div class="col-6">
+                        <div id="basic" class="basic-plan pricing_container">
+                            <h2 class="pricing-header">Basic</h2>
+                            <ul class="pricing-features">
+                                <li class="pricing-features-item">4 Topics</li>
+                                <li class="pricing-features-item">Multiple workers for powerful apps</li>
+                            </ul>
+                            <h1 class="amount">$ <span class="strikethrough"> 8</span> 5</h1>
+                            <div class="pricing-p">
+                                <p >Per Month</p>
+                                <p >Billed Monthly</p>
+                                <p >Cancel Anytime</p>
+                            </div>
+                            <button id="submit-basic" onClick="goToPaymentPage('basic')" class="cool-white-btn button pricing-btn" type="submit">
+                                <div
+                                    id="submit-basic-button-text"
+                                    class="w-auto -mx-2 md:mx-0"
+                                >
+                                    Select
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                    <!-- PLAN-2 -->
+                    <div class="col-6">
+                        <div id="premium" class="pricing_container premium-plan">
+                            <h2 class="pricing-header">Premium</h2>
+                            <ul class="pricing-features">
+                                <li class="pricing-features-item">Unlimited Topics</li>
+                                <li class="pricing-features-item">Multiple workers for powerful apps</li>
+                            </ul>
+                            <h1 class="amount">$ <span class="strikethrough"> 18</span> 15</h1>
+                            <div class="pricing-p">
+                                <p >Per Month</p>
+                                <p >Billed Monthly</p>
+                                <p >Cancel Anytime</p>
+                            </div>
+                            <button id="submit-premium" onClick="goToPaymentPage('premium')"type="submit" class="pricing-btn button primary" >
+                                <div
+                                    id="submit-premium-button-text"
+                                    class="w-auto -mx-2 md:mx-0"
+                                >
+                                    Select
+                            </button>
+                        </div>
+                    </div>
+                    <!-- CARD DETAIS: -->
+                    <!-- Only if user is logged in -->
+                    <div class="col-12">
+                        <div class="hidden pricing_container card_details" id="payment-form">
+                            <h1>Enter your card details.</h1>
+                            <span>Your subscription will start now.</span>
+                            <p class="text-gray-700 text-base">
+                                → Total due now <span id="total-due-now">$0.00</span>
+                            </p>
+                            <p id="price-selected"></p>
+                            <label for="grid-first-name">
+                            Full Name
+                            </label>
+                            <input id="name" type="text" placeholder="First and last name" required/>
+                            <input type="hidden" name="csrf_token" id="csrf_token" value="{{ csrf_token() }}" />
+                            <input type="hidden" name="customerId" id="customerId" value="{{ customerId }}" />
+
+                            <form id="payment-form">
+                                <input type="hidden" name="csrf_token" id="csrf_token" value="{{ csrf_token() }}" />
+                                <div class="w-full">
+                                    <label for="grid-first-name">Card</label>
+                                    <div id="card-element" class="w-80 focus:outline-none focus:bg-white" style="border: 1px solid black;"></div>
+                                    <div id="card-element-errors" role="alert"></div>
+                                </div>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <h2>Hi</h2>
+                                <button id="submit-premium" type="submit" class="button primary small">
+                                    <div class="">
+                                        <div id="loading" class="hidden">Subscribing...</div>
+                                        <span id="button-text" class="">Subscribe</span>
+                                    </div>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- BUTTON: View More+ Demo -->
+                    <div class="col-12 pricing_extra">
+                        <ul class="actions special">
+                            <li><a href="#" class="white-btn button">Learn More</a></li>
+                            <li><a href="#" class="white-btn button">Get Free Demo</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div> 
+
+
+
+            
+        <!-- Footer -->
+            <footer id="footer">
+                <ul class="icons">
+                    <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                    <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+                    <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                </ul>
+            </footer>
+
+    </div>
+
+{% endblock %}

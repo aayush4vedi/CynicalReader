@@ -16,13 +16,14 @@ main_bp = Blueprint(
 ''' -------------------------- Non-authentication requied paths -------------------------- '''
 
 @main_bp.route('/', methods=['GET'])
-def home():
+def landing():
     return render_template(
-        'home.html',
+        'landing.html',
         title='Home Page',
-        body='Welcome to CynicalNews'
+        template = 'landing is-preload'        #just write it! needed for css of main page
     )
 
+#TODO:
 @main_bp.route('/demo', methods=['GET', 'POST'])
 def demo():
     '''
@@ -48,42 +49,19 @@ def demo():
 
 @main_bp.route('/pricing', methods=['GET'])
 def pricing():
-    return render_template(
-        'pricing.html',
-        title='Pricing Page',
-        body='Pricing Page'
-    )
-
-@main_bp.route('/sample1', methods=['GET'])
-def sample1():
-    return render_template(
-        'sample1.html',
-        title='Sample One',
-        body='Sample NL for Plan 1'
-    )
-
-@main_bp.route('/sample2', methods=['GET'])
-def sample2():
-    return render_template(
-        'sample2.html',
-        title='Sample Two',
-        body='Sample NL for Plan 2'
-    )
-
-
+    #TODO: redirect to dashboard if already paid for the month: https://stripe.com/docs/api/subscriptions/object
+    if current_user.is_authenticated:
+        return render_template(
+            'pricing_authed.html',
+            title='Pricing'
+        )
+    else:
+        return render_template(
+            'pricing_guest.html',
+            title='Pricing'
+        )
 
 ''' -------------------------- Authentication requied paths -------------------------- '''
-
-@main_bp.route('/signupconfirm', methods=['GET'])
-@login_required
-def signupconfirm():
-    return render_template(
-        'signupconfirm.html',
-        title='SignUp Confirmation',
-        # template='dashboard-template',      # for css class
-        current_user=current_user,
-        body="Sign Up Successful"
-    )
 
 @main_bp.route('/prepayment', methods=['GET','POST'])
 @login_required
@@ -158,7 +136,7 @@ def account():
 def logout():
     """User log-out logic."""
     logout_user()
-    return redirect(url_for('auth_bp.login'))
+    return redirect(url_for('auth_bp.signin'))
 
 
 # @main_bp.errorhandler(404)
@@ -170,34 +148,34 @@ def logout():
 #     )
 
 #================================ Tree POC:START
-@main_bp.route("/tree")
-def treepoc():
-    ''' Trying to represent tree '''
+# @main_bp.route("/tree")
+# def treepoc():
+#     ''' Trying to represent tree '''
 
-    with open("treeSchema.json") as f:
-        data = json.load(f)
+#     with open("treeSchema.json") as f:
+#         data = json.load(f)
     
-    # print(">>>>>>> from flask: \n")
-    # print(json.dumps(data, indent=4))
+#     # print(">>>>>>> from flask: \n")
+#     # print(json.dumps(data, indent=4))
 
-    existing_user_selections = ['technews', 'tech_query', 'tech_law','database']
-    unselectable_nodes = ["root","cse","prog","career","social","business","sme","fin_eco"]
+#     existing_user_selections = ['technews', 'tech_query', 'tech_law','database']
+#     unselectable_nodes = ["root","cse","prog","career","social","business","sme","fin_eco"]
 
-    return render_template(
-        'tree-poc.html', 
-        title='Tree Repr',
-        body="Tree Repr POC",
-        data = data,
-        unselectable_nodes=unselectable_nodes,
-        existing_user_selections = existing_user_selections,
-        MAX_ALLOWED_NODES = 6
-    )
+#     return render_template(
+#         'tree-poc.html', 
+#         title='Tree Repr',
+#         body="Tree Repr POC",
+#         data = data,
+#         unselectable_nodes=unselectable_nodes,
+#         existing_user_selections = existing_user_selections,
+#         MAX_ALLOWED_NODES = 6
+#     )
 
 
-@main_bp.route("/treesubmit", methods=['GET','POST'])
-def treesubmit():
-    print("user selected topics: ",request.get_json())
-    return "OKKK"
+# @main_bp.route("/treesubmit", methods=['GET','POST'])
+# def treesubmit():
+#     print("user selected topics: ",request.get_json())
+#     return "OKKK"
 
 #================================ Tree POC:END
 

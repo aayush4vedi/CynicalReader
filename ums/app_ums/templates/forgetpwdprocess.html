@@ -6,11 +6,9 @@
 {% endblock %}
 
 {% block content %}
-  <script src="https://js.stripe.com/v3/"></script>
-  <script src="{{ url_for('static', filename='js/stripe-jsfiles.js') }}"></script>
 
-  <!-- Page Wrapper:HOMEPAGE -->
-  <div id="page-wrapper">
+<!-- Page Wrapper:HOMEPAGE -->
+<div id="page-wrapper">
     <div class="registration">
         <!-- Header:NAV BAR -->
         <header id="header">
@@ -57,23 +55,35 @@
               </div>
           </div>
         </header>
-        <div class="pwd_reset">
-            <div class="pwd_reset_container" id="pwd_reset_container">
-                <form id="resetpwd-form">
-                    <input type="hidden" name="csrf_token" id="reset_csrf_token" value="{{ csrf_token() }}" />
-                    <h1>Password Reset</h1>
-                    <span>Create new password</span>
-                    <input type="password" id="reset_password" placeholder="Password" />
-                    <input type="password" id="reset_password_confirm" placeholder="Confirm Password" />
-                    <br>
-                    <div id="reset_err_msg"></div>
-                    <button type="submit" id="resetpwd-btn" class="button primary small">Update</button>
-                    <br>
-                    <a href="{{ url_for('auth_bp.signin') }}">Go Back To Signin</a>
-                </form>
+            <!-- Registration Form -->
+            <div class="registration">
+                <div class="registration_container" id="registration_container">
+                    <p id="form_title" style="display: none;">{{title}}</p>
+                    <div class="form-container forgetpwd-process-container" id="forgetpwd-process-container">
+                        {% if status == 'success' %} 
+                            <h2>Success</h2>
+                            <p>You have been sent a mail with instruction for password resetting!</p>
+                        {% else %}
+                            <h2>Something went wrong</h2>
+                            <p>The Email was not found! Please retry or SignUp</p>
+                        {% endif %}
+                    </div>
+                    <div class="overlay-container">
+                        <div class="overlay">
+                            <div class="overlay-panel overlay-right">
+                                <h1 class="white-text">Hello, Friend!</h1>
+                                <p class="white-text">Enter your personal details and start journey with us</p>
+                                <br>
+                                <ul class="actions stacked">
+                                    <li><button class="button primary small ghost" id="signUp-redirect"><a class = "white-text" href="{{ url_for('auth_bp.signup') }}">Sign Up</button></li>
+                                    <li><button class="button primary small ghost" id="signIn-redirect"><a class = "white-text" href="{{ url_for('auth_bp.signin') }}">Sign In</button></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
     <!-- Footer -->
     <footer id="footer">
         <ul class="icons">

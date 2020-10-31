@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+
+{#
+{% block pagestyles %}
+<link href="{{ url_for('static', filename='dist/css/home.css') }}" rel="stylesheet" type="text/css">
+{% endblock %}
+#}
+
+{% block content %}
+
+    <!-- Page Wrapper:HOMEPAGE -->
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <div class="row">
+                <div class="col-9 col-6-medium col-6-small">
+                    <h1><a href="index.html">Cynical News</a></h1>
+                </div>
+                <div class="col-3 col-5-medium col-5-small">
+                    <ul class="actions small">
+                        {% if current_user.is_authenticated %}
+                            <ul class="actions special">
+                                <li><a href="#" class="button primary small header-btn">Dashboard</a></li>
+                                <li><a href="#" class="white-btn button small header-btn" id="sign-in-btn">Logout</a></li>
+                            </ul>
+                        {% else %}
+                            <ul class="actions special">
+                                <li><a href="{{ url_for('main_bp.pricing') }}" class="button primary small header-btn">Buy</a></li>
+                                <li><a href="{{ url_for('auth_bp.signin') }}" class="white-btn button small header-btn" id="sign-in-btn">Login</a></li>
+                            </ul>
+                        {% endif %}
+                    </ul>
+                    <nav id="nav">
+                        <ul>
+                            <li class="special">
+                                <a href="#menu" class="menuToggle"><span></span></a>
+                                <div id="menu">
+                                    <ul>
+                                        <li><a href="{{ url_for('main_bp.landing') }}">Home</a></li>
+                                        {% if current_user.is_authenticated %}
+                                            <li><a href="#">Dashboard</a></li>
+                                            <li><a href="#">Log Out</a></li>
+                                        {% else %}
+                                            <li><a href="{{ url_for('auth_bp.signin') }}">Sign In</a></li>
+                                            <li><a href="#">View Free Demo</a></li>
+                                        {% endif %}
+                                        <li><a href="{{ url_for('main_bp.pricing') }}">Pricing</a></li>
+                                        <li><a href="#">About</a></li>
+                                        <li><a href="#">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- Banner -->
+            <section id="banner">
+                <div class="inner">
+                    <h2>Cynical News</h2>
+                    <p>Some content put here<br />
+                        Some content put here<br />
+                    crafted by <a href="http://html5up.net">HTML5 UP</a>.</p>
+                    {% if current_user.is_authenticated %}
+                        <ul class="actions special">
+                            <li><a href="#" class="button primary">Go to dashboard</a></li>
+                        </ul>
+                    {% else %}
+                        <ul class="actions special">
+                            <li><a href="#" class="button primary">Buy Now</a></li>
+                            <li><a href="#" class="white-btn button">View Free Demo</a></li>
+                        </ul>
+                    {% endif %}
+                </div>
+                <a href="#one" class="more scrolly"> < tl;dr > </a>
+            </section>
+
+            <section id="two" class="wrapper alt style2">
+                <section class="spotlight">
+                    <div class="image"><img src="static/images/dummy-img.png" alt="" /></div><div class="content">
+                        <h2>Magna primis lobortis<br />
+                        sed ullamcorper</h2>
+                        <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+                    </div>
+                </section>
+                <section class="spotlight">
+                    <div class="image"><img src="static/images/dummy-img.png" alt="" /></div><div class="content">
+                        <h2>Tortor dolore feugiat<br />
+                        elementum magna</h2>
+                        <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+                    </div>
+                </section>
+                <section class="spotlight">
+                    <div class="image"><img src="static/images/dummy-img.png" alt="" /></div><div class="content">
+                        <h2>Augue eleifend aliquet<br />
+                        sed condimentum</h2>
+                        <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+                    </div>
+                </section>
+            </section>
+
+            <!-- CTA -->
+            <section class="wrapper style4">
+                <hr class="hr-new"/>
+                <div class="inner">
+                    <div class="row">
+                        <div class="col-8">
+                            <header>
+                                <h2>Arcue ut vel commodo</h2>
+                                <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+                            </header>
+                            <div class="row">
+                                <div class="col-6">
+                                    <ul class="actions special">
+                                        <li><a href="#" class="white-btn button">Learn More</a></li>
+                                        <li><a href="#" class="white-btn button">See Pricing</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <ul class="actions stacked">
+                                <li><a href="#" class="white-btn button fit">View Free Demo</a></li>
+                                <li><a href="#" class="white-btn button fit">Check Pricing</a></li>
+                                <li><a href="#" class="button fit primary">Buy Now</a></li>
+                            </ul>
+                        </div>
+                        <div class="col1"></div>
+                    </div>
+                </div>
+            </section>
+
+        <!-- Footer -->
+            <footer id="footer">
+                <ul class="icons">
+                    <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                    <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+                    <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                </ul>
+            </footer>
+
+    </div>
+
+{% endblock %}

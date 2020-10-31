@@ -3,20 +3,28 @@
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <title>{{ title }}</title>
+  <title>Cynical News-{{ title }}</title>
   <!-- <link rel="shortcut icon" href="{{ url_for('static', filename='dist/img/favicon.png') }}" type="image/x-icon"/> -->
-  <meta name="twitter:title" content="{{ title }}"/>
+  <meta name="title" content="{{ title }}"/>
+  <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet" type="text/css">
   {% block pagestyles %}{% endblock %}
 </head>
 
 <body class="{{ template }}">
-<div class="container">
-  <a href="{{ url_for('main_bp.home') }}">Home</a>
-  <hr>
+  
   {% block content %}{% endblock %}
-</div>
-<script src="{{ url_for('static', filename='dist/js/main.min.js') }}"></script>
-{% block additionalscripts %}{% endblock %}
+  
+  
+  <!-- Scripts -->
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery.scrollex.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery.scrolly.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/browser.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/breakpoints.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/util.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    {% block additionalscripts %}{% endblock %}
 </body>
 
 </html>
